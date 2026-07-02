@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-01",
   "name": "Damping",
   "subject": "physics",
+  "summary": "Damping is a fundamental concept in physics.",
   "definition": "Damping is a fundamental concept in physics.",
   "explanation": "Learn about Damping and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "damping"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

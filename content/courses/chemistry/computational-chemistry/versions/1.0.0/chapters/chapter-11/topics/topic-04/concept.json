@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-11.topic-04",
   "name": "Battery Materials",
   "subject": "chemistry",
+  "summary": "Battery Materials is a fundamental concept in chemistry.",
   "definition": "Battery Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Battery Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "battery-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

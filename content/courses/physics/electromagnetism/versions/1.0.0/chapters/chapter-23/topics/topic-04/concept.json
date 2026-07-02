@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-23.topic-04",
   "name": "Multimeter",
   "subject": "physics",
+  "summary": "Multimeter is a fundamental concept in physics.",
   "definition": "Multimeter is a fundamental concept in physics.",
   "explanation": "Learn about Multimeter and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "multimeter"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

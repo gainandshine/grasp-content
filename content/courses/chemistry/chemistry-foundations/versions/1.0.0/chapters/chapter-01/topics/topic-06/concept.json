@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-01.topic-06",
   "name": "Chemical Changes",
   "subject": "chemistry",
+  "summary": "Chemical Changes is a fundamental concept in chemistry.",
   "definition": "Chemical Changes is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Changes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-changes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

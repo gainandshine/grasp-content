@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-07.topic-02",
   "name": "Constructive Interference",
   "subject": "physics",
+  "summary": "Constructive Interference is a fundamental concept in physics.",
   "definition": "Constructive Interference is a fundamental concept in physics.",
   "explanation": "Learn about Constructive Interference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "constructive-interference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

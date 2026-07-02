@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-10.topic-03",
   "name": "Motion Along a Line",
   "subject": "mathematics",
+  "summary": "Motion Along a Line is a fundamental concept in mathematics.",
   "definition": "Motion Along a Line is a fundamental concept in mathematics.",
   "explanation": "Learn about Motion Along a Line and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "motion-along-a-line"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

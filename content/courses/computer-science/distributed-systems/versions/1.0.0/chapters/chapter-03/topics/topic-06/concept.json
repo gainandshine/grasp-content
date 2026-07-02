@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-03.topic-06",
   "name": "Clock Synchronization",
   "subject": "computer-science",
+  "summary": "Clock Synchronization is a fundamental concept in computer-science.",
   "definition": "Clock Synchronization is a fundamental concept in computer-science.",
   "explanation": "Learn about Clock Synchronization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "clock-synchronization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

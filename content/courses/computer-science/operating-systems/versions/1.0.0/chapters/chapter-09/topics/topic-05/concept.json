@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-09.topic-05",
   "name": "DMA",
   "subject": "computer-science",
+  "summary": "DMA is a fundamental concept in computer-science.",
   "definition": "DMA is a fundamental concept in computer-science.",
   "explanation": "Learn about DMA and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "dma"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

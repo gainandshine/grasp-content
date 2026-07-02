@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-09.topic-10",
   "name": "Gold",
   "subject": "chemistry",
+  "summary": "Gold is a fundamental concept in chemistry.",
   "definition": "Gold is a fundamental concept in chemistry.",
   "explanation": "Learn about Gold and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "gold"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

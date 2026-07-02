@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-02.topic-01",
   "name": "Frequency Tables",
   "subject": "mathematics",
+  "summary": "Frequency Tables is a fundamental concept in mathematics.",
   "definition": "Frequency Tables is a fundamental concept in mathematics.",
   "explanation": "Learn about Frequency Tables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "frequency-tables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

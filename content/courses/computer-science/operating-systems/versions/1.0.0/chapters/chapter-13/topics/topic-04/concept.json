@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-13.topic-04",
   "name": "Embedded Systems",
   "subject": "computer-science",
+  "summary": "Embedded Systems is a fundamental concept in computer-science.",
   "definition": "Embedded Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Embedded Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "embedded-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-02.topic-01",
   "name": "Hybridization of Carbon",
   "subject": "chemistry",
+  "summary": "Hybridization of Carbon is a fundamental concept in chemistry.",
   "definition": "Hybridization of Carbon is a fundamental concept in chemistry.",
   "explanation": "Learn about Hybridization of Carbon and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hybridization-of-carbon"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

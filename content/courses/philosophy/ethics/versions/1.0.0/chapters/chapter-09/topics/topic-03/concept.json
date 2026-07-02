@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-09.topic-03",
   "name": "Animal Ethics",
   "subject": "philosophy",
+  "summary": "Animal Ethics is a fundamental concept in philosophy.",
   "definition": "Animal Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Animal Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "animal-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

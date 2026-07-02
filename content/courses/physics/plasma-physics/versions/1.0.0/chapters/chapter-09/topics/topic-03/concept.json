@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-09.topic-03",
   "name": "Aurora",
   "subject": "physics",
+  "summary": "Aurora is a fundamental concept in physics.",
   "definition": "Aurora is a fundamental concept in physics.",
   "explanation": "Learn about Aurora and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "aurora"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

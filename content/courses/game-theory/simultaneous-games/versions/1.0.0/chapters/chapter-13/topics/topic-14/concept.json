@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-13.topic-14",
   "name": "Credible Threats",
   "subject": "game-theory",
+  "summary": "Credible Threats is a fundamental concept in game-theory.",
   "definition": "Credible Threats is a fundamental concept in game-theory.",
   "explanation": "Learn about Credible Threats and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "credible-threats"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

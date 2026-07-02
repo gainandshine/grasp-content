@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-03.topic-03",
   "name": "Turning Points",
   "subject": "mathematics",
+  "summary": "Turning Points is a fundamental concept in mathematics.",
   "definition": "Turning Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Turning Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "turning-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

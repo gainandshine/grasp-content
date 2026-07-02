@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-03.topic-03",
   "name": "Social Costs",
   "subject": "economics",
+  "summary": "Social Costs is a fundamental concept in economics.",
   "definition": "Social Costs is a fundamental concept in economics.",
   "explanation": "Learn about Social Costs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "social-costs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

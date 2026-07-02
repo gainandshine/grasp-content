@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-10.topic-03",
   "name": "Lasers",
   "subject": "chemistry",
+  "summary": "Lasers is a fundamental concept in chemistry.",
   "definition": "Lasers is a fundamental concept in chemistry.",
   "explanation": "Learn about Lasers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "lasers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

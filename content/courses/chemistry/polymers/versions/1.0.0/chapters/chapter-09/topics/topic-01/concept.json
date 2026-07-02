@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-09.topic-01",
   "name": "Conductive Polymers",
   "subject": "chemistry",
+  "summary": "Conductive Polymers is a fundamental concept in chemistry.",
   "definition": "Conductive Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Conductive Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "conductive-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

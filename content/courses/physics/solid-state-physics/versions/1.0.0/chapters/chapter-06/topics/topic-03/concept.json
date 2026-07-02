@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-06.topic-03",
   "name": "Conduction Band",
   "subject": "physics",
+  "summary": "Conduction Band is a fundamental concept in physics.",
   "definition": "Conduction Band is a fundamental concept in physics.",
   "explanation": "Learn about Conduction Band and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "conduction-band"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

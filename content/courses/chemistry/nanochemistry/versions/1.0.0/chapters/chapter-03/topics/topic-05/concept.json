@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-03.topic-05",
   "name": "Graphene",
   "subject": "chemistry",
+  "summary": "Graphene is a fundamental concept in chemistry.",
   "definition": "Graphene is a fundamental concept in chemistry.",
   "explanation": "Learn about Graphene and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "graphene"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

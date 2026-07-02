@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-04.topic-01",
   "name": "Stack ADT",
   "subject": "computer-science",
+  "summary": "Stack ADT is a fundamental concept in computer-science.",
   "definition": "Stack ADT is a fundamental concept in computer-science.",
   "explanation": "Learn about Stack ADT and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "stack-adt"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

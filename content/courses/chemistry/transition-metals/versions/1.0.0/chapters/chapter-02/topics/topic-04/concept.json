@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-02.topic-04",
   "name": "Exceptions in Electron Configuration",
   "subject": "chemistry",
+  "summary": "Exceptions in Electron Configuration is a fundamental concept in chemistry.",
   "definition": "Exceptions in Electron Configuration is a fundamental concept in chemistry.",
   "explanation": "Learn about Exceptions in Electron Configuration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "exceptions-in-electron-configuration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

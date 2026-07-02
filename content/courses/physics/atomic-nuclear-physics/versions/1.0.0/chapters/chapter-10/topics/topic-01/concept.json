@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-10.topic-01",
   "name": "Geiger-Müller Counter",
   "subject": "physics",
+  "summary": "Geiger-Müller Counter is a fundamental concept in physics.",
   "definition": "Geiger-Müller Counter is a fundamental concept in physics.",
   "explanation": "Learn about Geiger-Müller Counter and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "geiger-mller-counter"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

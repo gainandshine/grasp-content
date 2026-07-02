@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-09.topic-03",
   "name": "Electrochemical Corrosion",
   "subject": "chemistry",
+  "summary": "Electrochemical Corrosion is a fundamental concept in chemistry.",
   "definition": "Electrochemical Corrosion is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrochemical Corrosion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrochemical-corrosion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-01.topic-07",
   "name": "Branches of Economics",
   "subject": "economics",
+  "summary": "Branches of Economics is a fundamental concept in economics.",
   "definition": "Branches of Economics is a fundamental concept in economics.",
   "explanation": "Learn about Branches of Economics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "branches-of-economics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-09.topic-03",
   "name": "Ordinary Points",
   "subject": "mathematics",
+  "summary": "Ordinary Points is a fundamental concept in mathematics.",
   "definition": "Ordinary Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Ordinary Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "ordinary-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-10.topic-05",
   "name": "Biosensors",
   "subject": "chemistry",
+  "summary": "Biosensors is a fundamental concept in chemistry.",
   "definition": "Biosensors is a fundamental concept in chemistry.",
   "explanation": "Learn about Biosensors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biosensors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

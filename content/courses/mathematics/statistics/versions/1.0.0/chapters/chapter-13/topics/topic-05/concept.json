@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-13.topic-05",
   "name": "Forecasting Basics",
   "subject": "mathematics",
+  "summary": "Forecasting Basics is a fundamental concept in mathematics.",
   "definition": "Forecasting Basics is a fundamental concept in mathematics.",
   "explanation": "Learn about Forecasting Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "forecasting-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

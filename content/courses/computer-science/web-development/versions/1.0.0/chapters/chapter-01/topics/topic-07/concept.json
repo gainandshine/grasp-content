@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-01.topic-07",
   "name": "Domain Names",
   "subject": "computer-science",
+  "summary": "Domain Names is a fundamental concept in computer-science.",
   "definition": "Domain Names is a fundamental concept in computer-science.",
   "explanation": "Learn about Domain Names and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "domain-names"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

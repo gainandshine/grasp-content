@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-07.topic-04",
   "name": "Carbocations",
   "subject": "chemistry",
+  "summary": "Carbocations is a fundamental concept in chemistry.",
   "definition": "Carbocations is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbocations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbocations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

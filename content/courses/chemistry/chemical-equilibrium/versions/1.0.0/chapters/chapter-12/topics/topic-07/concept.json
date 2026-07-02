@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-07",
   "name": "Acid-Base Theories",
   "subject": "chemistry",
+  "summary": "Acid-Base Theories is a fundamental concept in chemistry.",
   "definition": "Acid-Base Theories is a fundamental concept in chemistry.",
   "explanation": "Learn about Acid-Base Theories and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "acid-base-theories"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-02.topic-03",
   "name": "Oxygen Cycle",
   "subject": "chemistry",
+  "summary": "Oxygen Cycle is a fundamental concept in chemistry.",
   "definition": "Oxygen Cycle is a fundamental concept in chemistry.",
   "explanation": "Learn about Oxygen Cycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oxygen-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

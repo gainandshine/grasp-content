@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-02.topic-06",
   "name": "Mirror Equation",
   "subject": "physics",
+  "summary": "Mirror Equation is a fundamental concept in physics.",
   "definition": "Mirror Equation is a fundamental concept in physics.",
   "explanation": "Learn about Mirror Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mirror-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

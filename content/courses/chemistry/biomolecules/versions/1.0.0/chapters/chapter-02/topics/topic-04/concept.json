@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-02.topic-04",
   "name": "Polysaccharides",
   "subject": "chemistry",
+  "summary": "Polysaccharides is a fundamental concept in chemistry.",
   "definition": "Polysaccharides is a fundamental concept in chemistry.",
   "explanation": "Learn about Polysaccharides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "polysaccharides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

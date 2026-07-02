@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-03.topic-02",
   "name": "Nature of Time",
   "subject": "philosophy",
+  "summary": "Nature of Time is a fundamental concept in philosophy.",
   "definition": "Nature of Time is a fundamental concept in philosophy.",
   "explanation": "Learn about Nature of Time and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "nature-of-time"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

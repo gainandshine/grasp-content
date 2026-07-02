@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-03.topic-03",
   "name": "Intrusion Prevention Systems (IPS)",
   "subject": "computer-science",
+  "summary": "Intrusion Prevention Systems (IPS) is a fundamental concept in computer-science.",
   "definition": "Intrusion Prevention Systems (IPS) is a fundamental concept in computer-science.",
   "explanation": "Learn about Intrusion Prevention Systems (IPS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "intrusion-prevention-systems-ips"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

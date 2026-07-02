@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-03.topic-04",
   "name": "Sinking Bodies",
   "subject": "physics",
+  "summary": "Sinking Bodies is a fundamental concept in physics.",
   "definition": "Sinking Bodies is a fundamental concept in physics.",
   "explanation": "Learn about Sinking Bodies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "sinking-bodies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

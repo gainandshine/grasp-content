@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-12.topic-03",
   "name": "Slope (Introduction)",
   "subject": "mathematics",
+  "summary": "Slope (Introduction) is a fundamental concept in mathematics.",
   "definition": "Slope (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Slope (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "slope-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

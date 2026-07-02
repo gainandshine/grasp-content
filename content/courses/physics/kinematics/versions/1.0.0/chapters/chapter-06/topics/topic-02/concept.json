@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-06.topic-02",
   "name": "Horizontal Projection",
   "subject": "physics",
+  "summary": "Horizontal Projection is a fundamental concept in physics.",
   "definition": "Horizontal Projection is a fundamental concept in physics.",
   "explanation": "Learn about Horizontal Projection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "horizontal-projection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

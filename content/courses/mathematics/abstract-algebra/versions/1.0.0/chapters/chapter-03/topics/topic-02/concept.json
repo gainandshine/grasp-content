@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-03.topic-02",
   "name": "Isomorphisms",
   "subject": "mathematics",
+  "summary": "Isomorphisms is a fundamental concept in mathematics.",
   "definition": "Isomorphisms is a fundamental concept in mathematics.",
   "explanation": "Learn about Isomorphisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "isomorphisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

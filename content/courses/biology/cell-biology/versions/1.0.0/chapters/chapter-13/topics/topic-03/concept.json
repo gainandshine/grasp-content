@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-13.topic-03",
   "name": "Cell Migration",
   "subject": "biology",
+  "summary": "Cell Migration is a fundamental concept in biology.",
   "definition": "Cell Migration is a fundamental concept in biology.",
   "explanation": "Learn about Cell Migration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cell-migration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

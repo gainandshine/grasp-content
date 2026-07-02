@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-02.topic-04",
   "name": "Recursion Trees",
   "subject": "computer-science",
+  "summary": "Recursion Trees is a fundamental concept in computer-science.",
   "definition": "Recursion Trees is a fundamental concept in computer-science.",
   "explanation": "Learn about Recursion Trees and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "recursion-trees"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

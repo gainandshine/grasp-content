@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-13.topic-04",
   "name": "Artificial Intelligence in Mental Healthcare",
   "subject": "psychology",
+  "summary": "Artificial Intelligence in Mental Healthcare is a fundamental concept in psychology.",
   "definition": "Artificial Intelligence in Mental Healthcare is a fundamental concept in psychology.",
   "explanation": "Learn about Artificial Intelligence in Mental Healthcare and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "artificial-intelligence-in-mental-healthcare"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

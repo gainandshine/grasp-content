@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-13.topic-11",
   "name": "Reinforcement",
   "subject": "psychology",
+  "summary": "Reinforcement is a fundamental concept in psychology.",
   "definition": "Reinforcement is a fundamental concept in psychology.",
   "explanation": "Learn about Reinforcement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "reinforcement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-01.topic-02",
   "name": "Graphics Pipeline Overview",
   "subject": "computer-science",
+  "summary": "Graphics Pipeline Overview is a fundamental concept in computer-science.",
   "definition": "Graphics Pipeline Overview is a fundamental concept in computer-science.",
   "explanation": "Learn about Graphics Pipeline Overview and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "graphics-pipeline-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

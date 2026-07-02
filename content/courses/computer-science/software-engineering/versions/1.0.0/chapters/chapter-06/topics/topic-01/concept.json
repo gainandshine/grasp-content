@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-06.topic-01",
   "name": "Version Control Systems",
   "subject": "computer-science",
+  "summary": "Version Control Systems is a fundamental concept in computer-science.",
   "definition": "Version Control Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Version Control Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "version-control-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

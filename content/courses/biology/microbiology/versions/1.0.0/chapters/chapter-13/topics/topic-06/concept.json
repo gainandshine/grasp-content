@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-06",
   "name": "Emerging Microbial Technologies",
   "subject": "biology",
+  "summary": "Emerging Microbial Technologies is a fundamental concept in biology.",
   "definition": "Emerging Microbial Technologies is a fundamental concept in biology.",
   "explanation": "Learn about Emerging Microbial Technologies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "emerging-microbial-technologies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

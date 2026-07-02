@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-11.topic-04",
   "name": "Turbines",
   "subject": "physics",
+  "summary": "Turbines is a fundamental concept in physics.",
   "definition": "Turbines is a fundamental concept in physics.",
   "explanation": "Learn about Turbines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "turbines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

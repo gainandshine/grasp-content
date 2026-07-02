@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-01.topic-03",
   "name": "Radians",
   "subject": "mathematics",
+  "summary": "Radians is a fundamental concept in mathematics.",
   "definition": "Radians is a fundamental concept in mathematics.",
   "explanation": "Learn about Radians and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "radians"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

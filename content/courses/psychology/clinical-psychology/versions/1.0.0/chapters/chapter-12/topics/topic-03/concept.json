@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-12.topic-03",
   "name": "Schools",
   "subject": "psychology",
+  "summary": "Schools is a fundamental concept in psychology.",
   "definition": "Schools is a fundamental concept in psychology.",
   "explanation": "Learn about Schools and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "schools"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-10.topic-06",
   "name": "Backup Strategies",
   "subject": "computer-science",
+  "summary": "Backup Strategies is a fundamental concept in computer-science.",
   "definition": "Backup Strategies is a fundamental concept in computer-science.",
   "explanation": "Learn about Backup Strategies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "backup-strategies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

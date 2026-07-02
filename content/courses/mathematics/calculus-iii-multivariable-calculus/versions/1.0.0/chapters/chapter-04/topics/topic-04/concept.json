@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-04",
   "name": "Integrals",
   "subject": "mathematics",
+  "summary": "Integrals is a fundamental concept in mathematics.",
   "definition": "Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

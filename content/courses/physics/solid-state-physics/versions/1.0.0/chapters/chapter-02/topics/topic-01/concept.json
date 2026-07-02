@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-02.topic-01",
   "name": "Ionic Bonding",
   "subject": "physics",
+  "summary": "Ionic Bonding is a fundamental concept in physics.",
   "definition": "Ionic Bonding is a fundamental concept in physics.",
   "explanation": "Learn about Ionic Bonding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ionic-bonding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

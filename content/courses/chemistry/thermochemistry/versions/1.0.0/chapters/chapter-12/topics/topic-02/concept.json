@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-12.topic-02",
   "name": "Chemical Potential (Introduction)",
   "subject": "chemistry",
+  "summary": "Chemical Potential (Introduction) is a fundamental concept in chemistry.",
   "definition": "Chemical Potential (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Potential (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-potential-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

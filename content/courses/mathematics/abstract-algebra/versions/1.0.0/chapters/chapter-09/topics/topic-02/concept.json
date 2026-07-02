@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-09.topic-02",
   "name": "Polynomial Division",
   "subject": "mathematics",
+  "summary": "Polynomial Division is a fundamental concept in mathematics.",
   "definition": "Polynomial Division is a fundamental concept in mathematics.",
   "explanation": "Learn about Polynomial Division and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polynomial-division"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

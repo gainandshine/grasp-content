@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-06.topic-05",
   "name": "R/S Configuration",
   "subject": "chemistry",
+  "summary": "R/S Configuration is a fundamental concept in chemistry.",
   "definition": "R/S Configuration is a fundamental concept in chemistry.",
   "explanation": "Learn about R/S Configuration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "rs-configuration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

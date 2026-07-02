@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-13.topic-04",
   "name": "Semiconductor Physics",
   "subject": "physics",
+  "summary": "Semiconductor Physics is a fundamental concept in physics.",
   "definition": "Semiconductor Physics is a fundamental concept in physics.",
   "explanation": "Learn about Semiconductor Physics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "semiconductor-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

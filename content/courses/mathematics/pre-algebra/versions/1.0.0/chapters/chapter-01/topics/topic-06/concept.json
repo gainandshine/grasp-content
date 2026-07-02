@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-01.topic-06",
   "name": "Like & Unlike Terms",
   "subject": "mathematics",
+  "summary": "Like & Unlike Terms is a fundamental concept in mathematics.",
   "definition": "Like & Unlike Terms is a fundamental concept in mathematics.",
   "explanation": "Learn about Like & Unlike Terms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "like-unlike-terms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

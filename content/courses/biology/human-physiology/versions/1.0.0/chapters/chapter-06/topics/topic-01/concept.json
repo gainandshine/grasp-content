@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-06.topic-01",
   "name": "Digestion",
   "subject": "biology",
+  "summary": "Digestion is a fundamental concept in biology.",
   "definition": "Digestion is a fundamental concept in biology.",
   "explanation": "Learn about Digestion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "digestion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

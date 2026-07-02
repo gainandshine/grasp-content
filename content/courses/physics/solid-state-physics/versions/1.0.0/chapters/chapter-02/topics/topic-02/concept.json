@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-02.topic-02",
   "name": "Covalent Bonding",
   "subject": "physics",
+  "summary": "Covalent Bonding is a fundamental concept in physics.",
   "definition": "Covalent Bonding is a fundamental concept in physics.",
   "explanation": "Learn about Covalent Bonding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "covalent-bonding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

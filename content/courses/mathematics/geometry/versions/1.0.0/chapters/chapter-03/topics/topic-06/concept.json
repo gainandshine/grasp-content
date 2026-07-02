@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-03.topic-06",
   "name": "Alternate Exterior Angles",
   "subject": "mathematics",
+  "summary": "Alternate Exterior Angles is a fundamental concept in mathematics.",
   "definition": "Alternate Exterior Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Alternate Exterior Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "alternate-exterior-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

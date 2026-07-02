@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-03.topic-02",
   "name": "Alpha Decay",
   "subject": "chemistry",
+  "summary": "Alpha Decay is a fundamental concept in chemistry.",
   "definition": "Alpha Decay is a fundamental concept in chemistry.",
   "explanation": "Learn about Alpha Decay and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "alpha-decay"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

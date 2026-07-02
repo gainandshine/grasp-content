@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-06.topic-02",
   "name": "Accuracy",
   "subject": "computer-science",
+  "summary": "Accuracy is a fundamental concept in computer-science.",
   "definition": "Accuracy is a fundamental concept in computer-science.",
   "explanation": "Learn about Accuracy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "accuracy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

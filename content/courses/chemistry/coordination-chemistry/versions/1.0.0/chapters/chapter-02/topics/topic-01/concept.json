@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-02.topic-01",
   "name": "Monodentate Ligands",
   "subject": "chemistry",
+  "summary": "Monodentate Ligands is a fundamental concept in chemistry.",
   "definition": "Monodentate Ligands is a fundamental concept in chemistry.",
   "explanation": "Learn about Monodentate Ligands and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "monodentate-ligands"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

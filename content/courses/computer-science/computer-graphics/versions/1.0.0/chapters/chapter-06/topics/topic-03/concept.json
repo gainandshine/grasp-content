@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-06.topic-03",
   "name": "Primitive Assembly",
   "subject": "computer-science",
+  "summary": "Primitive Assembly is a fundamental concept in computer-science.",
   "definition": "Primitive Assembly is a fundamental concept in computer-science.",
   "explanation": "Learn about Primitive Assembly and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "primitive-assembly"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

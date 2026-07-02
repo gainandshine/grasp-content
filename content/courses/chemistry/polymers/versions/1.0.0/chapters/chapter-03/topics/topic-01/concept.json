@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-03.topic-01",
   "name": "Linear Polymers",
   "subject": "chemistry",
+  "summary": "Linear Polymers is a fundamental concept in chemistry.",
   "definition": "Linear Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Linear Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "linear-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

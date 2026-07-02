@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-08.topic-03",
   "name": "Large Populations",
   "subject": "game-theory",
+  "summary": "Large Populations is a fundamental concept in game-theory.",
   "definition": "Large Populations is a fundamental concept in game-theory.",
   "explanation": "Learn about Large Populations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "large-populations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

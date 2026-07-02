@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-01.topic-03",
   "name": "Choice",
   "subject": "economics",
+  "summary": "Choice is a fundamental concept in economics.",
   "definition": "Choice is a fundamental concept in economics.",
   "explanation": "Learn about Choice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "choice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

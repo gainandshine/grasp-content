@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-09.topic-06",
   "name": "Signal Transduction",
   "subject": "chemistry",
+  "summary": "Signal Transduction is a fundamental concept in chemistry.",
   "definition": "Signal Transduction is a fundamental concept in chemistry.",
   "explanation": "Learn about Signal Transduction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "signal-transduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

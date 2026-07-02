@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-03.topic-08",
   "name": "Negative Punishment",
   "subject": "psychology",
+  "summary": "Negative Punishment is a fundamental concept in psychology.",
   "definition": "Negative Punishment is a fundamental concept in psychology.",
   "explanation": "Learn about Negative Punishment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "negative-punishment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

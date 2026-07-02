@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-10.topic-04",
   "name": "Community Well-Being",
   "subject": "psychology",
+  "summary": "Community Well-Being is a fundamental concept in psychology.",
   "definition": "Community Well-Being is a fundamental concept in psychology.",
   "explanation": "Learn about Community Well-Being and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "community-well-being"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

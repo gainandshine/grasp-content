@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-11.topic-06",
   "name": "Union by Rank",
   "subject": "computer-science",
+  "summary": "Union by Rank is a fundamental concept in computer-science.",
   "definition": "Union by Rank is a fundamental concept in computer-science.",
   "explanation": "Learn about Union by Rank and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "union-by-rank"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

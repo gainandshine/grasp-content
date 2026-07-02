@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-12.topic-05",
   "name": "Scientific Inquiry",
   "subject": "philosophy",
+  "summary": "Scientific Inquiry is a fundamental concept in philosophy.",
   "definition": "Scientific Inquiry is a fundamental concept in philosophy.",
   "explanation": "Learn about Scientific Inquiry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "scientific-inquiry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-05.topic-03",
   "name": "Sol-Gel Process",
   "subject": "chemistry",
+  "summary": "Sol-Gel Process is a fundamental concept in chemistry.",
   "definition": "Sol-Gel Process is a fundamental concept in chemistry.",
   "explanation": "Learn about Sol-Gel Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sol-gel-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

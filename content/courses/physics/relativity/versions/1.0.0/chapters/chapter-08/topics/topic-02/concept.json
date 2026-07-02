@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-08.topic-02",
   "name": "Event Horizon",
   "subject": "physics",
+  "summary": "Event Horizon is a fundamental concept in physics.",
   "definition": "Event Horizon is a fundamental concept in physics.",
   "explanation": "Learn about Event Horizon and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "event-horizon"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

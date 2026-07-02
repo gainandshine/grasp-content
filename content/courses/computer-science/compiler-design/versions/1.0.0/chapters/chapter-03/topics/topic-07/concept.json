@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-03.topic-07",
   "name": "Parser Generators",
   "subject": "computer-science",
+  "summary": "Parser Generators is a fundamental concept in computer-science.",
   "definition": "Parser Generators is a fundamental concept in computer-science.",
   "explanation": "Learn about Parser Generators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "parser-generators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

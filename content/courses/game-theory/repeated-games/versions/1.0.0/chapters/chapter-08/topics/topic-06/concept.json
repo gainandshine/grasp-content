@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-08.topic-06",
   "name": "Long-Term Stability",
   "subject": "game-theory",
+  "summary": "Long-Term Stability is a fundamental concept in game-theory.",
   "definition": "Long-Term Stability is a fundamental concept in game-theory.",
   "explanation": "Learn about Long-Term Stability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "long-term-stability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

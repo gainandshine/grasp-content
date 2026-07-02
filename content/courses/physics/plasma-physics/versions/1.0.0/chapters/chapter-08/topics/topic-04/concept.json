@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-08.topic-04",
   "name": "Deuterium-Tritium Fusion",
   "subject": "physics",
+  "summary": "Deuterium-Tritium Fusion is a fundamental concept in physics.",
   "definition": "Deuterium-Tritium Fusion is a fundamental concept in physics.",
   "explanation": "Learn about Deuterium-Tritium Fusion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "deuterium-tritium-fusion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

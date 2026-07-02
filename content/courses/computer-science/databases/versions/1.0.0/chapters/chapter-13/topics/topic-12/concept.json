@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-12",
   "name": "Design Patterns",
   "subject": "computer-science",
+  "summary": "Design Patterns is a fundamental concept in computer-science.",
   "definition": "Design Patterns is a fundamental concept in computer-science.",
   "explanation": "Learn about Design Patterns and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "design-patterns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

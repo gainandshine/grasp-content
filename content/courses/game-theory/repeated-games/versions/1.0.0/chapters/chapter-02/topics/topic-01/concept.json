@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-02.topic-01",
   "name": "Finite Horizon",
   "subject": "game-theory",
+  "summary": "Finite Horizon is a fundamental concept in game-theory.",
   "definition": "Finite Horizon is a fundamental concept in game-theory.",
   "explanation": "Learn about Finite Horizon and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "finite-horizon"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

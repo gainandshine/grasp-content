@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-12.topic-07",
   "name": "Responsible AI",
   "subject": "computer-science",
+  "summary": "Responsible AI is a fundamental concept in computer-science.",
   "definition": "Responsible AI is a fundamental concept in computer-science.",
   "explanation": "Learn about Responsible AI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "responsible-ai"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

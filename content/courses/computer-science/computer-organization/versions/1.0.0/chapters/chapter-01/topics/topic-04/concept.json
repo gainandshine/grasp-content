@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-01.topic-04",
   "name": "Fetch-Decode-Execute Cycle",
   "subject": "computer-science",
+  "summary": "Fetch-Decode-Execute Cycle is a fundamental concept in computer-science.",
   "definition": "Fetch-Decode-Execute Cycle is a fundamental concept in computer-science.",
   "explanation": "Learn about Fetch-Decode-Execute Cycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fetch-decode-execute-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

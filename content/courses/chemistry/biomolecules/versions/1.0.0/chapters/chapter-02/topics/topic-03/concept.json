@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-02.topic-03",
   "name": "Oligosaccharides",
   "subject": "chemistry",
+  "summary": "Oligosaccharides is a fundamental concept in chemistry.",
   "definition": "Oligosaccharides is a fundamental concept in chemistry.",
   "explanation": "Learn about Oligosaccharides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oligosaccharides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

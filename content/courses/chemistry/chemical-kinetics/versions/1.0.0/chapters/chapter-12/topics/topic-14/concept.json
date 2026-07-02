@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-12.topic-14",
   "name": "Halogens",
   "subject": "chemistry",
+  "summary": "Halogens is a fundamental concept in chemistry.",
   "definition": "Halogens is a fundamental concept in chemistry.",
   "explanation": "Learn about Halogens and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "halogens"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

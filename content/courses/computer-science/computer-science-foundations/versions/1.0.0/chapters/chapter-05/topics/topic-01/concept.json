@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-05.topic-01",
   "name": "System Software",
   "subject": "computer-science",
+  "summary": "System Software is a fundamental concept in computer-science.",
   "definition": "System Software is a fundamental concept in computer-science.",
   "explanation": "Learn about System Software and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "system-software"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-08",
   "name": "*Course 18: Machine Learning**",
   "subject": "computer-science",
+  "summary": "*Course 18: Machine Learning** is a fundamental concept in computer-science.",
   "definition": "*Course 18: Machine Learning** is a fundamental concept in computer-science.",
   "explanation": "Learn about *Course 18: Machine Learning** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "course-18-machine-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

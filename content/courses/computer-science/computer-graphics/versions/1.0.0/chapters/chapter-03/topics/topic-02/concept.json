@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-03.topic-02",
   "name": "Rotation",
   "subject": "computer-science",
+  "summary": "Rotation is a fundamental concept in computer-science.",
   "definition": "Rotation is a fundamental concept in computer-science.",
   "explanation": "Learn about Rotation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "rotation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

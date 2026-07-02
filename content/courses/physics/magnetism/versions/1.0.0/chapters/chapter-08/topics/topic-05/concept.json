@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-08.topic-05",
   "name": "Cyclotron",
   "subject": "physics",
+  "summary": "Cyclotron is a fundamental concept in physics.",
   "definition": "Cyclotron is a fundamental concept in physics.",
   "explanation": "Learn about Cyclotron and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cyclotron"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-06",
   "name": "Distance to a Plane",
   "subject": "mathematics",
+  "summary": "Distance to a Plane is a fundamental concept in mathematics.",
   "definition": "Distance to a Plane is a fundamental concept in mathematics.",
   "explanation": "Learn about Distance to a Plane and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "distance-to-a-plane"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

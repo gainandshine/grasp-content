@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-03",
   "name": "Buildings & Earthquakes",
   "subject": "physics",
+  "summary": "Buildings & Earthquakes is a fundamental concept in physics.",
   "definition": "Buildings & Earthquakes is a fundamental concept in physics.",
   "explanation": "Learn about Buildings & Earthquakes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "buildings-earthquakes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

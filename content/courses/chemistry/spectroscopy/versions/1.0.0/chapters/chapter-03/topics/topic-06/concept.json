@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-03.topic-06",
   "name": "Chromophores",
   "subject": "chemistry",
+  "summary": "Chromophores is a fundamental concept in chemistry.",
   "definition": "Chromophores is a fundamental concept in chemistry.",
   "explanation": "Learn about Chromophores and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chromophores"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

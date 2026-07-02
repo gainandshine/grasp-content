@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-11.topic-03",
   "name": "Soil Chemistry",
   "subject": "chemistry",
+  "summary": "Soil Chemistry is a fundamental concept in chemistry.",
   "definition": "Soil Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Soil Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "soil-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

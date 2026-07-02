@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-06.topic-03",
   "name": "Raft",
   "subject": "computer-science",
+  "summary": "Raft is a fundamental concept in computer-science.",
   "definition": "Raft is a fundamental concept in computer-science.",
   "explanation": "Learn about Raft and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "raft"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

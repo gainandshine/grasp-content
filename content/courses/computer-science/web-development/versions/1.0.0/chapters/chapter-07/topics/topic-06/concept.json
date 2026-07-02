@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-07.topic-06",
   "name": "MVC Architecture",
   "subject": "computer-science",
+  "summary": "MVC Architecture is a fundamental concept in computer-science.",
   "definition": "MVC Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about MVC Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mvc-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

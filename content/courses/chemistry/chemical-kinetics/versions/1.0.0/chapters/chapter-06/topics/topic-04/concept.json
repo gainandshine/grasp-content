@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-06.topic-04",
   "name": "Transition State",
   "subject": "chemistry",
+  "summary": "Transition State is a fundamental concept in chemistry.",
   "definition": "Transition State is a fundamental concept in chemistry.",
   "explanation": "Learn about Transition State and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "transition-state"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

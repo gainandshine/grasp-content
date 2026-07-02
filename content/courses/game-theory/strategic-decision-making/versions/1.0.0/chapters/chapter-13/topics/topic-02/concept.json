@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-13.topic-02",
   "name": "Stochastic Decision Making",
   "subject": "game-theory",
+  "summary": "Stochastic Decision Making is a fundamental concept in game-theory.",
   "definition": "Stochastic Decision Making is a fundamental concept in game-theory.",
   "explanation": "Learn about Stochastic Decision Making and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "stochastic-decision-making"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

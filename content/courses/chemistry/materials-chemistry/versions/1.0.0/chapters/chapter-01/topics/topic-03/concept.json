@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-01.topic-03",
   "name": "Structure–Property Relationships",
   "subject": "chemistry",
+  "summary": "Structure–Property Relationships is a fundamental concept in chemistry.",
   "definition": "Structure–Property Relationships is a fundamental concept in chemistry.",
   "explanation": "Learn about Structure–Property Relationships and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "structureproperty-relationships"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

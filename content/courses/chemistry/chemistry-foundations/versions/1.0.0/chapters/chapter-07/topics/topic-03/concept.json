@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-07.topic-03",
   "name": "Molar Mass",
   "subject": "chemistry",
+  "summary": "Molar Mass is a fundamental concept in chemistry.",
   "definition": "Molar Mass is a fundamental concept in chemistry.",
   "explanation": "Learn about Molar Mass and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molar-mass"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-13.topic-07",
   "name": "*Course 3: Simultaneous Games**",
   "subject": "game-theory",
+  "summary": "*Course 3: Simultaneous Games** is a fundamental concept in game-theory.",
   "definition": "*Course 3: Simultaneous Games** is a fundamental concept in game-theory.",
   "explanation": "Learn about *Course 3: Simultaneous Games** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "course-3-simultaneous-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

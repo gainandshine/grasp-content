@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-03.topic-06",
   "name": "Muscle Fatigue",
   "subject": "biology",
+  "summary": "Muscle Fatigue is a fundamental concept in biology.",
   "definition": "Muscle Fatigue is a fundamental concept in biology.",
   "explanation": "Learn about Muscle Fatigue and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "muscle-fatigue"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

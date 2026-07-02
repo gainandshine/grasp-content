@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-04.topic-01",
   "name": "Bubble Sort",
   "subject": "computer-science",
+  "summary": "Bubble Sort is a fundamental concept in computer-science.",
   "definition": "Bubble Sort is a fundamental concept in computer-science.",
   "explanation": "Learn about Bubble Sort and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "bubble-sort"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-03.topic-03",
   "name": "Tetrahedral Complexes",
   "subject": "chemistry",
+  "summary": "Tetrahedral Complexes is a fundamental concept in chemistry.",
   "definition": "Tetrahedral Complexes is a fundamental concept in chemistry.",
   "explanation": "Learn about Tetrahedral Complexes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "tetrahedral-complexes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

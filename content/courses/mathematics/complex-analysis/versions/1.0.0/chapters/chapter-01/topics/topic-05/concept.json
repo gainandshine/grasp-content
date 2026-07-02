@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-01.topic-05",
   "name": "Argument",
   "subject": "mathematics",
+  "summary": "Argument is a fundamental concept in mathematics.",
   "definition": "Argument is a fundamental concept in mathematics.",
   "explanation": "Learn about Argument and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "argument"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

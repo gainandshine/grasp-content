@@ -2,6 +2,7 @@
   "id": "philosophy.contemporary-philosophy.chapter-08.topic-03",
   "name": "Deep Ecology",
   "subject": "philosophy",
+  "summary": "Deep Ecology is a fundamental concept in philosophy.",
   "definition": "Deep Ecology is a fundamental concept in philosophy.",
   "explanation": "Learn about Deep Ecology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "deep-ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

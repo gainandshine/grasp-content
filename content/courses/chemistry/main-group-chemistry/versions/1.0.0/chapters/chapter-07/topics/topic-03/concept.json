@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-07.topic-03",
   "name": "Selenium",
   "subject": "chemistry",
+  "summary": "Selenium is a fundamental concept in chemistry.",
   "definition": "Selenium is a fundamental concept in chemistry.",
   "explanation": "Learn about Selenium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "selenium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

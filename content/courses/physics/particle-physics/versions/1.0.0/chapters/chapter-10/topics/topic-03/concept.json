@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-10.topic-03",
   "name": "Bosons",
   "subject": "physics",
+  "summary": "Bosons is a fundamental concept in physics.",
   "definition": "Bosons is a fundamental concept in physics.",
   "explanation": "Learn about Bosons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "bosons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

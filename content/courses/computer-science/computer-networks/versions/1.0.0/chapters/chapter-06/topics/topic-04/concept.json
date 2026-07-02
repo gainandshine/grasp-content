@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-06.topic-04",
   "name": "Flow Control",
   "subject": "computer-science",
+  "summary": "Flow Control is a fundamental concept in computer-science.",
   "definition": "Flow Control is a fundamental concept in computer-science.",
   "explanation": "Learn about Flow Control and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "flow-control"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

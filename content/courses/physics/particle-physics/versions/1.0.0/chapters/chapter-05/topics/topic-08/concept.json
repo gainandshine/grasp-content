@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-05.topic-08",
   "name": "Quark Confinement",
   "subject": "physics",
+  "summary": "Quark Confinement is a fundamental concept in physics.",
   "definition": "Quark Confinement is a fundamental concept in physics.",
   "explanation": "Learn about Quark Confinement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quark-confinement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-02.topic-04",
   "name": "Descriptive Research",
   "subject": "psychology",
+  "summary": "Descriptive Research is a fundamental concept in psychology.",
   "definition": "Descriptive Research is a fundamental concept in psychology.",
   "explanation": "Learn about Descriptive Research and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "descriptive-research"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-13.topic-10",
   "name": "Coordination Behavior",
   "subject": "chemistry",
+  "summary": "Coordination Behavior is a fundamental concept in chemistry.",
   "definition": "Coordination Behavior is a fundamental concept in chemistry.",
   "explanation": "Learn about Coordination Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "coordination-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

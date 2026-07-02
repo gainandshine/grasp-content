@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-06.topic-03",
   "name": "Insulators",
   "subject": "chemistry",
+  "summary": "Insulators is a fundamental concept in chemistry.",
   "definition": "Insulators is a fundamental concept in chemistry.",
   "explanation": "Learn about Insulators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "insulators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

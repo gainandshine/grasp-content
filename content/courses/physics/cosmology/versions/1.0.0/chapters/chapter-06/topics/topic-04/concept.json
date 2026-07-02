@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-06.topic-04",
   "name": "Bullet Cluster",
   "subject": "physics",
+  "summary": "Bullet Cluster is a fundamental concept in physics.",
   "definition": "Bullet Cluster is a fundamental concept in physics.",
   "explanation": "Learn about Bullet Cluster and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "bullet-cluster"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

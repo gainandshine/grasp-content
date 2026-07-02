@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-05.topic-05",
   "name": "Factory",
   "subject": "computer-science",
+  "summary": "Factory is a fundamental concept in computer-science.",
   "definition": "Factory is a fundamental concept in computer-science.",
   "explanation": "Learn about Factory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "factory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-mind.chapter-04.topic-02",
   "name": "Personal Identity",
   "subject": "philosophy",
+  "summary": "Personal Identity is a fundamental concept in philosophy.",
   "definition": "Personal Identity is a fundamental concept in philosophy.",
   "explanation": "Learn about Personal Identity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "personal-identity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

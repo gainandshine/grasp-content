@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-02.topic-03",
   "name": "Reactors",
   "subject": "chemistry",
+  "summary": "Reactors is a fundamental concept in chemistry.",
   "definition": "Reactors is a fundamental concept in chemistry.",
   "explanation": "Learn about Reactors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "reactors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

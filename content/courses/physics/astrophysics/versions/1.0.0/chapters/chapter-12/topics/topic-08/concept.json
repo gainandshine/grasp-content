@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-12.topic-08",
   "name": "What happened during the Big Bang?",
   "subject": "physics",
+  "summary": "What happened during the Big Bang? is a fundamental concept in physics.",
   "definition": "What happened during the Big Bang? is a fundamental concept in physics.",
   "explanation": "Learn about What happened during the Big Bang? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "what-happened-during-the-big-bang"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

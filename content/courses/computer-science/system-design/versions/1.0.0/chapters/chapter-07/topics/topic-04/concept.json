@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-07.topic-04",
   "name": "Asynchronous Communication",
   "subject": "computer-science",
+  "summary": "Asynchronous Communication is a fundamental concept in computer-science.",
   "definition": "Asynchronous Communication is a fundamental concept in computer-science.",
   "explanation": "Learn about Asynchronous Communication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "asynchronous-communication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-06.topic-03",
   "name": "Commutative Rings",
   "subject": "mathematics",
+  "summary": "Commutative Rings is a fundamental concept in mathematics.",
   "definition": "Commutative Rings is a fundamental concept in mathematics.",
   "explanation": "Learn about Commutative Rings and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "commutative-rings"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

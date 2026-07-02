@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-13.topic-18",
   "name": "Prevention & Mental Health",
   "subject": "psychology",
+  "summary": "Prevention & Mental Health is a fundamental concept in psychology.",
   "definition": "Prevention & Mental Health is a fundamental concept in psychology.",
   "explanation": "Learn about Prevention & Mental Health and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "prevention-mental-health"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-01.topic-07",
   "name": "Empirical Probability",
   "subject": "mathematics",
+  "summary": "Empirical Probability is a fundamental concept in mathematics.",
   "definition": "Empirical Probability is a fundamental concept in mathematics.",
   "explanation": "Learn about Empirical Probability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "empirical-probability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

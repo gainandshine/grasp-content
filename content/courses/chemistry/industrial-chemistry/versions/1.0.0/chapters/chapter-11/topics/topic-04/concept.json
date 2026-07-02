@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-11.topic-04",
   "name": "Chemical Plant Safety",
   "subject": "chemistry",
+  "summary": "Chemical Plant Safety is a fundamental concept in chemistry.",
   "definition": "Chemical Plant Safety is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Plant Safety and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-plant-safety"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

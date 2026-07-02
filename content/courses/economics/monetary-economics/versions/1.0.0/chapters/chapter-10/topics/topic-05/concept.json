@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-10.topic-05",
   "name": "Stablecoins",
   "subject": "economics",
+  "summary": "Stablecoins is a fundamental concept in economics.",
   "definition": "Stablecoins is a fundamental concept in economics.",
   "explanation": "Learn about Stablecoins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "stablecoins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

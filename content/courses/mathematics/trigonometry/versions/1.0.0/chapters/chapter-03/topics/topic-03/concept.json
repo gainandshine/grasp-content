@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-03.topic-03",
   "name": "Special Angles",
   "subject": "mathematics",
+  "summary": "Special Angles is a fundamental concept in mathematics.",
   "definition": "Special Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Special Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "special-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

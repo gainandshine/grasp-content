@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-12.topic-04",
   "name": "Thermodynamic Stability",
   "subject": "chemistry",
+  "summary": "Thermodynamic Stability is a fundamental concept in chemistry.",
   "definition": "Thermodynamic Stability is a fundamental concept in chemistry.",
   "explanation": "Learn about Thermodynamic Stability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "thermodynamic-stability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

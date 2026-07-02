@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-07.topic-03",
   "name": "Area Under Curves",
   "subject": "physics",
+  "summary": "Area Under Curves is a fundamental concept in physics.",
   "definition": "Area Under Curves is a fundamental concept in physics.",
   "explanation": "Learn about Area Under Curves and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "area-under-curves"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-09.topic-05",
   "name": "Governance",
   "subject": "economics",
+  "summary": "Governance is a fundamental concept in economics.",
   "definition": "Governance is a fundamental concept in economics.",
   "explanation": "Learn about Governance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "governance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

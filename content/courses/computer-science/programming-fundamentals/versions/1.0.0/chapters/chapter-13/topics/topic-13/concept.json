@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-13",
   "name": "Polymorphism",
   "subject": "computer-science",
+  "summary": "Polymorphism is a fundamental concept in computer-science.",
   "definition": "Polymorphism is a fundamental concept in computer-science.",
   "explanation": "Learn about Polymorphism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "polymorphism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

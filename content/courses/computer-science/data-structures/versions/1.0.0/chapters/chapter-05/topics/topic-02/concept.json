@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-05.topic-02",
   "name": "Queue Operations",
   "subject": "computer-science",
+  "summary": "Queue Operations is a fundamental concept in computer-science.",
   "definition": "Queue Operations is a fundamental concept in computer-science.",
   "explanation": "Learn about Queue Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "queue-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-06.topic-03",
   "name": "Prisoner's Dilemma",
   "subject": "economics",
+  "summary": "Prisoner's Dilemma is a fundamental concept in economics.",
   "definition": "Prisoner's Dilemma is a fundamental concept in economics.",
   "explanation": "Learn about Prisoner's Dilemma and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "prisoners-dilemma"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

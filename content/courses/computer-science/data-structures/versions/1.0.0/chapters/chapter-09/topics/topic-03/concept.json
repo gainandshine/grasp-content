@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-09.topic-03",
   "name": "Insert & Search",
   "subject": "computer-science",
+  "summary": "Insert & Search is a fundamental concept in computer-science.",
   "definition": "Insert & Search is a fundamental concept in computer-science.",
   "explanation": "Learn about Insert & Search and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "insert-search"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

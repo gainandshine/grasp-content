@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-10.topic-06",
   "name": "High-Temperature Superconductors",
   "subject": "physics",
+  "summary": "High-Temperature Superconductors is a fundamental concept in physics.",
   "definition": "High-Temperature Superconductors is a fundamental concept in physics.",
   "explanation": "Learn about High-Temperature Superconductors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "high-temperature-superconductors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-23.topic-03",
   "name": "Ohmmeter",
   "subject": "physics",
+  "summary": "Ohmmeter is a fundamental concept in physics.",
   "definition": "Ohmmeter is a fundamental concept in physics.",
   "explanation": "Learn about Ohmmeter and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ohmmeter"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

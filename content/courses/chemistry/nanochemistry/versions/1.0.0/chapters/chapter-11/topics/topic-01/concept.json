@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-11.topic-01",
   "name": "Water Purification",
   "subject": "chemistry",
+  "summary": "Water Purification is a fundamental concept in chemistry.",
   "definition": "Water Purification is a fundamental concept in chemistry.",
   "explanation": "Learn about Water Purification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "water-purification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

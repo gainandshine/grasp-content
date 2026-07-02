@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-13.topic-03",
   "name": "Artificial Intelligence in Clinical Practice",
   "subject": "psychology",
+  "summary": "Artificial Intelligence in Clinical Practice is a fundamental concept in psychology.",
   "definition": "Artificial Intelligence in Clinical Practice is a fundamental concept in psychology.",
   "explanation": "Learn about Artificial Intelligence in Clinical Practice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "artificial-intelligence-in-clinical-practice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

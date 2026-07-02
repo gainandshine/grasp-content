@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-07.topic-07",
   "name": "Functions (Introduction)",
   "subject": "computer-science",
+  "summary": "Functions (Introduction) is a fundamental concept in computer-science.",
   "definition": "Functions (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Functions (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "functions-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

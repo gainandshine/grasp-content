@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-04.topic-03",
   "name": "Hoarding Disorder",
   "subject": "psychology",
+  "summary": "Hoarding Disorder is a fundamental concept in psychology.",
   "definition": "Hoarding Disorder is a fundamental concept in psychology.",
   "explanation": "Learn about Hoarding Disorder and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "hoarding-disorder"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

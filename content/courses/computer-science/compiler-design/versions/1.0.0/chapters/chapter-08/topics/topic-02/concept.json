@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-08.topic-02",
   "name": "Stack Frames",
   "subject": "computer-science",
+  "summary": "Stack Frames is a fundamental concept in computer-science.",
   "definition": "Stack Frames is a fundamental concept in computer-science.",
   "explanation": "Learn about Stack Frames and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "stack-frames"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

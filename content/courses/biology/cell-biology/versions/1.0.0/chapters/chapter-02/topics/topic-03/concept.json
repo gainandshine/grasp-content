@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-02.topic-03",
   "name": "Phospholipid Bilayer",
   "subject": "biology",
+  "summary": "Phospholipid Bilayer is a fundamental concept in biology.",
   "definition": "Phospholipid Bilayer is a fundamental concept in biology.",
   "explanation": "Learn about Phospholipid Bilayer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "phospholipid-bilayer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

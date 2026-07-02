@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-06.topic-04",
   "name": "Diastereomers",
   "subject": "chemistry",
+  "summary": "Diastereomers is a fundamental concept in chemistry.",
   "definition": "Diastereomers is a fundamental concept in chemistry.",
   "explanation": "Learn about Diastereomers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "diastereomers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

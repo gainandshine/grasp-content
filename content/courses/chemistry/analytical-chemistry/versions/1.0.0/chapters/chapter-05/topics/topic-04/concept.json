@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-05.topic-04",
   "name": "Precipitation Titration",
   "subject": "chemistry",
+  "summary": "Precipitation Titration is a fundamental concept in chemistry.",
   "definition": "Precipitation Titration is a fundamental concept in chemistry.",
   "explanation": "Learn about Precipitation Titration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "precipitation-titration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

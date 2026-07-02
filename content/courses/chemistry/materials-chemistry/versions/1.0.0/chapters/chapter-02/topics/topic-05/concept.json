@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-02.topic-05",
   "name": "Crystal Defects",
   "subject": "chemistry",
+  "summary": "Crystal Defects is a fundamental concept in chemistry.",
   "definition": "Crystal Defects is a fundamental concept in chemistry.",
   "explanation": "Learn about Crystal Defects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "crystal-defects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

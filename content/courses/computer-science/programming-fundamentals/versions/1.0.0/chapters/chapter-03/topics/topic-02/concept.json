@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-03.topic-02",
   "name": "Assignment Operators",
   "subject": "computer-science",
+  "summary": "Assignment Operators is a fundamental concept in computer-science.",
   "definition": "Assignment Operators is a fundamental concept in computer-science.",
   "explanation": "Learn about Assignment Operators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "assignment-operators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

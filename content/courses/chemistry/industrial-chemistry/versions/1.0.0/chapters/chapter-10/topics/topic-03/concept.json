@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-10.topic-03",
   "name": "Process Validation",
   "subject": "chemistry",
+  "summary": "Process Validation is a fundamental concept in chemistry.",
   "definition": "Process Validation is a fundamental concept in chemistry.",
   "explanation": "Learn about Process Validation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "process-validation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-03.topic-06",
   "name": "WHERE",
   "subject": "computer-science",
+  "summary": "WHERE is a fundamental concept in computer-science.",
   "definition": "WHERE is a fundamental concept in computer-science.",
   "explanation": "Learn about WHERE and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "where"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

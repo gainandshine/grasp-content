@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-04.topic-05",
   "name": "Relationship Between pH & pOH",
   "subject": "chemistry",
+  "summary": "Relationship Between pH & pOH is a fundamental concept in chemistry.",
   "definition": "Relationship Between pH & pOH is a fundamental concept in chemistry.",
   "explanation": "Learn about Relationship Between pH & pOH and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "relationship-between-ph-poh"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

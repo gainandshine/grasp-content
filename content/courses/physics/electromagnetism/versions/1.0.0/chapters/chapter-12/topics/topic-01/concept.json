@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-12.topic-01",
   "name": "Electric Motors",
   "subject": "physics",
+  "summary": "Electric Motors is a fundamental concept in physics.",
   "definition": "Electric Motors is a fundamental concept in physics.",
   "explanation": "Learn about Electric Motors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electric-motors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

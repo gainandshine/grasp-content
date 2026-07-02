@@ -2,6 +2,7 @@
   "id": "physics.electricity-electrostatics.chapter-02.topic-04",
   "name": "Multiple Charge Systems",
   "subject": "physics",
+  "summary": "Multiple Charge Systems is a fundamental concept in physics.",
   "definition": "Multiple Charge Systems is a fundamental concept in physics.",
   "explanation": "Learn about Multiple Charge Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "multiple-charge-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-03.topic-02",
   "name": "Decimal Operations",
   "subject": "mathematics",
+  "summary": "Decimal Operations is a fundamental concept in mathematics.",
   "definition": "Decimal Operations is a fundamental concept in mathematics.",
   "explanation": "Learn about Decimal Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "decimal-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

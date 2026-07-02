@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-06.topic-06",
   "name": "Proportional Segments",
   "subject": "mathematics",
+  "summary": "Proportional Segments is a fundamental concept in mathematics.",
   "definition": "Proportional Segments is a fundamental concept in mathematics.",
   "explanation": "Learn about Proportional Segments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "proportional-segments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

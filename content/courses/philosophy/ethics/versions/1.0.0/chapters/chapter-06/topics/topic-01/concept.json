@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-06.topic-01",
   "name": "Moral Dilemmas",
   "subject": "philosophy",
+  "summary": "Moral Dilemmas is a fundamental concept in philosophy.",
   "definition": "Moral Dilemmas is a fundamental concept in philosophy.",
   "explanation": "Learn about Moral Dilemmas and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "moral-dilemmas"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

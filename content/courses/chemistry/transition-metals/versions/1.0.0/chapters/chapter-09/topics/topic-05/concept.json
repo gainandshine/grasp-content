@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-09.topic-05",
   "name": "Cobalt",
   "subject": "chemistry",
+  "summary": "Cobalt is a fundamental concept in chemistry.",
   "definition": "Cobalt is a fundamental concept in chemistry.",
   "explanation": "Learn about Cobalt and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cobalt"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-03.topic-05",
   "name": "ATP in Muscle",
   "subject": "biology",
+  "summary": "ATP in Muscle is a fundamental concept in biology.",
   "definition": "ATP in Muscle is a fundamental concept in biology.",
   "explanation": "Learn about ATP in Muscle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "atp-in-muscle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

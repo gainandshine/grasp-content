@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-08.topic-05",
   "name": "Credible Decisions",
   "subject": "game-theory",
+  "summary": "Credible Decisions is a fundamental concept in game-theory.",
   "definition": "Credible Decisions is a fundamental concept in game-theory.",
   "explanation": "Learn about Credible Decisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "credible-decisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

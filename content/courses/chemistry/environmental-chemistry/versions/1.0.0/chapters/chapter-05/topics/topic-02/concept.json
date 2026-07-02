@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-05.topic-02",
   "name": "Water Hardness",
   "subject": "chemistry",
+  "summary": "Water Hardness is a fundamental concept in chemistry.",
   "definition": "Water Hardness is a fundamental concept in chemistry.",
   "explanation": "Learn about Water Hardness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "water-hardness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

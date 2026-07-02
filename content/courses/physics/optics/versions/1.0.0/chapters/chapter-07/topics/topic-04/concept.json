@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-07.topic-04",
   "name": "Fringe Width",
   "subject": "physics",
+  "summary": "Fringe Width is a fundamental concept in physics.",
   "definition": "Fringe Width is a fundamental concept in physics.",
   "explanation": "Learn about Fringe Width and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "fringe-width"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

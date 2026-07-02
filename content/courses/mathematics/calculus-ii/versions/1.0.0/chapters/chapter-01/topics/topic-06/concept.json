@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-01.topic-06",
   "name": "Partial Fraction Decomposition",
   "subject": "mathematics",
+  "summary": "Partial Fraction Decomposition is a fundamental concept in mathematics.",
   "definition": "Partial Fraction Decomposition is a fundamental concept in mathematics.",
   "explanation": "Learn about Partial Fraction Decomposition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "partial-fraction-decomposition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

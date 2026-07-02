@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-01.topic-07",
   "name": "Euler's Formula",
   "subject": "mathematics",
+  "summary": "Euler's Formula is a fundamental concept in mathematics.",
   "definition": "Euler's Formula is a fundamental concept in mathematics.",
   "explanation": "Learn about Euler's Formula and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "eulers-formula"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

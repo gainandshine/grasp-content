@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-13.topic-13",
   "name": "Biological Perspectives",
   "subject": "psychology",
+  "summary": "Biological Perspectives is a fundamental concept in psychology.",
   "definition": "Biological Perspectives is a fundamental concept in psychology.",
   "explanation": "Learn about Biological Perspectives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "biological-perspectives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

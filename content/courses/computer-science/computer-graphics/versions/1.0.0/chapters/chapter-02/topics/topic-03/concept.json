@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-02.topic-03",
   "name": "Curves",
   "subject": "computer-science",
+  "summary": "Curves is a fundamental concept in computer-science.",
   "definition": "Curves is a fundamental concept in computer-science.",
   "explanation": "Learn about Curves and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "curves"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

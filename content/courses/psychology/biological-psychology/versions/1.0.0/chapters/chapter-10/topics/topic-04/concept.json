@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-10.topic-04",
   "name": "Gene-Environment Interaction",
   "subject": "psychology",
+  "summary": "Gene-Environment Interaction is a fundamental concept in psychology.",
   "definition": "Gene-Environment Interaction is a fundamental concept in psychology.",
   "explanation": "Learn about Gene-Environment Interaction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "gene-environment-interaction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

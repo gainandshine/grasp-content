@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-12.topic-05",
   "name": "Criminal Justice",
   "subject": "psychology",
+  "summary": "Criminal Justice is a fundamental concept in psychology.",
   "definition": "Criminal Justice is a fundamental concept in psychology.",
   "explanation": "Learn about Criminal Justice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "criminal-justice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

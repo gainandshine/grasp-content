@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-09.topic-02",
   "name": "Chromium",
   "subject": "chemistry",
+  "summary": "Chromium is a fundamental concept in chemistry.",
   "definition": "Chromium is a fundamental concept in chemistry.",
   "explanation": "Learn about Chromium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chromium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

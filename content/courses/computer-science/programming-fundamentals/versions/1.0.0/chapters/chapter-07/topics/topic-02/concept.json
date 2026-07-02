@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-07.topic-02",
   "name": "Parameters",
   "subject": "computer-science",
+  "summary": "Parameters is a fundamental concept in computer-science.",
   "definition": "Parameters is a fundamental concept in computer-science.",
   "explanation": "Learn about Parameters and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "parameters"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

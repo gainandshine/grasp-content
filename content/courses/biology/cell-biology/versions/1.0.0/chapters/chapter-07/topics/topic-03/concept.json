@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-07.topic-03",
   "name": "S Phase",
   "subject": "biology",
+  "summary": "S Phase is a fundamental concept in biology.",
   "definition": "S Phase is a fundamental concept in biology.",
   "explanation": "Learn about S Phase and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "s-phase"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

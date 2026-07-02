@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-13.topic-01",
   "name": "Hedonic Games",
   "subject": "game-theory",
+  "summary": "Hedonic Games is a fundamental concept in game-theory.",
   "definition": "Hedonic Games is a fundamental concept in game-theory.",
   "explanation": "Learn about Hedonic Games and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "hedonic-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

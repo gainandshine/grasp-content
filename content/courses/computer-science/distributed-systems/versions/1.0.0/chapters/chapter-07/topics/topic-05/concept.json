@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-07.topic-05",
   "name": "Isolation",
   "subject": "computer-science",
+  "summary": "Isolation is a fundamental concept in computer-science.",
   "definition": "Isolation is a fundamental concept in computer-science.",
   "explanation": "Learn about Isolation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "isolation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

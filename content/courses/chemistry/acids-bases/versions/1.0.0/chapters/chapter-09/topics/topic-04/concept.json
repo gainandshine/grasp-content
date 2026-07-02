@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-09.topic-04",
   "name": "Equivalence Point",
   "subject": "chemistry",
+  "summary": "Equivalence Point is a fundamental concept in chemistry.",
   "definition": "Equivalence Point is a fundamental concept in chemistry.",
   "explanation": "Learn about Equivalence Point and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "equivalence-point"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

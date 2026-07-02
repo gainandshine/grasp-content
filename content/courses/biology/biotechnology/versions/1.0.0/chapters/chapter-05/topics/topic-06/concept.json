@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-05.topic-06",
   "name": "Gene Therapy",
   "subject": "biology",
+  "summary": "Gene Therapy is a fundamental concept in biology.",
   "definition": "Gene Therapy is a fundamental concept in biology.",
   "explanation": "Learn about Gene Therapy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gene-therapy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

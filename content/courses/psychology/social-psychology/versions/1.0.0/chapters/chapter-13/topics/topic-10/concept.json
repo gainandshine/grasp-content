@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-13.topic-10",
   "name": "Psychodynamic Theory",
   "subject": "psychology",
+  "summary": "Psychodynamic Theory is a fundamental concept in psychology.",
   "definition": "Psychodynamic Theory is a fundamental concept in psychology.",
   "explanation": "Learn about Psychodynamic Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "psychodynamic-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

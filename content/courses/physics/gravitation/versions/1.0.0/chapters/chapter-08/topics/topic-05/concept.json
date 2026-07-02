@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-08.topic-05",
   "name": "Planetary Motion",
   "subject": "physics",
+  "summary": "Planetary Motion is a fundamental concept in physics.",
   "definition": "Planetary Motion is a fundamental concept in physics.",
   "explanation": "Learn about Planetary Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "planetary-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

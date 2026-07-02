@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-08.topic-03",
   "name": "Wildlife Conservation",
   "subject": "biology",
+  "summary": "Wildlife Conservation is a fundamental concept in biology.",
   "definition": "Wildlife Conservation is a fundamental concept in biology.",
   "explanation": "Learn about Wildlife Conservation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "wildlife-conservation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

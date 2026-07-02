@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-10.topic-05",
   "name": "Network Forensics",
   "subject": "computer-science",
+  "summary": "Network Forensics is a fundamental concept in computer-science.",
   "definition": "Network Forensics is a fundamental concept in computer-science.",
   "explanation": "Learn about Network Forensics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "network-forensics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

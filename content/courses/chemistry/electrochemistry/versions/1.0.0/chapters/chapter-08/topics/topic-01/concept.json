@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-08.topic-01",
   "name": "Primary Batteries",
   "subject": "chemistry",
+  "summary": "Primary Batteries is a fundamental concept in chemistry.",
   "definition": "Primary Batteries is a fundamental concept in chemistry.",
   "explanation": "Learn about Primary Batteries and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "primary-batteries"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

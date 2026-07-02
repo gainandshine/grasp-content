@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-08.topic-05",
   "name": "Branch and Bound",
   "subject": "computer-science",
+  "summary": "Branch and Bound is a fundamental concept in computer-science.",
   "definition": "Branch and Bound is a fundamental concept in computer-science.",
   "explanation": "Learn about Branch and Bound and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "branch-and-bound"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

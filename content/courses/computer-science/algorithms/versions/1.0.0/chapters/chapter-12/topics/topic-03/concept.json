@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-12.topic-03",
   "name": "Amortized Analysis",
   "subject": "computer-science",
+  "summary": "Amortized Analysis is a fundamental concept in computer-science.",
   "definition": "Amortized Analysis is a fundamental concept in computer-science.",
   "explanation": "Learn about Amortized Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "amortized-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

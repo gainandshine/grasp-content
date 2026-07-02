@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-06.topic-01",
   "name": "Nernst Equation",
   "subject": "chemistry",
+  "summary": "Nernst Equation is a fundamental concept in chemistry.",
   "definition": "Nernst Equation is a fundamental concept in chemistry.",
   "explanation": "Learn about Nernst Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nernst-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

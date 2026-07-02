@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-08.topic-04",
   "name": "Integrability",
   "subject": "mathematics",
+  "summary": "Integrability is a fundamental concept in mathematics.",
   "definition": "Integrability is a fundamental concept in mathematics.",
   "explanation": "Learn about Integrability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "integrability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-02.topic-01",
   "name": "Imaginary Unit (i)",
   "subject": "mathematics",
+  "summary": "Imaginary Unit (i) is a fundamental concept in mathematics.",
   "definition": "Imaginary Unit (i) is a fundamental concept in mathematics.",
   "explanation": "Learn about Imaginary Unit (i) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "imaginary-unit-i"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

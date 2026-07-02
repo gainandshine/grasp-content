@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-12.topic-07",
   "name": "Artificial Intelligence & Creativity",
   "subject": "philosophy",
+  "summary": "Artificial Intelligence & Creativity is a fundamental concept in philosophy.",
   "definition": "Artificial Intelligence & Creativity is a fundamental concept in philosophy.",
   "explanation": "Learn about Artificial Intelligence & Creativity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "artificial-intelligence-creativity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-01.topic-05",
   "name": "Organizational Effectiveness",
   "subject": "psychology",
+  "summary": "Organizational Effectiveness is a fundamental concept in psychology.",
   "definition": "Organizational Effectiveness is a fundamental concept in psychology.",
   "explanation": "Learn about Organizational Effectiveness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "organizational-effectiveness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

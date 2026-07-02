@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-16",
   "name": "Microbial Growth",
   "subject": "biology",
+  "summary": "Microbial Growth is a fundamental concept in biology.",
   "definition": "Microbial Growth is a fundamental concept in biology.",
   "explanation": "Learn about Microbial Growth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "microbial-growth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

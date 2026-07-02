@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-05.topic-01",
   "name": "Null Hypothesis",
   "subject": "economics",
+  "summary": "Null Hypothesis is a fundamental concept in economics.",
   "definition": "Null Hypothesis is a fundamental concept in economics.",
   "explanation": "Learn about Null Hypothesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "null-hypothesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

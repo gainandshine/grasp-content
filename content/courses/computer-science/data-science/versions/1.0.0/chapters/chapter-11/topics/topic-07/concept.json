@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-11.topic-07",
   "name": "Regulatory Compliance",
   "subject": "computer-science",
+  "summary": "Regulatory Compliance is a fundamental concept in computer-science.",
   "definition": "Regulatory Compliance is a fundamental concept in computer-science.",
   "explanation": "Learn about Regulatory Compliance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "regulatory-compliance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-05.topic-04",
   "name": "Equilibrium Analysis",
   "subject": "physics",
+  "summary": "Equilibrium Analysis is a fundamental concept in physics.",
   "definition": "Equilibrium Analysis is a fundamental concept in physics.",
   "explanation": "Learn about Equilibrium Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "equilibrium-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

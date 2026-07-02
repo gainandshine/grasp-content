@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-02.topic-06",
   "name": "Blue Shift",
   "subject": "physics",
+  "summary": "Blue Shift is a fundamental concept in physics.",
   "definition": "Blue Shift is a fundamental concept in physics.",
   "explanation": "Learn about Blue Shift and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "blue-shift"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

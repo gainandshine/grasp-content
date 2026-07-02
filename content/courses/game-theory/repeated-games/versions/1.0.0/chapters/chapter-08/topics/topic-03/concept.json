@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-08.topic-03",
   "name": "Discount Factor",
   "subject": "game-theory",
+  "summary": "Discount Factor is a fundamental concept in game-theory.",
   "definition": "Discount Factor is a fundamental concept in game-theory.",
   "explanation": "Learn about Discount Factor and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "discount-factor"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

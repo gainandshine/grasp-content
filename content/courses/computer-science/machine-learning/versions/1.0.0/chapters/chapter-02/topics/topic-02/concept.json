@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-02.topic-02",
   "name": "Data Cleaning",
   "subject": "computer-science",
+  "summary": "Data Cleaning is a fundamental concept in computer-science.",
   "definition": "Data Cleaning is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Cleaning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-cleaning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-08.topic-01",
   "name": "Circular Motion",
   "subject": "physics",
+  "summary": "Circular Motion is a fundamental concept in physics.",
   "definition": "Circular Motion is a fundamental concept in physics.",
   "explanation": "Learn about Circular Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "circular-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

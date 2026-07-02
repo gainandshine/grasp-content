@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-03.topic-04",
   "name": "Multi-Walled CNTs",
   "subject": "chemistry",
+  "summary": "Multi-Walled CNTs is a fundamental concept in chemistry.",
   "definition": "Multi-Walled CNTs is a fundamental concept in chemistry.",
   "explanation": "Learn about Multi-Walled CNTs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "multi-walled-cnts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-02.topic-01",
   "name": "Problem Solving",
   "subject": "computer-science",
+  "summary": "Problem Solving is a fundamental concept in computer-science.",
   "definition": "Problem Solving is a fundamental concept in computer-science.",
   "explanation": "Learn about Problem Solving and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "problem-solving"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

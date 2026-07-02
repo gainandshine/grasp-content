@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-06.topic-04",
   "name": "Manipulation",
   "subject": "game-theory",
+  "summary": "Manipulation is a fundamental concept in game-theory.",
   "definition": "Manipulation is a fundamental concept in game-theory.",
   "explanation": "Learn about Manipulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "manipulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

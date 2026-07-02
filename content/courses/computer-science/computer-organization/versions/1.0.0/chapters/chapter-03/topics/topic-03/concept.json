@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-03.topic-03",
   "name": "Subtractors",
   "subject": "computer-science",
+  "summary": "Subtractors is a fundamental concept in computer-science.",
   "definition": "Subtractors is a fundamental concept in computer-science.",
   "explanation": "Learn about Subtractors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "subtractors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-13.topic-14",
   "name": "Molecular Dynamics",
   "subject": "chemistry",
+  "summary": "Molecular Dynamics is a fundamental concept in chemistry.",
   "definition": "Molecular Dynamics is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

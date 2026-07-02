@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Course",
+  "type": "object",
+  "required": ["id", "name", "version", "domain", "chapters"],
+  "properties": {
+    "id": { "type": "string" },
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "domain": { "type": "string" },
+    "chapters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "topics"],
+        "properties": {
+          "id": { "type": "string" },
+          "name": { "type": "string" },
+          "description": { "type": "string" },
+          "topics": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "name", "conceptId"],
+              "properties": {
+                "id": { "type": "string" },
+                "name": { "type": "string" },
+                "description": { "type": "string" },
+                "conceptId": { "type": "string", "description": "Primary concept ID for this topic" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "difficulty": { "type": "string", "enum": ["beginner", "intermediate", "advanced"] },
+        "estimatedHours": { "type": "number" },
+        "prerequisites": { "type": "array", "items": { "type": "string" } },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "learningOutcomes": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

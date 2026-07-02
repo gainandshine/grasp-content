@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-10.topic-06",
   "name": "Monitoring Models",
   "subject": "computer-science",
+  "summary": "Monitoring Models is a fundamental concept in computer-science.",
   "definition": "Monitoring Models is a fundamental concept in computer-science.",
   "explanation": "Learn about Monitoring Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "monitoring-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

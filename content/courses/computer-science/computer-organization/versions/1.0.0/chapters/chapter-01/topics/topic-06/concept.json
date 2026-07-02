@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-01.topic-06",
   "name": "Harvard Architecture",
   "subject": "computer-science",
+  "summary": "Harvard Architecture is a fundamental concept in computer-science.",
   "definition": "Harvard Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Harvard Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "harvard-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

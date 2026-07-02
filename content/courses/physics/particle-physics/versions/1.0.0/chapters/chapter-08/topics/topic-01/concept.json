@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-08.topic-01",
   "name": "Symmetry Principles",
   "subject": "physics",
+  "summary": "Symmetry Principles is a fundamental concept in physics.",
   "definition": "Symmetry Principles is a fundamental concept in physics.",
   "explanation": "Learn about Symmetry Principles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "symmetry-principles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

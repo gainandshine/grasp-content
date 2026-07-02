@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-03.topic-03",
   "name": "Valence Shell",
   "subject": "chemistry",
+  "summary": "Valence Shell is a fundamental concept in chemistry.",
   "definition": "Valence Shell is a fundamental concept in chemistry.",
   "explanation": "Learn about Valence Shell and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "valence-shell"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

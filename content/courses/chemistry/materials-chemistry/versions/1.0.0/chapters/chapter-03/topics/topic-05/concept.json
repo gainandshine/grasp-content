@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-03.topic-05",
   "name": "Stainless Steel",
   "subject": "chemistry",
+  "summary": "Stainless Steel is a fundamental concept in chemistry.",
   "definition": "Stainless Steel is a fundamental concept in chemistry.",
   "explanation": "Learn about Stainless Steel and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "stainless-steel"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

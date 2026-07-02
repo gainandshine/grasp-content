@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-11",
   "name": "Food Chains & Food Webs",
   "subject": "biology",
+  "summary": "Food Chains & Food Webs is a fundamental concept in biology.",
   "definition": "Food Chains & Food Webs is a fundamental concept in biology.",
   "explanation": "Learn about Food Chains & Food Webs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "food-chains-food-webs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-03.topic-06",
   "name": "Two-Dimensional Collisions",
   "subject": "physics",
+  "summary": "Two-Dimensional Collisions is a fundamental concept in physics.",
   "definition": "Two-Dimensional Collisions is a fundamental concept in physics.",
   "explanation": "Learn about Two-Dimensional Collisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "two-dimensional-collisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

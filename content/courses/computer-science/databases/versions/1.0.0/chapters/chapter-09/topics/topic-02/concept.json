@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-09.topic-02",
   "name": "Key-Value Databases",
   "subject": "computer-science",
+  "summary": "Key-Value Databases is a fundamental concept in computer-science.",
   "definition": "Key-Value Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about Key-Value Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "key-value-databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

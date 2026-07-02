@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-11.topic-03",
   "name": "Chlor-Alkali Process",
   "subject": "chemistry",
+  "summary": "Chlor-Alkali Process is a fundamental concept in chemistry.",
   "definition": "Chlor-Alkali Process is a fundamental concept in chemistry.",
   "explanation": "Learn about Chlor-Alkali Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chlor-alkali-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

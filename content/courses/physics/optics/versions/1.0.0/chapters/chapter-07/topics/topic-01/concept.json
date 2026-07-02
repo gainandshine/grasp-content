@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-07.topic-01",
   "name": "Young's Double Slit Experiment",
   "subject": "physics",
+  "summary": "Young's Double Slit Experiment is a fundamental concept in physics.",
   "definition": "Young's Double Slit Experiment is a fundamental concept in physics.",
   "explanation": "Learn about Young's Double Slit Experiment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "youngs-double-slit-experiment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

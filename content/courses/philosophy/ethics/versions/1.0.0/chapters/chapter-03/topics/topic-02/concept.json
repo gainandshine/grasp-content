@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-03.topic-02",
   "name": "Moral Rules",
   "subject": "philosophy",
+  "summary": "Moral Rules is a fundamental concept in philosophy.",
   "definition": "Moral Rules is a fundamental concept in philosophy.",
   "explanation": "Learn about Moral Rules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "moral-rules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

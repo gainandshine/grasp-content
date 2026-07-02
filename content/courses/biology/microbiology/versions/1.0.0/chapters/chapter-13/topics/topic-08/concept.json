@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-08",
   "name": "Immune System Overview",
   "subject": "biology",
+  "summary": "Immune System Overview is a fundamental concept in biology.",
   "definition": "Immune System Overview is a fundamental concept in biology.",
   "explanation": "Learn about Immune System Overview and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "immune-system-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-13.topic-02",
   "name": "Behavioral Public Economics",
   "subject": "economics",
+  "summary": "Behavioral Public Economics is a fundamental concept in economics.",
   "definition": "Behavioral Public Economics is a fundamental concept in economics.",
   "explanation": "Learn about Behavioral Public Economics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "behavioral-public-economics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.microeconomics.chapter-07.topic-05",
   "name": "Monopoly Power",
   "subject": "economics",
+  "summary": "Monopoly Power is a fundamental concept in economics.",
   "definition": "Monopoly Power is a fundamental concept in economics.",
   "explanation": "Learn about Monopoly Power and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "monopoly-power"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

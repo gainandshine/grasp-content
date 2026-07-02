@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-09.topic-04",
   "name": "Toxins",
   "subject": "biology",
+  "summary": "Toxins is a fundamental concept in biology.",
   "definition": "Toxins is a fundamental concept in biology.",
   "explanation": "Learn about Toxins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "toxins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

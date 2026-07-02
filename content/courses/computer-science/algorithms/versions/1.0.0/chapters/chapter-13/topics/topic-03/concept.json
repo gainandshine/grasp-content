@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-03",
   "name": "Compression",
   "subject": "computer-science",
+  "summary": "Compression is a fundamental concept in computer-science.",
   "definition": "Compression is a fundamental concept in computer-science.",
   "explanation": "Learn about Compression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "compression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

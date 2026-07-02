@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-13.topic-02",
   "name": "Dynamic Equilibria",
   "subject": "game-theory",
+  "summary": "Dynamic Equilibria is a fundamental concept in game-theory.",
   "definition": "Dynamic Equilibria is a fundamental concept in game-theory.",
   "explanation": "Learn about Dynamic Equilibria and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "dynamic-equilibria"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

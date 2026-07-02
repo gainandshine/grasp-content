@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-01.topic-02",
   "name": "Vertices",
   "subject": "mathematics",
+  "summary": "Vertices is a fundamental concept in mathematics.",
   "definition": "Vertices is a fundamental concept in mathematics.",
   "explanation": "Learn about Vertices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "vertices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

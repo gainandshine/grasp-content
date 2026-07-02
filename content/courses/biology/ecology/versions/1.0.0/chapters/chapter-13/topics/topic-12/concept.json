@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-13.topic-12",
   "name": "DNA Sequencing",
   "subject": "biology",
+  "summary": "DNA Sequencing is a fundamental concept in biology.",
   "definition": "DNA Sequencing is a fundamental concept in biology.",
   "explanation": "Learn about DNA Sequencing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "dna-sequencing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

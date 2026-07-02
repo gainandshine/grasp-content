@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-13.topic-09",
   "name": "Data Science Workflow",
   "subject": "computer-science",
+  "summary": "Data Science Workflow is a fundamental concept in computer-science.",
   "definition": "Data Science Workflow is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Science Workflow and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-science-workflow"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

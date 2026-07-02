@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-language.chapter-06.topic-05",
   "name": "Promises",
   "subject": "philosophy",
+  "summary": "Promises is a fundamental concept in philosophy.",
   "definition": "Promises is a fundamental concept in philosophy.",
   "explanation": "Learn about Promises and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "promises"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

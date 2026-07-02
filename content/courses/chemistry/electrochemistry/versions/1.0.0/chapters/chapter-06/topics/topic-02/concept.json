@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-06.topic-02",
   "name": "Non-Standard Conditions",
   "subject": "chemistry",
+  "summary": "Non-Standard Conditions is a fundamental concept in chemistry.",
   "definition": "Non-Standard Conditions is a fundamental concept in chemistry.",
   "explanation": "Learn about Non-Standard Conditions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "non-standard-conditions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-10.topic-01",
   "name": "Stoichiometry (Introduction)",
   "subject": "chemistry",
+  "summary": "Stoichiometry (Introduction) is a fundamental concept in chemistry.",
   "definition": "Stoichiometry (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Stoichiometry (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "stoichiometry-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

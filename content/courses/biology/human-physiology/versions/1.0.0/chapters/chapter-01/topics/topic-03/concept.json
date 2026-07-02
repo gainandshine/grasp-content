@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-01.topic-03",
   "name": "Internal Environment",
   "subject": "biology",
+  "summary": "Internal Environment is a fundamental concept in biology.",
   "definition": "Internal Environment is a fundamental concept in biology.",
   "explanation": "Learn about Internal Environment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "internal-environment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

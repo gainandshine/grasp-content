@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-13.topic-05",
   "name": "Sustainable Metallurgy",
   "subject": "chemistry",
+  "summary": "Sustainable Metallurgy is a fundamental concept in chemistry.",
   "definition": "Sustainable Metallurgy is a fundamental concept in chemistry.",
   "explanation": "Learn about Sustainable Metallurgy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sustainable-metallurgy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

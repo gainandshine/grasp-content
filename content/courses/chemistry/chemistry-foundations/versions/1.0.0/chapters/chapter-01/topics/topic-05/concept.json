@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-01.topic-05",
   "name": "Physical Changes",
   "subject": "chemistry",
+  "summary": "Physical Changes is a fundamental concept in chemistry.",
   "definition": "Physical Changes is a fundamental concept in chemistry.",
   "explanation": "Learn about Physical Changes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "physical-changes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

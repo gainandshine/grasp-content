@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-12.topic-03",
   "name": "Aerospace",
   "subject": "chemistry",
+  "summary": "Aerospace is a fundamental concept in chemistry.",
   "definition": "Aerospace is a fundamental concept in chemistry.",
   "explanation": "Learn about Aerospace and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "aerospace"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

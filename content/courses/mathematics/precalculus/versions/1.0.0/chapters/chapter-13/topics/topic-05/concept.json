@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-13.topic-05",
   "name": "Indeterminate Forms (Introduction)",
   "subject": "mathematics",
+  "summary": "Indeterminate Forms (Introduction) is a fundamental concept in mathematics.",
   "definition": "Indeterminate Forms (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Indeterminate Forms (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "indeterminate-forms-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

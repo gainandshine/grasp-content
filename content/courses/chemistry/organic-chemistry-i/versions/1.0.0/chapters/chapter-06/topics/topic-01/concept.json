@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-06.topic-01",
   "name": "Chirality",
   "subject": "chemistry",
+  "summary": "Chirality is a fundamental concept in chemistry.",
   "definition": "Chirality is a fundamental concept in chemistry.",
   "explanation": "Learn about Chirality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chirality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

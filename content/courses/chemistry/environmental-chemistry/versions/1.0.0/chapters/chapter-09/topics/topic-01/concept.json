@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-09.topic-01",
   "name": "Toxic Chemicals",
   "subject": "chemistry",
+  "summary": "Toxic Chemicals is a fundamental concept in chemistry.",
   "definition": "Toxic Chemicals is a fundamental concept in chemistry.",
   "explanation": "Learn about Toxic Chemicals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "toxic-chemicals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

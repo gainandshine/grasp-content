@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-08.topic-04",
   "name": "Everyday Examples",
   "subject": "physics",
+  "summary": "Everyday Examples is a fundamental concept in physics.",
   "definition": "Everyday Examples is a fundamental concept in physics.",
   "explanation": "Learn about Everyday Examples and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "everyday-examples"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

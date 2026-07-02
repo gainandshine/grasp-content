@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-08.topic-06",
   "name": "Correlation vs Causation",
   "subject": "psychology",
+  "summary": "Correlation vs Causation is a fundamental concept in psychology.",
   "definition": "Correlation vs Causation is a fundamental concept in psychology.",
   "explanation": "Learn about Correlation vs Causation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "correlation-vs-causation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

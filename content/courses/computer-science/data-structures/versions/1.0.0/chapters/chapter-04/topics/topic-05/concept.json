@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-04.topic-05",
   "name": "Expression Evaluation",
   "subject": "computer-science",
+  "summary": "Expression Evaluation is a fundamental concept in computer-science.",
   "definition": "Expression Evaluation is a fundamental concept in computer-science.",
   "explanation": "Learn about Expression Evaluation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "expression-evaluation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

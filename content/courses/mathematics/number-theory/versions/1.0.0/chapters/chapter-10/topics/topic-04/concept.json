@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-10.topic-04",
   "name": "Digital Signatures",
   "subject": "mathematics",
+  "summary": "Digital Signatures is a fundamental concept in mathematics.",
   "definition": "Digital Signatures is a fundamental concept in mathematics.",
   "explanation": "Learn about Digital Signatures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "digital-signatures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-13.topic-11",
   "name": "Humanistic Theory",
   "subject": "psychology",
+  "summary": "Humanistic Theory is a fundamental concept in psychology.",
   "definition": "Humanistic Theory is a fundamental concept in psychology.",
   "explanation": "Learn about Humanistic Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "humanistic-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

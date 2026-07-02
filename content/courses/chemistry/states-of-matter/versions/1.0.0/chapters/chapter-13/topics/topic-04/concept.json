@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-13.topic-04",
   "name": "Soft Matter",
   "subject": "chemistry",
+  "summary": "Soft Matter is a fundamental concept in chemistry.",
   "definition": "Soft Matter is a fundamental concept in chemistry.",
   "explanation": "Learn about Soft Matter and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "soft-matter"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

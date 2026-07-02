@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-11.topic-03",
   "name": "Axis of Symmetry",
   "subject": "mathematics",
+  "summary": "Axis of Symmetry is a fundamental concept in mathematics.",
   "definition": "Axis of Symmetry is a fundamental concept in mathematics.",
   "explanation": "Learn about Axis of Symmetry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "axis-of-symmetry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

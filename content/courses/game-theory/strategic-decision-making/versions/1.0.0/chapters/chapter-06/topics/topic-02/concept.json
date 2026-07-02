@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-06.topic-02",
   "name": "Mutual Best Responses",
   "subject": "game-theory",
+  "summary": "Mutual Best Responses is a fundamental concept in game-theory.",
   "definition": "Mutual Best Responses is a fundamental concept in game-theory.",
   "explanation": "Learn about Mutual Best Responses and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "mutual-best-responses"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

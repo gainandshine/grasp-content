@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-09.topic-04",
   "name": "Polygon Diagonals",
   "subject": "mathematics",
+  "summary": "Polygon Diagonals is a fundamental concept in mathematics.",
   "definition": "Polygon Diagonals is a fundamental concept in mathematics.",
   "explanation": "Learn about Polygon Diagonals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polygon-diagonals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

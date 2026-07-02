@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-03.topic-01",
   "name": "Buoyant Force",
   "subject": "physics",
+  "summary": "Buoyant Force is a fundamental concept in physics.",
   "definition": "Buoyant Force is a fundamental concept in physics.",
   "explanation": "Learn about Buoyant Force and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "buoyant-force"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

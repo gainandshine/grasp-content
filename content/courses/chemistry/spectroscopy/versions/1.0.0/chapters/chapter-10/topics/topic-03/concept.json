@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-10.topic-03",
   "name": "Unknown Compound Identification",
   "subject": "chemistry",
+  "summary": "Unknown Compound Identification is a fundamental concept in chemistry.",
   "definition": "Unknown Compound Identification is a fundamental concept in chemistry.",
   "explanation": "Learn about Unknown Compound Identification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "unknown-compound-identification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

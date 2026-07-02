@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-07.topic-01",
   "name": "Bond Dissociation Energy",
   "subject": "chemistry",
+  "summary": "Bond Dissociation Energy is a fundamental concept in chemistry.",
   "definition": "Bond Dissociation Energy is a fundamental concept in chemistry.",
   "explanation": "Learn about Bond Dissociation Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bond-dissociation-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

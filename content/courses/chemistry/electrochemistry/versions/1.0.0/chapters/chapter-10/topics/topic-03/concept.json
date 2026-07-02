@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-10.topic-03",
   "name": "Electrowinning",
   "subject": "chemistry",
+  "summary": "Electrowinning is a fundamental concept in chemistry.",
   "definition": "Electrowinning is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrowinning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrowinning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

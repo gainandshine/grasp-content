@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-03.topic-02",
   "name": "Molecular Geometry",
   "subject": "chemistry",
+  "summary": "Molecular Geometry is a fundamental concept in chemistry.",
   "definition": "Molecular Geometry is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Geometry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-geometry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

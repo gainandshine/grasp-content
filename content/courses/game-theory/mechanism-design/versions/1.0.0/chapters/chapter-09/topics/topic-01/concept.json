@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-09.topic-01",
   "name": "Marketplace Design",
   "subject": "game-theory",
+  "summary": "Marketplace Design is a fundamental concept in game-theory.",
   "definition": "Marketplace Design is a fundamental concept in game-theory.",
   "explanation": "Learn about Marketplace Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "marketplace-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

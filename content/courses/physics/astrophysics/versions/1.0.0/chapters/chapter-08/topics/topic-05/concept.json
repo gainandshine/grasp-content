@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-08.topic-05",
   "name": "Active Galactic Nuclei (AGN)",
   "subject": "physics",
+  "summary": "Active Galactic Nuclei (AGN) is a fundamental concept in physics.",
   "definition": "Active Galactic Nuclei (AGN) is a fundamental concept in physics.",
   "explanation": "Learn about Active Galactic Nuclei (AGN) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "active-galactic-nuclei-agn"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

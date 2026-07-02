@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-09.topic-04",
   "name": "Control Rods",
   "subject": "physics",
+  "summary": "Control Rods is a fundamental concept in physics.",
   "definition": "Control Rods is a fundamental concept in physics.",
   "explanation": "Learn about Control Rods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "control-rods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-06.topic-05",
   "name": "Magnetars",
   "subject": "physics",
+  "summary": "Magnetars is a fundamental concept in physics.",
   "definition": "Magnetars is a fundamental concept in physics.",
   "explanation": "Learn about Magnetars and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetars"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

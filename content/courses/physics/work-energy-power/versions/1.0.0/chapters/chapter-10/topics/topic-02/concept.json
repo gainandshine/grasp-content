@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-10.topic-02",
   "name": "Pendulums",
   "subject": "physics",
+  "summary": "Pendulums is a fundamental concept in physics.",
   "definition": "Pendulums is a fundamental concept in physics.",
   "explanation": "Learn about Pendulums and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "pendulums"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

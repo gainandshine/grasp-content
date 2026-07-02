@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-06.topic-02",
   "name": "Polar Coordinates",
   "subject": "physics",
+  "summary": "Polar Coordinates is a fundamental concept in physics.",
   "definition": "Polar Coordinates is a fundamental concept in physics.",
   "explanation": "Learn about Polar Coordinates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "polar-coordinates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

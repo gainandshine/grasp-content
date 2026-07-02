@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-06",
   "name": "Atomic Vibrations",
   "subject": "physics",
+  "summary": "Atomic Vibrations is a fundamental concept in physics.",
   "definition": "Atomic Vibrations is a fundamental concept in physics.",
   "explanation": "Learn about Atomic Vibrations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "atomic-vibrations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

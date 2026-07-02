@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-13.topic-11",
   "name": "Nanoparticles",
   "subject": "chemistry",
+  "summary": "Nanoparticles is a fundamental concept in chemistry.",
   "definition": "Nanoparticles is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanoparticles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanoparticles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

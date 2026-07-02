@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-10.topic-03",
   "name": "MIMD",
   "subject": "computer-science",
+  "summary": "MIMD is a fundamental concept in computer-science.",
   "definition": "MIMD is a fundamental concept in computer-science.",
   "explanation": "Learn about MIMD and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mimd"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

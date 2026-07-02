@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-15.topic-03",
   "name": "Trigonometric Functions Preview",
   "subject": "mathematics",
+  "summary": "Trigonometric Functions Preview is a fundamental concept in mathematics.",
   "definition": "Trigonometric Functions Preview is a fundamental concept in mathematics.",
   "explanation": "Learn about Trigonometric Functions Preview and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "trigonometric-functions-preview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-09.topic-01",
   "name": "Habits",
   "subject": "psychology",
+  "summary": "Habits is a fundamental concept in psychology.",
   "definition": "Habits is a fundamental concept in psychology.",
   "explanation": "Learn about Habits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "habits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

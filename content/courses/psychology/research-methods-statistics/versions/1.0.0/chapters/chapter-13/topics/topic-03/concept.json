@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-13.topic-03",
   "name": "Big Data in Psychology",
   "subject": "psychology",
+  "summary": "Big Data in Psychology is a fundamental concept in psychology.",
   "definition": "Big Data in Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about Big Data in Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "big-data-in-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

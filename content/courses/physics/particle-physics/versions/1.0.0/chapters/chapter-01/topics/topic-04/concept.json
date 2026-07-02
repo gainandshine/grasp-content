@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-01.topic-04",
   "name": "Standard Model Overview",
   "subject": "physics",
+  "summary": "Standard Model Overview is a fundamental concept in physics.",
   "definition": "Standard Model Overview is a fundamental concept in physics.",
   "explanation": "Learn about Standard Model Overview and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "standard-model-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

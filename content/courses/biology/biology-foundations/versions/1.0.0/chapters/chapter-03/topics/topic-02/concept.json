@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-03.topic-02",
   "name": "Lipids",
   "subject": "biology",
+  "summary": "Lipids is a fundamental concept in biology.",
   "definition": "Lipids is a fundamental concept in biology.",
   "explanation": "Learn about Lipids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "lipids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

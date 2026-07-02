@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-03.topic-01",
   "name": "Equilibrium Constant (K)",
   "subject": "chemistry",
+  "summary": "Equilibrium Constant (K) is a fundamental concept in chemistry.",
   "definition": "Equilibrium Constant (K) is a fundamental concept in chemistry.",
   "explanation": "Learn about Equilibrium Constant (K) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "equilibrium-constant-k"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

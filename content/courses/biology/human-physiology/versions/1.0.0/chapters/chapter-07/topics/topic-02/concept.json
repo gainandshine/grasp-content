@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-07.topic-02",
   "name": "Glomerular Filtration",
   "subject": "biology",
+  "summary": "Glomerular Filtration is a fundamental concept in biology.",
   "definition": "Glomerular Filtration is a fundamental concept in biology.",
   "explanation": "Learn about Glomerular Filtration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "glomerular-filtration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

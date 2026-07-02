@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-11.topic-02",
   "name": "Make Set",
   "subject": "computer-science",
+  "summary": "Make Set is a fundamental concept in computer-science.",
   "definition": "Make Set is a fundamental concept in computer-science.",
   "explanation": "Learn about Make Set and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "make-set"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

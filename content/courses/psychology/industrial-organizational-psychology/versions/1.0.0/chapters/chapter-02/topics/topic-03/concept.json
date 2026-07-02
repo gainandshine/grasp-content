@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-02.topic-03",
   "name": "Employee Selection",
   "subject": "psychology",
+  "summary": "Employee Selection is a fundamental concept in psychology.",
   "definition": "Employee Selection is a fundamental concept in psychology.",
   "explanation": "Learn about Employee Selection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "employee-selection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

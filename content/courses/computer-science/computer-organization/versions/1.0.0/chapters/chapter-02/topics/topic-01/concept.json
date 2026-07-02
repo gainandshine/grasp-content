@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-02.topic-01",
   "name": "Binary Number System",
   "subject": "computer-science",
+  "summary": "Binary Number System is a fundamental concept in computer-science.",
   "definition": "Binary Number System is a fundamental concept in computer-science.",
   "explanation": "Learn about Binary Number System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "binary-number-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

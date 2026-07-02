@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-09.topic-05",
   "name": "Pricing Rules",
   "subject": "game-theory",
+  "summary": "Pricing Rules is a fundamental concept in game-theory.",
   "definition": "Pricing Rules is a fundamental concept in game-theory.",
   "explanation": "Learn about Pricing Rules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "pricing-rules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

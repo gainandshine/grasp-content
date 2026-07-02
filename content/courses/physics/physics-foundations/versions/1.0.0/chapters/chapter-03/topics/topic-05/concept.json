@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-03.topic-05",
   "name": "Absolute Error",
   "subject": "physics",
+  "summary": "Absolute Error is a fundamental concept in physics.",
   "definition": "Absolute Error is a fundamental concept in physics.",
   "explanation": "Learn about Absolute Error and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "absolute-error"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

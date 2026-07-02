@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-10",
   "name": "Relational Databases",
   "subject": "computer-science",
+  "summary": "Relational Databases is a fundamental concept in computer-science.",
   "definition": "Relational Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about Relational Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "relational-databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

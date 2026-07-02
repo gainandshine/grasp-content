@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-03.topic-01",
   "name": "Ideal Gas",
   "subject": "physics",
+  "summary": "Ideal Gas is a fundamental concept in physics.",
   "definition": "Ideal Gas is a fundamental concept in physics.",
   "explanation": "Learn about Ideal Gas and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ideal-gas"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

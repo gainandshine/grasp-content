@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-06",
   "name": "Design Interviews",
   "subject": "computer-science",
+  "summary": "Design Interviews is a fundamental concept in computer-science.",
   "definition": "Design Interviews is a fundamental concept in computer-science.",
   "explanation": "Learn about Design Interviews and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "design-interviews"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

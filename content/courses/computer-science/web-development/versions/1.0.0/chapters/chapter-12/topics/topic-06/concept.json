@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-12.topic-06",
   "name": "Accessibility",
   "subject": "computer-science",
+  "summary": "Accessibility is a fundamental concept in computer-science.",
   "definition": "Accessibility is a fundamental concept in computer-science.",
   "explanation": "Learn about Accessibility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "accessibility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-07.topic-01",
   "name": "Light Sources",
   "subject": "computer-science",
+  "summary": "Light Sources is a fundamental concept in computer-science.",
   "definition": "Light Sources is a fundamental concept in computer-science.",
   "explanation": "Learn about Light Sources and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "light-sources"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-11.topic-04",
   "name": "Electric Vehicles",
   "subject": "chemistry",
+  "summary": "Electric Vehicles is a fundamental concept in chemistry.",
   "definition": "Electric Vehicles is a fundamental concept in chemistry.",
   "explanation": "Learn about Electric Vehicles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electric-vehicles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-mind.chapter-08.topic-04",
   "name": "Motivation",
   "subject": "philosophy",
+  "summary": "Motivation is a fundamental concept in philosophy.",
   "definition": "Motivation is a fundamental concept in philosophy.",
   "explanation": "Learn about Motivation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "motivation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

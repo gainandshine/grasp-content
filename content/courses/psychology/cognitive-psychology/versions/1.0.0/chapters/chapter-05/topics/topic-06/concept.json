@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-05.topic-06",
   "name": "Transfer of Learning",
   "subject": "psychology",
+  "summary": "Transfer of Learning is a fundamental concept in psychology.",
   "definition": "Transfer of Learning is a fundamental concept in psychology.",
   "explanation": "Learn about Transfer of Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "transfer-of-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

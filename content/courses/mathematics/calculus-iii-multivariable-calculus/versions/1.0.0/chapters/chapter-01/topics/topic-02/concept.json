@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-02",
   "name": "Points in Space",
   "subject": "mathematics",
+  "summary": "Points in Space is a fundamental concept in mathematics.",
   "definition": "Points in Space is a fundamental concept in mathematics.",
   "explanation": "Learn about Points in Space and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "points-in-space"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

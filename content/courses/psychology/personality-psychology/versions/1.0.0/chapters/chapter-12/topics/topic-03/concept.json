@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-12.topic-03",
   "name": "Education",
   "subject": "psychology",
+  "summary": "Education is a fundamental concept in psychology.",
   "definition": "Education is a fundamental concept in psychology.",
   "explanation": "Learn about Education and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "education"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

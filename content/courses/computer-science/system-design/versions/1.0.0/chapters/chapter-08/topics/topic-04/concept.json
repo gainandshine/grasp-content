@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-08.topic-04",
   "name": "Consensus (Introduction)",
   "subject": "computer-science",
+  "summary": "Consensus (Introduction) is a fundamental concept in computer-science.",
   "definition": "Consensus (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Consensus (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "consensus-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

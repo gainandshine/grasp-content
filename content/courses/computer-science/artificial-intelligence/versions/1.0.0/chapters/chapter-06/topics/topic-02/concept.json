@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-06.topic-02",
   "name": "State-Space Planning",
   "subject": "computer-science",
+  "summary": "State-Space Planning is a fundamental concept in computer-science.",
   "definition": "State-Space Planning is a fundamental concept in computer-science.",
   "explanation": "Learn about State-Space Planning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "state-space-planning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

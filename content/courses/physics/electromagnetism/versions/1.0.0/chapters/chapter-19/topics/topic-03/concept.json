@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-19.topic-03",
   "name": "Discharging",
   "subject": "physics",
+  "summary": "Discharging is a fundamental concept in physics.",
   "definition": "Discharging is a fundamental concept in physics.",
   "explanation": "Learn about Discharging and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "discharging"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

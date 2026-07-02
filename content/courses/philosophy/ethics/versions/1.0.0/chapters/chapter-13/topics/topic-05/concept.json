@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-13.topic-05",
   "name": "Existential Ethics",
   "subject": "philosophy",
+  "summary": "Existential Ethics is a fundamental concept in philosophy.",
   "definition": "Existential Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Existential Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "existential-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

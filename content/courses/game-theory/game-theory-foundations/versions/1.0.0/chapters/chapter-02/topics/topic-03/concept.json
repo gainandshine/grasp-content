@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-02.topic-03",
   "name": "Actions",
   "subject": "game-theory",
+  "summary": "Actions is a fundamental concept in game-theory.",
   "definition": "Actions is a fundamental concept in game-theory.",
   "explanation": "Learn about Actions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "actions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

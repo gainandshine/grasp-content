@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-12.topic-01",
   "name": "Nuclear Astrophysics",
   "subject": "physics",
+  "summary": "Nuclear Astrophysics is a fundamental concept in physics.",
   "definition": "Nuclear Astrophysics is a fundamental concept in physics.",
   "explanation": "Learn about Nuclear Astrophysics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "nuclear-astrophysics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

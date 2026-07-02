@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-01.topic-06",
   "name": "Collinear Points",
   "subject": "mathematics",
+  "summary": "Collinear Points is a fundamental concept in mathematics.",
   "definition": "Collinear Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Collinear Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "collinear-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

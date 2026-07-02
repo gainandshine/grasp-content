@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-03.topic-01",
   "name": "SQL Basics",
   "subject": "computer-science",
+  "summary": "SQL Basics is a fundamental concept in computer-science.",
   "definition": "SQL Basics is a fundamental concept in computer-science.",
   "explanation": "Learn about SQL Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sql-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

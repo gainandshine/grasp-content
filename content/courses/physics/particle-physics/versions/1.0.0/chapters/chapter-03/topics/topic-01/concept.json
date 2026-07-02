@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-03.topic-01",
   "name": "Gravitational Force",
   "subject": "physics",
+  "summary": "Gravitational Force is a fundamental concept in physics.",
   "definition": "Gravitational Force is a fundamental concept in physics.",
   "explanation": "Learn about Gravitational Force and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gravitational-force"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

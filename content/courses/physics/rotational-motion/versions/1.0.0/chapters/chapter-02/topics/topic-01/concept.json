@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-02.topic-01",
   "name": "Rotational Motion",
   "subject": "physics",
+  "summary": "Rotational Motion is a fundamental concept in physics.",
   "definition": "Rotational Motion is a fundamental concept in physics.",
   "explanation": "Learn about Rotational Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rotational-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

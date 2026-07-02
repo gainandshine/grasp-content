@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-09.topic-05",
   "name": "Roots of Polynomials",
   "subject": "mathematics",
+  "summary": "Roots of Polynomials is a fundamental concept in mathematics.",
   "definition": "Roots of Polynomials is a fundamental concept in mathematics.",
   "explanation": "Learn about Roots of Polynomials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "roots-of-polynomials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

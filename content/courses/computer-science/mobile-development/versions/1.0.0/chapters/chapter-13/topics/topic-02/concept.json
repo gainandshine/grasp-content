@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-02",
   "name": "E-Commerce Apps",
   "subject": "computer-science",
+  "summary": "E-Commerce Apps is a fundamental concept in computer-science.",
   "definition": "E-Commerce Apps is a fundamental concept in computer-science.",
   "explanation": "Learn about E-Commerce Apps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "e-commerce-apps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-08.topic-04",
   "name": "Backward Induction",
   "subject": "game-theory",
+  "summary": "Backward Induction is a fundamental concept in game-theory.",
   "definition": "Backward Induction is a fundamental concept in game-theory.",
   "explanation": "Learn about Backward Induction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "backward-induction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

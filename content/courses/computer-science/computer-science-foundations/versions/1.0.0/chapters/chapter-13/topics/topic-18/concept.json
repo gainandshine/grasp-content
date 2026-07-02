@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-18",
   "name": "Strings",
   "subject": "computer-science",
+  "summary": "Strings is a fundamental concept in computer-science.",
   "definition": "Strings is a fundamental concept in computer-science.",
   "explanation": "Learn about Strings and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "strings"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

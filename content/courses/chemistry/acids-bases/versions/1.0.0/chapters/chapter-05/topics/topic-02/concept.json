@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-05.topic-02",
   "name": "Base Dissociation Constant (Kb)",
   "subject": "chemistry",
+  "summary": "Base Dissociation Constant (Kb) is a fundamental concept in chemistry.",
   "definition": "Base Dissociation Constant (Kb) is a fundamental concept in chemistry.",
   "explanation": "Learn about Base Dissociation Constant (Kb) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "base-dissociation-constant-kb"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

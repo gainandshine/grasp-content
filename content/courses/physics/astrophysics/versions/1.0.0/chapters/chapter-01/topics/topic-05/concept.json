@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-01.topic-05",
   "name": "Parsec",
   "subject": "physics",
+  "summary": "Parsec is a fundamental concept in physics.",
   "definition": "Parsec is a fundamental concept in physics.",
   "explanation": "Learn about Parsec and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "parsec"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

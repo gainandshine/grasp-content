@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-06.topic-06",
   "name": "Utility Theory",
   "subject": "computer-science",
+  "summary": "Utility Theory is a fundamental concept in computer-science.",
   "definition": "Utility Theory is a fundamental concept in computer-science.",
   "explanation": "Learn about Utility Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "utility-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

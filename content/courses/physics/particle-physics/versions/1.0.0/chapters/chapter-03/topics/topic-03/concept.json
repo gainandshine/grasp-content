@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-03.topic-03",
   "name": "Weak Nuclear Force",
   "subject": "physics",
+  "summary": "Weak Nuclear Force is a fundamental concept in physics.",
   "definition": "Weak Nuclear Force is a fundamental concept in physics.",
   "explanation": "Learn about Weak Nuclear Force and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "weak-nuclear-force"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

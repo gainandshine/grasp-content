@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-05.topic-07",
   "name": "Viewport Transformation",
   "subject": "computer-science",
+  "summary": "Viewport Transformation is a fundamental concept in computer-science.",
   "definition": "Viewport Transformation is a fundamental concept in computer-science.",
   "explanation": "Learn about Viewport Transformation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "viewport-transformation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

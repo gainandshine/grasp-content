@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-01.topic-04",
   "name": "Factoring",
   "subject": "mathematics",
+  "summary": "Factoring is a fundamental concept in mathematics.",
   "definition": "Factoring is a fundamental concept in mathematics.",
   "explanation": "Learn about Factoring and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "factoring"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

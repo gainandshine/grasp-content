@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-13.topic-04",
   "name": "Collective Intelligence",
   "subject": "psychology",
+  "summary": "Collective Intelligence is a fundamental concept in psychology.",
   "definition": "Collective Intelligence is a fundamental concept in psychology.",
   "explanation": "Learn about Collective Intelligence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "collective-intelligence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

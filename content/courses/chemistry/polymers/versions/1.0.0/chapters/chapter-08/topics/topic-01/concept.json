@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-08.topic-01",
   "name": "Cellulose",
   "subject": "chemistry",
+  "summary": "Cellulose is a fundamental concept in chemistry.",
   "definition": "Cellulose is a fundamental concept in chemistry.",
   "explanation": "Learn about Cellulose and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cellulose"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-08.topic-07",
   "name": "Documentation",
   "subject": "computer-science",
+  "summary": "Documentation is a fundamental concept in computer-science.",
   "definition": "Documentation is a fundamental concept in computer-science.",
   "explanation": "Learn about Documentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "documentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

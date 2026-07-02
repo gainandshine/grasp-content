@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-11.topic-02",
   "name": "UI Testing",
   "subject": "computer-science",
+  "summary": "UI Testing is a fundamental concept in computer-science.",
   "definition": "UI Testing is a fundamental concept in computer-science.",
   "explanation": "Learn about UI Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ui-testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

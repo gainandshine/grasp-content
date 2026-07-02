@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-05.topic-02",
   "name": "Radical Equations",
   "subject": "mathematics",
+  "summary": "Radical Equations is a fundamental concept in mathematics.",
   "definition": "Radical Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Radical Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "radical-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

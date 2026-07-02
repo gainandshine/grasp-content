@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-05.topic-03",
   "name": "Orthographic Projection",
   "subject": "computer-science",
+  "summary": "Orthographic Projection is a fundamental concept in computer-science.",
   "definition": "Orthographic Projection is a fundamental concept in computer-science.",
   "explanation": "Learn about Orthographic Projection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "orthographic-projection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

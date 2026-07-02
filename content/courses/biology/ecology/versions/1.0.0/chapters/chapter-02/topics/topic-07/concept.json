@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-02.topic-07",
   "name": "Migration",
   "subject": "biology",
+  "summary": "Migration is a fundamental concept in biology.",
   "definition": "Migration is a fundamental concept in biology.",
   "explanation": "Learn about Migration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "migration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

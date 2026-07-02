@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-01.topic-01",
   "name": "What is Social Psychology?",
   "subject": "psychology",
+  "summary": "What is Social Psychology? is a fundamental concept in psychology.",
   "definition": "What is Social Psychology? is a fundamental concept in psychology.",
   "explanation": "Learn about What is Social Psychology? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "what-is-social-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

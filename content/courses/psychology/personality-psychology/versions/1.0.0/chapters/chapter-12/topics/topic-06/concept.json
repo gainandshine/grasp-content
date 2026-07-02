@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-12.topic-06",
   "name": "Personal Development",
   "subject": "psychology",
+  "summary": "Personal Development is a fundamental concept in psychology.",
   "definition": "Personal Development is a fundamental concept in psychology.",
   "explanation": "Learn about Personal Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "personal-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

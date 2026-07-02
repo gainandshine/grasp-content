@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-08.topic-01",
   "name": "Composite Functions",
   "subject": "mathematics",
+  "summary": "Composite Functions is a fundamental concept in mathematics.",
   "definition": "Composite Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Composite Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "composite-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

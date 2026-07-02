@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-13.topic-10",
   "name": "Processes & Threads",
   "subject": "computer-science",
+  "summary": "Processes & Threads is a fundamental concept in computer-science.",
   "definition": "Processes & Threads is a fundamental concept in computer-science.",
   "explanation": "Learn about Processes & Threads and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "processes-threads"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

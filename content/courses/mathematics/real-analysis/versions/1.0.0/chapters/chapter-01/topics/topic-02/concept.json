@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-01.topic-02",
   "name": "Number Sets",
   "subject": "mathematics",
+  "summary": "Number Sets is a fundamental concept in mathematics.",
   "definition": "Number Sets is a fundamental concept in mathematics.",
   "explanation": "Learn about Number Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "number-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-01",
   "name": "Definition of SHM",
   "subject": "physics",
+  "summary": "Definition of SHM is a fundamental concept in physics.",
   "definition": "Definition of SHM is a fundamental concept in physics.",
   "explanation": "Learn about Definition of SHM and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "definition-of-shm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-08.topic-02",
   "name": "Directories",
   "subject": "computer-science",
+  "summary": "Directories is a fundamental concept in computer-science.",
   "definition": "Directories is a fundamental concept in computer-science.",
   "explanation": "Learn about Directories and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "directories"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

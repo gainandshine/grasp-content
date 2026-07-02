@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-03.topic-04",
   "name": "Network Polymers",
   "subject": "chemistry",
+  "summary": "Network Polymers is a fundamental concept in chemistry.",
   "definition": "Network Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Network Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "network-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

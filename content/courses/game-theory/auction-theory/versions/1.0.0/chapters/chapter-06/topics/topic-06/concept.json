@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-06.topic-06",
   "name": "Entry Decisions",
   "subject": "game-theory",
+  "summary": "Entry Decisions is a fundamental concept in game-theory.",
   "definition": "Entry Decisions is a fundamental concept in game-theory.",
   "explanation": "Learn about Entry Decisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "entry-decisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

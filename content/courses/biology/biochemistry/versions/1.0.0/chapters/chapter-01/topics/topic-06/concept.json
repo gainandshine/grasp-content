@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-01.topic-06",
   "name": "Biomolecular Interactions",
   "subject": "biology",
+  "summary": "Biomolecular Interactions is a fundamental concept in biology.",
   "definition": "Biomolecular Interactions is a fundamental concept in biology.",
   "explanation": "Learn about Biomolecular Interactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biomolecular-interactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-09.topic-01",
   "name": "Anorexia Nervosa",
   "subject": "psychology",
+  "summary": "Anorexia Nervosa is a fundamental concept in psychology.",
   "definition": "Anorexia Nervosa is a fundamental concept in psychology.",
   "explanation": "Learn about Anorexia Nervosa and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "anorexia-nervosa"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

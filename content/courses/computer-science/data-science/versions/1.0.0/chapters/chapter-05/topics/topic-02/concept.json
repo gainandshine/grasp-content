@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-05.topic-02",
   "name": "Sampling",
   "subject": "computer-science",
+  "summary": "Sampling is a fundamental concept in computer-science.",
   "definition": "Sampling is a fundamental concept in computer-science.",
   "explanation": "Learn about Sampling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sampling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

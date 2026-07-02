@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-08.topic-02",
   "name": "Double Slit Diffraction",
   "subject": "physics",
+  "summary": "Double Slit Diffraction is a fundamental concept in physics.",
   "definition": "Double Slit Diffraction is a fundamental concept in physics.",
   "explanation": "Learn about Double Slit Diffraction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "double-slit-diffraction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

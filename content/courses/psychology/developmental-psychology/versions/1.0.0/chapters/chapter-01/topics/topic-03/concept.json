@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-01.topic-03",
   "name": "Nature vs Nurture",
   "subject": "psychology",
+  "summary": "Nature vs Nurture is a fundamental concept in psychology.",
   "definition": "Nature vs Nurture is a fundamental concept in psychology.",
   "explanation": "Learn about Nature vs Nurture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "nature-vs-nurture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

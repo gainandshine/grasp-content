@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-05",
   "name": "Transient Motion",
   "subject": "physics",
+  "summary": "Transient Motion is a fundamental concept in physics.",
   "definition": "Transient Motion is a fundamental concept in physics.",
   "explanation": "Learn about Transient Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "transient-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

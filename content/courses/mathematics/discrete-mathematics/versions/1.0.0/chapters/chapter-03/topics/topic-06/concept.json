@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-03.topic-06",
   "name": "Difference",
   "subject": "mathematics",
+  "summary": "Difference is a fundamental concept in mathematics.",
   "definition": "Difference is a fundamental concept in mathematics.",
   "explanation": "Learn about Difference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "difference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

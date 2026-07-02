@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-08.topic-01",
   "name": "Gene Mutations",
   "subject": "biology",
+  "summary": "Gene Mutations is a fundamental concept in biology.",
   "definition": "Gene Mutations is a fundamental concept in biology.",
   "explanation": "Learn about Gene Mutations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gene-mutations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

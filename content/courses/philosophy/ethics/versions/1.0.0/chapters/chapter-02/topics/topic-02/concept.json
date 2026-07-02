@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-02.topic-02",
   "name": "Character",
   "subject": "philosophy",
+  "summary": "Character is a fundamental concept in philosophy.",
   "definition": "Character is a fundamental concept in philosophy.",
   "explanation": "Learn about Character and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "character"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

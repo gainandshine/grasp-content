@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-09.topic-01",
   "name": "Keyframe Animation",
   "subject": "computer-science",
+  "summary": "Keyframe Animation is a fundamental concept in computer-science.",
   "definition": "Keyframe Animation is a fundamental concept in computer-science.",
   "explanation": "Learn about Keyframe Animation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "keyframe-animation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

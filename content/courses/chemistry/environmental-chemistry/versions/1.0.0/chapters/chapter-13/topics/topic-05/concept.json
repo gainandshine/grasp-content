@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-13.topic-05",
   "name": "Atmospheric Aerosols",
   "subject": "chemistry",
+  "summary": "Atmospheric Aerosols is a fundamental concept in chemistry.",
   "definition": "Atmospheric Aerosols is a fundamental concept in chemistry.",
   "explanation": "Learn about Atmospheric Aerosols and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atmospheric-aerosols"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

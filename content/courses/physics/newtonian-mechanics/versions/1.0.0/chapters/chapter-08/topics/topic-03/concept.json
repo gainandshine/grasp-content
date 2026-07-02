@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-08.topic-03",
   "name": "Vertical Circular Motion",
   "subject": "physics",
+  "summary": "Vertical Circular Motion is a fundamental concept in physics.",
   "definition": "Vertical Circular Motion is a fundamental concept in physics.",
   "explanation": "Learn about Vertical Circular Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "vertical-circular-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

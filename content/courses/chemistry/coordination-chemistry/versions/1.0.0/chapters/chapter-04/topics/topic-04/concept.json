@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-04.topic-04",
   "name": "Naming Neutral Complexes",
   "subject": "chemistry",
+  "summary": "Naming Neutral Complexes is a fundamental concept in chemistry.",
   "definition": "Naming Neutral Complexes is a fundamental concept in chemistry.",
   "explanation": "Learn about Naming Neutral Complexes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "naming-neutral-complexes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

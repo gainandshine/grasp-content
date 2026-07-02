@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-03.topic-01",
   "name": "Time-Dependent Schrödinger Equation",
   "subject": "physics",
+  "summary": "Time-Dependent Schrödinger Equation is a fundamental concept in physics.",
   "definition": "Time-Dependent Schrödinger Equation is a fundamental concept in physics.",
   "explanation": "Learn about Time-Dependent Schrödinger Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "time-dependent-schrdinger-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

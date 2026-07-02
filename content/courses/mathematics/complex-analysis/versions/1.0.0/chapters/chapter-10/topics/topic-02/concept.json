@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-10.topic-02",
   "name": "Gamma Function (Introduction)",
   "subject": "mathematics",
+  "summary": "Gamma Function (Introduction) is a fundamental concept in mathematics.",
   "definition": "Gamma Function (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Gamma Function (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "gamma-function-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

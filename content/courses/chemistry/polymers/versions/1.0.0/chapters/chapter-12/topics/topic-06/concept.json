@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-12.topic-06",
   "name": "Prosthetics",
   "subject": "chemistry",
+  "summary": "Prosthetics is a fundamental concept in chemistry.",
   "definition": "Prosthetics is a fundamental concept in chemistry.",
   "explanation": "Learn about Prosthetics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "prosthetics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

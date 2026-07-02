@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-03.topic-05",
   "name": "Bitwise Operators (Introduction)",
   "subject": "computer-science",
+  "summary": "Bitwise Operators (Introduction) is a fundamental concept in computer-science.",
   "definition": "Bitwise Operators (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Bitwise Operators (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "bitwise-operators-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

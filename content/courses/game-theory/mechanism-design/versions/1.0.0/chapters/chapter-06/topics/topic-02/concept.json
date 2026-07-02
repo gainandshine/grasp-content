@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-06.topic-02",
   "name": "Matching Algorithms",
   "subject": "game-theory",
+  "summary": "Matching Algorithms is a fundamental concept in game-theory.",
   "definition": "Matching Algorithms is a fundamental concept in game-theory.",
   "explanation": "Learn about Matching Algorithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "matching-algorithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

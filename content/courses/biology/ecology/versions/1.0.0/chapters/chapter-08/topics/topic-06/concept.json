@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-08.topic-06",
   "name": "Sustainable Resource Management",
   "subject": "biology",
+  "summary": "Sustainable Resource Management is a fundamental concept in biology.",
   "definition": "Sustainable Resource Management is a fundamental concept in biology.",
   "explanation": "Learn about Sustainable Resource Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "sustainable-resource-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

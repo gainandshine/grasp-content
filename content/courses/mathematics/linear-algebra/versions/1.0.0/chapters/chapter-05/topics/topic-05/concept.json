@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-05.topic-05",
   "name": "Span",
   "subject": "mathematics",
+  "summary": "Span is a fundamental concept in mathematics.",
   "definition": "Span is a fundamental concept in mathematics.",
   "explanation": "Learn about Span and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "span"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

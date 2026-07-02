@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-10.topic-01",
   "name": "Forecasting Models",
   "subject": "economics",
+  "summary": "Forecasting Models is a fundamental concept in economics.",
   "definition": "Forecasting Models is a fundamental concept in economics.",
   "explanation": "Learn about Forecasting Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "forecasting-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

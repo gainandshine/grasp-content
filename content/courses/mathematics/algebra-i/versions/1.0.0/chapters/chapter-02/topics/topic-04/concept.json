@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-02.topic-04",
   "name": "Equations with Fractions",
   "subject": "mathematics",
+  "summary": "Equations with Fractions is a fundamental concept in mathematics.",
   "definition": "Equations with Fractions is a fundamental concept in mathematics.",
   "explanation": "Learn about Equations with Fractions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "equations-with-fractions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

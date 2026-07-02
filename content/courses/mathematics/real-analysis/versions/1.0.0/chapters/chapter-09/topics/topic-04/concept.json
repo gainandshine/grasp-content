@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-09.topic-04",
   "name": "Neighborhoods",
   "subject": "mathematics",
+  "summary": "Neighborhoods is a fundamental concept in mathematics.",
   "definition": "Neighborhoods is a fundamental concept in mathematics.",
   "explanation": "Learn about Neighborhoods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "neighborhoods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

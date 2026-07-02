@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-02.topic-07",
   "name": "Viewports",
   "subject": "computer-science",
+  "summary": "Viewports is a fundamental concept in computer-science.",
   "definition": "Viewports is a fundamental concept in computer-science.",
   "explanation": "Learn about Viewports and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "viewports"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

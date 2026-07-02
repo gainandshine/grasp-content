@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-01.topic-05",
   "name": "Models in Physics",
   "subject": "physics",
+  "summary": "Models in Physics is a fundamental concept in physics.",
   "definition": "Models in Physics is a fundamental concept in physics.",
   "explanation": "Learn about Models in Physics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "models-in-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

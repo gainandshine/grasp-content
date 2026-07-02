@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-06.topic-02",
   "name": "Resource Competition",
   "subject": "game-theory",
+  "summary": "Resource Competition is a fundamental concept in game-theory.",
   "definition": "Resource Competition is a fundamental concept in game-theory.",
   "explanation": "Learn about Resource Competition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "resource-competition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-04.topic-06",
   "name": "Motherboard",
   "subject": "computer-science",
+  "summary": "Motherboard is a fundamental concept in computer-science.",
   "definition": "Motherboard is a fundamental concept in computer-science.",
   "explanation": "Learn about Motherboard and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "motherboard"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

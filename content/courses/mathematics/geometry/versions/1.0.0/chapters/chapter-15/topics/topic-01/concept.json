@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-15.topic-01",
   "name": "Two-Column Proofs",
   "subject": "mathematics",
+  "summary": "Two-Column Proofs is a fundamental concept in mathematics.",
   "definition": "Two-Column Proofs is a fundamental concept in mathematics.",
   "explanation": "Learn about Two-Column Proofs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "two-column-proofs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

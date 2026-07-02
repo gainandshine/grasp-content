@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-10.topic-04",
   "name": "Theory",
   "subject": "philosophy",
+  "summary": "Theory is a fundamental concept in philosophy.",
   "definition": "Theory is a fundamental concept in philosophy.",
   "explanation": "Learn about Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

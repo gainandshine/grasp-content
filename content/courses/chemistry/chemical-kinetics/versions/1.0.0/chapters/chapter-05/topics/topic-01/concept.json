@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-05.topic-01",
   "name": "Collision Theory",
   "subject": "chemistry",
+  "summary": "Collision Theory is a fundamental concept in chemistry.",
   "definition": "Collision Theory is a fundamental concept in chemistry.",
   "explanation": "Learn about Collision Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "collision-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

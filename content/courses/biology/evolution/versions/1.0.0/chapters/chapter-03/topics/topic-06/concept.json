@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-03.topic-06",
   "name": "Bottleneck Effect",
   "subject": "biology",
+  "summary": "Bottleneck Effect is a fundamental concept in biology.",
   "definition": "Bottleneck Effect is a fundamental concept in biology.",
   "explanation": "Learn about Bottleneck Effect and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "bottleneck-effect"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-05",
   "name": "Maps & Navigation",
   "subject": "computer-science",
+  "summary": "Maps & Navigation is a fundamental concept in computer-science.",
   "definition": "Maps & Navigation is a fundamental concept in computer-science.",
   "explanation": "Learn about Maps & Navigation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "maps-navigation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

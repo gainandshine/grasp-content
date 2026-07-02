@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-11.topic-01",
   "name": "Plastic Pollution",
   "subject": "chemistry",
+  "summary": "Plastic Pollution is a fundamental concept in chemistry.",
   "definition": "Plastic Pollution is a fundamental concept in chemistry.",
   "explanation": "Learn about Plastic Pollution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "plastic-pollution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

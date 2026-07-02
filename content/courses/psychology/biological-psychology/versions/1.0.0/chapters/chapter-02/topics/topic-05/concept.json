@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-02.topic-05",
   "name": "Synaptic Transmission",
   "subject": "psychology",
+  "summary": "Synaptic Transmission is a fundamental concept in psychology.",
   "definition": "Synaptic Transmission is a fundamental concept in psychology.",
   "explanation": "Learn about Synaptic Transmission and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "synaptic-transmission"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

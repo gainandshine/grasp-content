@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-14.topic-05",
   "name": "Robotics",
   "subject": "mathematics",
+  "summary": "Robotics is a fundamental concept in mathematics.",
   "definition": "Robotics is a fundamental concept in mathematics.",
   "explanation": "Learn about Robotics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "robotics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-11.topic-05",
   "name": "Hamiltonian Graphs",
   "subject": "mathematics",
+  "summary": "Hamiltonian Graphs is a fundamental concept in mathematics.",
   "definition": "Hamiltonian Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Hamiltonian Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "hamiltonian-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

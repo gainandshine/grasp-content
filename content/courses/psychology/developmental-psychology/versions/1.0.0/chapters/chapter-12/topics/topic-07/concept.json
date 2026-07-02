@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-12.topic-07",
   "name": "Public Policy",
   "subject": "psychology",
+  "summary": "Public Policy is a fundamental concept in psychology.",
   "definition": "Public Policy is a fundamental concept in psychology.",
   "explanation": "Learn about Public Policy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "public-policy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

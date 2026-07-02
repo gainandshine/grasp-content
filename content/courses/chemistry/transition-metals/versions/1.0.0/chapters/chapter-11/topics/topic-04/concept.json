@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-11.topic-04",
   "name": "Coinage Metals",
   "subject": "chemistry",
+  "summary": "Coinage Metals is a fundamental concept in chemistry.",
   "definition": "Coinage Metals is a fundamental concept in chemistry.",
   "explanation": "Learn about Coinage Metals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "coinage-metals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-01.topic-01",
   "name": "Position of Hydrogen",
   "subject": "chemistry",
+  "summary": "Position of Hydrogen is a fundamental concept in chemistry.",
   "definition": "Position of Hydrogen is a fundamental concept in chemistry.",
   "explanation": "Learn about Position of Hydrogen and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "position-of-hydrogen"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

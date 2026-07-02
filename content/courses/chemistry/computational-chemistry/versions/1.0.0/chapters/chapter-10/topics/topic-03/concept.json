@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-10.topic-03",
   "name": "Ligand Design",
   "subject": "chemistry",
+  "summary": "Ligand Design is a fundamental concept in chemistry.",
   "definition": "Ligand Design is a fundamental concept in chemistry.",
   "explanation": "Learn about Ligand Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ligand-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

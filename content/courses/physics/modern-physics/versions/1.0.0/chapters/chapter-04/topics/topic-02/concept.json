@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-04.topic-02",
   "name": "de Broglie Hypothesis",
   "subject": "physics",
+  "summary": "de Broglie Hypothesis is a fundamental concept in physics.",
   "definition": "de Broglie Hypothesis is a fundamental concept in physics.",
   "explanation": "Learn about de Broglie Hypothesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "de-broglie-hypothesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

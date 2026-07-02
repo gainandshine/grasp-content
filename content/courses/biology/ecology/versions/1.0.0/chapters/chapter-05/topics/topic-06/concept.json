@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-05.topic-06",
   "name": "Taiga",
   "subject": "biology",
+  "summary": "Taiga is a fundamental concept in biology.",
   "definition": "Taiga is a fundamental concept in biology.",
   "explanation": "Learn about Taiga and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "taiga"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

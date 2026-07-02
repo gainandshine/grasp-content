@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-08.topic-04",
   "name": "Probability",
   "subject": "philosophy",
+  "summary": "Probability is a fundamental concept in philosophy.",
   "definition": "Probability is a fundamental concept in philosophy.",
   "explanation": "Learn about Probability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "probability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

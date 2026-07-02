@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-06.topic-06",
   "name": "Heatmaps",
   "subject": "computer-science",
+  "summary": "Heatmaps is a fundamental concept in computer-science.",
   "definition": "Heatmaps is a fundamental concept in computer-science.",
   "explanation": "Learn about Heatmaps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "heatmaps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

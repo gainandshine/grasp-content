@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-07.topic-07",
   "name": "Checkpoints",
   "subject": "biology",
+  "summary": "Checkpoints is a fundamental concept in biology.",
   "definition": "Checkpoints is a fundamental concept in biology.",
   "explanation": "Learn about Checkpoints and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "checkpoints"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-07.topic-01",
   "name": "Point Estimation",
   "subject": "mathematics",
+  "summary": "Point Estimation is a fundamental concept in mathematics.",
   "definition": "Point Estimation is a fundamental concept in mathematics.",
   "explanation": "Learn about Point Estimation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "point-estimation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

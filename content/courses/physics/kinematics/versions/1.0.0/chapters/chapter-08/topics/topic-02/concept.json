@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-08.topic-02",
   "name": "Vector Components",
   "subject": "physics",
+  "summary": "Vector Components is a fundamental concept in physics.",
   "definition": "Vector Components is a fundamental concept in physics.",
   "explanation": "Learn about Vector Components and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "vector-components"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

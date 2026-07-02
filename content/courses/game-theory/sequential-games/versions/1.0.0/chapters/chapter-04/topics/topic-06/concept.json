@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-04.topic-06",
   "name": "Sequential Rationality",
   "subject": "game-theory",
+  "summary": "Sequential Rationality is a fundamental concept in game-theory.",
   "definition": "Sequential Rationality is a fundamental concept in game-theory.",
   "explanation": "Learn about Sequential Rationality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "sequential-rationality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

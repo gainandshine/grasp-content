@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-12.topic-05",
   "name": "Space Science",
   "subject": "physics",
+  "summary": "Space Science is a fundamental concept in physics.",
   "definition": "Space Science is a fundamental concept in physics.",
   "explanation": "Learn about Space Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "space-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

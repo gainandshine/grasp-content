@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-12.topic-11",
   "name": "Carbon Group",
   "subject": "chemistry",
+  "summary": "Carbon Group is a fundamental concept in chemistry.",
   "definition": "Carbon Group is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbon Group and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbon-group"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

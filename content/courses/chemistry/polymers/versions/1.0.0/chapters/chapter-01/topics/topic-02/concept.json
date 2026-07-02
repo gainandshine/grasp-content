@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-01.topic-02",
   "name": "Monomers",
   "subject": "chemistry",
+  "summary": "Monomers is a fundamental concept in chemistry.",
   "definition": "Monomers is a fundamental concept in chemistry.",
   "explanation": "Learn about Monomers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "monomers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

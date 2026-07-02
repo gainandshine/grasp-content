@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-07.topic-04",
   "name": "Cube Roots",
   "subject": "mathematics",
+  "summary": "Cube Roots is a fundamental concept in mathematics.",
   "definition": "Cube Roots is a fundamental concept in mathematics.",
   "explanation": "Learn about Cube Roots and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "cube-roots"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

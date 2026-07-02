@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-13.topic-04",
   "name": "Antennas",
   "subject": "physics",
+  "summary": "Antennas is a fundamental concept in physics.",
   "definition": "Antennas is a fundamental concept in physics.",
   "explanation": "Learn about Antennas and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "antennas"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

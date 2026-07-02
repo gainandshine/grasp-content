@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-09.topic-03",
   "name": "Chelate Effect",
   "subject": "chemistry",
+  "summary": "Chelate Effect is a fundamental concept in chemistry.",
   "definition": "Chelate Effect is a fundamental concept in chemistry.",
   "explanation": "Learn about Chelate Effect and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chelate-effect"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

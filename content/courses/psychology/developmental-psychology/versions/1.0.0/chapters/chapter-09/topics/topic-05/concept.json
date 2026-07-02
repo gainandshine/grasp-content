@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-09.topic-05",
   "name": "Social Support",
   "subject": "psychology",
+  "summary": "Social Support is a fundamental concept in psychology.",
   "definition": "Social Support is a fundamental concept in psychology.",
   "explanation": "Learn about Social Support and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "social-support"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

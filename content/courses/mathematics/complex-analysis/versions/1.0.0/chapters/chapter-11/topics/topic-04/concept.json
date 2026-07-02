@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-11.topic-04",
   "name": "Electromagnetic Fields",
   "subject": "mathematics",
+  "summary": "Electromagnetic Fields is a fundamental concept in mathematics.",
   "definition": "Electromagnetic Fields is a fundamental concept in mathematics.",
   "explanation": "Learn about Electromagnetic Fields and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "electromagnetic-fields"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

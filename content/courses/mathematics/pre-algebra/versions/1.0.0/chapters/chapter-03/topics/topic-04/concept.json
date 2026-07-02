@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-03.topic-04",
   "name": "Mixed Numbers",
   "subject": "mathematics",
+  "summary": "Mixed Numbers is a fundamental concept in mathematics.",
   "definition": "Mixed Numbers is a fundamental concept in mathematics.",
   "explanation": "Learn about Mixed Numbers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mixed-numbers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

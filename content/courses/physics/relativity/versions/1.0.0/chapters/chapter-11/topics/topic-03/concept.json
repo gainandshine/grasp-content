@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-11.topic-03",
   "name": "Cosmological Constant",
   "subject": "physics",
+  "summary": "Cosmological Constant is a fundamental concept in physics.",
   "definition": "Cosmological Constant is a fundamental concept in physics.",
   "explanation": "Learn about Cosmological Constant and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cosmological-constant"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

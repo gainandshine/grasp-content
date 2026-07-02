@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-08.topic-04",
   "name": "Electrocatalysis",
   "subject": "chemistry",
+  "summary": "Electrocatalysis is a fundamental concept in chemistry.",
   "definition": "Electrocatalysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrocatalysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrocatalysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

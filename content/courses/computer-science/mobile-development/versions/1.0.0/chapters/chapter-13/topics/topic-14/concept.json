@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-14",
   "name": "Messaging Systems",
   "subject": "computer-science",
+  "summary": "Messaging Systems is a fundamental concept in computer-science.",
   "definition": "Messaging Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Messaging Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "messaging-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

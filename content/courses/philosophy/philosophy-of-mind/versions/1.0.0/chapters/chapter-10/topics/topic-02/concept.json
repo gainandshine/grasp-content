@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-mind.chapter-10.topic-02",
   "name": "Computational Theory of Mind",
   "subject": "philosophy",
+  "summary": "Computational Theory of Mind is a fundamental concept in philosophy.",
   "definition": "Computational Theory of Mind is a fundamental concept in philosophy.",
   "explanation": "Learn about Computational Theory of Mind and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "computational-theory-of-mind"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

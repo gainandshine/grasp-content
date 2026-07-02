@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-10.topic-05",
   "name": "Distance Traveled",
   "subject": "mathematics",
+  "summary": "Distance Traveled is a fundamental concept in mathematics.",
   "definition": "Distance Traveled is a fundamental concept in mathematics.",
   "explanation": "Learn about Distance Traveled and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "distance-traveled"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

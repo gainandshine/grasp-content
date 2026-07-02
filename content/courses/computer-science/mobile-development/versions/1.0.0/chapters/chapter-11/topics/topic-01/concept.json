@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-11.topic-01",
   "name": "Unit Testing",
   "subject": "computer-science",
+  "summary": "Unit Testing is a fundamental concept in computer-science.",
   "definition": "Unit Testing is a fundamental concept in computer-science.",
   "explanation": "Learn about Unit Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "unit-testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

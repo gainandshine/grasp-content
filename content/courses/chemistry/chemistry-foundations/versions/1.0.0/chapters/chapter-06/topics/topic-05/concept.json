@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-06.topic-05",
   "name": "Structural Formula",
   "subject": "chemistry",
+  "summary": "Structural Formula is a fundamental concept in chemistry.",
   "definition": "Structural Formula is a fundamental concept in chemistry.",
   "explanation": "Learn about Structural Formula and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "structural-formula"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

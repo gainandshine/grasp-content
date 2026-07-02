@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-08.topic-02",
   "name": "Starch",
   "subject": "chemistry",
+  "summary": "Starch is a fundamental concept in chemistry.",
   "definition": "Starch is a fundamental concept in chemistry.",
   "explanation": "Learn about Starch and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "starch"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

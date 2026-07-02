@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-09.topic-06",
   "name": "Data Recovery",
   "subject": "computer-science",
+  "summary": "Data Recovery is a fundamental concept in computer-science.",
   "definition": "Data Recovery is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Recovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-recovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-11.topic-01",
   "name": "Blood pH Regulation",
   "subject": "chemistry",
+  "summary": "Blood pH Regulation is a fundamental concept in chemistry.",
   "definition": "Blood pH Regulation is a fundamental concept in chemistry.",
   "explanation": "Learn about Blood pH Regulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "blood-ph-regulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

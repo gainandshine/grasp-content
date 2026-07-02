@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-03.topic-02",
   "name": "Humoral Immunity",
   "subject": "biology",
+  "summary": "Humoral Immunity is a fundamental concept in biology.",
   "definition": "Humoral Immunity is a fundamental concept in biology.",
   "explanation": "Learn about Humoral Immunity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "humoral-immunity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

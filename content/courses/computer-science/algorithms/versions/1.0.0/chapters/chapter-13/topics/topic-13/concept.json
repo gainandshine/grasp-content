@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-13",
   "name": "Combinational Circuits",
   "subject": "computer-science",
+  "summary": "Combinational Circuits is a fundamental concept in computer-science.",
   "definition": "Combinational Circuits is a fundamental concept in computer-science.",
   "explanation": "Learn about Combinational Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "combinational-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

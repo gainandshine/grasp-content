@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-07.topic-06",
   "name": "Strategic Adjustment",
   "subject": "game-theory",
+  "summary": "Strategic Adjustment is a fundamental concept in game-theory.",
   "definition": "Strategic Adjustment is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Adjustment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-adjustment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

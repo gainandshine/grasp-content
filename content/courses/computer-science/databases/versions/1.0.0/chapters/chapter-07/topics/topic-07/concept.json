@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-07.topic-07",
   "name": "Recovery",
   "subject": "computer-science",
+  "summary": "Recovery is a fundamental concept in computer-science.",
   "definition": "Recovery is a fundamental concept in computer-science.",
   "explanation": "Learn about Recovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "recovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

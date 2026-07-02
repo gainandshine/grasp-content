@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-10.topic-03",
   "name": "Even & Odd Functions",
   "subject": "mathematics",
+  "summary": "Even & Odd Functions is a fundamental concept in mathematics.",
   "definition": "Even & Odd Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Even & Odd Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "even-odd-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

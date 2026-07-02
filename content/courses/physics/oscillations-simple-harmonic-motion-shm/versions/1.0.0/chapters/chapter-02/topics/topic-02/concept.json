@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-02",
   "name": "Conditions for SHM",
   "subject": "physics",
+  "summary": "Conditions for SHM is a fundamental concept in physics.",
   "definition": "Conditions for SHM is a fundamental concept in physics.",
   "explanation": "Learn about Conditions for SHM and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "conditions-for-shm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

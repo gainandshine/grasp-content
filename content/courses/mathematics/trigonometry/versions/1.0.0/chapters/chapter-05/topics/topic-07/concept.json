@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-05.topic-07",
   "name": "Phase Shift",
   "subject": "mathematics",
+  "summary": "Phase Shift is a fundamental concept in mathematics.",
   "definition": "Phase Shift is a fundamental concept in mathematics.",
   "explanation": "Learn about Phase Shift and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "phase-shift"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

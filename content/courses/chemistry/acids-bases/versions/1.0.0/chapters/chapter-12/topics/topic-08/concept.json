@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-12.topic-08",
   "name": "Oxidation Numbers",
   "subject": "chemistry",
+  "summary": "Oxidation Numbers is a fundamental concept in chemistry.",
   "definition": "Oxidation Numbers is a fundamental concept in chemistry.",
   "explanation": "Learn about Oxidation Numbers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oxidation-numbers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

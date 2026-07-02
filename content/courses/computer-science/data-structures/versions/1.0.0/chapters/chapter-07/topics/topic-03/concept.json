@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-07.topic-03",
   "name": "Binary Search Trees (BST)",
   "subject": "computer-science",
+  "summary": "Binary Search Trees (BST) is a fundamental concept in computer-science.",
   "definition": "Binary Search Trees (BST) is a fundamental concept in computer-science.",
   "explanation": "Learn about Binary Search Trees (BST) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "binary-search-trees-bst"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

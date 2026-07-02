@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-03.topic-01",
   "name": "Force and Acceleration",
   "subject": "physics",
+  "summary": "Force and Acceleration is a fundamental concept in physics.",
   "definition": "Force and Acceleration is a fundamental concept in physics.",
   "explanation": "Learn about Force and Acceleration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "force-and-acceleration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

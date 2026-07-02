@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-01.topic-05",
   "name": "Earth's Magnetic Field",
   "subject": "physics",
+  "summary": "Earth's Magnetic Field is a fundamental concept in physics.",
   "definition": "Earth's Magnetic Field is a fundamental concept in physics.",
   "explanation": "Learn about Earth's Magnetic Field and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "earths-magnetic-field"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

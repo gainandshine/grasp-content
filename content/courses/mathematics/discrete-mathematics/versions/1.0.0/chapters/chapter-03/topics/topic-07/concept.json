@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-03.topic-07",
   "name": "Complement",
   "subject": "mathematics",
+  "summary": "Complement is a fundamental concept in mathematics.",
   "definition": "Complement is a fundamental concept in mathematics.",
   "explanation": "Learn about Complement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "complement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

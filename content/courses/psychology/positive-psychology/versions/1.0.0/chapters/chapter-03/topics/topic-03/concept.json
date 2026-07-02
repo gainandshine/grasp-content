@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-03.topic-03",
   "name": "Hope",
   "subject": "psychology",
+  "summary": "Hope is a fundamental concept in psychology.",
   "definition": "Hope is a fundamental concept in psychology.",
   "explanation": "Learn about Hope and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "hope"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

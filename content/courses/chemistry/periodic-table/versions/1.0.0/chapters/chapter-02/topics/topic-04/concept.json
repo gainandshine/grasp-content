@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-02.topic-04",
   "name": "Metals",
   "subject": "chemistry",
+  "summary": "Metals is a fundamental concept in chemistry.",
   "definition": "Metals is a fundamental concept in chemistry.",
   "explanation": "Learn about Metals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

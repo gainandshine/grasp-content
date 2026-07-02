@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-04.topic-04",
   "name": "Activity Diagrams",
   "subject": "computer-science",
+  "summary": "Activity Diagrams is a fundamental concept in computer-science.",
   "definition": "Activity Diagrams is a fundamental concept in computer-science.",
   "explanation": "Learn about Activity Diagrams and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "activity-diagrams"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

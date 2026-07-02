@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-19.topic-05",
   "name": "Energy Storage",
   "subject": "physics",
+  "summary": "Energy Storage is a fundamental concept in physics.",
   "definition": "Energy Storage is a fundamental concept in physics.",
   "explanation": "Learn about Energy Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

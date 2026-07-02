@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-07.topic-01",
   "name": "Revenue Equivalence Theorem",
   "subject": "game-theory",
+  "summary": "Revenue Equivalence Theorem is a fundamental concept in game-theory.",
   "definition": "Revenue Equivalence Theorem is a fundamental concept in game-theory.",
   "explanation": "Learn about Revenue Equivalence Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "revenue-equivalence-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

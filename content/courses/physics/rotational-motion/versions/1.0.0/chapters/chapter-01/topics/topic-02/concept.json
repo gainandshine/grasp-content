@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-01.topic-02",
   "name": "Angular Velocity",
   "subject": "physics",
+  "summary": "Angular Velocity is a fundamental concept in physics.",
   "definition": "Angular Velocity is a fundamental concept in physics.",
   "explanation": "Learn about Angular Velocity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "angular-velocity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

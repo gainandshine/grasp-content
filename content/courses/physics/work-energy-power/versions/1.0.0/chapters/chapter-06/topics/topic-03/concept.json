@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-06.topic-03",
   "name": "Instantaneous Power",
   "subject": "physics",
+  "summary": "Instantaneous Power is a fundamental concept in physics.",
   "definition": "Instantaneous Power is a fundamental concept in physics.",
   "explanation": "Learn about Instantaneous Power and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "instantaneous-power"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

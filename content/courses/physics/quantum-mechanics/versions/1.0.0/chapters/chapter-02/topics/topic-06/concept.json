@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-02.topic-06",
   "name": "Physical Interpretation",
   "subject": "physics",
+  "summary": "Physical Interpretation is a fundamental concept in physics.",
   "definition": "Physical Interpretation is a fundamental concept in physics.",
   "explanation": "Learn about Physical Interpretation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "physical-interpretation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

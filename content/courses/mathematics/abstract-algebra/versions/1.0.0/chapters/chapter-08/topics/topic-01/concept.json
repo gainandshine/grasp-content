@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-08.topic-01",
   "name": "Definition of a Field",
   "subject": "mathematics",
+  "summary": "Definition of a Field is a fundamental concept in mathematics.",
   "definition": "Definition of a Field is a fundamental concept in mathematics.",
   "explanation": "Learn about Definition of a Field and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "definition-of-a-field"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-04.topic-01",
   "name": "Antigens",
   "subject": "biology",
+  "summary": "Antigens is a fundamental concept in biology.",
   "definition": "Antigens is a fundamental concept in biology.",
   "explanation": "Learn about Antigens and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "antigens"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

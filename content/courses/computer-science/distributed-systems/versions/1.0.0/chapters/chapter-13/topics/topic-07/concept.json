@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-13.topic-07",
   "name": "*Course 15: Compiler Design**",
   "subject": "computer-science",
+  "summary": "*Course 15: Compiler Design** is a fundamental concept in computer-science.",
   "definition": "*Course 15: Compiler Design** is a fundamental concept in computer-science.",
   "explanation": "Learn about *Course 15: Compiler Design** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "course-15-compiler-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

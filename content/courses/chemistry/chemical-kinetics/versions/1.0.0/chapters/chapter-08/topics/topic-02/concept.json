@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-08.topic-02",
   "name": "Elementary Steps",
   "subject": "chemistry",
+  "summary": "Elementary Steps is a fundamental concept in chemistry.",
   "definition": "Elementary Steps is a fundamental concept in chemistry.",
   "explanation": "Learn about Elementary Steps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "elementary-steps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

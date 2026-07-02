@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-07.topic-02",
   "name": "Heterolytic Cleavage",
   "subject": "chemistry",
+  "summary": "Heterolytic Cleavage is a fundamental concept in chemistry.",
   "definition": "Heterolytic Cleavage is a fundamental concept in chemistry.",
   "explanation": "Learn about Heterolytic Cleavage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "heterolytic-cleavage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

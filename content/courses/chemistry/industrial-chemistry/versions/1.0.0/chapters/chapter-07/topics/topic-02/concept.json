@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-07.topic-02",
   "name": "Glass Production",
   "subject": "chemistry",
+  "summary": "Glass Production is a fundamental concept in chemistry.",
   "definition": "Glass Production is a fundamental concept in chemistry.",
   "explanation": "Learn about Glass Production and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "glass-production"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

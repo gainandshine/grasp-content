@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-01.topic-02",
   "name": "Algebra of Complex Numbers",
   "subject": "mathematics",
+  "summary": "Algebra of Complex Numbers is a fundamental concept in mathematics.",
   "definition": "Algebra of Complex Numbers is a fundamental concept in mathematics.",
   "explanation": "Learn about Algebra of Complex Numbers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "algebra-of-complex-numbers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

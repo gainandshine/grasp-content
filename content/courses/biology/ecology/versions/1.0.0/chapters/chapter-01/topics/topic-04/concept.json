@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-01.topic-04",
   "name": "Niche",
   "subject": "biology",
+  "summary": "Niche is a fundamental concept in biology.",
   "definition": "Niche is a fundamental concept in biology.",
   "explanation": "Learn about Niche and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "niche"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

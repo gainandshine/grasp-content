@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-09.topic-02",
   "name": "Skeletal Animation",
   "subject": "computer-science",
+  "summary": "Skeletal Animation is a fundamental concept in computer-science.",
   "definition": "Skeletal Animation is a fundamental concept in computer-science.",
   "explanation": "Learn about Skeletal Animation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "skeletal-animation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

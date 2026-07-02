@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-12.topic-01",
   "name": "Nonlinear Plasma Dynamics",
   "subject": "physics",
+  "summary": "Nonlinear Plasma Dynamics is a fundamental concept in physics.",
   "definition": "Nonlinear Plasma Dynamics is a fundamental concept in physics.",
   "explanation": "Learn about Nonlinear Plasma Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "nonlinear-plasma-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-09.topic-02",
   "name": "Exterior Angles",
   "subject": "mathematics",
+  "summary": "Exterior Angles is a fundamental concept in mathematics.",
   "definition": "Exterior Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Exterior Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "exterior-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-02",
   "name": "Vehicle Suspension",
   "subject": "physics",
+  "summary": "Vehicle Suspension is a fundamental concept in physics.",
   "definition": "Vehicle Suspension is a fundamental concept in physics.",
   "explanation": "Learn about Vehicle Suspension and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "vehicle-suspension"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

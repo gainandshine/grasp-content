@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-05.topic-06",
   "name": "Lattice Enthalpy",
   "subject": "chemistry",
+  "summary": "Lattice Enthalpy is a fundamental concept in chemistry.",
   "definition": "Lattice Enthalpy is a fundamental concept in chemistry.",
   "explanation": "Learn about Lattice Enthalpy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "lattice-enthalpy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

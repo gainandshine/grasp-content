@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-05.topic-07",
   "name": "Camera",
   "subject": "physics",
+  "summary": "Camera is a fundamental concept in physics.",
   "definition": "Camera is a fundamental concept in physics.",
   "explanation": "Learn about Camera and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "camera"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

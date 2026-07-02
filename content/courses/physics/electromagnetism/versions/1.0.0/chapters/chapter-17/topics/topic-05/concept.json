@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-17.topic-05",
   "name": "Circuit Simplification",
   "subject": "physics",
+  "summary": "Circuit Simplification is a fundamental concept in physics.",
   "definition": "Circuit Simplification is a fundamental concept in physics.",
   "explanation": "Learn about Circuit Simplification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "circuit-simplification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

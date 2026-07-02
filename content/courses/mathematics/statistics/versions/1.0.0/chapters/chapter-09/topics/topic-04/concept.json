@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-09.topic-04",
   "name": "F-Test",
   "subject": "mathematics",
+  "summary": "F-Test is a fundamental concept in mathematics.",
   "definition": "F-Test is a fundamental concept in mathematics.",
   "explanation": "Learn about F-Test and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "f-test"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-08.topic-07",
   "name": "Decision Strategies",
   "subject": "psychology",
+  "summary": "Decision Strategies is a fundamental concept in psychology.",
   "definition": "Decision Strategies is a fundamental concept in psychology.",
   "explanation": "Learn about Decision Strategies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "decision-strategies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

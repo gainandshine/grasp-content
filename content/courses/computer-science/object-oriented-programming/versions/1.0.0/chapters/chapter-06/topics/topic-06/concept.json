@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-06.topic-06",
   "name": "Downcasting",
   "subject": "computer-science",
+  "summary": "Downcasting is a fundamental concept in computer-science.",
   "definition": "Downcasting is a fundamental concept in computer-science.",
   "explanation": "Learn about Downcasting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "downcasting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

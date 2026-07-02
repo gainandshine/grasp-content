@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-04.topic-05",
   "name": "Conditional Convergence",
   "subject": "mathematics",
+  "summary": "Conditional Convergence is a fundamental concept in mathematics.",
   "definition": "Conditional Convergence is a fundamental concept in mathematics.",
   "explanation": "Learn about Conditional Convergence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "conditional-convergence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

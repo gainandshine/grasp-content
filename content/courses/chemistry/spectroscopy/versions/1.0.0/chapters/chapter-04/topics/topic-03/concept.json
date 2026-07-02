@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-04.topic-03",
   "name": "Stretching Vibrations",
   "subject": "chemistry",
+  "summary": "Stretching Vibrations is a fundamental concept in chemistry.",
   "definition": "Stretching Vibrations is a fundamental concept in chemistry.",
   "explanation": "Learn about Stretching Vibrations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "stretching-vibrations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

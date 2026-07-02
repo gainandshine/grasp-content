@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-01.topic-04",
   "name": "Non-Contact Forces",
   "subject": "physics",
+  "summary": "Non-Contact Forces is a fundamental concept in physics.",
   "definition": "Non-Contact Forces is a fundamental concept in physics.",
   "explanation": "Learn about Non-Contact Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "non-contact-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

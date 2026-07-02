@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-05.topic-02",
   "name": "Perception",
   "subject": "psychology",
+  "summary": "Perception is a fundamental concept in psychology.",
   "definition": "Perception is a fundamental concept in psychology.",
   "explanation": "Learn about Perception and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "perception"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

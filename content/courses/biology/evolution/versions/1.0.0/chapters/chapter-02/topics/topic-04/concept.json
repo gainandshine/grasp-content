@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-02.topic-04",
   "name": "Adaptation",
   "subject": "biology",
+  "summary": "Adaptation is a fundamental concept in biology.",
   "definition": "Adaptation is a fundamental concept in biology.",
   "explanation": "Learn about Adaptation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "adaptation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

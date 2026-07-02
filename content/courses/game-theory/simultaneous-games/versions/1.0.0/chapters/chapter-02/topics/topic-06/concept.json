@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-02.topic-06",
   "name": "Matrix Representation",
   "subject": "game-theory",
+  "summary": "Matrix Representation is a fundamental concept in game-theory.",
   "definition": "Matrix Representation is a fundamental concept in game-theory.",
   "explanation": "Learn about Matrix Representation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "matrix-representation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

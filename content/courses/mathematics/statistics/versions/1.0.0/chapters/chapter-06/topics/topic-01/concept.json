@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-06.topic-01",
   "name": "Sampling Distribution",
   "subject": "mathematics",
+  "summary": "Sampling Distribution is a fundamental concept in mathematics.",
   "definition": "Sampling Distribution is a fundamental concept in mathematics.",
   "explanation": "Learn about Sampling Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sampling-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

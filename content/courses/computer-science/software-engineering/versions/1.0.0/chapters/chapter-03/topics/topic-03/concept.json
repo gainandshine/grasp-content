@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-03.topic-03",
   "name": "Coupling & Cohesion",
   "subject": "computer-science",
+  "summary": "Coupling & Cohesion is a fundamental concept in computer-science.",
   "definition": "Coupling & Cohesion is a fundamental concept in computer-science.",
   "explanation": "Learn about Coupling & Cohesion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "coupling-cohesion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

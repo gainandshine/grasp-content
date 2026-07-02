@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-10.topic-02",
   "name": "Immune Surveillance",
   "subject": "biology",
+  "summary": "Immune Surveillance is a fundamental concept in biology.",
   "definition": "Immune Surveillance is a fundamental concept in biology.",
   "explanation": "Learn about Immune Surveillance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "immune-surveillance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

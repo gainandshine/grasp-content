@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-11",
   "name": "Encapsulation",
   "subject": "computer-science",
+  "summary": "Encapsulation is a fundamental concept in computer-science.",
   "definition": "Encapsulation is a fundamental concept in computer-science.",
   "explanation": "Learn about Encapsulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "encapsulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

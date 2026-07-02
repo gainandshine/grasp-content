@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-10.topic-02",
   "name": "Wastewater Treatment",
   "subject": "biology",
+  "summary": "Wastewater Treatment is a fundamental concept in biology.",
   "definition": "Wastewater Treatment is a fundamental concept in biology.",
   "explanation": "Learn about Wastewater Treatment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "wastewater-treatment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

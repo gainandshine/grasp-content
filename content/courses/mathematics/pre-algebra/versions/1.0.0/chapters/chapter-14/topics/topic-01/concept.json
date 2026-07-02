@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-14.topic-01",
   "name": "Outcomes",
   "subject": "mathematics",
+  "summary": "Outcomes is a fundamental concept in mathematics.",
   "definition": "Outcomes is a fundamental concept in mathematics.",
   "explanation": "Learn about Outcomes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "outcomes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

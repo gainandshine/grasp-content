@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-08.topic-04",
   "name": "Q-Value",
   "subject": "physics",
+  "summary": "Q-Value is a fundamental concept in physics.",
   "definition": "Q-Value is a fundamental concept in physics.",
   "explanation": "Learn about Q-Value and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "q-value"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

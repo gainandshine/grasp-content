@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-04.topic-02",
   "name": "Radius of Gyration",
   "subject": "physics",
+  "summary": "Radius of Gyration is a fundamental concept in physics.",
   "definition": "Radius of Gyration is a fundamental concept in physics.",
   "explanation": "Learn about Radius of Gyration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "radius-of-gyration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

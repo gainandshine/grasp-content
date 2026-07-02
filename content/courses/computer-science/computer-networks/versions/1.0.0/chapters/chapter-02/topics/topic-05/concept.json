@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-02.topic-05",
   "name": "Decapsulation",
   "subject": "computer-science",
+  "summary": "Decapsulation is a fundamental concept in computer-science.",
   "definition": "Decapsulation is a fundamental concept in computer-science.",
   "explanation": "Learn about Decapsulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "decapsulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

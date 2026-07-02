@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-01.topic-06",
   "name": "Modern Atomic Theory",
   "subject": "chemistry",
+  "summary": "Modern Atomic Theory is a fundamental concept in chemistry.",
   "definition": "Modern Atomic Theory is a fundamental concept in chemistry.",
   "explanation": "Learn about Modern Atomic Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "modern-atomic-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

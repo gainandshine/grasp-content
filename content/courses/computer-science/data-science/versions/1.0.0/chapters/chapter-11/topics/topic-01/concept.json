@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-11.topic-01",
   "name": "Data Privacy",
   "subject": "computer-science",
+  "summary": "Data Privacy is a fundamental concept in computer-science.",
   "definition": "Data Privacy is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Privacy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-privacy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

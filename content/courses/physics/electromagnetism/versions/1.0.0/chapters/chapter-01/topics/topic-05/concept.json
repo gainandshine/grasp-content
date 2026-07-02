@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-01.topic-05",
   "name": "Superposition Principle",
   "subject": "physics",
+  "summary": "Superposition Principle is a fundamental concept in physics.",
   "definition": "Superposition Principle is a fundamental concept in physics.",
   "explanation": "Learn about Superposition Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "superposition-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

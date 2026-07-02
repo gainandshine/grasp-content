@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-11.topic-02",
   "name": "Path Connectedness",
   "subject": "mathematics",
+  "summary": "Path Connectedness is a fundamental concept in mathematics.",
   "definition": "Path Connectedness is a fundamental concept in mathematics.",
   "explanation": "Learn about Path Connectedness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "path-connectedness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

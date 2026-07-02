@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-02.topic-04",
   "name": "Sample Digestion",
   "subject": "chemistry",
+  "summary": "Sample Digestion is a fundamental concept in chemistry.",
   "definition": "Sample Digestion is a fundamental concept in chemistry.",
   "explanation": "Learn about Sample Digestion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sample-digestion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

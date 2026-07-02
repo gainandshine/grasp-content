@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-03.topic-02",
   "name": "Distance-Time Graph",
   "subject": "physics",
+  "summary": "Distance-Time Graph is a fundamental concept in physics.",
   "definition": "Distance-Time Graph is a fundamental concept in physics.",
   "explanation": "Learn about Distance-Time Graph and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "distance-time-graph"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

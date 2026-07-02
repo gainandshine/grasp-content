@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-06.topic-03",
   "name": "Person-Centered Therapy",
   "subject": "psychology",
+  "summary": "Person-Centered Therapy is a fundamental concept in psychology.",
   "definition": "Person-Centered Therapy is a fundamental concept in psychology.",
   "explanation": "Learn about Person-Centered Therapy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "person-centered-therapy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

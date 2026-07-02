@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-03.topic-01",
   "name": "Principal Quantum Number",
   "subject": "physics",
+  "summary": "Principal Quantum Number is a fundamental concept in physics.",
   "definition": "Principal Quantum Number is a fundamental concept in physics.",
   "explanation": "Learn about Principal Quantum Number and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "principal-quantum-number"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

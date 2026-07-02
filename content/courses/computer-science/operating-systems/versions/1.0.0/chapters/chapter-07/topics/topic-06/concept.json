@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-07.topic-06",
   "name": "Working Set Model",
   "subject": "computer-science",
+  "summary": "Working Set Model is a fundamental concept in computer-science.",
   "definition": "Working Set Model is a fundamental concept in computer-science.",
   "explanation": "Learn about Working Set Model and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "working-set-model"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

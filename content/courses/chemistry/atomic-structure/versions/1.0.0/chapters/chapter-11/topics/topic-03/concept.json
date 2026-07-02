@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-11.topic-03",
   "name": "Spin-Orbit Coupling (Introduction)",
   "subject": "chemistry",
+  "summary": "Spin-Orbit Coupling (Introduction) is a fundamental concept in chemistry.",
   "definition": "Spin-Orbit Coupling (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Spin-Orbit Coupling (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "spin-orbit-coupling-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

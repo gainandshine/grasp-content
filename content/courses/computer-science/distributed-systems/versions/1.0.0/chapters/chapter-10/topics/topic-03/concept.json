@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-10.topic-03",
   "name": "Event Streaming",
   "subject": "computer-science",
+  "summary": "Event Streaming is a fundamental concept in computer-science.",
   "definition": "Event Streaming is a fundamental concept in computer-science.",
   "explanation": "Learn about Event Streaming and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "event-streaming"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-02.topic-02",
   "name": "Self-Esteem",
   "subject": "psychology",
+  "summary": "Self-Esteem is a fundamental concept in psychology.",
   "definition": "Self-Esteem is a fundamental concept in psychology.",
   "explanation": "Learn about Self-Esteem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "self-esteem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

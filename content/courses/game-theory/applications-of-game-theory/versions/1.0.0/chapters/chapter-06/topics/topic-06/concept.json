@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-06.topic-06",
   "name": "AI Safety",
   "subject": "game-theory",
+  "summary": "AI Safety is a fundamental concept in game-theory.",
   "definition": "AI Safety is a fundamental concept in game-theory.",
   "explanation": "Learn about AI Safety and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "ai-safety"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

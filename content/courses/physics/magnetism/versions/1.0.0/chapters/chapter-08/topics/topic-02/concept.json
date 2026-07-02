@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-08.topic-02",
   "name": "Helical Motion",
   "subject": "physics",
+  "summary": "Helical Motion is a fundamental concept in physics.",
   "definition": "Helical Motion is a fundamental concept in physics.",
   "explanation": "Learn about Helical Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "helical-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

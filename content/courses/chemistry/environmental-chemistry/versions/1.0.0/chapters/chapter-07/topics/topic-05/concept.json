@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-07.topic-05",
   "name": "Heavy Metals",
   "subject": "chemistry",
+  "summary": "Heavy Metals is a fundamental concept in chemistry.",
   "definition": "Heavy Metals is a fundamental concept in chemistry.",
   "explanation": "Learn about Heavy Metals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "heavy-metals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

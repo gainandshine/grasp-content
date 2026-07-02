@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-09.topic-02",
   "name": "Bounded Rationality",
   "subject": "psychology",
+  "summary": "Bounded Rationality is a fundamental concept in psychology.",
   "definition": "Bounded Rationality is a fundamental concept in psychology.",
   "explanation": "Learn about Bounded Rationality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "bounded-rationality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

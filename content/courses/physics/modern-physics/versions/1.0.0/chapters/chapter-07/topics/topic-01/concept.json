@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-07.topic-01",
   "name": "Atomic Models",
   "subject": "physics",
+  "summary": "Atomic Models is a fundamental concept in physics.",
   "definition": "Atomic Models is a fundamental concept in physics.",
   "explanation": "Learn about Atomic Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "atomic-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

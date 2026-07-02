@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-10.topic-05",
   "name": "X-Ray Diffraction",
   "subject": "chemistry",
+  "summary": "X-Ray Diffraction is a fundamental concept in chemistry.",
   "definition": "X-Ray Diffraction is a fundamental concept in chemistry.",
   "explanation": "Learn about X-Ray Diffraction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "x-ray-diffraction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

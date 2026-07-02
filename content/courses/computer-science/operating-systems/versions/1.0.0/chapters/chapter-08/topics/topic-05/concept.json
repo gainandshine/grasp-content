@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-08.topic-05",
   "name": "Journaling",
   "subject": "computer-science",
+  "summary": "Journaling is a fundamental concept in computer-science.",
   "definition": "Journaling is a fundamental concept in computer-science.",
   "explanation": "Learn about Journaling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "journaling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

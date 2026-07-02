@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-05.topic-02",
   "name": "Reciprocal Determinism",
   "subject": "psychology",
+  "summary": "Reciprocal Determinism is a fundamental concept in psychology.",
   "definition": "Reciprocal Determinism is a fundamental concept in psychology.",
   "explanation": "Learn about Reciprocal Determinism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "reciprocal-determinism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

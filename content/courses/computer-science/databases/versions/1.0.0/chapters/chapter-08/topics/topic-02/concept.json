@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-08.topic-02",
   "name": "B-Trees",
   "subject": "computer-science",
+  "summary": "B-Trees is a fundamental concept in computer-science.",
   "definition": "B-Trees is a fundamental concept in computer-science.",
   "explanation": "Learn about B-Trees and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "b-trees"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

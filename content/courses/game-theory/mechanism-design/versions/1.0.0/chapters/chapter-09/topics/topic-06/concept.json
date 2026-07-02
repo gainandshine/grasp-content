@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-09.topic-06",
   "name": "Platform Incentives",
   "subject": "game-theory",
+  "summary": "Platform Incentives is a fundamental concept in game-theory.",
   "definition": "Platform Incentives is a fundamental concept in game-theory.",
   "explanation": "Learn about Platform Incentives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "platform-incentives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-10.topic-02",
   "name": "Average Value of a Function",
   "subject": "mathematics",
+  "summary": "Average Value of a Function is a fundamental concept in mathematics.",
   "definition": "Average Value of a Function is a fundamental concept in mathematics.",
   "explanation": "Learn about Average Value of a Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "average-value-of-a-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

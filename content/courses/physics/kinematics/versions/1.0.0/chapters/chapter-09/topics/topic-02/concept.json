@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-09.topic-02",
   "name": "Velocity from Position",
   "subject": "physics",
+  "summary": "Velocity from Position is a fundamental concept in physics.",
   "definition": "Velocity from Position is a fundamental concept in physics.",
   "explanation": "Learn about Velocity from Position and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "velocity-from-position"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

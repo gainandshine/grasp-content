@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-04.topic-03",
   "name": "Relativistic Energy",
   "subject": "physics",
+  "summary": "Relativistic Energy is a fundamental concept in physics.",
   "definition": "Relativistic Energy is a fundamental concept in physics.",
   "explanation": "Learn about Relativistic Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "relativistic-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

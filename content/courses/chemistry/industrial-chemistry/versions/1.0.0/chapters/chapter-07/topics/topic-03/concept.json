@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-07.topic-03",
   "name": "Ceramic Processing",
   "subject": "chemistry",
+  "summary": "Ceramic Processing is a fundamental concept in chemistry.",
   "definition": "Ceramic Processing is a fundamental concept in chemistry.",
   "explanation": "Learn about Ceramic Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ceramic-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

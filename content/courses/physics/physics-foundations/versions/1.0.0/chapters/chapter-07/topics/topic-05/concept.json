@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-07.topic-05",
   "name": "Nonlinear Relationships",
   "subject": "physics",
+  "summary": "Nonlinear Relationships is a fundamental concept in physics.",
   "definition": "Nonlinear Relationships is a fundamental concept in physics.",
   "explanation": "Learn about Nonlinear Relationships and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "nonlinear-relationships"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

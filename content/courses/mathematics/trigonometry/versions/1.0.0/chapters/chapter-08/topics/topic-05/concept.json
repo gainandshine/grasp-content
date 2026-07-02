@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-08.topic-05",
   "name": "Applications",
   "subject": "mathematics",
+  "summary": "Applications is a fundamental concept in mathematics.",
   "definition": "Applications is a fundamental concept in mathematics.",
   "explanation": "Learn about Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

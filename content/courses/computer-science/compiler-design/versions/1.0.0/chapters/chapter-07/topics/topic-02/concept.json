@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-07.topic-02",
   "name": "Register Allocation",
   "subject": "computer-science",
+  "summary": "Register Allocation is a fundamental concept in computer-science.",
   "definition": "Register Allocation is a fundamental concept in computer-science.",
   "explanation": "Learn about Register Allocation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "register-allocation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

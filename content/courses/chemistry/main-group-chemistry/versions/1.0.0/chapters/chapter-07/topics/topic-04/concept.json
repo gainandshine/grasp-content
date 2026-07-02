@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-07.topic-04",
   "name": "Tellurium",
   "subject": "chemistry",
+  "summary": "Tellurium is a fundamental concept in chemistry.",
   "definition": "Tellurium is a fundamental concept in chemistry.",
   "explanation": "Learn about Tellurium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "tellurium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

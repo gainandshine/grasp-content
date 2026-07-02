@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-02.topic-06",
   "name": "Strategic Stability",
   "subject": "game-theory",
+  "summary": "Strategic Stability is a fundamental concept in game-theory.",
   "definition": "Strategic Stability is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Stability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-stability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

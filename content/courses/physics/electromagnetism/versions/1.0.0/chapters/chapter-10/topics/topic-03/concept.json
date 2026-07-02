@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-10.topic-03",
   "name": "Faraday's Law",
   "subject": "physics",
+  "summary": "Faraday's Law is a fundamental concept in physics.",
   "definition": "Faraday's Law is a fundamental concept in physics.",
   "explanation": "Learn about Faraday's Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "faradays-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

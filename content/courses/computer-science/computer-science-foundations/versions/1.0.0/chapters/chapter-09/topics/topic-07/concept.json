@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-09.topic-07",
   "name": "Cloud Computing (Overview)",
   "subject": "computer-science",
+  "summary": "Cloud Computing (Overview) is a fundamental concept in computer-science.",
   "definition": "Cloud Computing (Overview) is a fundamental concept in computer-science.",
   "explanation": "Learn about Cloud Computing (Overview) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cloud-computing-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

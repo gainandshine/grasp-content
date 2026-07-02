@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-01.topic-07",
   "name": "Asymptotic Analysis",
   "subject": "computer-science",
+  "summary": "Asymptotic Analysis is a fundamental concept in computer-science.",
   "definition": "Asymptotic Analysis is a fundamental concept in computer-science.",
   "explanation": "Learn about Asymptotic Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "asymptotic-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

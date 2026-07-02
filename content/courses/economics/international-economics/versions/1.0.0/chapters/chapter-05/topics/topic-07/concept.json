@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-05.topic-07",
   "name": "Purchasing Power Parity (PPP)",
   "subject": "economics",
+  "summary": "Purchasing Power Parity (PPP) is a fundamental concept in economics.",
   "definition": "Purchasing Power Parity (PPP) is a fundamental concept in economics.",
   "explanation": "Learn about Purchasing Power Parity (PPP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "purchasing-power-parity-ppp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-04",
   "name": "Circulation",
   "subject": "mathematics",
+  "summary": "Circulation is a fundamental concept in mathematics.",
   "definition": "Circulation is a fundamental concept in mathematics.",
   "explanation": "Learn about Circulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "circulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

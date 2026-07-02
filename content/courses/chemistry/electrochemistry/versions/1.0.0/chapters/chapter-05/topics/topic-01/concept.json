@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-05.topic-01",
   "name": "Standard Hydrogen Electrode",
   "subject": "chemistry",
+  "summary": "Standard Hydrogen Electrode is a fundamental concept in chemistry.",
   "definition": "Standard Hydrogen Electrode is a fundamental concept in chemistry.",
   "explanation": "Learn about Standard Hydrogen Electrode and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "standard-hydrogen-electrode"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

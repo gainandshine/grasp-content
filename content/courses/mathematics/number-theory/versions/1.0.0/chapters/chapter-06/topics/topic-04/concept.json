@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-06.topic-04",
   "name": "Sum of Divisors",
   "subject": "mathematics",
+  "summary": "Sum of Divisors is a fundamental concept in mathematics.",
   "definition": "Sum of Divisors is a fundamental concept in mathematics.",
   "explanation": "Learn about Sum of Divisors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sum-of-divisors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

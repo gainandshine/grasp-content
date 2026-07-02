@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-07.topic-02",
   "name": "Trend",
   "subject": "economics",
+  "summary": "Trend is a fundamental concept in economics.",
   "definition": "Trend is a fundamental concept in economics.",
   "explanation": "Learn about Trend and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "trend"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

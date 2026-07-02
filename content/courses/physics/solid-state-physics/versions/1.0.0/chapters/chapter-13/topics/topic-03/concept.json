@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-13.topic-03",
   "name": "Photoconductivity",
   "subject": "physics",
+  "summary": "Photoconductivity is a fundamental concept in physics.",
   "definition": "Photoconductivity is a fundamental concept in physics.",
   "explanation": "Learn about Photoconductivity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "photoconductivity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

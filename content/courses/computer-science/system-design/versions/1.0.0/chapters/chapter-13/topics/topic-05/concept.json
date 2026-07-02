@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-05",
   "name": "Architecture Documentation",
   "subject": "computer-science",
+  "summary": "Architecture Documentation is a fundamental concept in computer-science.",
   "definition": "Architecture Documentation is a fundamental concept in computer-science.",
   "explanation": "Learn about Architecture Documentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "architecture-documentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-06.topic-02",
   "name": "Identity Formation",
   "subject": "psychology",
+  "summary": "Identity Formation is a fundamental concept in psychology.",
   "definition": "Identity Formation is a fundamental concept in psychology.",
   "explanation": "Learn about Identity Formation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "identity-formation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

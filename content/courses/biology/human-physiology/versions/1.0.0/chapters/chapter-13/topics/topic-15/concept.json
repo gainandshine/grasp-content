@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-15",
   "name": "Parasites",
   "subject": "biology",
+  "summary": "Parasites is a fundamental concept in biology.",
   "definition": "Parasites is a fundamental concept in biology.",
   "explanation": "Learn about Parasites and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "parasites"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-03.topic-04",
   "name": "Abstract Syntax Trees (ASTs)",
   "subject": "computer-science",
+  "summary": "Abstract Syntax Trees (ASTs) is a fundamental concept in computer-science.",
   "definition": "Abstract Syntax Trees (ASTs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Abstract Syntax Trees (ASTs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "abstract-syntax-trees-asts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-12.topic-03",
   "name": "Financial Markets",
   "subject": "game-theory",
+  "summary": "Financial Markets is a fundamental concept in game-theory.",
   "definition": "Financial Markets is a fundamental concept in game-theory.",
   "explanation": "Learn about Financial Markets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "financial-markets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

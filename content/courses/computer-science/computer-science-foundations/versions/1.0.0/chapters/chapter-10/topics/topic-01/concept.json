@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-10.topic-01",
   "name": "Information Security",
   "subject": "computer-science",
+  "summary": "Information Security is a fundamental concept in computer-science.",
   "definition": "Information Security is a fundamental concept in computer-science.",
   "explanation": "Learn about Information Security and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "information-security"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

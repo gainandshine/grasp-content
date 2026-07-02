@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-13.topic-05",
   "name": "Plasma Electrodynamics",
   "subject": "physics",
+  "summary": "Plasma Electrodynamics is a fundamental concept in physics.",
   "definition": "Plasma Electrodynamics is a fundamental concept in physics.",
   "explanation": "Learn about Plasma Electrodynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plasma-electrodynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

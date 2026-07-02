@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-02.topic-06",
   "name": "Mass vs Weight",
   "subject": "physics",
+  "summary": "Mass vs Weight is a fundamental concept in physics.",
   "definition": "Mass vs Weight is a fundamental concept in physics.",
   "explanation": "Learn about Mass vs Weight and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mass-vs-weight"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

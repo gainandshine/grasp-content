@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-08.topic-03",
   "name": "Crisis Counseling",
   "subject": "psychology",
+  "summary": "Crisis Counseling is a fundamental concept in psychology.",
   "definition": "Crisis Counseling is a fundamental concept in psychology.",
   "explanation": "Learn about Crisis Counseling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "crisis-counseling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

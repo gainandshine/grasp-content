@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-02.topic-05",
   "name": "Box Plots",
   "subject": "mathematics",
+  "summary": "Box Plots is a fundamental concept in mathematics.",
   "definition": "Box Plots is a fundamental concept in mathematics.",
   "explanation": "Learn about Box Plots and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "box-plots"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

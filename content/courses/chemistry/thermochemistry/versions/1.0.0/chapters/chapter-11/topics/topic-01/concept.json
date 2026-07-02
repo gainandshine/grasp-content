@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-11.topic-01",
   "name": "Fuel Energy",
   "subject": "chemistry",
+  "summary": "Fuel Energy is a fundamental concept in chemistry.",
   "definition": "Fuel Energy is a fundamental concept in chemistry.",
   "explanation": "Learn about Fuel Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fuel-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

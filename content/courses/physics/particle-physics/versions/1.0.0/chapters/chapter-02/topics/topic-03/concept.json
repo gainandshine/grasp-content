@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-02.topic-03",
   "name": "Generations of Particles",
   "subject": "physics",
+  "summary": "Generations of Particles is a fundamental concept in physics.",
   "definition": "Generations of Particles is a fundamental concept in physics.",
   "explanation": "Learn about Generations of Particles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "generations-of-particles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

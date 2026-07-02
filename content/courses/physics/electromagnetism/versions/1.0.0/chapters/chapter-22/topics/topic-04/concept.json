@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-22.topic-04",
   "name": "Reactance",
   "subject": "physics",
+  "summary": "Reactance is a fundamental concept in physics.",
   "definition": "Reactance is a fundamental concept in physics.",
   "explanation": "Learn about Reactance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "reactance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

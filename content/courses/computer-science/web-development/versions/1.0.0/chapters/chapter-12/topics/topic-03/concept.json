@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-12.topic-03",
   "name": "Lazy Loading",
   "subject": "computer-science",
+  "summary": "Lazy Loading is a fundamental concept in computer-science.",
   "definition": "Lazy Loading is a fundamental concept in computer-science.",
   "explanation": "Learn about Lazy Loading and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "lazy-loading"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

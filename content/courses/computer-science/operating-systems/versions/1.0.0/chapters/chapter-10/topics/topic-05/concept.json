@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-10.topic-05",
   "name": "Malware Protection",
   "subject": "computer-science",
+  "summary": "Malware Protection is a fundamental concept in computer-science.",
   "definition": "Malware Protection is a fundamental concept in computer-science.",
   "explanation": "Learn about Malware Protection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "malware-protection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

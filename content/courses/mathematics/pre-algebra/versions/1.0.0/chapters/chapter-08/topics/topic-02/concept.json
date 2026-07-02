@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-08.topic-02",
   "name": "Two-Step Equations",
   "subject": "mathematics",
+  "summary": "Two-Step Equations is a fundamental concept in mathematics.",
   "definition": "Two-Step Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Two-Step Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "two-step-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

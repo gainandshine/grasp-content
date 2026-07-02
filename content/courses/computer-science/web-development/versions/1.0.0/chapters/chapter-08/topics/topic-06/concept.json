@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-08.topic-06",
   "name": "Data Validation",
   "subject": "computer-science",
+  "summary": "Data Validation is a fundamental concept in computer-science.",
   "definition": "Data Validation is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Validation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-validation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

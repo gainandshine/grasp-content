@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-02.topic-06",
   "name": "Protein Function",
   "subject": "biology",
+  "summary": "Protein Function is a fundamental concept in biology.",
   "definition": "Protein Function is a fundamental concept in biology.",
   "explanation": "Learn about Protein Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "protein-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

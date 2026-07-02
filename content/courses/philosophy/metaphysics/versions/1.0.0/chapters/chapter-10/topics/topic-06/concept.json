@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-10.topic-06",
   "name": "Panpsychism",
   "subject": "philosophy",
+  "summary": "Panpsychism is a fundamental concept in philosophy.",
   "definition": "Panpsychism is a fundamental concept in philosophy.",
   "explanation": "Learn about Panpsychism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "panpsychism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

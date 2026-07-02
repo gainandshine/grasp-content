@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-06.topic-02",
   "name": "Increasing & Decreasing Functions",
   "subject": "mathematics",
+  "summary": "Increasing & Decreasing Functions is a fundamental concept in mathematics.",
   "definition": "Increasing & Decreasing Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Increasing & Decreasing Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "increasing-decreasing-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

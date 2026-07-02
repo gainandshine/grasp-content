@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-07.topic-06",
   "name": "Psychoeducation",
   "subject": "psychology",
+  "summary": "Psychoeducation is a fundamental concept in psychology.",
   "definition": "Psychoeducation is a fundamental concept in psychology.",
   "explanation": "Learn about Psychoeducation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "psychoeducation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

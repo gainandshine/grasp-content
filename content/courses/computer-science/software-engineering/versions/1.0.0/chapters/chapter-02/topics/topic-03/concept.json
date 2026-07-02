@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-02.topic-03",
   "name": "Requirements Gathering",
   "subject": "computer-science",
+  "summary": "Requirements Gathering is a fundamental concept in computer-science.",
   "definition": "Requirements Gathering is a fundamental concept in computer-science.",
   "explanation": "Learn about Requirements Gathering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "requirements-gathering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

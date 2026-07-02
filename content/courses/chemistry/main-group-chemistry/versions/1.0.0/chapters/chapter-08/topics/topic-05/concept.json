@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-08.topic-05",
   "name": "Astatine",
   "subject": "chemistry",
+  "summary": "Astatine is a fundamental concept in chemistry.",
   "definition": "Astatine is a fundamental concept in chemistry.",
   "explanation": "Learn about Astatine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "astatine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

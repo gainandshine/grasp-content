@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-03.topic-06",
   "name": "Thermophiles",
   "subject": "biology",
+  "summary": "Thermophiles is a fundamental concept in biology.",
   "definition": "Thermophiles is a fundamental concept in biology.",
   "explanation": "Learn about Thermophiles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "thermophiles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

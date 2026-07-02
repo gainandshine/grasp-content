@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-02.topic-09",
   "name": "Fluid Pressure",
   "subject": "mathematics",
+  "summary": "Fluid Pressure is a fundamental concept in mathematics.",
   "definition": "Fluid Pressure is a fundamental concept in mathematics.",
   "explanation": "Learn about Fluid Pressure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "fluid-pressure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

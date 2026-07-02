@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-01.topic-06",
   "name": "Classification of Organic Compounds",
   "subject": "chemistry",
+  "summary": "Classification of Organic Compounds is a fundamental concept in chemistry.",
   "definition": "Classification of Organic Compounds is a fundamental concept in chemistry.",
   "explanation": "Learn about Classification of Organic Compounds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "classification-of-organic-compounds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

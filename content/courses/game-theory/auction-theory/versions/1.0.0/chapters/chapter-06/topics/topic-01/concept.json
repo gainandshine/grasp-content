@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-06.topic-01",
   "name": "Optimal Bidding",
   "subject": "game-theory",
+  "summary": "Optimal Bidding is a fundamental concept in game-theory.",
   "definition": "Optimal Bidding is a fundamental concept in game-theory.",
   "explanation": "Learn about Optimal Bidding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "optimal-bidding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

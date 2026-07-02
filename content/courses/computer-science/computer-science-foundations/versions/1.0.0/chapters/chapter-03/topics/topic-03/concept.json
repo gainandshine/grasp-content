@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-03.topic-03",
   "name": "Data Representation",
   "subject": "computer-science",
+  "summary": "Data Representation is a fundamental concept in computer-science.",
   "definition": "Data Representation is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Representation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-representation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

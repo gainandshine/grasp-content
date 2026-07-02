@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-02.topic-01",
   "name": "Ivan Pavlov",
   "subject": "psychology",
+  "summary": "Ivan Pavlov is a fundamental concept in psychology.",
   "definition": "Ivan Pavlov is a fundamental concept in psychology.",
   "explanation": "Learn about Ivan Pavlov and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "ivan-pavlov"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

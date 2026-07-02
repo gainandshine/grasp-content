@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-09.topic-01",
   "name": "Climate vs Weather",
   "subject": "biology",
+  "summary": "Climate vs Weather is a fundamental concept in biology.",
   "definition": "Climate vs Weather is a fundamental concept in biology.",
   "explanation": "Learn about Climate vs Weather and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "climate-vs-weather"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

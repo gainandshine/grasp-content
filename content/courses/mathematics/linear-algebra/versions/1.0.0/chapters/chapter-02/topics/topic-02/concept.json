@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-02.topic-02",
   "name": "Matrix Types",
   "subject": "mathematics",
+  "summary": "Matrix Types is a fundamental concept in mathematics.",
   "definition": "Matrix Types is a fundamental concept in mathematics.",
   "explanation": "Learn about Matrix Types and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "matrix-types"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

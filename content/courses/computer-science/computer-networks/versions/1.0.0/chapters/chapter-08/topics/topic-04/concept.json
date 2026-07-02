@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-08.topic-04",
   "name": "OSPF",
   "subject": "computer-science",
+  "summary": "OSPF is a fundamental concept in computer-science.",
   "definition": "OSPF is a fundamental concept in computer-science.",
   "explanation": "Learn about OSPF and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ospf"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

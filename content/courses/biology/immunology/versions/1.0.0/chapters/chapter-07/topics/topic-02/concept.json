@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-07.topic-02",
   "name": "Opsonization",
   "subject": "biology",
+  "summary": "Opsonization is a fundamental concept in biology.",
   "definition": "Opsonization is a fundamental concept in biology.",
   "explanation": "Learn about Opsonization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "opsonization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

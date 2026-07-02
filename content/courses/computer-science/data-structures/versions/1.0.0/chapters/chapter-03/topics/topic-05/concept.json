@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-03.topic-05",
   "name": "Advantages & Disadvantages",
   "subject": "computer-science",
+  "summary": "Advantages & Disadvantages is a fundamental concept in computer-science.",
   "definition": "Advantages & Disadvantages is a fundamental concept in computer-science.",
   "explanation": "Learn about Advantages & Disadvantages and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "advantages-disadvantages"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

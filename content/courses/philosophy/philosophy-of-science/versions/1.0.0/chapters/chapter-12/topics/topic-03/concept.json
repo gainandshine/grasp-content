@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-12.topic-03",
   "name": "Climate Science",
   "subject": "philosophy",
+  "summary": "Climate Science is a fundamental concept in philosophy.",
   "definition": "Climate Science is a fundamental concept in philosophy.",
   "explanation": "Learn about Climate Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "climate-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

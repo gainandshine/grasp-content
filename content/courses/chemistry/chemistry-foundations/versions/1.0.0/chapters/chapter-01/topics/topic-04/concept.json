@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-01.topic-04",
   "name": "Properties of Matter",
   "subject": "chemistry",
+  "summary": "Properties of Matter is a fundamental concept in chemistry.",
   "definition": "Properties of Matter is a fundamental concept in chemistry.",
   "explanation": "Learn about Properties of Matter and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "properties-of-matter"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

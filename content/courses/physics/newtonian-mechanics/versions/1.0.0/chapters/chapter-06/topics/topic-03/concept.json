@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-06.topic-03",
   "name": "Coefficient of Friction",
   "subject": "physics",
+  "summary": "Coefficient of Friction is a fundamental concept in physics.",
   "definition": "Coefficient of Friction is a fundamental concept in physics.",
   "explanation": "Learn about Coefficient of Friction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "coefficient-of-friction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

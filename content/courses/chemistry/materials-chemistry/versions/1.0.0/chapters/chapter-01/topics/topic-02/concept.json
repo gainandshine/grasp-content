@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-01.topic-02",
   "name": "Classification of Materials",
   "subject": "chemistry",
+  "summary": "Classification of Materials is a fundamental concept in chemistry.",
   "definition": "Classification of Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Classification of Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "classification-of-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-08.topic-05",
   "name": "Resource Sharing",
   "subject": "game-theory",
+  "summary": "Resource Sharing is a fundamental concept in game-theory.",
   "definition": "Resource Sharing is a fundamental concept in game-theory.",
   "explanation": "Learn about Resource Sharing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "resource-sharing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-11.topic-01",
   "name": "Internet Architecture",
   "subject": "computer-science",
+  "summary": "Internet Architecture is a fundamental concept in computer-science.",
   "definition": "Internet Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Internet Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "internet-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

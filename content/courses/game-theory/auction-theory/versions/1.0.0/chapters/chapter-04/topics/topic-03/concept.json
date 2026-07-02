@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-04.topic-03",
   "name": "Strategic Timing",
   "subject": "game-theory",
+  "summary": "Strategic Timing is a fundamental concept in game-theory.",
   "definition": "Strategic Timing is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Timing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-timing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-08.topic-05",
   "name": "Quality Assurance",
   "subject": "chemistry",
+  "summary": "Quality Assurance is a fundamental concept in chemistry.",
   "definition": "Quality Assurance is a fundamental concept in chemistry.",
   "explanation": "Learn about Quality Assurance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "quality-assurance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

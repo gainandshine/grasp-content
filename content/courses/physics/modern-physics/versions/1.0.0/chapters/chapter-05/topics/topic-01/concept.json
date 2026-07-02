@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-05.topic-01",
   "name": "Planck's Quantum Hypothesis",
   "subject": "physics",
+  "summary": "Planck's Quantum Hypothesis is a fundamental concept in physics.",
   "definition": "Planck's Quantum Hypothesis is a fundamental concept in physics.",
   "explanation": "Learn about Planck's Quantum Hypothesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plancks-quantum-hypothesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

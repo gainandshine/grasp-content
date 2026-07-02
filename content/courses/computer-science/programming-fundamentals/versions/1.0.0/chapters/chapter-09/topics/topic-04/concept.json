@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-09.topic-04",
   "name": "Maximum & Minimum",
   "subject": "computer-science",
+  "summary": "Maximum & Minimum is a fundamental concept in computer-science.",
   "definition": "Maximum & Minimum is a fundamental concept in computer-science.",
   "explanation": "Learn about Maximum & Minimum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "maximum-minimum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

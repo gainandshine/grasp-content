@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-03.topic-01",
   "name": "Firewalls",
   "subject": "computer-science",
+  "summary": "Firewalls is a fundamental concept in computer-science.",
   "definition": "Firewalls is a fundamental concept in computer-science.",
   "explanation": "Learn about Firewalls and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "firewalls"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

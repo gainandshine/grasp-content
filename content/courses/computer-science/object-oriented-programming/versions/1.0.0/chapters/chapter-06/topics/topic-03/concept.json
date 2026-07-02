@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-06.topic-03",
   "name": "Runtime Polymorphism",
   "subject": "computer-science",
+  "summary": "Runtime Polymorphism is a fundamental concept in computer-science.",
   "definition": "Runtime Polymorphism is a fundamental concept in computer-science.",
   "explanation": "Learn about Runtime Polymorphism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "runtime-polymorphism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

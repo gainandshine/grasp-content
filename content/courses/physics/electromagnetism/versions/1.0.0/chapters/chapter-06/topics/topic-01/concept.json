@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-06.topic-01",
   "name": "Magnetic Field",
   "subject": "physics",
+  "summary": "Magnetic Field is a fundamental concept in physics.",
   "definition": "Magnetic Field is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Field and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-field"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

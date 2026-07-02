@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-04.topic-02",
   "name": "Main Sequence Stars",
   "subject": "physics",
+  "summary": "Main Sequence Stars is a fundamental concept in physics.",
   "definition": "Main Sequence Stars is a fundamental concept in physics.",
   "explanation": "Learn about Main Sequence Stars and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "main-sequence-stars"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

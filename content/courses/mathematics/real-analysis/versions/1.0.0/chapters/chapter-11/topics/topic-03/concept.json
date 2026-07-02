@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-11.topic-03",
   "name": "Components",
   "subject": "mathematics",
+  "summary": "Components is a fundamental concept in mathematics.",
   "definition": "Components is a fundamental concept in mathematics.",
   "explanation": "Learn about Components and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "components"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-08.topic-03",
   "name": "Sudoku Solver",
   "subject": "computer-science",
+  "summary": "Sudoku Solver is a fundamental concept in computer-science.",
   "definition": "Sudoku Solver is a fundamental concept in computer-science.",
   "explanation": "Learn about Sudoku Solver and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sudoku-solver"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

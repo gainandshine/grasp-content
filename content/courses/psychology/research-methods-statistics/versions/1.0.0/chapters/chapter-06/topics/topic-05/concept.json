@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-06.topic-05",
   "name": "Range",
   "subject": "psychology",
+  "summary": "Range is a fundamental concept in psychology.",
   "definition": "Range is a fundamental concept in psychology.",
   "explanation": "Learn about Range and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "range"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

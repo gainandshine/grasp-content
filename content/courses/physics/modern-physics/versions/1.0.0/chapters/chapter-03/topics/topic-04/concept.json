@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-03.topic-04",
   "name": "Gravitational Time Dilation",
   "subject": "physics",
+  "summary": "Gravitational Time Dilation is a fundamental concept in physics.",
   "definition": "Gravitational Time Dilation is a fundamental concept in physics.",
   "explanation": "Learn about Gravitational Time Dilation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gravitational-time-dilation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

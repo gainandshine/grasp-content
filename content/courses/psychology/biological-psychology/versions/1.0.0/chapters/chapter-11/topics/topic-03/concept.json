@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-11.topic-03",
   "name": "Parkinson's Disease",
   "subject": "psychology",
+  "summary": "Parkinson's Disease is a fundamental concept in psychology.",
   "definition": "Parkinson's Disease is a fundamental concept in psychology.",
   "explanation": "Learn about Parkinson's Disease and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "parkinsons-disease"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

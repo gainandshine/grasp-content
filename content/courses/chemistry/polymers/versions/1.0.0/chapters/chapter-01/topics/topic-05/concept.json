@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-01.topic-05",
   "name": "Classification of Polymers",
   "subject": "chemistry",
+  "summary": "Classification of Polymers is a fundamental concept in chemistry.",
   "definition": "Classification of Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Classification of Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "classification-of-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

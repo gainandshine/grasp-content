@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-01.topic-05",
   "name": "Levels of Measurement",
   "subject": "mathematics",
+  "summary": "Levels of Measurement is a fundamental concept in mathematics.",
   "definition": "Levels of Measurement is a fundamental concept in mathematics.",
   "explanation": "Learn about Levels of Measurement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "levels-of-measurement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

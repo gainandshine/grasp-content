@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-10.topic-05",
   "name": "Oxidation States",
   "subject": "chemistry",
+  "summary": "Oxidation States is a fundamental concept in chemistry.",
   "definition": "Oxidation States is a fundamental concept in chemistry.",
   "explanation": "Learn about Oxidation States and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oxidation-states"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

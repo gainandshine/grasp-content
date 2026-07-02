@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-11.topic-02",
   "name": "Large Language Models (LLMs)",
   "subject": "computer-science",
+  "summary": "Large Language Models (LLMs) is a fundamental concept in computer-science.",
   "definition": "Large Language Models (LLMs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Large Language Models (LLMs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "large-language-models-llms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

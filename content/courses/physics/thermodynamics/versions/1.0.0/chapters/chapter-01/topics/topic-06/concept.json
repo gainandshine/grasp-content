@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-01.topic-06",
   "name": "Specific Heat Capacity",
   "subject": "physics",
+  "summary": "Specific Heat Capacity is a fundamental concept in physics.",
   "definition": "Specific Heat Capacity is a fundamental concept in physics.",
   "explanation": "Learn about Specific Heat Capacity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "specific-heat-capacity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

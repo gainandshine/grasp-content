@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-06.topic-02",
   "name": "Ethical Frameworks",
   "subject": "philosophy",
+  "summary": "Ethical Frameworks is a fundamental concept in philosophy.",
   "definition": "Ethical Frameworks is a fundamental concept in philosophy.",
   "explanation": "Learn about Ethical Frameworks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "ethical-frameworks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

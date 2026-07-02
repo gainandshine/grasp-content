@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-06.topic-06",
   "name": "Zero Trust",
   "subject": "computer-science",
+  "summary": "Zero Trust is a fundamental concept in computer-science.",
   "definition": "Zero Trust is a fundamental concept in computer-science.",
   "explanation": "Learn about Zero Trust and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "zero-trust"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

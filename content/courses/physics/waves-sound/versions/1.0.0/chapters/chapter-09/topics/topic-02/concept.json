@@ -2,6 +2,7 @@
   "id": "physics.waves-sound.chapter-09.topic-02",
   "name": "Open Pipes",
   "subject": "physics",
+  "summary": "Open Pipes is a fundamental concept in physics.",
   "definition": "Open Pipes is a fundamental concept in physics.",
   "explanation": "Learn about Open Pipes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "open-pipes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

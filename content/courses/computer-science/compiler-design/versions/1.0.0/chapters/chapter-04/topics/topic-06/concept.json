@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-04.topic-06",
   "name": "Semantic Errors",
   "subject": "computer-science",
+  "summary": "Semantic Errors is a fundamental concept in computer-science.",
   "definition": "Semantic Errors is a fundamental concept in computer-science.",
   "explanation": "Learn about Semantic Errors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "semantic-errors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

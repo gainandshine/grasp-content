@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-02.topic-05",
   "name": "Conditioned Response (CR)",
   "subject": "psychology",
+  "summary": "Conditioned Response (CR) is a fundamental concept in psychology.",
   "definition": "Conditioned Response (CR) is a fundamental concept in psychology.",
   "explanation": "Learn about Conditioned Response (CR) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "conditioned-response-cr"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

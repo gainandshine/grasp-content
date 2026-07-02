@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-04.topic-02",
   "name": "Selection Sort",
   "subject": "computer-science",
+  "summary": "Selection Sort is a fundamental concept in computer-science.",
   "definition": "Selection Sort is a fundamental concept in computer-science.",
   "explanation": "Learn about Selection Sort and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "selection-sort"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

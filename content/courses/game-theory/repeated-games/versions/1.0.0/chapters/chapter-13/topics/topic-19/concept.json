@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-13.topic-19",
   "name": "Real-World Cooperative Systems",
   "subject": "game-theory",
+  "summary": "Real-World Cooperative Systems is a fundamental concept in game-theory.",
   "definition": "Real-World Cooperative Systems is a fundamental concept in game-theory.",
   "explanation": "Learn about Real-World Cooperative Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "real-world-cooperative-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

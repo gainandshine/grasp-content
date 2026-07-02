@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-01.topic-01",
   "name": "Newton's Law of Universal Gravitation",
   "subject": "physics",
+  "summary": "Newton's Law of Universal Gravitation is a fundamental concept in physics.",
   "definition": "Newton's Law of Universal Gravitation is a fundamental concept in physics.",
   "explanation": "Learn about Newton's Law of Universal Gravitation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "newtons-law-of-universal-gravitation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

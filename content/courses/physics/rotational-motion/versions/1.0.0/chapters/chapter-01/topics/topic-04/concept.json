@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-01.topic-04",
   "name": "Rotational Equations of Motion",
   "subject": "physics",
+  "summary": "Rotational Equations of Motion is a fundamental concept in physics.",
   "definition": "Rotational Equations of Motion is a fundamental concept in physics.",
   "explanation": "Learn about Rotational Equations of Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rotational-equations-of-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

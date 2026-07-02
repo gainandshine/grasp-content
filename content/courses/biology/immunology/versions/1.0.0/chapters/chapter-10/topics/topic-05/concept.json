@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-10.topic-05",
   "name": "Tissue Rejection",
   "subject": "biology",
+  "summary": "Tissue Rejection is a fundamental concept in biology.",
   "definition": "Tissue Rejection is a fundamental concept in biology.",
   "explanation": "Learn about Tissue Rejection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "tissue-rejection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

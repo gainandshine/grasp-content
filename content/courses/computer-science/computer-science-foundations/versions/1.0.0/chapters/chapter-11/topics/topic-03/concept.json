@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-11.topic-03",
   "name": "Intellectual Property",
   "subject": "computer-science",
+  "summary": "Intellectual Property is a fundamental concept in computer-science.",
   "definition": "Intellectual Property is a fundamental concept in computer-science.",
   "explanation": "Learn about Intellectual Property and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "intellectual-property"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

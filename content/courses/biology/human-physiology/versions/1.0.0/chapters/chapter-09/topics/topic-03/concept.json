@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-09.topic-03",
   "name": "Gametogenesis",
   "subject": "biology",
+  "summary": "Gametogenesis is a fundamental concept in biology.",
   "definition": "Gametogenesis is a fundamental concept in biology.",
   "explanation": "Learn about Gametogenesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gametogenesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

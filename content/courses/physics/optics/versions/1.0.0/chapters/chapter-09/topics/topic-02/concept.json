@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-09.topic-02",
   "name": "Polarizers",
   "subject": "physics",
+  "summary": "Polarizers is a fundamental concept in physics.",
   "definition": "Polarizers is a fundamental concept in physics.",
   "explanation": "Learn about Polarizers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "polarizers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

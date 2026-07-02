@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-01.topic-06",
   "name": "Biosafety",
   "subject": "biology",
+  "summary": "Biosafety is a fundamental concept in biology.",
   "definition": "Biosafety is a fundamental concept in biology.",
   "explanation": "Learn about Biosafety and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biosafety"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

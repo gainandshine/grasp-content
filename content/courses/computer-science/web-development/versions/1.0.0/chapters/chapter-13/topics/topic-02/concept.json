@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-13.topic-02",
   "name": "E-Commerce Applications",
   "subject": "computer-science",
+  "summary": "E-Commerce Applications is a fundamental concept in computer-science.",
   "definition": "E-Commerce Applications is a fundamental concept in computer-science.",
   "explanation": "Learn about E-Commerce Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "e-commerce-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

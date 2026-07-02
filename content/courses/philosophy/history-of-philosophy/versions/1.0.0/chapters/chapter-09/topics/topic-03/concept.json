@@ -2,6 +2,7 @@
   "id": "philosophy.history-of-philosophy.chapter-09.topic-03",
   "name": "Karl Marx",
   "subject": "philosophy",
+  "summary": "Karl Marx is a fundamental concept in philosophy.",
   "definition": "Karl Marx is a fundamental concept in philosophy.",
   "explanation": "Learn about Karl Marx and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "karl-marx"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

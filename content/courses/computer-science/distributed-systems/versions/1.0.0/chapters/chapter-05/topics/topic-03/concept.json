@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-05.topic-03",
   "name": "Causal Consistency",
   "subject": "computer-science",
+  "summary": "Causal Consistency is a fundamental concept in computer-science.",
   "definition": "Causal Consistency is a fundamental concept in computer-science.",
   "explanation": "Learn about Causal Consistency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "causal-consistency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

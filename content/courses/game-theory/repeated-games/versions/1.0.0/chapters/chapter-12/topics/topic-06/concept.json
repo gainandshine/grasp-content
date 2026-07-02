@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-12.topic-06",
   "name": "Agent-Based Modeling",
   "subject": "game-theory",
+  "summary": "Agent-Based Modeling is a fundamental concept in game-theory.",
   "definition": "Agent-Based Modeling is a fundamental concept in game-theory.",
   "explanation": "Learn about Agent-Based Modeling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "agent-based-modeling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

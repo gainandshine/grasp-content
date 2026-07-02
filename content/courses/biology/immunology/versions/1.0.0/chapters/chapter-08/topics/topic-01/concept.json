@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-08.topic-01",
   "name": "Active Immunity",
   "subject": "biology",
+  "summary": "Active Immunity is a fundamental concept in biology.",
   "definition": "Active Immunity is a fundamental concept in biology.",
   "explanation": "Learn about Active Immunity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "active-immunity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

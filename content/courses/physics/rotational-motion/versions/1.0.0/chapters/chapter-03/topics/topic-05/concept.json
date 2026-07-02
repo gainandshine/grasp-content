@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-03.topic-05",
   "name": "Net Torque",
   "subject": "physics",
+  "summary": "Net Torque is a fundamental concept in physics.",
   "definition": "Net Torque is a fundamental concept in physics.",
   "explanation": "Learn about Net Torque and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "net-torque"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

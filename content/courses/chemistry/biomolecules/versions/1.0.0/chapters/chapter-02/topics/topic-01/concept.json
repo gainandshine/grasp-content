@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-02.topic-01",
   "name": "Monosaccharides",
   "subject": "chemistry",
+  "summary": "Monosaccharides is a fundamental concept in chemistry.",
   "definition": "Monosaccharides is a fundamental concept in chemistry.",
   "explanation": "Learn about Monosaccharides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "monosaccharides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

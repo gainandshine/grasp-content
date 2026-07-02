@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-08.topic-02",
   "name": "Upper & Lower Sums",
   "subject": "mathematics",
+  "summary": "Upper & Lower Sums is a fundamental concept in mathematics.",
   "definition": "Upper & Lower Sums is a fundamental concept in mathematics.",
   "explanation": "Learn about Upper & Lower Sums and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "upper-lower-sums"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

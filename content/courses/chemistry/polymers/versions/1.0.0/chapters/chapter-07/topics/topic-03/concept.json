@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-07.topic-03",
   "name": "Blow Molding",
   "subject": "chemistry",
+  "summary": "Blow Molding is a fundamental concept in chemistry.",
   "definition": "Blow Molding is a fundamental concept in chemistry.",
   "explanation": "Learn about Blow Molding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "blow-molding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

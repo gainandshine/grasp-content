@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-07.topic-02",
   "name": "Cladistics",
   "subject": "biology",
+  "summary": "Cladistics is a fundamental concept in biology.",
   "definition": "Cladistics is a fundamental concept in biology.",
   "explanation": "Learn about Cladistics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cladistics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

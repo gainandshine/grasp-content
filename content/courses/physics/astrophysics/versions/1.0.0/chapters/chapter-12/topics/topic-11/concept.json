@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-12.topic-11",
   "name": "How might the universe end?",
   "subject": "physics",
+  "summary": "How might the universe end? is a fundamental concept in physics.",
   "definition": "How might the universe end? is a fundamental concept in physics.",
   "explanation": "Learn about How might the universe end? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "how-might-the-universe-end"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

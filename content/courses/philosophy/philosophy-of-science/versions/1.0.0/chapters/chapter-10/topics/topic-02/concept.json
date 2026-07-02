@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-10.topic-02",
   "name": "Economics",
   "subject": "philosophy",
+  "summary": "Economics is a fundamental concept in philosophy.",
   "definition": "Economics is a fundamental concept in philosophy.",
   "explanation": "Learn about Economics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "economics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

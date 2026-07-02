@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-10.topic-01",
   "name": "Foreign Aid",
   "subject": "economics",
+  "summary": "Foreign Aid is a fundamental concept in economics.",
   "definition": "Foreign Aid is a fundamental concept in economics.",
   "explanation": "Learn about Foreign Aid and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "foreign-aid"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

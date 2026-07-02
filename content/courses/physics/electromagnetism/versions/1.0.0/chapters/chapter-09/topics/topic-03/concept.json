@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-09.topic-03",
   "name": "LC Circuits",
   "subject": "physics",
+  "summary": "LC Circuits is a fundamental concept in physics.",
   "definition": "LC Circuits is a fundamental concept in physics.",
   "explanation": "Learn about LC Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "lc-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

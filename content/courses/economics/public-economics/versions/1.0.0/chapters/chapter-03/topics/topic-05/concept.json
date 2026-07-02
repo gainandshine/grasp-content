@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-03.topic-05",
   "name": "Pigouvian Taxes",
   "subject": "economics",
+  "summary": "Pigouvian Taxes is a fundamental concept in economics.",
   "definition": "Pigouvian Taxes is a fundamental concept in economics.",
   "explanation": "Learn about Pigouvian Taxes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "pigouvian-taxes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

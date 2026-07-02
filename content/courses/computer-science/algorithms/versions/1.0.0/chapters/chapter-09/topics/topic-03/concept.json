@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-09.topic-03",
   "name": "Topological Sorting",
   "subject": "computer-science",
+  "summary": "Topological Sorting is a fundamental concept in computer-science.",
   "definition": "Topological Sorting is a fundamental concept in computer-science.",
   "explanation": "Learn about Topological Sorting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "topological-sorting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

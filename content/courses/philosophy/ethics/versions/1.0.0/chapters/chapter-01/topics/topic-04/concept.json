@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-01.topic-04",
   "name": "Values",
   "subject": "philosophy",
+  "summary": "Values is a fundamental concept in philosophy.",
   "definition": "Values is a fundamental concept in philosophy.",
   "explanation": "Learn about Values and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "values"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-08.topic-01",
   "name": "Residues",
   "subject": "mathematics",
+  "summary": "Residues is a fundamental concept in mathematics.",
   "definition": "Residues is a fundamental concept in mathematics.",
   "explanation": "Learn about Residues and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "residues"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-11.topic-04",
   "name": "Dilation",
   "subject": "mathematics",
+  "summary": "Dilation is a fundamental concept in mathematics.",
   "definition": "Dilation is a fundamental concept in mathematics.",
   "explanation": "Learn about Dilation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "dilation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

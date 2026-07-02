@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-14.topic-02",
   "name": "Conditional Independence",
   "subject": "mathematics",
+  "summary": "Conditional Independence is a fundamental concept in mathematics.",
   "definition": "Conditional Independence is a fundamental concept in mathematics.",
   "explanation": "Learn about Conditional Independence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "conditional-independence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

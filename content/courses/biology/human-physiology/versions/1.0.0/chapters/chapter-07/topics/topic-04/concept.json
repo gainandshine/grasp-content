@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-07.topic-04",
   "name": "Tubular Secretion",
   "subject": "biology",
+  "summary": "Tubular Secretion is a fundamental concept in biology.",
   "definition": "Tubular Secretion is a fundamental concept in biology.",
   "explanation": "Learn about Tubular Secretion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "tubular-secretion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

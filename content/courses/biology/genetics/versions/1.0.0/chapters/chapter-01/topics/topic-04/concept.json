@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-01.topic-04",
   "name": "Genotype",
   "subject": "biology",
+  "summary": "Genotype is a fundamental concept in biology.",
   "definition": "Genotype is a fundamental concept in biology.",
   "explanation": "Learn about Genotype and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genotype"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

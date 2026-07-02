@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-06.topic-03",
   "name": "Compilers",
   "subject": "computer-science",
+  "summary": "Compilers is a fundamental concept in computer-science.",
   "definition": "Compilers is a fundamental concept in computer-science.",
   "explanation": "Learn about Compilers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "compilers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

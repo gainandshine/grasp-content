@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-09.topic-09",
   "name": "Silver",
   "subject": "chemistry",
+  "summary": "Silver is a fundamental concept in chemistry.",
   "definition": "Silver is a fundamental concept in chemistry.",
   "explanation": "Learn about Silver and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "silver"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-11.topic-04",
   "name": "Stress Management",
   "subject": "psychology",
+  "summary": "Stress Management is a fundamental concept in psychology.",
   "definition": "Stress Management is a fundamental concept in psychology.",
   "explanation": "Learn about Stress Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "stress-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

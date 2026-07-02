@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-10.topic-02",
   "name": "Generic Methods",
   "subject": "computer-science",
+  "summary": "Generic Methods is a fundamental concept in computer-science.",
   "definition": "Generic Methods is a fundamental concept in computer-science.",
   "explanation": "Learn about Generic Methods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "generic-methods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

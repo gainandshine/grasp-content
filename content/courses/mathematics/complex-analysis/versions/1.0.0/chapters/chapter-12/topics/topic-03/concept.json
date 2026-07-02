@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-12.topic-03",
   "name": "Schwarz Lemma",
   "subject": "mathematics",
+  "summary": "Schwarz Lemma is a fundamental concept in mathematics.",
   "definition": "Schwarz Lemma is a fundamental concept in mathematics.",
   "explanation": "Learn about Schwarz Lemma and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "schwarz-lemma"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

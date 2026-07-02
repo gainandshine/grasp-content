@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-03.topic-02",
   "name": "Limits of Sequences",
   "subject": "mathematics",
+  "summary": "Limits of Sequences is a fundamental concept in mathematics.",
   "definition": "Limits of Sequences is a fundamental concept in mathematics.",
   "explanation": "Learn about Limits of Sequences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "limits-of-sequences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

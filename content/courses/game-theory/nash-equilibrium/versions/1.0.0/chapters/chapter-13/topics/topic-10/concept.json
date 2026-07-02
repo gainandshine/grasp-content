@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-13.topic-10",
   "name": "Cooperation",
   "subject": "game-theory",
+  "summary": "Cooperation is a fundamental concept in game-theory.",
   "definition": "Cooperation is a fundamental concept in game-theory.",
   "explanation": "Learn about Cooperation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "cooperation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

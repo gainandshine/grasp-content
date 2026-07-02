@@ -2,6 +2,7 @@
   "id": "economics.consumer-theory.chapter-02.topic-03",
   "name": "Law of Diminishing Marginal Utility",
   "subject": "economics",
+  "summary": "Law of Diminishing Marginal Utility is a fundamental concept in economics.",
   "definition": "Law of Diminishing Marginal Utility is a fundamental concept in economics.",
   "explanation": "Learn about Law of Diminishing Marginal Utility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "law-of-diminishing-marginal-utility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

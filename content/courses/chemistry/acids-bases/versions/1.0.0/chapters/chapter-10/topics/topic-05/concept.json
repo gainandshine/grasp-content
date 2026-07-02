@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-10.topic-05",
   "name": "Amphoteric Oxides",
   "subject": "chemistry",
+  "summary": "Amphoteric Oxides is a fundamental concept in chemistry.",
   "definition": "Amphoteric Oxides is a fundamental concept in chemistry.",
   "explanation": "Learn about Amphoteric Oxides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "amphoteric-oxides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

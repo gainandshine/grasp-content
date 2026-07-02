@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-07.topic-01",
   "name": "Money Markets",
   "subject": "economics",
+  "summary": "Money Markets is a fundamental concept in economics.",
   "definition": "Money Markets is a fundamental concept in economics.",
   "explanation": "Learn about Money Markets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "money-markets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

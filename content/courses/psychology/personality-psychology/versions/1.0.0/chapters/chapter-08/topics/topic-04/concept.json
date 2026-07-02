@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-08.topic-04",
   "name": "Behavioral Assessment",
   "subject": "psychology",
+  "summary": "Behavioral Assessment is a fundamental concept in psychology.",
   "definition": "Behavioral Assessment is a fundamental concept in psychology.",
   "explanation": "Learn about Behavioral Assessment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "behavioral-assessment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

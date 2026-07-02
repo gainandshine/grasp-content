@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-03.topic-06",
   "name": "Character Encoding (ASCII, Unicode)",
   "subject": "computer-science",
+  "summary": "Character Encoding (ASCII, Unicode) is a fundamental concept in computer-science.",
   "definition": "Character Encoding (ASCII, Unicode) is a fundamental concept in computer-science.",
   "explanation": "Learn about Character Encoding (ASCII, Unicode) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "character-encoding-ascii-unicode"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

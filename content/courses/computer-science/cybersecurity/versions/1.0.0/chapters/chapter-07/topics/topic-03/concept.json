@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-07.topic-03",
   "name": "Cloud Identity",
   "subject": "computer-science",
+  "summary": "Cloud Identity is a fundamental concept in computer-science.",
   "definition": "Cloud Identity is a fundamental concept in computer-science.",
   "explanation": "Learn about Cloud Identity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cloud-identity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

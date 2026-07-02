@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-12.topic-04",
   "name": "Internet of Things (IoT)",
   "subject": "computer-science",
+  "summary": "Internet of Things (IoT) is a fundamental concept in computer-science.",
   "definition": "Internet of Things (IoT) is a fundamental concept in computer-science.",
   "explanation": "Learn about Internet of Things (IoT) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "internet-of-things-iot"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-13",
   "name": "Biodiversity",
   "subject": "biology",
+  "summary": "Biodiversity is a fundamental concept in biology.",
   "definition": "Biodiversity is a fundamental concept in biology.",
   "explanation": "Learn about Biodiversity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biodiversity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-12.topic-03",
   "name": "Coding Theory",
   "subject": "mathematics",
+  "summary": "Coding Theory is a fundamental concept in mathematics.",
   "definition": "Coding Theory is a fundamental concept in mathematics.",
   "explanation": "Learn about Coding Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "coding-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

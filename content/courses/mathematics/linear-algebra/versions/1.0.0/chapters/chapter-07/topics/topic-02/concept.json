@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-07.topic-02",
   "name": "Kernel",
   "subject": "mathematics",
+  "summary": "Kernel is a fundamental concept in mathematics.",
   "definition": "Kernel is a fundamental concept in mathematics.",
   "explanation": "Learn about Kernel and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "kernel"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

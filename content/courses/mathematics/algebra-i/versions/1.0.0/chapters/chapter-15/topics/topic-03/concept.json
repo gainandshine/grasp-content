@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-15.topic-03",
   "name": "Quadratic Models",
   "subject": "mathematics",
+  "summary": "Quadratic Models is a fundamental concept in mathematics.",
   "definition": "Quadratic Models is a fundamental concept in mathematics.",
   "explanation": "Learn about Quadratic Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "quadratic-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

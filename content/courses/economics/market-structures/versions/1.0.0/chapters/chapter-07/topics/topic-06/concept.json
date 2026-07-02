@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-07.topic-06",
   "name": "Auctions",
   "subject": "economics",
+  "summary": "Auctions is a fundamental concept in economics.",
   "definition": "Auctions is a fundamental concept in economics.",
   "explanation": "Learn about Auctions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "auctions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

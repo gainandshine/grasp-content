@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-04.topic-03",
   "name": "Rational Functions",
   "subject": "mathematics",
+  "summary": "Rational Functions is a fundamental concept in mathematics.",
   "definition": "Rational Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Rational Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rational-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

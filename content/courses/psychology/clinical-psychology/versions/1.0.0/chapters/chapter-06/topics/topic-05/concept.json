@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-06.topic-05",
   "name": "Existential Therapy",
   "subject": "psychology",
+  "summary": "Existential Therapy is a fundamental concept in psychology.",
   "definition": "Existential Therapy is a fundamental concept in psychology.",
   "explanation": "Learn about Existential Therapy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "existential-therapy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

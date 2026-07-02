@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-02.topic-06",
   "name": "Fructose",
   "subject": "chemistry",
+  "summary": "Fructose is a fundamental concept in chemistry.",
   "definition": "Fructose is a fundamental concept in chemistry.",
   "explanation": "Learn about Fructose and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fructose"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

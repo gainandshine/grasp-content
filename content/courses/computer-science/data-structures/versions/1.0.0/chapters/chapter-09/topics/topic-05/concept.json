@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-09.topic-05",
   "name": "Dictionary Applications",
   "subject": "computer-science",
+  "summary": "Dictionary Applications is a fundamental concept in computer-science.",
   "definition": "Dictionary Applications is a fundamental concept in computer-science.",
   "explanation": "Learn about Dictionary Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "dictionary-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

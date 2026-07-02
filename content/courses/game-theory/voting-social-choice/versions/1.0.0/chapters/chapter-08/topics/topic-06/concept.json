@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-08.topic-06",
   "name": "Collective Fairness",
   "subject": "game-theory",
+  "summary": "Collective Fairness is a fundamental concept in game-theory.",
   "definition": "Collective Fairness is a fundamental concept in game-theory.",
   "explanation": "Learn about Collective Fairness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "collective-fairness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

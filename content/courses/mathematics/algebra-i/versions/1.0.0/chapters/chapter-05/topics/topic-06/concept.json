@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-05.topic-06",
   "name": "Standard Form",
   "subject": "mathematics",
+  "summary": "Standard Form is a fundamental concept in mathematics.",
   "definition": "Standard Form is a fundamental concept in mathematics.",
   "explanation": "Learn about Standard Form and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "standard-form"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

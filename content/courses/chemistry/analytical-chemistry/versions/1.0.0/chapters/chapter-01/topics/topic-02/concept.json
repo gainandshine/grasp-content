@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-01.topic-02",
   "name": "Types of Analysis",
   "subject": "chemistry",
+  "summary": "Types of Analysis is a fundamental concept in chemistry.",
   "definition": "Types of Analysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Types of Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "types-of-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

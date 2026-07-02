@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-09.topic-02",
   "name": "Rational Approximations",
   "subject": "mathematics",
+  "summary": "Rational Approximations is a fundamental concept in mathematics.",
   "definition": "Rational Approximations is a fundamental concept in mathematics.",
   "explanation": "Learn about Rational Approximations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rational-approximations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

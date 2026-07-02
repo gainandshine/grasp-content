@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-05.topic-01",
   "name": "Yeasts",
   "subject": "biology",
+  "summary": "Yeasts is a fundamental concept in biology.",
   "definition": "Yeasts is a fundamental concept in biology.",
   "explanation": "Learn about Yeasts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "yeasts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

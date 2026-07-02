@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-11.topic-05",
   "name": "Digital Logic Basics",
   "subject": "mathematics",
+  "summary": "Digital Logic Basics is a fundamental concept in mathematics.",
   "definition": "Digital Logic Basics is a fundamental concept in mathematics.",
   "explanation": "Learn about Digital Logic Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "digital-logic-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

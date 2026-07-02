@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-13.topic-17",
   "name": "Blockchain",
   "subject": "game-theory",
+  "summary": "Blockchain is a fundamental concept in game-theory.",
   "definition": "Blockchain is a fundamental concept in game-theory.",
   "explanation": "Learn about Blockchain and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "blockchain"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

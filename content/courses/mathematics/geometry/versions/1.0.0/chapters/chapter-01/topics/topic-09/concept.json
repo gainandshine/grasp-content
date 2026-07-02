@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-01.topic-09",
   "name": "Midpoint",
   "subject": "mathematics",
+  "summary": "Midpoint is a fundamental concept in mathematics.",
   "definition": "Midpoint is a fundamental concept in mathematics.",
   "explanation": "Learn about Midpoint and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "midpoint"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

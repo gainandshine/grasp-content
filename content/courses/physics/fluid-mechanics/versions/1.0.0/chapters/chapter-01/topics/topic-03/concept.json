@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-01.topic-03",
   "name": "Specific Gravity",
   "subject": "physics",
+  "summary": "Specific Gravity is a fundamental concept in physics.",
   "definition": "Specific Gravity is a fundamental concept in physics.",
   "explanation": "Learn about Specific Gravity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "specific-gravity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

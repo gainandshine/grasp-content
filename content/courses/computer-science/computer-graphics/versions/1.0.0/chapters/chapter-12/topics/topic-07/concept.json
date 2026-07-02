@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-12.topic-07",
   "name": "Film & Animation",
   "subject": "computer-science",
+  "summary": "Film & Animation is a fundamental concept in computer-science.",
   "definition": "Film & Animation is a fundamental concept in computer-science.",
   "explanation": "Learn about Film & Animation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "film-animation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-03.topic-05",
   "name": "DELETE",
   "subject": "computer-science",
+  "summary": "DELETE is a fundamental concept in computer-science.",
   "definition": "DELETE is a fundamental concept in computer-science.",
   "explanation": "Learn about DELETE and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "delete"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

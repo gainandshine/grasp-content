@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-10.topic-01",
   "name": "Sports Strategy",
   "subject": "game-theory",
+  "summary": "Sports Strategy is a fundamental concept in game-theory.",
   "definition": "Sports Strategy is a fundamental concept in game-theory.",
   "explanation": "Learn about Sports Strategy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "sports-strategy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

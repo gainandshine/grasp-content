@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-02.topic-01",
   "name": "Postulates of Relativity",
   "subject": "physics",
+  "summary": "Postulates of Relativity is a fundamental concept in physics.",
   "definition": "Postulates of Relativity is a fundamental concept in physics.",
   "explanation": "Learn about Postulates of Relativity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "postulates-of-relativity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

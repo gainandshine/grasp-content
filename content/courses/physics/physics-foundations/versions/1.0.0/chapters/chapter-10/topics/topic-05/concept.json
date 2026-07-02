@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-10.topic-05",
   "name": "Speed",
   "subject": "physics",
+  "summary": "Speed is a fundamental concept in physics.",
   "definition": "Speed is a fundamental concept in physics.",
   "explanation": "Learn about Speed and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "speed"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

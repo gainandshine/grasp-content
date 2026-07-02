@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-04.topic-05",
   "name": "Starch",
   "subject": "biology",
+  "summary": "Starch is a fundamental concept in biology.",
   "definition": "Starch is a fundamental concept in biology.",
   "explanation": "Learn about Starch and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "starch"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

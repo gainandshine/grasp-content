@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-12.topic-02",
   "name": "Ozone Layer",
   "subject": "chemistry",
+  "summary": "Ozone Layer is a fundamental concept in chemistry.",
   "definition": "Ozone Layer is a fundamental concept in chemistry.",
   "explanation": "Learn about Ozone Layer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ozone-layer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-02",
   "name": "Self-Healing Polymers",
   "subject": "chemistry",
+  "summary": "Self-Healing Polymers is a fundamental concept in chemistry.",
   "definition": "Self-Healing Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Self-Healing Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "self-healing-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

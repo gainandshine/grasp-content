@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-09.topic-05",
   "name": "Addiction",
   "subject": "psychology",
+  "summary": "Addiction is a fundamental concept in psychology.",
   "definition": "Addiction is a fundamental concept in psychology.",
   "explanation": "Learn about Addiction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "addiction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

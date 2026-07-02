@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-16.topic-03",
   "name": "Series-Parallel Networks",
   "subject": "physics",
+  "summary": "Series-Parallel Networks is a fundamental concept in physics.",
   "definition": "Series-Parallel Networks is a fundamental concept in physics.",
   "explanation": "Learn about Series-Parallel Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "series-parallel-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

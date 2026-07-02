@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-13.topic-07",
   "name": "*Course 5: Social Psychology**",
   "subject": "psychology",
+  "summary": "*Course 5: Social Psychology** is a fundamental concept in psychology.",
   "definition": "*Course 5: Social Psychology** is a fundamental concept in psychology.",
   "explanation": "Learn about *Course 5: Social Psychology** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "course-5-social-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

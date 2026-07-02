@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-03",
   "name": "Local Minima",
   "subject": "mathematics",
+  "summary": "Local Minima is a fundamental concept in mathematics.",
   "definition": "Local Minima is a fundamental concept in mathematics.",
   "explanation": "Learn about Local Minima and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "local-minima"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

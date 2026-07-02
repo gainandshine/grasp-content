@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-09.topic-04",
   "name": "Homo habilis",
   "subject": "biology",
+  "summary": "Homo habilis is a fundamental concept in biology.",
   "definition": "Homo habilis is a fundamental concept in biology.",
   "explanation": "Learn about Homo habilis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "homo-habilis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-11.topic-04",
   "name": "Motion in Space",
   "subject": "mathematics",
+  "summary": "Motion in Space is a fundamental concept in mathematics.",
   "definition": "Motion in Space is a fundamental concept in mathematics.",
   "explanation": "Learn about Motion in Space and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "motion-in-space"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

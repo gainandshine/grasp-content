@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-12.topic-17",
   "name": "Catalysis",
   "subject": "chemistry",
+  "summary": "Catalysis is a fundamental concept in chemistry.",
   "definition": "Catalysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Catalysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "catalysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

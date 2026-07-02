@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-12.topic-08",
   "name": "*Course 2: Cell Biology**",
   "subject": "biology",
+  "summary": "*Course 2: Cell Biology** is a fundamental concept in biology.",
   "definition": "*Course 2: Cell Biology** is a fundamental concept in biology.",
   "explanation": "Learn about *Course 2: Cell Biology** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "course-2-cell-biology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

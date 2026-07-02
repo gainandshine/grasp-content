@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-06.topic-03",
   "name": "Repositories",
   "subject": "computer-science",
+  "summary": "Repositories is a fundamental concept in computer-science.",
   "definition": "Repositories is a fundamental concept in computer-science.",
   "explanation": "Learn about Repositories and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "repositories"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-04.topic-05",
   "name": "Semantic Networks",
   "subject": "computer-science",
+  "summary": "Semantic Networks is a fundamental concept in computer-science.",
   "definition": "Semantic Networks is a fundamental concept in computer-science.",
   "explanation": "Learn about Semantic Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "semantic-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

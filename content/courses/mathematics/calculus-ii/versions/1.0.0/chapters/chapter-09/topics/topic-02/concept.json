@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-09.topic-02",
   "name": "Derivatives of Parametric Curves",
   "subject": "mathematics",
+  "summary": "Derivatives of Parametric Curves is a fundamental concept in mathematics.",
   "definition": "Derivatives of Parametric Curves is a fundamental concept in mathematics.",
   "explanation": "Learn about Derivatives of Parametric Curves and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "derivatives-of-parametric-curves"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

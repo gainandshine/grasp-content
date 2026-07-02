@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-04.topic-03",
   "name": "Drift Velocity",
   "subject": "physics",
+  "summary": "Drift Velocity is a fundamental concept in physics.",
   "definition": "Drift Velocity is a fundamental concept in physics.",
   "explanation": "Learn about Drift Velocity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "drift-velocity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

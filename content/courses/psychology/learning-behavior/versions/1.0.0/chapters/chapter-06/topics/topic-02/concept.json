@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-06.topic-02",
   "name": "Latent Learning",
   "subject": "psychology",
+  "summary": "Latent Learning is a fundamental concept in psychology.",
   "definition": "Latent Learning is a fundamental concept in psychology.",
   "explanation": "Learn about Latent Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "latent-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

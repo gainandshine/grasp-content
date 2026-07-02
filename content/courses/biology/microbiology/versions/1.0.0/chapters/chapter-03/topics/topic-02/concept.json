@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-03.topic-02",
   "name": "Differences from Bacteria",
   "subject": "biology",
+  "summary": "Differences from Bacteria is a fundamental concept in biology.",
   "definition": "Differences from Bacteria is a fundamental concept in biology.",
   "explanation": "Learn about Differences from Bacteria and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "differences-from-bacteria"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

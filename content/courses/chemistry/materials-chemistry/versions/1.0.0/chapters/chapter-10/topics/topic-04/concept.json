@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-10.topic-04",
   "name": "Metal Matrix Composites",
   "subject": "chemistry",
+  "summary": "Metal Matrix Composites is a fundamental concept in chemistry.",
   "definition": "Metal Matrix Composites is a fundamental concept in chemistry.",
   "explanation": "Learn about Metal Matrix Composites and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metal-matrix-composites"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-09.topic-06",
   "name": "Retrospectives",
   "subject": "computer-science",
+  "summary": "Retrospectives is a fundamental concept in computer-science.",
   "definition": "Retrospectives is a fundamental concept in computer-science.",
   "explanation": "Learn about Retrospectives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "retrospectives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

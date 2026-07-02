@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-05.topic-05",
   "name": "HL Congruence",
   "subject": "mathematics",
+  "summary": "HL Congruence is a fundamental concept in mathematics.",
   "definition": "HL Congruence is a fundamental concept in mathematics.",
   "explanation": "Learn about HL Congruence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "hl-congruence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

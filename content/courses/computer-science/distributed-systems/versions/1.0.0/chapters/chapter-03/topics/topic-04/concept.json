@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-03.topic-04",
   "name": "Vector Clocks",
   "subject": "computer-science",
+  "summary": "Vector Clocks is a fundamental concept in computer-science.",
   "definition": "Vector Clocks is a fundamental concept in computer-science.",
   "explanation": "Learn about Vector Clocks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "vector-clocks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-08.topic-03",
   "name": "Heap Memory",
   "subject": "computer-science",
+  "summary": "Heap Memory is a fundamental concept in computer-science.",
   "definition": "Heap Memory is a fundamental concept in computer-science.",
   "explanation": "Learn about Heap Memory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "heap-memory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

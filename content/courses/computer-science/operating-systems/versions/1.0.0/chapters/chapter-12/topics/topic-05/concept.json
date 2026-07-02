@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-12.topic-05",
   "name": "iOS",
   "subject": "computer-science",
+  "summary": "iOS is a fundamental concept in computer-science.",
   "definition": "iOS is a fundamental concept in computer-science.",
   "explanation": "Learn about iOS and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ios"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

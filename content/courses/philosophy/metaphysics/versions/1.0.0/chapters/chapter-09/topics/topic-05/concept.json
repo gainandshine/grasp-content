@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-09.topic-05",
   "name": "Dispositions",
   "subject": "philosophy",
+  "summary": "Dispositions is a fundamental concept in philosophy.",
   "definition": "Dispositions is a fundamental concept in philosophy.",
   "explanation": "Learn about Dispositions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "dispositions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

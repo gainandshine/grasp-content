@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-02.topic-05",
   "name": "Truth Tables",
   "subject": "computer-science",
+  "summary": "Truth Tables is a fundamental concept in computer-science.",
   "definition": "Truth Tables is a fundamental concept in computer-science.",
   "explanation": "Learn about Truth Tables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "truth-tables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

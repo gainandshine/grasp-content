@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-08.topic-04",
   "name": "Rate-Determining Step",
   "subject": "chemistry",
+  "summary": "Rate-Determining Step is a fundamental concept in chemistry.",
   "definition": "Rate-Determining Step is a fundamental concept in chemistry.",
   "explanation": "Learn about Rate-Determining Step and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "rate-determining-step"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

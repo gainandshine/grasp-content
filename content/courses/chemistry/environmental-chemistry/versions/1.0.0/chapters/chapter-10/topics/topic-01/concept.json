@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-10.topic-01",
   "name": "Principles of Green Chemistry",
   "subject": "chemistry",
+  "summary": "Principles of Green Chemistry is a fundamental concept in chemistry.",
   "definition": "Principles of Green Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Principles of Green Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "principles-of-green-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-13.topic-16",
   "name": "Substance Use Disorders",
   "subject": "psychology",
+  "summary": "Substance Use Disorders is a fundamental concept in psychology.",
   "definition": "Substance Use Disorders is a fundamental concept in psychology.",
   "explanation": "Learn about Substance Use Disorders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "substance-use-disorders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

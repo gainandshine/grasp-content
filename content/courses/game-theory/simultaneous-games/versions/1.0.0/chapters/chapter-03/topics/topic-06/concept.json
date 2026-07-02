@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-03.topic-06",
   "name": "Strategic Reasoning",
   "subject": "game-theory",
+  "summary": "Strategic Reasoning is a fundamental concept in game-theory.",
   "definition": "Strategic Reasoning is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Reasoning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-reasoning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

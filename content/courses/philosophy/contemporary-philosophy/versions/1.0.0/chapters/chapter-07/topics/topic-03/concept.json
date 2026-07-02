@@ -2,6 +2,7 @@
   "id": "philosophy.contemporary-philosophy.chapter-07.topic-03",
   "name": "Automation",
   "subject": "philosophy",
+  "summary": "Automation is a fundamental concept in philosophy.",
   "definition": "Automation is a fundamental concept in philosophy.",
   "explanation": "Learn about Automation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "automation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

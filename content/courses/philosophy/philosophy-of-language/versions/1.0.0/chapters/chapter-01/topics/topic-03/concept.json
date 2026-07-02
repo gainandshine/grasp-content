@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-language.chapter-01.topic-03",
   "name": "Meaning",
   "subject": "philosophy",
+  "summary": "Meaning is a fundamental concept in philosophy.",
   "definition": "Meaning is a fundamental concept in philosophy.",
   "explanation": "Learn about Meaning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "meaning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

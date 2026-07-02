@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-12.topic-01",
   "name": "Evo-Devo (Evolutionary Developmental Biology)",
   "subject": "biology",
+  "summary": "Evo-Devo (Evolutionary Developmental Biology) is a fundamental concept in biology.",
   "definition": "Evo-Devo (Evolutionary Developmental Biology) is a fundamental concept in biology.",
   "explanation": "Learn about Evo-Devo (Evolutionary Developmental Biology) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "evo-devo-evolutionary-developmental-biology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

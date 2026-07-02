@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-08.topic-04",
   "name": "Eigenspaces",
   "subject": "mathematics",
+  "summary": "Eigenspaces is a fundamental concept in mathematics.",
   "definition": "Eigenspaces is a fundamental concept in mathematics.",
   "explanation": "Learn about Eigenspaces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "eigenspaces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

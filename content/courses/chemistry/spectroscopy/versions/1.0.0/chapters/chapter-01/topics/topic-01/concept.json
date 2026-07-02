@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-01.topic-01",
   "name": "What is Spectroscopy?",
   "subject": "chemistry",
+  "summary": "What is Spectroscopy? is a fundamental concept in chemistry.",
   "definition": "What is Spectroscopy? is a fundamental concept in chemistry.",
   "explanation": "Learn about What is Spectroscopy? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "what-is-spectroscopy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

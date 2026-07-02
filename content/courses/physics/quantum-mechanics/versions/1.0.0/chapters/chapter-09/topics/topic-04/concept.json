@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-09.topic-04",
   "name": "Radial Wave Functions",
   "subject": "physics",
+  "summary": "Radial Wave Functions is a fundamental concept in physics.",
   "definition": "Radial Wave Functions is a fundamental concept in physics.",
   "explanation": "Learn about Radial Wave Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "radial-wave-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

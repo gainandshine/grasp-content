@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-03.topic-01",
   "name": "One-Variable Inequalities",
   "subject": "mathematics",
+  "summary": "One-Variable Inequalities is a fundamental concept in mathematics.",
   "definition": "One-Variable Inequalities is a fundamental concept in mathematics.",
   "explanation": "Learn about One-Variable Inequalities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "one-variable-inequalities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

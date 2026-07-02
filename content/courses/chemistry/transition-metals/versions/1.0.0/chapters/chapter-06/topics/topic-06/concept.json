@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-06.topic-06",
   "name": "Crystal Field Effects (Introduction)",
   "subject": "chemistry",
+  "summary": "Crystal Field Effects (Introduction) is a fundamental concept in chemistry.",
   "definition": "Crystal Field Effects (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Crystal Field Effects (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "crystal-field-effects-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

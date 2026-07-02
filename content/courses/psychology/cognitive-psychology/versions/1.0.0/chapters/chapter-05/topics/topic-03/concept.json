@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-05.topic-03",
   "name": "Knowledge Representation",
   "subject": "psychology",
+  "summary": "Knowledge Representation is a fundamental concept in psychology.",
   "definition": "Knowledge Representation is a fundamental concept in psychology.",
   "explanation": "Learn about Knowledge Representation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "knowledge-representation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-13.topic-19",
   "name": "Modern Compiler Architecture",
   "subject": "computer-science",
+  "summary": "Modern Compiler Architecture is a fundamental concept in computer-science.",
   "definition": "Modern Compiler Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Modern Compiler Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "modern-compiler-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

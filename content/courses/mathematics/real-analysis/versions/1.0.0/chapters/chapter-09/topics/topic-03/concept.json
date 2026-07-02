@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-09.topic-03",
   "name": "Closed Sets",
   "subject": "mathematics",
+  "summary": "Closed Sets is a fundamental concept in mathematics.",
   "definition": "Closed Sets is a fundamental concept in mathematics.",
   "explanation": "Learn about Closed Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "closed-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

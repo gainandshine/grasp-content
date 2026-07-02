@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-07.topic-06",
   "name": "Isotope Patterns",
   "subject": "chemistry",
+  "summary": "Isotope Patterns is a fundamental concept in chemistry.",
   "definition": "Isotope Patterns is a fundamental concept in chemistry.",
   "explanation": "Learn about Isotope Patterns and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "isotope-patterns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

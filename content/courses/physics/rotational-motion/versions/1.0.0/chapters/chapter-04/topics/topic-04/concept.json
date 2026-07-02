@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-04.topic-04",
   "name": "Perpendicular Axis Theorem",
   "subject": "physics",
+  "summary": "Perpendicular Axis Theorem is a fundamental concept in physics.",
   "definition": "Perpendicular Axis Theorem is a fundamental concept in physics.",
   "explanation": "Learn about Perpendicular Axis Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "perpendicular-axis-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

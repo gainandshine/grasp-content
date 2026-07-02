@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-02.topic-03",
   "name": "Message Passing",
   "subject": "computer-science",
+  "summary": "Message Passing is a fundamental concept in computer-science.",
   "definition": "Message Passing is a fundamental concept in computer-science.",
   "explanation": "Learn about Message Passing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "message-passing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

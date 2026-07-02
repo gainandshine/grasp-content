@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-10.topic-03",
   "name": "Rate Limiting",
   "subject": "computer-science",
+  "summary": "Rate Limiting is a fundamental concept in computer-science.",
   "definition": "Rate Limiting is a fundamental concept in computer-science.",
   "explanation": "Learn about Rate Limiting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "rate-limiting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

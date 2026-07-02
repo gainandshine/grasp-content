@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-06.topic-04",
   "name": "Scatter Plots",
   "subject": "computer-science",
+  "summary": "Scatter Plots is a fundamental concept in computer-science.",
   "definition": "Scatter Plots is a fundamental concept in computer-science.",
   "explanation": "Learn about Scatter Plots and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scatter-plots"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

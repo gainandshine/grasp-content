@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-01.topic-03",
   "name": "Types of Operating Systems",
   "subject": "computer-science",
+  "summary": "Types of Operating Systems is a fundamental concept in computer-science.",
   "definition": "Types of Operating Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Types of Operating Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "types-of-operating-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

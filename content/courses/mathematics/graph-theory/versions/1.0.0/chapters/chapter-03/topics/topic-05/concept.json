@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-03.topic-05",
   "name": "Isolated Vertices",
   "subject": "mathematics",
+  "summary": "Isolated Vertices is a fundamental concept in mathematics.",
   "definition": "Isolated Vertices is a fundamental concept in mathematics.",
   "explanation": "Learn about Isolated Vertices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "isolated-vertices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

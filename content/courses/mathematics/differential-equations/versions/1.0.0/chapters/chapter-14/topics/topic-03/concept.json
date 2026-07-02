@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-14.topic-03",
   "name": "Population Dynamics",
   "subject": "mathematics",
+  "summary": "Population Dynamics is a fundamental concept in mathematics.",
   "definition": "Population Dynamics is a fundamental concept in mathematics.",
   "explanation": "Learn about Population Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "population-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

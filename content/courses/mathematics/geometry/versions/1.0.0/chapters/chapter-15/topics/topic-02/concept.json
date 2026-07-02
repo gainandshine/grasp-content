@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-15.topic-02",
   "name": "Flow Proofs",
   "subject": "mathematics",
+  "summary": "Flow Proofs is a fundamental concept in mathematics.",
   "definition": "Flow Proofs is a fundamental concept in mathematics.",
   "explanation": "Learn about Flow Proofs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "flow-proofs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-17.topic-03",
   "name": "Loop Analysis",
   "subject": "physics",
+  "summary": "Loop Analysis is a fundamental concept in physics.",
   "definition": "Loop Analysis is a fundamental concept in physics.",
   "explanation": "Learn about Loop Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "loop-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

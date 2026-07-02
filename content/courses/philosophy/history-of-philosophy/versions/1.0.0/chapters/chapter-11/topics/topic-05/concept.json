@@ -2,6 +2,7 @@
   "id": "philosophy.history-of-philosophy.chapter-11.topic-05",
   "name": "Postmodernism",
   "subject": "philosophy",
+  "summary": "Postmodernism is a fundamental concept in philosophy.",
   "definition": "Postmodernism is a fundamental concept in philosophy.",
   "explanation": "Learn about Postmodernism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "postmodernism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

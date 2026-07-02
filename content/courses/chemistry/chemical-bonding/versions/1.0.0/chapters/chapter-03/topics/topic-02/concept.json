@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-03.topic-02",
   "name": "Single Bond",
   "subject": "chemistry",
+  "summary": "Single Bond is a fundamental concept in chemistry.",
   "definition": "Single Bond is a fundamental concept in chemistry.",
   "explanation": "Learn about Single Bond and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "single-bond"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

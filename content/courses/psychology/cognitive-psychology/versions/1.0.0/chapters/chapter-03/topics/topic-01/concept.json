@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-03.topic-01",
   "name": "Visual Perception",
   "subject": "psychology",
+  "summary": "Visual Perception is a fundamental concept in psychology.",
   "definition": "Visual Perception is a fundamental concept in psychology.",
   "explanation": "Learn about Visual Perception and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "visual-perception"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

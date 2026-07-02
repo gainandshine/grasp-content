@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-09.topic-04",
   "name": "Irreversible Processes",
   "subject": "physics",
+  "summary": "Irreversible Processes is a fundamental concept in physics.",
   "definition": "Irreversible Processes is a fundamental concept in physics.",
   "explanation": "Learn about Irreversible Processes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "irreversible-processes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

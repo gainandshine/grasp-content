@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-07.topic-09",
   "name": "Industrial Importance",
   "subject": "chemistry",
+  "summary": "Industrial Importance is a fundamental concept in chemistry.",
   "definition": "Industrial Importance is a fundamental concept in chemistry.",
   "explanation": "Learn about Industrial Importance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "industrial-importance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

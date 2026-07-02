@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-03.topic-06",
   "name": "Operator Precedence",
   "subject": "computer-science",
+  "summary": "Operator Precedence is a fundamental concept in computer-science.",
   "definition": "Operator Precedence is a fundamental concept in computer-science.",
   "explanation": "Learn about Operator Precedence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "operator-precedence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

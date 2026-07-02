@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-10.topic-06",
   "name": "High Availability",
   "subject": "computer-science",
+  "summary": "High Availability is a fundamental concept in computer-science.",
   "definition": "High Availability is a fundamental concept in computer-science.",
   "explanation": "Learn about High Availability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "high-availability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

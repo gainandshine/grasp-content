@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-13.topic-06",
   "name": "Future of Sequential Decision Systems",
   "subject": "game-theory",
+  "summary": "Future of Sequential Decision Systems is a fundamental concept in game-theory.",
   "definition": "Future of Sequential Decision Systems is a fundamental concept in game-theory.",
   "explanation": "Learn about Future of Sequential Decision Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "future-of-sequential-decision-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

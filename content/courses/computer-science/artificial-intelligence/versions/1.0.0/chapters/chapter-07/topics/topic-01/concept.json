@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-07.topic-01",
   "name": "Constraint Satisfaction Problems (CSPs)",
   "subject": "computer-science",
+  "summary": "Constraint Satisfaction Problems (CSPs) is a fundamental concept in computer-science.",
   "definition": "Constraint Satisfaction Problems (CSPs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Constraint Satisfaction Problems (CSPs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "constraint-satisfaction-problems-csps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

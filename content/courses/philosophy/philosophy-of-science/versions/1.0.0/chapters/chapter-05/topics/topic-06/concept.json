@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-05.topic-06",
   "name": "Scientific Progress",
   "subject": "philosophy",
+  "summary": "Scientific Progress is a fundamental concept in philosophy.",
   "definition": "Scientific Progress is a fundamental concept in philosophy.",
   "explanation": "Learn about Scientific Progress and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "scientific-progress"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

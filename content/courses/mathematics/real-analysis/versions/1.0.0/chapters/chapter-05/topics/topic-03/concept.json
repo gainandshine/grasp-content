@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-05.topic-03",
   "name": "Infinite Limits",
   "subject": "mathematics",
+  "summary": "Infinite Limits is a fundamental concept in mathematics.",
   "definition": "Infinite Limits is a fundamental concept in mathematics.",
   "explanation": "Learn about Infinite Limits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "infinite-limits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

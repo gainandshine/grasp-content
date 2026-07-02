@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-13.topic-15",
   "name": "Bioethics",
   "subject": "philosophy",
+  "summary": "Bioethics is a fundamental concept in philosophy.",
   "definition": "Bioethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Bioethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "bioethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

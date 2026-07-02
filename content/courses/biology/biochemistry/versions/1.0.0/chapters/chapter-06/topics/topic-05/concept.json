@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-06.topic-05",
   "name": "Transcription",
   "subject": "biology",
+  "summary": "Transcription is a fundamental concept in biology.",
   "definition": "Transcription is a fundamental concept in biology.",
   "explanation": "Learn about Transcription and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "transcription"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

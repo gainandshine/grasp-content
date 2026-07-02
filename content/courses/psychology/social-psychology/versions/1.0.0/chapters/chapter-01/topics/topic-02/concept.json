@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-01.topic-02",
   "name": "Social Cognition",
   "subject": "psychology",
+  "summary": "Social Cognition is a fundamental concept in psychology.",
   "definition": "Social Cognition is a fundamental concept in psychology.",
   "explanation": "Learn about Social Cognition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "social-cognition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

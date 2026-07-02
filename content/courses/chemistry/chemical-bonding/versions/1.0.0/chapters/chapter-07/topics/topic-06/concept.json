@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-07.topic-06",
   "name": "Pi (π) Bonds",
   "subject": "chemistry",
+  "summary": "Pi (π) Bonds is a fundamental concept in chemistry.",
   "definition": "Pi (π) Bonds is a fundamental concept in chemistry.",
   "explanation": "Learn about Pi (π) Bonds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "pi-bonds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

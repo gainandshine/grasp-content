@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-07.topic-04",
   "name": "Request Handling",
   "subject": "computer-science",
+  "summary": "Request Handling is a fundamental concept in computer-science.",
   "definition": "Request Handling is a fundamental concept in computer-science.",
   "explanation": "Learn about Request Handling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "request-handling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-11.topic-04",
   "name": "Early Intervention",
   "subject": "psychology",
+  "summary": "Early Intervention is a fundamental concept in psychology.",
   "definition": "Early Intervention is a fundamental concept in psychology.",
   "explanation": "Learn about Early Intervention and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "early-intervention"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-11.topic-03",
   "name": "Vulnerability Assessment",
   "subject": "computer-science",
+  "summary": "Vulnerability Assessment is a fundamental concept in computer-science.",
   "definition": "Vulnerability Assessment is a fundamental concept in computer-science.",
   "explanation": "Learn about Vulnerability Assessment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "vulnerability-assessment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

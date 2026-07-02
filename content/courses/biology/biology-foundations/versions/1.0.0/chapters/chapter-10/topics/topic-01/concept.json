@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-10.topic-01",
   "name": "What is Evolution?",
   "subject": "biology",
+  "summary": "What is Evolution? is a fundamental concept in biology.",
   "definition": "What is Evolution? is a fundamental concept in biology.",
   "explanation": "Learn about What is Evolution? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "what-is-evolution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

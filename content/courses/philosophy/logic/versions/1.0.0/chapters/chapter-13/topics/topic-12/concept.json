@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-13.topic-12",
   "name": "Skepticism",
   "subject": "philosophy",
+  "summary": "Skepticism is a fundamental concept in philosophy.",
   "definition": "Skepticism is a fundamental concept in philosophy.",
   "explanation": "Learn about Skepticism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "skepticism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

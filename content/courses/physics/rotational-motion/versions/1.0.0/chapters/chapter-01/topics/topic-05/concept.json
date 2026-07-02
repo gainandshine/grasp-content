@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-01.topic-05",
   "name": "Angular Position-Time Graphs",
   "subject": "physics",
+  "summary": "Angular Position-Time Graphs is a fundamental concept in physics.",
   "definition": "Angular Position-Time Graphs is a fundamental concept in physics.",
   "explanation": "Learn about Angular Position-Time Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "angular-position-time-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

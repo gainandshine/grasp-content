@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-09.topic-01",
   "name": "Z-Test",
   "subject": "mathematics",
+  "summary": "Z-Test is a fundamental concept in mathematics.",
   "definition": "Z-Test is a fundamental concept in mathematics.",
   "explanation": "Learn about Z-Test and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "z-test"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-19",
   "name": "Basic Algorithms",
   "subject": "computer-science",
+  "summary": "Basic Algorithms is a fundamental concept in computer-science.",
   "definition": "Basic Algorithms is a fundamental concept in computer-science.",
   "explanation": "Learn about Basic Algorithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "basic-algorithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

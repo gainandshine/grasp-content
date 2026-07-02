@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-12.topic-07",
   "name": "Remote Work",
   "subject": "psychology",
+  "summary": "Remote Work is a fundamental concept in psychology.",
   "definition": "Remote Work is a fundamental concept in psychology.",
   "explanation": "Learn about Remote Work and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "remote-work"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

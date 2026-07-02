@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-08.topic-05",
   "name": "Genetic Drift",
   "subject": "biology",
+  "summary": "Genetic Drift is a fundamental concept in biology.",
   "definition": "Genetic Drift is a fundamental concept in biology.",
   "explanation": "Learn about Genetic Drift and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genetic-drift"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

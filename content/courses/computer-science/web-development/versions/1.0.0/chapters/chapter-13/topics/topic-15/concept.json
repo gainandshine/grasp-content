@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-13.topic-15",
   "name": "State Management",
   "subject": "computer-science",
+  "summary": "State Management is a fundamental concept in computer-science.",
   "definition": "State Management is a fundamental concept in computer-science.",
   "explanation": "Learn about State Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "state-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

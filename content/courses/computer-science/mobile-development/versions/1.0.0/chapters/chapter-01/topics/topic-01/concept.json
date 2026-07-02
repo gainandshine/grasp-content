@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-01.topic-01",
   "name": "Mobile Computing",
   "subject": "computer-science",
+  "summary": "Mobile Computing is a fundamental concept in computer-science.",
   "definition": "Mobile Computing is a fundamental concept in computer-science.",
   "explanation": "Learn about Mobile Computing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mobile-computing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

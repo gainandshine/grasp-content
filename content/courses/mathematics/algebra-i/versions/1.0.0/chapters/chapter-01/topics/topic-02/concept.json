@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-01.topic-02",
   "name": "Expressions",
   "subject": "mathematics",
+  "summary": "Expressions is a fundamental concept in mathematics.",
   "definition": "Expressions is a fundamental concept in mathematics.",
   "explanation": "Learn about Expressions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "expressions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

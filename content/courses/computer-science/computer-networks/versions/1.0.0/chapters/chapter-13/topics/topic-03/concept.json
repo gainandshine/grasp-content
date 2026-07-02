@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-03",
   "name": "IoT Networks",
   "subject": "computer-science",
+  "summary": "IoT Networks is a fundamental concept in computer-science.",
   "definition": "IoT Networks is a fundamental concept in computer-science.",
   "explanation": "Learn about IoT Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "iot-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

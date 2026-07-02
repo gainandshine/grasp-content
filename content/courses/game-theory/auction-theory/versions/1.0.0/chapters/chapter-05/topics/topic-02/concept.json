@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-05.topic-02",
   "name": "Second-Price (Vickrey) Auction",
   "subject": "game-theory",
+  "summary": "Second-Price (Vickrey) Auction is a fundamental concept in game-theory.",
   "definition": "Second-Price (Vickrey) Auction is a fundamental concept in game-theory.",
   "explanation": "Learn about Second-Price (Vickrey) Auction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "second-price-vickrey-auction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-11.topic-01",
   "name": "Field Automorphisms",
   "subject": "mathematics",
+  "summary": "Field Automorphisms is a fundamental concept in mathematics.",
   "definition": "Field Automorphisms is a fundamental concept in mathematics.",
   "explanation": "Learn about Field Automorphisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "field-automorphisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

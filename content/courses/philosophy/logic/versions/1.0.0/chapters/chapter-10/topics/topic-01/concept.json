@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-10.topic-01",
   "name": "Boolean Algebra",
   "subject": "philosophy",
+  "summary": "Boolean Algebra is a fundamental concept in philosophy.",
   "definition": "Boolean Algebra is a fundamental concept in philosophy.",
   "explanation": "Learn about Boolean Algebra and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "boolean-algebra"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

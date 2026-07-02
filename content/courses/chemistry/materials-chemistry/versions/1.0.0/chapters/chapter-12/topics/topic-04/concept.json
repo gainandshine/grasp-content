@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-12.topic-04",
   "name": "Construction Materials",
   "subject": "chemistry",
+  "summary": "Construction Materials is a fundamental concept in chemistry.",
   "definition": "Construction Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Construction Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "construction-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

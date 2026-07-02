@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-05.topic-06",
   "name": "Routers",
   "subject": "computer-science",
+  "summary": "Routers is a fundamental concept in computer-science.",
   "definition": "Routers is a fundamental concept in computer-science.",
   "explanation": "Learn about Routers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "routers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

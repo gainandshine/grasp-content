@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-10.topic-03",
   "name": "Logical Errors",
   "subject": "computer-science",
+  "summary": "Logical Errors is a fundamental concept in computer-science.",
   "definition": "Logical Errors is a fundamental concept in computer-science.",
   "explanation": "Learn about Logical Errors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "logical-errors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

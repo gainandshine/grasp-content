@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-10.topic-01",
   "name": "Memory Management",
   "subject": "computer-science",
+  "summary": "Memory Management is a fundamental concept in computer-science.",
   "definition": "Memory Management is a fundamental concept in computer-science.",
   "explanation": "Learn about Memory Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "memory-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-10.topic-02",
   "name": "Maxwell's View of Magnetism (Introduction)",
   "subject": "physics",
+  "summary": "Maxwell's View of Magnetism (Introduction) is a fundamental concept in physics.",
   "definition": "Maxwell's View of Magnetism (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Maxwell's View of Magnetism (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "maxwells-view-of-magnetism-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

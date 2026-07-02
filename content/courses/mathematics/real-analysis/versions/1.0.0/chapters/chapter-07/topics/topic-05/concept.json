@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-07.topic-05",
   "name": "L'Hôpital's Rule",
   "subject": "mathematics",
+  "summary": "L'Hôpital's Rule is a fundamental concept in mathematics.",
   "definition": "L'Hôpital's Rule is a fundamental concept in mathematics.",
   "explanation": "Learn about L'Hôpital's Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "lhpitals-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

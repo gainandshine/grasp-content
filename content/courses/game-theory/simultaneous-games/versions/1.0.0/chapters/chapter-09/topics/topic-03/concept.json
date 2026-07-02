@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-09.topic-03",
   "name": "Oligopoly",
   "subject": "game-theory",
+  "summary": "Oligopoly is a fundamental concept in game-theory.",
   "definition": "Oligopoly is a fundamental concept in game-theory.",
   "explanation": "Learn about Oligopoly and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "oligopoly"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

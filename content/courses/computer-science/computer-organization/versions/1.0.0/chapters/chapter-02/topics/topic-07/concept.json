@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-02.topic-07",
   "name": "Karnaugh Maps (Introduction)",
   "subject": "computer-science",
+  "summary": "Karnaugh Maps (Introduction) is a fundamental concept in computer-science.",
   "definition": "Karnaugh Maps (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Karnaugh Maps (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "karnaugh-maps-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

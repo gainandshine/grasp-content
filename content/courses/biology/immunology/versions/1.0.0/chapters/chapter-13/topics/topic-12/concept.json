@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-12",
   "name": "Biomes",
   "subject": "biology",
+  "summary": "Biomes is a fundamental concept in biology.",
   "definition": "Biomes is a fundamental concept in biology.",
   "explanation": "Learn about Biomes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biomes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

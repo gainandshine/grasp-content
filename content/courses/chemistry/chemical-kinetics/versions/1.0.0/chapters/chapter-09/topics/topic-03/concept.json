@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-09.topic-03",
   "name": "Heterogeneous Catalysis",
   "subject": "chemistry",
+  "summary": "Heterogeneous Catalysis is a fundamental concept in chemistry.",
   "definition": "Heterogeneous Catalysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Heterogeneous Catalysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "heterogeneous-catalysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

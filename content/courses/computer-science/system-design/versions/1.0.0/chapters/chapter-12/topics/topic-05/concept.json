@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-12.topic-05",
   "name": "Ride-Sharing System",
   "subject": "computer-science",
+  "summary": "Ride-Sharing System is a fundamental concept in computer-science.",
   "definition": "Ride-Sharing System is a fundamental concept in computer-science.",
   "explanation": "Learn about Ride-Sharing System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ride-sharing-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

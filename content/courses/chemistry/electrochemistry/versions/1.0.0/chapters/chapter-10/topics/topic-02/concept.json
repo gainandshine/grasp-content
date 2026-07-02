@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-10.topic-02",
   "name": "Electrorefining",
   "subject": "chemistry",
+  "summary": "Electrorefining is a fundamental concept in chemistry.",
   "definition": "Electrorefining is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrorefining and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrorefining"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-01.topic-05",
   "name": "Software Engineering Principles",
   "subject": "computer-science",
+  "summary": "Software Engineering Principles is a fundamental concept in computer-science.",
   "definition": "Software Engineering Principles is a fundamental concept in computer-science.",
   "explanation": "Learn about Software Engineering Principles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "software-engineering-principles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

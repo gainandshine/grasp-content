@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-09.topic-03",
   "name": "UV-Visible Spectrum Prediction",
   "subject": "chemistry",
+  "summary": "UV-Visible Spectrum Prediction is a fundamental concept in chemistry.",
   "definition": "UV-Visible Spectrum Prediction is a fundamental concept in chemistry.",
   "explanation": "Learn about UV-Visible Spectrum Prediction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "uv-visible-spectrum-prediction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

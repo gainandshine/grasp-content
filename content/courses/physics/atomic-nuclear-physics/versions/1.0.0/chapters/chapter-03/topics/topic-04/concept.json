@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-03.topic-04",
   "name": "Spin Quantum Number",
   "subject": "physics",
+  "summary": "Spin Quantum Number is a fundamental concept in physics.",
   "definition": "Spin Quantum Number is a fundamental concept in physics.",
   "explanation": "Learn about Spin Quantum Number and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "spin-quantum-number"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

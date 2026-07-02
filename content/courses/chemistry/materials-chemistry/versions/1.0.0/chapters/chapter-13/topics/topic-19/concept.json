@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-13.topic-19",
   "name": "Nanoelectronics",
   "subject": "chemistry",
+  "summary": "Nanoelectronics is a fundamental concept in chemistry.",
   "definition": "Nanoelectronics is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanoelectronics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanoelectronics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

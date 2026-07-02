@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-03.topic-01",
   "name": "Polynomial Functions",
   "subject": "mathematics",
+  "summary": "Polynomial Functions is a fundamental concept in mathematics.",
   "definition": "Polynomial Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Polynomial Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polynomial-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

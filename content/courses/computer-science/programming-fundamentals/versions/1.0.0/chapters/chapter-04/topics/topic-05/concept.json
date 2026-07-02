@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-04.topic-05",
   "name": "Basic File Input & Output",
   "subject": "computer-science",
+  "summary": "Basic File Input & Output is a fundamental concept in computer-science.",
   "definition": "Basic File Input & Output is a fundamental concept in computer-science.",
   "explanation": "Learn about Basic File Input & Output and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "basic-file-input-output"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

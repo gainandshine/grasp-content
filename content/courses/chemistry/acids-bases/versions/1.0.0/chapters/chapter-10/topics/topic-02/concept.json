@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-10.topic-02",
   "name": "Triprotic Acids",
   "subject": "chemistry",
+  "summary": "Triprotic Acids is a fundamental concept in chemistry.",
   "definition": "Triprotic Acids is a fundamental concept in chemistry.",
   "explanation": "Learn about Triprotic Acids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "triprotic-acids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

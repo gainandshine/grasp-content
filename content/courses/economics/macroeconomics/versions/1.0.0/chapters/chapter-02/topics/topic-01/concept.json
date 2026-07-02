@@ -2,6 +2,7 @@
   "id": "economics.macroeconomics.chapter-02.topic-01",
   "name": "Gross Domestic Product (GDP)",
   "subject": "economics",
+  "summary": "Gross Domestic Product (GDP) is a fundamental concept in economics.",
   "definition": "Gross Domestic Product (GDP) is a fundamental concept in economics.",
   "explanation": "Learn about Gross Domestic Product (GDP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "gross-domestic-product-gdp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

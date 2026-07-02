@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-12.topic-05",
   "name": "Marketing Analytics",
   "subject": "economics",
+  "summary": "Marketing Analytics is a fundamental concept in economics.",
   "definition": "Marketing Analytics is a fundamental concept in economics.",
   "explanation": "Learn about Marketing Analytics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "marketing-analytics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

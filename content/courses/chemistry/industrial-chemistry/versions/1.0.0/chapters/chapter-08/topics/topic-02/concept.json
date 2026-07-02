@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-08.topic-02",
   "name": "Active Pharmaceutical Ingredients (APIs)",
   "subject": "chemistry",
+  "summary": "Active Pharmaceutical Ingredients (APIs) is a fundamental concept in chemistry.",
   "definition": "Active Pharmaceutical Ingredients (APIs) is a fundamental concept in chemistry.",
   "explanation": "Learn about Active Pharmaceutical Ingredients (APIs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "active-pharmaceutical-ingredients-apis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

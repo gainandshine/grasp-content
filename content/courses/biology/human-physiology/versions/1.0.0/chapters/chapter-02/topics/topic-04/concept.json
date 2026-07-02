@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-02.topic-04",
   "name": "Synaptic Transmission",
   "subject": "biology",
+  "summary": "Synaptic Transmission is a fundamental concept in biology.",
   "definition": "Synaptic Transmission is a fundamental concept in biology.",
   "explanation": "Learn about Synaptic Transmission and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "synaptic-transmission"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

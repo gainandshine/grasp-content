@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-07.topic-01",
   "name": "Classical Conditioning",
   "subject": "psychology",
+  "summary": "Classical Conditioning is a fundamental concept in psychology.",
   "definition": "Classical Conditioning is a fundamental concept in psychology.",
   "explanation": "Learn about Classical Conditioning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "classical-conditioning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

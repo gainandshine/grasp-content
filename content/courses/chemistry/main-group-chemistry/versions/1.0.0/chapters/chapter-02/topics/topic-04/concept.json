@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-02.topic-04",
   "name": "Chemical Reactivity",
   "subject": "chemistry",
+  "summary": "Chemical Reactivity is a fundamental concept in chemistry.",
   "definition": "Chemical Reactivity is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Reactivity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-reactivity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-08.topic-03",
   "name": "Riemann Integral",
   "subject": "mathematics",
+  "summary": "Riemann Integral is a fundamental concept in mathematics.",
   "definition": "Riemann Integral is a fundamental concept in mathematics.",
   "explanation": "Learn about Riemann Integral and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "riemann-integral"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

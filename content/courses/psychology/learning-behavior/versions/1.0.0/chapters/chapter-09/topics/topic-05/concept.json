@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-09.topic-05",
   "name": "Reward",
   "subject": "psychology",
+  "summary": "Reward is a fundamental concept in psychology.",
   "definition": "Reward is a fundamental concept in psychology.",
   "explanation": "Learn about Reward and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "reward"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

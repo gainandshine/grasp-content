@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-06.topic-02",
   "name": "Hash Tables",
   "subject": "computer-science",
+  "summary": "Hash Tables is a fundamental concept in computer-science.",
   "definition": "Hash Tables is a fundamental concept in computer-science.",
   "explanation": "Learn about Hash Tables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "hash-tables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

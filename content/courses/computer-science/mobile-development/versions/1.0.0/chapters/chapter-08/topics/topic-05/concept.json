@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-08.topic-05",
   "name": "App Lifecycle Management",
   "subject": "computer-science",
+  "summary": "App Lifecycle Management is a fundamental concept in computer-science.",
   "definition": "App Lifecycle Management is a fundamental concept in computer-science.",
   "explanation": "Learn about App Lifecycle Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "app-lifecycle-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

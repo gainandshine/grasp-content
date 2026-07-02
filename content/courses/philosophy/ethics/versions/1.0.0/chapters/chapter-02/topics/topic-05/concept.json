@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-02.topic-05",
   "name": "Moral Habits",
   "subject": "philosophy",
+  "summary": "Moral Habits is a fundamental concept in philosophy.",
   "definition": "Moral Habits is a fundamental concept in philosophy.",
   "explanation": "Learn about Moral Habits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "moral-habits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

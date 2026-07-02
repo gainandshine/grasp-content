@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-06.topic-04",
   "name": "Recall",
   "subject": "computer-science",
+  "summary": "Recall is a fundamental concept in computer-science.",
   "definition": "Recall is a fundamental concept in computer-science.",
   "explanation": "Learn about Recall and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "recall"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

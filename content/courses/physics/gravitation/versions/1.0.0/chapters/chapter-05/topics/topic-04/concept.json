@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-05.topic-04",
   "name": "Centripetal Force in Orbits",
   "subject": "physics",
+  "summary": "Centripetal Force in Orbits is a fundamental concept in physics.",
   "definition": "Centripetal Force in Orbits is a fundamental concept in physics.",
   "explanation": "Learn about Centripetal Force in Orbits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "centripetal-force-in-orbits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

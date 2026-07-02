@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-07.topic-02",
   "name": "Kerr Black Holes",
   "subject": "physics",
+  "summary": "Kerr Black Holes is a fundamental concept in physics.",
   "definition": "Kerr Black Holes is a fundamental concept in physics.",
   "explanation": "Learn about Kerr Black Holes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "kerr-black-holes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

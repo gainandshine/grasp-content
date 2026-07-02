@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-10.topic-05",
   "name": "Shared Memory",
   "subject": "computer-science",
+  "summary": "Shared Memory is a fundamental concept in computer-science.",
   "definition": "Shared Memory is a fundamental concept in computer-science.",
   "explanation": "Learn about Shared Memory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "shared-memory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-12.topic-03",
   "name": "Workplace Mental Health",
   "subject": "psychology",
+  "summary": "Workplace Mental Health is a fundamental concept in psychology.",
   "definition": "Workplace Mental Health is a fundamental concept in psychology.",
   "explanation": "Learn about Workplace Mental Health and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "workplace-mental-health"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

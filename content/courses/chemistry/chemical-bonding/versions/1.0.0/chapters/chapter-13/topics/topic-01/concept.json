@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-13.topic-01",
   "name": "Band Theory (Introduction)",
   "subject": "chemistry",
+  "summary": "Band Theory (Introduction) is a fundamental concept in chemistry.",
   "definition": "Band Theory (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Band Theory (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "band-theory-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

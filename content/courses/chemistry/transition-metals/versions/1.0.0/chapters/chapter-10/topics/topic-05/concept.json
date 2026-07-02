@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-10.topic-05",
   "name": "Radioactive Elements",
   "subject": "chemistry",
+  "summary": "Radioactive Elements is a fundamental concept in chemistry.",
   "definition": "Radioactive Elements is a fundamental concept in chemistry.",
   "explanation": "Learn about Radioactive Elements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "radioactive-elements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

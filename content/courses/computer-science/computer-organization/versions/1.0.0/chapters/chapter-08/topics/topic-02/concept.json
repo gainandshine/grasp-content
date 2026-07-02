@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-08.topic-02",
   "name": "Two's Complement",
   "subject": "computer-science",
+  "summary": "Two's Complement is a fundamental concept in computer-science.",
   "definition": "Two's Complement is a fundamental concept in computer-science.",
   "explanation": "Learn about Two's Complement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "twos-complement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-08.topic-06",
   "name": "Thyroid Hormones",
   "subject": "biology",
+  "summary": "Thyroid Hormones is a fundamental concept in biology.",
   "definition": "Thyroid Hormones is a fundamental concept in biology.",
   "explanation": "Learn about Thyroid Hormones and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "thyroid-hormones"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

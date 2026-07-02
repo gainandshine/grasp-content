@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-07.topic-05",
   "name": "Activation Energy Calculation",
   "subject": "chemistry",
+  "summary": "Activation Energy Calculation is a fundamental concept in chemistry.",
   "definition": "Activation Energy Calculation is a fundamental concept in chemistry.",
   "explanation": "Learn about Activation Energy Calculation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "activation-energy-calculation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

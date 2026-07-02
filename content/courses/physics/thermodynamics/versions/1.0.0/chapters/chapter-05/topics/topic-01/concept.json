@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-05.topic-01",
   "name": "Isothermal Process",
   "subject": "physics",
+  "summary": "Isothermal Process is a fundamental concept in physics.",
   "definition": "Isothermal Process is a fundamental concept in physics.",
   "explanation": "Learn about Isothermal Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "isothermal-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

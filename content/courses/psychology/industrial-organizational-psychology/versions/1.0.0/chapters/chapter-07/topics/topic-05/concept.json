@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-07.topic-05",
   "name": "Organizational Identity",
   "subject": "psychology",
+  "summary": "Organizational Identity is a fundamental concept in psychology.",
   "definition": "Organizational Identity is a fundamental concept in psychology.",
   "explanation": "Learn about Organizational Identity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "organizational-identity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

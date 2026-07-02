@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-09.topic-06",
   "name": "API Documentation",
   "subject": "computer-science",
+  "summary": "API Documentation is a fundamental concept in computer-science.",
   "definition": "API Documentation is a fundamental concept in computer-science.",
   "explanation": "Learn about API Documentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "api-documentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

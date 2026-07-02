@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-10.topic-06",
   "name": "Network Value",
   "subject": "game-theory",
+  "summary": "Network Value is a fundamental concept in game-theory.",
   "definition": "Network Value is a fundamental concept in game-theory.",
   "explanation": "Learn about Network Value and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "network-value"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

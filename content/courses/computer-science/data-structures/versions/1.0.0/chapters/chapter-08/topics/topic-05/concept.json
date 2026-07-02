@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-08.topic-05",
   "name": "Priority Queue",
   "subject": "computer-science",
+  "summary": "Priority Queue is a fundamental concept in computer-science.",
   "definition": "Priority Queue is a fundamental concept in computer-science.",
   "explanation": "Learn about Priority Queue and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "priority-queue"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

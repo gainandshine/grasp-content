@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-06.topic-06",
   "name": "Sustainable Agriculture",
   "subject": "economics",
+  "summary": "Sustainable Agriculture is a fundamental concept in economics.",
   "definition": "Sustainable Agriculture is a fundamental concept in economics.",
   "explanation": "Learn about Sustainable Agriculture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "sustainable-agriculture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

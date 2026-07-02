@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-11.topic-07",
   "name": "Satellite Rotation",
   "subject": "physics",
+  "summary": "Satellite Rotation is a fundamental concept in physics.",
   "definition": "Satellite Rotation is a fundamental concept in physics.",
   "explanation": "Learn about Satellite Rotation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "satellite-rotation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

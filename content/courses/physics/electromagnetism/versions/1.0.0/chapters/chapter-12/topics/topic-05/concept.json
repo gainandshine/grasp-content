@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-12.topic-05",
   "name": "MRI",
   "subject": "physics",
+  "summary": "MRI is a fundamental concept in physics.",
   "definition": "MRI is a fundamental concept in physics.",
   "explanation": "Learn about MRI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mri"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

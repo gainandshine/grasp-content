@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-05.topic-02",
   "name": "Molds",
   "subject": "biology",
+  "summary": "Molds is a fundamental concept in biology.",
   "definition": "Molds is a fundamental concept in biology.",
   "explanation": "Learn about Molds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "molds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

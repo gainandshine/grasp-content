@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-07.topic-03",
   "name": "Faraday's Laws of Electrolysis",
   "subject": "chemistry",
+  "summary": "Faraday's Laws of Electrolysis is a fundamental concept in chemistry.",
   "definition": "Faraday's Laws of Electrolysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Faraday's Laws of Electrolysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "faradays-laws-of-electrolysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

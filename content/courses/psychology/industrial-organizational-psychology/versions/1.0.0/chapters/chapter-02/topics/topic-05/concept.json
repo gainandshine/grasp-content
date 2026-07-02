@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-02.topic-05",
   "name": "Aptitude & Personality Testing",
   "subject": "psychology",
+  "summary": "Aptitude & Personality Testing is a fundamental concept in psychology.",
   "definition": "Aptitude & Personality Testing is a fundamental concept in psychology.",
   "explanation": "Learn about Aptitude & Personality Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "aptitude-personality-testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

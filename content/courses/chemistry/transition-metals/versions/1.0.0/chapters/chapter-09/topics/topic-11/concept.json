@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-09.topic-11",
   "name": "Platinum",
   "subject": "chemistry",
+  "summary": "Platinum is a fundamental concept in chemistry.",
   "definition": "Platinum is a fundamental concept in chemistry.",
   "explanation": "Learn about Platinum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "platinum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

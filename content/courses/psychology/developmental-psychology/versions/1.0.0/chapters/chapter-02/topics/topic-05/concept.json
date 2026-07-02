@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-02.topic-05",
   "name": "Prenatal Environment",
   "subject": "psychology",
+  "summary": "Prenatal Environment is a fundamental concept in psychology.",
   "definition": "Prenatal Environment is a fundamental concept in psychology.",
   "explanation": "Learn about Prenatal Environment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "prenatal-environment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

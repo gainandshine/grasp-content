@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-12.topic-04",
   "name": "User Experience (UX)",
   "subject": "psychology",
+  "summary": "User Experience (UX) is a fundamental concept in psychology.",
   "definition": "User Experience (UX) is a fundamental concept in psychology.",
   "explanation": "Learn about User Experience (UX) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "user-experience-ux"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

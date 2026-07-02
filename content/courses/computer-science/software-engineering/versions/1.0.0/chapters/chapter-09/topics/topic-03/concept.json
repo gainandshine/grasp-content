@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-09.topic-03",
   "name": "Kanban",
   "subject": "computer-science",
+  "summary": "Kanban is a fundamental concept in computer-science.",
   "definition": "Kanban is a fundamental concept in computer-science.",
   "explanation": "Learn about Kanban and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "kanban"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

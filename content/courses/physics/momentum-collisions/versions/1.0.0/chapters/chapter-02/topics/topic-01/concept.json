@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-02.topic-01",
   "name": "Law of Conservation of Momentum",
   "subject": "physics",
+  "summary": "Law of Conservation of Momentum is a fundamental concept in physics.",
   "definition": "Law of Conservation of Momentum is a fundamental concept in physics.",
   "explanation": "Learn about Law of Conservation of Momentum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "law-of-conservation-of-momentum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

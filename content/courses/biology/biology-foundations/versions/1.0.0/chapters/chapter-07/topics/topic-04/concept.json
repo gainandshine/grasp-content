@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-07.topic-04",
   "name": "Fungi",
   "subject": "biology",
+  "summary": "Fungi is a fundamental concept in biology.",
   "definition": "Fungi is a fundamental concept in biology.",
   "explanation": "Learn about Fungi and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "fungi"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

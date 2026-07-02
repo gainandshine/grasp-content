@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-02.topic-05",
   "name": "Cognitive Load",
   "subject": "psychology",
+  "summary": "Cognitive Load is a fundamental concept in psychology.",
   "definition": "Cognitive Load is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Load and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-load"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-03.topic-02",
   "name": "Catalyst Design",
   "subject": "chemistry",
+  "summary": "Catalyst Design is a fundamental concept in chemistry.",
   "definition": "Catalyst Design is a fundamental concept in chemistry.",
   "explanation": "Learn about Catalyst Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "catalyst-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

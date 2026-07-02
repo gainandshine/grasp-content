@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-05.topic-05",
   "name": "Uncertainty",
   "subject": "computer-science",
+  "summary": "Uncertainty is a fundamental concept in computer-science.",
   "definition": "Uncertainty is a fundamental concept in computer-science.",
   "explanation": "Learn about Uncertainty and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "uncertainty"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

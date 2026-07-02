@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-02.topic-04",
   "name": "Water",
   "subject": "biology",
+  "summary": "Water is a fundamental concept in biology.",
   "definition": "Water is a fundamental concept in biology.",
   "explanation": "Learn about Water and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "water"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

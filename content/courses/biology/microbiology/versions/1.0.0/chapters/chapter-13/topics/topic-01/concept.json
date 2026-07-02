@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-01",
   "name": "Human Microbiome",
   "subject": "biology",
+  "summary": "Human Microbiome is a fundamental concept in biology.",
   "definition": "Human Microbiome is a fundamental concept in biology.",
   "explanation": "Learn about Human Microbiome and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "human-microbiome"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

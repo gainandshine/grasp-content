@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-06.topic-05",
   "name": "Bismuth",
   "subject": "chemistry",
+  "summary": "Bismuth is a fundamental concept in chemistry.",
   "definition": "Bismuth is a fundamental concept in chemistry.",
   "explanation": "Learn about Bismuth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bismuth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

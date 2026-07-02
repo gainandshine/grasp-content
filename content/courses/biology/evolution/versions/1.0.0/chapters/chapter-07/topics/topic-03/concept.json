@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-07.topic-03",
   "name": "Clades",
   "subject": "biology",
+  "summary": "Clades is a fundamental concept in biology.",
   "definition": "Clades is a fundamental concept in biology.",
   "explanation": "Learn about Clades and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "clades"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

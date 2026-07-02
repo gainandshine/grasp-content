@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-07.topic-07",
   "name": "SSH",
   "subject": "computer-science",
+  "summary": "SSH is a fundamental concept in computer-science.",
   "definition": "SSH is a fundamental concept in computer-science.",
   "explanation": "Learn about SSH and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ssh"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

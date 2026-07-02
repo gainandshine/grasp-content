@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-06.topic-05",
   "name": "Open Addressing",
   "subject": "computer-science",
+  "summary": "Open Addressing is a fundamental concept in computer-science.",
   "definition": "Open Addressing is a fundamental concept in computer-science.",
   "explanation": "Learn about Open Addressing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "open-addressing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

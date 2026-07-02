@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-05",
   "name": "Kidney Disease",
   "subject": "biology",
+  "summary": "Kidney Disease is a fundamental concept in biology.",
   "definition": "Kidney Disease is a fundamental concept in biology.",
   "explanation": "Learn about Kidney Disease and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "kidney-disease"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

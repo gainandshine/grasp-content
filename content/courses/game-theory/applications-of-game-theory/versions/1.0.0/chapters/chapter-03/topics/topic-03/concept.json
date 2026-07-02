@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-03.topic-03",
   "name": "Cooperative Bargaining",
   "subject": "game-theory",
+  "summary": "Cooperative Bargaining is a fundamental concept in game-theory.",
   "definition": "Cooperative Bargaining is a fundamental concept in game-theory.",
   "explanation": "Learn about Cooperative Bargaining and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "cooperative-bargaining"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

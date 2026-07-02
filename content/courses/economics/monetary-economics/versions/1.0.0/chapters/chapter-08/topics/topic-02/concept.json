@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-08.topic-02",
   "name": "Financial Risk",
   "subject": "economics",
+  "summary": "Financial Risk is a fundamental concept in economics.",
   "definition": "Financial Risk is a fundamental concept in economics.",
   "explanation": "Learn about Financial Risk and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "financial-risk"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

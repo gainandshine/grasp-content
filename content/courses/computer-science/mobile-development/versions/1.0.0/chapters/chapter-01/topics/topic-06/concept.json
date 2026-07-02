@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-01.topic-06",
   "name": "App Lifecycle",
   "subject": "computer-science",
+  "summary": "App Lifecycle is a fundamental concept in computer-science.",
   "definition": "App Lifecycle is a fundamental concept in computer-science.",
   "explanation": "Learn about App Lifecycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "app-lifecycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

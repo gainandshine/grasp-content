@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-12.topic-01",
   "name": "Pollution Control",
   "subject": "chemistry",
+  "summary": "Pollution Control is a fundamental concept in chemistry.",
   "definition": "Pollution Control is a fundamental concept in chemistry.",
   "explanation": "Learn about Pollution Control and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "pollution-control"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-04",
   "name": "Non-Photorealistic Rendering",
   "subject": "computer-science",
+  "summary": "Non-Photorealistic Rendering is a fundamental concept in computer-science.",
   "definition": "Non-Photorealistic Rendering is a fundamental concept in computer-science.",
   "explanation": "Learn about Non-Photorealistic Rendering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "non-photorealistic-rendering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

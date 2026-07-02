@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-02.topic-02",
   "name": "Auction Markets",
   "subject": "game-theory",
+  "summary": "Auction Markets is a fundamental concept in game-theory.",
   "definition": "Auction Markets is a fundamental concept in game-theory.",
   "explanation": "Learn about Auction Markets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "auction-markets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

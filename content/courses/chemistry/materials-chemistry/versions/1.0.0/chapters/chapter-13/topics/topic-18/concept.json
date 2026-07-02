@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-13.topic-18",
   "name": "Nanomedicine",
   "subject": "chemistry",
+  "summary": "Nanomedicine is a fundamental concept in chemistry.",
   "definition": "Nanomedicine is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanomedicine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanomedicine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

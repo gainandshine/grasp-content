@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-03.topic-07",
   "name": "Positive Punishment",
   "subject": "psychology",
+  "summary": "Positive Punishment is a fundamental concept in psychology.",
   "definition": "Positive Punishment is a fundamental concept in psychology.",
   "explanation": "Learn about Positive Punishment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "positive-punishment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

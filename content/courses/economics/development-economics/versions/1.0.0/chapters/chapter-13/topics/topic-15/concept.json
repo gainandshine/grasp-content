@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-13.topic-15",
   "name": "Behavioral Finance",
   "subject": "economics",
+  "summary": "Behavioral Finance is a fundamental concept in economics.",
   "definition": "Behavioral Finance is a fundamental concept in economics.",
   "explanation": "Learn about Behavioral Finance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "behavioral-finance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-07.topic-02",
   "name": "Ampère's Law",
   "subject": "physics",
+  "summary": "Ampère's Law is a fundamental concept in physics.",
   "definition": "Ampère's Law is a fundamental concept in physics.",
   "explanation": "Learn about Ampère's Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ampres-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-03.topic-07",
   "name": "ORDER BY",
   "subject": "computer-science",
+  "summary": "ORDER BY is a fundamental concept in computer-science.",
   "definition": "ORDER BY is a fundamental concept in computer-science.",
   "explanation": "Learn about ORDER BY and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "order-by"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

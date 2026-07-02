@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-10.topic-02",
   "name": "Urban Design",
   "subject": "philosophy",
+  "summary": "Urban Design is a fundamental concept in philosophy.",
   "definition": "Urban Design is a fundamental concept in philosophy.",
   "explanation": "Learn about Urban Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "urban-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

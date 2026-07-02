@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-11.topic-05",
   "name": "Distance Between Points (Intro)",
   "subject": "mathematics",
+  "summary": "Distance Between Points (Intro) is a fundamental concept in mathematics.",
   "definition": "Distance Between Points (Intro) is a fundamental concept in mathematics.",
   "explanation": "Learn about Distance Between Points (Intro) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "distance-between-points-intro"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

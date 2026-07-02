@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-08.topic-04",
   "name": "Halogenation",
   "subject": "chemistry",
+  "summary": "Halogenation is a fundamental concept in chemistry.",
   "definition": "Halogenation is a fundamental concept in chemistry.",
   "explanation": "Learn about Halogenation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "halogenation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

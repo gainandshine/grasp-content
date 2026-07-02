@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-13.topic-16",
   "name": "File Systems",
   "subject": "computer-science",
+  "summary": "File Systems is a fundamental concept in computer-science.",
   "definition": "File Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about File Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "file-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

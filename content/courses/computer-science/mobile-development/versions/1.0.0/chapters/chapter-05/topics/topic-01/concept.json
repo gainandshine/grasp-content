@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-05.topic-01",
   "name": "Local Storage",
   "subject": "computer-science",
+  "summary": "Local Storage is a fundamental concept in computer-science.",
   "definition": "Local Storage is a fundamental concept in computer-science.",
   "explanation": "Learn about Local Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "local-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

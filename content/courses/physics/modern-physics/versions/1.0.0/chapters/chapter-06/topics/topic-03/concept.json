@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-06.topic-03",
   "name": "Operators",
   "subject": "physics",
+  "summary": "Operators is a fundamental concept in physics.",
   "definition": "Operators is a fundamental concept in physics.",
   "explanation": "Learn about Operators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "operators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

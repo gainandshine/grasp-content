@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-08.topic-04",
   "name": "Rhombuses",
   "subject": "mathematics",
+  "summary": "Rhombuses is a fundamental concept in mathematics.",
   "definition": "Rhombuses is a fundamental concept in mathematics.",
   "explanation": "Learn about Rhombuses and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rhombuses"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

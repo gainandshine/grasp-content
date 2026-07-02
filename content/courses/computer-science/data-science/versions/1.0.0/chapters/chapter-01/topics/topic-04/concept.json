@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-01.topic-04",
   "name": "Data Science Lifecycle",
   "subject": "computer-science",
+  "summary": "Data Science Lifecycle is a fundamental concept in computer-science.",
   "definition": "Data Science Lifecycle is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Science Lifecycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-science-lifecycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

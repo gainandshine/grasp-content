@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-13.topic-16",
   "name": "Animation",
   "subject": "computer-science",
+  "summary": "Animation is a fundamental concept in computer-science.",
   "definition": "Animation is a fundamental concept in computer-science.",
   "explanation": "Learn about Animation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "animation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

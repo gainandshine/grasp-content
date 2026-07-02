@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-11.topic-02",
   "name": "Atomic Spectroscopy",
   "subject": "chemistry",
+  "summary": "Atomic Spectroscopy is a fundamental concept in chemistry.",
   "definition": "Atomic Spectroscopy is a fundamental concept in chemistry.",
   "explanation": "Learn about Atomic Spectroscopy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atomic-spectroscopy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

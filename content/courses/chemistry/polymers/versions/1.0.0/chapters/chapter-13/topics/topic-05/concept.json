@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-05",
   "name": "Polymer-Based Drug Delivery",
   "subject": "chemistry",
+  "summary": "Polymer-Based Drug Delivery is a fundamental concept in chemistry.",
   "definition": "Polymer-Based Drug Delivery is a fundamental concept in chemistry.",
   "explanation": "Learn about Polymer-Based Drug Delivery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "polymer-based-drug-delivery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

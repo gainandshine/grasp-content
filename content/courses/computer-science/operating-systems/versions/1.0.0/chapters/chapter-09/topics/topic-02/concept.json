@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-09.topic-02",
   "name": "RAID",
   "subject": "computer-science",
+  "summary": "RAID is a fundamental concept in computer-science.",
   "definition": "RAID is a fundamental concept in computer-science.",
   "explanation": "Learn about RAID and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "raid"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

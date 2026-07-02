@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-06.topic-01",
   "name": "Logarithms",
   "subject": "mathematics",
+  "summary": "Logarithms is a fundamental concept in mathematics.",
   "definition": "Logarithms is a fundamental concept in mathematics.",
   "explanation": "Learn about Logarithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "logarithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

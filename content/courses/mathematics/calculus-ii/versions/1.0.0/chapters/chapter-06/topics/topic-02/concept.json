@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-06.topic-02",
   "name": "Comparison Test",
   "subject": "mathematics",
+  "summary": "Comparison Test is a fundamental concept in mathematics.",
   "definition": "Comparison Test is a fundamental concept in mathematics.",
   "explanation": "Learn about Comparison Test and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "comparison-test"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

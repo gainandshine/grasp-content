@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-01.topic-02",
   "name": "Reaction Rate",
   "subject": "chemistry",
+  "summary": "Reaction Rate is a fundamental concept in chemistry.",
   "definition": "Reaction Rate is a fundamental concept in chemistry.",
   "explanation": "Learn about Reaction Rate and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "reaction-rate"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

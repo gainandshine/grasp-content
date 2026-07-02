@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-02.topic-02",
   "name": "Gettier Problem",
   "subject": "philosophy",
+  "summary": "Gettier Problem is a fundamental concept in philosophy.",
   "definition": "Gettier Problem is a fundamental concept in philosophy.",
   "explanation": "Learn about Gettier Problem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "gettier-problem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-07",
   "name": "Artificial Intelligence",
   "subject": "computer-science",
+  "summary": "Artificial Intelligence is a fundamental concept in computer-science.",
   "definition": "Artificial Intelligence is a fundamental concept in computer-science.",
   "explanation": "Learn about Artificial Intelligence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "artificial-intelligence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

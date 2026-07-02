@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-01.topic-05",
   "name": "Kinetic Molecular Theory",
   "subject": "chemistry",
+  "summary": "Kinetic Molecular Theory is a fundamental concept in chemistry.",
   "definition": "Kinetic Molecular Theory is a fundamental concept in chemistry.",
   "explanation": "Learn about Kinetic Molecular Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "kinetic-molecular-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

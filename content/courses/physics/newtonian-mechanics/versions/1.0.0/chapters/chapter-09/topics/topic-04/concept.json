@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-09.topic-04",
   "name": "Conditions for Equilibrium",
   "subject": "physics",
+  "summary": "Conditions for Equilibrium is a fundamental concept in physics.",
   "definition": "Conditions for Equilibrium is a fundamental concept in physics.",
   "explanation": "Learn about Conditions for Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "conditions-for-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

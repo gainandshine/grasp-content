@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-12.topic-04",
   "name": "Addition",
   "subject": "mathematics",
+  "summary": "Addition is a fundamental concept in mathematics.",
   "definition": "Addition is a fundamental concept in mathematics.",
   "explanation": "Learn about Addition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "addition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

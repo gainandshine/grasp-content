@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-01.topic-01",
   "name": "What is a Database?",
   "subject": "computer-science",
+  "summary": "What is a Database? is a fundamental concept in computer-science.",
   "definition": "What is a Database? is a fundamental concept in computer-science.",
   "explanation": "Learn about What is a Database? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "what-is-a-database"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

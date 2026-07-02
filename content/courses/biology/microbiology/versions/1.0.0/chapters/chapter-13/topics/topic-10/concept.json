@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-10",
   "name": "Adaptive Immunity",
   "subject": "biology",
+  "summary": "Adaptive Immunity is a fundamental concept in biology.",
   "definition": "Adaptive Immunity is a fundamental concept in biology.",
   "explanation": "Learn about Adaptive Immunity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "adaptive-immunity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

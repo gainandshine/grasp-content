@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-06.topic-02",
   "name": "Infinite Potential Well",
   "subject": "physics",
+  "summary": "Infinite Potential Well is a fundamental concept in physics.",
   "definition": "Infinite Potential Well is a fundamental concept in physics.",
   "explanation": "Learn about Infinite Potential Well and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "infinite-potential-well"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

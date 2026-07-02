@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-01.topic-02",
   "name": "Order of a Differential Equation",
   "subject": "mathematics",
+  "summary": "Order of a Differential Equation is a fundamental concept in mathematics.",
   "definition": "Order of a Differential Equation is a fundamental concept in mathematics.",
   "explanation": "Learn about Order of a Differential Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "order-of-a-differential-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

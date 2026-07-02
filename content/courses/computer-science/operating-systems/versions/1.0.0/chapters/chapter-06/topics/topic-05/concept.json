@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-06.topic-05",
   "name": "Swapping",
   "subject": "computer-science",
+  "summary": "Swapping is a fundamental concept in computer-science.",
   "definition": "Swapping is a fundamental concept in computer-science.",
   "explanation": "Learn about Swapping and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "swapping"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

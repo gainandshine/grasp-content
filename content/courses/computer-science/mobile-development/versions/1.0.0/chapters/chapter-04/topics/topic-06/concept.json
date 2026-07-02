@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-04.topic-06",
   "name": "User Experience Principles",
   "subject": "computer-science",
+  "summary": "User Experience Principles is a fundamental concept in computer-science.",
   "definition": "User Experience Principles is a fundamental concept in computer-science.",
   "explanation": "Learn about User Experience Principles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "user-experience-principles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-02.topic-05",
   "name": "Birth Rate",
   "subject": "biology",
+  "summary": "Birth Rate is a fundamental concept in biology.",
   "definition": "Birth Rate is a fundamental concept in biology.",
   "explanation": "Learn about Birth Rate and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "birth-rate"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

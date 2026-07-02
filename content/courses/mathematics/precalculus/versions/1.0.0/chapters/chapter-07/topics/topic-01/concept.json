@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-07.topic-01",
   "name": "Unit Circle Review",
   "subject": "mathematics",
+  "summary": "Unit Circle Review is a fundamental concept in mathematics.",
   "definition": "Unit Circle Review is a fundamental concept in mathematics.",
   "explanation": "Learn about Unit Circle Review and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "unit-circle-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

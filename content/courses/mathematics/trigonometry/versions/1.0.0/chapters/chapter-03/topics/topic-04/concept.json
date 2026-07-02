@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-03.topic-04",
   "name": "Exact Trigonometric Values",
   "subject": "mathematics",
+  "summary": "Exact Trigonometric Values is a fundamental concept in mathematics.",
   "definition": "Exact Trigonometric Values is a fundamental concept in mathematics.",
   "explanation": "Learn about Exact Trigonometric Values and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "exact-trigonometric-values"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-06.topic-05",
   "name": "Dynamic Light Scattering (DLS)",
   "subject": "chemistry",
+  "summary": "Dynamic Light Scattering (DLS) is a fundamental concept in chemistry.",
   "definition": "Dynamic Light Scattering (DLS) is a fundamental concept in chemistry.",
   "explanation": "Learn about Dynamic Light Scattering (DLS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "dynamic-light-scattering-dls"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

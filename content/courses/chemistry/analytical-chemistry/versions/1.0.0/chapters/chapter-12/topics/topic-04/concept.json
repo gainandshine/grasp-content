@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-12.topic-04",
   "name": "Clinical Diagnostics",
   "subject": "chemistry",
+  "summary": "Clinical Diagnostics is a fundamental concept in chemistry.",
   "definition": "Clinical Diagnostics is a fundamental concept in chemistry.",
   "explanation": "Learn about Clinical Diagnostics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "clinical-diagnostics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

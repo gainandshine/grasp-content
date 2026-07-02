@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-10.topic-03",
   "name": "Functional Design",
   "subject": "philosophy",
+  "summary": "Functional Design is a fundamental concept in philosophy.",
   "definition": "Functional Design is a fundamental concept in philosophy.",
   "explanation": "Learn about Functional Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "functional-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

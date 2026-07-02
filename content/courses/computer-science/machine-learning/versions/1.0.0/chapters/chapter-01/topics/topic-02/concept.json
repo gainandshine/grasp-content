@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-01.topic-02",
   "name": "Types of Machine Learning",
   "subject": "computer-science",
+  "summary": "Types of Machine Learning is a fundamental concept in computer-science.",
   "definition": "Types of Machine Learning is a fundamental concept in computer-science.",
   "explanation": "Learn about Types of Machine Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "types-of-machine-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

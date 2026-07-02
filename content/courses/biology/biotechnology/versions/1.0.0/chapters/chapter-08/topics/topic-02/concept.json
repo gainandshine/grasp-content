@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-08.topic-02",
   "name": "Plant Tissue Culture",
   "subject": "biology",
+  "summary": "Plant Tissue Culture is a fundamental concept in biology.",
   "definition": "Plant Tissue Culture is a fundamental concept in biology.",
   "explanation": "Learn about Plant Tissue Culture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "plant-tissue-culture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

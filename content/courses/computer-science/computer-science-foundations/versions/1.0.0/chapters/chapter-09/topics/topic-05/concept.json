@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-09.topic-05",
   "name": "IP Addresses",
   "subject": "computer-science",
+  "summary": "IP Addresses is a fundamental concept in computer-science.",
   "definition": "IP Addresses is a fundamental concept in computer-science.",
   "explanation": "Learn about IP Addresses and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ip-addresses"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

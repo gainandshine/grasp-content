@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-01.topic-04",
   "name": "Feedback Mechanisms",
   "subject": "biology",
+  "summary": "Feedback Mechanisms is a fundamental concept in biology.",
   "definition": "Feedback Mechanisms is a fundamental concept in biology.",
   "explanation": "Learn about Feedback Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "feedback-mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

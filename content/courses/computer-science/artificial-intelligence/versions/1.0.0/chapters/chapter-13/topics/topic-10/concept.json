@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-10",
   "name": "Data Preprocessing",
   "subject": "computer-science",
+  "summary": "Data Preprocessing is a fundamental concept in computer-science.",
   "definition": "Data Preprocessing is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Preprocessing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-preprocessing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

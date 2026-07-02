@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-09.topic-01",
   "name": "Interior Angles",
   "subject": "mathematics",
+  "summary": "Interior Angles is a fundamental concept in mathematics.",
   "definition": "Interior Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Interior Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "interior-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

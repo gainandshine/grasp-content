@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-13.topic-15",
   "name": "Backend Development",
   "subject": "computer-science",
+  "summary": "Backend Development is a fundamental concept in computer-science.",
   "definition": "Backend Development is a fundamental concept in computer-science.",
   "explanation": "Learn about Backend Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "backend-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

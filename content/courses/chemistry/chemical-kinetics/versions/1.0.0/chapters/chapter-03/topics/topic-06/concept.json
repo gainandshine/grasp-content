@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-03.topic-06",
   "name": "Integrated Rate Laws",
   "subject": "chemistry",
+  "summary": "Integrated Rate Laws is a fundamental concept in chemistry.",
   "definition": "Integrated Rate Laws is a fundamental concept in chemistry.",
   "explanation": "Learn about Integrated Rate Laws and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "integrated-rate-laws"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

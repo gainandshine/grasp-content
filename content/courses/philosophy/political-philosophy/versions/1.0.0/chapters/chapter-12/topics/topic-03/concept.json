@@ -2,6 +2,7 @@
   "id": "philosophy.political-philosophy.chapter-12.topic-03",
   "name": "Democracy & Elections",
   "subject": "philosophy",
+  "summary": "Democracy & Elections is a fundamental concept in philosophy.",
   "definition": "Democracy & Elections is a fundamental concept in philosophy.",
   "explanation": "Learn about Democracy & Elections and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "democracy-elections"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

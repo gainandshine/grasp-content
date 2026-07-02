@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-10.topic-05",
   "name": "Ethical Decision Making",
   "subject": "psychology",
+  "summary": "Ethical Decision Making is a fundamental concept in psychology.",
   "definition": "Ethical Decision Making is a fundamental concept in psychology.",
   "explanation": "Learn about Ethical Decision Making and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "ethical-decision-making"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

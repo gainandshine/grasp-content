@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-13.topic-11",
   "name": "Replicator Dynamics",
   "subject": "game-theory",
+  "summary": "Replicator Dynamics is a fundamental concept in game-theory.",
   "definition": "Replicator Dynamics is a fundamental concept in game-theory.",
   "explanation": "Learn about Replicator Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "replicator-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-13.topic-11",
   "name": "Social Choice Mechanisms",
   "subject": "game-theory",
+  "summary": "Social Choice Mechanisms is a fundamental concept in game-theory.",
   "definition": "Social Choice Mechanisms is a fundamental concept in game-theory.",
   "explanation": "Learn about Social Choice Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "social-choice-mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-08.topic-05",
   "name": "Special Products",
   "subject": "mathematics",
+  "summary": "Special Products is a fundamental concept in mathematics.",
   "definition": "Special Products is a fundamental concept in mathematics.",
   "explanation": "Learn about Special Products and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "special-products"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

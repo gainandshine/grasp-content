@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-11.topic-03",
   "name": "Kubernetes (Introduction)",
   "subject": "computer-science",
+  "summary": "Kubernetes (Introduction) is a fundamental concept in computer-science.",
   "definition": "Kubernetes (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Kubernetes (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "kubernetes-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

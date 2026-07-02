@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-10.topic-04",
   "name": "Debugging Techniques",
   "subject": "computer-science",
+  "summary": "Debugging Techniques is a fundamental concept in computer-science.",
   "definition": "Debugging Techniques is a fundamental concept in computer-science.",
   "explanation": "Learn about Debugging Techniques and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "debugging-techniques"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

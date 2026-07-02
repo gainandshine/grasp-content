@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-07.topic-03",
   "name": "Natural Logarithm",
   "subject": "mathematics",
+  "summary": "Natural Logarithm is a fundamental concept in mathematics.",
   "definition": "Natural Logarithm is a fundamental concept in mathematics.",
   "explanation": "Learn about Natural Logarithm and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "natural-logarithm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-02.topic-02",
   "name": "Base Case",
   "subject": "computer-science",
+  "summary": "Base Case is a fundamental concept in computer-science.",
   "definition": "Base Case is a fundamental concept in computer-science.",
   "explanation": "Learn about Base Case and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "base-case"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

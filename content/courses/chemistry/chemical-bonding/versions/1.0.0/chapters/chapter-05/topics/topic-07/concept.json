@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-05.topic-07",
   "name": "Tetrahedral",
   "subject": "chemistry",
+  "summary": "Tetrahedral is a fundamental concept in chemistry.",
   "definition": "Tetrahedral is a fundamental concept in chemistry.",
   "explanation": "Learn about Tetrahedral and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "tetrahedral"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

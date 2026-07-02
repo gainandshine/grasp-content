@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-15.topic-07",
   "name": "Survey Analysis",
   "subject": "mathematics",
+  "summary": "Survey Analysis is a fundamental concept in mathematics.",
   "definition": "Survey Analysis is a fundamental concept in mathematics.",
   "explanation": "Learn about Survey Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "survey-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

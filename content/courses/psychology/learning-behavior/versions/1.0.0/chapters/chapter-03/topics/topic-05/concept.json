@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-03.topic-05",
   "name": "Positive Reinforcement",
   "subject": "psychology",
+  "summary": "Positive Reinforcement is a fundamental concept in psychology.",
   "definition": "Positive Reinforcement is a fundamental concept in psychology.",
   "explanation": "Learn about Positive Reinforcement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "positive-reinforcement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

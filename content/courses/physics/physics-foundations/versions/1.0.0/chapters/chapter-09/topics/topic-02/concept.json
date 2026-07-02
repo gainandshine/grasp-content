@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-09.topic-02",
   "name": "Dimensional Checking",
   "subject": "physics",
+  "summary": "Dimensional Checking is a fundamental concept in physics.",
   "definition": "Dimensional Checking is a fundamental concept in physics.",
   "explanation": "Learn about Dimensional Checking and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "dimensional-checking"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

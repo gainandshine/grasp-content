@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-11.topic-03",
   "name": "White Blood Cells",
   "subject": "biology",
+  "summary": "White Blood Cells is a fundamental concept in biology.",
   "definition": "White Blood Cells is a fundamental concept in biology.",
   "explanation": "Learn about White Blood Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "white-blood-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

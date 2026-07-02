@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-07.topic-02",
   "name": "Particle Scattering",
   "subject": "physics",
+  "summary": "Particle Scattering is a fundamental concept in physics.",
   "definition": "Particle Scattering is a fundamental concept in physics.",
   "explanation": "Learn about Particle Scattering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "particle-scattering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

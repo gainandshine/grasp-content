@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-12.topic-04",
   "name": "Packet Capture",
   "subject": "computer-science",
+  "summary": "Packet Capture is a fundamental concept in computer-science.",
   "definition": "Packet Capture is a fundamental concept in computer-science.",
   "explanation": "Learn about Packet Capture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "packet-capture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

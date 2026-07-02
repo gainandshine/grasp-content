@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-18.topic-01",
   "name": "Superposition Theorem",
   "subject": "physics",
+  "summary": "Superposition Theorem is a fundamental concept in physics.",
   "definition": "Superposition Theorem is a fundamental concept in physics.",
   "explanation": "Learn about Superposition Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "superposition-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

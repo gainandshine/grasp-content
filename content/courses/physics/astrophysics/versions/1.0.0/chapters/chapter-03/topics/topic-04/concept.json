@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-03.topic-04",
   "name": "Energy Transport",
   "subject": "physics",
+  "summary": "Energy Transport is a fundamental concept in physics.",
   "definition": "Energy Transport is a fundamental concept in physics.",
   "explanation": "Learn about Energy Transport and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-transport"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

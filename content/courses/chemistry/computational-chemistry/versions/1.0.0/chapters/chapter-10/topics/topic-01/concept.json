@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-10.topic-01",
   "name": "Molecular Docking",
   "subject": "chemistry",
+  "summary": "Molecular Docking is a fundamental concept in chemistry.",
   "definition": "Molecular Docking is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Docking and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-docking"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

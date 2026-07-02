@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-07.topic-01",
   "name": "Instruction Selection",
   "subject": "computer-science",
+  "summary": "Instruction Selection is a fundamental concept in computer-science.",
   "definition": "Instruction Selection is a fundamental concept in computer-science.",
   "explanation": "Learn about Instruction Selection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "instruction-selection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

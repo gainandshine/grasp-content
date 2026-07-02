@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-09",
   "name": "Population Ecology",
   "subject": "biology",
+  "summary": "Population Ecology is a fundamental concept in biology.",
   "definition": "Population Ecology is a fundamental concept in biology.",
   "explanation": "Learn about Population Ecology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "population-ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

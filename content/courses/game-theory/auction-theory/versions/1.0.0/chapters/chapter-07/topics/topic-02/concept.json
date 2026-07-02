@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-07.topic-02",
   "name": "Auction Efficiency",
   "subject": "game-theory",
+  "summary": "Auction Efficiency is a fundamental concept in game-theory.",
   "definition": "Auction Efficiency is a fundamental concept in game-theory.",
   "explanation": "Learn about Auction Efficiency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "auction-efficiency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

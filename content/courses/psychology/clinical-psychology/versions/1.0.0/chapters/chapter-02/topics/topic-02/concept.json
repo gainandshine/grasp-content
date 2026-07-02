@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-02.topic-02",
   "name": "Mental Status Examination",
   "subject": "psychology",
+  "summary": "Mental Status Examination is a fundamental concept in psychology.",
   "definition": "Mental Status Examination is a fundamental concept in psychology.",
   "explanation": "Learn about Mental Status Examination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mental-status-examination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

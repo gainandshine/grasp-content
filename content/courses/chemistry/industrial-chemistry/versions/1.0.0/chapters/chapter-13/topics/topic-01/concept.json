@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-13.topic-01",
   "name": "Industry 4.0",
   "subject": "chemistry",
+  "summary": "Industry 4.0 is a fundamental concept in chemistry.",
   "definition": "Industry 4.0 is a fundamental concept in chemistry.",
   "explanation": "Learn about Industry 4.0 and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "industry-40"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

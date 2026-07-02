@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-06.topic-01",
   "name": "Visualization Principles",
   "subject": "computer-science",
+  "summary": "Visualization Principles is a fundamental concept in computer-science.",
   "definition": "Visualization Principles is a fundamental concept in computer-science.",
   "explanation": "Learn about Visualization Principles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "visualization-principles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

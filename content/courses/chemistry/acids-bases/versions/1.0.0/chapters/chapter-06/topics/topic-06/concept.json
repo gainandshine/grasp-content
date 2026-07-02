@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-06.topic-06",
   "name": "Biological Buffer Systems",
   "subject": "chemistry",
+  "summary": "Biological Buffer Systems is a fundamental concept in chemistry.",
   "definition": "Biological Buffer Systems is a fundamental concept in chemistry.",
   "explanation": "Learn about Biological Buffer Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biological-buffer-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

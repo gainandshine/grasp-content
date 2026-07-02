@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-12.topic-02",
   "name": "Caching",
   "subject": "computer-science",
+  "summary": "Caching is a fundamental concept in computer-science.",
   "definition": "Caching is a fundamental concept in computer-science.",
   "explanation": "Learn about Caching and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "caching"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

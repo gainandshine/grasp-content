@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-12.topic-02",
   "name": "Cancer Therapy",
   "subject": "biology",
+  "summary": "Cancer Therapy is a fundamental concept in biology.",
   "definition": "Cancer Therapy is a fundamental concept in biology.",
   "explanation": "Learn about Cancer Therapy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cancer-therapy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

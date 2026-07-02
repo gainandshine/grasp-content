@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-01.topic-03",
   "name": "Polynomials",
   "subject": "mathematics",
+  "summary": "Polynomials is a fundamental concept in mathematics.",
   "definition": "Polynomials is a fundamental concept in mathematics.",
   "explanation": "Learn about Polynomials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polynomials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

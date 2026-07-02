@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-03.topic-02",
   "name": "Dominant Strategy Incentive Compatibility (DSIC)",
   "subject": "game-theory",
+  "summary": "Dominant Strategy Incentive Compatibility (DSIC) is a fundamental concept in game-theory.",
   "definition": "Dominant Strategy Incentive Compatibility (DSIC) is a fundamental concept in game-theory.",
   "explanation": "Learn about Dominant Strategy Incentive Compatibility (DSIC) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "dominant-strategy-incentive-compatibility-dsic"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

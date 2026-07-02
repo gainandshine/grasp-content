@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-07.topic-04",
   "name": "Flow Resistance",
   "subject": "physics",
+  "summary": "Flow Resistance is a fundamental concept in physics.",
   "definition": "Flow Resistance is a fundamental concept in physics.",
   "explanation": "Learn about Flow Resistance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "flow-resistance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

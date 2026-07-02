@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-06.topic-04",
   "name": "Equilibrium Constant & Cell Potential",
   "subject": "chemistry",
+  "summary": "Equilibrium Constant & Cell Potential is a fundamental concept in chemistry.",
   "definition": "Equilibrium Constant & Cell Potential is a fundamental concept in chemistry.",
   "explanation": "Learn about Equilibrium Constant & Cell Potential and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "equilibrium-constant-cell-potential"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

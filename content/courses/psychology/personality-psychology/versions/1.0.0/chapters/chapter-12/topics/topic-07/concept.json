@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-12.topic-07",
   "name": "Artificial Intelligence & Personality",
   "subject": "psychology",
+  "summary": "Artificial Intelligence & Personality is a fundamental concept in psychology.",
   "definition": "Artificial Intelligence & Personality is a fundamental concept in psychology.",
   "explanation": "Learn about Artificial Intelligence & Personality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "artificial-intelligence-personality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

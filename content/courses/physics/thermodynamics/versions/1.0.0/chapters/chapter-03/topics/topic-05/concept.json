@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-03.topic-05",
   "name": "RMS Speed",
   "subject": "physics",
+  "summary": "RMS Speed is a fundamental concept in physics.",
   "definition": "RMS Speed is a fundamental concept in physics.",
   "explanation": "Learn about RMS Speed and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rms-speed"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

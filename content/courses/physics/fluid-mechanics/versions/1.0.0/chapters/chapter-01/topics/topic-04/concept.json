@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-01.topic-04",
   "name": "Pressure",
   "subject": "physics",
+  "summary": "Pressure is a fundamental concept in physics.",
   "definition": "Pressure is a fundamental concept in physics.",
   "explanation": "Learn about Pressure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "pressure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

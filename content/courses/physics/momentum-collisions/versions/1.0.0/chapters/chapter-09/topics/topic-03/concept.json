@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-09.topic-03",
   "name": "Sports Collisions",
   "subject": "physics",
+  "summary": "Sports Collisions is a fundamental concept in physics.",
   "definition": "Sports Collisions is a fundamental concept in physics.",
   "explanation": "Learn about Sports Collisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "sports-collisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

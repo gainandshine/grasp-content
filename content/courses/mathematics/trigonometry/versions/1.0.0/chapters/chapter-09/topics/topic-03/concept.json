@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-09.topic-03",
   "name": "Multiple-Angle Equations",
   "subject": "mathematics",
+  "summary": "Multiple-Angle Equations is a fundamental concept in mathematics.",
   "definition": "Multiple-Angle Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Multiple-Angle Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "multiple-angle-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

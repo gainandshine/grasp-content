@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-01.topic-05",
   "name": "Fundamental Forces of Nature",
   "subject": "physics",
+  "summary": "Fundamental Forces of Nature is a fundamental concept in physics.",
   "definition": "Fundamental Forces of Nature is a fundamental concept in physics.",
   "explanation": "Learn about Fundamental Forces of Nature and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "fundamental-forces-of-nature"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

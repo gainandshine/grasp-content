@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-10.topic-01",
   "name": "Applied Behavior Analysis (ABA)",
   "subject": "psychology",
+  "summary": "Applied Behavior Analysis (ABA) is a fundamental concept in psychology.",
   "definition": "Applied Behavior Analysis (ABA) is a fundamental concept in psychology.",
   "explanation": "Learn about Applied Behavior Analysis (ABA) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "applied-behavior-analysis-aba"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

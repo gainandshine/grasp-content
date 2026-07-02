@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-02.topic-02",
   "name": "Lines",
   "subject": "computer-science",
+  "summary": "Lines is a fundamental concept in computer-science.",
   "definition": "Lines is a fundamental concept in computer-science.",
   "explanation": "Learn about Lines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "lines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

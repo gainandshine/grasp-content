@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-11.topic-03",
   "name": "Solvability by Radicals",
   "subject": "mathematics",
+  "summary": "Solvability by Radicals is a fundamental concept in mathematics.",
   "definition": "Solvability by Radicals is a fundamental concept in mathematics.",
   "explanation": "Learn about Solvability by Radicals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "solvability-by-radicals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-04",
   "name": "Change of Order of Integration",
   "subject": "mathematics",
+  "summary": "Change of Order of Integration is a fundamental concept in mathematics.",
   "definition": "Change of Order of Integration is a fundamental concept in mathematics.",
   "explanation": "Learn about Change of Order of Integration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "change-of-order-of-integration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

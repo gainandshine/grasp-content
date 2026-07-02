@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-09.topic-04",
   "name": "Incident Detection",
   "subject": "computer-science",
+  "summary": "Incident Detection is a fundamental concept in computer-science.",
   "definition": "Incident Detection is a fundamental concept in computer-science.",
   "explanation": "Learn about Incident Detection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "incident-detection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

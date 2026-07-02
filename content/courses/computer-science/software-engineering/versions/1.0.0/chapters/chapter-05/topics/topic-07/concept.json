@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-05.topic-07",
   "name": "Strategy",
   "subject": "computer-science",
+  "summary": "Strategy is a fundamental concept in computer-science.",
   "definition": "Strategy is a fundamental concept in computer-science.",
   "explanation": "Learn about Strategy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "strategy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

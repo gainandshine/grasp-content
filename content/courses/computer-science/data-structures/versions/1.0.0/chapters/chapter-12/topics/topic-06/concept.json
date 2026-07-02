@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-12.topic-06",
   "name": "Comparing Data Structures",
   "subject": "computer-science",
+  "summary": "Comparing Data Structures is a fundamental concept in computer-science.",
   "definition": "Comparing Data Structures is a fundamental concept in computer-science.",
   "explanation": "Learn about Comparing Data Structures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "comparing-data-structures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

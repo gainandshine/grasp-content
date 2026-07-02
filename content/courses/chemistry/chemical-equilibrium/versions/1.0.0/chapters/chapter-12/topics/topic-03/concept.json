@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-03",
   "name": "Chemical Potential",
   "subject": "chemistry",
+  "summary": "Chemical Potential is a fundamental concept in chemistry.",
   "definition": "Chemical Potential is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Potential and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-potential"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

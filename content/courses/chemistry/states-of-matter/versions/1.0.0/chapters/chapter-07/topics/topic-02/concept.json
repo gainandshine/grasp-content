@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-07.topic-02",
   "name": "Compressibility Factor",
   "subject": "chemistry",
+  "summary": "Compressibility Factor is a fundamental concept in chemistry.",
   "definition": "Compressibility Factor is a fundamental concept in chemistry.",
   "explanation": "Learn about Compressibility Factor and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "compressibility-factor"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

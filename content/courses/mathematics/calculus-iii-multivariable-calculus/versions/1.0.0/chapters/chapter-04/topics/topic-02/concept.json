@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-02",
   "name": "Limits",
   "subject": "mathematics",
+  "summary": "Limits is a fundamental concept in mathematics.",
   "definition": "Limits is a fundamental concept in mathematics.",
   "explanation": "Learn about Limits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "limits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

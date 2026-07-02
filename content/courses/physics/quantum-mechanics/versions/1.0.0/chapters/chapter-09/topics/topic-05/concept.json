@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-09.topic-05",
   "name": "Electron Probability Distribution",
   "subject": "physics",
+  "summary": "Electron Probability Distribution is a fundamental concept in physics.",
   "definition": "Electron Probability Distribution is a fundamental concept in physics.",
   "explanation": "Learn about Electron Probability Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electron-probability-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

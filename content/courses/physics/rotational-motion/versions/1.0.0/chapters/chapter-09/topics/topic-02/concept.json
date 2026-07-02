@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-09.topic-02",
   "name": "Torque Balance",
   "subject": "physics",
+  "summary": "Torque Balance is a fundamental concept in physics.",
   "definition": "Torque Balance is a fundamental concept in physics.",
   "explanation": "Learn about Torque Balance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "torque-balance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

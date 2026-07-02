@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-05.topic-02",
   "name": "Structural Patterns",
   "subject": "computer-science",
+  "summary": "Structural Patterns is a fundamental concept in computer-science.",
   "definition": "Structural Patterns is a fundamental concept in computer-science.",
   "explanation": "Learn about Structural Patterns and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "structural-patterns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

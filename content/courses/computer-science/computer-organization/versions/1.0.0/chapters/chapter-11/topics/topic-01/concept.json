@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-11.topic-01",
   "name": "Assembly Language Basics",
   "subject": "computer-science",
+  "summary": "Assembly Language Basics is a fundamental concept in computer-science.",
   "definition": "Assembly Language Basics is a fundamental concept in computer-science.",
   "explanation": "Learn about Assembly Language Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "assembly-language-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

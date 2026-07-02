@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-10.topic-03",
   "name": "GPS Satellites",
   "subject": "physics",
+  "summary": "GPS Satellites is a fundamental concept in physics.",
   "definition": "GPS Satellites is a fundamental concept in physics.",
   "explanation": "Learn about GPS Satellites and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gps-satellites"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

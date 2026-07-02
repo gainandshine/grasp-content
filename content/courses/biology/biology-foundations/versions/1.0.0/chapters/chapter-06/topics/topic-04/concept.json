@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-06.topic-04",
   "name": "Kingdoms of Life",
   "subject": "biology",
+  "summary": "Kingdoms of Life is a fundamental concept in biology.",
   "definition": "Kingdoms of Life is a fundamental concept in biology.",
   "explanation": "Learn about Kingdoms of Life and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "kingdoms-of-life"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

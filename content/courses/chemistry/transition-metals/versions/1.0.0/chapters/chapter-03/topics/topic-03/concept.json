@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-03.topic-03",
   "name": "Density",
   "subject": "chemistry",
+  "summary": "Density is a fundamental concept in chemistry.",
   "definition": "Density is a fundamental concept in chemistry.",
   "explanation": "Learn about Density and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "density"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

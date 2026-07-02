@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-04.topic-05",
   "name": "Aldol Condensation",
   "subject": "chemistry",
+  "summary": "Aldol Condensation is a fundamental concept in chemistry.",
   "definition": "Aldol Condensation is a fundamental concept in chemistry.",
   "explanation": "Learn about Aldol Condensation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "aldol-condensation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

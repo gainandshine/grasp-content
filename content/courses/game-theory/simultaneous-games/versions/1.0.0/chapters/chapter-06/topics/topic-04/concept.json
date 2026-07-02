@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-06.topic-04",
   "name": "Mixed Strategy Nash Equilibrium",
   "subject": "game-theory",
+  "summary": "Mixed Strategy Nash Equilibrium is a fundamental concept in game-theory.",
   "definition": "Mixed Strategy Nash Equilibrium is a fundamental concept in game-theory.",
   "explanation": "Learn about Mixed Strategy Nash Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "mixed-strategy-nash-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

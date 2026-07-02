@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-05.topic-04",
   "name": "Galaxy Clusters",
   "subject": "physics",
+  "summary": "Galaxy Clusters is a fundamental concept in physics.",
   "definition": "Galaxy Clusters is a fundamental concept in physics.",
   "explanation": "Learn about Galaxy Clusters and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "galaxy-clusters"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

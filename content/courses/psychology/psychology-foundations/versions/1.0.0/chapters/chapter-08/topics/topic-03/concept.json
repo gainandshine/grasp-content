@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-08.topic-03",
   "name": "Retrieval",
   "subject": "psychology",
+  "summary": "Retrieval is a fundamental concept in psychology.",
   "definition": "Retrieval is a fundamental concept in psychology.",
   "explanation": "Learn about Retrieval and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "retrieval"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

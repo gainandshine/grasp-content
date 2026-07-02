@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-10.topic-03",
   "name": "Sequential Compactness",
   "subject": "mathematics",
+  "summary": "Sequential Compactness is a fundamental concept in mathematics.",
   "definition": "Sequential Compactness is a fundamental concept in mathematics.",
   "explanation": "Learn about Sequential Compactness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sequential-compactness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.consumer-theory.chapter-13.topic-05",
   "name": "Digital Markets",
   "subject": "economics",
+  "summary": "Digital Markets is a fundamental concept in economics.",
   "definition": "Digital Markets is a fundamental concept in economics.",
   "explanation": "Learn about Digital Markets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "digital-markets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

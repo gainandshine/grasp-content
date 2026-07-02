@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-12.topic-03",
   "name": "Big Θ Notation",
   "subject": "computer-science",
+  "summary": "Big Θ Notation is a fundamental concept in computer-science.",
   "definition": "Big Θ Notation is a fundamental concept in computer-science.",
   "explanation": "Learn about Big Θ Notation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "big-notation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

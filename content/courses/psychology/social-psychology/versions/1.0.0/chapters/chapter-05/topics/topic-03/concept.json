@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-05.topic-03",
   "name": "Compliance",
   "subject": "psychology",
+  "summary": "Compliance is a fundamental concept in psychology.",
   "definition": "Compliance is a fundamental concept in psychology.",
   "explanation": "Learn about Compliance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "compliance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

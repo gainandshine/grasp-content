@@ -2,6 +2,7 @@
   "id": "physics.waves-sound.chapter-02.topic-05",
   "name": "Amplitude",
   "subject": "physics",
+  "summary": "Amplitude is a fundamental concept in physics.",
   "definition": "Amplitude is a fundamental concept in physics.",
   "explanation": "Learn about Amplitude and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "amplitude"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

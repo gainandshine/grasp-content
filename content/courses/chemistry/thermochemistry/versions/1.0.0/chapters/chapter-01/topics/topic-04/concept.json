@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-01.topic-04",
   "name": "Heat",
   "subject": "chemistry",
+  "summary": "Heat is a fundamental concept in chemistry.",
   "definition": "Heat is a fundamental concept in chemistry.",
   "explanation": "Learn about Heat and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "heat"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

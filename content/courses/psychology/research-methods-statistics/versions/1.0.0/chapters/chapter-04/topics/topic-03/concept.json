@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-04.topic-03",
   "name": "Probability Sampling",
   "subject": "psychology",
+  "summary": "Probability Sampling is a fundamental concept in psychology.",
   "definition": "Probability Sampling is a fundamental concept in psychology.",
   "explanation": "Learn about Probability Sampling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "probability-sampling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

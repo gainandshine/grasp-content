@@ -2,6 +2,7 @@
   "id": "philosophy.political-philosophy.chapter-08.topic-06",
   "name": "Anarchism",
   "subject": "philosophy",
+  "summary": "Anarchism is a fundamental concept in philosophy.",
   "definition": "Anarchism is a fundamental concept in philosophy.",
   "explanation": "Learn about Anarchism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "anarchism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

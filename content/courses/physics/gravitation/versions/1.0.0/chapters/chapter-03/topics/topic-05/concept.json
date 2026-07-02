@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-03.topic-05",
   "name": "Escape Energy",
   "subject": "physics",
+  "summary": "Escape Energy is a fundamental concept in physics.",
   "definition": "Escape Energy is a fundamental concept in physics.",
   "explanation": "Learn about Escape Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "escape-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

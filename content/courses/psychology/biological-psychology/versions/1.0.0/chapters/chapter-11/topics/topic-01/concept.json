@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-11.topic-01",
   "name": "Stroke",
   "subject": "psychology",
+  "summary": "Stroke is a fundamental concept in psychology.",
   "definition": "Stroke is a fundamental concept in psychology.",
   "explanation": "Learn about Stroke and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "stroke"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

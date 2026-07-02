@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-08.topic-02",
   "name": "Plasmids",
   "subject": "biology",
+  "summary": "Plasmids is a fundamental concept in biology.",
   "definition": "Plasmids is a fundamental concept in biology.",
   "explanation": "Learn about Plasmids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "plasmids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

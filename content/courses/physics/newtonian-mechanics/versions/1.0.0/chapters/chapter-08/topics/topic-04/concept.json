@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-08.topic-04",
   "name": "Conical Pendulum",
   "subject": "physics",
+  "summary": "Conical Pendulum is a fundamental concept in physics.",
   "definition": "Conical Pendulum is a fundamental concept in physics.",
   "explanation": "Learn about Conical Pendulum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "conical-pendulum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

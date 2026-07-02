@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-01.topic-03",
   "name": "Strategic Memory",
   "subject": "game-theory",
+  "summary": "Strategic Memory is a fundamental concept in game-theory.",
   "definition": "Strategic Memory is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Memory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-memory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

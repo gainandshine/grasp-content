@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-09",
   "name": "Intelligent Agents",
   "subject": "computer-science",
+  "summary": "Intelligent Agents is a fundamental concept in computer-science.",
   "definition": "Intelligent Agents is a fundamental concept in computer-science.",
   "explanation": "Learn about Intelligent Agents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "intelligent-agents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-06.topic-01",
   "name": "Genetics & Personality",
   "subject": "psychology",
+  "summary": "Genetics & Personality is a fundamental concept in psychology.",
   "definition": "Genetics & Personality is a fundamental concept in psychology.",
   "explanation": "Learn about Genetics & Personality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "genetics-personality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

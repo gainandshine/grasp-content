@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-09.topic-02",
   "name": "RL Circuits",
   "subject": "physics",
+  "summary": "RL Circuits is a fundamental concept in physics.",
   "definition": "RL Circuits is a fundamental concept in physics.",
   "explanation": "Learn about RL Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rl-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

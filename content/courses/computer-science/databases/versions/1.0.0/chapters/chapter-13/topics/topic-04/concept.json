@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-04",
   "name": "Healthcare Systems",
   "subject": "computer-science",
+  "summary": "Healthcare Systems is a fundamental concept in computer-science.",
   "definition": "Healthcare Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Healthcare Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "healthcare-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

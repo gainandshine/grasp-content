@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-05.topic-05",
   "name": "Cosmic Web",
   "subject": "physics",
+  "summary": "Cosmic Web is a fundamental concept in physics.",
   "definition": "Cosmic Web is a fundamental concept in physics.",
   "explanation": "Learn about Cosmic Web and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cosmic-web"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

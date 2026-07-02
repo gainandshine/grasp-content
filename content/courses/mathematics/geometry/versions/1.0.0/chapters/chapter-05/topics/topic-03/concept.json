@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-05.topic-03",
   "name": "ASA",
   "subject": "mathematics",
+  "summary": "ASA is a fundamental concept in mathematics.",
   "definition": "ASA is a fundamental concept in mathematics.",
   "explanation": "Learn about ASA and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "asa"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

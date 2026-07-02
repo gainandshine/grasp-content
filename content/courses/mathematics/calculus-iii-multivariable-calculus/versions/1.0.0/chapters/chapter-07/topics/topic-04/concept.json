@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-04",
   "name": "Saddle Points",
   "subject": "mathematics",
+  "summary": "Saddle Points is a fundamental concept in mathematics.",
   "definition": "Saddle Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Saddle Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "saddle-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

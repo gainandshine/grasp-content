@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-08.topic-04",
   "name": "Critical Density",
   "subject": "physics",
+  "summary": "Critical Density is a fundamental concept in physics.",
   "definition": "Critical Density is a fundamental concept in physics.",
   "explanation": "Learn about Critical Density and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "critical-density"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

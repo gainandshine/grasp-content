@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-11.topic-04",
   "name": "Green Polymer Chemistry",
   "subject": "chemistry",
+  "summary": "Green Polymer Chemistry is a fundamental concept in chemistry.",
   "definition": "Green Polymer Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Green Polymer Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "green-polymer-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

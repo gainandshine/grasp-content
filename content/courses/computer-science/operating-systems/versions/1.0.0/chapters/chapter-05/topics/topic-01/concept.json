@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-05.topic-01",
   "name": "Deadlock Conditions",
   "subject": "computer-science",
+  "summary": "Deadlock Conditions is a fundamental concept in computer-science.",
   "definition": "Deadlock Conditions is a fundamental concept in computer-science.",
   "explanation": "Learn about Deadlock Conditions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "deadlock-conditions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

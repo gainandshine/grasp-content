@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-07.topic-06",
   "name": "Evolution of Communication",
   "subject": "game-theory",
+  "summary": "Evolution of Communication is a fundamental concept in game-theory.",
   "definition": "Evolution of Communication is a fundamental concept in game-theory.",
   "explanation": "Learn about Evolution of Communication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "evolution-of-communication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

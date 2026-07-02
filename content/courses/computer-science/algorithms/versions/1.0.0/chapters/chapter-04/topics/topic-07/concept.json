@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-04.topic-07",
   "name": "Counting Sort",
   "subject": "computer-science",
+  "summary": "Counting Sort is a fundamental concept in computer-science.",
   "definition": "Counting Sort is a fundamental concept in computer-science.",
   "explanation": "Learn about Counting Sort and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "counting-sort"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

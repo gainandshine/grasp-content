@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-05.topic-05",
   "name": "Hydrolysis of Salts",
   "subject": "chemistry",
+  "summary": "Hydrolysis of Salts is a fundamental concept in chemistry.",
   "definition": "Hydrolysis of Salts is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrolysis of Salts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrolysis-of-salts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

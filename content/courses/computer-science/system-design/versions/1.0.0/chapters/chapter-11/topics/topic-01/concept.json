@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-11.topic-01",
   "name": "Logging",
   "subject": "computer-science",
+  "summary": "Logging is a fundamental concept in computer-science.",
   "definition": "Logging is a fundamental concept in computer-science.",
   "explanation": "Learn about Logging and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "logging"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

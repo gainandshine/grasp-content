@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-02.topic-04",
   "name": "Action Potential",
   "subject": "psychology",
+  "summary": "Action Potential is a fundamental concept in psychology.",
   "definition": "Action Potential is a fundamental concept in psychology.",
   "explanation": "Learn about Action Potential and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "action-potential"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

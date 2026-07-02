@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-08.topic-01",
   "name": "Partitions",
   "subject": "mathematics",
+  "summary": "Partitions is a fundamental concept in mathematics.",
   "definition": "Partitions is a fundamental concept in mathematics.",
   "explanation": "Learn about Partitions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "partitions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

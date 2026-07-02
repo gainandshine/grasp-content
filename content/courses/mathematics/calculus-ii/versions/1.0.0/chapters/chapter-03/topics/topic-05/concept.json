@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-03.topic-05",
   "name": "Logistic Equation",
   "subject": "mathematics",
+  "summary": "Logistic Equation is a fundamental concept in mathematics.",
   "definition": "Logistic Equation is a fundamental concept in mathematics.",
   "explanation": "Learn about Logistic Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "logistic-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

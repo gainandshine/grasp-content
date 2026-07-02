@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-09.topic-03",
   "name": "Dipole-Dipole Forces",
   "subject": "chemistry",
+  "summary": "Dipole-Dipole Forces is a fundamental concept in chemistry.",
   "definition": "Dipole-Dipole Forces is a fundamental concept in chemistry.",
   "explanation": "Learn about Dipole-Dipole Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "dipole-dipole-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

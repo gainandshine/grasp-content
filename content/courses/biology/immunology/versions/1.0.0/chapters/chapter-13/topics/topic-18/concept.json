@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-18",
   "name": "Restoration Ecology",
   "subject": "biology",
+  "summary": "Restoration Ecology is a fundamental concept in biology.",
   "definition": "Restoration Ecology is a fundamental concept in biology.",
   "explanation": "Learn about Restoration Ecology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "restoration-ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-04.topic-02",
   "name": "3D Objects",
   "subject": "computer-science",
+  "summary": "3D Objects is a fundamental concept in computer-science.",
   "definition": "3D Objects is a fundamental concept in computer-science.",
   "explanation": "Learn about 3D Objects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "3d-objects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

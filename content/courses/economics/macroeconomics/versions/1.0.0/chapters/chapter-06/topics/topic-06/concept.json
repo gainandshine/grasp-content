@@ -2,6 +2,7 @@
   "id": "economics.macroeconomics.chapter-06.topic-06",
   "name": "Economic Fluctuations",
   "subject": "economics",
+  "summary": "Economic Fluctuations is a fundamental concept in economics.",
   "definition": "Economic Fluctuations is a fundamental concept in economics.",
   "explanation": "Learn about Economic Fluctuations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "economic-fluctuations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

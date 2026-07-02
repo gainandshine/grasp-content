@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-03.topic-07",
   "name": "Data Storage Units",
   "subject": "computer-science",
+  "summary": "Data Storage Units is a fundamental concept in computer-science.",
   "definition": "Data Storage Units is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Storage Units and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-storage-units"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

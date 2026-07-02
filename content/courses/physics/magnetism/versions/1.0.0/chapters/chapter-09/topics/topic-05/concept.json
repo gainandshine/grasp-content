@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-09.topic-05",
   "name": "Electromagnets",
   "subject": "physics",
+  "summary": "Electromagnets is a fundamental concept in physics.",
   "definition": "Electromagnets is a fundamental concept in physics.",
   "explanation": "Learn about Electromagnets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electromagnets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

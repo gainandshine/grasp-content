@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-11.topic-04",
   "name": "Separation of Variables",
   "subject": "mathematics",
+  "summary": "Separation of Variables is a fundamental concept in mathematics.",
   "definition": "Separation of Variables is a fundamental concept in mathematics.",
   "explanation": "Learn about Separation of Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "separation-of-variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

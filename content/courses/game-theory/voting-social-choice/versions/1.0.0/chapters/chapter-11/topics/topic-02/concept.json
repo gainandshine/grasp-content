@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-11.topic-02",
   "name": "Preference Learning",
   "subject": "game-theory",
+  "summary": "Preference Learning is a fundamental concept in game-theory.",
   "definition": "Preference Learning is a fundamental concept in game-theory.",
   "explanation": "Learn about Preference Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "preference-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

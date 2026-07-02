@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-07.topic-04",
   "name": "Degree of Ionization",
   "subject": "chemistry",
+  "summary": "Degree of Ionization is a fundamental concept in chemistry.",
   "definition": "Degree of Ionization is a fundamental concept in chemistry.",
   "explanation": "Learn about Degree of Ionization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "degree-of-ionization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

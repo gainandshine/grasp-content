@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-09.topic-05",
   "name": "Approximation Techniques",
   "subject": "physics",
+  "summary": "Approximation Techniques is a fundamental concept in physics.",
   "definition": "Approximation Techniques is a fundamental concept in physics.",
   "explanation": "Learn about Approximation Techniques and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "approximation-techniques"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

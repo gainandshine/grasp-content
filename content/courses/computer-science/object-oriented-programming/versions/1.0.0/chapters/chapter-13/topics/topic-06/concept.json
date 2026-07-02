@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-13.topic-06",
   "name": "Game Objects",
   "subject": "computer-science",
+  "summary": "Game Objects is a fundamental concept in computer-science.",
   "definition": "Game Objects is a fundamental concept in computer-science.",
   "explanation": "Learn about Game Objects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "game-objects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

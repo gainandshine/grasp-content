@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-12.topic-02",
   "name": "CT Scan",
   "subject": "psychology",
+  "summary": "CT Scan is a fundamental concept in psychology.",
   "definition": "CT Scan is a fundamental concept in psychology.",
   "explanation": "Learn about CT Scan and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "ct-scan"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

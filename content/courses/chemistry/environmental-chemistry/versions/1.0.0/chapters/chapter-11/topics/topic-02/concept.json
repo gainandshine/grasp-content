@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-11.topic-02",
   "name": "Water Quality Analysis",
   "subject": "chemistry",
+  "summary": "Water Quality Analysis is a fundamental concept in chemistry.",
   "definition": "Water Quality Analysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Water Quality Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "water-quality-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

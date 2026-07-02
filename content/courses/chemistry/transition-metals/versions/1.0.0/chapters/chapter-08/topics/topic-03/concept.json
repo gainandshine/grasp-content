@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-08.topic-03",
   "name": "Extraction Methods",
   "subject": "chemistry",
+  "summary": "Extraction Methods is a fundamental concept in chemistry.",
   "definition": "Extraction Methods is a fundamental concept in chemistry.",
   "explanation": "Learn about Extraction Methods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "extraction-methods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

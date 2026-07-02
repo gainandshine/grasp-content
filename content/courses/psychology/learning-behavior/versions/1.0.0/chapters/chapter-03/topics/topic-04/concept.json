@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-03.topic-04",
   "name": "Punishment",
   "subject": "psychology",
+  "summary": "Punishment is a fundamental concept in psychology.",
   "definition": "Punishment is a fundamental concept in psychology.",
   "explanation": "Learn about Punishment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "punishment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

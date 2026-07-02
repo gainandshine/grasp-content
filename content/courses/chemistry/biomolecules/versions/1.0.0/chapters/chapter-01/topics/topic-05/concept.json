@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-01.topic-05",
   "name": "Water in Biological Systems",
   "subject": "chemistry",
+  "summary": "Water in Biological Systems is a fundamental concept in chemistry.",
   "definition": "Water in Biological Systems is a fundamental concept in chemistry.",
   "explanation": "Learn about Water in Biological Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "water-in-biological-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

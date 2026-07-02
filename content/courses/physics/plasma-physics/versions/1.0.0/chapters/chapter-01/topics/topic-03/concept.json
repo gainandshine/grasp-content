@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-01.topic-03",
   "name": "Ionization",
   "subject": "physics",
+  "summary": "Ionization is a fundamental concept in physics.",
   "definition": "Ionization is a fundamental concept in physics.",
   "explanation": "Learn about Ionization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ionization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

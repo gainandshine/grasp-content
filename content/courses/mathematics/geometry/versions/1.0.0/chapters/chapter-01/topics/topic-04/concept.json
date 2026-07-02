@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-01.topic-04",
   "name": "Rays",
   "subject": "mathematics",
+  "summary": "Rays is a fundamental concept in mathematics.",
   "definition": "Rays is a fundamental concept in mathematics.",
   "explanation": "Learn about Rays and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rays"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

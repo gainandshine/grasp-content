@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-02.topic-01",
   "name": "Inertia",
   "subject": "physics",
+  "summary": "Inertia is a fundamental concept in physics.",
   "definition": "Inertia is a fundamental concept in physics.",
   "explanation": "Learn about Inertia and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "inertia"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

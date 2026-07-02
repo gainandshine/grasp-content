@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-02.topic-02",
   "name": "Formation of Ions",
   "subject": "chemistry",
+  "summary": "Formation of Ions is a fundamental concept in chemistry.",
   "definition": "Formation of Ions is a fundamental concept in chemistry.",
   "explanation": "Learn about Formation of Ions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "formation-of-ions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

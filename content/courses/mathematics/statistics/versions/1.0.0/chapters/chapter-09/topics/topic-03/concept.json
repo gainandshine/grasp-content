@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-09.topic-03",
   "name": "Chi-Square Test",
   "subject": "mathematics",
+  "summary": "Chi-Square Test is a fundamental concept in mathematics.",
   "definition": "Chi-Square Test is a fundamental concept in mathematics.",
   "explanation": "Learn about Chi-Square Test and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "chi-square-test"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

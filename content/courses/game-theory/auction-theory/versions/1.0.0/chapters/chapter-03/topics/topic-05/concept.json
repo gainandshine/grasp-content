@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-03.topic-05",
   "name": "Auction Dynamics",
   "subject": "game-theory",
+  "summary": "Auction Dynamics is a fundamental concept in game-theory.",
   "definition": "Auction Dynamics is a fundamental concept in game-theory.",
   "explanation": "Learn about Auction Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "auction-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

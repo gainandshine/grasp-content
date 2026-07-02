@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-03.topic-01",
   "name": "Polynomial Review",
   "subject": "mathematics",
+  "summary": "Polynomial Review is a fundamental concept in mathematics.",
   "definition": "Polynomial Review is a fundamental concept in mathematics.",
   "explanation": "Learn about Polynomial Review and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polynomial-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

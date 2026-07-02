@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-03.topic-04",
   "name": "Triglycerides",
   "subject": "chemistry",
+  "summary": "Triglycerides is a fundamental concept in chemistry.",
   "definition": "Triglycerides is a fundamental concept in chemistry.",
   "explanation": "Learn about Triglycerides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "triglycerides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

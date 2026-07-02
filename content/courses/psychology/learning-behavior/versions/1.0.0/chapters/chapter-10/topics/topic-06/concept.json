@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-10.topic-06",
   "name": "Behavioral Measurement",
   "subject": "psychology",
+  "summary": "Behavioral Measurement is a fundamental concept in psychology.",
   "definition": "Behavioral Measurement is a fundamental concept in psychology.",
   "explanation": "Learn about Behavioral Measurement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "behavioral-measurement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

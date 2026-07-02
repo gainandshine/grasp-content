@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-13.topic-06",
   "name": "Synthetic Biology (Introduction)",
   "subject": "biology",
+  "summary": "Synthetic Biology (Introduction) is a fundamental concept in biology.",
   "definition": "Synthetic Biology (Introduction) is a fundamental concept in biology.",
   "explanation": "Learn about Synthetic Biology (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "synthetic-biology-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

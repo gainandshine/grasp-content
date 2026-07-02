@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-11.topic-06",
   "name": "API Design",
   "subject": "computer-science",
+  "summary": "API Design is a fundamental concept in computer-science.",
   "definition": "API Design is a fundamental concept in computer-science.",
   "explanation": "Learn about API Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "api-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

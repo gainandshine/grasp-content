@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-09.topic-04",
   "name": "MRI (Introduction)",
   "subject": "physics",
+  "summary": "MRI (Introduction) is a fundamental concept in physics.",
   "definition": "MRI (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about MRI (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mri-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

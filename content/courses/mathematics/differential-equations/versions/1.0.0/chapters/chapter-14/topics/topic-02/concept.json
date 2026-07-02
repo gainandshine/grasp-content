@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-14.topic-02",
   "name": "Electrical Circuits",
   "subject": "mathematics",
+  "summary": "Electrical Circuits is a fundamental concept in mathematics.",
   "definition": "Electrical Circuits is a fundamental concept in mathematics.",
   "explanation": "Learn about Electrical Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "electrical-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

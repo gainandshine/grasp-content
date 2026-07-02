@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-08.topic-02",
   "name": "Dynamic Routing",
   "subject": "computer-science",
+  "summary": "Dynamic Routing is a fundamental concept in computer-science.",
   "definition": "Dynamic Routing is a fundamental concept in computer-science.",
   "explanation": "Learn about Dynamic Routing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "dynamic-routing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

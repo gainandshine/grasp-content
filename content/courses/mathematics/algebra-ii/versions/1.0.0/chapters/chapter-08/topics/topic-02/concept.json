@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-08.topic-02",
   "name": "Inverse Functions",
   "subject": "mathematics",
+  "summary": "Inverse Functions is a fundamental concept in mathematics.",
   "definition": "Inverse Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Inverse Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "inverse-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

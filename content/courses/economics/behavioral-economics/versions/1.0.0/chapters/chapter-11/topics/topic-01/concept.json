@@ -2,6 +2,7 @@
   "id": "economics.behavioral-economics.chapter-11.topic-01",
   "name": "Economic Experiments",
   "subject": "economics",
+  "summary": "Economic Experiments is a fundamental concept in economics.",
   "definition": "Economic Experiments is a fundamental concept in economics.",
   "explanation": "Learn about Economic Experiments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "economic-experiments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

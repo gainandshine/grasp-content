@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-09.topic-02",
   "name": "Neon",
   "subject": "chemistry",
+  "summary": "Neon is a fundamental concept in chemistry.",
   "definition": "Neon is a fundamental concept in chemistry.",
   "explanation": "Learn about Neon and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "neon"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

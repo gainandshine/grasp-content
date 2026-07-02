@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-03.topic-01",
   "name": "Air Pollutants",
   "subject": "chemistry",
+  "summary": "Air Pollutants is a fundamental concept in chemistry.",
   "definition": "Air Pollutants is a fundamental concept in chemistry.",
   "explanation": "Learn about Air Pollutants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "air-pollutants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

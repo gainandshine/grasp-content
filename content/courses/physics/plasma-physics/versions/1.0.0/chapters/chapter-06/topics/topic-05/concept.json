@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-06.topic-05",
   "name": "Sausage Instability",
   "subject": "physics",
+  "summary": "Sausage Instability is a fundamental concept in physics.",
   "definition": "Sausage Instability is a fundamental concept in physics.",
   "explanation": "Learn about Sausage Instability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "sausage-instability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

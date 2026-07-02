@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-14.topic-03",
   "name": "Route Planning",
   "subject": "mathematics",
+  "summary": "Route Planning is a fundamental concept in mathematics.",
   "definition": "Route Planning is a fundamental concept in mathematics.",
   "explanation": "Learn about Route Planning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "route-planning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

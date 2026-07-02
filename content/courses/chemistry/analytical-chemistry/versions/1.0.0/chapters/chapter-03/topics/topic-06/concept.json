@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-03.topic-06",
   "name": "Accuracy",
   "subject": "chemistry",
+  "summary": "Accuracy is a fundamental concept in chemistry.",
   "definition": "Accuracy is a fundamental concept in chemistry.",
   "explanation": "Learn about Accuracy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "accuracy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-09.topic-03",
   "name": "End Point",
   "subject": "chemistry",
+  "summary": "End Point is a fundamental concept in chemistry.",
   "definition": "End Point is a fundamental concept in chemistry.",
   "explanation": "Learn about End Point and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "end-point"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

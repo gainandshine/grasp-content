@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-04.topic-03",
   "name": "Magnetic Torque",
   "subject": "physics",
+  "summary": "Magnetic Torque is a fundamental concept in physics.",
   "definition": "Magnetic Torque is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Torque and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-torque"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

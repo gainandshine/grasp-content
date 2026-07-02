@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-03.topic-03",
   "name": "First-Come, First-Served (FCFS)",
   "subject": "computer-science",
+  "summary": "First-Come, First-Served (FCFS) is a fundamental concept in computer-science.",
   "definition": "First-Come, First-Served (FCFS) is a fundamental concept in computer-science.",
   "explanation": "Learn about First-Come, First-Served (FCFS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "first-come-first-served-fcfs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

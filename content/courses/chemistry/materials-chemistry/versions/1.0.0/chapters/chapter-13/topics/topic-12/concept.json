@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-13.topic-12",
   "name": "Carbon Nanotubes",
   "subject": "chemistry",
+  "summary": "Carbon Nanotubes is a fundamental concept in chemistry.",
   "definition": "Carbon Nanotubes is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbon Nanotubes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbon-nanotubes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

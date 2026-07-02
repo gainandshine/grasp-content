@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-03.topic-05",
   "name": "Alternate Interior Angles",
   "subject": "mathematics",
+  "summary": "Alternate Interior Angles is a fundamental concept in mathematics.",
   "definition": "Alternate Interior Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Alternate Interior Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "alternate-interior-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

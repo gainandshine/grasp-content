@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-01.topic-04",
   "name": "Modulus",
   "subject": "mathematics",
+  "summary": "Modulus is a fundamental concept in mathematics.",
   "definition": "Modulus is a fundamental concept in mathematics.",
   "explanation": "Learn about Modulus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "modulus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

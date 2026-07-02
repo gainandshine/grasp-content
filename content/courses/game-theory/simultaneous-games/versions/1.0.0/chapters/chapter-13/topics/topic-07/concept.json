@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-13.topic-07",
   "name": "*Course 4: Sequential Games**",
   "subject": "game-theory",
+  "summary": "*Course 4: Sequential Games** is a fundamental concept in game-theory.",
   "definition": "*Course 4: Sequential Games** is a fundamental concept in game-theory.",
   "explanation": "Learn about *Course 4: Sequential Games** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "course-4-sequential-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

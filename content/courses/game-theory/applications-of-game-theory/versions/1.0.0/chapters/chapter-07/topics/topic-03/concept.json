@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-07.topic-03",
   "name": "Blockchain Consensus",
   "subject": "game-theory",
+  "summary": "Blockchain Consensus is a fundamental concept in game-theory.",
   "definition": "Blockchain Consensus is a fundamental concept in game-theory.",
   "explanation": "Learn about Blockchain Consensus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "blockchain-consensus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

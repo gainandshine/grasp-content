@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-03.topic-05",
   "name": "Coenzymes",
   "subject": "biology",
+  "summary": "Coenzymes is a fundamental concept in biology.",
   "definition": "Coenzymes is a fundamental concept in biology.",
   "explanation": "Learn about Coenzymes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "coenzymes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

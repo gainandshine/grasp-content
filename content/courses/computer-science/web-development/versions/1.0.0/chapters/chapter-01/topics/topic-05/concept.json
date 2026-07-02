@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-01.topic-05",
   "name": "HTTP & HTTPS",
   "subject": "computer-science",
+  "summary": "HTTP & HTTPS is a fundamental concept in computer-science.",
   "definition": "HTTP & HTTPS is a fundamental concept in computer-science.",
   "explanation": "Learn about HTTP & HTTPS and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "http-https"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

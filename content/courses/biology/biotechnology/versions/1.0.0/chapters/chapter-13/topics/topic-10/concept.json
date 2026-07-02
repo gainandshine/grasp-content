@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-10",
   "name": "Enzymes",
   "subject": "biology",
+  "summary": "Enzymes is a fundamental concept in biology.",
   "definition": "Enzymes is a fundamental concept in biology.",
   "explanation": "Learn about Enzymes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "enzymes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

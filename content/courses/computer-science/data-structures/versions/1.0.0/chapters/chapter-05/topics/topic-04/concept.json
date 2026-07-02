@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-05.topic-04",
   "name": "Double-Ended Queue (Deque)",
   "subject": "computer-science",
+  "summary": "Double-Ended Queue (Deque) is a fundamental concept in computer-science.",
   "definition": "Double-Ended Queue (Deque) is a fundamental concept in computer-science.",
   "explanation": "Learn about Double-Ended Queue (Deque) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "double-ended-queue-deque"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

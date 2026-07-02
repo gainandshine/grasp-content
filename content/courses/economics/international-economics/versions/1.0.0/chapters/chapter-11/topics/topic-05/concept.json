@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-11.topic-05",
   "name": "Climate & Trade",
   "subject": "economics",
+  "summary": "Climate & Trade is a fundamental concept in economics.",
   "definition": "Climate & Trade is a fundamental concept in economics.",
   "explanation": "Learn about Climate & Trade and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "climate-trade"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

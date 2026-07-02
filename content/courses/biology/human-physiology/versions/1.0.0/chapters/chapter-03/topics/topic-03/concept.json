@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-03.topic-03",
   "name": "Sliding Filament Theory",
   "subject": "biology",
+  "summary": "Sliding Filament Theory is a fundamental concept in biology.",
   "definition": "Sliding Filament Theory is a fundamental concept in biology.",
   "explanation": "Learn about Sliding Filament Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "sliding-filament-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

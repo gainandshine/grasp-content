@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-20.topic-02",
   "name": "Magnetic Energy Storage",
   "subject": "physics",
+  "summary": "Magnetic Energy Storage is a fundamental concept in physics.",
   "definition": "Magnetic Energy Storage is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Energy Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-energy-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

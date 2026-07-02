@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-05.topic-06",
   "name": "Observer",
   "subject": "computer-science",
+  "summary": "Observer is a fundamental concept in computer-science.",
   "definition": "Observer is a fundamental concept in computer-science.",
   "explanation": "Learn about Observer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "observer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

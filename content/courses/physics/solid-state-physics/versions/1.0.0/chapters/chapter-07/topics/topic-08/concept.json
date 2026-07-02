@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-07.topic-08",
   "name": "Diffusion Current",
   "subject": "physics",
+  "summary": "Diffusion Current is a fundamental concept in physics.",
   "definition": "Diffusion Current is a fundamental concept in physics.",
   "explanation": "Learn about Diffusion Current and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "diffusion-current"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

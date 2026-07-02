@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-09.topic-06",
   "name": "Epidemiology",
   "subject": "biology",
+  "summary": "Epidemiology is a fundamental concept in biology.",
   "definition": "Epidemiology is a fundamental concept in biology.",
   "explanation": "Learn about Epidemiology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "epidemiology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-07.topic-02",
   "name": "Average Bond Energy",
   "subject": "chemistry",
+  "summary": "Average Bond Energy is a fundamental concept in chemistry.",
   "definition": "Average Bond Energy is a fundamental concept in chemistry.",
   "explanation": "Learn about Average Bond Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "average-bond-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

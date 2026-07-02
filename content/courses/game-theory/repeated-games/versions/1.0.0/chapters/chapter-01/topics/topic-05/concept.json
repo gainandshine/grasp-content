@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-01.topic-05",
   "name": "Repetition & Incentives",
   "subject": "game-theory",
+  "summary": "Repetition & Incentives is a fundamental concept in game-theory.",
   "definition": "Repetition & Incentives is a fundamental concept in game-theory.",
   "explanation": "Learn about Repetition & Incentives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "repetition-incentives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

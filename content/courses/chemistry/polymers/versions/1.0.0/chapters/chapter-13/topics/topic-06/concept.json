@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-06",
   "name": "Future Polymer Materials",
   "subject": "chemistry",
+  "summary": "Future Polymer Materials is a fundamental concept in chemistry.",
   "definition": "Future Polymer Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Future Polymer Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "future-polymer-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

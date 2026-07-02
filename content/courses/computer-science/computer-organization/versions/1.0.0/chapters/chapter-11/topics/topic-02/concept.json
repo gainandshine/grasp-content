@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-11.topic-02",
   "name": "Assembly Instructions",
   "subject": "computer-science",
+  "summary": "Assembly Instructions is a fundamental concept in computer-science.",
   "definition": "Assembly Instructions is a fundamental concept in computer-science.",
   "explanation": "Learn about Assembly Instructions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "assembly-instructions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

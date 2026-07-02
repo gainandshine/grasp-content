@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-09.topic-04",
   "name": "Risk Perception",
   "subject": "psychology",
+  "summary": "Risk Perception is a fundamental concept in psychology.",
   "definition": "Risk Perception is a fundamental concept in psychology.",
   "explanation": "Learn about Risk Perception and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "risk-perception"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

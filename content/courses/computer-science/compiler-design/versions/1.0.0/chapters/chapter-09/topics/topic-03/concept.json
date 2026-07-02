@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-09.topic-03",
   "name": "Objects",
   "subject": "computer-science",
+  "summary": "Objects is a fundamental concept in computer-science.",
   "definition": "Objects is a fundamental concept in computer-science.",
   "explanation": "Learn about Objects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "objects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

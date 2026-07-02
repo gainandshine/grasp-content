@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-07.topic-06",
   "name": "Justification",
   "subject": "philosophy",
+  "summary": "Justification is a fundamental concept in philosophy.",
   "definition": "Justification is a fundamental concept in philosophy.",
   "explanation": "Learn about Justification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "justification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

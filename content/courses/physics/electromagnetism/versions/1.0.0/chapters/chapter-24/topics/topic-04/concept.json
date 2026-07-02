@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-24.topic-04",
   "name": "Rectifiers",
   "subject": "physics",
+  "summary": "Rectifiers is a fundamental concept in physics.",
   "definition": "Rectifiers is a fundamental concept in physics.",
   "explanation": "Learn about Rectifiers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rectifiers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

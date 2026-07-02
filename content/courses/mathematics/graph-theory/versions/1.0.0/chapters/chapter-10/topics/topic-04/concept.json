@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-10.topic-04",
   "name": "Hall's Marriage Theorem",
   "subject": "mathematics",
+  "summary": "Hall's Marriage Theorem is a fundamental concept in mathematics.",
   "definition": "Hall's Marriage Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Hall's Marriage Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "halls-marriage-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

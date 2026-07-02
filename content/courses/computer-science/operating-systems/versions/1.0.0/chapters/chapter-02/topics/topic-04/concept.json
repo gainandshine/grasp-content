@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-02.topic-04",
   "name": "Process Creation & Termination",
   "subject": "computer-science",
+  "summary": "Process Creation & Termination is a fundamental concept in computer-science.",
   "definition": "Process Creation & Termination is a fundamental concept in computer-science.",
   "explanation": "Learn about Process Creation & Termination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "process-creation-termination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

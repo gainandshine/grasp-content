@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-11.topic-01",
   "name": "LLVM",
   "subject": "computer-science",
+  "summary": "LLVM is a fundamental concept in computer-science.",
   "definition": "LLVM is a fundamental concept in computer-science.",
   "explanation": "Learn about LLVM and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "llvm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

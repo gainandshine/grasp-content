@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-13.topic-14",
   "name": "Navigation",
   "subject": "computer-science",
+  "summary": "Navigation is a fundamental concept in computer-science.",
   "definition": "Navigation is a fundamental concept in computer-science.",
   "explanation": "Learn about Navigation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "navigation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

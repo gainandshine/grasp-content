@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-07.topic-06",
   "name": "Loss Functions",
   "subject": "computer-science",
+  "summary": "Loss Functions is a fundamental concept in computer-science.",
   "definition": "Loss Functions is a fundamental concept in computer-science.",
   "explanation": "Learn about Loss Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "loss-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

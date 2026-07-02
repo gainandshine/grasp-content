@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-10.topic-03",
   "name": "Team Resilience",
   "subject": "psychology",
+  "summary": "Team Resilience is a fundamental concept in psychology.",
   "definition": "Team Resilience is a fundamental concept in psychology.",
   "explanation": "Learn about Team Resilience and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "team-resilience"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

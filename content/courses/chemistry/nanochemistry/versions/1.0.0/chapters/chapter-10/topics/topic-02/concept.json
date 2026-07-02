@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-10.topic-02",
   "name": "Nanosensors",
   "subject": "chemistry",
+  "summary": "Nanosensors is a fundamental concept in chemistry.",
   "definition": "Nanosensors is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanosensors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanosensors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

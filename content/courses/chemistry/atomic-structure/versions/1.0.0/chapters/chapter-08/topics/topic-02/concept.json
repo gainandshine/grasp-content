@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-08.topic-02",
   "name": "Aufbau Principle",
   "subject": "chemistry",
+  "summary": "Aufbau Principle is a fundamental concept in chemistry.",
   "definition": "Aufbau Principle is a fundamental concept in chemistry.",
   "explanation": "Learn about Aufbau Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "aufbau-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

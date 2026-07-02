@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-10.topic-02",
   "name": "Scintillation Detector",
   "subject": "physics",
+  "summary": "Scintillation Detector is a fundamental concept in physics.",
   "definition": "Scintillation Detector is a fundamental concept in physics.",
   "explanation": "Learn about Scintillation Detector and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "scintillation-detector"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

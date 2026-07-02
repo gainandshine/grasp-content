@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-10.topic-06",
   "name": "Just-In-Time (JIT) Compilation",
   "subject": "computer-science",
+  "summary": "Just-In-Time (JIT) Compilation is a fundamental concept in computer-science.",
   "definition": "Just-In-Time (JIT) Compilation is a fundamental concept in computer-science.",
   "explanation": "Learn about Just-In-Time (JIT) Compilation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "just-in-time-jit-compilation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

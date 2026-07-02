@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-08.topic-02",
   "name": "Algorithms",
   "subject": "psychology",
+  "summary": "Algorithms is a fundamental concept in psychology.",
   "definition": "Algorithms is a fundamental concept in psychology.",
   "explanation": "Learn about Algorithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "algorithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

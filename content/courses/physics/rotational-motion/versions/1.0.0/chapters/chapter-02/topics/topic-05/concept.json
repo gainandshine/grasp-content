@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-02.topic-05",
   "name": "Rotational Equilibrium",
   "subject": "physics",
+  "summary": "Rotational Equilibrium is a fundamental concept in physics.",
   "definition": "Rotational Equilibrium is a fundamental concept in physics.",
   "explanation": "Learn about Rotational Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rotational-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

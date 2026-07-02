@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-01.topic-02",
   "name": "Branches of Physics",
   "subject": "physics",
+  "summary": "Branches of Physics is a fundamental concept in physics.",
   "definition": "Branches of Physics is a fundamental concept in physics.",
   "explanation": "Learn about Branches of Physics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "branches-of-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

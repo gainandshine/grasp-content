@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-02",
   "name": "Electromagnetism",
   "subject": "mathematics",
+  "summary": "Electromagnetism is a fundamental concept in mathematics.",
   "definition": "Electromagnetism is a fundamental concept in mathematics.",
   "explanation": "Learn about Electromagnetism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "electromagnetism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

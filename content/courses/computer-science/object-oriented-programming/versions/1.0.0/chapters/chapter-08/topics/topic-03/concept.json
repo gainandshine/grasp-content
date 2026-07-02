@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-08.topic-03",
   "name": "Composition",
   "subject": "computer-science",
+  "summary": "Composition is a fundamental concept in computer-science.",
   "definition": "Composition is a fundamental concept in computer-science.",
   "explanation": "Learn about Composition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "composition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

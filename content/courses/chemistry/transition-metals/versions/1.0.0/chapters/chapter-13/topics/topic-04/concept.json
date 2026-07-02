@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-13.topic-04",
   "name": "Transition Metal Nanomaterials",
   "subject": "chemistry",
+  "summary": "Transition Metal Nanomaterials is a fundamental concept in chemistry.",
   "definition": "Transition Metal Nanomaterials is a fundamental concept in chemistry.",
   "explanation": "Learn about Transition Metal Nanomaterials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "transition-metal-nanomaterials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

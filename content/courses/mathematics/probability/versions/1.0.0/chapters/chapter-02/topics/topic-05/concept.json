@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-02.topic-05",
   "name": "Circular Permutations",
   "subject": "mathematics",
+  "summary": "Circular Permutations is a fundamental concept in mathematics.",
   "definition": "Circular Permutations is a fundamental concept in mathematics.",
   "explanation": "Learn about Circular Permutations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "circular-permutations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

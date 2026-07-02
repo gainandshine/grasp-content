@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-03.topic-07",
   "name": "Sulfates",
   "subject": "chemistry",
+  "summary": "Sulfates is a fundamental concept in chemistry.",
   "definition": "Sulfates is a fundamental concept in chemistry.",
   "explanation": "Learn about Sulfates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sulfates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

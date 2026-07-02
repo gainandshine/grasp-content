@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-01.topic-06",
   "name": "Examples of Plasma",
   "subject": "physics",
+  "summary": "Examples of Plasma is a fundamental concept in physics.",
   "definition": "Examples of Plasma is a fundamental concept in physics.",
   "explanation": "Learn about Examples of Plasma and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "examples-of-plasma"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

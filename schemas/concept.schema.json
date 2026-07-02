@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Concept",
+  "description": "Atomic reusable learning unit. Aligned with mobile conceptNodes schema.",
+  "type": "object",
+  "required": ["id", "name", "subject", "domain", "definition"],
+  "properties": {
+    "id": { "type": "string", "description": "Unique ID: domain.courseId.chapterId.topicId" },
+    "name": { "type": "string" },
+    "subject": { "type": "string", "description": "e.g. physics, mathematics" },
+    "domain": { "type": "string", "description": "e.g. stem, humanities" },
+    "definition": { "type": "string", "minLength": 10 },
+    "summary": { "type": "string", "description": "1-sentence summary for cards/previews" },
+    "explanation": { "type": "string" },
+    "whyItMatters": { "type": "string" },
+    "memoryHook": { "type": "string" },
+    "learningType": {
+      "type": "string",
+      "enum": ["declarative", "procedural", "conceptual", "reflective", "analytical", "creative"],
+      "description": "Matches mobile learningType enum"
+    },
+    "difficulty": { "type": "string", "enum": ["beginner", "intermediate", "advanced"] },
+    "estimatedMinutes": { "type": "number", "minimum": 1 },
+    "prerequisites": { "type": "array", "items": { "type": "string" } },
+    "relatedConcepts": { "type": "array", "items": { "type": "string" } },
+    "visualizationIds": { "type": "array", "items": { "type": "string" } },
+    "quizIds": { "type": "array", "items": { "type": "string" } },
+    "flashcardIds": { "type": "array", "items": { "type": "string" } },
+    "exampleIds": { "type": "array", "items": { "type": "string" } },
+    "exerciseIds": { "type": "array", "items": { "type": "string" } },
+    "tags": { "type": "array", "items": { "type": "string" } }
+  }
+}

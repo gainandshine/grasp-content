@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-05.topic-05",
   "name": "Point-Slope Form",
   "subject": "mathematics",
+  "summary": "Point-Slope Form is a fundamental concept in mathematics.",
   "definition": "Point-Slope Form is a fundamental concept in mathematics.",
   "explanation": "Learn about Point-Slope Form and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "point-slope-form"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

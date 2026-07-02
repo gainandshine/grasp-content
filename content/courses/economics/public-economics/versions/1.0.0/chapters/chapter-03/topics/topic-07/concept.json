@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-03.topic-07",
   "name": "Coase Theorem",
   "subject": "economics",
+  "summary": "Coase Theorem is a fundamental concept in economics.",
   "definition": "Coase Theorem is a fundamental concept in economics.",
   "explanation": "Learn about Coase Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "coase-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

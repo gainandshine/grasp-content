@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-05.topic-05",
   "name": "File Storage",
   "subject": "computer-science",
+  "summary": "File Storage is a fundamental concept in computer-science.",
   "definition": "File Storage is a fundamental concept in computer-science.",
   "explanation": "Learn about File Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "file-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

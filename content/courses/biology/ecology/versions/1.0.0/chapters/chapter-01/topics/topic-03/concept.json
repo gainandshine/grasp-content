@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-01.topic-03",
   "name": "Habitat",
   "subject": "biology",
+  "summary": "Habitat is a fundamental concept in biology.",
   "definition": "Habitat is a fundamental concept in biology.",
   "explanation": "Learn about Habitat and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "habitat"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

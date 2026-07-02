@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-01.topic-02",
   "name": "Physical Properties",
   "subject": "chemistry",
+  "summary": "Physical Properties is a fundamental concept in chemistry.",
   "definition": "Physical Properties is a fundamental concept in chemistry.",
   "explanation": "Learn about Physical Properties and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "physical-properties"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

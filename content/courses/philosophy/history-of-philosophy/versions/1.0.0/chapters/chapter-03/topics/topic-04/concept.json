@@ -2,6 +2,7 @@
   "id": "philosophy.history-of-philosophy.chapter-03.topic-04",
   "name": "Cynicism",
   "subject": "philosophy",
+  "summary": "Cynicism is a fundamental concept in philosophy.",
   "definition": "Cynicism is a fundamental concept in philosophy.",
   "explanation": "Learn about Cynicism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "cynicism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

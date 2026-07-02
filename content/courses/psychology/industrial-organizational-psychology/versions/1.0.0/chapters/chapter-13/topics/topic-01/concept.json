@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-13.topic-01",
   "name": "People Analytics",
   "subject": "psychology",
+  "summary": "People Analytics is a fundamental concept in psychology.",
   "definition": "People Analytics is a fundamental concept in psychology.",
   "explanation": "Learn about People Analytics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "people-analytics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

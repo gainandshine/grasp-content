@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-13.topic-16",
   "name": "Bioinorganic Chemistry",
   "subject": "chemistry",
+  "summary": "Bioinorganic Chemistry is a fundamental concept in chemistry.",
   "definition": "Bioinorganic Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Bioinorganic Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bioinorganic-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

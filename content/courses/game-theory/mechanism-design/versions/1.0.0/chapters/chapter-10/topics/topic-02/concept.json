@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-10.topic-02",
   "name": "Approximation Algorithms",
   "subject": "game-theory",
+  "summary": "Approximation Algorithms is a fundamental concept in game-theory.",
   "definition": "Approximation Algorithms is a fundamental concept in game-theory.",
   "explanation": "Learn about Approximation Algorithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "approximation-algorithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

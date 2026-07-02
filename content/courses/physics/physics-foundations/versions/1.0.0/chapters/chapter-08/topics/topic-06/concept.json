@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-08.topic-06",
   "name": "Data Interpretation",
   "subject": "physics",
+  "summary": "Data Interpretation is a fundamental concept in physics.",
   "definition": "Data Interpretation is a fundamental concept in physics.",
   "explanation": "Learn about Data Interpretation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "data-interpretation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

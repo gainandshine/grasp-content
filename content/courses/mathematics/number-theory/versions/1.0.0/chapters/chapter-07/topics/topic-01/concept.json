@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-07.topic-01",
   "name": "Fermat's Little Theorem",
   "subject": "mathematics",
+  "summary": "Fermat's Little Theorem is a fundamental concept in mathematics.",
   "definition": "Fermat's Little Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Fermat's Little Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "fermats-little-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

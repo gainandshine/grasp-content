@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-11.topic-03",
   "name": "Consumer Behavior",
   "subject": "psychology",
+  "summary": "Consumer Behavior is a fundamental concept in psychology.",
   "definition": "Consumer Behavior is a fundamental concept in psychology.",
   "explanation": "Learn about Consumer Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "consumer-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

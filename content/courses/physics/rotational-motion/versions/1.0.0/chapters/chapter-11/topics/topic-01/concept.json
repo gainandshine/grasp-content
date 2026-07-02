@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-11.topic-01",
   "name": "Flywheels",
   "subject": "physics",
+  "summary": "Flywheels is a fundamental concept in physics.",
   "definition": "Flywheels is a fundamental concept in physics.",
   "explanation": "Learn about Flywheels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "flywheels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

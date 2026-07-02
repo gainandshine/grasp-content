@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-03.topic-06",
   "name": "Monopoly Regulation",
   "subject": "economics",
+  "summary": "Monopoly Regulation is a fundamental concept in economics.",
   "definition": "Monopoly Regulation is a fundamental concept in economics.",
   "explanation": "Learn about Monopoly Regulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "monopoly-regulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

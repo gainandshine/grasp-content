@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-08.topic-03",
   "name": "Velocity Selector",
   "subject": "physics",
+  "summary": "Velocity Selector is a fundamental concept in physics.",
   "definition": "Velocity Selector is a fundamental concept in physics.",
   "explanation": "Learn about Velocity Selector and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "velocity-selector"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

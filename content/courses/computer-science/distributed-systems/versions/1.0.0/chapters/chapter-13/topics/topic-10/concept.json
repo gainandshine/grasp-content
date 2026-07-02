@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-13.topic-10",
   "name": "Syntax Analysis",
   "subject": "computer-science",
+  "summary": "Syntax Analysis is a fundamental concept in computer-science.",
   "definition": "Syntax Analysis is a fundamental concept in computer-science.",
   "explanation": "Learn about Syntax Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "syntax-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

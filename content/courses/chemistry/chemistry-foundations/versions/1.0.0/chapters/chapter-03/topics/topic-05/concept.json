@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-03.topic-05",
   "name": "Melting Point",
   "subject": "chemistry",
+  "summary": "Melting Point is a fundamental concept in chemistry.",
   "definition": "Melting Point is a fundamental concept in chemistry.",
   "explanation": "Learn about Melting Point and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "melting-point"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

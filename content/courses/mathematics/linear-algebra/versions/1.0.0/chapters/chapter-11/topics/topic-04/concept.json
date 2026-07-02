@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-11.topic-04",
   "name": "Singular Value Decomposition (SVD)",
   "subject": "mathematics",
+  "summary": "Singular Value Decomposition (SVD) is a fundamental concept in mathematics.",
   "definition": "Singular Value Decomposition (SVD) is a fundamental concept in mathematics.",
   "explanation": "Learn about Singular Value Decomposition (SVD) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "singular-value-decomposition-svd"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-10.topic-02",
   "name": "Protein Structure Prediction",
   "subject": "chemistry",
+  "summary": "Protein Structure Prediction is a fundamental concept in chemistry.",
   "definition": "Protein Structure Prediction is a fundamental concept in chemistry.",
   "explanation": "Learn about Protein Structure Prediction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "protein-structure-prediction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

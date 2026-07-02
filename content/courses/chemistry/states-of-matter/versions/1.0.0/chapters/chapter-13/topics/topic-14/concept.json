@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-13.topic-14",
   "name": "Spontaneity",
   "subject": "chemistry",
+  "summary": "Spontaneity is a fundamental concept in chemistry.",
   "definition": "Spontaneity is a fundamental concept in chemistry.",
   "explanation": "Learn about Spontaneity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "spontaneity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

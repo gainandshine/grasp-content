@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-13.topic-13",
   "name": "Obedience",
   "subject": "psychology",
+  "summary": "Obedience is a fundamental concept in psychology.",
   "definition": "Obedience is a fundamental concept in psychology.",
   "explanation": "Learn about Obedience and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "obedience"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

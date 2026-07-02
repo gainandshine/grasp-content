@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-01.topic-01",
   "name": "What is Biological Psychology?",
   "subject": "psychology",
+  "summary": "What is Biological Psychology? is a fundamental concept in psychology.",
   "definition": "What is Biological Psychology? is a fundamental concept in psychology.",
   "explanation": "Learn about What is Biological Psychology? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "what-is-biological-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-02.topic-02",
   "name": "Difference Quotient",
   "subject": "mathematics",
+  "summary": "Difference Quotient is a fundamental concept in mathematics.",
   "definition": "Difference Quotient is a fundamental concept in mathematics.",
   "explanation": "Learn about Difference Quotient and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "difference-quotient"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

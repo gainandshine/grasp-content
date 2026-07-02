@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-07.topic-06",
   "name": "Product-to-Sum",
   "subject": "mathematics",
+  "summary": "Product-to-Sum is a fundamental concept in mathematics.",
   "definition": "Product-to-Sum is a fundamental concept in mathematics.",
   "explanation": "Learn about Product-to-Sum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "product-to-sum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

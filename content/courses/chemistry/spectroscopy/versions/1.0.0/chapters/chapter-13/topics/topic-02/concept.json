@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-13.topic-02",
   "name": "LC-MS",
   "subject": "chemistry",
+  "summary": "LC-MS is a fundamental concept in chemistry.",
   "definition": "LC-MS is a fundamental concept in chemistry.",
   "explanation": "Learn about LC-MS and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "lc-ms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

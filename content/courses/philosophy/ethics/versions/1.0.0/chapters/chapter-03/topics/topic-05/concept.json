@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-03.topic-05",
   "name": "Kantian Ethics",
   "subject": "philosophy",
+  "summary": "Kantian Ethics is a fundamental concept in philosophy.",
   "definition": "Kantian Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Kantian Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "kantian-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

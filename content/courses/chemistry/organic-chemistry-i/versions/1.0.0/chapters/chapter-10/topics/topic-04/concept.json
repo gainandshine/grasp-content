@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-10.topic-04",
   "name": "Electrophilic Aromatic Substitution",
   "subject": "chemistry",
+  "summary": "Electrophilic Aromatic Substitution is a fundamental concept in chemistry.",
   "definition": "Electrophilic Aromatic Substitution is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrophilic Aromatic Substitution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrophilic-aromatic-substitution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

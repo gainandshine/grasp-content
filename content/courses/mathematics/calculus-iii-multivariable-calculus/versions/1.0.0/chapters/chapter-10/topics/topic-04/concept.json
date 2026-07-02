@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-04",
   "name": "Potential Functions",
   "subject": "mathematics",
+  "summary": "Potential Functions is a fundamental concept in mathematics.",
   "definition": "Potential Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Potential Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "potential-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

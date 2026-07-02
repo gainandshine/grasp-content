@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-12.topic-07",
   "name": "*Course 6: Human Anatomy**",
   "subject": "biology",
+  "summary": "*Course 6: Human Anatomy** is a fundamental concept in biology.",
   "definition": "*Course 6: Human Anatomy** is a fundamental concept in biology.",
   "explanation": "Learn about *Course 6: Human Anatomy** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "course-6-human-anatomy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

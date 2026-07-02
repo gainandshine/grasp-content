@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-11.topic-05",
   "name": "Procedure Calls",
   "subject": "computer-science",
+  "summary": "Procedure Calls is a fundamental concept in computer-science.",
   "definition": "Procedure Calls is a fundamental concept in computer-science.",
   "explanation": "Learn about Procedure Calls and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "procedure-calls"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

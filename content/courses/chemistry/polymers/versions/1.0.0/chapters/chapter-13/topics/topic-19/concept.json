@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-19",
   "name": "Electrochemical Analysis",
   "subject": "chemistry",
+  "summary": "Electrochemical Analysis is a fundamental concept in chemistry.",
   "definition": "Electrochemical Analysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrochemical Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrochemical-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

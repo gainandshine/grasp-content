@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-08.topic-04",
   "name": "Cooperation",
   "subject": "psychology",
+  "summary": "Cooperation is a fundamental concept in psychology.",
   "definition": "Cooperation is a fundamental concept in psychology.",
   "explanation": "Learn about Cooperation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cooperation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

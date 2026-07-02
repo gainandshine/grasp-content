@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-08.topic-03",
   "name": "Genotype Frequency",
   "subject": "biology",
+  "summary": "Genotype Frequency is a fundamental concept in biology.",
   "definition": "Genotype Frequency is a fundamental concept in biology.",
   "explanation": "Learn about Genotype Frequency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genotype-frequency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-04.topic-04",
   "name": "Metallic Radius",
   "subject": "chemistry",
+  "summary": "Metallic Radius is a fundamental concept in chemistry.",
   "definition": "Metallic Radius is a fundamental concept in chemistry.",
   "explanation": "Learn about Metallic Radius and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metallic-radius"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

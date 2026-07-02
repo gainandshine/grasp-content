@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-01.topic-01",
   "name": "Coordination Compounds",
   "subject": "chemistry",
+  "summary": "Coordination Compounds is a fundamental concept in chemistry.",
   "definition": "Coordination Compounds is a fundamental concept in chemistry.",
   "explanation": "Learn about Coordination Compounds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "coordination-compounds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

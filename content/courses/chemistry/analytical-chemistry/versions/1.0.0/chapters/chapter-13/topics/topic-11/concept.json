@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-13.topic-11",
   "name": "Fluorescence Spectroscopy",
   "subject": "chemistry",
+  "summary": "Fluorescence Spectroscopy is a fundamental concept in chemistry.",
   "definition": "Fluorescence Spectroscopy is a fundamental concept in chemistry.",
   "explanation": "Learn about Fluorescence Spectroscopy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fluorescence-spectroscopy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

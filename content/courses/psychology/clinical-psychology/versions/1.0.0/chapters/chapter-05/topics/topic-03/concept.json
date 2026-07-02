@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-05.topic-03",
   "name": "Behavioral Activation",
   "subject": "psychology",
+  "summary": "Behavioral Activation is a fundamental concept in psychology.",
   "definition": "Behavioral Activation is a fundamental concept in psychology.",
   "explanation": "Learn about Behavioral Activation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "behavioral-activation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

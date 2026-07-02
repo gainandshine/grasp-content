@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-06.topic-02",
   "name": "Vertex Processing",
   "subject": "computer-science",
+  "summary": "Vertex Processing is a fundamental concept in computer-science.",
   "definition": "Vertex Processing is a fundamental concept in computer-science.",
   "explanation": "Learn about Vertex Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "vertex-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

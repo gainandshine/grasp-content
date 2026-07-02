@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-08.topic-04",
   "name": "Hardy-Weinberg Equilibrium",
   "subject": "biology",
+  "summary": "Hardy-Weinberg Equilibrium is a fundamental concept in biology.",
   "definition": "Hardy-Weinberg Equilibrium is a fundamental concept in biology.",
   "explanation": "Learn about Hardy-Weinberg Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "hardy-weinberg-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

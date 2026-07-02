@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-01.topic-06",
   "name": "Network Performance Metrics",
   "subject": "computer-science",
+  "summary": "Network Performance Metrics is a fundamental concept in computer-science.",
   "definition": "Network Performance Metrics is a fundamental concept in computer-science.",
   "explanation": "Learn about Network Performance Metrics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "network-performance-metrics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

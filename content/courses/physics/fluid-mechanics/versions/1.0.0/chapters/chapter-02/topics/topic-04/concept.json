@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-02.topic-04",
   "name": "Hydraulic Systems",
   "subject": "physics",
+  "summary": "Hydraulic Systems is a fundamental concept in physics.",
   "definition": "Hydraulic Systems is a fundamental concept in physics.",
   "explanation": "Learn about Hydraulic Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hydraulic-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

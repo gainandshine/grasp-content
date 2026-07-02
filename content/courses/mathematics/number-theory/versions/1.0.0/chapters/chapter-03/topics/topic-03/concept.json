@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-03.topic-03",
   "name": "Modular Addition",
   "subject": "mathematics",
+  "summary": "Modular Addition is a fundamental concept in mathematics.",
   "definition": "Modular Addition is a fundamental concept in mathematics.",
   "explanation": "Learn about Modular Addition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "modular-addition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

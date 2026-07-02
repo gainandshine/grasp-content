@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-03.topic-03",
   "name": "Expression",
   "subject": "philosophy",
+  "summary": "Expression is a fundamental concept in philosophy.",
   "definition": "Expression is a fundamental concept in philosophy.",
   "explanation": "Learn about Expression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "expression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-07.topic-06",
   "name": "Strategy Comparison",
   "subject": "game-theory",
+  "summary": "Strategy Comparison is a fundamental concept in game-theory.",
   "definition": "Strategy Comparison is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategy Comparison and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategy-comparison"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

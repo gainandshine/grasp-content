@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-06.topic-02",
   "name": "Synthetic Rubber",
   "subject": "chemistry",
+  "summary": "Synthetic Rubber is a fundamental concept in chemistry.",
   "definition": "Synthetic Rubber is a fundamental concept in chemistry.",
   "explanation": "Learn about Synthetic Rubber and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "synthetic-rubber"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

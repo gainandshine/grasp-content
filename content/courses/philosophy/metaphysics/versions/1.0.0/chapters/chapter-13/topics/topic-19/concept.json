@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-13.topic-19",
   "name": "Global Ethics",
   "subject": "philosophy",
+  "summary": "Global Ethics is a fundamental concept in philosophy.",
   "definition": "Global Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Global Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "global-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

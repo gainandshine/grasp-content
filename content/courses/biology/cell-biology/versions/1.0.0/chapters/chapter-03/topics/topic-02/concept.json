@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-03.topic-02",
   "name": "Nucleolus",
   "subject": "biology",
+  "summary": "Nucleolus is a fundamental concept in biology.",
   "definition": "Nucleolus is a fundamental concept in biology.",
   "explanation": "Learn about Nucleolus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "nucleolus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

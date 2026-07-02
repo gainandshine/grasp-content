@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-07.topic-03",
   "name": "Surface Functionalization",
   "subject": "chemistry",
+  "summary": "Surface Functionalization is a fundamental concept in chemistry.",
   "definition": "Surface Functionalization is a fundamental concept in chemistry.",
   "explanation": "Learn about Surface Functionalization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "surface-functionalization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

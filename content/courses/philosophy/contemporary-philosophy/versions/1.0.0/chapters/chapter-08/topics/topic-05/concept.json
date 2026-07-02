@@ -2,6 +2,7 @@
   "id": "philosophy.contemporary-philosophy.chapter-08.topic-05",
   "name": "Climate Justice",
   "subject": "philosophy",
+  "summary": "Climate Justice is a fundamental concept in philosophy.",
   "definition": "Climate Justice is a fundamental concept in philosophy.",
   "explanation": "Learn about Climate Justice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "climate-justice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

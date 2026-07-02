@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-04.topic-03",
   "name": "Semiconductor Nanocrystals",
   "subject": "chemistry",
+  "summary": "Semiconductor Nanocrystals is a fundamental concept in chemistry.",
   "definition": "Semiconductor Nanocrystals is a fundamental concept in chemistry.",
   "explanation": "Learn about Semiconductor Nanocrystals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "semiconductor-nanocrystals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.waves-sound.chapter-03.topic-05",
   "name": "Absorption",
   "subject": "physics",
+  "summary": "Absorption is a fundamental concept in physics.",
   "definition": "Absorption is a fundamental concept in physics.",
   "explanation": "Learn about Absorption and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "absorption"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

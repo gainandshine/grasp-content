@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-08.topic-06",
   "name": "Performance-Based Compensation",
   "subject": "game-theory",
+  "summary": "Performance-Based Compensation is a fundamental concept in game-theory.",
   "definition": "Performance-Based Compensation is a fundamental concept in game-theory.",
   "explanation": "Learn about Performance-Based Compensation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "performance-based-compensation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

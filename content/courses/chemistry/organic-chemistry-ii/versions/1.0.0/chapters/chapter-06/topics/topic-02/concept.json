@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-06.topic-02",
   "name": "Acid Anhydrides",
   "subject": "chemistry",
+  "summary": "Acid Anhydrides is a fundamental concept in chemistry.",
   "definition": "Acid Anhydrides is a fundamental concept in chemistry.",
   "explanation": "Learn about Acid Anhydrides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "acid-anhydrides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

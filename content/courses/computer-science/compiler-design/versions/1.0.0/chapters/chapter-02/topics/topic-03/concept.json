@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-02.topic-03",
   "name": "Lexemes",
   "subject": "computer-science",
+  "summary": "Lexemes is a fundamental concept in computer-science.",
   "definition": "Lexemes is a fundamental concept in computer-science.",
   "explanation": "Learn about Lexemes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "lexemes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

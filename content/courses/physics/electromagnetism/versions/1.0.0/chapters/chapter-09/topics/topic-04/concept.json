@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-09.topic-04",
   "name": "RLC Circuits",
   "subject": "physics",
+  "summary": "RLC Circuits is a fundamental concept in physics.",
   "definition": "RLC Circuits is a fundamental concept in physics.",
   "explanation": "Learn about RLC Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rlc-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

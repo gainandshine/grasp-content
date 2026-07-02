@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-02.topic-03",
   "name": "Cations",
   "subject": "chemistry",
+  "summary": "Cations is a fundamental concept in chemistry.",
   "definition": "Cations is a fundamental concept in chemistry.",
   "explanation": "Learn about Cations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

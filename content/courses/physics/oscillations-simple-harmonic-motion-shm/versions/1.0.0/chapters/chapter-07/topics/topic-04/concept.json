@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-04",
   "name": "Steady-State Motion",
   "subject": "physics",
+  "summary": "Steady-State Motion is a fundamental concept in physics.",
   "definition": "Steady-State Motion is a fundamental concept in physics.",
   "explanation": "Learn about Steady-State Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "steady-state-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

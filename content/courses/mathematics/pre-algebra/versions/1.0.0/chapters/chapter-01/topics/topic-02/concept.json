@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-01.topic-02",
   "name": "Constants",
   "subject": "mathematics",
+  "summary": "Constants is a fundamental concept in mathematics.",
   "definition": "Constants is a fundamental concept in mathematics.",
   "explanation": "Learn about Constants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "constants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

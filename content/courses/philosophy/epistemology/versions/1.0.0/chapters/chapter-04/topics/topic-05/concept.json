@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-04.topic-05",
   "name": "A Posteriori Knowledge",
   "subject": "philosophy",
+  "summary": "A Posteriori Knowledge is a fundamental concept in philosophy.",
   "definition": "A Posteriori Knowledge is a fundamental concept in philosophy.",
   "explanation": "Learn about A Posteriori Knowledge and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "a-posteriori-knowledge"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-01.topic-05",
   "name": "Evaluating Functions",
   "subject": "mathematics",
+  "summary": "Evaluating Functions is a fundamental concept in mathematics.",
   "definition": "Evaluating Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Evaluating Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "evaluating-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

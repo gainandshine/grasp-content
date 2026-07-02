@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-04.topic-01",
   "name": "Invertible Matrices",
   "subject": "mathematics",
+  "summary": "Invertible Matrices is a fundamental concept in mathematics.",
   "definition": "Invertible Matrices is a fundamental concept in mathematics.",
   "explanation": "Learn about Invertible Matrices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "invertible-matrices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-02.topic-04",
   "name": "Non-Inertial Frames",
   "subject": "physics",
+  "summary": "Non-Inertial Frames is a fundamental concept in physics.",
   "definition": "Non-Inertial Frames is a fundamental concept in physics.",
   "explanation": "Learn about Non-Inertial Frames and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "non-inertial-frames"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

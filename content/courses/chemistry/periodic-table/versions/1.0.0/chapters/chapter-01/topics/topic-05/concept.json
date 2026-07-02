@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-01.topic-05",
   "name": "Moseley's Atomic Number",
   "subject": "chemistry",
+  "summary": "Moseley's Atomic Number is a fundamental concept in chemistry.",
   "definition": "Moseley's Atomic Number is a fundamental concept in chemistry.",
   "explanation": "Learn about Moseley's Atomic Number and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "moseleys-atomic-number"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-09.topic-01",
   "name": "Sleep Stages",
   "subject": "psychology",
+  "summary": "Sleep Stages is a fundamental concept in psychology.",
   "definition": "Sleep Stages is a fundamental concept in psychology.",
   "explanation": "Learn about Sleep Stages and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "sleep-stages"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

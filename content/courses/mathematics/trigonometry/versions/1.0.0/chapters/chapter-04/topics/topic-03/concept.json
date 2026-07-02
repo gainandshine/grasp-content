@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-04.topic-03",
   "name": "Amplitude",
   "subject": "mathematics",
+  "summary": "Amplitude is a fundamental concept in mathematics.",
   "definition": "Amplitude is a fundamental concept in mathematics.",
   "explanation": "Learn about Amplitude and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "amplitude"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-02.topic-05",
   "name": "Dimensional Analysis",
   "subject": "physics",
+  "summary": "Dimensional Analysis is a fundamental concept in physics.",
   "definition": "Dimensional Analysis is a fundamental concept in physics.",
   "explanation": "Learn about Dimensional Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "dimensional-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

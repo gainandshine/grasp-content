@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-08.topic-03",
   "name": "Scatter Plots",
   "subject": "psychology",
+  "summary": "Scatter Plots is a fundamental concept in psychology.",
   "definition": "Scatter Plots is a fundamental concept in psychology.",
   "explanation": "Learn about Scatter Plots and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "scatter-plots"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

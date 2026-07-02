@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-04.topic-07",
   "name": "Buses",
   "subject": "computer-science",
+  "summary": "Buses is a fundamental concept in computer-science.",
   "definition": "Buses is a fundamental concept in computer-science.",
   "explanation": "Learn about Buses and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "buses"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

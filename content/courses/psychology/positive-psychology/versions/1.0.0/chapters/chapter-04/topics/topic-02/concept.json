@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-04.topic-02",
   "name": "Virtues",
   "subject": "psychology",
+  "summary": "Virtues is a fundamental concept in psychology.",
   "definition": "Virtues is a fundamental concept in psychology.",
   "explanation": "Learn about Virtues and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "virtues"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-10.topic-02",
   "name": "Metal-Carbon Bonds",
   "subject": "chemistry",
+  "summary": "Metal-Carbon Bonds is a fundamental concept in chemistry.",
   "definition": "Metal-Carbon Bonds is a fundamental concept in chemistry.",
   "explanation": "Learn about Metal-Carbon Bonds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metal-carbon-bonds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

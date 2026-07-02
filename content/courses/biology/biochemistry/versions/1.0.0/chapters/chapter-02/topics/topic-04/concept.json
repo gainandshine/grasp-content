@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-02.topic-04",
   "name": "Protein Folding",
   "subject": "biology",
+  "summary": "Protein Folding is a fundamental concept in biology.",
   "definition": "Protein Folding is a fundamental concept in biology.",
   "explanation": "Learn about Protein Folding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "protein-folding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-14.topic-01",
   "name": "Integrated Circuits",
   "subject": "physics",
+  "summary": "Integrated Circuits is a fundamental concept in physics.",
   "definition": "Integrated Circuits is a fundamental concept in physics.",
   "explanation": "Learn about Integrated Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "integrated-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

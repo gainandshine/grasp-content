@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-03.topic-10",
   "name": "Chloroplasts",
   "subject": "biology",
+  "summary": "Chloroplasts is a fundamental concept in biology.",
   "definition": "Chloroplasts is a fundamental concept in biology.",
   "explanation": "Learn about Chloroplasts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "chloroplasts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

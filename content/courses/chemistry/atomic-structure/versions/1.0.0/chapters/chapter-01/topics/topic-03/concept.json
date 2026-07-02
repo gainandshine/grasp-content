@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-01.topic-03",
   "name": "Thomson's Atomic Model",
   "subject": "chemistry",
+  "summary": "Thomson's Atomic Model is a fundamental concept in chemistry.",
   "definition": "Thomson's Atomic Model is a fundamental concept in chemistry.",
   "explanation": "Learn about Thomson's Atomic Model and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "thomsons-atomic-model"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

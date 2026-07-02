@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-01.topic-05",
   "name": "Strategic Planning",
   "subject": "game-theory",
+  "summary": "Strategic Planning is a fundamental concept in game-theory.",
   "definition": "Strategic Planning is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Planning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-planning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

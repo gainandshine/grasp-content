@@ -2,6 +2,7 @@
   "id": "economics.behavioral-economics.chapter-07.topic-03",
   "name": "Altruism",
   "subject": "economics",
+  "summary": "Altruism is a fundamental concept in economics.",
   "definition": "Altruism is a fundamental concept in economics.",
   "explanation": "Learn about Altruism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "altruism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-09.topic-05",
   "name": "Kinetic vs Thermodynamic Stability",
   "subject": "chemistry",
+  "summary": "Kinetic vs Thermodynamic Stability is a fundamental concept in chemistry.",
   "definition": "Kinetic vs Thermodynamic Stability is a fundamental concept in chemistry.",
   "explanation": "Learn about Kinetic vs Thermodynamic Stability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "kinetic-vs-thermodynamic-stability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

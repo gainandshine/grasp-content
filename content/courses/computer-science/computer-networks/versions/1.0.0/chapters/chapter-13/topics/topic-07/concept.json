@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-07",
   "name": "Distributed Applications",
   "subject": "computer-science",
+  "summary": "Distributed Applications is a fundamental concept in computer-science.",
   "definition": "Distributed Applications is a fundamental concept in computer-science.",
   "explanation": "Learn about Distributed Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "distributed-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

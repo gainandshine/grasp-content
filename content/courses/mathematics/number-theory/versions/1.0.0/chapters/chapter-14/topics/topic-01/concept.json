@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-14.topic-01",
   "name": "Cryptography",
   "subject": "mathematics",
+  "summary": "Cryptography is a fundamental concept in mathematics.",
   "definition": "Cryptography is a fundamental concept in mathematics.",
   "explanation": "Learn about Cryptography and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "cryptography"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

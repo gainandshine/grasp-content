@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-03.topic-06",
   "name": "Data Integration",
   "subject": "computer-science",
+  "summary": "Data Integration is a fundamental concept in computer-science.",
   "definition": "Data Integration is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Integration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-integration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

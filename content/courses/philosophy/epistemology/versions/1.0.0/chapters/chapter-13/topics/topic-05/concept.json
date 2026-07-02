@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-13.topic-05",
   "name": "Knowledge in the Age of AI",
   "subject": "philosophy",
+  "summary": "Knowledge in the Age of AI is a fundamental concept in philosophy.",
   "definition": "Knowledge in the Age of AI is a fundamental concept in philosophy.",
   "explanation": "Learn about Knowledge in the Age of AI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "knowledge-in-the-age-of-ai"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

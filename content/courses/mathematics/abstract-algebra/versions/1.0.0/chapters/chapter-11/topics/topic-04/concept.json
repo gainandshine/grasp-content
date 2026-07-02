@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-11.topic-04",
   "name": "Classical Construction Problems",
   "subject": "mathematics",
+  "summary": "Classical Construction Problems is a fundamental concept in mathematics.",
   "definition": "Classical Construction Problems is a fundamental concept in mathematics.",
   "explanation": "Learn about Classical Construction Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "classical-construction-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

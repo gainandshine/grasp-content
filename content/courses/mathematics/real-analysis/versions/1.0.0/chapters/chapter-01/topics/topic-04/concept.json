@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-01.topic-04",
   "name": "Completeness Axiom",
   "subject": "mathematics",
+  "summary": "Completeness Axiom is a fundamental concept in mathematics.",
   "definition": "Completeness Axiom is a fundamental concept in mathematics.",
   "explanation": "Learn about Completeness Axiom and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "completeness-axiom"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

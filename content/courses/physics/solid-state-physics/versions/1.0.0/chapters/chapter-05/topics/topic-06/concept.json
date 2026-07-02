@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-05.topic-06",
   "name": "Density of States",
   "subject": "physics",
+  "summary": "Density of States is a fundamental concept in physics.",
   "definition": "Density of States is a fundamental concept in physics.",
   "explanation": "Learn about Density of States and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "density-of-states"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

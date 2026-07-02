@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-13.topic-20",
   "name": "Security Governance",
   "subject": "computer-science",
+  "summary": "Security Governance is a fundamental concept in computer-science.",
   "definition": "Security Governance is a fundamental concept in computer-science.",
   "explanation": "Learn about Security Governance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "security-governance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

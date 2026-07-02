@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-11.topic-02",
   "name": "Workplace Learning",
   "subject": "psychology",
+  "summary": "Workplace Learning is a fundamental concept in psychology.",
   "definition": "Workplace Learning is a fundamental concept in psychology.",
   "explanation": "Learn about Workplace Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "workplace-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

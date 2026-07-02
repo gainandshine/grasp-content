@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-03.topic-02",
   "name": "Saturated Fats",
   "subject": "chemistry",
+  "summary": "Saturated Fats is a fundamental concept in chemistry.",
   "definition": "Saturated Fats is a fundamental concept in chemistry.",
   "explanation": "Learn about Saturated Fats and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "saturated-fats"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

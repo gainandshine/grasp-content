@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-15.topic-02",
   "name": "Unit Circle (Introduction)",
   "subject": "mathematics",
+  "summary": "Unit Circle (Introduction) is a fundamental concept in mathematics.",
   "definition": "Unit Circle (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Unit Circle (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "unit-circle-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

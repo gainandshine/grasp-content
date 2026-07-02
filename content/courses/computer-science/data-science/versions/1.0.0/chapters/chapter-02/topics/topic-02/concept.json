@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-02.topic-02",
   "name": "Databases",
   "subject": "computer-science",
+  "summary": "Databases is a fundamental concept in computer-science.",
   "definition": "Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

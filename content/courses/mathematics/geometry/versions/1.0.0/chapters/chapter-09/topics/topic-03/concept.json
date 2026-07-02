@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-09.topic-03",
   "name": "Regular Polygons",
   "subject": "mathematics",
+  "summary": "Regular Polygons is a fundamental concept in mathematics.",
   "definition": "Regular Polygons is a fundamental concept in mathematics.",
   "explanation": "Learn about Regular Polygons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "regular-polygons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

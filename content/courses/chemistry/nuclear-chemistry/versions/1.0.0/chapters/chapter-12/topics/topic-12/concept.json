@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-12.topic-12",
   "name": "Fertilizers",
   "subject": "chemistry",
+  "summary": "Fertilizers is a fundamental concept in chemistry.",
   "definition": "Fertilizers is a fundamental concept in chemistry.",
   "explanation": "Learn about Fertilizers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fertilizers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

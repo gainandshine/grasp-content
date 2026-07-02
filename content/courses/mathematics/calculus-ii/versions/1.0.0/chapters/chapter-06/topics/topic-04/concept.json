@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-06.topic-04",
   "name": "Ratio Test",
   "subject": "mathematics",
+  "summary": "Ratio Test is a fundamental concept in mathematics.",
   "definition": "Ratio Test is a fundamental concept in mathematics.",
   "explanation": "Learn about Ratio Test and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "ratio-test"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

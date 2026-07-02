@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-07.topic-05",
   "name": "Win-Stay Lose-Shift",
   "subject": "game-theory",
+  "summary": "Win-Stay Lose-Shift is a fundamental concept in game-theory.",
   "definition": "Win-Stay Lose-Shift is a fundamental concept in game-theory.",
   "explanation": "Learn about Win-Stay Lose-Shift and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "win-stay-lose-shift"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

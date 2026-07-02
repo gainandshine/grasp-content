@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-05.topic-05",
   "name": "Intermediate Representations (IR)",
   "subject": "computer-science",
+  "summary": "Intermediate Representations (IR) is a fundamental concept in computer-science.",
   "definition": "Intermediate Representations (IR) is a fundamental concept in computer-science.",
   "explanation": "Learn about Intermediate Representations (IR) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "intermediate-representations-ir"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

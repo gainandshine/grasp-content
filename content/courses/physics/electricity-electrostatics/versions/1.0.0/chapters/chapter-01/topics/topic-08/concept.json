@@ -2,6 +2,7 @@
   "id": "physics.electricity-electrostatics.chapter-01.topic-08",
   "name": "Semiconductors (Introduction)",
   "subject": "physics",
+  "summary": "Semiconductors (Introduction) is a fundamental concept in physics.",
   "definition": "Semiconductors (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Semiconductors (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "semiconductors-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

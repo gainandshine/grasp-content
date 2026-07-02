@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-03.topic-05",
   "name": "Signals",
   "subject": "computer-science",
+  "summary": "Signals is a fundamental concept in computer-science.",
   "definition": "Signals is a fundamental concept in computer-science.",
   "explanation": "Learn about Signals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "signals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

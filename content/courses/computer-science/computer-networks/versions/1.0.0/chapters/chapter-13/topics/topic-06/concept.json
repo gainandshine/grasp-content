@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-06",
   "name": "Online Gaming",
   "subject": "computer-science",
+  "summary": "Online Gaming is a fundamental concept in computer-science.",
   "definition": "Online Gaming is a fundamental concept in computer-science.",
   "explanation": "Learn about Online Gaming and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "online-gaming"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

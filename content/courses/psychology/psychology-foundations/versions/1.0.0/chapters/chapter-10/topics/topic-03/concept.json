@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-10.topic-03",
   "name": "Goals",
   "subject": "psychology",
+  "summary": "Goals is a fundamental concept in psychology.",
   "definition": "Goals is a fundamental concept in psychology.",
   "explanation": "Learn about Goals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "goals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

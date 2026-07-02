@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-11.topic-03",
   "name": "Sports Training",
   "subject": "psychology",
+  "summary": "Sports Training is a fundamental concept in psychology.",
   "definition": "Sports Training is a fundamental concept in psychology.",
   "explanation": "Learn about Sports Training and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "sports-training"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

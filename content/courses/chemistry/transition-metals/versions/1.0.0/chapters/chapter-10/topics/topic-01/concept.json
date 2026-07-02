@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-10.topic-01",
   "name": "Lanthanides",
   "subject": "chemistry",
+  "summary": "Lanthanides is a fundamental concept in chemistry.",
   "definition": "Lanthanides is a fundamental concept in chemistry.",
   "explanation": "Learn about Lanthanides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "lanthanides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

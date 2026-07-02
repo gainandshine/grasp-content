@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-08.topic-02",
   "name": "Ore Concentration",
   "subject": "chemistry",
+  "summary": "Ore Concentration is a fundamental concept in chemistry.",
   "definition": "Ore Concentration is a fundamental concept in chemistry.",
   "explanation": "Learn about Ore Concentration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ore-concentration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

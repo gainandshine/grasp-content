@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-08.topic-03",
   "name": "Customs Unions",
   "subject": "economics",
+  "summary": "Customs Unions is a fundamental concept in economics.",
   "definition": "Customs Unions is a fundamental concept in economics.",
   "explanation": "Learn about Customs Unions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "customs-unions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

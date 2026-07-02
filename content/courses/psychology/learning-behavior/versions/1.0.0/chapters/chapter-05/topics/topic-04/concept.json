@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-05.topic-04",
   "name": "Vicarious Reinforcement",
   "subject": "psychology",
+  "summary": "Vicarious Reinforcement is a fundamental concept in psychology.",
   "definition": "Vicarious Reinforcement is a fundamental concept in psychology.",
   "explanation": "Learn about Vicarious Reinforcement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "vicarious-reinforcement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

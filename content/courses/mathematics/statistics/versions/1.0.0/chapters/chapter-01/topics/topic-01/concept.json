@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-01.topic-01",
   "name": "What is Statistics?",
   "subject": "mathematics",
+  "summary": "What is Statistics? is a fundamental concept in mathematics.",
   "definition": "What is Statistics? is a fundamental concept in mathematics.",
   "explanation": "Learn about What is Statistics? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "what-is-statistics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

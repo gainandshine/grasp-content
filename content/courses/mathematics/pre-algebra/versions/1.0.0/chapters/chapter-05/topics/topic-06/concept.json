@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-05.topic-06",
   "name": "Interest",
   "subject": "mathematics",
+  "summary": "Interest is a fundamental concept in mathematics.",
   "definition": "Interest is a fundamental concept in mathematics.",
   "explanation": "Learn about Interest and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "interest"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

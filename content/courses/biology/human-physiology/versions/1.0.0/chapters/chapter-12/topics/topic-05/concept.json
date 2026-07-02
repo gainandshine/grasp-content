@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-12.topic-05",
   "name": "High-Altitude Physiology",
   "subject": "biology",
+  "summary": "High-Altitude Physiology is a fundamental concept in biology.",
   "definition": "High-Altitude Physiology is a fundamental concept in biology.",
   "explanation": "Learn about High-Altitude Physiology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "high-altitude-physiology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

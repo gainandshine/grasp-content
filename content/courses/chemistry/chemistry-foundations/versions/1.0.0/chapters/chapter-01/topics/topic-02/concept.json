@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-01.topic-02",
   "name": "Branches of Chemistry",
   "subject": "chemistry",
+  "summary": "Branches of Chemistry is a fundamental concept in chemistry.",
   "definition": "Branches of Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Branches of Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "branches-of-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-10.topic-04",
   "name": "Purity Determination",
   "subject": "chemistry",
+  "summary": "Purity Determination is a fundamental concept in chemistry.",
   "definition": "Purity Determination is a fundamental concept in chemistry.",
   "explanation": "Learn about Purity Determination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "purity-determination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

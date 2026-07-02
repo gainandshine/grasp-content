@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-01.topic-04",
   "name": "Directed Graphs",
   "subject": "mathematics",
+  "summary": "Directed Graphs is a fundamental concept in mathematics.",
   "definition": "Directed Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Directed Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "directed-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

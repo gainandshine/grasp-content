@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-11.topic-02",
   "name": "Fuels",
   "subject": "chemistry",
+  "summary": "Fuels is a fundamental concept in chemistry.",
   "definition": "Fuels is a fundamental concept in chemistry.",
   "explanation": "Learn about Fuels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fuels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

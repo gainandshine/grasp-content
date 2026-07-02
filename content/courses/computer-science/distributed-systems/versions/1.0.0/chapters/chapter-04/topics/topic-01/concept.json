@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-04.topic-01",
   "name": "Data Replication",
   "subject": "computer-science",
+  "summary": "Data Replication is a fundamental concept in computer-science.",
   "definition": "Data Replication is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Replication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-replication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

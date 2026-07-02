@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-01.topic-01",
   "name": "What is Positive Psychology?",
   "subject": "psychology",
+  "summary": "What is Positive Psychology? is a fundamental concept in psychology.",
   "definition": "What is Positive Psychology? is a fundamental concept in psychology.",
   "explanation": "Learn about What is Positive Psychology? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "what-is-positive-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

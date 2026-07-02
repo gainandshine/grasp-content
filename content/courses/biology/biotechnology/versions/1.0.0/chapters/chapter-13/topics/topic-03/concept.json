@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-03",
   "name": "Xenotransplantation",
   "subject": "biology",
+  "summary": "Xenotransplantation is a fundamental concept in biology.",
   "definition": "Xenotransplantation is a fundamental concept in biology.",
   "explanation": "Learn about Xenotransplantation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "xenotransplantation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

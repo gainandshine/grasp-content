@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-09.topic-07",
   "name": "Scalable Analytics",
   "subject": "computer-science",
+  "summary": "Scalable Analytics is a fundamental concept in computer-science.",
   "definition": "Scalable Analytics is a fundamental concept in computer-science.",
   "explanation": "Learn about Scalable Analytics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scalable-analytics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

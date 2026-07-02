@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-02.topic-03",
   "name": "Grand Coalition",
   "subject": "game-theory",
+  "summary": "Grand Coalition is a fundamental concept in game-theory.",
   "definition": "Grand Coalition is a fundamental concept in game-theory.",
   "explanation": "Learn about Grand Coalition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "grand-coalition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

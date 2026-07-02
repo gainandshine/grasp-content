@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-05.topic-03",
   "name": "Universal Quantifier",
   "subject": "philosophy",
+  "summary": "Universal Quantifier is a fundamental concept in philosophy.",
   "definition": "Universal Quantifier is a fundamental concept in philosophy.",
   "explanation": "Learn about Universal Quantifier and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "universal-quantifier"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

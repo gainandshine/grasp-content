@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-03.topic-01",
   "name": "Project Structure",
   "subject": "computer-science",
+  "summary": "Project Structure is a fundamental concept in computer-science.",
   "definition": "Project Structure is a fundamental concept in computer-science.",
   "explanation": "Learn about Project Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "project-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

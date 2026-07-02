@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-11",
   "name": "Archaea",
   "subject": "biology",
+  "summary": "Archaea is a fundamental concept in biology.",
   "definition": "Archaea is a fundamental concept in biology.",
   "explanation": "Learn about Archaea and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "archaea"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

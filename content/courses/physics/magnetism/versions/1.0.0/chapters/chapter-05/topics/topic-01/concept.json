@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-05.topic-01",
   "name": "Diamagnetic Materials",
   "subject": "physics",
+  "summary": "Diamagnetic Materials is a fundamental concept in physics.",
   "definition": "Diamagnetic Materials is a fundamental concept in physics.",
   "explanation": "Learn about Diamagnetic Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "diamagnetic-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

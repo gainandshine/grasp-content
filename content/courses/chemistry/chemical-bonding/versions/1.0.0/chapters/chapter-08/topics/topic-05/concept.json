@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-08.topic-05",
   "name": "Ductility",
   "subject": "chemistry",
+  "summary": "Ductility is a fundamental concept in chemistry.",
   "definition": "Ductility is a fundamental concept in chemistry.",
   "explanation": "Learn about Ductility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ductility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

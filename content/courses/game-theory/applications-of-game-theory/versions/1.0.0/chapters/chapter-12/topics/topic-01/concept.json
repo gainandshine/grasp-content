@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-12.topic-01",
   "name": "Blockchain & Web3",
   "subject": "game-theory",
+  "summary": "Blockchain & Web3 is a fundamental concept in game-theory.",
   "definition": "Blockchain & Web3 is a fundamental concept in game-theory.",
   "explanation": "Learn about Blockchain & Web3 and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "blockchain-web3"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

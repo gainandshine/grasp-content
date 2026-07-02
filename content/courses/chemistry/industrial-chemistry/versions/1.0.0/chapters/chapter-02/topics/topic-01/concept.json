@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-02.topic-01",
   "name": "Unit Operations",
   "subject": "chemistry",
+  "summary": "Unit Operations is a fundamental concept in chemistry.",
   "definition": "Unit Operations is a fundamental concept in chemistry.",
   "explanation": "Learn about Unit Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "unit-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

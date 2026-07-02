@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-02.topic-01",
   "name": "Selective Attention",
   "subject": "psychology",
+  "summary": "Selective Attention is a fundamental concept in psychology.",
   "definition": "Selective Attention is a fundamental concept in psychology.",
   "explanation": "Learn about Selective Attention and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "selective-attention"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-06.topic-05",
   "name": "Distributed Coordination",
   "subject": "computer-science",
+  "summary": "Distributed Coordination is a fundamental concept in computer-science.",
   "definition": "Distributed Coordination is a fundamental concept in computer-science.",
   "explanation": "Learn about Distributed Coordination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "distributed-coordination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

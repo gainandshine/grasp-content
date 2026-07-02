@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-01.topic-05",
   "name": "Personality Research",
   "subject": "psychology",
+  "summary": "Personality Research is a fundamental concept in psychology.",
   "definition": "Personality Research is a fundamental concept in psychology.",
   "explanation": "Learn about Personality Research and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "personality-research"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

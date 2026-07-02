@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-02.topic-01",
   "name": "Biological Fitness",
   "subject": "game-theory",
+  "summary": "Biological Fitness is a fundamental concept in game-theory.",
   "definition": "Biological Fitness is a fundamental concept in game-theory.",
   "explanation": "Learn about Biological Fitness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "biological-fitness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-10.topic-01",
   "name": "Compact Sets",
   "subject": "mathematics",
+  "summary": "Compact Sets is a fundamental concept in mathematics.",
   "definition": "Compact Sets is a fundamental concept in mathematics.",
   "explanation": "Learn about Compact Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "compact-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

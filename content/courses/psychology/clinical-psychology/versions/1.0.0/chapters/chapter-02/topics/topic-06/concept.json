@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-02.topic-06",
   "name": "Clinical Decision Making",
   "subject": "psychology",
+  "summary": "Clinical Decision Making is a fundamental concept in psychology.",
   "definition": "Clinical Decision Making is a fundamental concept in psychology.",
   "explanation": "Learn about Clinical Decision Making and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "clinical-decision-making"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

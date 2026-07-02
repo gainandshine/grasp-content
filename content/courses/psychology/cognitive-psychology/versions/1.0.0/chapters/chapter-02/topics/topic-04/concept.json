@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-02.topic-04",
   "name": "Attentional Control",
   "subject": "psychology",
+  "summary": "Attentional Control is a fundamental concept in psychology.",
   "definition": "Attentional Control is a fundamental concept in psychology.",
   "explanation": "Learn about Attentional Control and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "attentional-control"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-11.topic-03",
   "name": "Transmission Electron Microscopy (TEM)",
   "subject": "chemistry",
+  "summary": "Transmission Electron Microscopy (TEM) is a fundamental concept in chemistry.",
   "definition": "Transmission Electron Microscopy (TEM) is a fundamental concept in chemistry.",
   "explanation": "Learn about Transmission Electron Microscopy (TEM) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "transmission-electron-microscopy-tem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-11.topic-04",
   "name": "Pattern Problems",
   "subject": "computer-science",
+  "summary": "Pattern Problems is a fundamental concept in computer-science.",
   "definition": "Pattern Problems is a fundamental concept in computer-science.",
   "explanation": "Learn about Pattern Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "pattern-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

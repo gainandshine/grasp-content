@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-12.topic-04",
   "name": "Oscillating Reactions",
   "subject": "chemistry",
+  "summary": "Oscillating Reactions is a fundamental concept in chemistry.",
   "definition": "Oscillating Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Oscillating Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oscillating-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-10.topic-07",
   "name": "Molecular Design",
   "subject": "chemistry",
+  "summary": "Molecular Design is a fundamental concept in chemistry.",
   "definition": "Molecular Design is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

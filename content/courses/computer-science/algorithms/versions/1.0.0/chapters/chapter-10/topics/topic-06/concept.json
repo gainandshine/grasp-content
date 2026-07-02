@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-10.topic-06",
   "name": "String Hashing",
   "subject": "computer-science",
+  "summary": "String Hashing is a fundamental concept in computer-science.",
   "definition": "String Hashing is a fundamental concept in computer-science.",
   "explanation": "Learn about String Hashing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "string-hashing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

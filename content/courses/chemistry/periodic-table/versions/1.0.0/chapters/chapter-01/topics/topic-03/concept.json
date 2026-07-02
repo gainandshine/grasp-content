@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-01.topic-03",
   "name": "Newlands' Law of Octaves",
   "subject": "chemistry",
+  "summary": "Newlands' Law of Octaves is a fundamental concept in chemistry.",
   "definition": "Newlands' Law of Octaves is a fundamental concept in chemistry.",
   "explanation": "Learn about Newlands' Law of Octaves and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "newlands-law-of-octaves"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

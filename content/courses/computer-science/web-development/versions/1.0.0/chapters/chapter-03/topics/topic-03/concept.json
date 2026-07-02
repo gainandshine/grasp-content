@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-03.topic-03",
   "name": "Colors",
   "subject": "computer-science",
+  "summary": "Colors is a fundamental concept in computer-science.",
   "definition": "Colors is a fundamental concept in computer-science.",
   "explanation": "Learn about Colors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "colors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

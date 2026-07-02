@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-10.topic-04",
   "name": "Saturated Solutions",
   "subject": "chemistry",
+  "summary": "Saturated Solutions is a fundamental concept in chemistry.",
   "definition": "Saturated Solutions is a fundamental concept in chemistry.",
   "explanation": "Learn about Saturated Solutions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "saturated-solutions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

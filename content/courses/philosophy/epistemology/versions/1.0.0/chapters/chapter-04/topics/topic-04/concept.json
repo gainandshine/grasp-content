@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-04.topic-04",
   "name": "A Priori Knowledge",
   "subject": "philosophy",
+  "summary": "A Priori Knowledge is a fundamental concept in philosophy.",
   "definition": "A Priori Knowledge is a fundamental concept in philosophy.",
   "explanation": "Learn about A Priori Knowledge and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "a-priori-knowledge"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

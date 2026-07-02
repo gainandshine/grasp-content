@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-10.topic-03",
   "name": "Rotational SHM (Introduction)",
   "subject": "physics",
+  "summary": "Rotational SHM (Introduction) is a fundamental concept in physics.",
   "definition": "Rotational SHM (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Rotational SHM (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rotational-shm-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

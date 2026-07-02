@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-11.topic-01",
   "name": "Human Factors",
   "subject": "psychology",
+  "summary": "Human Factors is a fundamental concept in psychology.",
   "definition": "Human Factors is a fundamental concept in psychology.",
   "explanation": "Learn about Human Factors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "human-factors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

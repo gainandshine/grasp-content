@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-13.topic-03",
   "name": "Moving Average",
   "subject": "mathematics",
+  "summary": "Moving Average is a fundamental concept in mathematics.",
   "definition": "Moving Average is a fundamental concept in mathematics.",
   "explanation": "Learn about Moving Average and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "moving-average"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

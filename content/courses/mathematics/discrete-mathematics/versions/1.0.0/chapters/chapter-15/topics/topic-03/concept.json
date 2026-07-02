@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-15.topic-03",
   "name": "Databases",
   "subject": "mathematics",
+  "summary": "Databases is a fundamental concept in mathematics.",
   "definition": "Databases is a fundamental concept in mathematics.",
   "explanation": "Learn about Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-08.topic-03",
   "name": "Photocatalysis",
   "subject": "chemistry",
+  "summary": "Photocatalysis is a fundamental concept in chemistry.",
   "definition": "Photocatalysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Photocatalysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "photocatalysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

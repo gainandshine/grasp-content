@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-01.topic-02",
   "name": "History of I/O Psychology",
   "subject": "psychology",
+  "summary": "History of I/O Psychology is a fundamental concept in psychology.",
   "definition": "History of I/O Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about History of I/O Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "history-of-io-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

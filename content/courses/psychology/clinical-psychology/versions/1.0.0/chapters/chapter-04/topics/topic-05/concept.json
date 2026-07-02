@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-04.topic-05",
   "name": "Progress Monitoring",
   "subject": "psychology",
+  "summary": "Progress Monitoring is a fundamental concept in psychology.",
   "definition": "Progress Monitoring is a fundamental concept in psychology.",
   "explanation": "Learn about Progress Monitoring and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "progress-monitoring"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

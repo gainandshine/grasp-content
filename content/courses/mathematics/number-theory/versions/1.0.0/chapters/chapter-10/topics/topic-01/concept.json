@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-10.topic-01",
   "name": "RSA Algorithm",
   "subject": "mathematics",
+  "summary": "RSA Algorithm is a fundamental concept in mathematics.",
   "definition": "RSA Algorithm is a fundamental concept in mathematics.",
   "explanation": "Learn about RSA Algorithm and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rsa-algorithm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

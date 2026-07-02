@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-07.topic-04",
   "name": "Interface Implementation",
   "subject": "computer-science",
+  "summary": "Interface Implementation is a fundamental concept in computer-science.",
   "definition": "Interface Implementation is a fundamental concept in computer-science.",
   "explanation": "Learn about Interface Implementation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "interface-implementation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

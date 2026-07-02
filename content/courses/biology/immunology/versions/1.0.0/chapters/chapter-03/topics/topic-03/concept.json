@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-03.topic-03",
   "name": "Cell-Mediated Immunity",
   "subject": "biology",
+  "summary": "Cell-Mediated Immunity is a fundamental concept in biology.",
   "definition": "Cell-Mediated Immunity is a fundamental concept in biology.",
   "explanation": "Learn about Cell-Mediated Immunity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cell-mediated-immunity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

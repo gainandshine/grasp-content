@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-02.topic-04",
   "name": "Quasi-Neutrality",
   "subject": "physics",
+  "summary": "Quasi-Neutrality is a fundamental concept in physics.",
   "definition": "Quasi-Neutrality is a fundamental concept in physics.",
   "explanation": "Learn about Quasi-Neutrality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quasi-neutrality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

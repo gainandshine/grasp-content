@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-06.topic-03",
   "name": "Activated Complex",
   "subject": "chemistry",
+  "summary": "Activated Complex is a fundamental concept in chemistry.",
   "definition": "Activated Complex is a fundamental concept in chemistry.",
   "explanation": "Learn about Activated Complex and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "activated-complex"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-07.topic-06",
   "name": "Nanoparticle Interactions",
   "subject": "chemistry",
+  "summary": "Nanoparticle Interactions is a fundamental concept in chemistry.",
   "definition": "Nanoparticle Interactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanoparticle Interactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanoparticle-interactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

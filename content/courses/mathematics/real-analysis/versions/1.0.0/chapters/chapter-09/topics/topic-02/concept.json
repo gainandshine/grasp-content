@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-09.topic-02",
   "name": "Open Sets",
   "subject": "mathematics",
+  "summary": "Open Sets is a fundamental concept in mathematics.",
   "definition": "Open Sets is a fundamental concept in mathematics.",
   "explanation": "Learn about Open Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "open-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

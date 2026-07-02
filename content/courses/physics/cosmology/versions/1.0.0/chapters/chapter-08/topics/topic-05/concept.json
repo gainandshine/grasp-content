@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-08.topic-05",
   "name": "Open Universe",
   "subject": "physics",
+  "summary": "Open Universe is a fundamental concept in physics.",
   "definition": "Open Universe is a fundamental concept in physics.",
   "explanation": "Learn about Open Universe and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "open-universe"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

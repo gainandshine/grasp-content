@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-07.topic-02",
   "name": "Sampling Distributions",
   "subject": "psychology",
+  "summary": "Sampling Distributions is a fundamental concept in psychology.",
   "definition": "Sampling Distributions is a fundamental concept in psychology.",
   "explanation": "Learn about Sampling Distributions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "sampling-distributions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

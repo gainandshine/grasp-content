@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-13.topic-15",
   "name": "Radiation Detection",
   "subject": "chemistry",
+  "summary": "Radiation Detection is a fundamental concept in chemistry.",
   "definition": "Radiation Detection is a fundamental concept in chemistry.",
   "explanation": "Learn about Radiation Detection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "radiation-detection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

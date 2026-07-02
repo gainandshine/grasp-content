@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-02.topic-03",
   "name": "Complementary Angles",
   "subject": "mathematics",
+  "summary": "Complementary Angles is a fundamental concept in mathematics.",
   "definition": "Complementary Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Complementary Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "complementary-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-03.topic-03",
   "name": "Market Equilibrium",
   "subject": "economics",
+  "summary": "Market Equilibrium is a fundamental concept in economics.",
   "definition": "Market Equilibrium is a fundamental concept in economics.",
   "explanation": "Learn about Market Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "market-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

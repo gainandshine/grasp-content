@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-10.topic-01",
   "name": "Superconductors",
   "subject": "physics",
+  "summary": "Superconductors is a fundamental concept in physics.",
   "definition": "Superconductors is a fundamental concept in physics.",
   "explanation": "Learn about Superconductors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "superconductors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-10.topic-03",
   "name": "WKB Approximation (Introduction)",
   "subject": "physics",
+  "summary": "WKB Approximation (Introduction) is a fundamental concept in physics.",
   "definition": "WKB Approximation (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about WKB Approximation (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "wkb-approximation-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-06",
   "name": "Mini Projects",
   "subject": "computer-science",
+  "summary": "Mini Projects is a fundamental concept in computer-science.",
   "definition": "Mini Projects is a fundamental concept in computer-science.",
   "explanation": "Learn about Mini Projects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mini-projects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

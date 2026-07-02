@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-05.topic-03",
   "name": "Unrestricted Domain",
   "subject": "game-theory",
+  "summary": "Unrestricted Domain is a fundamental concept in game-theory.",
   "definition": "Unrestricted Domain is a fundamental concept in game-theory.",
   "explanation": "Learn about Unrestricted Domain and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "unrestricted-domain"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

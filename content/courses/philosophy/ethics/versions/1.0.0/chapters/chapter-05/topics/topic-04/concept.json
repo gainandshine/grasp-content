@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-05.topic-04",
   "name": "Human Rights",
   "subject": "philosophy",
+  "summary": "Human Rights is a fundamental concept in philosophy.",
   "definition": "Human Rights is a fundamental concept in philosophy.",
   "explanation": "Learn about Human Rights and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "human-rights"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

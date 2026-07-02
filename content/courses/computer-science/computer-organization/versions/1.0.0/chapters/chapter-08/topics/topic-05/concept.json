@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-08.topic-05",
   "name": "Character Encoding",
   "subject": "computer-science",
+  "summary": "Character Encoding is a fundamental concept in computer-science.",
   "definition": "Character Encoding is a fundamental concept in computer-science.",
   "explanation": "Learn about Character Encoding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "character-encoding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

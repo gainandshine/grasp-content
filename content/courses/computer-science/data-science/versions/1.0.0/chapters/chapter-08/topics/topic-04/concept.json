@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-08.topic-04",
   "name": "Feature Selection",
   "subject": "computer-science",
+  "summary": "Feature Selection is a fundamental concept in computer-science.",
   "definition": "Feature Selection is a fundamental concept in computer-science.",
   "explanation": "Learn about Feature Selection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "feature-selection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

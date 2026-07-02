@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-07.topic-02",
   "name": "Cosine Sum Formula",
   "subject": "mathematics",
+  "summary": "Cosine Sum Formula is a fundamental concept in mathematics.",
   "definition": "Cosine Sum Formula is a fundamental concept in mathematics.",
   "explanation": "Learn about Cosine Sum Formula and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "cosine-sum-formula"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

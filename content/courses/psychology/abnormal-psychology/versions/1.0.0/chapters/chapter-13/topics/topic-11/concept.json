@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-13.topic-11",
   "name": "Psychotherapy",
   "subject": "psychology",
+  "summary": "Psychotherapy is a fundamental concept in psychology.",
   "definition": "Psychotherapy is a fundamental concept in psychology.",
   "explanation": "Learn about Psychotherapy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "psychotherapy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

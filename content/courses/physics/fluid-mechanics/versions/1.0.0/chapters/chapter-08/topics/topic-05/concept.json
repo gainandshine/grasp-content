@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-08.topic-05",
   "name": "Bubbles",
   "subject": "physics",
+  "summary": "Bubbles is a fundamental concept in physics.",
   "definition": "Bubbles is a fundamental concept in physics.",
   "explanation": "Learn about Bubbles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "bubbles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

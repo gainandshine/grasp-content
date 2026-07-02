@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-06.topic-02",
   "name": "Factors Affecting Electron Affinity",
   "subject": "chemistry",
+  "summary": "Factors Affecting Electron Affinity is a fundamental concept in chemistry.",
   "definition": "Factors Affecting Electron Affinity is a fundamental concept in chemistry.",
   "explanation": "Learn about Factors Affecting Electron Affinity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "factors-affecting-electron-affinity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

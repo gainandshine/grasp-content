@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-03.topic-03",
   "name": "Event Handling",
   "subject": "computer-science",
+  "summary": "Event Handling is a fundamental concept in computer-science.",
   "definition": "Event Handling is a fundamental concept in computer-science.",
   "explanation": "Learn about Event Handling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "event-handling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

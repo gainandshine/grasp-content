@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-07.topic-02",
   "name": "Dijkstra's Algorithm",
   "subject": "mathematics",
+  "summary": "Dijkstra's Algorithm is a fundamental concept in mathematics.",
   "definition": "Dijkstra's Algorithm is a fundamental concept in mathematics.",
   "explanation": "Learn about Dijkstra's Algorithm and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "dijkstras-algorithm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

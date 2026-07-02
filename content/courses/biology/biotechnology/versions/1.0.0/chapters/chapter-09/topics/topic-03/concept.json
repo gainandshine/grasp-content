@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-09.topic-03",
   "name": "Biofuels",
   "subject": "biology",
+  "summary": "Biofuels is a fundamental concept in biology.",
   "definition": "Biofuels is a fundamental concept in biology.",
   "explanation": "Learn about Biofuels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biofuels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

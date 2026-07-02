@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-11.topic-04",
   "name": "Euler Graphs",
   "subject": "mathematics",
+  "summary": "Euler Graphs is a fundamental concept in mathematics.",
   "definition": "Euler Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Euler Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "euler-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

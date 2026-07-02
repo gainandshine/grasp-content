@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-02.topic-02",
   "name": "Proof by Contradiction",
   "subject": "mathematics",
+  "summary": "Proof by Contradiction is a fundamental concept in mathematics.",
   "definition": "Proof by Contradiction is a fundamental concept in mathematics.",
   "explanation": "Learn about Proof by Contradiction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "proof-by-contradiction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

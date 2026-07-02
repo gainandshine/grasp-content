@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-10.topic-05",
   "name": "Graph Representations",
   "subject": "computer-science",
+  "summary": "Graph Representations is a fundamental concept in computer-science.",
   "definition": "Graph Representations is a fundamental concept in computer-science.",
   "explanation": "Learn about Graph Representations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "graph-representations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

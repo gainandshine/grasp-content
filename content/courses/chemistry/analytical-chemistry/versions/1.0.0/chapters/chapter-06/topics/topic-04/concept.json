@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-06.topic-04",
   "name": "Crystallization",
   "subject": "chemistry",
+  "summary": "Crystallization is a fundamental concept in chemistry.",
   "definition": "Crystallization is a fundamental concept in chemistry.",
   "explanation": "Learn about Crystallization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "crystallization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

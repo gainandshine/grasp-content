@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-03.topic-02",
   "name": "Gas Molecules",
   "subject": "physics",
+  "summary": "Gas Molecules is a fundamental concept in physics.",
   "definition": "Gas Molecules is a fundamental concept in physics.",
   "explanation": "Learn about Gas Molecules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gas-molecules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

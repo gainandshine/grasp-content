@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-06.topic-06",
   "name": "Quantum Tunneling",
   "subject": "physics",
+  "summary": "Quantum Tunneling is a fundamental concept in physics.",
   "definition": "Quantum Tunneling is a fundamental concept in physics.",
   "explanation": "Learn about Quantum Tunneling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quantum-tunneling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

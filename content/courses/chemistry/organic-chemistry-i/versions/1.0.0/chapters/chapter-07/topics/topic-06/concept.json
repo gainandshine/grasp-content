@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-07.topic-06",
   "name": "Electrophiles",
   "subject": "chemistry",
+  "summary": "Electrophiles is a fundamental concept in chemistry.",
   "definition": "Electrophiles is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrophiles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrophiles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

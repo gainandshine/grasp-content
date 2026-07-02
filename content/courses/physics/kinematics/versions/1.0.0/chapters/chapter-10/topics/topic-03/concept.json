@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-10.topic-03",
   "name": "Vehicle Motion",
   "subject": "physics",
+  "summary": "Vehicle Motion is a fundamental concept in physics.",
   "definition": "Vehicle Motion is a fundamental concept in physics.",
   "explanation": "Learn about Vehicle Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "vehicle-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-02.topic-07",
   "name": "Scatter Plots",
   "subject": "mathematics",
+  "summary": "Scatter Plots is a fundamental concept in mathematics.",
   "definition": "Scatter Plots is a fundamental concept in mathematics.",
   "explanation": "Learn about Scatter Plots and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "scatter-plots"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

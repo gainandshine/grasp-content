@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-03.topic-02",
   "name": "Negative Externalities",
   "subject": "economics",
+  "summary": "Negative Externalities is a fundamental concept in economics.",
   "definition": "Negative Externalities is a fundamental concept in economics.",
   "explanation": "Learn about Negative Externalities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "negative-externalities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

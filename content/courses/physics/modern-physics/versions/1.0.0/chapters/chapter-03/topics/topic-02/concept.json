@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-03.topic-02",
   "name": "Gravity as Geometry",
   "subject": "physics",
+  "summary": "Gravity as Geometry is a fundamental concept in physics.",
   "definition": "Gravity as Geometry is a fundamental concept in physics.",
   "explanation": "Learn about Gravity as Geometry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gravity-as-geometry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-08.topic-03",
   "name": "Chitin",
   "subject": "chemistry",
+  "summary": "Chitin is a fundamental concept in chemistry.",
   "definition": "Chitin is a fundamental concept in chemistry.",
   "explanation": "Learn about Chitin and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chitin"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

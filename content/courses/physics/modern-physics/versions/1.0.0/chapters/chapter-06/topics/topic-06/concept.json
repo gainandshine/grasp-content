@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-06.topic-06",
   "name": "Superposition",
   "subject": "physics",
+  "summary": "Superposition is a fundamental concept in physics.",
   "definition": "Superposition is a fundamental concept in physics.",
   "explanation": "Learn about Superposition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "superposition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

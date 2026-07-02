@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-02.topic-02",
   "name": "TCP/IP Model",
   "subject": "computer-science",
+  "summary": "TCP/IP Model is a fundamental concept in computer-science.",
   "definition": "TCP/IP Model is a fundamental concept in computer-science.",
   "explanation": "Learn about TCP/IP Model and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "tcpip-model"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

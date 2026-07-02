@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-13.topic-06",
   "name": "Quantum Nanotechnology",
   "subject": "chemistry",
+  "summary": "Quantum Nanotechnology is a fundamental concept in chemistry.",
   "definition": "Quantum Nanotechnology is a fundamental concept in chemistry.",
   "explanation": "Learn about Quantum Nanotechnology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "quantum-nanotechnology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

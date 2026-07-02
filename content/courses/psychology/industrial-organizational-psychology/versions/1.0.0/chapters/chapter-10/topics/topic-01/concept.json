@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-10.topic-01",
   "name": "Change Management",
   "subject": "psychology",
+  "summary": "Change Management is a fundamental concept in psychology.",
   "definition": "Change Management is a fundamental concept in psychology.",
   "explanation": "Learn about Change Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "change-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

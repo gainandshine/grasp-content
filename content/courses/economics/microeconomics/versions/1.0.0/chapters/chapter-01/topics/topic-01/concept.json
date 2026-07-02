@@ -2,6 +2,7 @@
   "id": "economics.microeconomics.chapter-01.topic-01",
   "name": "Scope of Microeconomics",
   "subject": "economics",
+  "summary": "Scope of Microeconomics is a fundamental concept in economics.",
   "definition": "Scope of Microeconomics is a fundamental concept in economics.",
   "explanation": "Learn about Scope of Microeconomics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "scope-of-microeconomics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

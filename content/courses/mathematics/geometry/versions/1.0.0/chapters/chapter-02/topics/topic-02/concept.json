@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-02.topic-02",
   "name": "Angle Relationships",
   "subject": "mathematics",
+  "summary": "Angle Relationships is a fundamental concept in mathematics.",
   "definition": "Angle Relationships is a fundamental concept in mathematics.",
   "explanation": "Learn about Angle Relationships and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "angle-relationships"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

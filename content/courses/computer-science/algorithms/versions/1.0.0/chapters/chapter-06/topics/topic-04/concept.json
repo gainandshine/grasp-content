@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-06.topic-04",
   "name": "Fractional Knapsack",
   "subject": "computer-science",
+  "summary": "Fractional Knapsack is a fundamental concept in computer-science.",
   "definition": "Fractional Knapsack is a fundamental concept in computer-science.",
   "explanation": "Learn about Fractional Knapsack and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fractional-knapsack"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

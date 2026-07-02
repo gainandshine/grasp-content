@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-06.topic-04",
   "name": "Resins",
   "subject": "chemistry",
+  "summary": "Resins is a fundamental concept in chemistry.",
   "definition": "Resins is a fundamental concept in chemistry.",
   "explanation": "Learn about Resins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "resins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

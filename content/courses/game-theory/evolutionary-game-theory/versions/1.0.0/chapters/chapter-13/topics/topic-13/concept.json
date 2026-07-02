@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-13.topic-13",
   "name": "Market Design",
   "subject": "game-theory",
+  "summary": "Market Design is a fundamental concept in game-theory.",
   "definition": "Market Design is a fundamental concept in game-theory.",
   "explanation": "Learn about Market Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "market-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

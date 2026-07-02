@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-11.topic-06",
   "name": "Phase Diagrams",
   "subject": "physics",
+  "summary": "Phase Diagrams is a fundamental concept in physics.",
   "definition": "Phase Diagrams is a fundamental concept in physics.",
   "explanation": "Learn about Phase Diagrams and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "phase-diagrams"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

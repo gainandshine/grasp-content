@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-11.topic-02",
   "name": "Western Blot",
   "subject": "biology",
+  "summary": "Western Blot is a fundamental concept in biology.",
   "definition": "Western Blot is a fundamental concept in biology.",
   "explanation": "Learn about Western Blot and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "western-blot"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

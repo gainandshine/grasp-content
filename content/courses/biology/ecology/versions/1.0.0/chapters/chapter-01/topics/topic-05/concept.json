@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-01.topic-05",
   "name": "Biotic Factors",
   "subject": "biology",
+  "summary": "Biotic Factors is a fundamental concept in biology.",
   "definition": "Biotic Factors is a fundamental concept in biology.",
   "explanation": "Learn about Biotic Factors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biotic-factors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

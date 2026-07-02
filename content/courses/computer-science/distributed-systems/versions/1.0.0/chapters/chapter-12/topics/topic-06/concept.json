@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-12.topic-06",
   "name": "Geo-Distributed Systems",
   "subject": "computer-science",
+  "summary": "Geo-Distributed Systems is a fundamental concept in computer-science.",
   "definition": "Geo-Distributed Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Geo-Distributed Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "geo-distributed-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

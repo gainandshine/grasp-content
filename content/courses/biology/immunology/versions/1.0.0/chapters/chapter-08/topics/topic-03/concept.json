@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-08.topic-03",
   "name": "Vaccine Types",
   "subject": "biology",
+  "summary": "Vaccine Types is a fundamental concept in biology.",
   "definition": "Vaccine Types is a fundamental concept in biology.",
   "explanation": "Learn about Vaccine Types and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "vaccine-types"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

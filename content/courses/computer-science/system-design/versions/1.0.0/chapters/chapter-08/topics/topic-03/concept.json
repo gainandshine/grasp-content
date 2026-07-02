@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-08.topic-03",
   "name": "Consistency Models",
   "subject": "computer-science",
+  "summary": "Consistency Models is a fundamental concept in computer-science.",
   "definition": "Consistency Models is a fundamental concept in computer-science.",
   "explanation": "Learn about Consistency Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "consistency-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

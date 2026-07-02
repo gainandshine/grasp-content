@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-05.topic-04",
   "name": "DBSCAN",
   "subject": "computer-science",
+  "summary": "DBSCAN is a fundamental concept in computer-science.",
   "definition": "DBSCAN is a fundamental concept in computer-science.",
   "explanation": "Learn about DBSCAN and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "dbscan"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

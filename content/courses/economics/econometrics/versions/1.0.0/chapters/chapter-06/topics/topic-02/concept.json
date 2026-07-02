@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-06.topic-02",
   "name": "Autocorrelation",
   "subject": "economics",
+  "summary": "Autocorrelation is a fundamental concept in economics.",
   "definition": "Autocorrelation is a fundamental concept in economics.",
   "explanation": "Learn about Autocorrelation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "autocorrelation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-10.topic-01",
   "name": "Interpreter Design",
   "subject": "computer-science",
+  "summary": "Interpreter Design is a fundamental concept in computer-science.",
   "definition": "Interpreter Design is a fundamental concept in computer-science.",
   "explanation": "Learn about Interpreter Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "interpreter-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

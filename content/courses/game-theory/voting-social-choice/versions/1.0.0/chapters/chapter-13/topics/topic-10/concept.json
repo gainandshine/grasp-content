@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-13.topic-10",
   "name": "Evolutionarily Stable Strategies (ESS)",
   "subject": "game-theory",
+  "summary": "Evolutionarily Stable Strategies (ESS) is a fundamental concept in game-theory.",
   "definition": "Evolutionarily Stable Strategies (ESS) is a fundamental concept in game-theory.",
   "explanation": "Learn about Evolutionarily Stable Strategies (ESS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "evolutionarily-stable-strategies-ess"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

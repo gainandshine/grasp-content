@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-13.topic-05",
   "name": "Personalized Education",
   "subject": "psychology",
+  "summary": "Personalized Education is a fundamental concept in psychology.",
   "definition": "Personalized Education is a fundamental concept in psychology.",
   "explanation": "Learn about Personalized Education and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "personalized-education"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

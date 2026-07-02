@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-04.topic-04",
   "name": "Characteristic Equation",
   "subject": "mathematics",
+  "summary": "Characteristic Equation is a fundamental concept in mathematics.",
   "definition": "Characteristic Equation is a fundamental concept in mathematics.",
   "explanation": "Learn about Characteristic Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "characteristic-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-13.topic-05",
   "name": "Transpilers",
   "subject": "computer-science",
+  "summary": "Transpilers is a fundamental concept in computer-science.",
   "definition": "Transpilers is a fundamental concept in computer-science.",
   "explanation": "Learn about Transpilers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "transpilers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

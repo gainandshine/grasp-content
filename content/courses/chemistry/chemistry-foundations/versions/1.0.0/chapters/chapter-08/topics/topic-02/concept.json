@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-08.topic-02",
   "name": "Word Equations",
   "subject": "chemistry",
+  "summary": "Word Equations is a fundamental concept in chemistry.",
   "definition": "Word Equations is a fundamental concept in chemistry.",
   "explanation": "Learn about Word Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "word-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

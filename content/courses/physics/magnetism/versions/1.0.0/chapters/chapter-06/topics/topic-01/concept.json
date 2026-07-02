@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-06.topic-01",
   "name": "Magnetization",
   "subject": "physics",
+  "summary": "Magnetization is a fundamental concept in physics.",
   "definition": "Magnetization is a fundamental concept in physics.",
   "explanation": "Learn about Magnetization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

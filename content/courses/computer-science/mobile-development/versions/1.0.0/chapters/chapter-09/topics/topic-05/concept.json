@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-09.topic-05",
   "name": "API Security",
   "subject": "computer-science",
+  "summary": "API Security is a fundamental concept in computer-science.",
   "definition": "API Security is a fundamental concept in computer-science.",
   "explanation": "Learn about API Security and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "api-security"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

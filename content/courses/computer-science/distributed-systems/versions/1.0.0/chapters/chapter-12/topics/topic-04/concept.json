@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-12.topic-04",
   "name": "Content Delivery Networks (CDNs)",
   "subject": "computer-science",
+  "summary": "Content Delivery Networks (CDNs) is a fundamental concept in computer-science.",
   "definition": "Content Delivery Networks (CDNs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Content Delivery Networks (CDNs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "content-delivery-networks-cdns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

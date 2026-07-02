@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-07.topic-05",
   "name": "Plants",
   "subject": "biology",
+  "summary": "Plants is a fundamental concept in biology.",
   "definition": "Plants is a fundamental concept in biology.",
   "explanation": "Learn about Plants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "plants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

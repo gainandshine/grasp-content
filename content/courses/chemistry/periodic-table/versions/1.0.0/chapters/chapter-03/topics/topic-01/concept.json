@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-03.topic-01",
   "name": "Electron Configuration Review",
   "subject": "chemistry",
+  "summary": "Electron Configuration Review is a fundamental concept in chemistry.",
   "definition": "Electron Configuration Review is a fundamental concept in chemistry.",
   "explanation": "Learn about Electron Configuration Review and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electron-configuration-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

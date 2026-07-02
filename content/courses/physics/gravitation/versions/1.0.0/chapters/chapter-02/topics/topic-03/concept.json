@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-02.topic-03",
   "name": "Field Lines",
   "subject": "physics",
+  "summary": "Field Lines is a fundamental concept in physics.",
   "definition": "Field Lines is a fundamental concept in physics.",
   "explanation": "Learn about Field Lines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "field-lines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

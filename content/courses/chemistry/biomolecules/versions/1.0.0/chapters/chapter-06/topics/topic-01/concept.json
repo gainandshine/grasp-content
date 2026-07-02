@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-06.topic-01",
   "name": "Enzyme Structure",
   "subject": "chemistry",
+  "summary": "Enzyme Structure is a fundamental concept in chemistry.",
   "definition": "Enzyme Structure is a fundamental concept in chemistry.",
   "explanation": "Learn about Enzyme Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "enzyme-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

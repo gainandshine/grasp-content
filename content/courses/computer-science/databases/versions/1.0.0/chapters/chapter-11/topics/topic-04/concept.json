@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-11.topic-04",
   "name": "OLAP",
   "subject": "computer-science",
+  "summary": "OLAP is a fundamental concept in computer-science.",
   "definition": "OLAP is a fundamental concept in computer-science.",
   "explanation": "Learn about OLAP and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "olap"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

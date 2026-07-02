@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-09.topic-01",
   "name": "Inductors",
   "subject": "physics",
+  "summary": "Inductors is a fundamental concept in physics.",
   "definition": "Inductors is a fundamental concept in physics.",
   "explanation": "Learn about Inductors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "inductors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

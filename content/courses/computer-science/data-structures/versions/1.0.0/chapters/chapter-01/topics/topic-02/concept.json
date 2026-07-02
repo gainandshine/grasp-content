@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-01.topic-02",
   "name": "Abstract Data Types (ADTs)",
   "subject": "computer-science",
+  "summary": "Abstract Data Types (ADTs) is a fundamental concept in computer-science.",
   "definition": "Abstract Data Types (ADTs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Abstract Data Types (ADTs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "abstract-data-types-adts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

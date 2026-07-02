@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-02.topic-06",
   "name": "Strategic Consequences",
   "subject": "game-theory",
+  "summary": "Strategic Consequences is a fundamental concept in game-theory.",
   "definition": "Strategic Consequences is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Consequences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-consequences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

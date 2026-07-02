@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-13.topic-15",
   "name": "Application Layer",
   "subject": "computer-science",
+  "summary": "Application Layer is a fundamental concept in computer-science.",
   "definition": "Application Layer is a fundamental concept in computer-science.",
   "explanation": "Learn about Application Layer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "application-layer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

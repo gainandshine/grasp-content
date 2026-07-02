@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-08.topic-04",
   "name": "Trauma-Informed Care",
   "subject": "psychology",
+  "summary": "Trauma-Informed Care is a fundamental concept in psychology.",
   "definition": "Trauma-Informed Care is a fundamental concept in psychology.",
   "explanation": "Learn about Trauma-Informed Care and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "trauma-informed-care"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

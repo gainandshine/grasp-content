@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-13.topic-16",
   "name": "Informal Logic",
   "subject": "philosophy",
+  "summary": "Informal Logic is a fundamental concept in philosophy.",
   "definition": "Informal Logic is a fundamental concept in philosophy.",
   "explanation": "Learn about Informal Logic and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "informal-logic"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

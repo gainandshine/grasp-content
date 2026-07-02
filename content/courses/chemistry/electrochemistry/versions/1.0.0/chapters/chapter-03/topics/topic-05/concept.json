@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-03.topic-05",
   "name": "Salt Bridge",
   "subject": "chemistry",
+  "summary": "Salt Bridge is a fundamental concept in chemistry.",
   "definition": "Salt Bridge is a fundamental concept in chemistry.",
   "explanation": "Learn about Salt Bridge and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "salt-bridge"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

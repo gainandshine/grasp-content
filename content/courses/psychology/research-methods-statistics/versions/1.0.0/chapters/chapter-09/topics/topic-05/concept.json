@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-09.topic-05",
   "name": "Statistical Assumptions",
   "subject": "psychology",
+  "summary": "Statistical Assumptions is a fundamental concept in psychology.",
   "definition": "Statistical Assumptions is a fundamental concept in psychology.",
   "explanation": "Learn about Statistical Assumptions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "statistical-assumptions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-10.topic-04",
   "name": "Cultural Competence",
   "subject": "psychology",
+  "summary": "Cultural Competence is a fundamental concept in psychology.",
   "definition": "Cultural Competence is a fundamental concept in psychology.",
   "explanation": "Learn about Cultural Competence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cultural-competence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

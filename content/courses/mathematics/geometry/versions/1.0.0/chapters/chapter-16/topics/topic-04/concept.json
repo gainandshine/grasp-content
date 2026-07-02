@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-16.topic-04",
   "name": "Right Triangle Applications",
   "subject": "mathematics",
+  "summary": "Right Triangle Applications is a fundamental concept in mathematics.",
   "definition": "Right Triangle Applications is a fundamental concept in mathematics.",
   "explanation": "Learn about Right Triangle Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "right-triangle-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

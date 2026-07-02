@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-11.topic-04",
   "name": "Geometric Series",
   "subject": "mathematics",
+  "summary": "Geometric Series is a fundamental concept in mathematics.",
   "definition": "Geometric Series is a fundamental concept in mathematics.",
   "explanation": "Learn about Geometric Series and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "geometric-series"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

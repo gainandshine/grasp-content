@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-05.topic-03",
   "name": "Behavioral Patterns",
   "subject": "computer-science",
+  "summary": "Behavioral Patterns is a fundamental concept in computer-science.",
   "definition": "Behavioral Patterns is a fundamental concept in computer-science.",
   "explanation": "Learn about Behavioral Patterns and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "behavioral-patterns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

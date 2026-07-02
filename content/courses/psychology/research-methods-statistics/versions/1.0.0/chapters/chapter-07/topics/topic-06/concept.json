@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-07.topic-06",
   "name": "Statistical Significance",
   "subject": "psychology",
+  "summary": "Statistical Significance is a fundamental concept in psychology.",
   "definition": "Statistical Significance is a fundamental concept in psychology.",
   "explanation": "Learn about Statistical Significance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "statistical-significance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

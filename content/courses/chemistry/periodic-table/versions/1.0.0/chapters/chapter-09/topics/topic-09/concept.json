@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-09.topic-09",
   "name": "Transition Metals",
   "subject": "chemistry",
+  "summary": "Transition Metals is a fundamental concept in chemistry.",
   "definition": "Transition Metals is a fundamental concept in chemistry.",
   "explanation": "Learn about Transition Metals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "transition-metals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

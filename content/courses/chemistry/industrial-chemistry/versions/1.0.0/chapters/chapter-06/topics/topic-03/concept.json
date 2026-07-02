@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-06.topic-03",
   "name": "Fibers",
   "subject": "chemistry",
+  "summary": "Fibers is a fundamental concept in chemistry.",
   "definition": "Fibers is a fundamental concept in chemistry.",
   "explanation": "Learn about Fibers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fibers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

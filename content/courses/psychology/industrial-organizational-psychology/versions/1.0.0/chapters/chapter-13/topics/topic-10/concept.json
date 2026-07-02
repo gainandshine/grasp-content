@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-13.topic-10",
   "name": "Variables",
   "subject": "psychology",
+  "summary": "Variables is a fundamental concept in psychology.",
   "definition": "Variables is a fundamental concept in psychology.",
   "explanation": "Learn about Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

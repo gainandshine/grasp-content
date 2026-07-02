@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-05.topic-05",
   "name": "Graph of Secant",
   "subject": "mathematics",
+  "summary": "Graph of Secant is a fundamental concept in mathematics.",
   "definition": "Graph of Secant is a fundamental concept in mathematics.",
   "explanation": "Learn about Graph of Secant and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "graph-of-secant"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-04.topic-02",
   "name": "Play",
   "subject": "psychology",
+  "summary": "Play is a fundamental concept in psychology.",
   "definition": "Play is a fundamental concept in psychology.",
   "explanation": "Learn about Play and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "play"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

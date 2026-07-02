@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-03.topic-05",
   "name": "Golgi Apparatus",
   "subject": "biology",
+  "summary": "Golgi Apparatus is a fundamental concept in biology.",
   "definition": "Golgi Apparatus is a fundamental concept in biology.",
   "explanation": "Learn about Golgi Apparatus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "golgi-apparatus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

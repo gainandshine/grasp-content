@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-13.topic-12",
   "name": "Colored Compounds",
   "subject": "chemistry",
+  "summary": "Colored Compounds is a fundamental concept in chemistry.",
   "definition": "Colored Compounds is a fundamental concept in chemistry.",
   "explanation": "Learn about Colored Compounds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "colored-compounds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

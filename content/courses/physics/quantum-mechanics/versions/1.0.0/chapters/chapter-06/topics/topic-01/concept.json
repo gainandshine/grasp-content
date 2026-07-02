@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-06.topic-01",
   "name": "Particle in a Box",
   "subject": "physics",
+  "summary": "Particle in a Box is a fundamental concept in physics.",
   "definition": "Particle in a Box is a fundamental concept in physics.",
   "explanation": "Learn about Particle in a Box and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "particle-in-a-box"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

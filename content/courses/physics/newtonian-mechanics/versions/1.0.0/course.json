@@ -1,7 +1,7 @@
 {
   "id": "newtonian-mechanics",
   "name": "Newtonian Mechanics",
-  "description": "Newtonian Mechanics",
+  "description": "This course explains **why objects move** by introducing forces and Newton's Laws.",
   "version": "1.0.0",
   "domain": "physics",
   "chapters": [

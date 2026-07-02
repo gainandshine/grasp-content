@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-03.topic-04",
   "name": "Output Decision",
   "subject": "economics",
+  "summary": "Output Decision is a fundamental concept in economics.",
   "definition": "Output Decision is a fundamental concept in economics.",
   "explanation": "Learn about Output Decision and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "output-decision"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-12.topic-01",
   "name": "Solid-State Batteries",
   "subject": "chemistry",
+  "summary": "Solid-State Batteries is a fundamental concept in chemistry.",
   "definition": "Solid-State Batteries is a fundamental concept in chemistry.",
   "explanation": "Learn about Solid-State Batteries and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solid-state-batteries"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

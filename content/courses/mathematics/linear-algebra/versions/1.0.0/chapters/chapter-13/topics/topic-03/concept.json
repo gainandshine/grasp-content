@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-13.topic-03",
   "name": "Iterative Methods",
   "subject": "mathematics",
+  "summary": "Iterative Methods is a fundamental concept in mathematics.",
   "definition": "Iterative Methods is a fundamental concept in mathematics.",
   "explanation": "Learn about Iterative Methods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "iterative-methods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

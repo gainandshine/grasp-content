@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-08.topic-05",
   "name": "Chain Reactions",
   "subject": "chemistry",
+  "summary": "Chain Reactions is a fundamental concept in chemistry.",
   "definition": "Chain Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Chain Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chain-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

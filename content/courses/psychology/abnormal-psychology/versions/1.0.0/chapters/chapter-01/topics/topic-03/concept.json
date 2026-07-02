@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-01.topic-03",
   "name": "Historical Perspectives",
   "subject": "psychology",
+  "summary": "Historical Perspectives is a fundamental concept in psychology.",
   "definition": "Historical Perspectives is a fundamental concept in psychology.",
   "explanation": "Learn about Historical Perspectives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "historical-perspectives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

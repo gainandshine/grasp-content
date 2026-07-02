@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-07.topic-05",
   "name": "Emotion",
   "subject": "philosophy",
+  "summary": "Emotion is a fundamental concept in philosophy.",
   "definition": "Emotion is a fundamental concept in philosophy.",
   "explanation": "Learn about Emotion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "emotion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

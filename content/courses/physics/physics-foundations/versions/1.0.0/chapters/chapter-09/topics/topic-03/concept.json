@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-09.topic-03",
   "name": "Estimation",
   "subject": "physics",
+  "summary": "Estimation is a fundamental concept in physics.",
   "definition": "Estimation is a fundamental concept in physics.",
   "explanation": "Learn about Estimation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "estimation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

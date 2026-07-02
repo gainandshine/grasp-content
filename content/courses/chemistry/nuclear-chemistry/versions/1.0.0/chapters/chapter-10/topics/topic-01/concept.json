@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-10.topic-01",
   "name": "PET Imaging",
   "subject": "chemistry",
+  "summary": "PET Imaging is a fundamental concept in chemistry.",
   "definition": "PET Imaging is a fundamental concept in chemistry.",
   "explanation": "Learn about PET Imaging and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "pet-imaging"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

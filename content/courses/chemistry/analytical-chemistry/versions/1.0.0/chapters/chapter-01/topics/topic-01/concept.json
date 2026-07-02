@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-01.topic-01",
   "name": "What is Analytical Chemistry?",
   "subject": "chemistry",
+  "summary": "What is Analytical Chemistry? is a fundamental concept in chemistry.",
   "definition": "What is Analytical Chemistry? is a fundamental concept in chemistry.",
   "explanation": "Learn about What is Analytical Chemistry? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "what-is-analytical-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

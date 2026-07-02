@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-06.topic-04",
   "name": "Analogous Structures",
   "subject": "biology",
+  "summary": "Analogous Structures is a fundamental concept in biology.",
   "definition": "Analogous Structures is a fundamental concept in biology.",
   "explanation": "Learn about Analogous Structures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "analogous-structures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

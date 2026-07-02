@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-11.topic-05",
   "name": "Residual Analysis",
   "subject": "mathematics",
+  "summary": "Residual Analysis is a fundamental concept in mathematics.",
   "definition": "Residual Analysis is a fundamental concept in mathematics.",
   "explanation": "Learn about Residual Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "residual-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

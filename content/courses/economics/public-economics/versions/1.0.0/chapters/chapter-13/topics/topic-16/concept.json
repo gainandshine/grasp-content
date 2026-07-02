@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-13.topic-16",
   "name": "Financial Stability",
   "subject": "economics",
+  "summary": "Financial Stability is a fundamental concept in economics.",
   "definition": "Financial Stability is a fundamental concept in economics.",
   "explanation": "Learn about Financial Stability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "financial-stability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

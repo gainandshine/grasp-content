@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-06.topic-02",
   "name": "Codons",
   "subject": "biology",
+  "summary": "Codons is a fundamental concept in biology.",
   "definition": "Codons is a fundamental concept in biology.",
   "explanation": "Learn about Codons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "codons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

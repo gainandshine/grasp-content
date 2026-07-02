@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-10.topic-01",
   "name": "Molecular Weight Determination",
   "subject": "chemistry",
+  "summary": "Molecular Weight Determination is a fundamental concept in chemistry.",
   "definition": "Molecular Weight Determination is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Weight Determination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-weight-determination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

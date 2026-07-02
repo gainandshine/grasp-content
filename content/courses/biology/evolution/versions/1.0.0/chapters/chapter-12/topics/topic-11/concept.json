@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-12.topic-11",
   "name": "Muscular System",
   "subject": "biology",
+  "summary": "Muscular System is a fundamental concept in biology.",
   "definition": "Muscular System is a fundamental concept in biology.",
   "explanation": "Learn about Muscular System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "muscular-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

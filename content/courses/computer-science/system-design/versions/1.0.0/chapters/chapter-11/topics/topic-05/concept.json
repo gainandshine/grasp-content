@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-11.topic-05",
   "name": "Alerting",
   "subject": "computer-science",
+  "summary": "Alerting is a fundamental concept in computer-science.",
   "definition": "Alerting is a fundamental concept in computer-science.",
   "explanation": "Learn about Alerting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "alerting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

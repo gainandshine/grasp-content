@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-01.topic-01",
   "name": "Chemical Kinetics",
   "subject": "chemistry",
+  "summary": "Chemical Kinetics is a fundamental concept in chemistry.",
   "definition": "Chemical Kinetics is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Kinetics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-kinetics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-06.topic-02",
   "name": "Constant Propagation",
   "subject": "computer-science",
+  "summary": "Constant Propagation is a fundamental concept in computer-science.",
   "definition": "Constant Propagation is a fundamental concept in computer-science.",
   "explanation": "Learn about Constant Propagation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "constant-propagation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

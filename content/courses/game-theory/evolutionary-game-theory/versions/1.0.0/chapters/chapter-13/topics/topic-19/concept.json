@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-13.topic-19",
   "name": "AI Mechanisms",
   "subject": "game-theory",
+  "summary": "AI Mechanisms is a fundamental concept in game-theory.",
   "definition": "AI Mechanisms is a fundamental concept in game-theory.",
   "explanation": "Learn about AI Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "ai-mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

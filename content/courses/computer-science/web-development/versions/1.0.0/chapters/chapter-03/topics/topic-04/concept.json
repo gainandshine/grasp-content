@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-03.topic-04",
   "name": "Typography",
   "subject": "computer-science",
+  "summary": "Typography is a fundamental concept in computer-science.",
   "definition": "Typography is a fundamental concept in computer-science.",
   "explanation": "Learn about Typography and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "typography"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-03.topic-01",
   "name": "Generalized Anxiety Disorder",
   "subject": "psychology",
+  "summary": "Generalized Anxiety Disorder is a fundamental concept in psychology.",
   "definition": "Generalized Anxiety Disorder is a fundamental concept in psychology.",
   "explanation": "Learn about Generalized Anxiety Disorder and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "generalized-anxiety-disorder"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

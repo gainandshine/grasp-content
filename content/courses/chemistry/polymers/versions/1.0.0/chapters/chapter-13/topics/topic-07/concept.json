@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-07",
   "name": "Organic Chemistry I",
   "subject": "chemistry",
+  "summary": "Organic Chemistry I is a fundamental concept in chemistry.",
   "definition": "Organic Chemistry I is a fundamental concept in chemistry.",
   "explanation": "Learn about Organic Chemistry I and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "organic-chemistry-i"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

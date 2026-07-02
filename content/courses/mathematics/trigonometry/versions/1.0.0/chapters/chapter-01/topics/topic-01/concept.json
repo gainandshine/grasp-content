@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-01.topic-01",
   "name": "Angles",
   "subject": "mathematics",
+  "summary": "Angles is a fundamental concept in mathematics.",
   "definition": "Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

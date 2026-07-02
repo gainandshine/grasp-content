@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-14.topic-04",
   "name": "Outlier Detection",
   "subject": "mathematics",
+  "summary": "Outlier Detection is a fundamental concept in mathematics.",
   "definition": "Outlier Detection is a fundamental concept in mathematics.",
   "explanation": "Learn about Outlier Detection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "outlier-detection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

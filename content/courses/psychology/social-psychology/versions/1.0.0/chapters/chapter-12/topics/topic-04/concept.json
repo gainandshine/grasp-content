@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-12.topic-04",
   "name": "Marketing",
   "subject": "psychology",
+  "summary": "Marketing is a fundamental concept in psychology.",
   "definition": "Marketing is a fundamental concept in psychology.",
   "explanation": "Learn about Marketing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "marketing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

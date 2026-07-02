@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-03.topic-04",
   "name": "Fractional Order Reactions",
   "subject": "chemistry",
+  "summary": "Fractional Order Reactions is a fundamental concept in chemistry.",
   "definition": "Fractional Order Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Fractional Order Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fractional-order-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

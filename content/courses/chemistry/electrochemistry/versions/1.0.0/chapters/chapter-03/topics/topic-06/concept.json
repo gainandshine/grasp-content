@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-03.topic-06",
   "name": "Cell Notation",
   "subject": "chemistry",
+  "summary": "Cell Notation is a fundamental concept in chemistry.",
   "definition": "Cell Notation is a fundamental concept in chemistry.",
   "explanation": "Learn about Cell Notation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cell-notation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

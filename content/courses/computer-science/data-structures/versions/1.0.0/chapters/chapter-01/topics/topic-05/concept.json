@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-01.topic-05",
   "name": "Space Complexity",
   "subject": "computer-science",
+  "summary": "Space Complexity is a fundamental concept in computer-science.",
   "definition": "Space Complexity is a fundamental concept in computer-science.",
   "explanation": "Learn about Space Complexity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "space-complexity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

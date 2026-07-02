@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-07.topic-02",
   "name": "Melody",
   "subject": "philosophy",
+  "summary": "Melody is a fundamental concept in philosophy.",
   "definition": "Melody is a fundamental concept in philosophy.",
   "explanation": "Learn about Melody and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "melody"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

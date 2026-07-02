@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-07.topic-06",
   "name": "Gouraud Shading",
   "subject": "computer-science",
+  "summary": "Gouraud Shading is a fundamental concept in computer-science.",
   "definition": "Gouraud Shading is a fundamental concept in computer-science.",
   "explanation": "Learn about Gouraud Shading and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "gouraud-shading"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

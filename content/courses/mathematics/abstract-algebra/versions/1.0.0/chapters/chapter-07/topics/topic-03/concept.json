@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-07.topic-03",
   "name": "Prime Ideals",
   "subject": "mathematics",
+  "summary": "Prime Ideals is a fundamental concept in mathematics.",
   "definition": "Prime Ideals is a fundamental concept in mathematics.",
   "explanation": "Learn about Prime Ideals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "prime-ideals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

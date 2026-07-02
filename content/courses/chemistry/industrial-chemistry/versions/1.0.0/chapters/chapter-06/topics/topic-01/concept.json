@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-06.topic-01",
   "name": "Plastic Manufacturing",
   "subject": "chemistry",
+  "summary": "Plastic Manufacturing is a fundamental concept in chemistry.",
   "definition": "Plastic Manufacturing is a fundamental concept in chemistry.",
   "explanation": "Learn about Plastic Manufacturing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "plastic-manufacturing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

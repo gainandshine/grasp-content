@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-10.topic-04",
   "name": "Common Ancestry",
   "subject": "biology",
+  "summary": "Common Ancestry is a fundamental concept in biology.",
   "definition": "Common Ancestry is a fundamental concept in biology.",
   "explanation": "Learn about Common Ancestry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "common-ancestry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

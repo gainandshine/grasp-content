@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-08.topic-06",
   "name": "Nuclear Safety",
   "subject": "chemistry",
+  "summary": "Nuclear Safety is a fundamental concept in chemistry.",
   "definition": "Nuclear Safety is a fundamental concept in chemistry.",
   "explanation": "Learn about Nuclear Safety and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nuclear-safety"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

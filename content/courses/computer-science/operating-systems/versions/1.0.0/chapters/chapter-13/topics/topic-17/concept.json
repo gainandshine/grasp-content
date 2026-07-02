@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-13.topic-17",
   "name": "Switching",
   "subject": "computer-science",
+  "summary": "Switching is a fundamental concept in computer-science.",
   "definition": "Switching is a fundamental concept in computer-science.",
   "explanation": "Learn about Switching and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "switching"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

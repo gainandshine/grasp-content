@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-02.topic-04",
   "name": "Ambidentate Ligands",
   "subject": "chemistry",
+  "summary": "Ambidentate Ligands is a fundamental concept in chemistry.",
   "definition": "Ambidentate Ligands is a fundamental concept in chemistry.",
   "explanation": "Learn about Ambidentate Ligands and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ambidentate-ligands"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

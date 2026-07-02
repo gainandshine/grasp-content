@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-01.topic-05",
   "name": "Goals of Science",
   "subject": "philosophy",
+  "summary": "Goals of Science is a fundamental concept in philosophy.",
   "definition": "Goals of Science is a fundamental concept in philosophy.",
   "explanation": "Learn about Goals of Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "goals-of-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-04.topic-02",
   "name": "Memory (RAM)",
   "subject": "computer-science",
+  "summary": "Memory (RAM) is a fundamental concept in computer-science.",
   "definition": "Memory (RAM) is a fundamental concept in computer-science.",
   "explanation": "Learn about Memory (RAM) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "memory-ram"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

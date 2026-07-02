@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-03.topic-07",
   "name": "Rational Inquiry",
   "subject": "philosophy",
+  "summary": "Rational Inquiry is a fundamental concept in philosophy.",
   "definition": "Rational Inquiry is a fundamental concept in philosophy.",
   "explanation": "Learn about Rational Inquiry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "rational-inquiry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

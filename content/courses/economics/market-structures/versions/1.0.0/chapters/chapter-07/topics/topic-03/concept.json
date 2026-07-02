@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-07.topic-03",
   "name": "Bundling",
   "subject": "economics",
+  "summary": "Bundling is a fundamental concept in economics.",
   "definition": "Bundling is a fundamental concept in economics.",
   "explanation": "Learn about Bundling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "bundling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-11.topic-06",
   "name": "Digital Learning",
   "subject": "psychology",
+  "summary": "Digital Learning is a fundamental concept in psychology.",
   "definition": "Digital Learning is a fundamental concept in psychology.",
   "explanation": "Learn about Digital Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "digital-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

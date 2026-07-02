@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-06.topic-01",
   "name": "Cartesian Coordinates",
   "subject": "physics",
+  "summary": "Cartesian Coordinates is a fundamental concept in physics.",
   "definition": "Cartesian Coordinates is a fundamental concept in physics.",
   "explanation": "Learn about Cartesian Coordinates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cartesian-coordinates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

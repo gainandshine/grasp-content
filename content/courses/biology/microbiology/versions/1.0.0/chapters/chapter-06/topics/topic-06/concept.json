@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-06.topic-06",
   "name": "Helminths",
   "subject": "biology",
+  "summary": "Helminths is a fundamental concept in biology.",
   "definition": "Helminths is a fundamental concept in biology.",
   "explanation": "Learn about Helminths and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "helminths"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

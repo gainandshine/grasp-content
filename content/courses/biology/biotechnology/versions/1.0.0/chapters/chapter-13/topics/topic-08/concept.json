@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-08",
   "name": "Water & Biological Molecules",
   "subject": "biology",
+  "summary": "Water & Biological Molecules is a fundamental concept in biology.",
   "definition": "Water & Biological Molecules is a fundamental concept in biology.",
   "explanation": "Learn about Water & Biological Molecules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "water-biological-molecules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-11.topic-06",
   "name": "Solving Systems Using Matrices",
   "subject": "mathematics",
+  "summary": "Solving Systems Using Matrices is a fundamental concept in mathematics.",
   "definition": "Solving Systems Using Matrices is a fundamental concept in mathematics.",
   "explanation": "Learn about Solving Systems Using Matrices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "solving-systems-using-matrices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

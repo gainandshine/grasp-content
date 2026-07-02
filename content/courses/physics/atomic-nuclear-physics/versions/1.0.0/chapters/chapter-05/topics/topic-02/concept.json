@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-05.topic-02",
   "name": "Zeeman Effect",
   "subject": "physics",
+  "summary": "Zeeman Effect is a fundamental concept in physics.",
   "definition": "Zeeman Effect is a fundamental concept in physics.",
   "explanation": "Learn about Zeeman Effect and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "zeeman-effect"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

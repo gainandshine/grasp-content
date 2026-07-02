@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-07.topic-03",
   "name": "Tubular Reabsorption",
   "subject": "biology",
+  "summary": "Tubular Reabsorption is a fundamental concept in biology.",
   "definition": "Tubular Reabsorption is a fundamental concept in biology.",
   "explanation": "Learn about Tubular Reabsorption and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "tubular-reabsorption"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

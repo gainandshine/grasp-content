@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-02.topic-04",
   "name": "Psychodynamic Perspective",
   "subject": "psychology",
+  "summary": "Psychodynamic Perspective is a fundamental concept in psychology.",
   "definition": "Psychodynamic Perspective is a fundamental concept in psychology.",
   "explanation": "Learn about Psychodynamic Perspective and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "psychodynamic-perspective"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

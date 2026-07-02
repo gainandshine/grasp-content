@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-10.topic-04",
   "name": "Chlorophyll",
   "subject": "biology",
+  "summary": "Chlorophyll is a fundamental concept in biology.",
   "definition": "Chlorophyll is a fundamental concept in biology.",
   "explanation": "Learn about Chlorophyll and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "chlorophyll"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

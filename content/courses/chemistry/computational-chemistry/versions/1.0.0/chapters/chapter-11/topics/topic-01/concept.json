@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-11.topic-01",
   "name": "Crystal Modeling",
   "subject": "chemistry",
+  "summary": "Crystal Modeling is a fundamental concept in chemistry.",
   "definition": "Crystal Modeling is a fundamental concept in chemistry.",
   "explanation": "Learn about Crystal Modeling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "crystal-modeling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-10.topic-01",
   "name": "Evolutionary Cooperation",
   "subject": "game-theory",
+  "summary": "Evolutionary Cooperation is a fundamental concept in game-theory.",
   "definition": "Evolutionary Cooperation is a fundamental concept in game-theory.",
   "explanation": "Learn about Evolutionary Cooperation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "evolutionary-cooperation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

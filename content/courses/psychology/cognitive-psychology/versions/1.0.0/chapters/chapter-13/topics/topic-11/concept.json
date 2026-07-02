@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-13.topic-11",
   "name": "Neurotransmitters",
   "subject": "psychology",
+  "summary": "Neurotransmitters is a fundamental concept in psychology.",
   "definition": "Neurotransmitters is a fundamental concept in psychology.",
   "explanation": "Learn about Neurotransmitters and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "neurotransmitters"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

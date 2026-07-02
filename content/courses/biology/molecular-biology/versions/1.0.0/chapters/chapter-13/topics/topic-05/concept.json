@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-13.topic-05",
   "name": "Systems Biology",
   "subject": "biology",
+  "summary": "Systems Biology is a fundamental concept in biology.",
   "definition": "Systems Biology is a fundamental concept in biology.",
   "explanation": "Learn about Systems Biology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "systems-biology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

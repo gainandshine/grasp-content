@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-06.topic-01",
   "name": "while Loop",
   "subject": "computer-science",
+  "summary": "while Loop is a fundamental concept in computer-science.",
   "definition": "while Loop is a fundamental concept in computer-science.",
   "explanation": "Learn about while Loop and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "while-loop"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

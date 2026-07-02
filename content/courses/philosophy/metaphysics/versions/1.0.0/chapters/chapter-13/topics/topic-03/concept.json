@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-13.topic-03",
   "name": "Persistence Theories",
   "subject": "philosophy",
+  "summary": "Persistence Theories is a fundamental concept in philosophy.",
   "definition": "Persistence Theories is a fundamental concept in philosophy.",
   "explanation": "Learn about Persistence Theories and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "persistence-theories"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

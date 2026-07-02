@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-06.topic-03",
   "name": "Equilibrium in Gas Mixtures",
   "subject": "chemistry",
+  "summary": "Equilibrium in Gas Mixtures is a fundamental concept in chemistry.",
   "definition": "Equilibrium in Gas Mixtures is a fundamental concept in chemistry.",
   "explanation": "Learn about Equilibrium in Gas Mixtures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "equilibrium-in-gas-mixtures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

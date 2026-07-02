@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-06.topic-02",
   "name": "Activity Selection",
   "subject": "computer-science",
+  "summary": "Activity Selection is a fundamental concept in computer-science.",
   "definition": "Activity Selection is a fundamental concept in computer-science.",
   "explanation": "Learn about Activity Selection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "activity-selection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

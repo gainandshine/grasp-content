@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-06.topic-05",
   "name": "Minimum Spanning Tree (Greedy View)",
   "subject": "computer-science",
+  "summary": "Minimum Spanning Tree (Greedy View) is a fundamental concept in computer-science.",
   "definition": "Minimum Spanning Tree (Greedy View) is a fundamental concept in computer-science.",
   "explanation": "Learn about Minimum Spanning Tree (Greedy View) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "minimum-spanning-tree-greedy-view"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

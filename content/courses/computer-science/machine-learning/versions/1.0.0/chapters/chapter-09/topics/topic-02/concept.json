@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-09.topic-02",
   "name": "Agents",
   "subject": "computer-science",
+  "summary": "Agents is a fundamental concept in computer-science.",
   "definition": "Agents is a fundamental concept in computer-science.",
   "explanation": "Learn about Agents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "agents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

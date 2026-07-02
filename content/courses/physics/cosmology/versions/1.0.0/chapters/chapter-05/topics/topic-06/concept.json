@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-05.topic-06",
   "name": "Large-Scale Structure",
   "subject": "physics",
+  "summary": "Large-Scale Structure is a fundamental concept in physics.",
   "definition": "Large-Scale Structure is a fundamental concept in physics.",
   "explanation": "Learn about Large-Scale Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "large-scale-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

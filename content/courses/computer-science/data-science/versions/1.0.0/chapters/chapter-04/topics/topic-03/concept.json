@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-04.topic-03",
   "name": "Correlation",
   "subject": "computer-science",
+  "summary": "Correlation is a fundamental concept in computer-science.",
   "definition": "Correlation is a fundamental concept in computer-science.",
   "explanation": "Learn about Correlation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "correlation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

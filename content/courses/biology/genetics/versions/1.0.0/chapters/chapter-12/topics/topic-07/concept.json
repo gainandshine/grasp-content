@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-12.topic-07",
   "name": "Future of Genetics",
   "subject": "biology",
+  "summary": "Future of Genetics is a fundamental concept in biology.",
   "definition": "Future of Genetics is a fundamental concept in biology.",
   "explanation": "Learn about Future of Genetics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "future-of-genetics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

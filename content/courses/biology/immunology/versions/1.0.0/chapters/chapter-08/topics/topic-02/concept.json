@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-08.topic-02",
   "name": "Passive Immunity",
   "subject": "biology",
+  "summary": "Passive Immunity is a fundamental concept in biology.",
   "definition": "Passive Immunity is a fundamental concept in biology.",
   "explanation": "Learn about Passive Immunity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "passive-immunity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

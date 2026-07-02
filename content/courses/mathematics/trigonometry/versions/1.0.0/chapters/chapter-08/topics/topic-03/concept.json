@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-08.topic-03",
   "name": "Arctangent",
   "subject": "mathematics",
+  "summary": "Arctangent is a fundamental concept in mathematics.",
   "definition": "Arctangent is a fundamental concept in mathematics.",
   "explanation": "Learn about Arctangent and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "arctangent"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

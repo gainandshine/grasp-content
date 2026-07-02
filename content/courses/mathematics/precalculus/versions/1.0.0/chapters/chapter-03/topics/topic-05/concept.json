@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-03.topic-05",
   "name": "Zeros",
   "subject": "mathematics",
+  "summary": "Zeros is a fundamental concept in mathematics.",
   "definition": "Zeros is a fundamental concept in mathematics.",
   "explanation": "Learn about Zeros and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "zeros"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

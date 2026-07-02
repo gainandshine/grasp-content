@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-08.topic-02",
   "name": "Envy-Free Allocation",
   "subject": "game-theory",
+  "summary": "Envy-Free Allocation is a fundamental concept in game-theory.",
   "definition": "Envy-Free Allocation is a fundamental concept in game-theory.",
   "explanation": "Learn about Envy-Free Allocation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "envy-free-allocation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-10.topic-01",
   "name": "Markov Chains",
   "subject": "mathematics",
+  "summary": "Markov Chains is a fundamental concept in mathematics.",
   "definition": "Markov Chains is a fundamental concept in mathematics.",
   "explanation": "Learn about Markov Chains and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "markov-chains"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

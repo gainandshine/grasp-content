@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-01.topic-01",
   "name": "What is an Algorithm?",
   "subject": "computer-science",
+  "summary": "What is an Algorithm? is a fundamental concept in computer-science.",
   "definition": "What is an Algorithm? is a fundamental concept in computer-science.",
   "explanation": "Learn about What is an Algorithm? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "what-is-an-algorithm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

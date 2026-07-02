@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-10.topic-01",
   "name": "Human Population Growth",
   "subject": "biology",
+  "summary": "Human Population Growth is a fundamental concept in biology.",
   "definition": "Human Population Growth is a fundamental concept in biology.",
   "explanation": "Learn about Human Population Growth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "human-population-growth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-04.topic-05",
   "name": "Monitors",
   "subject": "computer-science",
+  "summary": "Monitors is a fundamental concept in computer-science.",
   "definition": "Monitors is a fundamental concept in computer-science.",
   "explanation": "Learn about Monitors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "monitors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-11.topic-04",
   "name": "Event-Driven Architecture",
   "subject": "computer-science",
+  "summary": "Event-Driven Architecture is a fundamental concept in computer-science.",
   "definition": "Event-Driven Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Event-Driven Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "event-driven-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

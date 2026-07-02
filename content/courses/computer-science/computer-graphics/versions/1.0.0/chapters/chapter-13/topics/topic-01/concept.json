@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-01",
   "name": "Procedural Generation",
   "subject": "computer-science",
+  "summary": "Procedural Generation is a fundamental concept in computer-science.",
   "definition": "Procedural Generation is a fundamental concept in computer-science.",
   "explanation": "Learn about Procedural Generation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "procedural-generation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-07.topic-02",
   "name": "Azimuthal Quantum Number (l)",
   "subject": "chemistry",
+  "summary": "Azimuthal Quantum Number (l) is a fundamental concept in chemistry.",
   "definition": "Azimuthal Quantum Number (l) is a fundamental concept in chemistry.",
   "explanation": "Learn about Azimuthal Quantum Number (l) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "azimuthal-quantum-number-l"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

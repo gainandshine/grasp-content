@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-06.topic-02",
   "name": "Gastrointestinal Motility",
   "subject": "biology",
+  "summary": "Gastrointestinal Motility is a fundamental concept in biology.",
   "definition": "Gastrointestinal Motility is a fundamental concept in biology.",
   "explanation": "Learn about Gastrointestinal Motility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gastrointestinal-motility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

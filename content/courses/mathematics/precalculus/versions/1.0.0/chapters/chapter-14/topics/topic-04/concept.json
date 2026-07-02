@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-14.topic-04",
   "name": "Logarithmic Models",
   "subject": "mathematics",
+  "summary": "Logarithmic Models is a fundamental concept in mathematics.",
   "definition": "Logarithmic Models is a fundamental concept in mathematics.",
   "explanation": "Learn about Logarithmic Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "logarithmic-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

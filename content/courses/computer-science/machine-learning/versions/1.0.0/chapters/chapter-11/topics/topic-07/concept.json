@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-11.topic-07",
   "name": "ML Infrastructure",
   "subject": "computer-science",
+  "summary": "ML Infrastructure is a fundamental concept in computer-science.",
   "definition": "ML Infrastructure is a fundamental concept in computer-science.",
   "explanation": "Learn about ML Infrastructure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ml-infrastructure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-01.topic-04",
   "name": "Training, Validation & Test Sets",
   "subject": "computer-science",
+  "summary": "Training, Validation & Test Sets is a fundamental concept in computer-science.",
   "definition": "Training, Validation & Test Sets is a fundamental concept in computer-science.",
   "explanation": "Learn about Training, Validation & Test Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "training-validation-test-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-08.topic-04",
   "name": "Malleability",
   "subject": "chemistry",
+  "summary": "Malleability is a fundamental concept in chemistry.",
   "definition": "Malleability is a fundamental concept in chemistry.",
   "explanation": "Learn about Malleability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "malleability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

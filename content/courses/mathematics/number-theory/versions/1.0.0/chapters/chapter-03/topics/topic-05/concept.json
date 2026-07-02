@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-03.topic-05",
   "name": "Modular Multiplication",
   "subject": "mathematics",
+  "summary": "Modular Multiplication is a fundamental concept in mathematics.",
   "definition": "Modular Multiplication is a fundamental concept in mathematics.",
   "explanation": "Learn about Modular Multiplication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "modular-multiplication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

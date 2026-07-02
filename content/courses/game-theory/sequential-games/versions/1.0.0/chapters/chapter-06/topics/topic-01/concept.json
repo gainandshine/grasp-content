@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-06.topic-01",
   "name": "Strategic Commitment",
   "subject": "game-theory",
+  "summary": "Strategic Commitment is a fundamental concept in game-theory.",
   "definition": "Strategic Commitment is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Commitment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-commitment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

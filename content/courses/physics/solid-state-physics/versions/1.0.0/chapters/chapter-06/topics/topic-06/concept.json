@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-06.topic-06",
   "name": "Semiconductors",
   "subject": "physics",
+  "summary": "Semiconductors is a fundamental concept in physics.",
   "definition": "Semiconductors is a fundamental concept in physics.",
   "explanation": "Learn about Semiconductors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "semiconductors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

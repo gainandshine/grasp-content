@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-03.topic-06",
   "name": "Mean Free Path",
   "subject": "physics",
+  "summary": "Mean Free Path is a fundamental concept in physics.",
   "definition": "Mean Free Path is a fundamental concept in physics.",
   "explanation": "Learn about Mean Free Path and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mean-free-path"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

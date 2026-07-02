@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-01.topic-01",
   "name": "Classical vs Relativistic Physics",
   "subject": "physics",
+  "summary": "Classical vs Relativistic Physics is a fundamental concept in physics.",
   "definition": "Classical vs Relativistic Physics is a fundamental concept in physics.",
   "explanation": "Learn about Classical vs Relativistic Physics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "classical-vs-relativistic-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

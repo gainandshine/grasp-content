@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-06.topic-01",
   "name": "Structure of the Nucleus",
   "subject": "physics",
+  "summary": "Structure of the Nucleus is a fundamental concept in physics.",
   "definition": "Structure of the Nucleus is a fundamental concept in physics.",
   "explanation": "Learn about Structure of the Nucleus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "structure-of-the-nucleus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

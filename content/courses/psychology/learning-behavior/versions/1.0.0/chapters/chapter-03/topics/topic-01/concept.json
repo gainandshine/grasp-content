@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-03.topic-01",
   "name": "B. F. Skinner",
   "subject": "psychology",
+  "summary": "B. F. Skinner is a fundamental concept in psychology.",
   "definition": "B. F. Skinner is a fundamental concept in psychology.",
   "explanation": "Learn about B. F. Skinner and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "b-f-skinner"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

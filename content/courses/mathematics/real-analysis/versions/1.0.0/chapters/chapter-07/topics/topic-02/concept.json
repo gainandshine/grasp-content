@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-07.topic-02",
   "name": "Mean Value Theorem",
   "subject": "mathematics",
+  "summary": "Mean Value Theorem is a fundamental concept in mathematics.",
   "definition": "Mean Value Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Mean Value Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mean-value-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

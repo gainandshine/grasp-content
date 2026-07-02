@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-06.topic-03",
   "name": "Geostationary Satellites",
   "subject": "physics",
+  "summary": "Geostationary Satellites is a fundamental concept in physics.",
   "definition": "Geostationary Satellites is a fundamental concept in physics.",
   "explanation": "Learn about Geostationary Satellites and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "geostationary-satellites"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

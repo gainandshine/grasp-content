@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-01.topic-02",
   "name": "History of Psychology",
   "subject": "psychology",
+  "summary": "History of Psychology is a fundamental concept in psychology.",
   "definition": "History of Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about History of Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "history-of-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

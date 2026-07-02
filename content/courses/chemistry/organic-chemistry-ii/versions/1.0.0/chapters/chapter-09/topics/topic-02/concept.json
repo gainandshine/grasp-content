@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-09.topic-02",
   "name": "Friedel-Crafts Reaction",
   "subject": "chemistry",
+  "summary": "Friedel-Crafts Reaction is a fundamental concept in chemistry.",
   "definition": "Friedel-Crafts Reaction is a fundamental concept in chemistry.",
   "explanation": "Learn about Friedel-Crafts Reaction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "friedel-crafts-reaction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

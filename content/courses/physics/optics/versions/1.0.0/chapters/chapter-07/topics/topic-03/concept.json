@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-07.topic-03",
   "name": "Destructive Interference",
   "subject": "physics",
+  "summary": "Destructive Interference is a fundamental concept in physics.",
   "definition": "Destructive Interference is a fundamental concept in physics.",
   "explanation": "Learn about Destructive Interference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "destructive-interference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

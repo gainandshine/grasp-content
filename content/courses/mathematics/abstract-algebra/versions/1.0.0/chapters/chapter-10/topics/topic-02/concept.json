@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-10.topic-02",
   "name": "Vector Spaces as Modules",
   "subject": "mathematics",
+  "summary": "Vector Spaces as Modules is a fundamental concept in mathematics.",
   "definition": "Vector Spaces as Modules is a fundamental concept in mathematics.",
   "explanation": "Learn about Vector Spaces as Modules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "vector-spaces-as-modules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

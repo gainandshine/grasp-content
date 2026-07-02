@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-02.topic-02",
   "name": "Fluid Mosaic Model",
   "subject": "biology",
+  "summary": "Fluid Mosaic Model is a fundamental concept in biology.",
   "definition": "Fluid Mosaic Model is a fundamental concept in biology.",
   "explanation": "Learn about Fluid Mosaic Model and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "fluid-mosaic-model"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

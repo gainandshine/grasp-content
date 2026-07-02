@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-13.topic-09",
   "name": "Economics",
   "subject": "game-theory",
+  "summary": "Economics is a fundamental concept in game-theory.",
   "definition": "Economics is a fundamental concept in game-theory.",
   "explanation": "Learn about Economics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "economics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

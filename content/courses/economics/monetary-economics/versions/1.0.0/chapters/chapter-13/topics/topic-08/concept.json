@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-13.topic-08",
   "name": "Economic Development",
   "subject": "economics",
+  "summary": "Economic Development is a fundamental concept in economics.",
   "definition": "Economic Development is a fundamental concept in economics.",
   "explanation": "Learn about Economic Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "economic-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

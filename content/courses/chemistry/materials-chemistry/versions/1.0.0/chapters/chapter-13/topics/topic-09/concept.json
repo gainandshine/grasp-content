@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-13.topic-09",
   "name": "Fundamentals of Nanoscience",
   "subject": "chemistry",
+  "summary": "Fundamentals of Nanoscience is a fundamental concept in chemistry.",
   "definition": "Fundamentals of Nanoscience is a fundamental concept in chemistry.",
   "explanation": "Learn about Fundamentals of Nanoscience and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fundamentals-of-nanoscience"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

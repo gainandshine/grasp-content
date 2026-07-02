@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-06",
   "name": "Cloud Databases",
   "subject": "computer-science",
+  "summary": "Cloud Databases is a fundamental concept in computer-science.",
   "definition": "Cloud Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about Cloud Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cloud-databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

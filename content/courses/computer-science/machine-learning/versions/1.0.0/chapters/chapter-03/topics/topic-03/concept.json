@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-03.topic-03",
   "name": "Linear Regression",
   "subject": "computer-science",
+  "summary": "Linear Regression is a fundamental concept in computer-science.",
   "definition": "Linear Regression is a fundamental concept in computer-science.",
   "explanation": "Learn about Linear Regression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "linear-regression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

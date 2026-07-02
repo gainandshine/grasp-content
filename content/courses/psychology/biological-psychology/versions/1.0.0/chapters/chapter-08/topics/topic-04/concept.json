@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-08.topic-04",
   "name": "Dopamine",
   "subject": "psychology",
+  "summary": "Dopamine is a fundamental concept in psychology.",
   "definition": "Dopamine is a fundamental concept in psychology.",
   "explanation": "Learn about Dopamine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "dopamine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

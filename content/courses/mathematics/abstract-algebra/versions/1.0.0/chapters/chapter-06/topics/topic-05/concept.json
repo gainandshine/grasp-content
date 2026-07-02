@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-06.topic-05",
   "name": "Division Rings",
   "subject": "mathematics",
+  "summary": "Division Rings is a fundamental concept in mathematics.",
   "definition": "Division Rings is a fundamental concept in mathematics.",
   "explanation": "Learn about Division Rings and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "division-rings"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

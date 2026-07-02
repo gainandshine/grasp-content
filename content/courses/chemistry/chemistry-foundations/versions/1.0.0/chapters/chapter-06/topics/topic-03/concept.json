@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-06.topic-03",
   "name": "Molecular Formula",
   "subject": "chemistry",
+  "summary": "Molecular Formula is a fundamental concept in chemistry.",
   "definition": "Molecular Formula is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Formula and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-formula"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

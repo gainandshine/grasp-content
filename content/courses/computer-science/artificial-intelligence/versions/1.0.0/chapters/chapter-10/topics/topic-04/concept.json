@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-10.topic-04",
   "name": "Image Classification",
   "subject": "computer-science",
+  "summary": "Image Classification is a fundamental concept in computer-science.",
   "definition": "Image Classification is a fundamental concept in computer-science.",
   "explanation": "Learn about Image Classification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "image-classification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

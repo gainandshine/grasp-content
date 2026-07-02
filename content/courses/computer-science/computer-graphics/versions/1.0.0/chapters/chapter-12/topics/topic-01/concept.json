@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-12.topic-01",
   "name": "Game Development",
   "subject": "computer-science",
+  "summary": "Game Development is a fundamental concept in computer-science.",
   "definition": "Game Development is a fundamental concept in computer-science.",
   "explanation": "Learn about Game Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "game-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

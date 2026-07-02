@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-02.topic-01",
   "name": "Periods",
   "subject": "chemistry",
+  "summary": "Periods is a fundamental concept in chemistry.",
   "definition": "Periods is a fundamental concept in chemistry.",
   "explanation": "Learn about Periods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "periods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

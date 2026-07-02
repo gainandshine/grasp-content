@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-03.topic-03",
   "name": "Price Discovery",
   "subject": "game-theory",
+  "summary": "Price Discovery is a fundamental concept in game-theory.",
   "definition": "Price Discovery is a fundamental concept in game-theory.",
   "explanation": "Learn about Price Discovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "price-discovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

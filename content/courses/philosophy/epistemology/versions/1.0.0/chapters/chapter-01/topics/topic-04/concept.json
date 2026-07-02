@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-01.topic-04",
   "name": "Truth",
   "subject": "philosophy",
+  "summary": "Truth is a fundamental concept in philosophy.",
   "definition": "Truth is a fundamental concept in philosophy.",
   "explanation": "Learn about Truth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "truth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

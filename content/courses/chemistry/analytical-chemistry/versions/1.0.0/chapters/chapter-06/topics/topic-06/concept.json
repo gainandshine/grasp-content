@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-06.topic-06",
   "name": "Dialysis",
   "subject": "chemistry",
+  "summary": "Dialysis is a fundamental concept in chemistry.",
   "definition": "Dialysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Dialysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "dialysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

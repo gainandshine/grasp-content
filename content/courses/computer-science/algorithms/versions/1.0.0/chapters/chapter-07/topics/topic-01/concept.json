@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-07.topic-01",
   "name": "Optimal Substructure",
   "subject": "computer-science",
+  "summary": "Optimal Substructure is a fundamental concept in computer-science.",
   "definition": "Optimal Substructure is a fundamental concept in computer-science.",
   "explanation": "Learn about Optimal Substructure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "optimal-substructure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

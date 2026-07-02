@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-04.topic-04",
   "name": "Quartiles",
   "subject": "mathematics",
+  "summary": "Quartiles is a fundamental concept in mathematics.",
   "definition": "Quartiles is a fundamental concept in mathematics.",
   "explanation": "Learn about Quartiles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "quartiles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-11.topic-02",
   "name": "Vector Line Integrals",
   "subject": "mathematics",
+  "summary": "Vector Line Integrals is a fundamental concept in mathematics.",
   "definition": "Vector Line Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Vector Line Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "vector-line-integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

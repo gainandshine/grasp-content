@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-10.topic-03",
   "name": "Information Asymmetry",
   "subject": "game-theory",
+  "summary": "Information Asymmetry is a fundamental concept in game-theory.",
   "definition": "Information Asymmetry is a fundamental concept in game-theory.",
   "explanation": "Learn about Information Asymmetry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "information-asymmetry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

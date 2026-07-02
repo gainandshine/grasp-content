@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-10.topic-04",
   "name": "Yield (Introduction)",
   "subject": "chemistry",
+  "summary": "Yield (Introduction) is a fundamental concept in chemistry.",
   "definition": "Yield (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Yield (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "yield-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-04.topic-04",
   "name": "Expected Value",
   "subject": "game-theory",
+  "summary": "Expected Value is a fundamental concept in game-theory.",
   "definition": "Expected Value is a fundamental concept in game-theory.",
   "explanation": "Learn about Expected Value and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "expected-value"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-02.topic-04",
   "name": "Expectation Values",
   "subject": "physics",
+  "summary": "Expectation Values is a fundamental concept in physics.",
   "definition": "Expectation Values is a fundamental concept in physics.",
   "explanation": "Learn about Expectation Values and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "expectation-values"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-08.topic-04",
   "name": "Reactivity of Nonmetals",
   "subject": "chemistry",
+  "summary": "Reactivity of Nonmetals is a fundamental concept in chemistry.",
   "definition": "Reactivity of Nonmetals is a fundamental concept in chemistry.",
   "explanation": "Learn about Reactivity of Nonmetals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "reactivity-of-nonmetals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

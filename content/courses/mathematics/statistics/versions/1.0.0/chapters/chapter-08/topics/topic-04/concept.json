@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-08.topic-04",
   "name": "Significance Level",
   "subject": "mathematics",
+  "summary": "Significance Level is a fundamental concept in mathematics.",
   "definition": "Significance Level is a fundamental concept in mathematics.",
   "explanation": "Learn about Significance Level and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "significance-level"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

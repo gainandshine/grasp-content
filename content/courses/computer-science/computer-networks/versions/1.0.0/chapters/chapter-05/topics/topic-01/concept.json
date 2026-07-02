@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-05.topic-01",
   "name": "IP Addressing",
   "subject": "computer-science",
+  "summary": "IP Addressing is a fundamental concept in computer-science.",
   "definition": "IP Addressing is a fundamental concept in computer-science.",
   "explanation": "Learn about IP Addressing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ip-addressing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

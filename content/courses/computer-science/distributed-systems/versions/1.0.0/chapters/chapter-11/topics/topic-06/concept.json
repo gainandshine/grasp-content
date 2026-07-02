@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-11.topic-06",
   "name": "Elastic Infrastructure",
   "subject": "computer-science",
+  "summary": "Elastic Infrastructure is a fundamental concept in computer-science.",
   "definition": "Elastic Infrastructure is a fundamental concept in computer-science.",
   "explanation": "Learn about Elastic Infrastructure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "elastic-infrastructure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

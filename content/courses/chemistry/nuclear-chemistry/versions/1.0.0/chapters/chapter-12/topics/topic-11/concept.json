@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-12.topic-11",
   "name": "Petroleum Refining",
   "subject": "chemistry",
+  "summary": "Petroleum Refining is a fundamental concept in chemistry.",
   "definition": "Petroleum Refining is a fundamental concept in chemistry.",
   "explanation": "Learn about Petroleum Refining and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "petroleum-refining"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

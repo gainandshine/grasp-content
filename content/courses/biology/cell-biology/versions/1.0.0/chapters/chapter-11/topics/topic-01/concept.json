@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-11.topic-01",
   "name": "Light Microscopy",
   "subject": "biology",
+  "summary": "Light Microscopy is a fundamental concept in biology.",
   "definition": "Light Microscopy is a fundamental concept in biology.",
   "explanation": "Learn about Light Microscopy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "light-microscopy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-08.topic-07",
   "name": "Uncertainty Analysis",
   "subject": "physics",
+  "summary": "Uncertainty Analysis is a fundamental concept in physics.",
   "definition": "Uncertainty Analysis is a fundamental concept in physics.",
   "explanation": "Learn about Uncertainty Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "uncertainty-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

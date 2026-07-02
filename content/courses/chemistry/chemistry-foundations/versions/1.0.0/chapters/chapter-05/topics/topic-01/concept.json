@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-05.topic-01",
   "name": "Solids",
   "subject": "chemistry",
+  "summary": "Solids is a fundamental concept in chemistry.",
   "definition": "Solids is a fundamental concept in chemistry.",
   "explanation": "Learn about Solids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

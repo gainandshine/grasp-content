@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-05.topic-06",
   "name": "Cartels",
   "subject": "economics",
+  "summary": "Cartels is a fundamental concept in economics.",
   "definition": "Cartels is a fundamental concept in economics.",
   "explanation": "Learn about Cartels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "cartels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

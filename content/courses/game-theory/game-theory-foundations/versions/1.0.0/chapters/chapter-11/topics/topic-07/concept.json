@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-11.topic-07",
   "name": "Everyday Decisions",
   "subject": "game-theory",
+  "summary": "Everyday Decisions is a fundamental concept in game-theory.",
   "definition": "Everyday Decisions is a fundamental concept in game-theory.",
   "explanation": "Learn about Everyday Decisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "everyday-decisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-05.topic-04",
   "name": "Level Curves",
   "subject": "mathematics",
+  "summary": "Level Curves is a fundamental concept in mathematics.",
   "definition": "Level Curves is a fundamental concept in mathematics.",
   "explanation": "Learn about Level Curves and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "level-curves"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

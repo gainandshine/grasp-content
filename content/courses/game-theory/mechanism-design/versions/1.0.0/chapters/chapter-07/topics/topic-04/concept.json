@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-07.topic-04",
   "name": "Budget Balance",
   "subject": "game-theory",
+  "summary": "Budget Balance is a fundamental concept in game-theory.",
   "definition": "Budget Balance is a fundamental concept in game-theory.",
   "explanation": "Learn about Budget Balance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "budget-balance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

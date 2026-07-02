@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-10",
   "name": "Polymers",
   "subject": "chemistry",
+  "summary": "Polymers is a fundamental concept in chemistry.",
   "definition": "Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

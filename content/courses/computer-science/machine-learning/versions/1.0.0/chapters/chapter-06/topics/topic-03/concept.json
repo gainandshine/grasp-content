@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-06.topic-03",
   "name": "Precision",
   "subject": "computer-science",
+  "summary": "Precision is a fundamental concept in computer-science.",
   "definition": "Precision is a fundamental concept in computer-science.",
   "explanation": "Learn about Precision and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "precision"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-02.topic-02",
   "name": "Histograms",
   "subject": "mathematics",
+  "summary": "Histograms is a fundamental concept in mathematics.",
   "definition": "Histograms is a fundamental concept in mathematics.",
   "explanation": "Learn about Histograms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "histograms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

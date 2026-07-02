@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-05.topic-03",
   "name": "Scientific Revolutions",
   "subject": "philosophy",
+  "summary": "Scientific Revolutions is a fundamental concept in philosophy.",
   "definition": "Scientific Revolutions is a fundamental concept in philosophy.",
   "explanation": "Learn about Scientific Revolutions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "scientific-revolutions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

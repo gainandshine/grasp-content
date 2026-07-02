@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-09.topic-03",
   "name": "Irreducible Polynomials",
   "subject": "mathematics",
+  "summary": "Irreducible Polynomials is a fundamental concept in mathematics.",
   "definition": "Irreducible Polynomials is a fundamental concept in mathematics.",
   "explanation": "Learn about Irreducible Polynomials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "irreducible-polynomials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

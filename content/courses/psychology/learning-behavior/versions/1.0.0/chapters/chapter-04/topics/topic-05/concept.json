@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-04.topic-05",
   "name": "Variable Interval",
   "subject": "psychology",
+  "summary": "Variable Interval is a fundamental concept in psychology.",
   "definition": "Variable Interval is a fundamental concept in psychology.",
   "explanation": "Learn about Variable Interval and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "variable-interval"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

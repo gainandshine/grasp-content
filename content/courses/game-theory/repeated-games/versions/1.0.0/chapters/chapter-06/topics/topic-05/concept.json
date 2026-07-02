@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-06.topic-05",
   "name": "Enforcement of Cooperation",
   "subject": "game-theory",
+  "summary": "Enforcement of Cooperation is a fundamental concept in game-theory.",
   "definition": "Enforcement of Cooperation is a fundamental concept in game-theory.",
   "explanation": "Learn about Enforcement of Cooperation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "enforcement-of-cooperation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

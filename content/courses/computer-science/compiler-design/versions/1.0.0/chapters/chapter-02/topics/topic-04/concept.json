@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-02.topic-04",
   "name": "Regular Expressions",
   "subject": "computer-science",
+  "summary": "Regular Expressions is a fundamental concept in computer-science.",
   "definition": "Regular Expressions is a fundamental concept in computer-science.",
   "explanation": "Learn about Regular Expressions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "regular-expressions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

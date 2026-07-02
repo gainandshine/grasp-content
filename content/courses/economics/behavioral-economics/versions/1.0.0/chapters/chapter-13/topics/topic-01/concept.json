@@ -2,6 +2,7 @@
   "id": "economics.behavioral-economics.chapter-13.topic-01",
   "name": "Neuroeconomics",
   "subject": "economics",
+  "summary": "Neuroeconomics is a fundamental concept in economics.",
   "definition": "Neuroeconomics is a fundamental concept in economics.",
   "explanation": "Learn about Neuroeconomics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "neuroeconomics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

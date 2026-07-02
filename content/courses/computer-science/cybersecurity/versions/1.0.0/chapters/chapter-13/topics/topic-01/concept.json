@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-13.topic-01",
   "name": "Enterprise Security",
   "subject": "computer-science",
+  "summary": "Enterprise Security is a fundamental concept in computer-science.",
   "definition": "Enterprise Security is a fundamental concept in computer-science.",
   "explanation": "Learn about Enterprise Security and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "enterprise-security"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

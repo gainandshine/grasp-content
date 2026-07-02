@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-10.topic-04",
   "name": "Displacement",
   "subject": "mathematics",
+  "summary": "Displacement is a fundamental concept in mathematics.",
   "definition": "Displacement is a fundamental concept in mathematics.",
   "explanation": "Learn about Displacement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "displacement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-10.topic-01",
   "name": "Plasma Generation",
   "subject": "physics",
+  "summary": "Plasma Generation is a fundamental concept in physics.",
   "definition": "Plasma Generation is a fundamental concept in physics.",
   "explanation": "Learn about Plasma Generation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plasma-generation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

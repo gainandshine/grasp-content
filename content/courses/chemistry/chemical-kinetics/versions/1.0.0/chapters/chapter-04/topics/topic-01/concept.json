@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-04.topic-01",
   "name": "Molecularity",
   "subject": "chemistry",
+  "summary": "Molecularity is a fundamental concept in chemistry.",
   "definition": "Molecularity is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecularity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecularity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

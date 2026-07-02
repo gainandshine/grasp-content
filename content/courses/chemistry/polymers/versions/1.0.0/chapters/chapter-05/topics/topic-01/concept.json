@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-05.topic-01",
   "name": "Random Copolymers",
   "subject": "chemistry",
+  "summary": "Random Copolymers is a fundamental concept in chemistry.",
   "definition": "Random Copolymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Random Copolymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "random-copolymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

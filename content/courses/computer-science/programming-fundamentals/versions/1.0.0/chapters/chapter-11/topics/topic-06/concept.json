@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-11.topic-06",
   "name": "Practice Problems",
   "subject": "computer-science",
+  "summary": "Practice Problems is a fundamental concept in computer-science.",
   "definition": "Practice Problems is a fundamental concept in computer-science.",
   "explanation": "Learn about Practice Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "practice-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-10.topic-02",
   "name": "Molecular Polarity",
   "subject": "chemistry",
+  "summary": "Molecular Polarity is a fundamental concept in chemistry.",
   "definition": "Molecular Polarity is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Polarity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-polarity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

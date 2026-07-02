@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-01.topic-03",
   "name": "Nanoscale Dimensions",
   "subject": "chemistry",
+  "summary": "Nanoscale Dimensions is a fundamental concept in chemistry.",
   "definition": "Nanoscale Dimensions is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanoscale Dimensions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanoscale-dimensions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

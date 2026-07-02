@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-04.topic-07",
   "name": "Strong Connectivity",
   "subject": "mathematics",
+  "summary": "Strong Connectivity is a fundamental concept in mathematics.",
   "definition": "Strong Connectivity is a fundamental concept in mathematics.",
   "explanation": "Learn about Strong Connectivity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "strong-connectivity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

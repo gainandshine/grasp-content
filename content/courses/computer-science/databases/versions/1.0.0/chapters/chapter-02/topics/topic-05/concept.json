@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-02.topic-05",
   "name": "Primary Keys",
   "subject": "computer-science",
+  "summary": "Primary Keys is a fundamental concept in computer-science.",
   "definition": "Primary Keys is a fundamental concept in computer-science.",
   "explanation": "Learn about Primary Keys and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "primary-keys"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-03.topic-04",
   "name": "Cathode",
   "subject": "chemistry",
+  "summary": "Cathode is a fundamental concept in chemistry.",
   "definition": "Cathode is a fundamental concept in chemistry.",
   "explanation": "Learn about Cathode and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cathode"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

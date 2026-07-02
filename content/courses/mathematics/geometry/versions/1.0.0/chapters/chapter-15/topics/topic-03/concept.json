@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-15.topic-03",
   "name": "Indirect Proofs",
   "subject": "mathematics",
+  "summary": "Indirect Proofs is a fundamental concept in mathematics.",
   "definition": "Indirect Proofs is a fundamental concept in mathematics.",
   "explanation": "Learn about Indirect Proofs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "indirect-proofs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

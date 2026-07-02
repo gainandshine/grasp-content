@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-03.topic-04",
   "name": "Depth-First Search (DFS)",
   "subject": "computer-science",
+  "summary": "Depth-First Search (DFS) is a fundamental concept in computer-science.",
   "definition": "Depth-First Search (DFS) is a fundamental concept in computer-science.",
   "explanation": "Learn about Depth-First Search (DFS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "depth-first-search-dfs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

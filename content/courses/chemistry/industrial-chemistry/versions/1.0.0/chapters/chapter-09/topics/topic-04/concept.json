@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-09.topic-04",
   "name": "Flavoring Agents",
   "subject": "chemistry",
+  "summary": "Flavoring Agents is a fundamental concept in chemistry.",
   "definition": "Flavoring Agents is a fundamental concept in chemistry.",
   "explanation": "Learn about Flavoring Agents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "flavoring-agents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

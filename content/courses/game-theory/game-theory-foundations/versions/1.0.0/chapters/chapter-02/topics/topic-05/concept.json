@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-02.topic-05",
   "name": "Payoffs",
   "subject": "game-theory",
+  "summary": "Payoffs is a fundamental concept in game-theory.",
   "definition": "Payoffs is a fundamental concept in game-theory.",
   "explanation": "Learn about Payoffs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "payoffs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-12.topic-01",
   "name": "Internet Advertising",
   "subject": "game-theory",
+  "summary": "Internet Advertising is a fundamental concept in game-theory.",
   "definition": "Internet Advertising is a fundamental concept in game-theory.",
   "explanation": "Learn about Internet Advertising and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "internet-advertising"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

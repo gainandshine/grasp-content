@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-19",
   "name": "Design Principles",
   "subject": "computer-science",
+  "summary": "Design Principles is a fundamental concept in computer-science.",
   "definition": "Design Principles is a fundamental concept in computer-science.",
   "explanation": "Learn about Design Principles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "design-principles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

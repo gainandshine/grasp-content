@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-01.topic-05",
   "name": "Hydrogen Compounds",
   "subject": "chemistry",
+  "summary": "Hydrogen Compounds is a fundamental concept in chemistry.",
   "definition": "Hydrogen Compounds is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrogen Compounds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrogen-compounds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

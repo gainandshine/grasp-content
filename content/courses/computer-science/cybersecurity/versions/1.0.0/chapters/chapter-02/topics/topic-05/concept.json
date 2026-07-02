@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-02.topic-05",
   "name": "Digital Signatures",
   "subject": "computer-science",
+  "summary": "Digital Signatures is a fundamental concept in computer-science.",
   "definition": "Digital Signatures is a fundamental concept in computer-science.",
   "explanation": "Learn about Digital Signatures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "digital-signatures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

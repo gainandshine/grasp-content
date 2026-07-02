@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-08.topic-01",
   "name": "Antitrust Laws",
   "subject": "economics",
+  "summary": "Antitrust Laws is a fundamental concept in economics.",
   "definition": "Antitrust Laws is a fundamental concept in economics.",
   "explanation": "Learn about Antitrust Laws and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "antitrust-laws"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

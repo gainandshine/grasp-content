@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-11.topic-03",
   "name": "Negative Interest Rates",
   "subject": "economics",
+  "summary": "Negative Interest Rates is a fundamental concept in economics.",
   "definition": "Negative Interest Rates is a fundamental concept in economics.",
   "explanation": "Learn about Negative Interest Rates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "negative-interest-rates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

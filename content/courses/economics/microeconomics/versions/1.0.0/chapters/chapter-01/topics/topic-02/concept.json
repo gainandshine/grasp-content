@@ -2,6 +2,7 @@
   "id": "economics.microeconomics.chapter-01.topic-02",
   "name": "Economic Agents",
   "subject": "economics",
+  "summary": "Economic Agents is a fundamental concept in economics.",
   "definition": "Economic Agents is a fundamental concept in economics.",
   "explanation": "Learn about Economic Agents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "economic-agents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-01.topic-04",
   "name": "Chemical Composition of Living Organisms",
   "subject": "chemistry",
+  "summary": "Chemical Composition of Living Organisms is a fundamental concept in chemistry.",
   "definition": "Chemical Composition of Living Organisms is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Composition of Living Organisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-composition-of-living-organisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

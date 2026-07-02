@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-07.topic-06",
   "name": "Kubernetes Security",
   "subject": "computer-science",
+  "summary": "Kubernetes Security is a fundamental concept in computer-science.",
   "definition": "Kubernetes Security is a fundamental concept in computer-science.",
   "explanation": "Learn about Kubernetes Security and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "kubernetes-security"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

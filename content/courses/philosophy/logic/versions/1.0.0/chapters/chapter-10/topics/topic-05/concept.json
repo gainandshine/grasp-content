@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-10.topic-05",
   "name": "Logic Programming",
   "subject": "philosophy",
+  "summary": "Logic Programming is a fundamental concept in philosophy.",
   "definition": "Logic Programming is a fundamental concept in philosophy.",
   "explanation": "Learn about Logic Programming and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "logic-programming"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

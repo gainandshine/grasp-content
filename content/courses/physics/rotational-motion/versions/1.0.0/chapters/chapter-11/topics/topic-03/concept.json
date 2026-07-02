@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-11.topic-03",
   "name": "Engines",
   "subject": "physics",
+  "summary": "Engines is a fundamental concept in physics.",
   "definition": "Engines is a fundamental concept in physics.",
   "explanation": "Learn about Engines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "engines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

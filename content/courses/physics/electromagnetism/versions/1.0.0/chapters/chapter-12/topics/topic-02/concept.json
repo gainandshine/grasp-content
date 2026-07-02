@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-12.topic-02",
   "name": "Generators",
   "subject": "physics",
+  "summary": "Generators is a fundamental concept in physics.",
   "definition": "Generators is a fundamental concept in physics.",
   "explanation": "Learn about Generators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "generators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

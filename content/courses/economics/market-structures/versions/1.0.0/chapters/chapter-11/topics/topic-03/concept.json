@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-11.topic-03",
   "name": "Herfindahl-Hirschman Index (HHI)",
   "subject": "economics",
+  "summary": "Herfindahl-Hirschman Index (HHI) is a fundamental concept in economics.",
   "definition": "Herfindahl-Hirschman Index (HHI) is a fundamental concept in economics.",
   "explanation": "Learn about Herfindahl-Hirschman Index (HHI) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "herfindahl-hirschman-index-hhi"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

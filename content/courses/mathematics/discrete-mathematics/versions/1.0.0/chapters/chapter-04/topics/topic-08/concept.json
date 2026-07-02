@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-04.topic-08",
   "name": "Hasse Diagrams",
   "subject": "mathematics",
+  "summary": "Hasse Diagrams is a fundamental concept in mathematics.",
   "definition": "Hasse Diagrams is a fundamental concept in mathematics.",
   "explanation": "Learn about Hasse Diagrams and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "hasse-diagrams"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

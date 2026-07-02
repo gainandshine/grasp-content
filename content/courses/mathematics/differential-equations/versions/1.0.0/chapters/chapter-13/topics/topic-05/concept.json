@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-13.topic-05",
   "name": "Bifurcation (Introduction)",
   "subject": "mathematics",
+  "summary": "Bifurcation (Introduction) is a fundamental concept in mathematics.",
   "definition": "Bifurcation (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Bifurcation (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "bifurcation-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-02.topic-05",
   "name": "Lattice Energy",
   "subject": "chemistry",
+  "summary": "Lattice Energy is a fundamental concept in chemistry.",
   "definition": "Lattice Energy is a fundamental concept in chemistry.",
   "explanation": "Learn about Lattice Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "lattice-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-06.topic-01",
   "name": "Language Processing",
   "subject": "psychology",
+  "summary": "Language Processing is a fundamental concept in psychology.",
   "definition": "Language Processing is a fundamental concept in psychology.",
   "explanation": "Learn about Language Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "language-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

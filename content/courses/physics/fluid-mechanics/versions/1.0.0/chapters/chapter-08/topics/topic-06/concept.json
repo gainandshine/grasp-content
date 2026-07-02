@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-08.topic-06",
   "name": "Capillary Rise",
   "subject": "physics",
+  "summary": "Capillary Rise is a fundamental concept in physics.",
   "definition": "Capillary Rise is a fundamental concept in physics.",
   "explanation": "Learn about Capillary Rise and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "capillary-rise"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

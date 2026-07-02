@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-06.topic-03",
   "name": "Concentration Cells",
   "subject": "chemistry",
+  "summary": "Concentration Cells is a fundamental concept in chemistry.",
   "definition": "Concentration Cells is a fundamental concept in chemistry.",
   "explanation": "Learn about Concentration Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "concentration-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

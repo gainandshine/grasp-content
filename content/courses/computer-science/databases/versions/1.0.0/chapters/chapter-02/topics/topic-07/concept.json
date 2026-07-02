@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-02.topic-07",
   "name": "Relationships",
   "subject": "computer-science",
+  "summary": "Relationships is a fundamental concept in computer-science.",
   "definition": "Relationships is a fundamental concept in computer-science.",
   "explanation": "Learn about Relationships and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "relationships"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

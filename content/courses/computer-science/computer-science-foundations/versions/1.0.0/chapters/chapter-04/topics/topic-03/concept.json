@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-04.topic-03",
   "name": "Storage Devices",
   "subject": "computer-science",
+  "summary": "Storage Devices is a fundamental concept in computer-science.",
   "definition": "Storage Devices is a fundamental concept in computer-science.",
   "explanation": "Learn about Storage Devices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "storage-devices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

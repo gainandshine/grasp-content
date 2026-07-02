@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-04",
   "name": "Overdamped Motion",
   "subject": "physics",
+  "summary": "Overdamped Motion is a fundamental concept in physics.",
   "definition": "Overdamped Motion is a fundamental concept in physics.",
   "explanation": "Learn about Overdamped Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "overdamped-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

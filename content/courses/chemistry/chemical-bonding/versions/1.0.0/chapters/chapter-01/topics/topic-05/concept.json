@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-01.topic-05",
   "name": "Lewis Symbols",
   "subject": "chemistry",
+  "summary": "Lewis Symbols is a fundamental concept in chemistry.",
   "definition": "Lewis Symbols is a fundamental concept in chemistry.",
   "explanation": "Learn about Lewis Symbols and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "lewis-symbols"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

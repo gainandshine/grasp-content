@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-07.topic-03",
   "name": "Flow State",
   "subject": "psychology",
+  "summary": "Flow State is a fundamental concept in psychology.",
   "definition": "Flow State is a fundamental concept in psychology.",
   "explanation": "Learn about Flow State and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "flow-state"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

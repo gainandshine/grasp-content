@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-03.topic-04",
   "name": "Cofactors",
   "subject": "biology",
+  "summary": "Cofactors is a fundamental concept in biology.",
   "definition": "Cofactors is a fundamental concept in biology.",
   "explanation": "Learn about Cofactors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cofactors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

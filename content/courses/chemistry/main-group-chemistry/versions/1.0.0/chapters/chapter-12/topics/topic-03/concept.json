@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-12.topic-03",
   "name": "Greenhouse Gases",
   "subject": "chemistry",
+  "summary": "Greenhouse Gases is a fundamental concept in chemistry.",
   "definition": "Greenhouse Gases is a fundamental concept in chemistry.",
   "explanation": "Learn about Greenhouse Gases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "greenhouse-gases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

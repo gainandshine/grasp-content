@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-05.topic-02",
   "name": "Photoelectric Effect",
   "subject": "chemistry",
+  "summary": "Photoelectric Effect is a fundamental concept in chemistry.",
   "definition": "Photoelectric Effect is a fundamental concept in chemistry.",
   "explanation": "Learn about Photoelectric Effect and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "photoelectric-effect"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-02.topic-04",
   "name": "Concentration Dependence",
   "subject": "chemistry",
+  "summary": "Concentration Dependence is a fundamental concept in chemistry.",
   "definition": "Concentration Dependence is a fundamental concept in chemistry.",
   "explanation": "Learn about Concentration Dependence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "concentration-dependence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

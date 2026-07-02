@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-08.topic-04",
   "name": "IEEE 754 Standard",
   "subject": "computer-science",
+  "summary": "IEEE 754 Standard is a fundamental concept in computer-science.",
   "definition": "IEEE 754 Standard is a fundamental concept in computer-science.",
   "explanation": "Learn about IEEE 754 Standard and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ieee-754-standard"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

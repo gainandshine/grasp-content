@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-03.topic-01",
   "name": "Types of Collisions",
   "subject": "physics",
+  "summary": "Types of Collisions is a fundamental concept in physics.",
   "definition": "Types of Collisions is a fundamental concept in physics.",
   "explanation": "Learn about Types of Collisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "types-of-collisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

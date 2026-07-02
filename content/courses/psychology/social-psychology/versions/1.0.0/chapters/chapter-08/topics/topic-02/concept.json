@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-08.topic-02",
   "name": "Altruism",
   "subject": "psychology",
+  "summary": "Altruism is a fundamental concept in psychology.",
   "definition": "Altruism is a fundamental concept in psychology.",
   "explanation": "Learn about Altruism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "altruism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

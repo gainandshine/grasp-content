@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-11.topic-01",
   "name": "Antibiotic Resistance",
   "subject": "biology",
+  "summary": "Antibiotic Resistance is a fundamental concept in biology.",
   "definition": "Antibiotic Resistance is a fundamental concept in biology.",
   "explanation": "Learn about Antibiotic Resistance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "antibiotic-resistance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-01.topic-01",
   "name": "Historical Atomic Models",
   "subject": "physics",
+  "summary": "Historical Atomic Models is a fundamental concept in physics.",
   "definition": "Historical Atomic Models is a fundamental concept in physics.",
   "explanation": "Learn about Historical Atomic Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "historical-atomic-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

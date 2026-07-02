@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-19",
   "name": "Monitoring & Observability",
   "subject": "computer-science",
+  "summary": "Monitoring & Observability is a fundamental concept in computer-science.",
   "definition": "Monitoring & Observability is a fundamental concept in computer-science.",
   "explanation": "Learn about Monitoring & Observability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "monitoring-observability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-10.topic-04",
   "name": "Semiconductors",
   "subject": "chemistry",
+  "summary": "Semiconductors is a fundamental concept in chemistry.",
   "definition": "Semiconductors is a fundamental concept in chemistry.",
   "explanation": "Learn about Semiconductors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "semiconductors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

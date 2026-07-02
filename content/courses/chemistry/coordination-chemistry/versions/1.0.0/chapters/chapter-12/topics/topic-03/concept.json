@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-12.topic-03",
   "name": "MRI Contrast Agents",
   "subject": "chemistry",
+  "summary": "MRI Contrast Agents is a fundamental concept in chemistry.",
   "definition": "MRI Contrast Agents is a fundamental concept in chemistry.",
   "explanation": "Learn about MRI Contrast Agents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "mri-contrast-agents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

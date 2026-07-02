@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-09.topic-03",
   "name": "Mass",
   "subject": "mathematics",
+  "summary": "Mass is a fundamental concept in mathematics.",
   "definition": "Mass is a fundamental concept in mathematics.",
   "explanation": "Learn about Mass and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mass"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

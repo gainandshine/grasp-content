@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-10.topic-02",
   "name": "Statistical Quality Control",
   "subject": "chemistry",
+  "summary": "Statistical Quality Control is a fundamental concept in chemistry.",
   "definition": "Statistical Quality Control is a fundamental concept in chemistry.",
   "explanation": "Learn about Statistical Quality Control and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "statistical-quality-control"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

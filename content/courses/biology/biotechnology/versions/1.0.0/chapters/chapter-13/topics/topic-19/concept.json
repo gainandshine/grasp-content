@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-19",
   "name": "Molecular Medicine",
   "subject": "biology",
+  "summary": "Molecular Medicine is a fundamental concept in biology.",
   "definition": "Molecular Medicine is a fundamental concept in biology.",
   "explanation": "Learn about Molecular Medicine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "molecular-medicine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

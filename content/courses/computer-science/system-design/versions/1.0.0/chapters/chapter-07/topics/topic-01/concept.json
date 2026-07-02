@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-07.topic-01",
   "name": "Message Queues",
   "subject": "computer-science",
+  "summary": "Message Queues is a fundamental concept in computer-science.",
   "definition": "Message Queues is a fundamental concept in computer-science.",
   "explanation": "Learn about Message Queues and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "message-queues"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

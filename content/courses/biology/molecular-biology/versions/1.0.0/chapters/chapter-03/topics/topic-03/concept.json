@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-03.topic-03",
   "name": "Origin of Replication",
   "subject": "biology",
+  "summary": "Origin of Replication is a fundamental concept in biology.",
   "definition": "Origin of Replication is a fundamental concept in biology.",
   "explanation": "Learn about Origin of Replication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "origin-of-replication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

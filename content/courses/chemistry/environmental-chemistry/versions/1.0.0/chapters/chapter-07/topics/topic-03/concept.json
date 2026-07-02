@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-07.topic-03",
   "name": "Soil Nutrients",
   "subject": "chemistry",
+  "summary": "Soil Nutrients is a fundamental concept in chemistry.",
   "definition": "Soil Nutrients is a fundamental concept in chemistry.",
   "explanation": "Learn about Soil Nutrients and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "soil-nutrients"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

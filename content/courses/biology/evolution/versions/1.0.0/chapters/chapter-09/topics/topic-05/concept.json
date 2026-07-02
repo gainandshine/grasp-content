@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-09.topic-05",
   "name": "Homo erectus",
   "subject": "biology",
+  "summary": "Homo erectus is a fundamental concept in biology.",
   "definition": "Homo erectus is a fundamental concept in biology.",
   "explanation": "Learn about Homo erectus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "homo-erectus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

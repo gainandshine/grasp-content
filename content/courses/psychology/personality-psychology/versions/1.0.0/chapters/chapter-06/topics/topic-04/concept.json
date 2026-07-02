@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-06.topic-04",
   "name": "Hormones",
   "subject": "psychology",
+  "summary": "Hormones is a fundamental concept in psychology.",
   "definition": "Hormones is a fundamental concept in psychology.",
   "explanation": "Learn about Hormones and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "hormones"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

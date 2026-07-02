@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-07.topic-02",
   "name": "Backtracking Search",
   "subject": "computer-science",
+  "summary": "Backtracking Search is a fundamental concept in computer-science.",
   "definition": "Backtracking Search is a fundamental concept in computer-science.",
   "explanation": "Learn about Backtracking Search and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "backtracking-search"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

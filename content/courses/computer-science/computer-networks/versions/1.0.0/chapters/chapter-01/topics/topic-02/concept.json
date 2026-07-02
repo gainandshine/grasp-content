@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-01.topic-02",
   "name": "Types of Networks",
   "subject": "computer-science",
+  "summary": "Types of Networks is a fundamental concept in computer-science.",
   "definition": "Types of Networks is a fundamental concept in computer-science.",
   "explanation": "Learn about Types of Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "types-of-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

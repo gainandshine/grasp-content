@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-08.topic-04",
   "name": "Scheduling Tasks",
   "subject": "computer-science",
+  "summary": "Scheduling Tasks is a fundamental concept in computer-science.",
   "definition": "Scheduling Tasks is a fundamental concept in computer-science.",
   "explanation": "Learn about Scheduling Tasks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scheduling-tasks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

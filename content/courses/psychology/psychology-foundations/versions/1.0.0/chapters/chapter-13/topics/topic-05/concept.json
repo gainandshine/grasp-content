@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-13.topic-05",
   "name": "Cross-Cultural Psychology",
   "subject": "psychology",
+  "summary": "Cross-Cultural Psychology is a fundamental concept in psychology.",
   "definition": "Cross-Cultural Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about Cross-Cultural Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cross-cultural-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

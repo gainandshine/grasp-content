@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-06.topic-02",
   "name": "Mesons",
   "subject": "physics",
+  "summary": "Mesons is a fundamental concept in physics.",
   "definition": "Mesons is a fundamental concept in physics.",
   "explanation": "Learn about Mesons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mesons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

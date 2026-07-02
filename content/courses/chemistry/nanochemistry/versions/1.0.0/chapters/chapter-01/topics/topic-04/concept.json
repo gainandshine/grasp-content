@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-01.topic-04",
   "name": "History of Nanotechnology",
   "subject": "chemistry",
+  "summary": "History of Nanotechnology is a fundamental concept in chemistry.",
   "definition": "History of Nanotechnology is a fundamental concept in chemistry.",
   "explanation": "Learn about History of Nanotechnology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "history-of-nanotechnology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

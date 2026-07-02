@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-03.topic-06",
   "name": "Catalyst Regeneration",
   "subject": "chemistry",
+  "summary": "Catalyst Regeneration is a fundamental concept in chemistry.",
   "definition": "Catalyst Regeneration is a fundamental concept in chemistry.",
   "explanation": "Learn about Catalyst Regeneration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "catalyst-regeneration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-06",
   "name": "Messaging Apps",
   "subject": "computer-science",
+  "summary": "Messaging Apps is a fundamental concept in computer-science.",
   "definition": "Messaging Apps is a fundamental concept in computer-science.",
   "explanation": "Learn about Messaging Apps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "messaging-apps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

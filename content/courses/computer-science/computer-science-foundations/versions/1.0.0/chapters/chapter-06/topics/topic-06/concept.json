@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-06.topic-06",
   "name": "Executables",
   "subject": "computer-science",
+  "summary": "Executables is a fundamental concept in computer-science.",
   "definition": "Executables is a fundamental concept in computer-science.",
   "explanation": "Learn about Executables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "executables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

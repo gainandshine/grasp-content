@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-13.topic-18",
   "name": "Biodegradable Polymers",
   "subject": "chemistry",
+  "summary": "Biodegradable Polymers is a fundamental concept in chemistry.",
   "definition": "Biodegradable Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Biodegradable Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biodegradable-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

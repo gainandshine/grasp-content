@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-14.topic-04",
   "name": "Chemical Reactions",
   "subject": "mathematics",
+  "summary": "Chemical Reactions is a fundamental concept in mathematics.",
   "definition": "Chemical Reactions is a fundamental concept in mathematics.",
   "explanation": "Learn about Chemical Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "chemical-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

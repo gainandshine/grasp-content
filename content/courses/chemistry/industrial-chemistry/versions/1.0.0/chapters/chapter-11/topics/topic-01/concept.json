@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-11.topic-01",
   "name": "Industrial Waste Treatment",
   "subject": "chemistry",
+  "summary": "Industrial Waste Treatment is a fundamental concept in chemistry.",
   "definition": "Industrial Waste Treatment is a fundamental concept in chemistry.",
   "explanation": "Learn about Industrial Waste Treatment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "industrial-waste-treatment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

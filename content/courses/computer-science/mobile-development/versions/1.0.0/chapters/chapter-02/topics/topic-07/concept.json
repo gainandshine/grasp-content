@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-02.topic-07",
   "name": "Material Design & Human Interface Guidelines",
   "subject": "computer-science",
+  "summary": "Material Design & Human Interface Guidelines is a fundamental concept in computer-science.",
   "definition": "Material Design & Human Interface Guidelines is a fundamental concept in computer-science.",
   "explanation": "Learn about Material Design & Human Interface Guidelines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "material-design-human-interface-guidelines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

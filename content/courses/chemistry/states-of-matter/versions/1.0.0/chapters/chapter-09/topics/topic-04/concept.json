@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-09.topic-04",
   "name": "Supercritical Fluids",
   "subject": "chemistry",
+  "summary": "Supercritical Fluids is a fundamental concept in chemistry.",
   "definition": "Supercritical Fluids is a fundamental concept in chemistry.",
   "explanation": "Learn about Supercritical Fluids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "supercritical-fluids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-03.topic-05",
   "name": "Geometric Mean",
   "subject": "mathematics",
+  "summary": "Geometric Mean is a fundamental concept in mathematics.",
   "definition": "Geometric Mean is a fundamental concept in mathematics.",
   "explanation": "Learn about Geometric Mean and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "geometric-mean"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-mind.chapter-13.topic-03",
   "name": "Predictive Processing",
   "subject": "philosophy",
+  "summary": "Predictive Processing is a fundamental concept in philosophy.",
   "definition": "Predictive Processing is a fundamental concept in philosophy.",
   "explanation": "Learn about Predictive Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "predictive-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

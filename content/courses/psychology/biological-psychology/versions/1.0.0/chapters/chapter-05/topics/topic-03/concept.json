@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-05.topic-03",
   "name": "Thyroid Gland",
   "subject": "psychology",
+  "summary": "Thyroid Gland is a fundamental concept in psychology.",
   "definition": "Thyroid Gland is a fundamental concept in psychology.",
   "explanation": "Learn about Thyroid Gland and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "thyroid-gland"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

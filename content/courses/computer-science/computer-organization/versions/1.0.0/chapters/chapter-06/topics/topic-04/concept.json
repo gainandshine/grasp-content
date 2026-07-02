@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-06.topic-04",
   "name": "Main Memory (RAM)",
   "subject": "computer-science",
+  "summary": "Main Memory (RAM) is a fundamental concept in computer-science.",
   "definition": "Main Memory (RAM) is a fundamental concept in computer-science.",
   "explanation": "Learn about Main Memory (RAM) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "main-memory-ram"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

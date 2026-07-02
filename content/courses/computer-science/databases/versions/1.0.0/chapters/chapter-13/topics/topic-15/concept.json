@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-15",
   "name": "Testing",
   "subject": "computer-science",
+  "summary": "Testing is a fundamental concept in computer-science.",
   "definition": "Testing is a fundamental concept in computer-science.",
   "explanation": "Learn about Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

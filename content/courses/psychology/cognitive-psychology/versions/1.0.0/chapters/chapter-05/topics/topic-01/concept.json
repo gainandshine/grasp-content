@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-05.topic-01",
   "name": "Concept Formation",
   "subject": "psychology",
+  "summary": "Concept Formation is a fundamental concept in psychology.",
   "definition": "Concept Formation is a fundamental concept in psychology.",
   "explanation": "Learn about Concept Formation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "concept-formation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

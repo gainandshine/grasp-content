@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-10.topic-04",
   "name": "Fragment Shaders",
   "subject": "computer-science",
+  "summary": "Fragment Shaders is a fundamental concept in computer-science.",
   "definition": "Fragment Shaders is a fundamental concept in computer-science.",
   "explanation": "Learn about Fragment Shaders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fragment-shaders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

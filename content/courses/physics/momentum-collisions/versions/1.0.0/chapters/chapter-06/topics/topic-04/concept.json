@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-06.topic-04",
   "name": "Momentum of Multi-Particle Systems",
   "subject": "physics",
+  "summary": "Momentum of Multi-Particle Systems is a fundamental concept in physics.",
   "definition": "Momentum of Multi-Particle Systems is a fundamental concept in physics.",
   "explanation": "Learn about Momentum of Multi-Particle Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "momentum-of-multi-particle-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

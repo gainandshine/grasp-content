@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-01.topic-03",
   "name": "Market Power",
   "subject": "economics",
+  "summary": "Market Power is a fundamental concept in economics.",
   "definition": "Market Power is a fundamental concept in economics.",
   "explanation": "Learn about Market Power and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "market-power"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-05",
   "name": "Real-Time Ray Tracing",
   "subject": "computer-science",
+  "summary": "Real-Time Ray Tracing is a fundamental concept in computer-science.",
   "definition": "Real-Time Ray Tracing is a fundamental concept in computer-science.",
   "explanation": "Learn about Real-Time Ray Tracing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "real-time-ray-tracing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

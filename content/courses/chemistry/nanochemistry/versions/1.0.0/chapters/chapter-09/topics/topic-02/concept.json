@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-09.topic-02",
   "name": "Targeted Drug Delivery",
   "subject": "chemistry",
+  "summary": "Targeted Drug Delivery is a fundamental concept in chemistry.",
   "definition": "Targeted Drug Delivery is a fundamental concept in chemistry.",
   "explanation": "Learn about Targeted Drug Delivery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "targeted-drug-delivery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

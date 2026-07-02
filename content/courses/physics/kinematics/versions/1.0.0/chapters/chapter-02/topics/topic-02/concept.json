@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-02.topic-02",
   "name": "Average Acceleration",
   "subject": "physics",
+  "summary": "Average Acceleration is a fundamental concept in physics.",
   "definition": "Average Acceleration is a fundamental concept in physics.",
   "explanation": "Learn about Average Acceleration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "average-acceleration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

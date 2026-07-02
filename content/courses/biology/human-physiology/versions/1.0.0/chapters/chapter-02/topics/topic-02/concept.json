@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-02.topic-02",
   "name": "Resting Membrane Potential",
   "subject": "biology",
+  "summary": "Resting Membrane Potential is a fundamental concept in biology.",
   "definition": "Resting Membrane Potential is a fundamental concept in biology.",
   "explanation": "Learn about Resting Membrane Potential and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "resting-membrane-potential"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

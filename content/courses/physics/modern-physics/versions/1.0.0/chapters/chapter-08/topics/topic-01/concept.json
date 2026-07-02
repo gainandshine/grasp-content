@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-08.topic-01",
   "name": "Nuclear Forces",
   "subject": "physics",
+  "summary": "Nuclear Forces is a fundamental concept in physics.",
   "definition": "Nuclear Forces is a fundamental concept in physics.",
   "explanation": "Learn about Nuclear Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "nuclear-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

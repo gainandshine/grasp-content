@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-12.topic-04",
   "name": "Finite Fields (Introduction)",
   "subject": "mathematics",
+  "summary": "Finite Fields (Introduction) is a fundamental concept in mathematics.",
   "definition": "Finite Fields (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Finite Fields (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "finite-fields-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

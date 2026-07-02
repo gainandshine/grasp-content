@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-12.topic-05",
   "name": "Health Psychology",
   "subject": "psychology",
+  "summary": "Health Psychology is a fundamental concept in psychology.",
   "definition": "Health Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about Health Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "health-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-03.topic-05",
   "name": "Images",
   "subject": "mathematics",
+  "summary": "Images is a fundamental concept in mathematics.",
   "definition": "Images is a fundamental concept in mathematics.",
   "explanation": "Learn about Images and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "images"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-13.topic-01",
   "name": "Intuitive Limits",
   "subject": "mathematics",
+  "summary": "Intuitive Limits is a fundamental concept in mathematics.",
   "definition": "Intuitive Limits is a fundamental concept in mathematics.",
   "explanation": "Learn about Intuitive Limits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "intuitive-limits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

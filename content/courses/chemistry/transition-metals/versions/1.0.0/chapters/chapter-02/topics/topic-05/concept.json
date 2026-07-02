@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-02.topic-05",
   "name": "Valence Electrons",
   "subject": "chemistry",
+  "summary": "Valence Electrons is a fundamental concept in chemistry.",
   "definition": "Valence Electrons is a fundamental concept in chemistry.",
   "explanation": "Learn about Valence Electrons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "valence-electrons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

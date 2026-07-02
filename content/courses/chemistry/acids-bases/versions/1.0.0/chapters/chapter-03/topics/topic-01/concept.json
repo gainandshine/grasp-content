@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-03.topic-01",
   "name": "Acid Dissociation",
   "subject": "chemistry",
+  "summary": "Acid Dissociation is a fundamental concept in chemistry.",
   "definition": "Acid Dissociation is a fundamental concept in chemistry.",
   "explanation": "Learn about Acid Dissociation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "acid-dissociation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

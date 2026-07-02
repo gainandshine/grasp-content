@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-02.topic-01",
   "name": "Integer Operations",
   "subject": "mathematics",
+  "summary": "Integer Operations is a fundamental concept in mathematics.",
   "definition": "Integer Operations is a fundamental concept in mathematics.",
   "explanation": "Learn about Integer Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "integer-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

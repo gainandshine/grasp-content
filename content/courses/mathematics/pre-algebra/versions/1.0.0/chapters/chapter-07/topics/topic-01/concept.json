@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-07.topic-01",
   "name": "Perfect Squares",
   "subject": "mathematics",
+  "summary": "Perfect Squares is a fundamental concept in mathematics.",
   "definition": "Perfect Squares is a fundamental concept in mathematics.",
   "explanation": "Learn about Perfect Squares and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "perfect-squares"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

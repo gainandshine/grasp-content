@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-14",
   "name": "Sampling",
   "subject": "chemistry",
+  "summary": "Sampling is a fundamental concept in chemistry.",
   "definition": "Sampling is a fundamental concept in chemistry.",
   "explanation": "Learn about Sampling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sampling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-02.topic-05",
   "name": "Hydrogen Bonding",
   "subject": "physics",
+  "summary": "Hydrogen Bonding is a fundamental concept in physics.",
   "definition": "Hydrogen Bonding is a fundamental concept in physics.",
   "explanation": "Learn about Hydrogen Bonding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hydrogen-bonding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

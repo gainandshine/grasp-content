@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-20",
   "name": "Designing Large-Scale Systems",
   "subject": "computer-science",
+  "summary": "Designing Large-Scale Systems is a fundamental concept in computer-science.",
   "definition": "Designing Large-Scale Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Designing Large-Scale Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "designing-large-scale-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

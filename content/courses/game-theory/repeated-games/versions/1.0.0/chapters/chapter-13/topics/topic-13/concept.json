@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-13.topic-13",
   "name": "Bargaining Solutions",
   "subject": "game-theory",
+  "summary": "Bargaining Solutions is a fundamental concept in game-theory.",
   "definition": "Bargaining Solutions is a fundamental concept in game-theory.",
   "explanation": "Learn about Bargaining Solutions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "bargaining-solutions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

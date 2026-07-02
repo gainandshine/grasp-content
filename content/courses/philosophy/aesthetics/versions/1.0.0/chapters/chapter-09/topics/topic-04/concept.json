@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-09.topic-04",
   "name": "Animation",
   "subject": "philosophy",
+  "summary": "Animation is a fundamental concept in philosophy.",
   "definition": "Animation is a fundamental concept in philosophy.",
   "explanation": "Learn about Animation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "animation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

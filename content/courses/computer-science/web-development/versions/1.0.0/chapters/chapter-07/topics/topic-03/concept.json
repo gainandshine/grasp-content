@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-07.topic-03",
   "name": "Middleware",
   "subject": "computer-science",
+  "summary": "Middleware is a fundamental concept in computer-science.",
   "definition": "Middleware is a fundamental concept in computer-science.",
   "explanation": "Learn about Middleware and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "middleware"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

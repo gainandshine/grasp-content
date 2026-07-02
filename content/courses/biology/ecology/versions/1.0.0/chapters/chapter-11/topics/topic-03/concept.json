@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-11.topic-03",
   "name": "Waste Management",
   "subject": "biology",
+  "summary": "Waste Management is a fundamental concept in biology.",
   "definition": "Waste Management is a fundamental concept in biology.",
   "explanation": "Learn about Waste Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "waste-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-13.topic-02",
   "name": "AI-Designed Mechanisms",
   "subject": "game-theory",
+  "summary": "AI-Designed Mechanisms is a fundamental concept in game-theory.",
   "definition": "AI-Designed Mechanisms is a fundamental concept in game-theory.",
   "explanation": "Learn about AI-Designed Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "ai-designed-mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

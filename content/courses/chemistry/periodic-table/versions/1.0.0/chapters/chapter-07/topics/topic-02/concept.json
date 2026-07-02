@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-07.topic-02",
   "name": "Pauling Scale",
   "subject": "chemistry",
+  "summary": "Pauling Scale is a fundamental concept in chemistry.",
   "definition": "Pauling Scale is a fundamental concept in chemistry.",
   "explanation": "Learn about Pauling Scale and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "pauling-scale"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

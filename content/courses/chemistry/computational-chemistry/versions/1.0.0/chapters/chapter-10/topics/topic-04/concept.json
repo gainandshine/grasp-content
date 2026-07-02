@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-10.topic-04",
   "name": "QSAR",
   "subject": "chemistry",
+  "summary": "QSAR is a fundamental concept in chemistry.",
   "definition": "QSAR is a fundamental concept in chemistry.",
   "explanation": "Learn about QSAR and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "qsar"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

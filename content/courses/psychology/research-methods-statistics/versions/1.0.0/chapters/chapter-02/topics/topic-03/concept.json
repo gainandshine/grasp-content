@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-02.topic-03",
   "name": "Correlational Research",
   "subject": "psychology",
+  "summary": "Correlational Research is a fundamental concept in psychology.",
   "definition": "Correlational Research is a fundamental concept in psychology.",
   "explanation": "Learn about Correlational Research and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "correlational-research"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

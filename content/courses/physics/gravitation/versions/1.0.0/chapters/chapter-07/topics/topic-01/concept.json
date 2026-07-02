@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-07.topic-01",
   "name": "Escape Velocity",
   "subject": "physics",
+  "summary": "Escape Velocity is a fundamental concept in physics.",
   "definition": "Escape Velocity is a fundamental concept in physics.",
   "explanation": "Learn about Escape Velocity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "escape-velocity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

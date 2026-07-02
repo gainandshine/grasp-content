@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-08.topic-03",
   "name": "Texture Filtering",
   "subject": "computer-science",
+  "summary": "Texture Filtering is a fundamental concept in computer-science.",
   "definition": "Texture Filtering is a fundamental concept in computer-science.",
   "explanation": "Learn about Texture Filtering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "texture-filtering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

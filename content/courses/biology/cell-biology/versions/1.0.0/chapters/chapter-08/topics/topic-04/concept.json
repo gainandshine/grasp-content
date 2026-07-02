@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-08.topic-04",
   "name": "Gamete Formation",
   "subject": "biology",
+  "summary": "Gamete Formation is a fundamental concept in biology.",
   "definition": "Gamete Formation is a fundamental concept in biology.",
   "explanation": "Learn about Gamete Formation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gamete-formation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-07.topic-01",
   "name": "Alpha Decay",
   "subject": "physics",
+  "summary": "Alpha Decay is a fundamental concept in physics.",
   "definition": "Alpha Decay is a fundamental concept in physics.",
   "explanation": "Learn about Alpha Decay and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "alpha-decay"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

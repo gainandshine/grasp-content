@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-10.topic-01",
   "name": "Particle Accelerators",
   "subject": "physics",
+  "summary": "Particle Accelerators is a fundamental concept in physics.",
   "definition": "Particle Accelerators is a fundamental concept in physics.",
   "explanation": "Learn about Particle Accelerators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "particle-accelerators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

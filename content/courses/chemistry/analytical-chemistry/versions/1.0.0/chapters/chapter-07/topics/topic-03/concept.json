@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-07.topic-03",
   "name": "Thin Layer Chromatography (TLC)",
   "subject": "chemistry",
+  "summary": "Thin Layer Chromatography (TLC) is a fundamental concept in chemistry.",
   "definition": "Thin Layer Chromatography (TLC) is a fundamental concept in chemistry.",
   "explanation": "Learn about Thin Layer Chromatography (TLC) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "thin-layer-chromatography-tlc"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

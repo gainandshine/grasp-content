@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-09.topic-04",
   "name": "Enzyme Catalysis",
   "subject": "chemistry",
+  "summary": "Enzyme Catalysis is a fundamental concept in chemistry.",
   "definition": "Enzyme Catalysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Enzyme Catalysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "enzyme-catalysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

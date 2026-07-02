@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-11.topic-04",
   "name": "Atomic Force Microscopy (AFM)",
   "subject": "chemistry",
+  "summary": "Atomic Force Microscopy (AFM) is a fundamental concept in chemistry.",
   "definition": "Atomic Force Microscopy (AFM) is a fundamental concept in chemistry.",
   "explanation": "Learn about Atomic Force Microscopy (AFM) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atomic-force-microscopy-afm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

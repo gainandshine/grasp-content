@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-07.topic-06",
   "name": "Spring Oscillations (Introduction)",
   "subject": "physics",
+  "summary": "Spring Oscillations (Introduction) is a fundamental concept in physics.",
   "definition": "Spring Oscillations (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Spring Oscillations (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "spring-oscillations-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

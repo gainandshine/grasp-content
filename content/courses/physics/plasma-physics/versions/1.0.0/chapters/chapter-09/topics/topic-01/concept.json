@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-09.topic-01",
   "name": "Solar Wind",
   "subject": "physics",
+  "summary": "Solar Wind is a fundamental concept in physics.",
   "definition": "Solar Wind is a fundamental concept in physics.",
   "explanation": "Learn about Solar Wind and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "solar-wind"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

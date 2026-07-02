@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-11.topic-03",
   "name": "Mass Spectrometry",
   "subject": "chemistry",
+  "summary": "Mass Spectrometry is a fundamental concept in chemistry.",
   "definition": "Mass Spectrometry is a fundamental concept in chemistry.",
   "explanation": "Learn about Mass Spectrometry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "mass-spectrometry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

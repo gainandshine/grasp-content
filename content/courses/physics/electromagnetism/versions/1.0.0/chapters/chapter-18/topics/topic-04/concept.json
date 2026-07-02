@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-18.topic-04",
   "name": "Maximum Power Transfer Theorem",
   "subject": "physics",
+  "summary": "Maximum Power Transfer Theorem is a fundamental concept in physics.",
   "definition": "Maximum Power Transfer Theorem is a fundamental concept in physics.",
   "explanation": "Learn about Maximum Power Transfer Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "maximum-power-transfer-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

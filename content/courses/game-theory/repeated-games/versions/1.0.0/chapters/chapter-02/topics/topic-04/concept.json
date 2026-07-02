@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-02.topic-04",
   "name": "Endgame Effect",
   "subject": "game-theory",
+  "summary": "Endgame Effect is a fundamental concept in game-theory.",
   "definition": "Endgame Effect is a fundamental concept in game-theory.",
   "explanation": "Learn about Endgame Effect and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "endgame-effect"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

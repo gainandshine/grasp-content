@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-10.topic-04",
   "name": "Stack-Based VMs",
   "subject": "computer-science",
+  "summary": "Stack-Based VMs is a fundamental concept in computer-science.",
   "definition": "Stack-Based VMs is a fundamental concept in computer-science.",
   "explanation": "Learn about Stack-Based VMs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "stack-based-vms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

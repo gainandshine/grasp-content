@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-13",
   "name": "UML",
   "subject": "computer-science",
+  "summary": "UML is a fundamental concept in computer-science.",
   "definition": "UML is a fundamental concept in computer-science.",
   "explanation": "Learn about UML and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "uml"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

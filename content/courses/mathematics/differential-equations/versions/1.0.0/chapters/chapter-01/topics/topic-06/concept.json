@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-01.topic-06",
   "name": "Boundary Value Problems (BVP)",
   "subject": "mathematics",
+  "summary": "Boundary Value Problems (BVP) is a fundamental concept in mathematics.",
   "definition": "Boundary Value Problems (BVP) is a fundamental concept in mathematics.",
   "explanation": "Learn about Boundary Value Problems (BVP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "boundary-value-problems-bvp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

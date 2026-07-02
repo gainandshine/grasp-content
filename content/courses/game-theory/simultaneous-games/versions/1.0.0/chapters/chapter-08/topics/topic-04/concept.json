@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-08.topic-04",
   "name": "Matching Pennies",
   "subject": "game-theory",
+  "summary": "Matching Pennies is a fundamental concept in game-theory.",
   "definition": "Matching Pennies is a fundamental concept in game-theory.",
   "explanation": "Learn about Matching Pennies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "matching-pennies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

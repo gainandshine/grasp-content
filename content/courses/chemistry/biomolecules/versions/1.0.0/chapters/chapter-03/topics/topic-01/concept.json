@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-03.topic-01",
   "name": "Fatty Acids",
   "subject": "chemistry",
+  "summary": "Fatty Acids is a fundamental concept in chemistry.",
   "definition": "Fatty Acids is a fundamental concept in chemistry.",
   "explanation": "Learn about Fatty Acids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fatty-acids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

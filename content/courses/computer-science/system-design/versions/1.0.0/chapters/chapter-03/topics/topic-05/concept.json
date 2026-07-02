@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-03.topic-05",
   "name": "Auto Scaling",
   "subject": "computer-science",
+  "summary": "Auto Scaling is a fundamental concept in computer-science.",
   "definition": "Auto Scaling is a fundamental concept in computer-science.",
   "explanation": "Learn about Auto Scaling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "auto-scaling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-11.topic-01",
   "name": "Air Quality Monitoring",
   "subject": "chemistry",
+  "summary": "Air Quality Monitoring is a fundamental concept in chemistry.",
   "definition": "Air Quality Monitoring is a fundamental concept in chemistry.",
   "explanation": "Learn about Air Quality Monitoring and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "air-quality-monitoring"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

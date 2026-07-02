@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-05.topic-05",
   "name": "Defense",
   "subject": "economics",
+  "summary": "Defense is a fundamental concept in economics.",
   "definition": "Defense is a fundamental concept in economics.",
   "explanation": "Learn about Defense and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "defense"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

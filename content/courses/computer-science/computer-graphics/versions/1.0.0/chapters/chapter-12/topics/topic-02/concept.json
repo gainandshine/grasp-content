@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-12.topic-02",
   "name": "CAD",
   "subject": "computer-science",
+  "summary": "CAD is a fundamental concept in computer-science.",
   "definition": "CAD is a fundamental concept in computer-science.",
   "explanation": "Learn about CAD and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cad"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

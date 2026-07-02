@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-07.topic-03",
   "name": "Instruction Scheduling",
   "subject": "computer-science",
+  "summary": "Instruction Scheduling is a fundamental concept in computer-science.",
   "definition": "Instruction Scheduling is a fundamental concept in computer-science.",
   "explanation": "Learn about Instruction Scheduling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "instruction-scheduling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

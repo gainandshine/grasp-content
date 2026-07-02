@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-07.topic-04",
   "name": "Confidence Levels",
   "subject": "mathematics",
+  "summary": "Confidence Levels is a fundamental concept in mathematics.",
   "definition": "Confidence Levels is a fundamental concept in mathematics.",
   "explanation": "Learn about Confidence Levels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "confidence-levels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

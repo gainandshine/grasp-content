@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-06.topic-01",
   "name": "Similar Triangles",
   "subject": "mathematics",
+  "summary": "Similar Triangles is a fundamental concept in mathematics.",
   "definition": "Similar Triangles is a fundamental concept in mathematics.",
   "explanation": "Learn about Similar Triangles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "similar-triangles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-01.topic-06",
   "name": "Limitations",
   "subject": "chemistry",
+  "summary": "Limitations is a fundamental concept in chemistry.",
   "definition": "Limitations is a fundamental concept in chemistry.",
   "explanation": "Learn about Limitations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "limitations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

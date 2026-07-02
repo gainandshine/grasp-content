@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-07.topic-05",
   "name": "Beta Distribution",
   "subject": "mathematics",
+  "summary": "Beta Distribution is a fundamental concept in mathematics.",
   "definition": "Beta Distribution is a fundamental concept in mathematics.",
   "explanation": "Learn about Beta Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "beta-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

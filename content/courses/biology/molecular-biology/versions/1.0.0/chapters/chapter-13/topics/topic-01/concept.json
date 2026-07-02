@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-13.topic-01",
   "name": "Genomics",
   "subject": "biology",
+  "summary": "Genomics is a fundamental concept in biology.",
   "definition": "Genomics is a fundamental concept in biology.",
   "explanation": "Learn about Genomics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genomics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

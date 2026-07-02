@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-11.topic-06",
   "name": "Fertilizer Industry",
   "subject": "chemistry",
+  "summary": "Fertilizer Industry is a fundamental concept in chemistry.",
   "definition": "Fertilizer Industry is a fundamental concept in chemistry.",
   "explanation": "Learn about Fertilizer Industry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fertilizer-industry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

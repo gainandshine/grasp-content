@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-02",
   "name": "Diabetes",
   "subject": "biology",
+  "summary": "Diabetes is a fundamental concept in biology.",
   "definition": "Diabetes is a fundamental concept in biology.",
   "explanation": "Learn about Diabetes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "diabetes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

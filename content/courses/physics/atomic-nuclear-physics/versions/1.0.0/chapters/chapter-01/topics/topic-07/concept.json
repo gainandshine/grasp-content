@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-01.topic-07",
   "name": "Atomic Mass",
   "subject": "physics",
+  "summary": "Atomic Mass is a fundamental concept in physics.",
   "definition": "Atomic Mass is a fundamental concept in physics.",
   "explanation": "Learn about Atomic Mass and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "atomic-mass"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

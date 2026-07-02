@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-06.topic-05",
   "name": "Root Test",
   "subject": "mathematics",
+  "summary": "Root Test is a fundamental concept in mathematics.",
   "definition": "Root Test is a fundamental concept in mathematics.",
   "explanation": "Learn about Root Test and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "root-test"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

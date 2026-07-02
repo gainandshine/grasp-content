@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-03.topic-05",
   "name": "Box Model",
   "subject": "computer-science",
+  "summary": "Box Model is a fundamental concept in computer-science.",
   "definition": "Box Model is a fundamental concept in computer-science.",
   "explanation": "Learn about Box Model and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "box-model"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

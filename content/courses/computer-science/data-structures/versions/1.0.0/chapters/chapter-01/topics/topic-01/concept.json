@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-01.topic-01",
   "name": "What is a Data Structure?",
   "subject": "computer-science",
+  "summary": "What is a Data Structure? is a fundamental concept in computer-science.",
   "definition": "What is a Data Structure? is a fundamental concept in computer-science.",
   "explanation": "Learn about What is a Data Structure? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "what-is-a-data-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-03.topic-02",
   "name": "Imperfect Information",
   "subject": "game-theory",
+  "summary": "Imperfect Information is a fundamental concept in game-theory.",
   "definition": "Imperfect Information is a fundamental concept in game-theory.",
   "explanation": "Learn about Imperfect Information and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "imperfect-information"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

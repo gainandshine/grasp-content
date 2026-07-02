@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-03.topic-02",
   "name": "Carbon Nanotubes (CNTs)",
   "subject": "chemistry",
+  "summary": "Carbon Nanotubes (CNTs) is a fundamental concept in chemistry.",
   "definition": "Carbon Nanotubes (CNTs) is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbon Nanotubes (CNTs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbon-nanotubes-cnts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

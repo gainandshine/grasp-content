@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-09.topic-05",
   "name": "Coolant",
   "subject": "physics",
+  "summary": "Coolant is a fundamental concept in physics.",
   "definition": "Coolant is a fundamental concept in physics.",
   "explanation": "Learn about Coolant and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "coolant"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

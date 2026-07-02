@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-11.topic-01",
   "name": "Health",
   "subject": "biology",
+  "summary": "Health is a fundamental concept in biology.",
   "definition": "Health is a fundamental concept in biology.",
   "explanation": "Learn about Health and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "health"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

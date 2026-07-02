@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-06.topic-01",
   "name": "HTTP Requests",
   "subject": "computer-science",
+  "summary": "HTTP Requests is a fundamental concept in computer-science.",
   "definition": "HTTP Requests is a fundamental concept in computer-science.",
   "explanation": "Learn about HTTP Requests and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "http-requests"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

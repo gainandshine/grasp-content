@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-05.topic-04",
   "name": "Pitot Tube",
   "subject": "physics",
+  "summary": "Pitot Tube is a fundamental concept in physics.",
   "definition": "Pitot Tube is a fundamental concept in physics.",
   "explanation": "Learn about Pitot Tube and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "pitot-tube"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

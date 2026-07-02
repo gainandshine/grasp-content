@@ -1,0 +1,2 @@
+﻿# English localization
+Default language.

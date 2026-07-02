@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-09.topic-01",
   "name": "Alkali Metals",
   "subject": "chemistry",
+  "summary": "Alkali Metals is a fundamental concept in chemistry.",
   "definition": "Alkali Metals is a fundamental concept in chemistry.",
   "explanation": "Learn about Alkali Metals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "alkali-metals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

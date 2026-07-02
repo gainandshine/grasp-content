@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-10.topic-03",
   "name": "Vertex Shaders",
   "subject": "computer-science",
+  "summary": "Vertex Shaders is a fundamental concept in computer-science.",
   "definition": "Vertex Shaders is a fundamental concept in computer-science.",
   "explanation": "Learn about Vertex Shaders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "vertex-shaders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

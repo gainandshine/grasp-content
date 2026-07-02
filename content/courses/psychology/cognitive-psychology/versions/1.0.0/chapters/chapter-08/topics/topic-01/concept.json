@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-08.topic-01",
   "name": "Problem Representation",
   "subject": "psychology",
+  "summary": "Problem Representation is a fundamental concept in psychology.",
   "definition": "Problem Representation is a fundamental concept in psychology.",
   "explanation": "Learn about Problem Representation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "problem-representation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-02.topic-03",
   "name": "Process Control Block (PCB)",
   "subject": "computer-science",
+  "summary": "Process Control Block (PCB) is a fundamental concept in computer-science.",
   "definition": "Process Control Block (PCB) is a fundamental concept in computer-science.",
   "explanation": "Learn about Process Control Block (PCB) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "process-control-block-pcb"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

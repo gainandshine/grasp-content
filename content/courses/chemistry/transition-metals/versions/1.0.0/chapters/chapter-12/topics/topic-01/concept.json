@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-12.topic-01",
   "name": "Iron in Hemoglobin",
   "subject": "chemistry",
+  "summary": "Iron in Hemoglobin is a fundamental concept in chemistry.",
   "definition": "Iron in Hemoglobin is a fundamental concept in chemistry.",
   "explanation": "Learn about Iron in Hemoglobin and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "iron-in-hemoglobin"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

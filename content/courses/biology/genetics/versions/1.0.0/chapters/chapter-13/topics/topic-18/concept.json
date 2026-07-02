@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-13.topic-18",
   "name": "Origin of Life",
   "subject": "biology",
+  "summary": "Origin of Life is a fundamental concept in biology.",
   "definition": "Origin of Life is a fundamental concept in biology.",
   "explanation": "Learn about Origin of Life and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "origin-of-life"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

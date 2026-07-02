@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-11.topic-02",
   "name": "Reflection",
   "subject": "mathematics",
+  "summary": "Reflection is a fundamental concept in mathematics.",
   "definition": "Reflection is a fundamental concept in mathematics.",
   "explanation": "Learn about Reflection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "reflection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-10.topic-06",
   "name": "Game Balancing",
   "subject": "game-theory",
+  "summary": "Game Balancing is a fundamental concept in game-theory.",
   "definition": "Game Balancing is a fundamental concept in game-theory.",
   "explanation": "Learn about Game Balancing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "game-balancing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

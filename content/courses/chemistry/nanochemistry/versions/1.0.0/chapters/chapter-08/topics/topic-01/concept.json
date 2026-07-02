@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-08.topic-01",
   "name": "Nanocatalysts",
   "subject": "chemistry",
+  "summary": "Nanocatalysts is a fundamental concept in chemistry.",
   "definition": "Nanocatalysts is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanocatalysts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanocatalysts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

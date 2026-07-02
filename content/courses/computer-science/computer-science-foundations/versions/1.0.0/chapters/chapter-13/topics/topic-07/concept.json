@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-07",
   "name": "Scientific Computing",
   "subject": "computer-science",
+  "summary": "Scientific Computing is a fundamental concept in computer-science.",
   "definition": "Scientific Computing is a fundamental concept in computer-science.",
   "explanation": "Learn about Scientific Computing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scientific-computing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

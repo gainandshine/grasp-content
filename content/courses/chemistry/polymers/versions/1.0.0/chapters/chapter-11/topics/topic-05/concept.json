@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-11.topic-05",
   "name": "Circular Economy",
   "subject": "chemistry",
+  "summary": "Circular Economy is a fundamental concept in chemistry.",
   "definition": "Circular Economy is a fundamental concept in chemistry.",
   "explanation": "Learn about Circular Economy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "circular-economy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

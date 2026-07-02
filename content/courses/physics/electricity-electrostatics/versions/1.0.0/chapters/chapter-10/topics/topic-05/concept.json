@@ -2,6 +2,7 @@
   "id": "physics.electricity-electrostatics.chapter-10.topic-05",
   "name": "Lightning",
   "subject": "physics",
+  "summary": "Lightning is a fundamental concept in physics.",
   "definition": "Lightning is a fundamental concept in physics.",
   "explanation": "Learn about Lightning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "lightning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

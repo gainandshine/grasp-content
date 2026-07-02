@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-04.topic-06",
   "name": "Object-Oriented Analysis",
   "subject": "computer-science",
+  "summary": "Object-Oriented Analysis is a fundamental concept in computer-science.",
   "definition": "Object-Oriented Analysis is a fundamental concept in computer-science.",
   "explanation": "Learn about Object-Oriented Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "object-oriented-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

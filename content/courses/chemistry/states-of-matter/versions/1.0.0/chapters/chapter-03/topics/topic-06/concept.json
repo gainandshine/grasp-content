@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-03.topic-06",
   "name": "Capillary Action",
   "subject": "chemistry",
+  "summary": "Capillary Action is a fundamental concept in chemistry.",
   "definition": "Capillary Action is a fundamental concept in chemistry.",
   "explanation": "Learn about Capillary Action and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "capillary-action"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

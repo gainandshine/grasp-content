@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-19",
   "name": "Cancer Immunology",
   "subject": "biology",
+  "summary": "Cancer Immunology is a fundamental concept in biology.",
   "definition": "Cancer Immunology is a fundamental concept in biology.",
   "explanation": "Learn about Cancer Immunology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cancer-immunology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

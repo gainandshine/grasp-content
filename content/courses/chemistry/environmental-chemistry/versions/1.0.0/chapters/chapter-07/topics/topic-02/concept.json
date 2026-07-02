@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-07.topic-02",
   "name": "Soil pH",
   "subject": "chemistry",
+  "summary": "Soil pH is a fundamental concept in chemistry.",
   "definition": "Soil pH is a fundamental concept in chemistry.",
   "explanation": "Learn about Soil pH and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "soil-ph"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

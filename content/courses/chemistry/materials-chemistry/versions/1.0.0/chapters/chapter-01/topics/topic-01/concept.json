@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-01.topic-01",
   "name": "What are Materials?",
   "subject": "chemistry",
+  "summary": "What are Materials? is a fundamental concept in chemistry.",
   "definition": "What are Materials? is a fundamental concept in chemistry.",
   "explanation": "Learn about What are Materials? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "what-are-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-09.topic-01",
   "name": "Food Processing",
   "subject": "chemistry",
+  "summary": "Food Processing is a fundamental concept in chemistry.",
   "definition": "Food Processing is a fundamental concept in chemistry.",
   "explanation": "Learn about Food Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "food-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

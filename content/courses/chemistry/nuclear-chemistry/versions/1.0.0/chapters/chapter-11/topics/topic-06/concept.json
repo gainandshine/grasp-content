@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-11.topic-06",
   "name": "Radiation Protection",
   "subject": "chemistry",
+  "summary": "Radiation Protection is a fundamental concept in chemistry.",
   "definition": "Radiation Protection is a fundamental concept in chemistry.",
   "explanation": "Learn about Radiation Protection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "radiation-protection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

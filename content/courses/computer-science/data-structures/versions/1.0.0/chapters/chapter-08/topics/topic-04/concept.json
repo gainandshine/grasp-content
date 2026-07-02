@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-08.topic-04",
   "name": "Heap Operations",
   "subject": "computer-science",
+  "summary": "Heap Operations is a fundamental concept in computer-science.",
   "definition": "Heap Operations is a fundamental concept in computer-science.",
   "explanation": "Learn about Heap Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "heap-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-11.topic-02",
   "name": "Quantitative Easing",
   "subject": "economics",
+  "summary": "Quantitative Easing is a fundamental concept in economics.",
   "definition": "Quantitative Easing is a fundamental concept in economics.",
   "explanation": "Learn about Quantitative Easing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "quantitative-easing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-03.topic-04",
   "name": "Cyclotron Frequency",
   "subject": "physics",
+  "summary": "Cyclotron Frequency is a fundamental concept in physics.",
   "definition": "Cyclotron Frequency is a fundamental concept in physics.",
   "explanation": "Learn about Cyclotron Frequency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cyclotron-frequency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

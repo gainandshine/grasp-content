@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-10.topic-01",
   "name": "Atomic Spectra",
   "subject": "chemistry",
+  "summary": "Atomic Spectra is a fundamental concept in chemistry.",
   "definition": "Atomic Spectra is a fundamental concept in chemistry.",
   "explanation": "Learn about Atomic Spectra and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atomic-spectra"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

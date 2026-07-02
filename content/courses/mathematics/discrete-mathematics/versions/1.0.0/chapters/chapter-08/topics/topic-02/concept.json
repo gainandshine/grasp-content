@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-08.topic-02",
   "name": "Linear Recurrence Relations",
   "subject": "mathematics",
+  "summary": "Linear Recurrence Relations is a fundamental concept in mathematics.",
   "definition": "Linear Recurrence Relations is a fundamental concept in mathematics.",
   "explanation": "Learn about Linear Recurrence Relations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "linear-recurrence-relations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

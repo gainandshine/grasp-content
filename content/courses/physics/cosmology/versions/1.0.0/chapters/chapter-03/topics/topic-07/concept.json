@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-03.topic-07",
   "name": "Photon Epoch",
   "subject": "physics",
+  "summary": "Photon Epoch is a fundamental concept in physics.",
   "definition": "Photon Epoch is a fundamental concept in physics.",
   "explanation": "Learn about Photon Epoch and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "photon-epoch"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

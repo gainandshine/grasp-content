@@ -2,6 +2,7 @@
   "id": "physics.waves-sound.chapter-10.topic-07",
   "name": "Communication Systems",
   "subject": "physics",
+  "summary": "Communication Systems is a fundamental concept in physics.",
   "definition": "Communication Systems is a fundamental concept in physics.",
   "explanation": "Learn about Communication Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "communication-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

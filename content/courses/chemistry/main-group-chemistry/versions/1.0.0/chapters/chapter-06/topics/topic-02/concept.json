@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-06.topic-02",
   "name": "Phosphorus",
   "subject": "chemistry",
+  "summary": "Phosphorus is a fundamental concept in chemistry.",
   "definition": "Phosphorus is a fundamental concept in chemistry.",
   "explanation": "Learn about Phosphorus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "phosphorus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

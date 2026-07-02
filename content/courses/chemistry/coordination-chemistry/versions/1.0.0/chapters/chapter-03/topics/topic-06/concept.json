@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-03.topic-06",
   "name": "Geometry Prediction",
   "subject": "chemistry",
+  "summary": "Geometry Prediction is a fundamental concept in chemistry.",
   "definition": "Geometry Prediction is a fundamental concept in chemistry.",
   "explanation": "Learn about Geometry Prediction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "geometry-prediction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

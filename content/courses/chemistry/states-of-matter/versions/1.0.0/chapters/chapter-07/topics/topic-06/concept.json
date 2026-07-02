@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-07.topic-06",
   "name": "Liquefaction of Gases",
   "subject": "chemistry",
+  "summary": "Liquefaction of Gases is a fundamental concept in chemistry.",
   "definition": "Liquefaction of Gases is a fundamental concept in chemistry.",
   "explanation": "Learn about Liquefaction of Gases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "liquefaction-of-gases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

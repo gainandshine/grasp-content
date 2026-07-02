@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-09.topic-03",
   "name": "Chi-Square Tests",
   "subject": "psychology",
+  "summary": "Chi-Square Tests is a fundamental concept in psychology.",
   "definition": "Chi-Square Tests is a fundamental concept in psychology.",
   "explanation": "Learn about Chi-Square Tests and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "chi-square-tests"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

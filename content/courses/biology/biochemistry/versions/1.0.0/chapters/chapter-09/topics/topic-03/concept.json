@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-09.topic-03",
   "name": "Ketone Bodies",
   "subject": "biology",
+  "summary": "Ketone Bodies is a fundamental concept in biology.",
   "definition": "Ketone Bodies is a fundamental concept in biology.",
   "explanation": "Learn about Ketone Bodies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "ketone-bodies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

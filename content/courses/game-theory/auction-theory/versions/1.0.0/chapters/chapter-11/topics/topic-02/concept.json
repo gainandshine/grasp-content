@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-11.topic-02",
   "name": "Truthfulness",
   "subject": "game-theory",
+  "summary": "Truthfulness is a fundamental concept in game-theory.",
   "definition": "Truthfulness is a fundamental concept in game-theory.",
   "explanation": "Learn about Truthfulness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "truthfulness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-02.topic-03",
   "name": "Cognitive Perspective",
   "subject": "psychology",
+  "summary": "Cognitive Perspective is a fundamental concept in psychology.",
   "definition": "Cognitive Perspective is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Perspective and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-perspective"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

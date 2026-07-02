@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-12.topic-03",
   "name": "Small Modular Reactors (SMRs)",
   "subject": "chemistry",
+  "summary": "Small Modular Reactors (SMRs) is a fundamental concept in chemistry.",
   "definition": "Small Modular Reactors (SMRs) is a fundamental concept in chemistry.",
   "explanation": "Learn about Small Modular Reactors (SMRs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "small-modular-reactors-smrs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-05.topic-02",
   "name": "Effective Collisions",
   "subject": "chemistry",
+  "summary": "Effective Collisions is a fundamental concept in chemistry.",
   "definition": "Effective Collisions is a fundamental concept in chemistry.",
   "explanation": "Learn about Effective Collisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "effective-collisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

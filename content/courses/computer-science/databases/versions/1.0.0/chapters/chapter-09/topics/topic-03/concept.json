@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-09.topic-03",
   "name": "Document Databases",
   "subject": "computer-science",
+  "summary": "Document Databases is a fundamental concept in computer-science.",
   "definition": "Document Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about Document Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "document-databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

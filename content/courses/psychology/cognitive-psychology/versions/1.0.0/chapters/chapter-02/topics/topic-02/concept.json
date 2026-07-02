@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-02.topic-02",
   "name": "Divided Attention",
   "subject": "psychology",
+  "summary": "Divided Attention is a fundamental concept in psychology.",
   "definition": "Divided Attention is a fundamental concept in psychology.",
   "explanation": "Learn about Divided Attention and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "divided-attention"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

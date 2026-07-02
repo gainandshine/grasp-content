@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-10.topic-05",
   "name": "Reversible Process",
   "subject": "chemistry",
+  "summary": "Reversible Process is a fundamental concept in chemistry.",
   "definition": "Reversible Process is a fundamental concept in chemistry.",
   "explanation": "Learn about Reversible Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "reversible-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

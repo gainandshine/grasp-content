@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-06.topic-03",
   "name": "Consequences of Cauchy's Formula",
   "subject": "mathematics",
+  "summary": "Consequences of Cauchy's Formula is a fundamental concept in mathematics.",
   "definition": "Consequences of Cauchy's Formula is a fundamental concept in mathematics.",
   "explanation": "Learn about Consequences of Cauchy's Formula and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "consequences-of-cauchys-formula"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

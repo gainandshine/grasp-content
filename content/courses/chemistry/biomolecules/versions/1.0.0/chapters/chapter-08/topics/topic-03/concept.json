@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-08.topic-03",
   "name": "Vitamin Deficiency Diseases",
   "subject": "chemistry",
+  "summary": "Vitamin Deficiency Diseases is a fundamental concept in chemistry.",
   "definition": "Vitamin Deficiency Diseases is a fundamental concept in chemistry.",
   "explanation": "Learn about Vitamin Deficiency Diseases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "vitamin-deficiency-diseases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

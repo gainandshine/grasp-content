@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-08.topic-01",
   "name": "Metallic Character",
   "subject": "chemistry",
+  "summary": "Metallic Character is a fundamental concept in chemistry.",
   "definition": "Metallic Character is a fundamental concept in chemistry.",
   "explanation": "Learn about Metallic Character and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metallic-character"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

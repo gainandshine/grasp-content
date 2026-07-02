@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-11",
   "name": "Carbohydrates",
   "subject": "biology",
+  "summary": "Carbohydrates is a fundamental concept in biology.",
   "definition": "Carbohydrates is a fundamental concept in biology.",
   "explanation": "Learn about Carbohydrates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "carbohydrates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

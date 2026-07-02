@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-06.topic-04",
   "name": "Rasterization",
   "subject": "computer-science",
+  "summary": "Rasterization is a fundamental concept in computer-science.",
   "definition": "Rasterization is a fundamental concept in computer-science.",
   "explanation": "Learn about Rasterization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "rasterization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

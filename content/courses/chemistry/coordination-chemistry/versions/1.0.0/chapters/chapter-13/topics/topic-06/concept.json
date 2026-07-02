@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-13.topic-06",
   "name": "Carbon Chemistry",
   "subject": "chemistry",
+  "summary": "Carbon Chemistry is a fundamental concept in chemistry.",
   "definition": "Carbon Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbon Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbon-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

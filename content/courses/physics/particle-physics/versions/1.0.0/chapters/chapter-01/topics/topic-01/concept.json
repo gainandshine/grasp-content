@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-01.topic-01",
   "name": "What is Particle Physics?",
   "subject": "physics",
+  "summary": "What is Particle Physics? is a fundamental concept in physics.",
   "definition": "What is Particle Physics? is a fundamental concept in physics.",
   "explanation": "Learn about What is Particle Physics? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "what-is-particle-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

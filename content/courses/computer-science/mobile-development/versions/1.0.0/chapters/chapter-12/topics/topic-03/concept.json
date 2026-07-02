@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-12.topic-03",
   "name": "Platform-Specific Features",
   "subject": "computer-science",
+  "summary": "Platform-Specific Features is a fundamental concept in computer-science.",
   "definition": "Platform-Specific Features is a fundamental concept in computer-science.",
   "explanation": "Learn about Platform-Specific Features and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "platform-specific-features"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-08.topic-01",
   "name": "Files",
   "subject": "computer-science",
+  "summary": "Files is a fundamental concept in computer-science.",
   "definition": "Files is a fundamental concept in computer-science.",
   "explanation": "Learn about Files and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "files"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

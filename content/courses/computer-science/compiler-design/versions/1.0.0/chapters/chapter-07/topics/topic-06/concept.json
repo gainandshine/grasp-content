@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-07.topic-06",
   "name": "Target Architectures",
   "subject": "computer-science",
+  "summary": "Target Architectures is a fundamental concept in computer-science.",
   "definition": "Target Architectures is a fundamental concept in computer-science.",
   "explanation": "Learn about Target Architectures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "target-architectures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

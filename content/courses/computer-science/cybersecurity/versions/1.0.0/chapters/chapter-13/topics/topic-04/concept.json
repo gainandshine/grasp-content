@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-13.topic-04",
   "name": "Government Systems",
   "subject": "computer-science",
+  "summary": "Government Systems is a fundamental concept in computer-science.",
   "definition": "Government Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Government Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "government-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

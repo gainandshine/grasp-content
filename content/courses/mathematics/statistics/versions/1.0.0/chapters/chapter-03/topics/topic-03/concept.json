@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-03.topic-03",
   "name": "Mode",
   "subject": "mathematics",
+  "summary": "Mode is a fundamental concept in mathematics.",
   "definition": "Mode is a fundamental concept in mathematics.",
   "explanation": "Learn about Mode and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mode"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

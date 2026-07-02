@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-11.topic-04",
   "name": "Quantum Cryptography",
   "subject": "physics",
+  "summary": "Quantum Cryptography is a fundamental concept in physics.",
   "definition": "Quantum Cryptography is a fundamental concept in physics.",
   "explanation": "Learn about Quantum Cryptography and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quantum-cryptography"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

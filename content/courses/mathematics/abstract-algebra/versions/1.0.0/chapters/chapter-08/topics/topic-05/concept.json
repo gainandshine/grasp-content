@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-08.topic-05",
   "name": "Splitting Fields",
   "subject": "mathematics",
+  "summary": "Splitting Fields is a fundamental concept in mathematics.",
   "definition": "Splitting Fields is a fundamental concept in mathematics.",
   "explanation": "Learn about Splitting Fields and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "splitting-fields"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

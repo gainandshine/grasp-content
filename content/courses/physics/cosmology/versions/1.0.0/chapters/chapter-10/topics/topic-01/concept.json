@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-10.topic-01",
   "name": "Big Freeze",
   "subject": "physics",
+  "summary": "Big Freeze is a fundamental concept in physics.",
   "definition": "Big Freeze is a fundamental concept in physics.",
   "explanation": "Learn about Big Freeze and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "big-freeze"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

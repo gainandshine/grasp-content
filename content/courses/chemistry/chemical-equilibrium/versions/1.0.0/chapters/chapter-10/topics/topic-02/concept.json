@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-10.topic-02",
   "name": "Contact Process",
   "subject": "chemistry",
+  "summary": "Contact Process is a fundamental concept in chemistry.",
   "definition": "Contact Process is a fundamental concept in chemistry.",
   "explanation": "Learn about Contact Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "contact-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

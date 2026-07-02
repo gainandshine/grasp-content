@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-20",
   "name": "Database Security",
   "subject": "computer-science",
+  "summary": "Database Security is a fundamental concept in computer-science.",
   "definition": "Database Security is a fundamental concept in computer-science.",
   "explanation": "Learn about Database Security and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "database-security"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

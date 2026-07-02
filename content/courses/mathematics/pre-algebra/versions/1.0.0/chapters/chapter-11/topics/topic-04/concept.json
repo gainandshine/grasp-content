@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-11.topic-04",
   "name": "Plotting Points",
   "subject": "mathematics",
+  "summary": "Plotting Points is a fundamental concept in mathematics.",
   "definition": "Plotting Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Plotting Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "plotting-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

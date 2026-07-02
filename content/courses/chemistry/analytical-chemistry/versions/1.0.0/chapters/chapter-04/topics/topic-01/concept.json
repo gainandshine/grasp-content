@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-04.topic-01",
   "name": "Gravimetric Analysis",
   "subject": "chemistry",
+  "summary": "Gravimetric Analysis is a fundamental concept in chemistry.",
   "definition": "Gravimetric Analysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Gravimetric Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "gravimetric-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-13.topic-02",
   "name": "Phase Plane",
   "subject": "mathematics",
+  "summary": "Phase Plane is a fundamental concept in mathematics.",
   "definition": "Phase Plane is a fundamental concept in mathematics.",
   "explanation": "Learn about Phase Plane and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "phase-plane"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

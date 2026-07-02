@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-01.topic-03",
   "name": "Correctness",
   "subject": "computer-science",
+  "summary": "Correctness is a fundamental concept in computer-science.",
   "definition": "Correctness is a fundamental concept in computer-science.",
   "explanation": "Learn about Correctness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "correctness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

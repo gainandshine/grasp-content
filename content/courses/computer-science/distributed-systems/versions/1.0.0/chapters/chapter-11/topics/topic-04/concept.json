@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-11.topic-04",
   "name": "Service Mesh",
   "subject": "computer-science",
+  "summary": "Service Mesh is a fundamental concept in computer-science.",
   "definition": "Service Mesh is a fundamental concept in computer-science.",
   "explanation": "Learn about Service Mesh and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "service-mesh"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

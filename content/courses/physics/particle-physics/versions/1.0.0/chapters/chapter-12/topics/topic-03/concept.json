@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-12.topic-03",
   "name": "Synchrotron Radiation",
   "subject": "physics",
+  "summary": "Synchrotron Radiation is a fundamental concept in physics.",
   "definition": "Synchrotron Radiation is a fundamental concept in physics.",
   "explanation": "Learn about Synchrotron Radiation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "synchrotron-radiation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-02.topic-03",
   "name": "Unit Conversion",
   "subject": "physics",
+  "summary": "Unit Conversion is a fundamental concept in physics.",
   "definition": "Unit Conversion is a fundamental concept in physics.",
   "explanation": "Learn about Unit Conversion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "unit-conversion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

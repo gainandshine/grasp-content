@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-01.topic-02",
   "name": "History of Positive Psychology",
   "subject": "psychology",
+  "summary": "History of Positive Psychology is a fundamental concept in psychology.",
   "definition": "History of Positive Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about History of Positive Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "history-of-positive-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

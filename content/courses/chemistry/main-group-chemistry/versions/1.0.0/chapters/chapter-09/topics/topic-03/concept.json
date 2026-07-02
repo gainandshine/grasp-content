@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-09.topic-03",
   "name": "Argon",
   "subject": "chemistry",
+  "summary": "Argon is a fundamental concept in chemistry.",
   "definition": "Argon is a fundamental concept in chemistry.",
   "explanation": "Learn about Argon and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "argon"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

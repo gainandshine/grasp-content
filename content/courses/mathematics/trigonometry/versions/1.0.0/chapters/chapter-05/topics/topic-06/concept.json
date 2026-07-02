@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-05.topic-06",
   "name": "Graph of Cosecant",
   "subject": "mathematics",
+  "summary": "Graph of Cosecant is a fundamental concept in mathematics.",
   "definition": "Graph of Cosecant is a fundamental concept in mathematics.",
   "explanation": "Learn about Graph of Cosecant and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "graph-of-cosecant"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

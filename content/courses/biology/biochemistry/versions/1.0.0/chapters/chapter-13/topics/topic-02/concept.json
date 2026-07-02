@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-13.topic-02",
   "name": "Metabolomics",
   "subject": "biology",
+  "summary": "Metabolomics is a fundamental concept in biology.",
   "definition": "Metabolomics is a fundamental concept in biology.",
   "explanation": "Learn about Metabolomics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "metabolomics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-02.topic-04",
   "name": "Service-Oriented Architecture (SOA)",
   "subject": "computer-science",
+  "summary": "Service-Oriented Architecture (SOA) is a fundamental concept in computer-science.",
   "definition": "Service-Oriented Architecture (SOA) is a fundamental concept in computer-science.",
   "explanation": "Learn about Service-Oriented Architecture (SOA) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "service-oriented-architecture-soa"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

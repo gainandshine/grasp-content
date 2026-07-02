@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-04.topic-04",
   "name": "Antibody Structure",
   "subject": "biology",
+  "summary": "Antibody Structure is a fundamental concept in biology.",
   "definition": "Antibody Structure is a fundamental concept in biology.",
   "explanation": "Learn about Antibody Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "antibody-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

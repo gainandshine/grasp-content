@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-08.topic-03",
   "name": "Offers & Counteroffers",
   "subject": "game-theory",
+  "summary": "Offers & Counteroffers is a fundamental concept in game-theory.",
   "definition": "Offers & Counteroffers is a fundamental concept in game-theory.",
   "explanation": "Learn about Offers & Counteroffers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "offers-counteroffers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

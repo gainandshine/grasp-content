@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-13.topic-16",
   "name": "Memory",
   "subject": "psychology",
+  "summary": "Memory is a fundamental concept in psychology.",
   "definition": "Memory is a fundamental concept in psychology.",
   "explanation": "Learn about Memory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "memory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

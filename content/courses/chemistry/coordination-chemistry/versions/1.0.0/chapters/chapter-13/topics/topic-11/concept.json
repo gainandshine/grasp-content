@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-13.topic-11",
   "name": "Stereochemistry",
   "subject": "chemistry",
+  "summary": "Stereochemistry is a fundamental concept in chemistry.",
   "definition": "Stereochemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Stereochemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "stereochemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

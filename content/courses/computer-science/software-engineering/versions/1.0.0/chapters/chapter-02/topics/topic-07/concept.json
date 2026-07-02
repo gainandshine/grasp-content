@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-02.topic-07",
   "name": "Requirements Validation",
   "subject": "computer-science",
+  "summary": "Requirements Validation is a fundamental concept in computer-science.",
   "definition": "Requirements Validation is a fundamental concept in computer-science.",
   "explanation": "Learn about Requirements Validation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "requirements-validation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

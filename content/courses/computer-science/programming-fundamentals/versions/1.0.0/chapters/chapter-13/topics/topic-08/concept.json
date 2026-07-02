@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-08",
   "name": "Classes",
   "subject": "computer-science",
+  "summary": "Classes is a fundamental concept in computer-science.",
   "definition": "Classes is a fundamental concept in computer-science.",
   "explanation": "Learn about Classes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "classes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-13.topic-10",
   "name": "Recursion",
   "subject": "computer-science",
+  "summary": "Recursion is a fundamental concept in computer-science.",
   "definition": "Recursion is a fundamental concept in computer-science.",
   "explanation": "Learn about Recursion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "recursion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

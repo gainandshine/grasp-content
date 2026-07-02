@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-11.topic-03",
   "name": "Collectivism",
   "subject": "psychology",
+  "summary": "Collectivism is a fundamental concept in psychology.",
   "definition": "Collectivism is a fundamental concept in psychology.",
   "explanation": "Learn about Collectivism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "collectivism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

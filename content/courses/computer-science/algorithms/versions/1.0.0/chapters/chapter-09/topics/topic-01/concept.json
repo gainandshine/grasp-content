@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-09.topic-01",
   "name": "Breadth-First Search (BFS)",
   "subject": "computer-science",
+  "summary": "Breadth-First Search (BFS) is a fundamental concept in computer-science.",
   "definition": "Breadth-First Search (BFS) is a fundamental concept in computer-science.",
   "explanation": "Learn about Breadth-First Search (BFS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "breadth-first-search-bfs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

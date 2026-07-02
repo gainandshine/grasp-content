@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-06.topic-07",
   "name": "Standard Deviation",
   "subject": "psychology",
+  "summary": "Standard Deviation is a fundamental concept in psychology.",
   "definition": "Standard Deviation is a fundamental concept in psychology.",
   "explanation": "Learn about Standard Deviation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "standard-deviation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

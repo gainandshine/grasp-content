@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-13.topic-19",
   "name": "Security Operations",
   "subject": "computer-science",
+  "summary": "Security Operations is a fundamental concept in computer-science.",
   "definition": "Security Operations is a fundamental concept in computer-science.",
   "explanation": "Learn about Security Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "security-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-02.topic-05",
   "name": "Bernoulli Equations",
   "subject": "mathematics",
+  "summary": "Bernoulli Equations is a fundamental concept in mathematics.",
   "definition": "Bernoulli Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Bernoulli Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "bernoulli-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-10.topic-05",
   "name": "Drug Resistance",
   "subject": "biology",
+  "summary": "Drug Resistance is a fundamental concept in biology.",
   "definition": "Drug Resistance is a fundamental concept in biology.",
   "explanation": "Learn about Drug Resistance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "drug-resistance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

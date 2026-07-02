@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-03.topic-06",
   "name": "Bandwidth",
   "subject": "computer-science",
+  "summary": "Bandwidth is a fundamental concept in computer-science.",
   "definition": "Bandwidth is a fundamental concept in computer-science.",
   "explanation": "Learn about Bandwidth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "bandwidth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

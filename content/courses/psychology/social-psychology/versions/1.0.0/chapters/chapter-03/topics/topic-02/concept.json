@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-03.topic-02",
   "name": "Attribution Theory",
   "subject": "psychology",
+  "summary": "Attribution Theory is a fundamental concept in psychology.",
   "definition": "Attribution Theory is a fundamental concept in psychology.",
   "explanation": "Learn about Attribution Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "attribution-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

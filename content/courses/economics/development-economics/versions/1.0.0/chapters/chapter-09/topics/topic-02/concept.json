@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-09.topic-02",
   "name": "Property Rights",
   "subject": "economics",
+  "summary": "Property Rights is a fundamental concept in economics.",
   "definition": "Property Rights is a fundamental concept in economics.",
   "explanation": "Learn about Property Rights and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "property-rights"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

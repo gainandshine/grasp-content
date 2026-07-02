@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-03.topic-09",
   "name": "Pauli Exclusion Principle",
   "subject": "physics",
+  "summary": "Pauli Exclusion Principle is a fundamental concept in physics.",
   "definition": "Pauli Exclusion Principle is a fundamental concept in physics.",
   "explanation": "Learn about Pauli Exclusion Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "pauli-exclusion-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

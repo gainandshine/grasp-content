@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-07.topic-02",
   "name": "Surface Energy",
   "subject": "chemistry",
+  "summary": "Surface Energy is a fundamental concept in chemistry.",
   "definition": "Surface Energy is a fundamental concept in chemistry.",
   "explanation": "Learn about Surface Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "surface-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

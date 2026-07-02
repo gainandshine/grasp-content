@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-13.topic-02",
   "name": "IDEs",
   "subject": "computer-science",
+  "summary": "IDEs is a fundamental concept in computer-science.",
   "definition": "IDEs is a fundamental concept in computer-science.",
   "explanation": "Learn about IDEs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

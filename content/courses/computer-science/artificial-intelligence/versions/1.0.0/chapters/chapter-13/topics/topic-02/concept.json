@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-02",
   "name": "Finance AI",
   "subject": "computer-science",
+  "summary": "Finance AI is a fundamental concept in computer-science.",
   "definition": "Finance AI is a fundamental concept in computer-science.",
   "explanation": "Learn about Finance AI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "finance-ai"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

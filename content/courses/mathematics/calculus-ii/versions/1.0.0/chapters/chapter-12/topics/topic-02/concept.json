@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-12.topic-02",
   "name": "Growth Models",
   "subject": "mathematics",
+  "summary": "Growth Models is a fundamental concept in mathematics.",
   "definition": "Growth Models is a fundamental concept in mathematics.",
   "explanation": "Learn about Growth Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "growth-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-06.topic-05",
   "name": "Potential Barrier",
   "subject": "physics",
+  "summary": "Potential Barrier is a fundamental concept in physics.",
   "definition": "Potential Barrier is a fundamental concept in physics.",
   "explanation": "Learn about Potential Barrier and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "potential-barrier"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

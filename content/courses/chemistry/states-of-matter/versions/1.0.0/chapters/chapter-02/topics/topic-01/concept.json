@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-02.topic-01",
   "name": "Types of Solids",
   "subject": "chemistry",
+  "summary": "Types of Solids is a fundamental concept in chemistry.",
   "definition": "Types of Solids is a fundamental concept in chemistry.",
   "explanation": "Learn about Types of Solids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "types-of-solids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

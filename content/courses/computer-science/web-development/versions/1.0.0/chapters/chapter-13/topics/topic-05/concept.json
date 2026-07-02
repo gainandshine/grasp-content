@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-13.topic-05",
   "name": "Real-Time Applications",
   "subject": "computer-science",
+  "summary": "Real-Time Applications is a fundamental concept in computer-science.",
   "definition": "Real-Time Applications is a fundamental concept in computer-science.",
   "explanation": "Learn about Real-Time Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "real-time-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

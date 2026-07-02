@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-01.topic-04",
   "name": "Types of Events",
   "subject": "mathematics",
+  "summary": "Types of Events is a fundamental concept in mathematics.",
   "definition": "Types of Events is a fundamental concept in mathematics.",
   "explanation": "Learn about Types of Events and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "types-of-events"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

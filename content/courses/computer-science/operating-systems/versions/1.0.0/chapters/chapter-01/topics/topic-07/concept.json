@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-01.topic-07",
   "name": "OS Architecture",
   "subject": "computer-science",
+  "summary": "OS Architecture is a fundamental concept in computer-science.",
   "definition": "OS Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about OS Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "os-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

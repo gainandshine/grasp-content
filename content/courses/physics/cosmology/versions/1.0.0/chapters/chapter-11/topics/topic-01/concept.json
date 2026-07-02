@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-11.topic-01",
   "name": "Type Ia Supernovae",
   "subject": "physics",
+  "summary": "Type Ia Supernovae is a fundamental concept in physics.",
   "definition": "Type Ia Supernovae is a fundamental concept in physics.",
   "explanation": "Learn about Type Ia Supernovae and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "type-ia-supernovae"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

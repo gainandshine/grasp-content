@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-09.topic-03",
   "name": "Preservatives",
   "subject": "chemistry",
+  "summary": "Preservatives is a fundamental concept in chemistry.",
   "definition": "Preservatives is a fundamental concept in chemistry.",
   "explanation": "Learn about Preservatives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "preservatives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

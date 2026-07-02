@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-04.topic-07",
   "name": "Emerging Viruses",
   "subject": "biology",
+  "summary": "Emerging Viruses is a fundamental concept in biology.",
   "definition": "Emerging Viruses is a fundamental concept in biology.",
   "explanation": "Learn about Emerging Viruses and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "emerging-viruses"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

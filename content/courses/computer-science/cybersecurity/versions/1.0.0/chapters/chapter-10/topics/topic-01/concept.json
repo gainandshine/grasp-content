@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-10.topic-01",
   "name": "Digital Evidence",
   "subject": "computer-science",
+  "summary": "Digital Evidence is a fundamental concept in computer-science.",
   "definition": "Digital Evidence is a fundamental concept in computer-science.",
   "explanation": "Learn about Digital Evidence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "digital-evidence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

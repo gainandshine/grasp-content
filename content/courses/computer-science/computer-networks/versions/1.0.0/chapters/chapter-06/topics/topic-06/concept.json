@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-06.topic-06",
   "name": "Reliable Data Transfer",
   "subject": "computer-science",
+  "summary": "Reliable Data Transfer is a fundamental concept in computer-science.",
   "definition": "Reliable Data Transfer is a fundamental concept in computer-science.",
   "explanation": "Learn about Reliable Data Transfer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "reliable-data-transfer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

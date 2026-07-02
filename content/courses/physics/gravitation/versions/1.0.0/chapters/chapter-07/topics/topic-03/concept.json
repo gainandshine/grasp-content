@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-07.topic-03",
   "name": "Energy Required to Escape",
   "subject": "physics",
+  "summary": "Energy Required to Escape is a fundamental concept in physics.",
   "definition": "Energy Required to Escape is a fundamental concept in physics.",
   "explanation": "Learn about Energy Required to Escape and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-required-to-escape"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-02",
   "name": "Local Maxima",
   "subject": "mathematics",
+  "summary": "Local Maxima is a fundamental concept in mathematics.",
   "definition": "Local Maxima is a fundamental concept in mathematics.",
   "explanation": "Learn about Local Maxima and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "local-maxima"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

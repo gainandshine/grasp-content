@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-02.topic-01",
   "name": "Group Trends",
   "subject": "chemistry",
+  "summary": "Group Trends is a fundamental concept in chemistry.",
   "definition": "Group Trends is a fundamental concept in chemistry.",
   "explanation": "Learn about Group Trends and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "group-trends"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-07.topic-04",
   "name": "Singularities",
   "subject": "mathematics",
+  "summary": "Singularities is a fundamental concept in mathematics.",
   "definition": "Singularities is a fundamental concept in mathematics.",
   "explanation": "Learn about Singularities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "singularities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

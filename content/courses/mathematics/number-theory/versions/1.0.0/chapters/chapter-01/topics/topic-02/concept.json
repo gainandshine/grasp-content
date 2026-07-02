@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-01.topic-02",
   "name": "Divisibility Rules",
   "subject": "mathematics",
+  "summary": "Divisibility Rules is a fundamental concept in mathematics.",
   "definition": "Divisibility Rules is a fundamental concept in mathematics.",
   "explanation": "Learn about Divisibility Rules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "divisibility-rules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

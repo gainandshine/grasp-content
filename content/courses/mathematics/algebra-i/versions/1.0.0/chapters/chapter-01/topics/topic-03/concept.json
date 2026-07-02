@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-01.topic-03",
   "name": "Terms",
   "subject": "mathematics",
+  "summary": "Terms is a fundamental concept in mathematics.",
   "definition": "Terms is a fundamental concept in mathematics.",
   "explanation": "Learn about Terms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "terms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

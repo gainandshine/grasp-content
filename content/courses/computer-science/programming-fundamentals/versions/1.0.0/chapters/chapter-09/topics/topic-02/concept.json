@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-09.topic-02",
   "name": "Binary Search (Concept)",
   "subject": "computer-science",
+  "summary": "Binary Search (Concept) is a fundamental concept in computer-science.",
   "definition": "Binary Search (Concept) is a fundamental concept in computer-science.",
   "explanation": "Learn about Binary Search (Concept) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "binary-search-concept"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

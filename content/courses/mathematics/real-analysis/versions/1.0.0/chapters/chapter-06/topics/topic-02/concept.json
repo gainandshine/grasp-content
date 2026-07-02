@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-06.topic-02",
   "name": "Uniform Continuity",
   "subject": "mathematics",
+  "summary": "Uniform Continuity is a fundamental concept in mathematics.",
   "definition": "Uniform Continuity is a fundamental concept in mathematics.",
   "explanation": "Learn about Uniform Continuity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "uniform-continuity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

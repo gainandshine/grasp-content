@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-10.topic-03",
   "name": "Isobaric Process",
   "subject": "chemistry",
+  "summary": "Isobaric Process is a fundamental concept in chemistry.",
   "definition": "Isobaric Process is a fundamental concept in chemistry.",
   "explanation": "Learn about Isobaric Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "isobaric-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

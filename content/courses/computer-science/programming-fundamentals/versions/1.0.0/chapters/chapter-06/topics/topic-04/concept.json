@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-06.topic-04",
   "name": "Nested Loops",
   "subject": "computer-science",
+  "summary": "Nested Loops is a fundamental concept in computer-science.",
   "definition": "Nested Loops is a fundamental concept in computer-science.",
   "explanation": "Learn about Nested Loops and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "nested-loops"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

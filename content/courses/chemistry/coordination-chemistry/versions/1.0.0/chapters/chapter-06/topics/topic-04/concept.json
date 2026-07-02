@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-06.topic-04",
   "name": "Molecular Orbital Theory (Introduction)",
   "subject": "chemistry",
+  "summary": "Molecular Orbital Theory (Introduction) is a fundamental concept in chemistry.",
   "definition": "Molecular Orbital Theory (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Orbital Theory (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-orbital-theory-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-02.topic-06",
   "name": "Event-Driven Communication",
   "subject": "computer-science",
+  "summary": "Event-Driven Communication is a fundamental concept in computer-science.",
   "definition": "Event-Driven Communication is a fundamental concept in computer-science.",
   "explanation": "Learn about Event-Driven Communication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "event-driven-communication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

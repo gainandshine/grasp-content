@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-05.topic-03",
   "name": "Circular Queue",
   "subject": "computer-science",
+  "summary": "Circular Queue is a fundamental concept in computer-science.",
   "definition": "Circular Queue is a fundamental concept in computer-science.",
   "explanation": "Learn about Circular Queue and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "circular-queue"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

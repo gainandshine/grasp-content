@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-10",
   "name": "pH & pOH",
   "subject": "chemistry",
+  "summary": "pH & pOH is a fundamental concept in chemistry.",
   "definition": "pH & pOH is a fundamental concept in chemistry.",
   "explanation": "Learn about pH & pOH and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ph-poh"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

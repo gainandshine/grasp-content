@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-07.topic-01",
   "name": "Shortest Path Problem",
   "subject": "mathematics",
+  "summary": "Shortest Path Problem is a fundamental concept in mathematics.",
   "definition": "Shortest Path Problem is a fundamental concept in mathematics.",
   "explanation": "Learn about Shortest Path Problem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "shortest-path-problem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

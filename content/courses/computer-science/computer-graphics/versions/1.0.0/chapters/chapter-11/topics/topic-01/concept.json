@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-11.topic-01",
   "name": "Ray Tracing",
   "subject": "computer-science",
+  "summary": "Ray Tracing is a fundamental concept in computer-science.",
   "definition": "Ray Tracing is a fundamental concept in computer-science.",
   "explanation": "Learn about Ray Tracing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ray-tracing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

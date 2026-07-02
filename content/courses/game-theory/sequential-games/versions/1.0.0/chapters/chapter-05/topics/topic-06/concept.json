@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-05.topic-06",
   "name": "Dynamic Stability",
   "subject": "game-theory",
+  "summary": "Dynamic Stability is a fundamental concept in game-theory.",
   "definition": "Dynamic Stability is a fundamental concept in game-theory.",
   "explanation": "Learn about Dynamic Stability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "dynamic-stability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

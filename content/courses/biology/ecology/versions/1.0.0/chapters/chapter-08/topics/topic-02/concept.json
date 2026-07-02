@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-08.topic-02",
   "name": "Habitat Fragmentation",
   "subject": "biology",
+  "summary": "Habitat Fragmentation is a fundamental concept in biology.",
   "definition": "Habitat Fragmentation is a fundamental concept in biology.",
   "explanation": "Learn about Habitat Fragmentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "habitat-fragmentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

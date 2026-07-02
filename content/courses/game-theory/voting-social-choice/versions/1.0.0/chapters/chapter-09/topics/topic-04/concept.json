@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-09.topic-04",
   "name": "Jury Decisions",
   "subject": "game-theory",
+  "summary": "Jury Decisions is a fundamental concept in game-theory.",
   "definition": "Jury Decisions is a fundamental concept in game-theory.",
   "explanation": "Learn about Jury Decisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "jury-decisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-03.topic-01",
   "name": "Constant Rule",
   "subject": "mathematics",
+  "summary": "Constant Rule is a fundamental concept in mathematics.",
   "definition": "Constant Rule is a fundamental concept in mathematics.",
   "explanation": "Learn about Constant Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "constant-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-04.topic-04",
   "name": "Vertices",
   "subject": "computer-science",
+  "summary": "Vertices is a fundamental concept in computer-science.",
   "definition": "Vertices is a fundamental concept in computer-science.",
   "explanation": "Learn about Vertices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "vertices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

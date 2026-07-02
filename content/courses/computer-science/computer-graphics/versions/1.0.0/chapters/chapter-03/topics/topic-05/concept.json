@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-03.topic-05",
   "name": "Homogeneous Coordinates",
   "subject": "computer-science",
+  "summary": "Homogeneous Coordinates is a fundamental concept in computer-science.",
   "definition": "Homogeneous Coordinates is a fundamental concept in computer-science.",
   "explanation": "Learn about Homogeneous Coordinates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "homogeneous-coordinates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

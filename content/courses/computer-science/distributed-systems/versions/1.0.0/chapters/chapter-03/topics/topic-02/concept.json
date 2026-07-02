@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-03.topic-02",
   "name": "Logical Clocks",
   "subject": "computer-science",
+  "summary": "Logical Clocks is a fundamental concept in computer-science.",
   "definition": "Logical Clocks is a fundamental concept in computer-science.",
   "explanation": "Learn about Logical Clocks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "logical-clocks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

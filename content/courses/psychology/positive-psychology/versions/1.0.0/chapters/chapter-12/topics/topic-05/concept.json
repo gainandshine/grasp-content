@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-12.topic-05",
   "name": "Workplace Development",
   "subject": "psychology",
+  "summary": "Workplace Development is a fundamental concept in psychology.",
   "definition": "Workplace Development is a fundamental concept in psychology.",
   "explanation": "Learn about Workplace Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "workplace-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

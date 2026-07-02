@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-08.topic-02",
   "name": "Sigma Notation Review",
   "subject": "mathematics",
+  "summary": "Sigma Notation Review is a fundamental concept in mathematics.",
   "definition": "Sigma Notation Review is a fundamental concept in mathematics.",
   "explanation": "Learn about Sigma Notation Review and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sigma-notation-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

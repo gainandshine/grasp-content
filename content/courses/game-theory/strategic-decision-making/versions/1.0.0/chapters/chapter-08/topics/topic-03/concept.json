@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-08.topic-03",
   "name": "Information Sets",
   "subject": "game-theory",
+  "summary": "Information Sets is a fundamental concept in game-theory.",
   "definition": "Information Sets is a fundamental concept in game-theory.",
   "explanation": "Learn about Information Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "information-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

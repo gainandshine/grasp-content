@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-language.chapter-10.topic-03",
   "name": "Language Change",
   "subject": "philosophy",
+  "summary": "Language Change is a fundamental concept in philosophy.",
   "definition": "Language Change is a fundamental concept in philosophy.",
   "explanation": "Learn about Language Change and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "language-change"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

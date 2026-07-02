@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-11.topic-06",
   "name": "Control Groups (cgroups)",
   "subject": "computer-science",
+  "summary": "Control Groups (cgroups) is a fundamental concept in computer-science.",
   "definition": "Control Groups (cgroups) is a fundamental concept in computer-science.",
   "explanation": "Learn about Control Groups (cgroups) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "control-groups-cgroups"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

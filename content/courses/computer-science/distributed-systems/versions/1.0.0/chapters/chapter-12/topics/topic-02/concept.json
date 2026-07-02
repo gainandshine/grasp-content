@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-12.topic-02",
   "name": "Distributed Caching",
   "subject": "computer-science",
+  "summary": "Distributed Caching is a fundamental concept in computer-science.",
   "definition": "Distributed Caching is a fundamental concept in computer-science.",
   "explanation": "Learn about Distributed Caching and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "distributed-caching"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

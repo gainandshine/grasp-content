@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-03.topic-05",
   "name": "Decoders",
   "subject": "computer-science",
+  "summary": "Decoders is a fundamental concept in computer-science.",
   "definition": "Decoders is a fundamental concept in computer-science.",
   "explanation": "Learn about Decoders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "decoders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-12.topic-05",
   "name": "Artificial Photosynthesis",
   "subject": "chemistry",
+  "summary": "Artificial Photosynthesis is a fundamental concept in chemistry.",
   "definition": "Artificial Photosynthesis is a fundamental concept in chemistry.",
   "explanation": "Learn about Artificial Photosynthesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "artificial-photosynthesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

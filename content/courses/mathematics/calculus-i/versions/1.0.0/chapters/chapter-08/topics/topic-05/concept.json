@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-08.topic-05",
   "name": "Area Under a Curve",
   "subject": "mathematics",
+  "summary": "Area Under a Curve is a fundamental concept in mathematics.",
   "definition": "Area Under a Curve is a fundamental concept in mathematics.",
   "explanation": "Learn about Area Under a Curve and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "area-under-a-curve"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-02.topic-05",
   "name": "Rydberg Formula",
   "subject": "physics",
+  "summary": "Rydberg Formula is a fundamental concept in physics.",
   "definition": "Rydberg Formula is a fundamental concept in physics.",
   "explanation": "Learn about Rydberg Formula and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rydberg-formula"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

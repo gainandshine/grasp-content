@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-06.topic-02",
   "name": "Binomial Nomenclature",
   "subject": "biology",
+  "summary": "Binomial Nomenclature is a fundamental concept in biology.",
   "definition": "Binomial Nomenclature is a fundamental concept in biology.",
   "explanation": "Learn about Binomial Nomenclature and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "binomial-nomenclature"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

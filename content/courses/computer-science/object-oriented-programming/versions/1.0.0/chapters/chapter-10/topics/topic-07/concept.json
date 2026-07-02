@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-10.topic-07",
   "name": "Iterators",
   "subject": "computer-science",
+  "summary": "Iterators is a fundamental concept in computer-science.",
   "definition": "Iterators is a fundamental concept in computer-science.",
   "explanation": "Learn about Iterators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "iterators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

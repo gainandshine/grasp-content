@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-08.topic-02",
   "name": "Triple Integrals",
   "subject": "mathematics",
+  "summary": "Triple Integrals is a fundamental concept in mathematics.",
   "definition": "Triple Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Triple Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "triple-integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-07.topic-01",
   "name": "Explosion Problems",
   "subject": "physics",
+  "summary": "Explosion Problems is a fundamental concept in physics.",
   "definition": "Explosion Problems is a fundamental concept in physics.",
   "explanation": "Learn about Explosion Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "explosion-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

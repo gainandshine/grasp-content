@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-02.topic-02",
   "name": "Variation",
   "subject": "biology",
+  "summary": "Variation is a fundamental concept in biology.",
   "definition": "Variation is a fundamental concept in biology.",
   "explanation": "Learn about Variation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "variation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

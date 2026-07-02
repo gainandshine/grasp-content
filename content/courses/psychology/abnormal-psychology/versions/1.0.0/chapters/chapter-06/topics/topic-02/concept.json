@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-06.topic-02",
   "name": "Positive Symptoms",
   "subject": "psychology",
+  "summary": "Positive Symptoms is a fundamental concept in psychology.",
   "definition": "Positive Symptoms is a fundamental concept in psychology.",
   "explanation": "Learn about Positive Symptoms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "positive-symptoms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-08.topic-04",
   "name": "Insight",
   "subject": "psychology",
+  "summary": "Insight is a fundamental concept in psychology.",
   "definition": "Insight is a fundamental concept in psychology.",
   "explanation": "Learn about Insight and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "insight"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

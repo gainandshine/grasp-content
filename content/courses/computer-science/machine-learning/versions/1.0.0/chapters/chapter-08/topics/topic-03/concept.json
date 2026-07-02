@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-08.topic-03",
   "name": "Recurrent Neural Networks (RNNs)",
   "subject": "computer-science",
+  "summary": "Recurrent Neural Networks (RNNs) is a fundamental concept in computer-science.",
   "definition": "Recurrent Neural Networks (RNNs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Recurrent Neural Networks (RNNs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "recurrent-neural-networks-rnns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

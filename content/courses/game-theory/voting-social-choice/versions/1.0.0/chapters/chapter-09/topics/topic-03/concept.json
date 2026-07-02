@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-09.topic-03",
   "name": "Consensus Building",
   "subject": "game-theory",
+  "summary": "Consensus Building is a fundamental concept in game-theory.",
   "definition": "Consensus Building is a fundamental concept in game-theory.",
   "explanation": "Learn about Consensus Building and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "consensus-building"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

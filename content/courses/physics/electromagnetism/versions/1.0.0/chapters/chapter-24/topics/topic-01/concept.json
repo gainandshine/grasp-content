@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-24.topic-01",
   "name": "Diodes",
   "subject": "physics",
+  "summary": "Diodes is a fundamental concept in physics.",
   "definition": "Diodes is a fundamental concept in physics.",
   "explanation": "Learn about Diodes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "diodes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

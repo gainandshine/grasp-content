@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-09.topic-01",
   "name": "Peptide Hormones",
   "subject": "chemistry",
+  "summary": "Peptide Hormones is a fundamental concept in chemistry.",
   "definition": "Peptide Hormones is a fundamental concept in chemistry.",
   "explanation": "Learn about Peptide Hormones and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "peptide-hormones"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

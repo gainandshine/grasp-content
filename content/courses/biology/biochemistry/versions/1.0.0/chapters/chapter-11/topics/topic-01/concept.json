@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-11.topic-01",
   "name": "Cell Signaling",
   "subject": "biology",
+  "summary": "Cell Signaling is a fundamental concept in biology.",
   "definition": "Cell Signaling is a fundamental concept in biology.",
   "explanation": "Learn about Cell Signaling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cell-signaling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

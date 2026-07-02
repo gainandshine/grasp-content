@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-11.topic-02",
   "name": "Global Justice",
   "subject": "philosophy",
+  "summary": "Global Justice is a fundamental concept in philosophy.",
   "definition": "Global Justice is a fundamental concept in philosophy.",
   "explanation": "Learn about Global Justice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "global-justice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

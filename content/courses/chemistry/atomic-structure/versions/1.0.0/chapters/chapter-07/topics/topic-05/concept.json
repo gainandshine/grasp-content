@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-07.topic-05",
   "name": "Allowed Quantum States",
   "subject": "chemistry",
+  "summary": "Allowed Quantum States is a fundamental concept in chemistry.",
   "definition": "Allowed Quantum States is a fundamental concept in chemistry.",
   "explanation": "Learn about Allowed Quantum States and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "allowed-quantum-states"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

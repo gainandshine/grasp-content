@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-07.topic-04",
   "name": "Critical Thinking",
   "subject": "psychology",
+  "summary": "Critical Thinking is a fundamental concept in psychology.",
   "definition": "Critical Thinking is a fundamental concept in psychology.",
   "explanation": "Learn about Critical Thinking and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "critical-thinking"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

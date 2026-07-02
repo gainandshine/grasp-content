@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-03.topic-07",
   "name": "Wireless Security",
   "subject": "computer-science",
+  "summary": "Wireless Security is a fundamental concept in computer-science.",
   "definition": "Wireless Security is a fundamental concept in computer-science.",
   "explanation": "Learn about Wireless Security and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "wireless-security"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

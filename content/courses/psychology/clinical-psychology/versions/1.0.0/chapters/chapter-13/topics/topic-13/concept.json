@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-13.topic-13",
   "name": "Recruitment & Selection",
   "subject": "psychology",
+  "summary": "Recruitment & Selection is a fundamental concept in psychology.",
   "definition": "Recruitment & Selection is a fundamental concept in psychology.",
   "explanation": "Learn about Recruitment & Selection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "recruitment-selection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

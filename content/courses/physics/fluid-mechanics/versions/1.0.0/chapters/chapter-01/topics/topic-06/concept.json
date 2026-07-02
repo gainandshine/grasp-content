@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-01.topic-06",
   "name": "Surface Tension",
   "subject": "physics",
+  "summary": "Surface Tension is a fundamental concept in physics.",
   "definition": "Surface Tension is a fundamental concept in physics.",
   "explanation": "Learn about Surface Tension and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "surface-tension"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

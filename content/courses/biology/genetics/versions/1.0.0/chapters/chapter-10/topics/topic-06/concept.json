@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-10.topic-06",
   "name": "Precision Medicine",
   "subject": "biology",
+  "summary": "Precision Medicine is a fundamental concept in biology.",
   "definition": "Precision Medicine is a fundamental concept in biology.",
   "explanation": "Learn about Precision Medicine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "precision-medicine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

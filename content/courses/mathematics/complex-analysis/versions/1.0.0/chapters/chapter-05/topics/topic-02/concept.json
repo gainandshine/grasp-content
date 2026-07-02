@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-05.topic-02",
   "name": "Line Integrals",
   "subject": "mathematics",
+  "summary": "Line Integrals is a fundamental concept in mathematics.",
   "definition": "Line Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Line Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "line-integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

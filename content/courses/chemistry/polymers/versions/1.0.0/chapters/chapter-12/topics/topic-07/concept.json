@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-12.topic-07",
   "name": "Electronics",
   "subject": "chemistry",
+  "summary": "Electronics is a fundamental concept in chemistry.",
   "definition": "Electronics is a fundamental concept in chemistry.",
   "explanation": "Learn about Electronics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electronics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

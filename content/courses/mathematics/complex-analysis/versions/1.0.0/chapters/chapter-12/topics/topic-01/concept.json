@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-12.topic-01",
   "name": "Maximum Modulus Principle",
   "subject": "mathematics",
+  "summary": "Maximum Modulus Principle is a fundamental concept in mathematics.",
   "definition": "Maximum Modulus Principle is a fundamental concept in mathematics.",
   "explanation": "Learn about Maximum Modulus Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "maximum-modulus-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

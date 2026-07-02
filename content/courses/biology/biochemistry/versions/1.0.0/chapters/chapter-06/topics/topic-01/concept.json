@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-06.topic-01",
   "name": "DNA",
   "subject": "biology",
+  "summary": "DNA is a fundamental concept in biology.",
   "definition": "DNA is a fundamental concept in biology.",
   "explanation": "Learn about DNA and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "dna"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

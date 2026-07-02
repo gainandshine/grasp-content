@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-01.topic-02",
   "name": "Thermal Equilibrium",
   "subject": "physics",
+  "summary": "Thermal Equilibrium is a fundamental concept in physics.",
   "definition": "Thermal Equilibrium is a fundamental concept in physics.",
   "explanation": "Learn about Thermal Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "thermal-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

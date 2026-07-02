@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-07.topic-04",
   "name": "Soil Contamination",
   "subject": "chemistry",
+  "summary": "Soil Contamination is a fundamental concept in chemistry.",
   "definition": "Soil Contamination is a fundamental concept in chemistry.",
   "explanation": "Learn about Soil Contamination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "soil-contamination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

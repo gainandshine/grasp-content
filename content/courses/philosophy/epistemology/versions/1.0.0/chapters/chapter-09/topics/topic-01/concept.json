@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-09.topic-01",
   "name": "Collective Knowledge",
   "subject": "philosophy",
+  "summary": "Collective Knowledge is a fundamental concept in philosophy.",
   "definition": "Collective Knowledge is a fundamental concept in philosophy.",
   "explanation": "Learn about Collective Knowledge and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "collective-knowledge"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

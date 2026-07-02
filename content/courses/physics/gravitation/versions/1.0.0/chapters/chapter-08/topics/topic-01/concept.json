@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-08.topic-01",
   "name": "First Law",
   "subject": "physics",
+  "summary": "First Law is a fundamental concept in physics.",
   "definition": "First Law is a fundamental concept in physics.",
   "explanation": "Learn about First Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "first-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-09.topic-05",
   "name": "Artistic Value",
   "subject": "philosophy",
+  "summary": "Artistic Value is a fundamental concept in philosophy.",
   "definition": "Artistic Value is a fundamental concept in philosophy.",
   "explanation": "Learn about Artistic Value and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "artistic-value"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-01.topic-04",
   "name": "Workplace Behavior",
   "subject": "psychology",
+  "summary": "Workplace Behavior is a fundamental concept in psychology.",
   "definition": "Workplace Behavior is a fundamental concept in psychology.",
   "explanation": "Learn about Workplace Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "workplace-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

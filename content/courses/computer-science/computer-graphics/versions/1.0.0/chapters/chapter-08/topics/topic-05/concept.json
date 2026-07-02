@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-08.topic-05",
   "name": "Normal Maps",
   "subject": "computer-science",
+  "summary": "Normal Maps is a fundamental concept in computer-science.",
   "definition": "Normal Maps is a fundamental concept in computer-science.",
   "explanation": "Learn about Normal Maps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "normal-maps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

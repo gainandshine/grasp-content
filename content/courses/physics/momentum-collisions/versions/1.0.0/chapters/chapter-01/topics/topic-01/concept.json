@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-01.topic-01",
   "name": "Linear Momentum",
   "subject": "physics",
+  "summary": "Linear Momentum is a fundamental concept in physics.",
   "definition": "Linear Momentum is a fundamental concept in physics.",
   "explanation": "Learn about Linear Momentum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "linear-momentum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

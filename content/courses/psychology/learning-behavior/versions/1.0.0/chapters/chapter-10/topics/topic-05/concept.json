@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-10.topic-05",
   "name": "Skill Acquisition",
   "subject": "psychology",
+  "summary": "Skill Acquisition is a fundamental concept in psychology.",
   "definition": "Skill Acquisition is a fundamental concept in psychology.",
   "explanation": "Learn about Skill Acquisition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "skill-acquisition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-07.topic-03",
   "name": "N-Type Semiconductors",
   "subject": "physics",
+  "summary": "N-Type Semiconductors is a fundamental concept in physics.",
   "definition": "N-Type Semiconductors is a fundamental concept in physics.",
   "explanation": "Learn about N-Type Semiconductors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "n-type-semiconductors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-09.topic-05",
   "name": "Neutrino Decoupling",
   "subject": "physics",
+  "summary": "Neutrino Decoupling is a fundamental concept in physics.",
   "definition": "Neutrino Decoupling is a fundamental concept in physics.",
   "explanation": "Learn about Neutrino Decoupling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "neutrino-decoupling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

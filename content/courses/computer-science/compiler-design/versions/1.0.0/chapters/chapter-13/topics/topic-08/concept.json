@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-13.topic-08",
   "name": "*Course 16: Computer Graphics**",
   "subject": "computer-science",
+  "summary": "*Course 16: Computer Graphics** is a fundamental concept in computer-science.",
   "definition": "*Course 16: Computer Graphics** is a fundamental concept in computer-science.",
   "explanation": "Learn about *Course 16: Computer Graphics** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "course-16-computer-graphics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

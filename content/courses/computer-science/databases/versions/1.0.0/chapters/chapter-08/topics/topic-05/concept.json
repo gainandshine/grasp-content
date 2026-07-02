@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-08.topic-05",
   "name": "Query Optimization",
   "subject": "computer-science",
+  "summary": "Query Optimization is a fundamental concept in computer-science.",
   "definition": "Query Optimization is a fundamental concept in computer-science.",
   "explanation": "Learn about Query Optimization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "query-optimization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

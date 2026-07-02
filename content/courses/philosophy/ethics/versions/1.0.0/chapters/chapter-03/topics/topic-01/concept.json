@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-03.topic-01",
   "name": "Duty",
   "subject": "philosophy",
+  "summary": "Duty is a fundamental concept in philosophy.",
   "definition": "Duty is a fundamental concept in philosophy.",
   "explanation": "Learn about Duty and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "duty"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-25.topic-03",
   "name": "Power Supplies",
   "subject": "physics",
+  "summary": "Power Supplies is a fundamental concept in physics.",
   "definition": "Power Supplies is a fundamental concept in physics.",
   "explanation": "Learn about Power Supplies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "power-supplies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

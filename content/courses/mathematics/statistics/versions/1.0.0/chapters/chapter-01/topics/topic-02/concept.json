@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-01.topic-02",
   "name": "Types of Data",
   "subject": "mathematics",
+  "summary": "Types of Data is a fundamental concept in mathematics.",
   "definition": "Types of Data is a fundamental concept in mathematics.",
   "explanation": "Learn about Types of Data and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "types-of-data"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

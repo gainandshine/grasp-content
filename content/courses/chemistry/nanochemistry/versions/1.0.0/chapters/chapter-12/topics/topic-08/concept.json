@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-12.topic-08",
   "name": "Agriculture",
   "subject": "chemistry",
+  "summary": "Agriculture is a fundamental concept in chemistry.",
   "definition": "Agriculture is a fundamental concept in chemistry.",
   "explanation": "Learn about Agriculture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "agriculture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

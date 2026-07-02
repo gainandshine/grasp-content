@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-08.topic-03",
   "name": "Max Heap",
   "subject": "computer-science",
+  "summary": "Max Heap is a fundamental concept in computer-science.",
   "definition": "Max Heap is a fundamental concept in computer-science.",
   "explanation": "Learn about Max Heap and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "max-heap"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

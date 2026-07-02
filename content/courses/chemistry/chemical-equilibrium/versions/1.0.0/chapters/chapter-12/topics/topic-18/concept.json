@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-18",
   "name": "Applications in biology, medicine, and industry",
   "subject": "chemistry",
+  "summary": "Applications in biology, medicine, and industry is a fundamental concept in chemistry.",
   "definition": "Applications in biology, medicine, and industry is a fundamental concept in chemistry.",
   "explanation": "Learn about Applications in biology, medicine, and industry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "applications-in-biology-medicine-and-industry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

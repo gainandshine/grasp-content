@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-12.topic-06",
   "name": "Evolutionary Robotics",
   "subject": "game-theory",
+  "summary": "Evolutionary Robotics is a fundamental concept in game-theory.",
   "definition": "Evolutionary Robotics is a fundamental concept in game-theory.",
   "explanation": "Learn about Evolutionary Robotics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "evolutionary-robotics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-11.topic-06",
   "name": "Individual Differences",
   "subject": "psychology",
+  "summary": "Individual Differences is a fundamental concept in psychology.",
   "definition": "Individual Differences is a fundamental concept in psychology.",
   "explanation": "Learn about Individual Differences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "individual-differences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

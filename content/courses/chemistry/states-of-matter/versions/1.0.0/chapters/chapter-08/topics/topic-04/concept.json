@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-08.topic-04",
   "name": "Condensation",
   "subject": "chemistry",
+  "summary": "Condensation is a fundamental concept in chemistry.",
   "definition": "Condensation is a fundamental concept in chemistry.",
   "explanation": "Learn about Condensation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "condensation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

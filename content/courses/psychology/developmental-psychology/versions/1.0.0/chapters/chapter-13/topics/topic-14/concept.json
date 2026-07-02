@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-13.topic-14",
   "name": "Persuasion",
   "subject": "psychology",
+  "summary": "Persuasion is a fundamental concept in psychology.",
   "definition": "Persuasion is a fundamental concept in psychology.",
   "explanation": "Learn about Persuasion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "persuasion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

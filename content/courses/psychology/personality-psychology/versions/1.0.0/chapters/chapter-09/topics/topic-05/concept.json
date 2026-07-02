@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-09.topic-05",
   "name": "Diagnosis",
   "subject": "psychology",
+  "summary": "Diagnosis is a fundamental concept in psychology.",
   "definition": "Diagnosis is a fundamental concept in psychology.",
   "explanation": "Learn about Diagnosis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "diagnosis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

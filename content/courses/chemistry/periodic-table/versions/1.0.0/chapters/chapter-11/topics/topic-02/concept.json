@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-11.topic-02",
   "name": "Predicting Bond Types",
   "subject": "chemistry",
+  "summary": "Predicting Bond Types is a fundamental concept in chemistry.",
   "definition": "Predicting Bond Types is a fundamental concept in chemistry.",
   "explanation": "Learn about Predicting Bond Types and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "predicting-bond-types"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

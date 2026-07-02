@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-03.topic-04",
   "name": "Excitation-Contraction Coupling",
   "subject": "biology",
+  "summary": "Excitation-Contraction Coupling is a fundamental concept in biology.",
   "definition": "Excitation-Contraction Coupling is a fundamental concept in biology.",
   "explanation": "Learn about Excitation-Contraction Coupling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "excitation-contraction-coupling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

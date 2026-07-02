@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-11.topic-05",
   "name": "Telepsychology",
   "subject": "psychology",
+  "summary": "Telepsychology is a fundamental concept in psychology.",
   "definition": "Telepsychology is a fundamental concept in psychology.",
   "explanation": "Learn about Telepsychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "telepsychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

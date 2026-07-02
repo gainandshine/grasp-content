@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-05",
   "name": "Systems Immunology",
   "subject": "biology",
+  "summary": "Systems Immunology is a fundamental concept in biology.",
   "definition": "Systems Immunology is a fundamental concept in biology.",
   "explanation": "Learn about Systems Immunology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "systems-immunology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

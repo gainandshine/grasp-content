@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-06.topic-04",
   "name": "Markov Decision Processes (Introduction)",
   "subject": "computer-science",
+  "summary": "Markov Decision Processes (Introduction) is a fundamental concept in computer-science.",
   "definition": "Markov Decision Processes (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Markov Decision Processes (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "markov-decision-processes-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-05.topic-01",
   "name": "Major Depressive Disorder",
   "subject": "psychology",
+  "summary": "Major Depressive Disorder is a fundamental concept in psychology.",
   "definition": "Major Depressive Disorder is a fundamental concept in psychology.",
   "explanation": "Learn about Major Depressive Disorder and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "major-depressive-disorder"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

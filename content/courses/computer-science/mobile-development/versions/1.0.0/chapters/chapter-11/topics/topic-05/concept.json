@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-11.topic-05",
   "name": "App Store Guidelines",
   "subject": "computer-science",
+  "summary": "App Store Guidelines is a fundamental concept in computer-science.",
   "definition": "App Store Guidelines is a fundamental concept in computer-science.",
   "explanation": "Learn about App Store Guidelines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "app-store-guidelines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

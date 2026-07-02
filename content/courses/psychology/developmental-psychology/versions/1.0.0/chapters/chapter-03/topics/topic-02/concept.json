@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-03.topic-02",
   "name": "Motor Development",
   "subject": "psychology",
+  "summary": "Motor Development is a fundamental concept in psychology.",
   "definition": "Motor Development is a fundamental concept in psychology.",
   "explanation": "Learn about Motor Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "motor-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

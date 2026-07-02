@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-04.topic-05",
   "name": "Induction",
   "subject": "philosophy",
+  "summary": "Induction is a fundamental concept in philosophy.",
   "definition": "Induction is a fundamental concept in philosophy.",
   "explanation": "Learn about Induction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "induction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

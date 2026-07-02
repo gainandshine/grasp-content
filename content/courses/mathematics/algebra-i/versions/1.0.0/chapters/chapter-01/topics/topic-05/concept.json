@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-01.topic-05",
   "name": "Simplifying Expressions",
   "subject": "mathematics",
+  "summary": "Simplifying Expressions is a fundamental concept in mathematics.",
   "definition": "Simplifying Expressions is a fundamental concept in mathematics.",
   "explanation": "Learn about Simplifying Expressions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "simplifying-expressions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

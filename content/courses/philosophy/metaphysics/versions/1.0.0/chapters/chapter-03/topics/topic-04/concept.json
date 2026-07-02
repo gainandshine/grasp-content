@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-03.topic-04",
   "name": "Presentism",
   "subject": "philosophy",
+  "summary": "Presentism is a fundamental concept in philosophy.",
   "definition": "Presentism is a fundamental concept in philosophy.",
   "explanation": "Learn about Presentism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "presentism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

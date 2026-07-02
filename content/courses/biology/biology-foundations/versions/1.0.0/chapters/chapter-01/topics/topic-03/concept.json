@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-01.topic-03",
   "name": "Branches of Biology",
   "subject": "biology",
+  "summary": "Branches of Biology is a fundamental concept in biology.",
   "definition": "Branches of Biology is a fundamental concept in biology.",
   "explanation": "Learn about Branches of Biology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "branches-of-biology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

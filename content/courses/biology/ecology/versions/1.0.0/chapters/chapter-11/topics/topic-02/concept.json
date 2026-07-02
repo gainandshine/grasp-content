@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-11.topic-02",
   "name": "Ecological Restoration",
   "subject": "biology",
+  "summary": "Ecological Restoration is a fundamental concept in biology.",
   "definition": "Ecological Restoration is a fundamental concept in biology.",
   "explanation": "Learn about Ecological Restoration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "ecological-restoration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

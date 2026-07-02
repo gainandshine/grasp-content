@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-03.topic-02",
   "name": "Modular Design",
   "subject": "computer-science",
+  "summary": "Modular Design is a fundamental concept in computer-science.",
   "definition": "Modular Design is a fundamental concept in computer-science.",
   "explanation": "Learn about Modular Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "modular-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

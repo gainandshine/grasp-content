@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-03.topic-01",
   "name": "Torque",
   "subject": "physics",
+  "summary": "Torque is a fundamental concept in physics.",
   "definition": "Torque is a fundamental concept in physics.",
   "explanation": "Learn about Torque and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "torque"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

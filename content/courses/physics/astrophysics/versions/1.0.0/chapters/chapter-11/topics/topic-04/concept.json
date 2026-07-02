@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-11.topic-04",
   "name": "Relativistic Jets",
   "subject": "physics",
+  "summary": "Relativistic Jets is a fundamental concept in physics.",
   "definition": "Relativistic Jets is a fundamental concept in physics.",
   "explanation": "Learn about Relativistic Jets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "relativistic-jets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

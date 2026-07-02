@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-03.topic-06",
   "name": "Symmetric vs Asymmetric Games",
   "subject": "game-theory",
+  "summary": "Symmetric vs Asymmetric Games is a fundamental concept in game-theory.",
   "definition": "Symmetric vs Asymmetric Games is a fundamental concept in game-theory.",
   "explanation": "Learn about Symmetric vs Asymmetric Games and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "symmetric-vs-asymmetric-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

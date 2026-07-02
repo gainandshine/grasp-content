@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-08.topic-04",
   "name": "LEDs",
   "subject": "physics",
+  "summary": "LEDs is a fundamental concept in physics.",
   "definition": "LEDs is a fundamental concept in physics.",
   "explanation": "Learn about LEDs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "leds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

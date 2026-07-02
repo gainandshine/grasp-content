@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-12.topic-01",
   "name": "Classroom Instruction",
   "subject": "psychology",
+  "summary": "Classroom Instruction is a fundamental concept in psychology.",
   "definition": "Classroom Instruction is a fundamental concept in psychology.",
   "explanation": "Learn about Classroom Instruction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "classroom-instruction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

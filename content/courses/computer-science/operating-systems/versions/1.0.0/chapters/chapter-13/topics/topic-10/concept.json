@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-13.topic-10",
   "name": "OSI & TCP/IP Models",
   "subject": "computer-science",
+  "summary": "OSI & TCP/IP Models is a fundamental concept in computer-science.",
   "definition": "OSI & TCP/IP Models is a fundamental concept in computer-science.",
   "explanation": "Learn about OSI & TCP/IP Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "osi-tcpip-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

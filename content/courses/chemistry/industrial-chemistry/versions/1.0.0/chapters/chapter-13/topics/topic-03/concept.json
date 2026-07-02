@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-13.topic-03",
   "name": "AI in Chemical Manufacturing",
   "subject": "chemistry",
+  "summary": "AI in Chemical Manufacturing is a fundamental concept in chemistry.",
   "definition": "AI in Chemical Manufacturing is a fundamental concept in chemistry.",
   "explanation": "Learn about AI in Chemical Manufacturing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ai-in-chemical-manufacturing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

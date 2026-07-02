@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-13.topic-18",
   "name": "Epigenetics",
   "subject": "biology",
+  "summary": "Epigenetics is a fundamental concept in biology.",
   "definition": "Epigenetics is a fundamental concept in biology.",
   "explanation": "Learn about Epigenetics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "epigenetics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

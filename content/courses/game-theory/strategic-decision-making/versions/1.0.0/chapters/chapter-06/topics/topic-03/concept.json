@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-06.topic-03",
   "name": "Strategic Adaptation",
   "subject": "game-theory",
+  "summary": "Strategic Adaptation is a fundamental concept in game-theory.",
   "definition": "Strategic Adaptation is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Adaptation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-adaptation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

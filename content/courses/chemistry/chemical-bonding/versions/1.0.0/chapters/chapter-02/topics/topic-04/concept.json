@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-02.topic-04",
   "name": "Anions",
   "subject": "chemistry",
+  "summary": "Anions is a fundamental concept in chemistry.",
   "definition": "Anions is a fundamental concept in chemistry.",
   "explanation": "Learn about Anions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "anions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

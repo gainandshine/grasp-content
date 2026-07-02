@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-03.topic-04",
   "name": "Object Recognition",
   "subject": "psychology",
+  "summary": "Object Recognition is a fundamental concept in psychology.",
   "definition": "Object Recognition is a fundamental concept in psychology.",
   "explanation": "Learn about Object Recognition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "object-recognition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

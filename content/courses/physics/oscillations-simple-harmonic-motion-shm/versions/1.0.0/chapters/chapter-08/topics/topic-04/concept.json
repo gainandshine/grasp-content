@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-04",
   "name": "Bandwidth",
   "subject": "physics",
+  "summary": "Bandwidth is a fundamental concept in physics.",
   "definition": "Bandwidth is a fundamental concept in physics.",
   "explanation": "Learn about Bandwidth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "bandwidth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

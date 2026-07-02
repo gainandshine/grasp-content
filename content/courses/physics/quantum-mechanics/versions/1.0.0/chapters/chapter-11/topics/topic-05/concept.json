@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-11.topic-05",
   "name": "Exchange Symmetry",
   "subject": "physics",
+  "summary": "Exchange Symmetry is a fundamental concept in physics.",
   "definition": "Exchange Symmetry is a fundamental concept in physics.",
   "explanation": "Learn about Exchange Symmetry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "exchange-symmetry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

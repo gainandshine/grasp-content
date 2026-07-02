@@ -2,6 +2,7 @@
   "id": "philosophy.contemporary-philosophy.chapter-07.topic-06",
   "name": "Technological Change",
   "subject": "philosophy",
+  "summary": "Technological Change is a fundamental concept in philosophy.",
   "definition": "Technological Change is a fundamental concept in philosophy.",
   "explanation": "Learn about Technological Change and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "technological-change"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

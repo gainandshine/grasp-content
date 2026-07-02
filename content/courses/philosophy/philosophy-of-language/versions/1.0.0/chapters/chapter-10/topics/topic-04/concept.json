@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-language.chapter-10.topic-04",
   "name": "Multilingualism",
   "subject": "philosophy",
+  "summary": "Multilingualism is a fundamental concept in philosophy.",
   "definition": "Multilingualism is a fundamental concept in philosophy.",
   "explanation": "Learn about Multilingualism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "multilingualism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

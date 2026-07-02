@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-05.topic-07",
   "name": "Market Concentration",
   "subject": "economics",
+  "summary": "Market Concentration is a fundamental concept in economics.",
   "definition": "Market Concentration is a fundamental concept in economics.",
   "explanation": "Learn about Market Concentration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "market-concentration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

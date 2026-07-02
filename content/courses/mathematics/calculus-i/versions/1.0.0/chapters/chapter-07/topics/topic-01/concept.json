@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-07.topic-01",
   "name": "Indefinite Integrals",
   "subject": "mathematics",
+  "summary": "Indefinite Integrals is a fundamental concept in mathematics.",
   "definition": "Indefinite Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Indefinite Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "indefinite-integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

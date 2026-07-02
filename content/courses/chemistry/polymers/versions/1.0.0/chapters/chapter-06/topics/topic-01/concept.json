@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-06.topic-01",
   "name": "Mechanical Properties",
   "subject": "chemistry",
+  "summary": "Mechanical Properties is a fundamental concept in chemistry.",
   "definition": "Mechanical Properties is a fundamental concept in chemistry.",
   "explanation": "Learn about Mechanical Properties and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "mechanical-properties"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

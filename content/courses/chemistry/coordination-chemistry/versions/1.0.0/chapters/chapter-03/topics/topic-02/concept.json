@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-03.topic-02",
   "name": "Linear Complexes",
   "subject": "chemistry",
+  "summary": "Linear Complexes is a fundamental concept in chemistry.",
   "definition": "Linear Complexes is a fundamental concept in chemistry.",
   "explanation": "Learn about Linear Complexes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "linear-complexes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

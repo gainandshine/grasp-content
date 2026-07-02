@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-06.topic-01",
   "name": "Continuous Functions",
   "subject": "mathematics",
+  "summary": "Continuous Functions is a fundamental concept in mathematics.",
   "definition": "Continuous Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Continuous Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "continuous-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

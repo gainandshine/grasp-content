@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-01.topic-06",
   "name": "Continuous Charge Distributions",
   "subject": "physics",
+  "summary": "Continuous Charge Distributions is a fundamental concept in physics.",
   "definition": "Continuous Charge Distributions is a fundamental concept in physics.",
   "explanation": "Learn about Continuous Charge Distributions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "continuous-charge-distributions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-13.topic-20",
   "name": "High-Performance Computing",
   "subject": "chemistry",
+  "summary": "High-Performance Computing is a fundamental concept in chemistry.",
   "definition": "High-Performance Computing is a fundamental concept in chemistry.",
   "explanation": "Learn about High-Performance Computing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "high-performance-computing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

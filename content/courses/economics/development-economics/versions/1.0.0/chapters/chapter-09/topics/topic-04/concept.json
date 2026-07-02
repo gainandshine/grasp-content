@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-09.topic-04",
   "name": "Corruption",
   "subject": "economics",
+  "summary": "Corruption is a fundamental concept in economics.",
   "definition": "Corruption is a fundamental concept in economics.",
   "explanation": "Learn about Corruption and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "corruption"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

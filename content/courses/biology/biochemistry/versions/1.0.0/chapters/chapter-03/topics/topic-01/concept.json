@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-03.topic-01",
   "name": "Enzyme Structure",
   "subject": "biology",
+  "summary": "Enzyme Structure is a fundamental concept in biology.",
   "definition": "Enzyme Structure is a fundamental concept in biology.",
   "explanation": "Learn about Enzyme Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "enzyme-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

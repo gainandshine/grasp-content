@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-01.topic-04",
   "name": "Social Context",
   "subject": "psychology",
+  "summary": "Social Context is a fundamental concept in psychology.",
   "definition": "Social Context is a fundamental concept in psychology.",
   "explanation": "Learn about Social Context and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "social-context"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-10.topic-06",
   "name": "Immunosuppressive Drugs",
   "subject": "biology",
+  "summary": "Immunosuppressive Drugs is a fundamental concept in biology.",
   "definition": "Immunosuppressive Drugs is a fundamental concept in biology.",
   "explanation": "Learn about Immunosuppressive Drugs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "immunosuppressive-drugs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

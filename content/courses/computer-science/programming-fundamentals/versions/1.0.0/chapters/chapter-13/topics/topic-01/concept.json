@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-01",
   "name": "Command-Line Programs",
   "subject": "computer-science",
+  "summary": "Command-Line Programs is a fundamental concept in computer-science.",
   "definition": "Command-Line Programs is a fundamental concept in computer-science.",
   "explanation": "Learn about Command-Line Programs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "command-line-programs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

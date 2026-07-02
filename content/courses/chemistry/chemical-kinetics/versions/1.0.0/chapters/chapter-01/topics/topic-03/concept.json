@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-01.topic-03",
   "name": "Factors Affecting Reaction Rate",
   "subject": "chemistry",
+  "summary": "Factors Affecting Reaction Rate is a fundamental concept in chemistry.",
   "definition": "Factors Affecting Reaction Rate is a fundamental concept in chemistry.",
   "explanation": "Learn about Factors Affecting Reaction Rate and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "factors-affecting-reaction-rate"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-04.topic-04",
   "name": "Motion Near Earth's Surface",
   "subject": "physics",
+  "summary": "Motion Near Earth's Surface is a fundamental concept in physics.",
   "definition": "Motion Near Earth's Surface is a fundamental concept in physics.",
   "explanation": "Learn about Motion Near Earth's Surface and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "motion-near-earths-surface"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

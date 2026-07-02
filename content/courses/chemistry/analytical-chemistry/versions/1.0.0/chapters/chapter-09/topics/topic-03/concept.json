@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-09.topic-03",
   "name": "Differential Thermal Analysis (DTA)",
   "subject": "chemistry",
+  "summary": "Differential Thermal Analysis (DTA) is a fundamental concept in chemistry.",
   "definition": "Differential Thermal Analysis (DTA) is a fundamental concept in chemistry.",
   "explanation": "Learn about Differential Thermal Analysis (DTA) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "differential-thermal-analysis-dta"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

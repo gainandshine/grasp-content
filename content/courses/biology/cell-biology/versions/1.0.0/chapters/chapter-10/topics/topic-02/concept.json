@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-10.topic-02",
   "name": "Gap Junctions",
   "subject": "biology",
+  "summary": "Gap Junctions is a fundamental concept in biology.",
   "definition": "Gap Junctions is a fundamental concept in biology.",
   "explanation": "Learn about Gap Junctions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gap-junctions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

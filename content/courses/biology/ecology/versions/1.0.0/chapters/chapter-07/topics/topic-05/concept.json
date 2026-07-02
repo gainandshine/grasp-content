@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-07.topic-05",
   "name": "Oxygen Cycle",
   "subject": "biology",
+  "summary": "Oxygen Cycle is a fundamental concept in biology.",
   "definition": "Oxygen Cycle is a fundamental concept in biology.",
   "explanation": "Learn about Oxygen Cycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "oxygen-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

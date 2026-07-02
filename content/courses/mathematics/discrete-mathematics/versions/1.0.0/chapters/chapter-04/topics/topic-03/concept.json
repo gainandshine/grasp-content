@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-04.topic-03",
   "name": "Symmetric Relations",
   "subject": "mathematics",
+  "summary": "Symmetric Relations is a fundamental concept in mathematics.",
   "definition": "Symmetric Relations is a fundamental concept in mathematics.",
   "explanation": "Learn about Symmetric Relations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "symmetric-relations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

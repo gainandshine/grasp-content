@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-08.topic-06",
   "name": "Noble Gas Configuration",
   "subject": "chemistry",
+  "summary": "Noble Gas Configuration is a fundamental concept in chemistry.",
   "definition": "Noble Gas Configuration is a fundamental concept in chemistry.",
   "explanation": "Learn about Noble Gas Configuration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "noble-gas-configuration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

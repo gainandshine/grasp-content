@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-01.topic-02",
   "name": "Functional Units of a Computer",
   "subject": "computer-science",
+  "summary": "Functional Units of a Computer is a fundamental concept in computer-science.",
   "definition": "Functional Units of a Computer is a fundamental concept in computer-science.",
   "explanation": "Learn about Functional Units of a Computer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "functional-units-of-a-computer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

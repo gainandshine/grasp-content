@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-12.topic-04",
   "name": "Horizontal Gene Transfer",
   "subject": "biology",
+  "summary": "Horizontal Gene Transfer is a fundamental concept in biology.",
   "definition": "Horizontal Gene Transfer is a fundamental concept in biology.",
   "explanation": "Learn about Horizontal Gene Transfer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "horizontal-gene-transfer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

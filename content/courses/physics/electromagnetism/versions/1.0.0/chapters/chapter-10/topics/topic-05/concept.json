@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-10.topic-05",
   "name": "Maxwell's Equations",
   "subject": "physics",
+  "summary": "Maxwell's Equations is a fundamental concept in physics.",
   "definition": "Maxwell's Equations is a fundamental concept in physics.",
   "explanation": "Learn about Maxwell's Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "maxwells-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

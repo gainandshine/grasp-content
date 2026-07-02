@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-06.topic-02",
   "name": "Magnetic Resonance",
   "subject": "chemistry",
+  "summary": "Magnetic Resonance is a fundamental concept in chemistry.",
   "definition": "Magnetic Resonance is a fundamental concept in chemistry.",
   "explanation": "Learn about Magnetic Resonance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "magnetic-resonance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

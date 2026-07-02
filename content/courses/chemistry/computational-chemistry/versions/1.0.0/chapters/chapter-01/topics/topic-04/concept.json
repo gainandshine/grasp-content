@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-01.topic-04",
   "name": "Computational Workflow",
   "subject": "chemistry",
+  "summary": "Computational Workflow is a fundamental concept in chemistry.",
   "definition": "Computational Workflow is a fundamental concept in chemistry.",
   "explanation": "Learn about Computational Workflow and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "computational-workflow"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

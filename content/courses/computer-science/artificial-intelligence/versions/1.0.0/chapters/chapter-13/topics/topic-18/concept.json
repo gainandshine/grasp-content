@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-18",
   "name": "Model Deployment",
   "subject": "computer-science",
+  "summary": "Model Deployment is a fundamental concept in computer-science.",
   "definition": "Model Deployment is a fundamental concept in computer-science.",
   "explanation": "Learn about Model Deployment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "model-deployment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-03.topic-05",
   "name": "Potential Energy Curves",
   "subject": "physics",
+  "summary": "Potential Energy Curves is a fundamental concept in physics.",
   "definition": "Potential Energy Curves is a fundamental concept in physics.",
   "explanation": "Learn about Potential Energy Curves and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "potential-energy-curves"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

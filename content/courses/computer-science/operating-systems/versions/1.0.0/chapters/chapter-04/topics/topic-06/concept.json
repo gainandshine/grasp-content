@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-04.topic-06",
   "name": "Condition Variables",
   "subject": "computer-science",
+  "summary": "Condition Variables is a fundamental concept in computer-science.",
   "definition": "Condition Variables is a fundamental concept in computer-science.",
   "explanation": "Learn about Condition Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "condition-variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

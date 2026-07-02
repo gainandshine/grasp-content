@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-10.topic-05",
   "name": "Solving Systems with Matrices",
   "subject": "mathematics",
+  "summary": "Solving Systems with Matrices is a fundamental concept in mathematics.",
   "definition": "Solving Systems with Matrices is a fundamental concept in mathematics.",
   "explanation": "Learn about Solving Systems with Matrices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "solving-systems-with-matrices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

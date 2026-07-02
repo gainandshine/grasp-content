@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-10.topic-01",
   "name": "Free Fall",
   "subject": "physics",
+  "summary": "Free Fall is a fundamental concept in physics.",
   "definition": "Free Fall is a fundamental concept in physics.",
   "explanation": "Learn about Free Fall and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "free-fall"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

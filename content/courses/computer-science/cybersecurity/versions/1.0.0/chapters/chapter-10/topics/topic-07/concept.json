@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-10.topic-07",
   "name": "Chain of Custody",
   "subject": "computer-science",
+  "summary": "Chain of Custody is a fundamental concept in computer-science.",
   "definition": "Chain of Custody is a fundamental concept in computer-science.",
   "explanation": "Learn about Chain of Custody and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "chain-of-custody"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-05.topic-05",
   "name": "Heavy Element Formation",
   "subject": "physics",
+  "summary": "Heavy Element Formation is a fundamental concept in physics.",
   "definition": "Heavy Element Formation is a fundamental concept in physics.",
   "explanation": "Learn about Heavy Element Formation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "heavy-element-formation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

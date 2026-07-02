@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-03.topic-07",
   "name": "Enzyme Regulation",
   "subject": "biology",
+  "summary": "Enzyme Regulation is a fundamental concept in biology.",
   "definition": "Enzyme Regulation is a fundamental concept in biology.",
   "explanation": "Learn about Enzyme Regulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "enzyme-regulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

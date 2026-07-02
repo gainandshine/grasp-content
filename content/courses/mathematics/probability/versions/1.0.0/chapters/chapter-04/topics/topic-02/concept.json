@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-04.topic-02",
   "name": "Continuous Random Variables",
   "subject": "mathematics",
+  "summary": "Continuous Random Variables is a fundamental concept in mathematics.",
   "definition": "Continuous Random Variables is a fundamental concept in mathematics.",
   "explanation": "Learn about Continuous Random Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "continuous-random-variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

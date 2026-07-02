@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-10.topic-02",
   "name": "Genome-Wide Association Studies (GWAS)",
   "subject": "biology",
+  "summary": "Genome-Wide Association Studies (GWAS) is a fundamental concept in biology.",
   "definition": "Genome-Wide Association Studies (GWAS) is a fundamental concept in biology.",
   "explanation": "Learn about Genome-Wide Association Studies (GWAS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genome-wide-association-studies-gwas"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-07.topic-02",
   "name": "Scintillation Detector",
   "subject": "chemistry",
+  "summary": "Scintillation Detector is a fundamental concept in chemistry.",
   "definition": "Scintillation Detector is a fundamental concept in chemistry.",
   "explanation": "Learn about Scintillation Detector and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "scintillation-detector"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

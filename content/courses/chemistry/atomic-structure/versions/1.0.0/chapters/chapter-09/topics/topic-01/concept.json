@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-09.topic-01",
   "name": "Atomic Radius",
   "subject": "chemistry",
+  "summary": "Atomic Radius is a fundamental concept in chemistry.",
   "definition": "Atomic Radius is a fundamental concept in chemistry.",
   "explanation": "Learn about Atomic Radius and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atomic-radius"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

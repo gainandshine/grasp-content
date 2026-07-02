@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-11.topic-06",
   "name": "Data Governance",
   "subject": "computer-science",
+  "summary": "Data Governance is a fundamental concept in computer-science.",
   "definition": "Data Governance is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Governance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-governance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

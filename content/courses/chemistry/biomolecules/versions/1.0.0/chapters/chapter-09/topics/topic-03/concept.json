@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-09.topic-03",
   "name": "Cell Signaling",
   "subject": "chemistry",
+  "summary": "Cell Signaling is a fundamental concept in chemistry.",
   "definition": "Cell Signaling is a fundamental concept in chemistry.",
   "explanation": "Learn about Cell Signaling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cell-signaling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

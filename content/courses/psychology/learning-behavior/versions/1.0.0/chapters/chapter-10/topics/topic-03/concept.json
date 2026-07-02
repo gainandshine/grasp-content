@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-10.topic-03",
   "name": "Token Economies",
   "subject": "psychology",
+  "summary": "Token Economies is a fundamental concept in psychology.",
   "definition": "Token Economies is a fundamental concept in psychology.",
   "explanation": "Learn about Token Economies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "token-economies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

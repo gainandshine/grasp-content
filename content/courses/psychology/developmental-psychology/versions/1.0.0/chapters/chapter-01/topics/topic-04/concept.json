@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-01.topic-04",
   "name": "Developmental Research Methods",
   "subject": "psychology",
+  "summary": "Developmental Research Methods is a fundamental concept in psychology.",
   "definition": "Developmental Research Methods is a fundamental concept in psychology.",
   "explanation": "Learn about Developmental Research Methods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "developmental-research-methods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

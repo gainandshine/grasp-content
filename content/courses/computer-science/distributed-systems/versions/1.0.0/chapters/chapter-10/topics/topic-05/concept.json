@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-10.topic-05",
   "name": "Real-Time Processing",
   "subject": "computer-science",
+  "summary": "Real-Time Processing is a fundamental concept in computer-science.",
   "definition": "Real-Time Processing is a fundamental concept in computer-science.",
   "explanation": "Learn about Real-Time Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "real-time-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

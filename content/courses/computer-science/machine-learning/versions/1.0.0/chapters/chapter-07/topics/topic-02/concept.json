@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-07.topic-02",
   "name": "Perceptron",
   "subject": "computer-science",
+  "summary": "Perceptron is a fundamental concept in computer-science.",
   "definition": "Perceptron is a fundamental concept in computer-science.",
   "explanation": "Learn about Perceptron and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "perceptron"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

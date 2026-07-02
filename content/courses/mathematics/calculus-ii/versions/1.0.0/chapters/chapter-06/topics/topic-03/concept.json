@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-06.topic-03",
   "name": "Limit Comparison Test",
   "subject": "mathematics",
+  "summary": "Limit Comparison Test is a fundamental concept in mathematics.",
   "definition": "Limit Comparison Test is a fundamental concept in mathematics.",
   "explanation": "Learn about Limit Comparison Test and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "limit-comparison-test"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

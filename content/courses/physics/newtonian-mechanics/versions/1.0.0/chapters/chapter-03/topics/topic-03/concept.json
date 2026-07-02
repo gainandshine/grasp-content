@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-03.topic-03",
   "name": "Momentum Form of Newton's Second Law",
   "subject": "physics",
+  "summary": "Momentum Form of Newton's Second Law is a fundamental concept in physics.",
   "definition": "Momentum Form of Newton's Second Law is a fundamental concept in physics.",
   "explanation": "Learn about Momentum Form of Newton's Second Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "momentum-form-of-newtons-second-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

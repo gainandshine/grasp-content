@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-11.topic-06",
   "name": "Algorithmic Fairness",
   "subject": "game-theory",
+  "summary": "Algorithmic Fairness is a fundamental concept in game-theory.",
   "definition": "Algorithmic Fairness is a fundamental concept in game-theory.",
   "explanation": "Learn about Algorithmic Fairness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "algorithmic-fairness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

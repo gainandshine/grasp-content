@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-10.topic-04",
   "name": "Bowlby's Attachment Theory",
   "subject": "psychology",
+  "summary": "Bowlby's Attachment Theory is a fundamental concept in psychology.",
   "definition": "Bowlby's Attachment Theory is a fundamental concept in psychology.",
   "explanation": "Learn about Bowlby's Attachment Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "bowlbys-attachment-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

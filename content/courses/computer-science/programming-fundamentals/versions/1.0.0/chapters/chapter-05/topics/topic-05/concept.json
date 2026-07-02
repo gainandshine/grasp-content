@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-05.topic-05",
   "name": "switch / match Statements",
   "subject": "computer-science",
+  "summary": "switch / match Statements is a fundamental concept in computer-science.",
   "definition": "switch / match Statements is a fundamental concept in computer-science.",
   "explanation": "Learn about switch / match Statements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "switch-match-statements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

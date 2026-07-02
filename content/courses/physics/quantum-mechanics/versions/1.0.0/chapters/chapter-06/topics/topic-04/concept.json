@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-06.topic-04",
   "name": "Potential Step",
   "subject": "physics",
+  "summary": "Potential Step is a fundamental concept in physics.",
   "definition": "Potential Step is a fundamental concept in physics.",
   "explanation": "Learn about Potential Step and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "potential-step"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

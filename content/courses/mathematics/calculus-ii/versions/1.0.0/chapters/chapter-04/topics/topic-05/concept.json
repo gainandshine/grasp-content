@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-04.topic-05",
   "name": "Bounded Sequences",
   "subject": "mathematics",
+  "summary": "Bounded Sequences is a fundamental concept in mathematics.",
   "definition": "Bounded Sequences is a fundamental concept in mathematics.",
   "explanation": "Learn about Bounded Sequences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "bounded-sequences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

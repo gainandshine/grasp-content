@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-03.topic-05",
   "name": "Graphing Inequalities",
   "subject": "mathematics",
+  "summary": "Graphing Inequalities is a fundamental concept in mathematics.",
   "definition": "Graphing Inequalities is a fundamental concept in mathematics.",
   "explanation": "Learn about Graphing Inequalities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "graphing-inequalities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

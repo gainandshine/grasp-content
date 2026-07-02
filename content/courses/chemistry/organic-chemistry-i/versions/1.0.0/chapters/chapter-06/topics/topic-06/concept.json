@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-06.topic-06",
   "name": "E/Z Configuration",
   "subject": "chemistry",
+  "summary": "E/Z Configuration is a fundamental concept in chemistry.",
   "definition": "E/Z Configuration is a fundamental concept in chemistry.",
   "explanation": "Learn about E/Z Configuration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ez-configuration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-08.topic-04",
   "name": "Materials",
   "subject": "computer-science",
+  "summary": "Materials is a fundamental concept in computer-science.",
   "definition": "Materials is a fundamental concept in computer-science.",
   "explanation": "Learn about Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

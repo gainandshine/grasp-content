@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-01.topic-06",
   "name": "URLs",
   "subject": "computer-science",
+  "summary": "URLs is a fundamental concept in computer-science.",
   "definition": "URLs is a fundamental concept in computer-science.",
   "explanation": "Learn about URLs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "urls"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

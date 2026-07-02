@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-09.topic-01",
   "name": "Agile Manifesto",
   "subject": "computer-science",
+  "summary": "Agile Manifesto is a fundamental concept in computer-science.",
   "definition": "Agile Manifesto is a fundamental concept in computer-science.",
   "explanation": "Learn about Agile Manifesto and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "agile-manifesto"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

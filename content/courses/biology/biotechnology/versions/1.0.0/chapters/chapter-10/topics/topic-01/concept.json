@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-10.topic-01",
   "name": "Bioremediation",
   "subject": "biology",
+  "summary": "Bioremediation is a fundamental concept in biology.",
   "definition": "Bioremediation is a fundamental concept in biology.",
   "explanation": "Learn about Bioremediation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "bioremediation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

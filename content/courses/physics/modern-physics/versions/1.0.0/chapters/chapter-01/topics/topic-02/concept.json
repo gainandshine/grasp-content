@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-01.topic-02",
   "name": "Scientific Revolutions",
   "subject": "physics",
+  "summary": "Scientific Revolutions is a fundamental concept in physics.",
   "definition": "Scientific Revolutions is a fundamental concept in physics.",
   "explanation": "Learn about Scientific Revolutions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "scientific-revolutions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-08.topic-04",
   "name": "Balancing Equations",
   "subject": "chemistry",
+  "summary": "Balancing Equations is a fundamental concept in chemistry.",
   "definition": "Balancing Equations is a fundamental concept in chemistry.",
   "explanation": "Learn about Balancing Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "balancing-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

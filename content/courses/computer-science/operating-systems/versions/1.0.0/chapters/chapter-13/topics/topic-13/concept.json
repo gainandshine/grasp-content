@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-13.topic-13",
   "name": "Network Layer",
   "subject": "computer-science",
+  "summary": "Network Layer is a fundamental concept in computer-science.",
   "definition": "Network Layer is a fundamental concept in computer-science.",
   "explanation": "Learn about Network Layer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "network-layer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

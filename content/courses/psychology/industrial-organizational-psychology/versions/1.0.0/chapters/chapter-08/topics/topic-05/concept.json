@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-08.topic-05",
   "name": "Compensation",
   "subject": "psychology",
+  "summary": "Compensation is a fundamental concept in psychology.",
   "definition": "Compensation is a fundamental concept in psychology.",
   "explanation": "Learn about Compensation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "compensation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-07.topic-01",
   "name": "Mindfulness",
   "subject": "psychology",
+  "summary": "Mindfulness is a fundamental concept in psychology.",
   "definition": "Mindfulness is a fundamental concept in psychology.",
   "explanation": "Learn about Mindfulness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mindfulness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

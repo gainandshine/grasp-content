@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-08.topic-03",
   "name": "Hormone Receptors",
   "subject": "biology",
+  "summary": "Hormone Receptors is a fundamental concept in biology.",
   "definition": "Hormone Receptors is a fundamental concept in biology.",
   "explanation": "Learn about Hormone Receptors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "hormone-receptors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-09.topic-01",
   "name": "Unit Checking",
   "subject": "physics",
+  "summary": "Unit Checking is a fundamental concept in physics.",
   "definition": "Unit Checking is a fundamental concept in physics.",
   "explanation": "Learn about Unit Checking and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "unit-checking"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-01.topic-04",
   "name": "Source Code",
   "subject": "computer-science",
+  "summary": "Source Code is a fundamental concept in computer-science.",
   "definition": "Source Code is a fundamental concept in computer-science.",
   "explanation": "Learn about Source Code and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "source-code"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

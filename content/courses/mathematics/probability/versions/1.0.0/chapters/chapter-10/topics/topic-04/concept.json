@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-10.topic-04",
   "name": "Birth-Death Process",
   "subject": "mathematics",
+  "summary": "Birth-Death Process is a fundamental concept in mathematics.",
   "definition": "Birth-Death Process is a fundamental concept in mathematics.",
   "explanation": "Learn about Birth-Death Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "birth-death-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

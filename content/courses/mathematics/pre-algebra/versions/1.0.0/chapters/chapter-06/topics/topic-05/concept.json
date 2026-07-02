@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-06.topic-05",
   "name": "Laws of Exponents (Basic)",
   "subject": "mathematics",
+  "summary": "Laws of Exponents (Basic) is a fundamental concept in mathematics.",
   "definition": "Laws of Exponents (Basic) is a fundamental concept in mathematics.",
   "explanation": "Learn about Laws of Exponents (Basic) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "laws-of-exponents-basic"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

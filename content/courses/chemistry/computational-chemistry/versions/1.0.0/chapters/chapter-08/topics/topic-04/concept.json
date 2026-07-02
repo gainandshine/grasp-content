@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-08.topic-04",
   "name": "Equilibrium Sampling",
   "subject": "chemistry",
+  "summary": "Equilibrium Sampling is a fundamental concept in chemistry.",
   "definition": "Equilibrium Sampling is a fundamental concept in chemistry.",
   "explanation": "Learn about Equilibrium Sampling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "equilibrium-sampling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-03.topic-09",
   "name": "Venn Diagrams",
   "subject": "mathematics",
+  "summary": "Venn Diagrams is a fundamental concept in mathematics.",
   "definition": "Venn Diagrams is a fundamental concept in mathematics.",
   "explanation": "Learn about Venn Diagrams and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "venn-diagrams"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

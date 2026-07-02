@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-04.topic-04",
   "name": "Type Checking",
   "subject": "computer-science",
+  "summary": "Type Checking is a fundamental concept in computer-science.",
   "definition": "Type Checking is a fundamental concept in computer-science.",
   "explanation": "Learn about Type Checking and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "type-checking"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

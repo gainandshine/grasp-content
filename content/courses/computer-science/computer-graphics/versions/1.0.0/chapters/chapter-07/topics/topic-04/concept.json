@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-07.topic-04",
   "name": "Specular Lighting",
   "subject": "computer-science",
+  "summary": "Specular Lighting is a fundamental concept in computer-science.",
   "definition": "Specular Lighting is a fundamental concept in computer-science.",
   "explanation": "Learn about Specular Lighting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "specular-lighting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

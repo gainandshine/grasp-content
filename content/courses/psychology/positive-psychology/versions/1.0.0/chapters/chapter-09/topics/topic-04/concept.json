@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-09.topic-04",
   "name": "Kindness",
   "subject": "psychology",
+  "summary": "Kindness is a fundamental concept in psychology.",
   "definition": "Kindness is a fundamental concept in psychology.",
   "explanation": "Learn about Kindness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "kindness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

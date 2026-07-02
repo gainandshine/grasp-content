@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-01",
   "name": "Route Planning",
   "subject": "computer-science",
+  "summary": "Route Planning is a fundamental concept in computer-science.",
   "definition": "Route Planning is a fundamental concept in computer-science.",
   "explanation": "Learn about Route Planning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "route-planning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

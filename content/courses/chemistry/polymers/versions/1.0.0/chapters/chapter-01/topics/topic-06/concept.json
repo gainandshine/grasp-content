@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-01.topic-06",
   "name": "Natural vs Synthetic Polymers",
   "subject": "chemistry",
+  "summary": "Natural vs Synthetic Polymers is a fundamental concept in chemistry.",
   "definition": "Natural vs Synthetic Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Natural vs Synthetic Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "natural-vs-synthetic-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

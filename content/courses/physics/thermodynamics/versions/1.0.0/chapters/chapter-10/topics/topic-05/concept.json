@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-10.topic-05",
   "name": "Newton's Law of Cooling",
   "subject": "physics",
+  "summary": "Newton's Law of Cooling is a fundamental concept in physics.",
   "definition": "Newton's Law of Cooling is a fundamental concept in physics.",
   "explanation": "Learn about Newton's Law of Cooling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "newtons-law-of-cooling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

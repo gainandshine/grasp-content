@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-13.topic-15",
   "name": "Trees",
   "subject": "computer-science",
+  "summary": "Trees is a fundamental concept in computer-science.",
   "definition": "Trees is a fundamental concept in computer-science.",
   "explanation": "Learn about Trees and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "trees"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

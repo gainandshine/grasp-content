@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-05.topic-04",
   "name": "Esterification",
   "subject": "chemistry",
+  "summary": "Esterification is a fundamental concept in chemistry.",
   "definition": "Esterification is a fundamental concept in chemistry.",
   "explanation": "Learn about Esterification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "esterification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

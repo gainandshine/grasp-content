@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-09.topic-03",
   "name": "Norm Formation",
   "subject": "game-theory",
+  "summary": "Norm Formation is a fundamental concept in game-theory.",
   "definition": "Norm Formation is a fundamental concept in game-theory.",
   "explanation": "Learn about Norm Formation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "norm-formation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

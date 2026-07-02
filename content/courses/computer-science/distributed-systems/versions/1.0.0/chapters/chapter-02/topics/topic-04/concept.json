@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-02.topic-04",
   "name": "Publish-Subscribe",
   "subject": "computer-science",
+  "summary": "Publish-Subscribe is a fundamental concept in computer-science.",
   "definition": "Publish-Subscribe is a fundamental concept in computer-science.",
   "explanation": "Learn about Publish-Subscribe and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "publish-subscribe"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

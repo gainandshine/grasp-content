@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-10.topic-07",
   "name": "Crash Reporting",
   "subject": "computer-science",
+  "summary": "Crash Reporting is a fundamental concept in computer-science.",
   "definition": "Crash Reporting is a fundamental concept in computer-science.",
   "explanation": "Learn about Crash Reporting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "crash-reporting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.macroeconomics.chapter-02.topic-02",
   "name": "Gross National Product (GNP)",
   "subject": "economics",
+  "summary": "Gross National Product (GNP) is a fundamental concept in economics.",
   "definition": "Gross National Product (GNP) is a fundamental concept in economics.",
   "explanation": "Learn about Gross National Product (GNP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "gross-national-product-gnp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

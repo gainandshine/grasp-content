@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-07.topic-06",
   "name": "Musical Meaning",
   "subject": "philosophy",
+  "summary": "Musical Meaning is a fundamental concept in philosophy.",
   "definition": "Musical Meaning is a fundamental concept in philosophy.",
   "explanation": "Learn about Musical Meaning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "musical-meaning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

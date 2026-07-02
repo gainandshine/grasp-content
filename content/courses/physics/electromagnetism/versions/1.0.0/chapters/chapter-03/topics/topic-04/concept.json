@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-03.topic-04",
   "name": "Capacitance",
   "subject": "physics",
+  "summary": "Capacitance is a fundamental concept in physics.",
   "definition": "Capacitance is a fundamental concept in physics.",
   "explanation": "Learn about Capacitance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "capacitance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

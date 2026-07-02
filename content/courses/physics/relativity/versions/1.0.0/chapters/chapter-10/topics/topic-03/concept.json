@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-10.topic-03",
   "name": "Wave Detection",
   "subject": "physics",
+  "summary": "Wave Detection is a fundamental concept in physics.",
   "definition": "Wave Detection is a fundamental concept in physics.",
   "explanation": "Learn about Wave Detection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "wave-detection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

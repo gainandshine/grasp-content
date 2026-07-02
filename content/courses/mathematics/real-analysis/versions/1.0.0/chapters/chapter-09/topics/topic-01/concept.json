@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-09.topic-01",
   "name": "Metric Spaces",
   "subject": "mathematics",
+  "summary": "Metric Spaces is a fundamental concept in mathematics.",
   "definition": "Metric Spaces is a fundamental concept in mathematics.",
   "explanation": "Learn about Metric Spaces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "metric-spaces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

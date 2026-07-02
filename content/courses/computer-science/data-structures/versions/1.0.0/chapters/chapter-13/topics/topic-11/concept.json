@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-13.topic-11",
   "name": "Divide & Conquer",
   "subject": "computer-science",
+  "summary": "Divide & Conquer is a fundamental concept in computer-science.",
   "definition": "Divide & Conquer is a fundamental concept in computer-science.",
   "explanation": "Learn about Divide & Conquer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "divide-conquer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

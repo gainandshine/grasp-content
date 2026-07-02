@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-06.topic-02",
   "name": "Distillation",
   "subject": "chemistry",
+  "summary": "Distillation is a fundamental concept in chemistry.",
   "definition": "Distillation is a fundamental concept in chemistry.",
   "explanation": "Learn about Distillation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "distillation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-09.topic-03",
   "name": "Circadian Rhythms",
   "subject": "psychology",
+  "summary": "Circadian Rhythms is a fundamental concept in psychology.",
   "definition": "Circadian Rhythms is a fundamental concept in psychology.",
   "explanation": "Learn about Circadian Rhythms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "circadian-rhythms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

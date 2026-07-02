@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-01.topic-05",
   "name": "Shared Objectives",
   "subject": "game-theory",
+  "summary": "Shared Objectives is a fundamental concept in game-theory.",
   "definition": "Shared Objectives is a fundamental concept in game-theory.",
   "explanation": "Learn about Shared Objectives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "shared-objectives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

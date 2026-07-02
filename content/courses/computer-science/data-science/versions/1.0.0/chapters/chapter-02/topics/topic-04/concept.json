@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-02.topic-04",
   "name": "Web Scraping",
   "subject": "computer-science",
+  "summary": "Web Scraping is a fundamental concept in computer-science.",
   "definition": "Web Scraping is a fundamental concept in computer-science.",
   "explanation": "Learn about Web Scraping and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "web-scraping"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

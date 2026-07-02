@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-03.topic-04",
   "name": "Beer-Lambert Law",
   "subject": "chemistry",
+  "summary": "Beer-Lambert Law is a fundamental concept in chemistry.",
   "definition": "Beer-Lambert Law is a fundamental concept in chemistry.",
   "explanation": "Learn about Beer-Lambert Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "beer-lambert-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

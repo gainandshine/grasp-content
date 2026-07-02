@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-05.topic-02",
   "name": "Payoff Matrices",
   "subject": "game-theory",
+  "summary": "Payoff Matrices is a fundamental concept in game-theory.",
   "definition": "Payoff Matrices is a fundamental concept in game-theory.",
   "explanation": "Learn about Payoff Matrices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "payoff-matrices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

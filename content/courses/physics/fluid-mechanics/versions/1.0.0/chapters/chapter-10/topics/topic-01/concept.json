@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-10.topic-01",
   "name": "Hydraulics",
   "subject": "physics",
+  "summary": "Hydraulics is a fundamental concept in physics.",
   "definition": "Hydraulics is a fundamental concept in physics.",
   "explanation": "Learn about Hydraulics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hydraulics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

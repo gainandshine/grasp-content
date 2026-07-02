@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-08.topic-03",
   "name": "Vaporization",
   "subject": "chemistry",
+  "summary": "Vaporization is a fundamental concept in chemistry.",
   "definition": "Vaporization is a fundamental concept in chemistry.",
   "explanation": "Learn about Vaporization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "vaporization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

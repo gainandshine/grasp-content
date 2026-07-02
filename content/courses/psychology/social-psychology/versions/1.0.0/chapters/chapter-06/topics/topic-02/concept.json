@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-06.topic-02",
   "name": "Social Facilitation",
   "subject": "psychology",
+  "summary": "Social Facilitation is a fundamental concept in psychology.",
   "definition": "Social Facilitation is a fundamental concept in psychology.",
   "explanation": "Learn about Social Facilitation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "social-facilitation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

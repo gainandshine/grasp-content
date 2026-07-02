@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-08.topic-06",
   "name": "Hasty Generalization",
   "subject": "philosophy",
+  "summary": "Hasty Generalization is a fundamental concept in philosophy.",
   "definition": "Hasty Generalization is a fundamental concept in philosophy.",
   "explanation": "Learn about Hasty Generalization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "hasty-generalization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

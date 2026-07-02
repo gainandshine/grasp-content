@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-02.topic-03",
   "name": "Action Potential",
   "subject": "biology",
+  "summary": "Action Potential is a fundamental concept in biology.",
   "definition": "Action Potential is a fundamental concept in biology.",
   "explanation": "Learn about Action Potential and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "action-potential"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

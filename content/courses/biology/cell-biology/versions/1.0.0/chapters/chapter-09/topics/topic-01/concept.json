@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-09.topic-01",
   "name": "Apoptosis",
   "subject": "biology",
+  "summary": "Apoptosis is a fundamental concept in biology.",
   "definition": "Apoptosis is a fundamental concept in biology.",
   "explanation": "Learn about Apoptosis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "apoptosis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

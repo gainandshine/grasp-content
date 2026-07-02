@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-02.topic-04",
   "name": "Membrane Proteins",
   "subject": "biology",
+  "summary": "Membrane Proteins is a fundamental concept in biology.",
   "definition": "Membrane Proteins is a fundamental concept in biology.",
   "explanation": "Learn about Membrane Proteins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "membrane-proteins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

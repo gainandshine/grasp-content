@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-13.topic-04",
   "name": "Digital Twins",
   "subject": "chemistry",
+  "summary": "Digital Twins is a fundamental concept in chemistry.",
   "definition": "Digital Twins is a fundamental concept in chemistry.",
   "explanation": "Learn about Digital Twins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "digital-twins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

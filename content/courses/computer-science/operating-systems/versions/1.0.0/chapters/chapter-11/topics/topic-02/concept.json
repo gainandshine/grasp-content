@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-11.topic-02",
   "name": "Hypervisors",
   "subject": "computer-science",
+  "summary": "Hypervisors is a fundamental concept in computer-science.",
   "definition": "Hypervisors is a fundamental concept in computer-science.",
   "explanation": "Learn about Hypervisors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "hypervisors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-01.topic-03",
   "name": "Learning Processes",
   "subject": "psychology",
+  "summary": "Learning Processes is a fundamental concept in psychology.",
   "definition": "Learning Processes is a fundamental concept in psychology.",
   "explanation": "Learn about Learning Processes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "learning-processes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

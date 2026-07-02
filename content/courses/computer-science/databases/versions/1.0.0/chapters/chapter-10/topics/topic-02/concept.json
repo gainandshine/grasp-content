@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-10.topic-02",
   "name": "Sharding",
   "subject": "computer-science",
+  "summary": "Sharding is a fundamental concept in computer-science.",
   "definition": "Sharding is a fundamental concept in computer-science.",
   "explanation": "Learn about Sharding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sharding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

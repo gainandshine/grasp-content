@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-10.topic-02",
   "name": "Cookies",
   "subject": "computer-science",
+  "summary": "Cookies is a fundamental concept in computer-science.",
   "definition": "Cookies is a fundamental concept in computer-science.",
   "explanation": "Learn about Cookies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cookies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

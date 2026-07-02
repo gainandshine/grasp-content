@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-06.topic-04",
   "name": "Read Replicas",
   "subject": "computer-science",
+  "summary": "Read Replicas is a fundamental concept in computer-science.",
   "definition": "Read Replicas is a fundamental concept in computer-science.",
   "explanation": "Learn about Read Replicas and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "read-replicas"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

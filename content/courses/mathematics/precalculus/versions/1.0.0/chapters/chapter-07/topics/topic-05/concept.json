@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-07.topic-05",
   "name": "Trigonometric Equations",
   "subject": "mathematics",
+  "summary": "Trigonometric Equations is a fundamental concept in mathematics.",
   "definition": "Trigonometric Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Trigonometric Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "trigonometric-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

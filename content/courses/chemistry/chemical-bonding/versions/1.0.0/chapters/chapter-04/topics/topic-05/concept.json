@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-04.topic-05",
   "name": "Incomplete Octet",
   "subject": "chemistry",
+  "summary": "Incomplete Octet is a fundamental concept in chemistry.",
   "definition": "Incomplete Octet is a fundamental concept in chemistry.",
   "explanation": "Learn about Incomplete Octet and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "incomplete-octet"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

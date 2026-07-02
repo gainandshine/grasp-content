@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-12.topic-07",
   "name": "Behavioral Analytics",
   "subject": "psychology",
+  "summary": "Behavioral Analytics is a fundamental concept in psychology.",
   "definition": "Behavioral Analytics is a fundamental concept in psychology.",
   "explanation": "Learn about Behavioral Analytics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "behavioral-analytics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

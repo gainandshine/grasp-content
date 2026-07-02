@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-02.topic-07",
   "name": "Plasma Frequency",
   "subject": "physics",
+  "summary": "Plasma Frequency is a fundamental concept in physics.",
   "definition": "Plasma Frequency is a fundamental concept in physics.",
   "explanation": "Learn about Plasma Frequency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plasma-frequency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-06.topic-04",
   "name": "Antimony",
   "subject": "chemistry",
+  "summary": "Antimony is a fundamental concept in chemistry.",
   "definition": "Antimony is a fundamental concept in chemistry.",
   "explanation": "Learn about Antimony and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "antimony"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

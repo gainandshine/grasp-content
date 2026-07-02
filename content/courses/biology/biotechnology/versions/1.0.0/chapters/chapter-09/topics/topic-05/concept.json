@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-09.topic-05",
   "name": "Bioprocess Engineering",
   "subject": "biology",
+  "summary": "Bioprocess Engineering is a fundamental concept in biology.",
   "definition": "Bioprocess Engineering is a fundamental concept in biology.",
   "explanation": "Learn about Bioprocess Engineering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "bioprocess-engineering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

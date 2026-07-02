@@ -2,6 +2,7 @@
   "id": "economics.producer-theory.chapter-06.topic-01",
   "name": "Total Revenue",
   "subject": "economics",
+  "summary": "Total Revenue is a fundamental concept in economics.",
   "definition": "Total Revenue is a fundamental concept in economics.",
   "explanation": "Learn about Total Revenue and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "total-revenue"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

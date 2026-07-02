@@ -2,6 +2,7 @@
   "id": "economics.microeconomics.chapter-01.topic-05",
   "name": "Scarcity & Choice",
   "subject": "economics",
+  "summary": "Scarcity & Choice is a fundamental concept in economics.",
   "definition": "Scarcity & Choice is a fundamental concept in economics.",
   "explanation": "Learn about Scarcity & Choice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "scarcity-choice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

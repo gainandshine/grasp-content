@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-01.topic-05",
   "name": "Row Operations",
   "subject": "mathematics",
+  "summary": "Row Operations is a fundamental concept in mathematics.",
   "definition": "Row Operations is a fundamental concept in mathematics.",
   "explanation": "Learn about Row Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "row-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

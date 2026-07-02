@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-12.topic-02",
   "name": "Microscopy",
   "subject": "biology",
+  "summary": "Microscopy is a fundamental concept in biology.",
   "definition": "Microscopy is a fundamental concept in biology.",
   "explanation": "Learn about Microscopy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "microscopy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-13.topic-07",
   "name": "*Course 8: Abnormal Psychology**",
   "subject": "psychology",
+  "summary": "*Course 8: Abnormal Psychology** is a fundamental concept in psychology.",
   "definition": "*Course 8: Abnormal Psychology** is a fundamental concept in psychology.",
   "explanation": "Learn about *Course 8: Abnormal Psychology** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "course-8-abnormal-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

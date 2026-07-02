@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-08.topic-06",
   "name": "Iteration",
   "subject": "computer-science",
+  "summary": "Iteration is a fundamental concept in computer-science.",
   "definition": "Iteration is a fundamental concept in computer-science.",
   "explanation": "Learn about Iteration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "iteration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

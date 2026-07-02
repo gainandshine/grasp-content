@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-04.topic-02",
   "name": "Vectors",
   "subject": "physics",
+  "summary": "Vectors is a fundamental concept in physics.",
   "definition": "Vectors is a fundamental concept in physics.",
   "explanation": "Learn about Vectors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "vectors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

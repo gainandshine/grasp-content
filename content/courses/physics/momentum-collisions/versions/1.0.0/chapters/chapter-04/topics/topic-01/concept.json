@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-04.topic-01",
   "name": "Average Force",
   "subject": "physics",
+  "summary": "Average Force is a fundamental concept in physics.",
   "definition": "Average Force is a fundamental concept in physics.",
   "explanation": "Learn about Average Force and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "average-force"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

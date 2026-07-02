@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-11.topic-05",
   "name": "Complexity",
   "subject": "philosophy",
+  "summary": "Complexity is a fundamental concept in philosophy.",
   "definition": "Complexity is a fundamental concept in philosophy.",
   "explanation": "Learn about Complexity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "complexity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-02.topic-01",
   "name": "Hubble's Discovery",
   "subject": "physics",
+  "summary": "Hubble's Discovery is a fundamental concept in physics.",
   "definition": "Hubble's Discovery is a fundamental concept in physics.",
   "explanation": "Learn about Hubble's Discovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hubbles-discovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

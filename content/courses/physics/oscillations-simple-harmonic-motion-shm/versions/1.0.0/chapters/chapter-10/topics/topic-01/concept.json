@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-01",
   "name": "Clocks",
   "subject": "physics",
+  "summary": "Clocks is a fundamental concept in physics.",
   "definition": "Clocks is a fundamental concept in physics.",
   "explanation": "Learn about Clocks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "clocks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

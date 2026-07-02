@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-12.topic-05",
   "name": "Culture Techniques",
   "subject": "biology",
+  "summary": "Culture Techniques is a fundamental concept in biology.",
   "definition": "Culture Techniques is a fundamental concept in biology.",
   "explanation": "Learn about Culture Techniques and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "culture-techniques"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

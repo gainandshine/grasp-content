@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-03.topic-02",
   "name": "SELECT",
   "subject": "computer-science",
+  "summary": "SELECT is a fundamental concept in computer-science.",
   "definition": "SELECT is a fundamental concept in computer-science.",
   "explanation": "Learn about SELECT and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "select"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

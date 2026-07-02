@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-08.topic-06",
   "name": "Applications",
   "subject": "physics",
+  "summary": "Applications is a fundamental concept in physics.",
   "definition": "Applications is a fundamental concept in physics.",
   "explanation": "Learn about Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

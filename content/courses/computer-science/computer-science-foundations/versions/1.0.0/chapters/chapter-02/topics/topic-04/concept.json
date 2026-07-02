@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-02.topic-04",
   "name": "Pattern Recognition",
   "subject": "computer-science",
+  "summary": "Pattern Recognition is a fundamental concept in computer-science.",
   "definition": "Pattern Recognition is a fundamental concept in computer-science.",
   "explanation": "Learn about Pattern Recognition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "pattern-recognition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

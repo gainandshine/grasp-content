@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-02.topic-04",
   "name": "Interdependent Values",
   "subject": "game-theory",
+  "summary": "Interdependent Values is a fundamental concept in game-theory.",
   "definition": "Interdependent Values is a fundamental concept in game-theory.",
   "explanation": "Learn about Interdependent Values and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "interdependent-values"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

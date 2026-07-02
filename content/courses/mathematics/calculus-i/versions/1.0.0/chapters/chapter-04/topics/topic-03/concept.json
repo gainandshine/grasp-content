@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-04.topic-03",
   "name": "Logarithmic Functions",
   "subject": "mathematics",
+  "summary": "Logarithmic Functions is a fundamental concept in mathematics.",
   "definition": "Logarithmic Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Logarithmic Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "logarithmic-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

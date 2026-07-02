@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-11.topic-01",
   "name": "Petroleum",
   "subject": "chemistry",
+  "summary": "Petroleum is a fundamental concept in chemistry.",
   "definition": "Petroleum is a fundamental concept in chemistry.",
   "explanation": "Learn about Petroleum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "petroleum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

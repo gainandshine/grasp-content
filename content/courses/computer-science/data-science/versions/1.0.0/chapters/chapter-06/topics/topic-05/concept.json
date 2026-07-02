@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-06.topic-05",
   "name": "Histograms",
   "subject": "computer-science",
+  "summary": "Histograms is a fundamental concept in computer-science.",
   "definition": "Histograms is a fundamental concept in computer-science.",
   "explanation": "Learn about Histograms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "histograms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-04.topic-05",
   "name": "Third Equation of Motion",
   "subject": "physics",
+  "summary": "Third Equation of Motion is a fundamental concept in physics.",
   "definition": "Third Equation of Motion is a fundamental concept in physics.",
   "explanation": "Learn about Third Equation of Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "third-equation-of-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

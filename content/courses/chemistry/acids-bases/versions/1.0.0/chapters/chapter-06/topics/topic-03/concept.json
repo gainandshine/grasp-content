@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-06.topic-03",
   "name": "Basic Buffers",
   "subject": "chemistry",
+  "summary": "Basic Buffers is a fundamental concept in chemistry.",
   "definition": "Basic Buffers is a fundamental concept in chemistry.",
   "explanation": "Learn about Basic Buffers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "basic-buffers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

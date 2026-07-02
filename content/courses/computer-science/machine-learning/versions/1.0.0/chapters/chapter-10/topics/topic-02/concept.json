@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-10.topic-02",
   "name": "Inference",
   "subject": "computer-science",
+  "summary": "Inference is a fundamental concept in computer-science.",
   "definition": "Inference is a fundamental concept in computer-science.",
   "explanation": "Learn about Inference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "inference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

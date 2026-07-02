@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-04.topic-05",
   "name": "Type Inference",
   "subject": "computer-science",
+  "summary": "Type Inference is a fundamental concept in computer-science.",
   "definition": "Type Inference is a fundamental concept in computer-science.",
   "explanation": "Learn about Type Inference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "type-inference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

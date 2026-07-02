@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-13.topic-04",
   "name": "Neuroscience",
   "subject": "psychology",
+  "summary": "Neuroscience is a fundamental concept in psychology.",
   "definition": "Neuroscience is a fundamental concept in psychology.",
   "explanation": "Learn about Neuroscience and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "neuroscience"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

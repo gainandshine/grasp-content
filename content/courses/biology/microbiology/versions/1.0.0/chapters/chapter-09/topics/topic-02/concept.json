@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-09.topic-02",
   "name": "Infection Process",
   "subject": "biology",
+  "summary": "Infection Process is a fundamental concept in biology.",
   "definition": "Infection Process is a fundamental concept in biology.",
   "explanation": "Learn about Infection Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "infection-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

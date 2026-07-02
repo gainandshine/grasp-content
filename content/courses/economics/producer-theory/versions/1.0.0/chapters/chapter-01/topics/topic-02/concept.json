@@ -2,6 +2,7 @@
   "id": "economics.producer-theory.chapter-01.topic-02",
   "name": "Production Decisions",
   "subject": "economics",
+  "summary": "Production Decisions is a fundamental concept in economics.",
   "definition": "Production Decisions is a fundamental concept in economics.",
   "explanation": "Learn about Production Decisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "production-decisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

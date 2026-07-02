@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-08.topic-04",
   "name": "Biofertilizers",
   "subject": "biology",
+  "summary": "Biofertilizers is a fundamental concept in biology.",
   "definition": "Biofertilizers is a fundamental concept in biology.",
   "explanation": "Learn about Biofertilizers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biofertilizers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

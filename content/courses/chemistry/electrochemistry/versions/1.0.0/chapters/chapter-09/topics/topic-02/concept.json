@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-09.topic-02",
   "name": "Rusting",
   "subject": "chemistry",
+  "summary": "Rusting is a fundamental concept in chemistry.",
   "definition": "Rusting is a fundamental concept in chemistry.",
   "explanation": "Learn about Rusting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "rusting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

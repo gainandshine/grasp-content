@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-13.topic-19",
   "name": "Security & Protection",
   "subject": "computer-science",
+  "summary": "Security & Protection is a fundamental concept in computer-science.",
   "definition": "Security & Protection is a fundamental concept in computer-science.",
   "explanation": "Learn about Security & Protection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "security-protection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

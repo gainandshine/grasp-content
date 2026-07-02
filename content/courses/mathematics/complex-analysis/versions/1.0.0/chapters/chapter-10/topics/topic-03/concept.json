@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-10.topic-03",
   "name": "Analytic Continuation",
   "subject": "mathematics",
+  "summary": "Analytic Continuation is a fundamental concept in mathematics.",
   "definition": "Analytic Continuation is a fundamental concept in mathematics.",
   "explanation": "Learn about Analytic Continuation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "analytic-continuation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

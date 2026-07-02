@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-mind.chapter-09.topic-03",
   "name": "Strong AI",
   "subject": "philosophy",
+  "summary": "Strong AI is a fundamental concept in philosophy.",
   "definition": "Strong AI is a fundamental concept in philosophy.",
   "explanation": "Learn about Strong AI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "strong-ai"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

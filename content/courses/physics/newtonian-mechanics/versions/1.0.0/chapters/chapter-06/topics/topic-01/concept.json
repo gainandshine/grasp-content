@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-06.topic-01",
   "name": "Static Friction",
   "subject": "physics",
+  "summary": "Static Friction is a fundamental concept in physics.",
   "definition": "Static Friction is a fundamental concept in physics.",
   "explanation": "Learn about Static Friction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "static-friction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

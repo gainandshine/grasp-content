@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-12.topic-11",
   "name": "Aldehydes",
   "subject": "chemistry",
+  "summary": "Aldehydes is a fundamental concept in chemistry.",
   "definition": "Aldehydes is a fundamental concept in chemistry.",
   "explanation": "Learn about Aldehydes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "aldehydes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

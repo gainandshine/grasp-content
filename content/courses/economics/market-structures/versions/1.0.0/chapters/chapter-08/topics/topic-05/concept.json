@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-08.topic-05",
   "name": "Consumer Protection",
   "subject": "economics",
+  "summary": "Consumer Protection is a fundamental concept in economics.",
   "definition": "Consumer Protection is a fundamental concept in economics.",
   "explanation": "Learn about Consumer Protection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "consumer-protection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

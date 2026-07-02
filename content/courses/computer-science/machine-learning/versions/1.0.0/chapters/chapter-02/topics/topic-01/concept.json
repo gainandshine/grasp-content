@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-02.topic-01",
   "name": "Data Collection",
   "subject": "computer-science",
+  "summary": "Data Collection is a fundamental concept in computer-science.",
   "definition": "Data Collection is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Collection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-collection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

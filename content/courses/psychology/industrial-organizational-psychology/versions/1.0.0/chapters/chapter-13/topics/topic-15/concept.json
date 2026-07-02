@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-13.topic-15",
   "name": "Inferential Statistics",
   "subject": "psychology",
+  "summary": "Inferential Statistics is a fundamental concept in psychology.",
   "definition": "Inferential Statistics is a fundamental concept in psychology.",
   "explanation": "Learn about Inferential Statistics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "inferential-statistics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-05",
   "name": "Damping Coefficient",
   "subject": "physics",
+  "summary": "Damping Coefficient is a fundamental concept in physics.",
   "definition": "Damping Coefficient is a fundamental concept in physics.",
   "explanation": "Learn about Damping Coefficient and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "damping-coefficient"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

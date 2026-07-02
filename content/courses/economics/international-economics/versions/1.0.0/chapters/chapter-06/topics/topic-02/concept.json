@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-06.topic-02",
   "name": "Capital Account",
   "subject": "economics",
+  "summary": "Capital Account is a fundamental concept in economics.",
   "definition": "Capital Account is a fundamental concept in economics.",
   "explanation": "Learn about Capital Account and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "capital-account"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

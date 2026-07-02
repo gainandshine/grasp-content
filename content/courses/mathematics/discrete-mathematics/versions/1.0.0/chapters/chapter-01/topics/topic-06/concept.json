@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-01.topic-06",
   "name": "Contradictions",
   "subject": "mathematics",
+  "summary": "Contradictions is a fundamental concept in mathematics.",
   "definition": "Contradictions is a fundamental concept in mathematics.",
   "explanation": "Learn about Contradictions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "contradictions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

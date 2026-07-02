@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-08.topic-06",
   "name": "Determinism",
   "subject": "philosophy",
+  "summary": "Determinism is a fundamental concept in philosophy.",
   "definition": "Determinism is a fundamental concept in philosophy.",
   "explanation": "Learn about Determinism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "determinism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

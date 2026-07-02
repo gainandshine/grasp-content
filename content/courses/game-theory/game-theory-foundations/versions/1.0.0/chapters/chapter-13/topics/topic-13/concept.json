@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-13.topic-13",
   "name": "Uncertainty",
   "subject": "game-theory",
+  "summary": "Uncertainty is a fundamental concept in game-theory.",
   "definition": "Uncertainty is a fundamental concept in game-theory.",
   "explanation": "Learn about Uncertainty and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "uncertainty"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

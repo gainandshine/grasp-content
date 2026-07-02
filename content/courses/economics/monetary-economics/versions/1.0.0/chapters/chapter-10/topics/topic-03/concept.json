@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-10.topic-03",
   "name": "Digital Wallets",
   "subject": "economics",
+  "summary": "Digital Wallets is a fundamental concept in economics.",
   "definition": "Digital Wallets is a fundamental concept in economics.",
   "explanation": "Learn about Digital Wallets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "digital-wallets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

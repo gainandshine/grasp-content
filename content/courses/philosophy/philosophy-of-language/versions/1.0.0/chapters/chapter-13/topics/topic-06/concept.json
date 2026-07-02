@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-language.chapter-13.topic-06",
   "name": "Philosophy of Communication",
   "subject": "philosophy",
+  "summary": "Philosophy of Communication is a fundamental concept in philosophy.",
   "definition": "Philosophy of Communication is a fundamental concept in philosophy.",
   "explanation": "Learn about Philosophy of Communication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "philosophy-of-communication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

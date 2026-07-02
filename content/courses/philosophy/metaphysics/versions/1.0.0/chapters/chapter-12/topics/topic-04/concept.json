@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-12.topic-04",
   "name": "Religion",
   "subject": "philosophy",
+  "summary": "Religion is a fundamental concept in philosophy.",
   "definition": "Religion is a fundamental concept in philosophy.",
   "explanation": "Learn about Religion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "religion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-06.topic-06",
   "name": "Error Handling",
   "subject": "computer-science",
+  "summary": "Error Handling is a fundamental concept in computer-science.",
   "definition": "Error Handling is a fundamental concept in computer-science.",
   "explanation": "Learn about Error Handling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "error-handling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.producer-theory.chapter-10.topic-01",
   "name": "Business Objectives",
   "subject": "economics",
+  "summary": "Business Objectives is a fundamental concept in economics.",
   "definition": "Business Objectives is a fundamental concept in economics.",
   "explanation": "Learn about Business Objectives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "business-objectives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

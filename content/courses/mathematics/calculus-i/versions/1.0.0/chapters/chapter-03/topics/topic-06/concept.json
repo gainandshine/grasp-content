@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-03.topic-06",
   "name": "Product Rule",
   "subject": "mathematics",
+  "summary": "Product Rule is a fundamental concept in mathematics.",
   "definition": "Product Rule is a fundamental concept in mathematics.",
   "explanation": "Learn about Product Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "product-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

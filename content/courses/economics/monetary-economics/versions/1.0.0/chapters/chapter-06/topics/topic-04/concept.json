@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-06.topic-04",
   "name": "Open Market Operations",
   "subject": "economics",
+  "summary": "Open Market Operations is a fundamental concept in economics.",
   "definition": "Open Market Operations is a fundamental concept in economics.",
   "explanation": "Learn about Open Market Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "open-market-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

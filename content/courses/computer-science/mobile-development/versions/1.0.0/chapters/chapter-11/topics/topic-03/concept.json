@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-11.topic-03",
   "name": "Device Testing",
   "subject": "computer-science",
+  "summary": "Device Testing is a fundamental concept in computer-science.",
   "definition": "Device Testing is a fundamental concept in computer-science.",
   "explanation": "Learn about Device Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "device-testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

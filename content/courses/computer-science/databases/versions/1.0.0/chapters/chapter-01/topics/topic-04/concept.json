@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-01.topic-04",
   "name": "Database Architecture",
   "subject": "computer-science",
+  "summary": "Database Architecture is a fundamental concept in computer-science.",
   "definition": "Database Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Database Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "database-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-13.topic-02",
   "name": "Neurobiology of Learning",
   "subject": "psychology",
+  "summary": "Neurobiology of Learning is a fundamental concept in psychology.",
   "definition": "Neurobiology of Learning is a fundamental concept in psychology.",
   "explanation": "Learn about Neurobiology of Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "neurobiology-of-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

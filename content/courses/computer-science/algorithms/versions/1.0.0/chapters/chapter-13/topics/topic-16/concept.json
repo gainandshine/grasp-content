@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-16",
   "name": "Instruction Set Architecture (ISA)",
   "subject": "computer-science",
+  "summary": "Instruction Set Architecture (ISA) is a fundamental concept in computer-science.",
   "definition": "Instruction Set Architecture (ISA) is a fundamental concept in computer-science.",
   "explanation": "Learn about Instruction Set Architecture (ISA) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "instruction-set-architecture-isa"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

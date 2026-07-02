@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-01.topic-02",
   "name": "Economic Growth vs Development",
   "subject": "economics",
+  "summary": "Economic Growth vs Development is a fundamental concept in economics.",
   "definition": "Economic Growth vs Development is a fundamental concept in economics.",
   "explanation": "Learn about Economic Growth vs Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "economic-growth-vs-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

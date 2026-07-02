@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-01.topic-02",
   "name": "Magnetic Poles",
   "subject": "physics",
+  "summary": "Magnetic Poles is a fundamental concept in physics.",
   "definition": "Magnetic Poles is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Poles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-poles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

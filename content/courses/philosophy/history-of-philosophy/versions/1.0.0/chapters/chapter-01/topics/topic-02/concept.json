@@ -2,6 +2,7 @@
   "id": "philosophy.history-of-philosophy.chapter-01.topic-02",
   "name": "Pre-Socratic Philosophy",
   "subject": "philosophy",
+  "summary": "Pre-Socratic Philosophy is a fundamental concept in philosophy.",
   "definition": "Pre-Socratic Philosophy is a fundamental concept in philosophy.",
   "explanation": "Learn about Pre-Socratic Philosophy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "pre-socratic-philosophy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

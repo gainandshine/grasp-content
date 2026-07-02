@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-12.topic-01",
   "name": "Personal Finance",
   "subject": "economics",
+  "summary": "Personal Finance is a fundamental concept in economics.",
   "definition": "Personal Finance is a fundamental concept in economics.",
   "explanation": "Learn about Personal Finance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "personal-finance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

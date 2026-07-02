@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-15.topic-01",
   "name": "Business Analytics",
   "subject": "mathematics",
+  "summary": "Business Analytics is a fundamental concept in mathematics.",
   "definition": "Business Analytics is a fundamental concept in mathematics.",
   "explanation": "Learn about Business Analytics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "business-analytics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

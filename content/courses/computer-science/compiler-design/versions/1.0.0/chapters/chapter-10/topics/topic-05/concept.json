@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-10.topic-05",
   "name": "Register-Based VMs",
   "subject": "computer-science",
+  "summary": "Register-Based VMs is a fundamental concept in computer-science.",
   "definition": "Register-Based VMs is a fundamental concept in computer-science.",
   "explanation": "Learn about Register-Based VMs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "register-based-vms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-11.topic-05",
   "name": "Pyroelectric Materials",
   "subject": "physics",
+  "summary": "Pyroelectric Materials is a fundamental concept in physics.",
   "definition": "Pyroelectric Materials is a fundamental concept in physics.",
   "explanation": "Learn about Pyroelectric Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "pyroelectric-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-02.topic-05",
   "name": "Money Multiplier",
   "subject": "economics",
+  "summary": "Money Multiplier is a fundamental concept in economics.",
   "definition": "Money Multiplier is a fundamental concept in economics.",
   "explanation": "Learn about Money Multiplier and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "money-multiplier"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

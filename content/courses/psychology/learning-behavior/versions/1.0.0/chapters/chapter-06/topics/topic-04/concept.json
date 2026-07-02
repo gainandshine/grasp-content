@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-06.topic-04",
   "name": "Information Processing",
   "subject": "psychology",
+  "summary": "Information Processing is a fundamental concept in psychology.",
   "definition": "Information Processing is a fundamental concept in psychology.",
   "explanation": "Learn about Information Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "information-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

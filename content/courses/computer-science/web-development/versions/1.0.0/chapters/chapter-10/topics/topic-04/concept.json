@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-10.topic-04",
   "name": "Password Hashing",
   "subject": "computer-science",
+  "summary": "Password Hashing is a fundamental concept in computer-science.",
   "definition": "Password Hashing is a fundamental concept in computer-science.",
   "explanation": "Learn about Password Hashing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "password-hashing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

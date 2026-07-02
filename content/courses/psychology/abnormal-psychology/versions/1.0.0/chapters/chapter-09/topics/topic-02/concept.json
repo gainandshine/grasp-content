@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-09.topic-02",
   "name": "Bulimia Nervosa",
   "subject": "psychology",
+  "summary": "Bulimia Nervosa is a fundamental concept in psychology.",
   "definition": "Bulimia Nervosa is a fundamental concept in psychology.",
   "explanation": "Learn about Bulimia Nervosa and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "bulimia-nervosa"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

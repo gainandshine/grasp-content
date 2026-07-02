@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-03.topic-01",
   "name": "Employee Training",
   "subject": "psychology",
+  "summary": "Employee Training is a fundamental concept in psychology.",
   "definition": "Employee Training is a fundamental concept in psychology.",
   "explanation": "Learn about Employee Training and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "employee-training"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

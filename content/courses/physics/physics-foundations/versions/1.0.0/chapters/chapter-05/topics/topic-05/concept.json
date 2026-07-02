@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-05.topic-05",
   "name": "Components of a Vector",
   "subject": "physics",
+  "summary": "Components of a Vector is a fundamental concept in physics.",
   "definition": "Components of a Vector is a fundamental concept in physics.",
   "explanation": "Learn about Components of a Vector and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "components-of-a-vector"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

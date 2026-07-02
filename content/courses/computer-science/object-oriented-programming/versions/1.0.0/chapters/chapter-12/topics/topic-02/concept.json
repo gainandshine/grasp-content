@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-12.topic-02",
   "name": "File Writing",
   "subject": "computer-science",
+  "summary": "File Writing is a fundamental concept in computer-science.",
   "definition": "File Writing is a fundamental concept in computer-science.",
   "explanation": "Learn about File Writing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "file-writing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

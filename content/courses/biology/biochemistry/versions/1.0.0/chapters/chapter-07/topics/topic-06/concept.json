@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-07.topic-06",
   "name": "High-Energy Compounds",
   "subject": "biology",
+  "summary": "High-Energy Compounds is a fundamental concept in biology.",
   "definition": "High-Energy Compounds is a fundamental concept in biology.",
   "explanation": "Learn about High-Energy Compounds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "high-energy-compounds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

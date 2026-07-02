@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-01.topic-03",
   "name": "Mental Representations",
   "subject": "psychology",
+  "summary": "Mental Representations is a fundamental concept in psychology.",
   "definition": "Mental Representations is a fundamental concept in psychology.",
   "explanation": "Learn about Mental Representations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mental-representations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

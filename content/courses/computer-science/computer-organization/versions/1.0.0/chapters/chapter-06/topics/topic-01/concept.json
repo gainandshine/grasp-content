@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-06.topic-01",
   "name": "Memory Hierarchy",
   "subject": "computer-science",
+  "summary": "Memory Hierarchy is a fundamental concept in computer-science.",
   "definition": "Memory Hierarchy is a fundamental concept in computer-science.",
   "explanation": "Learn about Memory Hierarchy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "memory-hierarchy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

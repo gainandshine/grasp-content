@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-13.topic-19",
   "name": "Development Policy",
   "subject": "economics",
+  "summary": "Development Policy is a fundamental concept in economics.",
   "definition": "Development Policy is a fundamental concept in economics.",
   "explanation": "Learn about Development Policy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "development-policy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

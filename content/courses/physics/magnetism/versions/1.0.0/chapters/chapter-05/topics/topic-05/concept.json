@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-05.topic-05",
   "name": "Hysteresis",
   "subject": "physics",
+  "summary": "Hysteresis is a fundamental concept in physics.",
   "definition": "Hysteresis is a fundamental concept in physics.",
   "explanation": "Learn about Hysteresis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hysteresis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.macroeconomics.chapter-11.topic-05",
   "name": "Recessions",
   "subject": "economics",
+  "summary": "Recessions is a fundamental concept in economics.",
   "definition": "Recessions is a fundamental concept in economics.",
   "explanation": "Learn about Recessions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "recessions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

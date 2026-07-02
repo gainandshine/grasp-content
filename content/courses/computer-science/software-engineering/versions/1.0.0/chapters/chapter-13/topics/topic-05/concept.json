@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-13.topic-05",
   "name": "Embedded Software",
   "subject": "computer-science",
+  "summary": "Embedded Software is a fundamental concept in computer-science.",
   "definition": "Embedded Software is a fundamental concept in computer-science.",
   "explanation": "Learn about Embedded Software and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "embedded-software"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

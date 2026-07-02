@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-06.topic-01",
   "name": "Coagulation",
   "subject": "chemistry",
+  "summary": "Coagulation is a fundamental concept in chemistry.",
   "definition": "Coagulation is a fundamental concept in chemistry.",
   "explanation": "Learn about Coagulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "coagulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

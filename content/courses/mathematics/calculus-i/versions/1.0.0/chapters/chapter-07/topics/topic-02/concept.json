@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-07.topic-02",
   "name": "Basic Integration Rules",
   "subject": "mathematics",
+  "summary": "Basic Integration Rules is a fundamental concept in mathematics.",
   "definition": "Basic Integration Rules is a fundamental concept in mathematics.",
   "explanation": "Learn about Basic Integration Rules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "basic-integration-rules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

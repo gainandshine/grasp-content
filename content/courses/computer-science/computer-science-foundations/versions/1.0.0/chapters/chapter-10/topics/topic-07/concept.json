@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-10.topic-07",
   "name": "Safe Computing Practices",
   "subject": "computer-science",
+  "summary": "Safe Computing Practices is a fundamental concept in computer-science.",
   "definition": "Safe Computing Practices is a fundamental concept in computer-science.",
   "explanation": "Learn about Safe Computing Practices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "safe-computing-practices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

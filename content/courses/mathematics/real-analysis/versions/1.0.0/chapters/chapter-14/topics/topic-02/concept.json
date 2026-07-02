@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-14.topic-02",
   "name": "Differential Equations",
   "subject": "mathematics",
+  "summary": "Differential Equations is a fundamental concept in mathematics.",
   "definition": "Differential Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Differential Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "differential-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

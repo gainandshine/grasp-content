@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-01.topic-03",
   "name": "Integration by Parts",
   "subject": "mathematics",
+  "summary": "Integration by Parts is a fundamental concept in mathematics.",
   "definition": "Integration by Parts is a fundamental concept in mathematics.",
   "explanation": "Learn about Integration by Parts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "integration-by-parts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

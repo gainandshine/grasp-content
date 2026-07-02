@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-09",
   "name": "System Design Fundamentals",
   "subject": "computer-science",
+  "summary": "System Design Fundamentals is a fundamental concept in computer-science.",
   "definition": "System Design Fundamentals is a fundamental concept in computer-science.",
   "explanation": "Learn about System Design Fundamentals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "system-design-fundamentals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

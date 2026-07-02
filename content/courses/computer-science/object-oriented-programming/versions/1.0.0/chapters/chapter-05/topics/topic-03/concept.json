@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-05.topic-03",
   "name": "Derived Class",
   "subject": "computer-science",
+  "summary": "Derived Class is a fundamental concept in computer-science.",
   "definition": "Derived Class is a fundamental concept in computer-science.",
   "explanation": "Learn about Derived Class and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "derived-class"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

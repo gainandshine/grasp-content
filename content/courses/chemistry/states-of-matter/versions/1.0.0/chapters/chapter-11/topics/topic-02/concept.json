@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-11.topic-02",
   "name": "Suspensions",
   "subject": "chemistry",
+  "summary": "Suspensions is a fundamental concept in chemistry.",
   "definition": "Suspensions is a fundamental concept in chemistry.",
   "explanation": "Learn about Suspensions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "suspensions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

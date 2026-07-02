@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-03.topic-06",
   "name": "Lepton Epoch",
   "subject": "physics",
+  "summary": "Lepton Epoch is a fundamental concept in physics.",
   "definition": "Lepton Epoch is a fundamental concept in physics.",
   "explanation": "Learn about Lepton Epoch and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "lepton-epoch"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

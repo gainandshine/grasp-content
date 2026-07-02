@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-07.topic-06",
   "name": "Auction Comparison",
   "subject": "game-theory",
+  "summary": "Auction Comparison is a fundamental concept in game-theory.",
   "definition": "Auction Comparison is a fundamental concept in game-theory.",
   "explanation": "Learn about Auction Comparison and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "auction-comparison"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

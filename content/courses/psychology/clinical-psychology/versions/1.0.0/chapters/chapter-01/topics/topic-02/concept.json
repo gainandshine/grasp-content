@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-01.topic-02",
   "name": "History of Clinical Psychology",
   "subject": "psychology",
+  "summary": "History of Clinical Psychology is a fundamental concept in psychology.",
   "definition": "History of Clinical Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about History of Clinical Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "history-of-clinical-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

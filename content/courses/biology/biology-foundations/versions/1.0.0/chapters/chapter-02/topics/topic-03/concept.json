@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-02.topic-03",
   "name": "Chemical Bonds",
   "subject": "biology",
+  "summary": "Chemical Bonds is a fundamental concept in biology.",
   "definition": "Chemical Bonds is a fundamental concept in biology.",
   "explanation": "Learn about Chemical Bonds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "chemical-bonds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

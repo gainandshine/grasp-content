@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-13.topic-01",
   "name": "Reliability",
   "subject": "mathematics",
+  "summary": "Reliability is a fundamental concept in mathematics.",
   "definition": "Reliability is a fundamental concept in mathematics.",
   "explanation": "Learn about Reliability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "reliability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

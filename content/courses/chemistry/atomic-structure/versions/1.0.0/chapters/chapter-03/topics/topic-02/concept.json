@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-03.topic-02",
   "name": "Isobars",
   "subject": "chemistry",
+  "summary": "Isobars is a fundamental concept in chemistry.",
   "definition": "Isobars is a fundamental concept in chemistry.",
   "explanation": "Learn about Isobars and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "isobars"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

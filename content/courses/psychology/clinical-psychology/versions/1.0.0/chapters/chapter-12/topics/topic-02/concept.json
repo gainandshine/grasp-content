@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-12.topic-02",
   "name": "Private Practice",
   "subject": "psychology",
+  "summary": "Private Practice is a fundamental concept in psychology.",
   "definition": "Private Practice is a fundamental concept in psychology.",
   "explanation": "Learn about Private Practice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "private-practice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

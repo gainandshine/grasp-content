@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-01.topic-04",
   "name": "AI Applications",
   "subject": "computer-science",
+  "summary": "AI Applications is a fundamental concept in computer-science.",
   "definition": "AI Applications is a fundamental concept in computer-science.",
   "explanation": "Learn about AI Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ai-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

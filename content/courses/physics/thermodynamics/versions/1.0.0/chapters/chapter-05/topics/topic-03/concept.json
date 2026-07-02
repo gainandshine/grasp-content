@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-05.topic-03",
   "name": "Isobaric Process",
   "subject": "physics",
+  "summary": "Isobaric Process is a fundamental concept in physics.",
   "definition": "Isobaric Process is a fundamental concept in physics.",
   "explanation": "Learn about Isobaric Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "isobaric-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

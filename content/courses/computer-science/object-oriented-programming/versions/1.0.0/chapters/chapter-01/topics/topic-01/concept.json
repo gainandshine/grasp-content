@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-01.topic-01",
   "name": "Procedural vs Object-Oriented Programming",
   "subject": "computer-science",
+  "summary": "Procedural vs Object-Oriented Programming is a fundamental concept in computer-science.",
   "definition": "Procedural vs Object-Oriented Programming is a fundamental concept in computer-science.",
   "explanation": "Learn about Procedural vs Object-Oriented Programming and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "procedural-vs-object-oriented-programming"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

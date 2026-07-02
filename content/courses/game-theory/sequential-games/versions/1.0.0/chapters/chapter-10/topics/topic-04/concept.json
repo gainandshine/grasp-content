@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-10.topic-04",
   "name": "Political Campaigns",
   "subject": "game-theory",
+  "summary": "Political Campaigns is a fundamental concept in game-theory.",
   "definition": "Political Campaigns is a fundamental concept in game-theory.",
   "explanation": "Learn about Political Campaigns and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "political-campaigns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

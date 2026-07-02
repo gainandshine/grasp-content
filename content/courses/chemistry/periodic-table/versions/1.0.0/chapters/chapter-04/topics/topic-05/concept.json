@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-04.topic-05",
   "name": "Trends Across a Period",
   "subject": "chemistry",
+  "summary": "Trends Across a Period is a fundamental concept in chemistry.",
   "definition": "Trends Across a Period is a fundamental concept in chemistry.",
   "explanation": "Learn about Trends Across a Period and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "trends-across-a-period"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

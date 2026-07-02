@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-09.topic-06",
   "name": "Urea Cycle",
   "subject": "biology",
+  "summary": "Urea Cycle is a fundamental concept in biology.",
   "definition": "Urea Cycle is a fundamental concept in biology.",
   "explanation": "Learn about Urea Cycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "urea-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

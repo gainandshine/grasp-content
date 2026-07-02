@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-09.topic-03",
   "name": "Evaluating Definite Integrals",
   "subject": "mathematics",
+  "summary": "Evaluating Definite Integrals is a fundamental concept in mathematics.",
   "definition": "Evaluating Definite Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Evaluating Definite Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "evaluating-definite-integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

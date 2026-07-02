@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-11.topic-07",
   "name": "DAGs (Directed Acyclic Graphs)",
   "subject": "mathematics",
+  "summary": "DAGs (Directed Acyclic Graphs) is a fundamental concept in mathematics.",
   "definition": "DAGs (Directed Acyclic Graphs) is a fundamental concept in mathematics.",
   "explanation": "Learn about DAGs (Directed Acyclic Graphs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "dags-directed-acyclic-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

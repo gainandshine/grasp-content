@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-01.topic-05",
   "name": "Probability Axioms",
   "subject": "mathematics",
+  "summary": "Probability Axioms is a fundamental concept in mathematics.",
   "definition": "Probability Axioms is a fundamental concept in mathematics.",
   "explanation": "Learn about Probability Axioms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "probability-axioms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

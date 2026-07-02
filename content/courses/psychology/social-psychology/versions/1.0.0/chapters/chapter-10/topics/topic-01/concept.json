@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-10.topic-01",
   "name": "Stereotypes",
   "subject": "psychology",
+  "summary": "Stereotypes is a fundamental concept in psychology.",
   "definition": "Stereotypes is a fundamental concept in psychology.",
   "explanation": "Learn about Stereotypes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "stereotypes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

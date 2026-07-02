@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-07.topic-06",
   "name": "Financial Instruments",
   "subject": "economics",
+  "summary": "Financial Instruments is a fundamental concept in economics.",
   "definition": "Financial Instruments is a fundamental concept in economics.",
   "explanation": "Learn about Financial Instruments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "financial-instruments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

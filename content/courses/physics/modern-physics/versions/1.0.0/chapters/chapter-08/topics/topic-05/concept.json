@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-08.topic-05",
   "name": "Beta Decay",
   "subject": "physics",
+  "summary": "Beta Decay is a fundamental concept in physics.",
   "definition": "Beta Decay is a fundamental concept in physics.",
   "explanation": "Learn about Beta Decay and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "beta-decay"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

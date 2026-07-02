@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-13.topic-03",
   "name": "Cooperative Mechanism Design",
   "subject": "game-theory",
+  "summary": "Cooperative Mechanism Design is a fundamental concept in game-theory.",
   "definition": "Cooperative Mechanism Design is a fundamental concept in game-theory.",
   "explanation": "Learn about Cooperative Mechanism Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "cooperative-mechanism-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

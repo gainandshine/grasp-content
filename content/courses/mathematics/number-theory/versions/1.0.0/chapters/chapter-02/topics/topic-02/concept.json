@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-02.topic-02",
   "name": "Composite Numbers",
   "subject": "mathematics",
+  "summary": "Composite Numbers is a fundamental concept in mathematics.",
   "definition": "Composite Numbers is a fundamental concept in mathematics.",
   "explanation": "Learn about Composite Numbers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "composite-numbers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

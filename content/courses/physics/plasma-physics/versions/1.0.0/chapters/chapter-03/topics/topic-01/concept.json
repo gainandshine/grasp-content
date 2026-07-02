@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-03.topic-01",
   "name": "Charged Particle Motion",
   "subject": "physics",
+  "summary": "Charged Particle Motion is a fundamental concept in physics.",
   "definition": "Charged Particle Motion is a fundamental concept in physics.",
   "explanation": "Learn about Charged Particle Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "charged-particle-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

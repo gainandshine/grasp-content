@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-05.topic-01",
   "name": "Perception as a Source of Knowledge",
   "subject": "philosophy",
+  "summary": "Perception as a Source of Knowledge is a fundamental concept in philosophy.",
   "definition": "Perception as a Source of Knowledge is a fundamental concept in philosophy.",
   "explanation": "Learn about Perception as a Source of Knowledge and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "perception-as-a-source-of-knowledge"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-01.topic-06",
   "name": "Least Common Multiple (LCM)",
   "subject": "mathematics",
+  "summary": "Least Common Multiple (LCM) is a fundamental concept in mathematics.",
   "definition": "Least Common Multiple (LCM) is a fundamental concept in mathematics.",
   "explanation": "Learn about Least Common Multiple (LCM) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "least-common-multiple-lcm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

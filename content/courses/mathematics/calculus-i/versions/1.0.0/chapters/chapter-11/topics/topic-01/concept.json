@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-11.topic-01",
   "name": "Left Riemann Sum",
   "subject": "mathematics",
+  "summary": "Left Riemann Sum is a fundamental concept in mathematics.",
   "definition": "Left Riemann Sum is a fundamental concept in mathematics.",
   "explanation": "Learn about Left Riemann Sum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "left-riemann-sum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

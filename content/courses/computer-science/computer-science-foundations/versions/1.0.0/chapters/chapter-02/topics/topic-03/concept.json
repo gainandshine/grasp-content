@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-02.topic-03",
   "name": "Decomposition",
   "subject": "computer-science",
+  "summary": "Decomposition is a fundamental concept in computer-science.",
   "definition": "Decomposition is a fundamental concept in computer-science.",
   "explanation": "Learn about Decomposition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "decomposition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

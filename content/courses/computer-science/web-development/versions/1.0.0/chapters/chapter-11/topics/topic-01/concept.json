@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-11.topic-01",
   "name": "Hosting",
   "subject": "computer-science",
+  "summary": "Hosting is a fundamental concept in computer-science.",
   "definition": "Hosting is a fundamental concept in computer-science.",
   "explanation": "Learn about Hosting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "hosting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

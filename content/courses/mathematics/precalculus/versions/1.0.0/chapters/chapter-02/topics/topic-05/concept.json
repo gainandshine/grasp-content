@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-02.topic-05",
   "name": "Compression",
   "subject": "mathematics",
+  "summary": "Compression is a fundamental concept in mathematics.",
   "definition": "Compression is a fundamental concept in mathematics.",
   "explanation": "Learn about Compression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "compression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

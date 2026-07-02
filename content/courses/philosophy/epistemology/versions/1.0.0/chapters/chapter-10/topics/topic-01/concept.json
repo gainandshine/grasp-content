@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-10.topic-01",
   "name": "Digital Information",
   "subject": "philosophy",
+  "summary": "Digital Information is a fundamental concept in philosophy.",
   "definition": "Digital Information is a fundamental concept in philosophy.",
   "explanation": "Learn about Digital Information and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "digital-information"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

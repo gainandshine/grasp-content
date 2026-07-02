@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-08.topic-07",
   "name": "Incineration",
   "subject": "chemistry",
+  "summary": "Incineration is a fundamental concept in chemistry.",
   "definition": "Incineration is a fundamental concept in chemistry.",
   "explanation": "Learn about Incineration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "incineration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

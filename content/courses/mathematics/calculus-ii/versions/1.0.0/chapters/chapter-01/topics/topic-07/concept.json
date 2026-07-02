@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-01.topic-07",
   "name": "Reduction Formulas",
   "subject": "mathematics",
+  "summary": "Reduction Formulas is a fundamental concept in mathematics.",
   "definition": "Reduction Formulas is a fundamental concept in mathematics.",
   "explanation": "Learn about Reduction Formulas and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "reduction-formulas"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

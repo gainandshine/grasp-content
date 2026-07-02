@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-05.topic-06",
   "name": "Criticism",
   "subject": "philosophy",
+  "summary": "Criticism is a fundamental concept in philosophy.",
   "definition": "Criticism is a fundamental concept in philosophy.",
   "explanation": "Learn about Criticism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "criticism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

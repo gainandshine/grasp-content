@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-13.topic-02",
   "name": "Chemical Engineering",
   "subject": "chemistry",
+  "summary": "Chemical Engineering is a fundamental concept in chemistry.",
   "definition": "Chemical Engineering is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Engineering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-engineering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

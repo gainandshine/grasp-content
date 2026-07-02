@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-04.topic-03",
   "name": "Long-Term Memory",
   "subject": "psychology",
+  "summary": "Long-Term Memory is a fundamental concept in psychology.",
   "definition": "Long-Term Memory is a fundamental concept in psychology.",
   "explanation": "Learn about Long-Term Memory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "long-term-memory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

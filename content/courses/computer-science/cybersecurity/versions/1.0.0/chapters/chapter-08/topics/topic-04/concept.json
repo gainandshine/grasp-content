@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-08.topic-04",
   "name": "Ransomware",
   "subject": "computer-science",
+  "summary": "Ransomware is a fundamental concept in computer-science.",
   "definition": "Ransomware is a fundamental concept in computer-science.",
   "explanation": "Learn about Ransomware and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ransomware"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

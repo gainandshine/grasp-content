@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-05.topic-04",
   "name": "Authorization",
   "subject": "computer-science",
+  "summary": "Authorization is a fundamental concept in computer-science.",
   "definition": "Authorization is a fundamental concept in computer-science.",
   "explanation": "Learn about Authorization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "authorization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

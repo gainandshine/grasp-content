@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-13.topic-05",
   "name": "Non-Classical Logic",
   "subject": "philosophy",
+  "summary": "Non-Classical Logic is a fundamental concept in philosophy.",
   "definition": "Non-Classical Logic is a fundamental concept in philosophy.",
   "explanation": "Learn about Non-Classical Logic and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "non-classical-logic"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

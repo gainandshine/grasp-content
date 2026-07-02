@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-11.topic-05",
   "name": "Calibration",
   "subject": "chemistry",
+  "summary": "Calibration is a fundamental concept in chemistry.",
   "definition": "Calibration is a fundamental concept in chemistry.",
   "explanation": "Learn about Calibration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "calibration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

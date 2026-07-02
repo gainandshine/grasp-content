@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-05.topic-02",
   "name": "Leadership Styles",
   "subject": "psychology",
+  "summary": "Leadership Styles is a fundamental concept in psychology.",
   "definition": "Leadership Styles is a fundamental concept in psychology.",
   "explanation": "Learn about Leadership Styles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "leadership-styles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

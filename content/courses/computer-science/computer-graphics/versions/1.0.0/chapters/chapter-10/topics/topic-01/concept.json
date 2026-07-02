@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-10.topic-01",
   "name": "Graphics Processing Units (GPUs)",
   "subject": "computer-science",
+  "summary": "Graphics Processing Units (GPUs) is a fundamental concept in computer-science.",
   "definition": "Graphics Processing Units (GPUs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Graphics Processing Units (GPUs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "graphics-processing-units-gpus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

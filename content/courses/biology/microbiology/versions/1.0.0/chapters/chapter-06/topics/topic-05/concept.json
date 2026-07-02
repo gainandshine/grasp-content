@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-06.topic-05",
   "name": "Apicomplexans",
   "subject": "biology",
+  "summary": "Apicomplexans is a fundamental concept in biology.",
   "definition": "Apicomplexans is a fundamental concept in biology.",
   "explanation": "Learn about Apicomplexans and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "apicomplexans"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

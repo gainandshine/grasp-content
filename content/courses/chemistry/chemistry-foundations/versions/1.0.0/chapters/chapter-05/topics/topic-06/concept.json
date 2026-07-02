@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-05.topic-06",
   "name": "Phase Changes",
   "subject": "chemistry",
+  "summary": "Phase Changes is a fundamental concept in chemistry.",
   "definition": "Phase Changes is a fundamental concept in chemistry.",
   "explanation": "Learn about Phase Changes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "phase-changes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

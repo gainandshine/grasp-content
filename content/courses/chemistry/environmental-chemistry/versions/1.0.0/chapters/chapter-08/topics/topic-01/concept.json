@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-08.topic-01",
   "name": "Solid Waste",
   "subject": "chemistry",
+  "summary": "Solid Waste is a fundamental concept in chemistry.",
   "definition": "Solid Waste is a fundamental concept in chemistry.",
   "explanation": "Learn about Solid Waste and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solid-waste"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-01.topic-05",
   "name": "Metaphysical Questions",
   "subject": "philosophy",
+  "summary": "Metaphysical Questions is a fundamental concept in philosophy.",
   "definition": "Metaphysical Questions is a fundamental concept in philosophy.",
   "explanation": "Learn about Metaphysical Questions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "metaphysical-questions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

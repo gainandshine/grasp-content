@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-08.topic-04",
   "name": "Hypothalamus",
   "subject": "biology",
+  "summary": "Hypothalamus is a fundamental concept in biology.",
   "definition": "Hypothalamus is a fundamental concept in biology.",
   "explanation": "Learn about Hypothalamus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "hypothalamus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

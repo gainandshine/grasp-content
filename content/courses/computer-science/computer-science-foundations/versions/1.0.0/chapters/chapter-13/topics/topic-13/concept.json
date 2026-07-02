@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-13",
   "name": "Input & Output",
   "subject": "computer-science",
+  "summary": "Input & Output is a fundamental concept in computer-science.",
   "definition": "Input & Output is a fundamental concept in computer-science.",
   "explanation": "Learn about Input & Output and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "input-output"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

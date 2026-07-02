@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-08.topic-05",
   "name": "Creativity",
   "subject": "psychology",
+  "summary": "Creativity is a fundamental concept in psychology.",
   "definition": "Creativity is a fundamental concept in psychology.",
   "explanation": "Learn about Creativity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "creativity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

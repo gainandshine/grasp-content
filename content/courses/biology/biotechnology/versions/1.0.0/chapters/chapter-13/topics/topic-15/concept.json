@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-15",
   "name": "Cellular Respiration",
   "subject": "biology",
+  "summary": "Cellular Respiration is a fundamental concept in biology.",
   "definition": "Cellular Respiration is a fundamental concept in biology.",
   "explanation": "Learn about Cellular Respiration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cellular-respiration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

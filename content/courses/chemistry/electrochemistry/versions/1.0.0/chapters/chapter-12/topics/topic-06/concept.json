@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-12.topic-06",
   "name": "Electrochemical CO₂ Reduction",
   "subject": "chemistry",
+  "summary": "Electrochemical CO₂ Reduction is a fundamental concept in chemistry.",
   "definition": "Electrochemical CO₂ Reduction is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrochemical CO₂ Reduction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrochemical-co-reduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

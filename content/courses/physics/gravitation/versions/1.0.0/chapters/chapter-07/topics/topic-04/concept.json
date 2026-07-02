@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-07.topic-04",
   "name": "Planetary Escape",
   "subject": "physics",
+  "summary": "Planetary Escape is a fundamental concept in physics.",
   "definition": "Planetary Escape is a fundamental concept in physics.",
   "explanation": "Learn about Planetary Escape and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "planetary-escape"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-11.topic-01",
   "name": "Connected Sets",
   "subject": "mathematics",
+  "summary": "Connected Sets is a fundamental concept in mathematics.",
   "definition": "Connected Sets is a fundamental concept in mathematics.",
   "explanation": "Learn about Connected Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "connected-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

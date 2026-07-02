@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-02.topic-03",
   "name": "Blocks (s, p, d, f)",
   "subject": "chemistry",
+  "summary": "Blocks (s, p, d, f) is a fundamental concept in chemistry.",
   "definition": "Blocks (s, p, d, f) is a fundamental concept in chemistry.",
   "explanation": "Learn about Blocks (s, p, d, f) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "blocks-s-p-d-f"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

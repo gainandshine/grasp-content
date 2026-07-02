@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-09.topic-02",
   "name": "Object Storage",
   "subject": "computer-science",
+  "summary": "Object Storage is a fundamental concept in computer-science.",
   "definition": "Object Storage is a fundamental concept in computer-science.",
   "explanation": "Learn about Object Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "object-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

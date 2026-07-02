@@ -2,6 +2,7 @@
   "id": "philosophy.history-of-philosophy.chapter-01.topic-06",
   "name": "Pythagorean Tradition",
   "subject": "philosophy",
+  "summary": "Pythagorean Tradition is a fundamental concept in philosophy.",
   "definition": "Pythagorean Tradition is a fundamental concept in philosophy.",
   "explanation": "Learn about Pythagorean Tradition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "pythagorean-tradition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

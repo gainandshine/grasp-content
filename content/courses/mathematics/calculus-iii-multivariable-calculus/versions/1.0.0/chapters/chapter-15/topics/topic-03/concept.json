@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-03",
   "name": "Heat Transfer",
   "subject": "mathematics",
+  "summary": "Heat Transfer is a fundamental concept in mathematics.",
   "definition": "Heat Transfer is a fundamental concept in mathematics.",
   "explanation": "Learn about Heat Transfer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "heat-transfer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

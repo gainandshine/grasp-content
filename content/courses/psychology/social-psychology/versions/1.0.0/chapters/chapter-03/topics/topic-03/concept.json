@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-03.topic-03",
   "name": "Fundamental Attribution Error",
   "subject": "psychology",
+  "summary": "Fundamental Attribution Error is a fundamental concept in psychology.",
   "definition": "Fundamental Attribution Error is a fundamental concept in psychology.",
   "explanation": "Learn about Fundamental Attribution Error and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "fundamental-attribution-error"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

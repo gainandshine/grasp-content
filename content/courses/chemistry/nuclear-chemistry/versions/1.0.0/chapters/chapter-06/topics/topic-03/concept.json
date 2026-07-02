@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-06.topic-03",
   "name": "Stellar Fusion",
   "subject": "chemistry",
+  "summary": "Stellar Fusion is a fundamental concept in chemistry.",
   "definition": "Stellar Fusion is a fundamental concept in chemistry.",
   "explanation": "Learn about Stellar Fusion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "stellar-fusion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-01.topic-02",
   "name": "Octet Rule",
   "subject": "chemistry",
+  "summary": "Octet Rule is a fundamental concept in chemistry.",
   "definition": "Octet Rule is a fundamental concept in chemistry.",
   "explanation": "Learn about Octet Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "octet-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

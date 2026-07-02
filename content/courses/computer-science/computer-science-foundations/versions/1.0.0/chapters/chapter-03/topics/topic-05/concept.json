@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-03.topic-05",
   "name": "Decimal, Binary & Hexadecimal",
   "subject": "computer-science",
+  "summary": "Decimal, Binary & Hexadecimal is a fundamental concept in computer-science.",
   "definition": "Decimal, Binary & Hexadecimal is a fundamental concept in computer-science.",
   "explanation": "Learn about Decimal, Binary & Hexadecimal and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "decimal-binary-hexadecimal"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

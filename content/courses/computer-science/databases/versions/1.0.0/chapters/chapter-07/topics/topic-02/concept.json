@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-07.topic-02",
   "name": "ACID Properties",
   "subject": "computer-science",
+  "summary": "ACID Properties is a fundamental concept in computer-science.",
   "definition": "ACID Properties is a fundamental concept in computer-science.",
   "explanation": "Learn about ACID Properties and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "acid-properties"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

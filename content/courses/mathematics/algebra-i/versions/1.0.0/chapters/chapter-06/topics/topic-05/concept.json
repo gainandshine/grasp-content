@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-06.topic-05",
   "name": "Systems of Inequalities",
   "subject": "mathematics",
+  "summary": "Systems of Inequalities is a fundamental concept in mathematics.",
   "definition": "Systems of Inequalities is a fundamental concept in mathematics.",
   "explanation": "Learn about Systems of Inequalities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "systems-of-inequalities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

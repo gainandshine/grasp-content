@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-07.topic-04",
   "name": "Achievement Motivation",
   "subject": "psychology",
+  "summary": "Achievement Motivation is a fundamental concept in psychology.",
   "definition": "Achievement Motivation is a fundamental concept in psychology.",
   "explanation": "Learn about Achievement Motivation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "achievement-motivation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

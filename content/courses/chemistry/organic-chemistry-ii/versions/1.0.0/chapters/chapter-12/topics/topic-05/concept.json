@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-12.topic-05",
   "name": "Fragrances",
   "subject": "chemistry",
+  "summary": "Fragrances is a fundamental concept in chemistry.",
   "definition": "Fragrances is a fundamental concept in chemistry.",
   "explanation": "Learn about Fragrances and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fragrances"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-08.topic-04",
   "name": "Algebraic Extensions",
   "subject": "mathematics",
+  "summary": "Algebraic Extensions is a fundamental concept in mathematics.",
   "definition": "Algebraic Extensions is a fundamental concept in mathematics.",
   "explanation": "Learn about Algebraic Extensions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "algebraic-extensions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

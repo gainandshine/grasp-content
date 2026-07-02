@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-01.topic-05",
   "name": "Initial Value Problems (IVP)",
   "subject": "mathematics",
+  "summary": "Initial Value Problems (IVP) is a fundamental concept in mathematics.",
   "definition": "Initial Value Problems (IVP) is a fundamental concept in mathematics.",
   "explanation": "Learn about Initial Value Problems (IVP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "initial-value-problems-ivp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

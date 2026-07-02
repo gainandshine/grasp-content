@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-01.topic-03",
   "name": "Matter",
   "subject": "chemistry",
+  "summary": "Matter is a fundamental concept in chemistry.",
   "definition": "Matter is a fundamental concept in chemistry.",
   "explanation": "Learn about Matter and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "matter"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

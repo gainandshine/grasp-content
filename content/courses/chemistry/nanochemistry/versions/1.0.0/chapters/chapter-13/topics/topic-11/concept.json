@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-13.topic-11",
   "name": "Nuclear Reactions",
   "subject": "chemistry",
+  "summary": "Nuclear Reactions is a fundamental concept in chemistry.",
   "definition": "Nuclear Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Nuclear Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nuclear-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-12.topic-01",
   "name": "Security Policies",
   "subject": "computer-science",
+  "summary": "Security Policies is a fundamental concept in computer-science.",
   "definition": "Security Policies is a fundamental concept in computer-science.",
   "explanation": "Learn about Security Policies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "security-policies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

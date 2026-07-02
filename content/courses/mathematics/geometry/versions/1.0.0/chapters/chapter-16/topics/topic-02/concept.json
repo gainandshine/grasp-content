@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-16.topic-02",
   "name": "Cosine",
   "subject": "mathematics",
+  "summary": "Cosine is a fundamental concept in mathematics.",
   "definition": "Cosine is a fundamental concept in mathematics.",
   "explanation": "Learn about Cosine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "cosine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-02.topic-05",
   "name": "Derivative Notation",
   "subject": "mathematics",
+  "summary": "Derivative Notation is a fundamental concept in mathematics.",
   "definition": "Derivative Notation is a fundamental concept in mathematics.",
   "explanation": "Learn about Derivative Notation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "derivative-notation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

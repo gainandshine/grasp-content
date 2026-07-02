@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-09.topic-03",
   "name": "Distributed Databases",
   "subject": "computer-science",
+  "summary": "Distributed Databases is a fundamental concept in computer-science.",
   "definition": "Distributed Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about Distributed Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "distributed-databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

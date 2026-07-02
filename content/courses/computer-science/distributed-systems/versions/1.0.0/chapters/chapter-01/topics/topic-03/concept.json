@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-01.topic-03",
   "name": "Advantages & Challenges",
   "subject": "computer-science",
+  "summary": "Advantages & Challenges is a fundamental concept in computer-science.",
   "definition": "Advantages & Challenges is a fundamental concept in computer-science.",
   "explanation": "Learn about Advantages & Challenges and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "advantages-challenges"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

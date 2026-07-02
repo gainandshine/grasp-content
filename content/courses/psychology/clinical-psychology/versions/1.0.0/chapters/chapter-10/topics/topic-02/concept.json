@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-10.topic-02",
   "name": "Informed Consent",
   "subject": "psychology",
+  "summary": "Informed Consent is a fundamental concept in psychology.",
   "definition": "Informed Consent is a fundamental concept in psychology.",
   "explanation": "Learn about Informed Consent and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "informed-consent"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

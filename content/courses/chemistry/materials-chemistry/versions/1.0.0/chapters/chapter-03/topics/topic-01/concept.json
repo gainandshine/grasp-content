@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-03.topic-01",
   "name": "Metallic Bonding",
   "subject": "chemistry",
+  "summary": "Metallic Bonding is a fundamental concept in chemistry.",
   "definition": "Metallic Bonding is a fundamental concept in chemistry.",
   "explanation": "Learn about Metallic Bonding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metallic-bonding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

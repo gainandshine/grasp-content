@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-11.topic-03",
   "name": "Boiling",
   "subject": "physics",
+  "summary": "Boiling is a fundamental concept in physics.",
   "definition": "Boiling is a fundamental concept in physics.",
   "explanation": "Learn about Boiling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "boiling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

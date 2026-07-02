@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-02.topic-05",
   "name": "Convex Mirrors",
   "subject": "physics",
+  "summary": "Convex Mirrors is a fundamental concept in physics.",
   "definition": "Convex Mirrors is a fundamental concept in physics.",
   "explanation": "Learn about Convex Mirrors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "convex-mirrors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

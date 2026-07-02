@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-13.topic-04",
   "name": "Code Formatters",
   "subject": "computer-science",
+  "summary": "Code Formatters is a fundamental concept in computer-science.",
   "definition": "Code Formatters is a fundamental concept in computer-science.",
   "explanation": "Learn about Code Formatters and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "code-formatters"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

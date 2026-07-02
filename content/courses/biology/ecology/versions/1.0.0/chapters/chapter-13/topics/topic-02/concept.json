@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-13.topic-02",
   "name": "Ecosystem Services",
   "subject": "biology",
+  "summary": "Ecosystem Services is a fundamental concept in biology.",
   "definition": "Ecosystem Services is a fundamental concept in biology.",
   "explanation": "Learn about Ecosystem Services and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "ecosystem-services"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

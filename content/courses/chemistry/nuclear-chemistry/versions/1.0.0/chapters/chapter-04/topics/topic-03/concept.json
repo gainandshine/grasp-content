@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-04.topic-03",
   "name": "Induced Radioactivity",
   "subject": "chemistry",
+  "summary": "Induced Radioactivity is a fundamental concept in chemistry.",
   "definition": "Induced Radioactivity is a fundamental concept in chemistry.",
   "explanation": "Learn about Induced Radioactivity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "induced-radioactivity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

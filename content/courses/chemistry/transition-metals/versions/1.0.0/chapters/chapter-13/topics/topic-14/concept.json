@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-13.topic-14",
   "name": "Chelation",
   "subject": "chemistry",
+  "summary": "Chelation is a fundamental concept in chemistry.",
   "definition": "Chelation is a fundamental concept in chemistry.",
   "explanation": "Learn about Chelation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chelation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

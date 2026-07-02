@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-08.topic-04",
   "name": "Failover",
   "subject": "computer-science",
+  "summary": "Failover is a fundamental concept in computer-science.",
   "definition": "Failover is a fundamental concept in computer-science.",
   "explanation": "Learn about Failover and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "failover"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

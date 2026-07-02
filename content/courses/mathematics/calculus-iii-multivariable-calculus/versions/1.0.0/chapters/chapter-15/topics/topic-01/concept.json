@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-01",
   "name": "Fluid Flow",
   "subject": "mathematics",
+  "summary": "Fluid Flow is a fundamental concept in mathematics.",
   "definition": "Fluid Flow is a fundamental concept in mathematics.",
   "explanation": "Learn about Fluid Flow and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "fluid-flow"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

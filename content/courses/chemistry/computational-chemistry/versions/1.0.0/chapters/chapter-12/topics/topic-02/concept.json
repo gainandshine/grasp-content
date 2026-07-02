@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-12.topic-02",
   "name": "GPU Computing",
   "subject": "chemistry",
+  "summary": "GPU Computing is a fundamental concept in chemistry.",
   "definition": "GPU Computing is a fundamental concept in chemistry.",
   "explanation": "Learn about GPU Computing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "gpu-computing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

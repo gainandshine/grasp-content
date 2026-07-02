@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-09.topic-01",
   "name": "t-Tests",
   "subject": "psychology",
+  "summary": "t-Tests is a fundamental concept in psychology.",
   "definition": "t-Tests is a fundamental concept in psychology.",
   "explanation": "Learn about t-Tests and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "t-tests"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-02.topic-06",
   "name": "Metalloids",
   "subject": "chemistry",
+  "summary": "Metalloids is a fundamental concept in chemistry.",
   "definition": "Metalloids is a fundamental concept in chemistry.",
   "explanation": "Learn about Metalloids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metalloids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

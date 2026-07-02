@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-13.topic-09",
   "name": "Infancy",
   "subject": "psychology",
+  "summary": "Infancy is a fundamental concept in psychology.",
   "definition": "Infancy is a fundamental concept in psychology.",
   "explanation": "Learn about Infancy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "infancy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

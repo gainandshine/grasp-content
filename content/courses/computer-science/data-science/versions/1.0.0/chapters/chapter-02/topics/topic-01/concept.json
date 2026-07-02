@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-02.topic-01",
   "name": "Data Sources",
   "subject": "computer-science",
+  "summary": "Data Sources is a fundamental concept in computer-science.",
   "definition": "Data Sources is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Sources and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-sources"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

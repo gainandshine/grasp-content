@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-09.topic-05",
   "name": "Binary Systems",
   "subject": "physics",
+  "summary": "Binary Systems is a fundamental concept in physics.",
   "definition": "Binary Systems is a fundamental concept in physics.",
   "explanation": "Learn about Binary Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "binary-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

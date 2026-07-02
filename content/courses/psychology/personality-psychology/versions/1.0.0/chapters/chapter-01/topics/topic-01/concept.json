@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-01.topic-01",
   "name": "What is Personality?",
   "subject": "psychology",
+  "summary": "What is Personality? is a fundamental concept in psychology.",
   "definition": "What is Personality? is a fundamental concept in psychology.",
   "explanation": "Learn about What is Personality? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "what-is-personality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

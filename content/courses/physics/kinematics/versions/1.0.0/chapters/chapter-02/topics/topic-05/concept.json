@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-02.topic-05",
   "name": "Non-Uniform Acceleration",
   "subject": "physics",
+  "summary": "Non-Uniform Acceleration is a fundamental concept in physics.",
   "definition": "Non-Uniform Acceleration is a fundamental concept in physics.",
   "explanation": "Learn about Non-Uniform Acceleration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "non-uniform-acceleration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

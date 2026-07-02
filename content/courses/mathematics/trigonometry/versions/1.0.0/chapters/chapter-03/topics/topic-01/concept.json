@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-03.topic-01",
   "name": "Unit Circle Basics",
   "subject": "mathematics",
+  "summary": "Unit Circle Basics is a fundamental concept in mathematics.",
   "definition": "Unit Circle Basics is a fundamental concept in mathematics.",
   "explanation": "Learn about Unit Circle Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "unit-circle-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

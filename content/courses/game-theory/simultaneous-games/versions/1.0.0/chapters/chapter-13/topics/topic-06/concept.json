@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-13.topic-06",
   "name": "Modern Applications",
   "subject": "game-theory",
+  "summary": "Modern Applications is a fundamental concept in game-theory.",
   "definition": "Modern Applications is a fundamental concept in game-theory.",
   "explanation": "Learn about Modern Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "modern-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

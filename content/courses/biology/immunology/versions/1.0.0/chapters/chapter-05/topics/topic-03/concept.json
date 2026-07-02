@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-05.topic-03",
   "name": "Helper T Cells",
   "subject": "biology",
+  "summary": "Helper T Cells is a fundamental concept in biology.",
   "definition": "Helper T Cells is a fundamental concept in biology.",
   "explanation": "Learn about Helper T Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "helper-t-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

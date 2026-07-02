@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-10.topic-02",
   "name": "Atomic Density",
   "subject": "chemistry",
+  "summary": "Atomic Density is a fundamental concept in chemistry.",
   "definition": "Atomic Density is a fundamental concept in chemistry.",
   "explanation": "Learn about Atomic Density and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atomic-density"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

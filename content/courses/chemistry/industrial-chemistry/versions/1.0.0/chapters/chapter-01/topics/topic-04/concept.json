@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-01.topic-04",
   "name": "Raw Materials",
   "subject": "chemistry",
+  "summary": "Raw Materials is a fundamental concept in chemistry.",
   "definition": "Raw Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Raw Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "raw-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

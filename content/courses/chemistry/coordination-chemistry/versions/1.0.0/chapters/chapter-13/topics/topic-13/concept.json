@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-13.topic-13",
   "name": "Alkanes",
   "subject": "chemistry",
+  "summary": "Alkanes is a fundamental concept in chemistry.",
   "definition": "Alkanes is a fundamental concept in chemistry.",
   "explanation": "Learn about Alkanes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "alkanes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

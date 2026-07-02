@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-07.topic-02",
   "name": "Trigonometric Graphs",
   "subject": "mathematics",
+  "summary": "Trigonometric Graphs is a fundamental concept in mathematics.",
   "definition": "Trigonometric Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Trigonometric Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "trigonometric-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

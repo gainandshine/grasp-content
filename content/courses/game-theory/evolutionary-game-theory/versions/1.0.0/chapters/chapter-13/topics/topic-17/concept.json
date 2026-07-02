@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-13.topic-17",
   "name": "Platform Design",
   "subject": "game-theory",
+  "summary": "Platform Design is a fundamental concept in game-theory.",
   "definition": "Platform Design is a fundamental concept in game-theory.",
   "explanation": "Learn about Platform Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "platform-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

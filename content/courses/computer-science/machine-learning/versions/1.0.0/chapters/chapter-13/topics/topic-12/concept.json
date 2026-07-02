@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-13.topic-12",
   "name": "Exploratory Data Analysis (EDA)",
   "subject": "computer-science",
+  "summary": "Exploratory Data Analysis (EDA) is a fundamental concept in computer-science.",
   "definition": "Exploratory Data Analysis (EDA) is a fundamental concept in computer-science.",
   "explanation": "Learn about Exploratory Data Analysis (EDA) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "exploratory-data-analysis-eda"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

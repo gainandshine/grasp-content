@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-11.topic-06",
   "name": "Medical Ethics",
   "subject": "philosophy",
+  "summary": "Medical Ethics is a fundamental concept in philosophy.",
   "definition": "Medical Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Medical Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "medical-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

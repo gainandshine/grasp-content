@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-13.topic-17",
   "name": "Creativity",
   "subject": "psychology",
+  "summary": "Creativity is a fundamental concept in psychology.",
   "definition": "Creativity is a fundamental concept in psychology.",
   "explanation": "Learn about Creativity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "creativity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

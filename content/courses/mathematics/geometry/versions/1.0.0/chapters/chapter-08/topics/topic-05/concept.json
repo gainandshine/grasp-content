@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-08.topic-05",
   "name": "Trapezoids",
   "subject": "mathematics",
+  "summary": "Trapezoids is a fundamental concept in mathematics.",
   "definition": "Trapezoids is a fundamental concept in mathematics.",
   "explanation": "Learn about Trapezoids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "trapezoids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

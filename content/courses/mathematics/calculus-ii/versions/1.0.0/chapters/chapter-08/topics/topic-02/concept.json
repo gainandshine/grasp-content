@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-08.topic-02",
   "name": "Maclaurin Series",
   "subject": "mathematics",
+  "summary": "Maclaurin Series is a fundamental concept in mathematics.",
   "definition": "Maclaurin Series is a fundamental concept in mathematics.",
   "explanation": "Learn about Maclaurin Series and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "maclaurin-series"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

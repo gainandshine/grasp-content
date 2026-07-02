@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-10.topic-03",
   "name": "Poisson Process",
   "subject": "mathematics",
+  "summary": "Poisson Process is a fundamental concept in mathematics.",
   "definition": "Poisson Process is a fundamental concept in mathematics.",
   "explanation": "Learn about Poisson Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "poisson-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

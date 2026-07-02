@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-07.topic-01",
   "name": "Tension Force",
   "subject": "physics",
+  "summary": "Tension Force is a fundamental concept in physics.",
   "definition": "Tension Force is a fundamental concept in physics.",
   "explanation": "Learn about Tension Force and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "tension-force"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-13.topic-10",
   "name": "Cryptography",
   "subject": "computer-science",
+  "summary": "Cryptography is a fundamental concept in computer-science.",
   "definition": "Cryptography is a fundamental concept in computer-science.",
   "explanation": "Learn about Cryptography and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cryptography"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

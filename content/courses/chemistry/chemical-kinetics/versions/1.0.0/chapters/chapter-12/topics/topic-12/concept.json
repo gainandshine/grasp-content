@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-12.topic-12",
   "name": "Nitrogen Group",
   "subject": "chemistry",
+  "summary": "Nitrogen Group is a fundamental concept in chemistry.",
   "definition": "Nitrogen Group is a fundamental concept in chemistry.",
   "explanation": "Learn about Nitrogen Group and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nitrogen-group"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

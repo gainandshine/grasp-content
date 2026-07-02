@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-02.topic-05",
   "name": "Optimization",
   "subject": "chemistry",
+  "summary": "Optimization is a fundamental concept in chemistry.",
   "definition": "Optimization is a fundamental concept in chemistry.",
   "explanation": "Learn about Optimization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "optimization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

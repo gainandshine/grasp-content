@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-08.topic-05",
   "name": "Alternating Offers",
   "subject": "game-theory",
+  "summary": "Alternating Offers is a fundamental concept in game-theory.",
   "definition": "Alternating Offers is a fundamental concept in game-theory.",
   "explanation": "Learn about Alternating Offers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "alternating-offers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

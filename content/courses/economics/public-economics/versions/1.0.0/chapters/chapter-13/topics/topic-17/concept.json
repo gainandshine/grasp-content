@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-13.topic-17",
   "name": "Digital Currencies",
   "subject": "economics",
+  "summary": "Digital Currencies is a fundamental concept in economics.",
   "definition": "Digital Currencies is a fundamental concept in economics.",
   "explanation": "Learn about Digital Currencies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "digital-currencies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

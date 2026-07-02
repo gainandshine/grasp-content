@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-16",
   "name": "Functions",
   "subject": "computer-science",
+  "summary": "Functions is a fundamental concept in computer-science.",
   "definition": "Functions is a fundamental concept in computer-science.",
   "explanation": "Learn about Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

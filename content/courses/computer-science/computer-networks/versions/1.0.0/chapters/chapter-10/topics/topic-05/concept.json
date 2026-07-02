@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-10.topic-05",
   "name": "Intrusion Detection Systems (IDS)",
   "subject": "computer-science",
+  "summary": "Intrusion Detection Systems (IDS) is a fundamental concept in computer-science.",
   "definition": "Intrusion Detection Systems (IDS) is a fundamental concept in computer-science.",
   "explanation": "Learn about Intrusion Detection Systems (IDS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "intrusion-detection-systems-ids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

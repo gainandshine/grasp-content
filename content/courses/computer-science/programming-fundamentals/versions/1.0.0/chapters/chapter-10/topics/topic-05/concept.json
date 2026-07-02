@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-10.topic-05",
   "name": "Assertions",
   "subject": "computer-science",
+  "summary": "Assertions is a fundamental concept in computer-science.",
   "definition": "Assertions is a fundamental concept in computer-science.",
   "explanation": "Learn about Assertions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "assertions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

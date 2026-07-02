@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-12.topic-02",
   "name": "Ping",
   "subject": "computer-science",
+  "summary": "Ping is a fundamental concept in computer-science.",
   "definition": "Ping is a fundamental concept in computer-science.",
   "explanation": "Learn about Ping and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ping"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-14.topic-01",
   "name": "Mechanical Vibrations",
   "subject": "mathematics",
+  "summary": "Mechanical Vibrations is a fundamental concept in mathematics.",
   "definition": "Mechanical Vibrations is a fundamental concept in mathematics.",
   "explanation": "Learn about Mechanical Vibrations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mechanical-vibrations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-07.topic-02",
   "name": "Three-Phase Commit (3PC)",
   "subject": "computer-science",
+  "summary": "Three-Phase Commit (3PC) is a fundamental concept in computer-science.",
   "definition": "Three-Phase Commit (3PC) is a fundamental concept in computer-science.",
   "explanation": "Learn about Three-Phase Commit (3PC) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "three-phase-commit-3pc"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

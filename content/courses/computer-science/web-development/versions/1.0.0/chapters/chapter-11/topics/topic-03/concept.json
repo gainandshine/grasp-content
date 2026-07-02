@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-11.topic-03",
   "name": "Environment Variables",
   "subject": "computer-science",
+  "summary": "Environment Variables is a fundamental concept in computer-science.",
   "definition": "Environment Variables is a fundamental concept in computer-science.",
   "explanation": "Learn about Environment Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "environment-variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

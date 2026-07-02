@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-08.topic-02",
   "name": "Variables",
   "subject": "physics",
+  "summary": "Variables is a fundamental concept in physics.",
   "definition": "Variables is a fundamental concept in physics.",
   "explanation": "Learn about Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

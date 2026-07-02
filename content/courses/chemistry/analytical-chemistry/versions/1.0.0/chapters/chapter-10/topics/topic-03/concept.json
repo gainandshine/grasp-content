@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-10.topic-03",
   "name": "Internal Standards",
   "subject": "chemistry",
+  "summary": "Internal Standards is a fundamental concept in chemistry.",
   "definition": "Internal Standards is a fundamental concept in chemistry.",
   "explanation": "Learn about Internal Standards and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "internal-standards"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

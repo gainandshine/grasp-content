@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-06.topic-03",
   "name": "Brain & Personality",
   "subject": "psychology",
+  "summary": "Brain & Personality is a fundamental concept in psychology.",
   "definition": "Brain & Personality is a fundamental concept in psychology.",
   "explanation": "Learn about Brain & Personality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "brain-personality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

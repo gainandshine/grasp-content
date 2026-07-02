@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-03.topic-03",
   "name": "End Behavior",
   "subject": "mathematics",
+  "summary": "End Behavior is a fundamental concept in mathematics.",
   "definition": "End Behavior is a fundamental concept in mathematics.",
   "explanation": "Learn about End Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "end-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-03.topic-05",
   "name": "Pseudo-First-Order Reactions",
   "subject": "chemistry",
+  "summary": "Pseudo-First-Order Reactions is a fundamental concept in chemistry.",
   "definition": "Pseudo-First-Order Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Pseudo-First-Order Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "pseudo-first-order-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

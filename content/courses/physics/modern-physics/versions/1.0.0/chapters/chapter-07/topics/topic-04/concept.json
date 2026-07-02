@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-07.topic-04",
   "name": "Electron Spin",
   "subject": "physics",
+  "summary": "Electron Spin is a fundamental concept in physics.",
   "definition": "Electron Spin is a fundamental concept in physics.",
   "explanation": "Learn about Electron Spin and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electron-spin"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

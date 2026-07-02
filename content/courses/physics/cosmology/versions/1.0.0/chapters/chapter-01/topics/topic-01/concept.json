@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-01.topic-01",
   "name": "What is Cosmology?",
   "subject": "physics",
+  "summary": "What is Cosmology? is a fundamental concept in physics.",
   "definition": "What is Cosmology? is a fundamental concept in physics.",
   "explanation": "Learn about What is Cosmology? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "what-is-cosmology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

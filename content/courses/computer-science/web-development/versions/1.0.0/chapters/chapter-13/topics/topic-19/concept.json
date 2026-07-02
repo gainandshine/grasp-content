@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-13.topic-19",
   "name": "Push Notifications",
   "subject": "computer-science",
+  "summary": "Push Notifications is a fundamental concept in computer-science.",
   "definition": "Push Notifications is a fundamental concept in computer-science.",
   "explanation": "Learn about Push Notifications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "push-notifications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

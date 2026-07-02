@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-03.topic-05",
   "name": "Cognitive Biases",
   "subject": "psychology",
+  "summary": "Cognitive Biases is a fundamental concept in psychology.",
   "definition": "Cognitive Biases is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Biases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-biases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

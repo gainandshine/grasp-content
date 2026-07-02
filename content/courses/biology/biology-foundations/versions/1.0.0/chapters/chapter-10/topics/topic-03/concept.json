@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-10.topic-03",
   "name": "Natural Selection (Overview)",
   "subject": "biology",
+  "summary": "Natural Selection (Overview) is a fundamental concept in biology.",
   "definition": "Natural Selection (Overview) is a fundamental concept in biology.",
   "explanation": "Learn about Natural Selection (Overview) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "natural-selection-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

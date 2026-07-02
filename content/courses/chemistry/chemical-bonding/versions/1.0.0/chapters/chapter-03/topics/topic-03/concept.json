@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-03.topic-03",
   "name": "Double Bond",
   "subject": "chemistry",
+  "summary": "Double Bond is a fundamental concept in chemistry.",
   "definition": "Double Bond is a fundamental concept in chemistry.",
   "explanation": "Learn about Double Bond and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "double-bond"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

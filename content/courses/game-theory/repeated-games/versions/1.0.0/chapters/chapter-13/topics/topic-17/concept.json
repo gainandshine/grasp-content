@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-13.topic-17",
   "name": "Network Cooperation",
   "subject": "game-theory",
+  "summary": "Network Cooperation is a fundamental concept in game-theory.",
   "definition": "Network Cooperation is a fundamental concept in game-theory.",
   "explanation": "Learn about Network Cooperation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "network-cooperation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-09.topic-03",
   "name": "Tokenization",
   "subject": "computer-science",
+  "summary": "Tokenization is a fundamental concept in computer-science.",
   "definition": "Tokenization is a fundamental concept in computer-science.",
   "explanation": "Learn about Tokenization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "tokenization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

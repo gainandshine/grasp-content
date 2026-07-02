@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-02.topic-04",
   "name": "Conditioned Stimulus (CS)",
   "subject": "psychology",
+  "summary": "Conditioned Stimulus (CS) is a fundamental concept in psychology.",
   "definition": "Conditioned Stimulus (CS) is a fundamental concept in psychology.",
   "explanation": "Learn about Conditioned Stimulus (CS) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "conditioned-stimulus-cs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

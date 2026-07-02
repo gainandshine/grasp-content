@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-11.topic-04",
   "name": "Plasma Cutting",
   "subject": "physics",
+  "summary": "Plasma Cutting is a fundamental concept in physics.",
   "definition": "Plasma Cutting is a fundamental concept in physics.",
   "explanation": "Learn about Plasma Cutting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plasma-cutting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

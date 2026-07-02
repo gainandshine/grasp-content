@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-13.topic-15",
   "name": "Biology",
   "subject": "game-theory",
+  "summary": "Biology is a fundamental concept in game-theory.",
   "definition": "Biology is a fundamental concept in game-theory.",
   "explanation": "Learn about Biology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "biology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

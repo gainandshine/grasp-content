@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-02.topic-02",
   "name": "Translational Kinetic Energy",
   "subject": "physics",
+  "summary": "Translational Kinetic Energy is a fundamental concept in physics.",
   "definition": "Translational Kinetic Energy is a fundamental concept in physics.",
   "explanation": "Learn about Translational Kinetic Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "translational-kinetic-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

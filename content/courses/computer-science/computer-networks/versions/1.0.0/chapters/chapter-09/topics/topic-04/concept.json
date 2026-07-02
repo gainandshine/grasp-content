@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-09.topic-04",
   "name": "NFC",
   "subject": "computer-science",
+  "summary": "NFC is a fundamental concept in computer-science.",
   "definition": "NFC is a fundamental concept in computer-science.",
   "explanation": "Learn about NFC and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "nfc"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

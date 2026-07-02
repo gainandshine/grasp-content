@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-12",
   "name": "Viruses",
   "subject": "biology",
+  "summary": "Viruses is a fundamental concept in biology.",
   "definition": "Viruses is a fundamental concept in biology.",
   "explanation": "Learn about Viruses and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "viruses"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

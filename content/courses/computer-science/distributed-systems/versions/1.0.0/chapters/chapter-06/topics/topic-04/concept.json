@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-06.topic-04",
   "name": "Leader Election",
   "subject": "computer-science",
+  "summary": "Leader Election is a fundamental concept in computer-science.",
   "definition": "Leader Election is a fundamental concept in computer-science.",
   "explanation": "Learn about Leader Election and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "leader-election"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-11",
   "name": "Time & Ordering",
   "subject": "computer-science",
+  "summary": "Time & Ordering is a fundamental concept in computer-science.",
   "definition": "Time & Ordering is a fundamental concept in computer-science.",
   "explanation": "Learn about Time & Ordering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "time-ordering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

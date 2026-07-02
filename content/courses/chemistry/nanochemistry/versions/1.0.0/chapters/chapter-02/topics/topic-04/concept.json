@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-02.topic-04",
   "name": "Nanorods",
   "subject": "chemistry",
+  "summary": "Nanorods is a fundamental concept in chemistry.",
   "definition": "Nanorods is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanorods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanorods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

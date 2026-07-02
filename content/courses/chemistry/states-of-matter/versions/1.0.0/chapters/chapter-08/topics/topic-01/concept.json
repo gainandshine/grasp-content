@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-08.topic-01",
   "name": "Melting",
   "subject": "chemistry",
+  "summary": "Melting is a fundamental concept in chemistry.",
   "definition": "Melting is a fundamental concept in chemistry.",
   "explanation": "Learn about Melting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "melting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

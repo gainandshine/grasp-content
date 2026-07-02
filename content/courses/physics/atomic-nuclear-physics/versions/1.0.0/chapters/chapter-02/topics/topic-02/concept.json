@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-02.topic-02",
   "name": "Absorption Spectra",
   "subject": "physics",
+  "summary": "Absorption Spectra is a fundamental concept in physics.",
   "definition": "Absorption Spectra is a fundamental concept in physics.",
   "explanation": "Learn about Absorption Spectra and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "absorption-spectra"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

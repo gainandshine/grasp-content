@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-09.topic-04",
   "name": "Hydrogen Bonding",
   "subject": "chemistry",
+  "summary": "Hydrogen Bonding is a fundamental concept in chemistry.",
   "definition": "Hydrogen Bonding is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrogen Bonding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrogen-bonding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

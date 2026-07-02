@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-09.topic-03",
   "name": "Hypersensitivity Reactions",
   "subject": "biology",
+  "summary": "Hypersensitivity Reactions is a fundamental concept in biology.",
   "definition": "Hypersensitivity Reactions is a fundamental concept in biology.",
   "explanation": "Learn about Hypersensitivity Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "hypersensitivity-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

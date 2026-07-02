@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-08.topic-03",
   "name": "Conductivity",
   "subject": "chemistry",
+  "summary": "Conductivity is a fundamental concept in chemistry.",
   "definition": "Conductivity is a fundamental concept in chemistry.",
   "explanation": "Learn about Conductivity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "conductivity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

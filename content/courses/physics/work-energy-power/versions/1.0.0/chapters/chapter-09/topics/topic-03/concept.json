@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-09.topic-03",
   "name": "External Work",
   "subject": "physics",
+  "summary": "External Work is a fundamental concept in physics.",
   "definition": "External Work is a fundamental concept in physics.",
   "explanation": "Learn about External Work and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "external-work"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-10.topic-05",
   "name": "Digital Transformation",
   "subject": "psychology",
+  "summary": "Digital Transformation is a fundamental concept in psychology.",
   "definition": "Digital Transformation is a fundamental concept in psychology.",
   "explanation": "Learn about Digital Transformation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "digital-transformation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

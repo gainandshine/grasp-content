@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-13.topic-01",
   "name": "Regression",
   "subject": "mathematics",
+  "summary": "Regression is a fundamental concept in mathematics.",
   "definition": "Regression is a fundamental concept in mathematics.",
   "explanation": "Learn about Regression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "regression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

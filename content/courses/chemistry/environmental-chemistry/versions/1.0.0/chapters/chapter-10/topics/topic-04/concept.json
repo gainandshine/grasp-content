@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-10.topic-04",
   "name": "Safer Solvents",
   "subject": "chemistry",
+  "summary": "Safer Solvents is a fundamental concept in chemistry.",
   "definition": "Safer Solvents is a fundamental concept in chemistry.",
   "explanation": "Learn about Safer Solvents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "safer-solvents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

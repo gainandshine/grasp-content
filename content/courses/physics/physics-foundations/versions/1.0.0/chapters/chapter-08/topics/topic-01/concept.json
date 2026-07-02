@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-08.topic-01",
   "name": "Experimental Design",
   "subject": "physics",
+  "summary": "Experimental Design is a fundamental concept in physics.",
   "definition": "Experimental Design is a fundamental concept in physics.",
   "explanation": "Learn about Experimental Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "experimental-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

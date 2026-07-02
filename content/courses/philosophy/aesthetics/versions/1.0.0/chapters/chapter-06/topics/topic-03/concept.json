@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-06.topic-03",
   "name": "Fiction",
   "subject": "philosophy",
+  "summary": "Fiction is a fundamental concept in philosophy.",
   "definition": "Fiction is a fundamental concept in philosophy.",
   "explanation": "Learn about Fiction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "fiction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

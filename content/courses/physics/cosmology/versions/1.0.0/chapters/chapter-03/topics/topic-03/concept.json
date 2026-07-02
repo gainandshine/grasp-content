@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-03.topic-03",
   "name": "Inflation",
   "subject": "physics",
+  "summary": "Inflation is a fundamental concept in physics.",
   "definition": "Inflation is a fundamental concept in physics.",
   "explanation": "Learn about Inflation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "inflation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

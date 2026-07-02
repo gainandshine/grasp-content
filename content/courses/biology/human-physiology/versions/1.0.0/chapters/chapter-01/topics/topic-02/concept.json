@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-01.topic-02",
   "name": "Homeostasis",
   "subject": "biology",
+  "summary": "Homeostasis is a fundamental concept in biology.",
   "definition": "Homeostasis is a fundamental concept in biology.",
   "explanation": "Learn about Homeostasis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "homeostasis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

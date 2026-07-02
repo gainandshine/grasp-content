@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-09.topic-02",
   "name": "Pipeline Hazards",
   "subject": "computer-science",
+  "summary": "Pipeline Hazards is a fundamental concept in computer-science.",
   "definition": "Pipeline Hazards is a fundamental concept in computer-science.",
   "explanation": "Learn about Pipeline Hazards and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "pipeline-hazards"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

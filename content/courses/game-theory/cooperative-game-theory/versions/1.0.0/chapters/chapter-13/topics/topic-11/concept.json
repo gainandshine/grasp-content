@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-13.topic-11",
   "name": "Dutch Auctions",
   "subject": "game-theory",
+  "summary": "Dutch Auctions is a fundamental concept in game-theory.",
   "definition": "Dutch Auctions is a fundamental concept in game-theory.",
   "explanation": "Learn about Dutch Auctions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "dutch-auctions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

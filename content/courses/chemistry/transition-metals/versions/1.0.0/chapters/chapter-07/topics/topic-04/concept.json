@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-07.topic-04",
   "name": "Industrial Catalysts",
   "subject": "chemistry",
+  "summary": "Industrial Catalysts is a fundamental concept in chemistry.",
   "definition": "Industrial Catalysts is a fundamental concept in chemistry.",
   "explanation": "Learn about Industrial Catalysts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "industrial-catalysts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

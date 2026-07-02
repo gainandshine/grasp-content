@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-09.topic-07",
   "name": "Algorithm Efficiency (Introduction)",
   "subject": "computer-science",
+  "summary": "Algorithm Efficiency (Introduction) is a fundamental concept in computer-science.",
   "definition": "Algorithm Efficiency (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Algorithm Efficiency (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "algorithm-efficiency-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-09.topic-06",
   "name": "App Permissions",
   "subject": "computer-science",
+  "summary": "App Permissions is a fundamental concept in computer-science.",
   "definition": "App Permissions is a fundamental concept in computer-science.",
   "explanation": "Learn about App Permissions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "app-permissions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-14.topic-08",
   "name": "Compiler Design",
   "subject": "mathematics",
+  "summary": "Compiler Design is a fundamental concept in mathematics.",
   "definition": "Compiler Design is a fundamental concept in mathematics.",
   "explanation": "Learn about Compiler Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "compiler-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

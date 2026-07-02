@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-07.topic-05",
   "name": "Hawking Radiation",
   "subject": "physics",
+  "summary": "Hawking Radiation is a fundamental concept in physics.",
   "definition": "Hawking Radiation is a fundamental concept in physics.",
   "explanation": "Learn about Hawking Radiation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hawking-radiation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

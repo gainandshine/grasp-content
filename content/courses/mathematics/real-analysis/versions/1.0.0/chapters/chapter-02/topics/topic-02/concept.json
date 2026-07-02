@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-02.topic-02",
   "name": "Intervals",
   "subject": "mathematics",
+  "summary": "Intervals is a fundamental concept in mathematics.",
   "definition": "Intervals is a fundamental concept in mathematics.",
   "explanation": "Learn about Intervals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "intervals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

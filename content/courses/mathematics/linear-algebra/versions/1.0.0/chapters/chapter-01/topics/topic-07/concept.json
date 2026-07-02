@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-01.topic-07",
   "name": "Reduced Row Echelon Form",
   "subject": "mathematics",
+  "summary": "Reduced Row Echelon Form is a fundamental concept in mathematics.",
   "definition": "Reduced Row Echelon Form is a fundamental concept in mathematics.",
   "explanation": "Learn about Reduced Row Echelon Form and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "reduced-row-echelon-form"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

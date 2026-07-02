@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-11.topic-06",
   "name": "Engineering Applications",
   "subject": "physics",
+  "summary": "Engineering Applications is a fundamental concept in physics.",
   "definition": "Engineering Applications is a fundamental concept in physics.",
   "explanation": "Learn about Engineering Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "engineering-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

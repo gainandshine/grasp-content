@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-05.topic-04",
   "name": "Existential Quantifier",
   "subject": "philosophy",
+  "summary": "Existential Quantifier is a fundamental concept in philosophy.",
   "definition": "Existential Quantifier is a fundamental concept in philosophy.",
   "explanation": "Learn about Existential Quantifier and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "existential-quantifier"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

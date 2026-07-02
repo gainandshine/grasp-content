@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-03.topic-07",
   "name": "Visual Illusions",
   "subject": "psychology",
+  "summary": "Visual Illusions is a fundamental concept in psychology.",
   "definition": "Visual Illusions is a fundamental concept in psychology.",
   "explanation": "Learn about Visual Illusions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "visual-illusions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

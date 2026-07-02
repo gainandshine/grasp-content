@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-03.topic-03",
   "name": "Best Response Method",
   "subject": "game-theory",
+  "summary": "Best Response Method is a fundamental concept in game-theory.",
   "definition": "Best Response Method is a fundamental concept in game-theory.",
   "explanation": "Learn about Best Response Method and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "best-response-method"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

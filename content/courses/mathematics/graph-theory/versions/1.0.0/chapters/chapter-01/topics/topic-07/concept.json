@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-01.topic-07",
   "name": "Simple Graphs",
   "subject": "mathematics",
+  "summary": "Simple Graphs is a fundamental concept in mathematics.",
   "definition": "Simple Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Simple Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "simple-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

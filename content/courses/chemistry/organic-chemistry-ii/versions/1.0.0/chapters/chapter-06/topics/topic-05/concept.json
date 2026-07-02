@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-06.topic-05",
   "name": "Hydrolysis",
   "subject": "chemistry",
+  "summary": "Hydrolysis is a fundamental concept in chemistry.",
   "definition": "Hydrolysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrolysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrolysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

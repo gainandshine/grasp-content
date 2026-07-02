@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-01.topic-01",
   "name": "What is System Design?",
   "subject": "computer-science",
+  "summary": "What is System Design? is a fundamental concept in computer-science.",
   "definition": "What is System Design? is a fundamental concept in computer-science.",
   "explanation": "Learn about What is System Design? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "what-is-system-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

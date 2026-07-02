@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-03.topic-09",
   "name": "Formation of Atoms",
   "subject": "physics",
+  "summary": "Formation of Atoms is a fundamental concept in physics.",
   "definition": "Formation of Atoms is a fundamental concept in physics.",
   "explanation": "Learn about Formation of Atoms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "formation-of-atoms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

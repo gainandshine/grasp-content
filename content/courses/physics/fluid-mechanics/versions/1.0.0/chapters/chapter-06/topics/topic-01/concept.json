@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-06.topic-01",
   "name": "Dynamic Viscosity",
   "subject": "physics",
+  "summary": "Dynamic Viscosity is a fundamental concept in physics.",
   "definition": "Dynamic Viscosity is a fundamental concept in physics.",
   "explanation": "Learn about Dynamic Viscosity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "dynamic-viscosity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

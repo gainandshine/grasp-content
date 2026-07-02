@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-11.topic-04",
   "name": "DNA Fingerprinting",
   "subject": "biology",
+  "summary": "DNA Fingerprinting is a fundamental concept in biology.",
   "definition": "DNA Fingerprinting is a fundamental concept in biology.",
   "explanation": "Learn about DNA Fingerprinting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "dna-fingerprinting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

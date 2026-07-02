@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-07.topic-02",
   "name": "Avogadro's Number",
   "subject": "chemistry",
+  "summary": "Avogadro's Number is a fundamental concept in chemistry.",
   "definition": "Avogadro's Number is a fundamental concept in chemistry.",
   "explanation": "Learn about Avogadro's Number and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "avogadros-number"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

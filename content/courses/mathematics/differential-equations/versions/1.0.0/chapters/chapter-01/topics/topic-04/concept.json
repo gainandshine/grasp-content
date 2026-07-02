@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-01.topic-04",
   "name": "Linear vs Nonlinear Equations",
   "subject": "mathematics",
+  "summary": "Linear vs Nonlinear Equations is a fundamental concept in mathematics.",
   "definition": "Linear vs Nonlinear Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Linear vs Nonlinear Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "linear-vs-nonlinear-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

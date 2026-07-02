@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-11.topic-04",
   "name": "Solvents",
   "subject": "chemistry",
+  "summary": "Solvents is a fundamental concept in chemistry.",
   "definition": "Solvents is a fundamental concept in chemistry.",
   "explanation": "Learn about Solvents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solvents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

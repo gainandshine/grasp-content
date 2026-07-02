@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-06.topic-03",
   "name": "Elimination Method",
   "subject": "mathematics",
+  "summary": "Elimination Method is a fundamental concept in mathematics.",
   "definition": "Elimination Method is a fundamental concept in mathematics.",
   "explanation": "Learn about Elimination Method and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "elimination-method"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

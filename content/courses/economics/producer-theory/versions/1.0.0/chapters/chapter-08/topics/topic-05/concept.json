@@ -2,6 +2,7 @@
   "id": "economics.producer-theory.chapter-08.topic-05",
   "name": "Wage Determination",
   "subject": "economics",
+  "summary": "Wage Determination is a fundamental concept in economics.",
   "definition": "Wage Determination is a fundamental concept in economics.",
   "explanation": "Learn about Wage Determination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "wage-determination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

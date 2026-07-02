@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-12.topic-01",
   "name": "Human Resources",
   "subject": "psychology",
+  "summary": "Human Resources is a fundamental concept in psychology.",
   "definition": "Human Resources is a fundamental concept in psychology.",
   "explanation": "Learn about Human Resources and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "human-resources"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

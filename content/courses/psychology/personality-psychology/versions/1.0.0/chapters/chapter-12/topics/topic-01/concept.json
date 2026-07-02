@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-12.topic-01",
   "name": "Clinical Psychology",
   "subject": "psychology",
+  "summary": "Clinical Psychology is a fundamental concept in psychology.",
   "definition": "Clinical Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about Clinical Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "clinical-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

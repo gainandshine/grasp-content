@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-05.topic-07",
   "name": "Logical Expressions",
   "subject": "philosophy",
+  "summary": "Logical Expressions is a fundamental concept in philosophy.",
   "definition": "Logical Expressions is a fundamental concept in philosophy.",
   "explanation": "Learn about Logical Expressions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "logical-expressions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

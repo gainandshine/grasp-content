@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-07.topic-03",
   "name": "Van der Waals Equation",
   "subject": "chemistry",
+  "summary": "Van der Waals Equation is a fundamental concept in chemistry.",
   "definition": "Van der Waals Equation is a fundamental concept in chemistry.",
   "explanation": "Learn about Van der Waals Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "van-der-waals-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

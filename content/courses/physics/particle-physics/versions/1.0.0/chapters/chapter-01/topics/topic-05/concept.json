@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-01.topic-05",
   "name": "History of Particle Physics",
   "subject": "physics",
+  "summary": "History of Particle Physics is a fundamental concept in physics.",
   "definition": "History of Particle Physics is a fundamental concept in physics.",
   "explanation": "Learn about History of Particle Physics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "history-of-particle-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

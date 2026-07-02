@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-07.topic-04",
   "name": "Culture Media",
   "subject": "biology",
+  "summary": "Culture Media is a fundamental concept in biology.",
   "definition": "Culture Media is a fundamental concept in biology.",
   "explanation": "Learn about Culture Media and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "culture-media"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

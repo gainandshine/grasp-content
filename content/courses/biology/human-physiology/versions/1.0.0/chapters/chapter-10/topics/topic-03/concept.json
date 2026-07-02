@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-10.topic-03",
   "name": "Antibodies",
   "subject": "biology",
+  "summary": "Antibodies is a fundamental concept in biology.",
   "definition": "Antibodies is a fundamental concept in biology.",
   "explanation": "Learn about Antibodies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "antibodies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

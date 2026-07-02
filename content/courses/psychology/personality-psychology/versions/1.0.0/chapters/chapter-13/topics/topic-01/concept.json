@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-13.topic-01",
   "name": "Personality Neuroscience",
   "subject": "psychology",
+  "summary": "Personality Neuroscience is a fundamental concept in psychology.",
   "definition": "Personality Neuroscience is a fundamental concept in psychology.",
   "explanation": "Learn about Personality Neuroscience and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "personality-neuroscience"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

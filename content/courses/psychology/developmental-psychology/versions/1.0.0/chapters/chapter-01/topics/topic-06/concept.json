@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-01.topic-06",
   "name": "Stages of Development",
   "subject": "psychology",
+  "summary": "Stages of Development is a fundamental concept in psychology.",
   "definition": "Stages of Development is a fundamental concept in psychology.",
   "explanation": "Learn about Stages of Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "stages-of-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

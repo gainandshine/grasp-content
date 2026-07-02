@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-02.topic-06",
   "name": "Ionic Polymerization",
   "subject": "chemistry",
+  "summary": "Ionic Polymerization is a fundamental concept in chemistry.",
   "definition": "Ionic Polymerization is a fundamental concept in chemistry.",
   "explanation": "Learn about Ionic Polymerization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ionic-polymerization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-06.topic-05",
   "name": "Optical Path Difference",
   "subject": "physics",
+  "summary": "Optical Path Difference is a fundamental concept in physics.",
   "definition": "Optical Path Difference is a fundamental concept in physics.",
   "explanation": "Learn about Optical Path Difference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "optical-path-difference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

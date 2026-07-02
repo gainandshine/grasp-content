@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-09.topic-02",
   "name": "Habit Loop",
   "subject": "psychology",
+  "summary": "Habit Loop is a fundamental concept in psychology.",
   "definition": "Habit Loop is a fundamental concept in psychology.",
   "explanation": "Learn about Habit Loop and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "habit-loop"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

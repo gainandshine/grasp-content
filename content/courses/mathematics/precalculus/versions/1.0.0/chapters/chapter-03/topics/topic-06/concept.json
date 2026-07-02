@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-03.topic-06",
   "name": "Multiplicity",
   "subject": "mathematics",
+  "summary": "Multiplicity is a fundamental concept in mathematics.",
   "definition": "Multiplicity is a fundamental concept in mathematics.",
   "explanation": "Learn about Multiplicity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "multiplicity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

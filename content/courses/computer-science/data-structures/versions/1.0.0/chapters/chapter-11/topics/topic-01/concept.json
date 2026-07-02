@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-11.topic-01",
   "name": "Union-Find",
   "subject": "computer-science",
+  "summary": "Union-Find is a fundamental concept in computer-science.",
   "definition": "Union-Find is a fundamental concept in computer-science.",
   "explanation": "Learn about Union-Find and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "union-find"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

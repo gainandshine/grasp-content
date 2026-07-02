@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-09.topic-05",
   "name": "Host-Pathogen Interaction",
   "subject": "biology",
+  "summary": "Host-Pathogen Interaction is a fundamental concept in biology.",
   "definition": "Host-Pathogen Interaction is a fundamental concept in biology.",
   "explanation": "Learn about Host-Pathogen Interaction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "host-pathogen-interaction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

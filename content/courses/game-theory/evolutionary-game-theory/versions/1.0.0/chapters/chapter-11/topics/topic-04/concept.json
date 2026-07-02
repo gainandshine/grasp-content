@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-11.topic-04",
   "name": "Ecology",
   "subject": "game-theory",
+  "summary": "Ecology is a fundamental concept in game-theory.",
   "definition": "Ecology is a fundamental concept in game-theory.",
   "explanation": "Learn about Ecology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

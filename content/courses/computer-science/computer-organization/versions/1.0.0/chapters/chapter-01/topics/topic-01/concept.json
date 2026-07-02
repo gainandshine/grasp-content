@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-01.topic-01",
   "name": "Computer Organization vs Computer Architecture",
   "subject": "computer-science",
+  "summary": "Computer Organization vs Computer Architecture is a fundamental concept in computer-science.",
   "definition": "Computer Organization vs Computer Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Computer Organization vs Computer Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "computer-organization-vs-computer-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

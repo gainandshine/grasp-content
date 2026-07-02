@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-05.topic-05",
   "name": "Cauchy's Integral Theorem",
   "subject": "mathematics",
+  "summary": "Cauchy's Integral Theorem is a fundamental concept in mathematics.",
   "definition": "Cauchy's Integral Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Cauchy's Integral Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "cauchys-integral-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

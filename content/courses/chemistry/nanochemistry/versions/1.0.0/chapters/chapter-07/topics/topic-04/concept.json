@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-07.topic-04",
   "name": "Surface Modification",
   "subject": "chemistry",
+  "summary": "Surface Modification is a fundamental concept in chemistry.",
   "definition": "Surface Modification is a fundamental concept in chemistry.",
   "explanation": "Learn about Surface Modification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "surface-modification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

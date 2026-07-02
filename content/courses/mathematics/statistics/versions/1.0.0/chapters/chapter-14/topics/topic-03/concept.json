@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-14.topic-03",
   "name": "Visualization",
   "subject": "mathematics",
+  "summary": "Visualization is a fundamental concept in mathematics.",
   "definition": "Visualization is a fundamental concept in mathematics.",
   "explanation": "Learn about Visualization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "visualization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

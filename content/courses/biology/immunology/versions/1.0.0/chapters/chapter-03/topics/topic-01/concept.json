@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-03.topic-01",
   "name": "Adaptive Immune Response",
   "subject": "biology",
+  "summary": "Adaptive Immune Response is a fundamental concept in biology.",
   "definition": "Adaptive Immune Response is a fundamental concept in biology.",
   "explanation": "Learn about Adaptive Immune Response and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "adaptive-immune-response"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

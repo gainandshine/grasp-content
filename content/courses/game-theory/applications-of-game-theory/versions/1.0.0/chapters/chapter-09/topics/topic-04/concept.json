@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-09.topic-04",
   "name": "Information Warfare",
   "subject": "game-theory",
+  "summary": "Information Warfare is a fundamental concept in game-theory.",
   "definition": "Information Warfare is a fundamental concept in game-theory.",
   "explanation": "Learn about Information Warfare and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "information-warfare"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

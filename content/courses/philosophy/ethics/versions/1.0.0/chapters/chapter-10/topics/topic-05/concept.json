@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-10.topic-05",
   "name": "Digital Rights",
   "subject": "philosophy",
+  "summary": "Digital Rights is a fundamental concept in philosophy.",
   "definition": "Digital Rights is a fundamental concept in philosophy.",
   "explanation": "Learn about Digital Rights and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "digital-rights"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-07.topic-06",
   "name": "Plasma Heating Methods",
   "subject": "physics",
+  "summary": "Plasma Heating Methods is a fundamental concept in physics.",
   "definition": "Plasma Heating Methods is a fundamental concept in physics.",
   "explanation": "Learn about Plasma Heating Methods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plasma-heating-methods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

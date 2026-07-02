@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-13.topic-05",
   "name": "Green Chemistry of Main Group Elements",
   "subject": "chemistry",
+  "summary": "Green Chemistry of Main Group Elements is a fundamental concept in chemistry.",
   "definition": "Green Chemistry of Main Group Elements is a fundamental concept in chemistry.",
   "explanation": "Learn about Green Chemistry of Main Group Elements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "green-chemistry-of-main-group-elements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

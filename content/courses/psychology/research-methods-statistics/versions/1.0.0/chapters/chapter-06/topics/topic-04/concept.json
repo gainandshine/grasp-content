@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-06.topic-04",
   "name": "Mode",
   "subject": "psychology",
+  "summary": "Mode is a fundamental concept in psychology.",
   "definition": "Mode is a fundamental concept in psychology.",
   "explanation": "Learn about Mode and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mode"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-07.topic-01",
   "name": "Water Cycle",
   "subject": "biology",
+  "summary": "Water Cycle is a fundamental concept in biology.",
   "definition": "Water Cycle is a fundamental concept in biology.",
   "explanation": "Learn about Water Cycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "water-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

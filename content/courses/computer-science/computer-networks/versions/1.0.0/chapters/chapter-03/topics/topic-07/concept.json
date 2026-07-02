@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-03.topic-07",
   "name": "Data Transmission Modes",
   "subject": "computer-science",
+  "summary": "Data Transmission Modes is a fundamental concept in computer-science.",
   "definition": "Data Transmission Modes is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Transmission Modes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-transmission-modes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

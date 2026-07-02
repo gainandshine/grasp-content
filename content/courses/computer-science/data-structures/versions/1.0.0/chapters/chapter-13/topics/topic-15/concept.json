@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-13.topic-15",
   "name": "Branch & Bound",
   "subject": "computer-science",
+  "summary": "Branch & Bound is a fundamental concept in computer-science.",
   "definition": "Branch & Bound is a fundamental concept in computer-science.",
   "explanation": "Learn about Branch & Bound and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "branch-bound"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-01.topic-02",
   "name": "Classification of Biomolecules",
   "subject": "chemistry",
+  "summary": "Classification of Biomolecules is a fundamental concept in chemistry.",
   "definition": "Classification of Biomolecules is a fundamental concept in chemistry.",
   "explanation": "Learn about Classification of Biomolecules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "classification-of-biomolecules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

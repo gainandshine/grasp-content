@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-11.topic-07",
   "name": "Mathematical Induction (Introduction)",
   "subject": "mathematics",
+  "summary": "Mathematical Induction (Introduction) is a fundamental concept in mathematics.",
   "definition": "Mathematical Induction (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Mathematical Induction (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mathematical-induction-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

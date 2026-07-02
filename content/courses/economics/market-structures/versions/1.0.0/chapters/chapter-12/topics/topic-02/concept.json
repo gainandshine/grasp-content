@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-12.topic-02",
   "name": "Airlines",
   "subject": "economics",
+  "summary": "Airlines is a fundamental concept in economics.",
   "definition": "Airlines is a fundamental concept in economics.",
   "explanation": "Learn about Airlines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "airlines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

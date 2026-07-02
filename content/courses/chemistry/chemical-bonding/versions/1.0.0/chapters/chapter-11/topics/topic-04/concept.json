@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-11.topic-04",
   "name": "Molecular Crystals",
   "subject": "chemistry",
+  "summary": "Molecular Crystals is a fundamental concept in chemistry.",
   "definition": "Molecular Crystals is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Crystals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-crystals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

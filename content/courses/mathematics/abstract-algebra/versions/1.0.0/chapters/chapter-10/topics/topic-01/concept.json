@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-10.topic-01",
   "name": "Modules",
   "subject": "mathematics",
+  "summary": "Modules is a fundamental concept in mathematics.",
   "definition": "Modules is a fundamental concept in mathematics.",
   "explanation": "Learn about Modules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "modules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

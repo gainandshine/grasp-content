@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-04",
   "name": "Fitness Apps",
   "subject": "computer-science",
+  "summary": "Fitness Apps is a fundamental concept in computer-science.",
   "definition": "Fitness Apps is a fundamental concept in computer-science.",
   "explanation": "Learn about Fitness Apps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fitness-apps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-03.topic-02",
   "name": "Scientific Theories",
   "subject": "philosophy",
+  "summary": "Scientific Theories is a fundamental concept in philosophy.",
   "definition": "Scientific Theories is a fundamental concept in philosophy.",
   "explanation": "Learn about Scientific Theories and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "scientific-theories"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

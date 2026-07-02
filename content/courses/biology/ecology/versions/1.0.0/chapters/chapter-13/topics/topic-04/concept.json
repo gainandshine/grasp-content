@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-13.topic-04",
   "name": "Disease Ecology",
   "subject": "biology",
+  "summary": "Disease Ecology is a fundamental concept in biology.",
   "definition": "Disease Ecology is a fundamental concept in biology.",
   "explanation": "Learn about Disease Ecology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "disease-ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

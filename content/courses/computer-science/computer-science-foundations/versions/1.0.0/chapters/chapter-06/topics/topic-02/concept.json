@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-06.topic-02",
   "name": "Programming Languages",
   "subject": "computer-science",
+  "summary": "Programming Languages is a fundamental concept in computer-science.",
   "definition": "Programming Languages is a fundamental concept in computer-science.",
   "explanation": "Learn about Programming Languages and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "programming-languages"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

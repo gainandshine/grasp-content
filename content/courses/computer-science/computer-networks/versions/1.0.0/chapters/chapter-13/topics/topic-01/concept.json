@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-01",
   "name": "Enterprise Networks",
   "subject": "computer-science",
+  "summary": "Enterprise Networks is a fundamental concept in computer-science.",
   "definition": "Enterprise Networks is a fundamental concept in computer-science.",
   "explanation": "Learn about Enterprise Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "enterprise-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

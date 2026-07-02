@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-06.topic-06",
   "name": "Formula Writing",
   "subject": "chemistry",
+  "summary": "Formula Writing is a fundamental concept in chemistry.",
   "definition": "Formula Writing is a fundamental concept in chemistry.",
   "explanation": "Learn about Formula Writing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "formula-writing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

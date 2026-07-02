@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-03.topic-01",
   "name": "Accuracy",
   "subject": "physics",
+  "summary": "Accuracy is a fundamental concept in physics.",
   "definition": "Accuracy is a fundamental concept in physics.",
   "explanation": "Learn about Accuracy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "accuracy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

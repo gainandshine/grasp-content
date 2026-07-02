@@ -2,6 +2,7 @@
   "id": "economics.macroeconomics.chapter-06.topic-04",
   "name": "Depression",
   "subject": "economics",
+  "summary": "Depression is a fundamental concept in economics.",
   "definition": "Depression is a fundamental concept in economics.",
   "explanation": "Learn about Depression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "depression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

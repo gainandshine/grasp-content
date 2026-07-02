@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-06.topic-01",
   "name": "Atomic Orbitals Review",
   "subject": "chemistry",
+  "summary": "Atomic Orbitals Review is a fundamental concept in chemistry.",
   "definition": "Atomic Orbitals Review is a fundamental concept in chemistry.",
   "explanation": "Learn about Atomic Orbitals Review and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atomic-orbitals-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

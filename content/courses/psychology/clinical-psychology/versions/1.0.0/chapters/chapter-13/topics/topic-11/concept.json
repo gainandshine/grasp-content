@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-13.topic-11",
   "name": "Team Dynamics",
   "subject": "psychology",
+  "summary": "Team Dynamics is a fundamental concept in psychology.",
   "definition": "Team Dynamics is a fundamental concept in psychology.",
   "explanation": "Learn about Team Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "team-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

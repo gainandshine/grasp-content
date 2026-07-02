@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-07.topic-04",
   "name": "Magnetic Mirror",
   "subject": "physics",
+  "summary": "Magnetic Mirror is a fundamental concept in physics.",
   "definition": "Magnetic Mirror is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Mirror and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-mirror"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

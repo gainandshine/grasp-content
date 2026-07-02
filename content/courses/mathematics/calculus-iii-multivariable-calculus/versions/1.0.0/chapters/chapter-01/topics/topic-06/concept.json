@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-06",
   "name": "Cylinders",
   "subject": "mathematics",
+  "summary": "Cylinders is a fundamental concept in mathematics.",
   "definition": "Cylinders is a fundamental concept in mathematics.",
   "explanation": "Learn about Cylinders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "cylinders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-10.topic-09",
   "name": "Arc Length",
   "subject": "mathematics",
+  "summary": "Arc Length is a fundamental concept in mathematics.",
   "definition": "Arc Length is a fundamental concept in mathematics.",
   "explanation": "Learn about Arc Length and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "arc-length"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

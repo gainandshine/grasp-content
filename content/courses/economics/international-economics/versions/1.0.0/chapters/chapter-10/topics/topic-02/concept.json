@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-10.topic-02",
   "name": "Emerging Markets",
   "subject": "economics",
+  "summary": "Emerging Markets is a fundamental concept in economics.",
   "definition": "Emerging Markets is a fundamental concept in economics.",
   "explanation": "Learn about Emerging Markets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "emerging-markets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

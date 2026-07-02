@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-06.topic-04",
   "name": "Spherical Coordinates (Introduction)",
   "subject": "physics",
+  "summary": "Spherical Coordinates (Introduction) is a fundamental concept in physics.",
   "definition": "Spherical Coordinates (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Spherical Coordinates (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "spherical-coordinates-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

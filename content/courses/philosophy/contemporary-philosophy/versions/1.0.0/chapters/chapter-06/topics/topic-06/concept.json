@@ -2,6 +2,7 @@
   "id": "philosophy.contemporary-philosophy.chapter-06.topic-06",
   "name": "Intersectionality",
   "subject": "philosophy",
+  "summary": "Intersectionality is a fundamental concept in philosophy.",
   "definition": "Intersectionality is a fundamental concept in philosophy.",
   "explanation": "Learn about Intersectionality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "intersectionality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-08.topic-04",
   "name": "Mass Spectrometer",
   "subject": "physics",
+  "summary": "Mass Spectrometer is a fundamental concept in physics.",
   "definition": "Mass Spectrometer is a fundamental concept in physics.",
   "explanation": "Learn about Mass Spectrometer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mass-spectrometer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

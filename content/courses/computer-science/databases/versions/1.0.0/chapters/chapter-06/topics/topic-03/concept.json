@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-06.topic-03",
   "name": "Second Normal Form (2NF)",
   "subject": "computer-science",
+  "summary": "Second Normal Form (2NF) is a fundamental concept in computer-science.",
   "definition": "Second Normal Form (2NF) is a fundamental concept in computer-science.",
   "explanation": "Learn about Second Normal Form (2NF) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "second-normal-form-2nf"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

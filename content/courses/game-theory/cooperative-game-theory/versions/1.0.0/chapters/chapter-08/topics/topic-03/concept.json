@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-08.topic-03",
   "name": "Joint Projects",
   "subject": "game-theory",
+  "summary": "Joint Projects is a fundamental concept in game-theory.",
   "definition": "Joint Projects is a fundamental concept in game-theory.",
   "explanation": "Learn about Joint Projects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "joint-projects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-language.chapter-13.topic-05",
   "name": "Future of Language",
   "subject": "philosophy",
+  "summary": "Future of Language is a fundamental concept in philosophy.",
   "definition": "Future of Language is a fundamental concept in philosophy.",
   "explanation": "Learn about Future of Language and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "future-of-language"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

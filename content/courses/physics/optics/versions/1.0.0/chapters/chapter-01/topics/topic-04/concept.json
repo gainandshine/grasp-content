@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-01.topic-04",
   "name": "Electromagnetic Nature of Light",
   "subject": "physics",
+  "summary": "Electromagnetic Nature of Light is a fundamental concept in physics.",
   "definition": "Electromagnetic Nature of Light is a fundamental concept in physics.",
   "explanation": "Learn about Electromagnetic Nature of Light and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electromagnetic-nature-of-light"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

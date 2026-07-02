@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-10.topic-05",
   "name": "Numerical Aperture",
   "subject": "physics",
+  "summary": "Numerical Aperture is a fundamental concept in physics.",
   "definition": "Numerical Aperture is a fundamental concept in physics.",
   "explanation": "Learn about Numerical Aperture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "numerical-aperture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

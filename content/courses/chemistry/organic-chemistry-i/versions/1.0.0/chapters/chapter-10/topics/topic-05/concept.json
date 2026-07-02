@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-10.topic-05",
   "name": "Nitration",
   "subject": "chemistry",
+  "summary": "Nitration is a fundamental concept in chemistry.",
   "definition": "Nitration is a fundamental concept in chemistry.",
   "explanation": "Learn about Nitration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nitration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

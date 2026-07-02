@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-11",
   "name": "Acid-Base Equilibria",
   "subject": "chemistry",
+  "summary": "Acid-Base Equilibria is a fundamental concept in chemistry.",
   "definition": "Acid-Base Equilibria is a fundamental concept in chemistry.",
   "explanation": "Learn about Acid-Base Equilibria and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "acid-base-equilibria"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

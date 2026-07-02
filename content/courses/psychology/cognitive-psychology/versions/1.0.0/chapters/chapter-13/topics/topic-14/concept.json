@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-13.topic-14",
   "name": "Motor Systems",
   "subject": "psychology",
+  "summary": "Motor Systems is a fundamental concept in psychology.",
   "definition": "Motor Systems is a fundamental concept in psychology.",
   "explanation": "Learn about Motor Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "motor-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

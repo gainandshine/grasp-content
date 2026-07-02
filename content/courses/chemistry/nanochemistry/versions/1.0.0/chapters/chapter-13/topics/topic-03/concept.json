@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-13.topic-03",
   "name": "Spintronics",
   "subject": "chemistry",
+  "summary": "Spintronics is a fundamental concept in chemistry.",
   "definition": "Spintronics is a fundamental concept in chemistry.",
   "explanation": "Learn about Spintronics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "spintronics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

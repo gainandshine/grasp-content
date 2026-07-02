@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-02.topic-07",
   "name": "Mass Number",
   "subject": "chemistry",
+  "summary": "Mass Number is a fundamental concept in chemistry.",
   "definition": "Mass Number is a fundamental concept in chemistry.",
   "explanation": "Learn about Mass Number and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "mass-number"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

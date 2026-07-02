@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-04.topic-05",
   "name": "Energy Equation",
   "subject": "physics",
+  "summary": "Energy Equation is a fundamental concept in physics.",
   "definition": "Energy Equation is a fundamental concept in physics.",
   "explanation": "Learn about Energy Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

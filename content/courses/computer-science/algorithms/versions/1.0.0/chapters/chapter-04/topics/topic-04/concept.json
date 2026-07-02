@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-04.topic-04",
   "name": "Merge Sort",
   "subject": "computer-science",
+  "summary": "Merge Sort is a fundamental concept in computer-science.",
   "definition": "Merge Sort is a fundamental concept in computer-science.",
   "explanation": "Learn about Merge Sort and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "merge-sort"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

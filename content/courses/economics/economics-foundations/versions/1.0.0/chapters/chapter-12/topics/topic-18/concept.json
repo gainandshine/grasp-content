@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-12.topic-18",
   "name": "Game Theory",
   "subject": "economics",
+  "summary": "Game Theory is a fundamental concept in economics.",
   "definition": "Game Theory is a fundamental concept in economics.",
   "explanation": "Learn about Game Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "game-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-09.topic-04",
   "name": "Menstrual Cycle",
   "subject": "biology",
+  "summary": "Menstrual Cycle is a fundamental concept in biology.",
   "definition": "Menstrual Cycle is a fundamental concept in biology.",
   "explanation": "Learn about Menstrual Cycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "menstrual-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

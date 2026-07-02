@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-11.topic-05",
   "name": "Redshift Surveys",
   "subject": "physics",
+  "summary": "Redshift Surveys is a fundamental concept in physics.",
   "definition": "Redshift Surveys is a fundamental concept in physics.",
   "explanation": "Learn about Redshift Surveys and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "redshift-surveys"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

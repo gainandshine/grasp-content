@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-09.topic-06",
   "name": "Physical Reasoning",
   "subject": "physics",
+  "summary": "Physical Reasoning is a fundamental concept in physics.",
   "definition": "Physical Reasoning is a fundamental concept in physics.",
   "explanation": "Learn about Physical Reasoning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "physical-reasoning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

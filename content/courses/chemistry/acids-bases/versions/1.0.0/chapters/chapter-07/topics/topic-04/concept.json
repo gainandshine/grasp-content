@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-07.topic-04",
   "name": "Strong Acid–Strong Base",
   "subject": "chemistry",
+  "summary": "Strong Acid–Strong Base is a fundamental concept in chemistry.",
   "definition": "Strong Acid–Strong Base is a fundamental concept in chemistry.",
   "explanation": "Learn about Strong Acid–Strong Base and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "strong-acidstrong-base"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

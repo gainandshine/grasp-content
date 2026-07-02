@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-02.topic-03",
   "name": "Spherical Mirrors",
   "subject": "physics",
+  "summary": "Spherical Mirrors is a fundamental concept in physics.",
   "definition": "Spherical Mirrors is a fundamental concept in physics.",
   "explanation": "Learn about Spherical Mirrors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "spherical-mirrors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-13.topic-04",
   "name": "Materials Science",
   "subject": "chemistry",
+  "summary": "Materials Science is a fundamental concept in chemistry.",
   "definition": "Materials Science is a fundamental concept in chemistry.",
   "explanation": "Learn about Materials Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "materials-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-01.topic-02",
   "name": "Evaluating Limits",
   "subject": "mathematics",
+  "summary": "Evaluating Limits is a fundamental concept in mathematics.",
   "definition": "Evaluating Limits is a fundamental concept in mathematics.",
   "explanation": "Learn about Evaluating Limits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "evaluating-limits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

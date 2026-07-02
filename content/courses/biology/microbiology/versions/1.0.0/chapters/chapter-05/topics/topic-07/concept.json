@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-05.topic-07",
   "name": "Industrial Applications",
   "subject": "biology",
+  "summary": "Industrial Applications is a fundamental concept in biology.",
   "definition": "Industrial Applications is a fundamental concept in biology.",
   "explanation": "Learn about Industrial Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "industrial-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

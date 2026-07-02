@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-13.topic-14",
   "name": "Extraction & Metallurgy",
   "subject": "chemistry",
+  "summary": "Extraction & Metallurgy is a fundamental concept in chemistry.",
   "definition": "Extraction & Metallurgy is a fundamental concept in chemistry.",
   "explanation": "Learn about Extraction & Metallurgy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "extraction-metallurgy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

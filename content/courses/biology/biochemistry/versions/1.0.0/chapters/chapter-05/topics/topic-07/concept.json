@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-05.topic-07",
   "name": "Biological Membranes",
   "subject": "biology",
+  "summary": "Biological Membranes is a fundamental concept in biology.",
   "definition": "Biological Membranes is a fundamental concept in biology.",
   "explanation": "Learn about Biological Membranes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biological-membranes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-01",
   "name": "Software Development",
   "subject": "computer-science",
+  "summary": "Software Development is a fundamental concept in computer-science.",
   "definition": "Software Development is a fundamental concept in computer-science.",
   "explanation": "Learn about Software Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "software-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

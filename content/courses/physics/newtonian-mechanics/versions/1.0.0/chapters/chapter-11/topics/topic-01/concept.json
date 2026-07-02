@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-11.topic-01",
   "name": "Inclined Plane Problems",
   "subject": "physics",
+  "summary": "Inclined Plane Problems is a fundamental concept in physics.",
   "definition": "Inclined Plane Problems is a fundamental concept in physics.",
   "explanation": "Learn about Inclined Plane Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "inclined-plane-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

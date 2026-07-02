@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-12.topic-08",
   "name": "Anatomical Terminology",
   "subject": "biology",
+  "summary": "Anatomical Terminology is a fundamental concept in biology.",
   "definition": "Anatomical Terminology is a fundamental concept in biology.",
   "explanation": "Learn about Anatomical Terminology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "anatomical-terminology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

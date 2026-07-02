@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-06.topic-03",
   "name": "Blood Groups",
   "subject": "biology",
+  "summary": "Blood Groups is a fundamental concept in biology.",
   "definition": "Blood Groups is a fundamental concept in biology.",
   "explanation": "Learn about Blood Groups and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "blood-groups"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

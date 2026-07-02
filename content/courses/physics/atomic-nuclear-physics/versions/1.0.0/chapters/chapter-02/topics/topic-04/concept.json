@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-02.topic-04",
   "name": "Hydrogen Spectrum",
   "subject": "physics",
+  "summary": "Hydrogen Spectrum is a fundamental concept in physics.",
   "definition": "Hydrogen Spectrum is a fundamental concept in physics.",
   "explanation": "Learn about Hydrogen Spectrum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hydrogen-spectrum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-10.topic-07",
   "name": "Ocean Currents",
   "subject": "physics",
+  "summary": "Ocean Currents is a fundamental concept in physics.",
   "definition": "Ocean Currents is a fundamental concept in physics.",
   "explanation": "Learn about Ocean Currents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ocean-currents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

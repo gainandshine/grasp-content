@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-01.topic-04",
   "name": "Trigonometric Integrals",
   "subject": "mathematics",
+  "summary": "Trigonometric Integrals is a fundamental concept in mathematics.",
   "definition": "Trigonometric Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Trigonometric Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "trigonometric-integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

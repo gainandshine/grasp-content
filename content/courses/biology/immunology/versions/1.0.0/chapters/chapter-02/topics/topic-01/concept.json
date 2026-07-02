@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-02.topic-01",
   "name": "Physical Barriers",
   "subject": "biology",
+  "summary": "Physical Barriers is a fundamental concept in biology.",
   "definition": "Physical Barriers is a fundamental concept in biology.",
   "explanation": "Learn about Physical Barriers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "physical-barriers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

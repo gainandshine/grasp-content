@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-08.topic-02",
   "name": "Linear vs Angular Momentum",
   "subject": "physics",
+  "summary": "Linear vs Angular Momentum is a fundamental concept in physics.",
   "definition": "Linear vs Angular Momentum is a fundamental concept in physics.",
   "explanation": "Learn about Linear vs Angular Momentum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "linear-vs-angular-momentum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

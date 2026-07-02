@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-01.topic-01",
   "name": "What is a Compiler?",
   "subject": "computer-science",
+  "summary": "What is a Compiler? is a fundamental concept in computer-science.",
   "definition": "What is a Compiler? is a fundamental concept in computer-science.",
   "explanation": "Learn about What is a Compiler? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "what-is-a-compiler"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

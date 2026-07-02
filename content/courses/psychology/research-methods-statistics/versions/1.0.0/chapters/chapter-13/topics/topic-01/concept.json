@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-13.topic-01",
   "name": "Meta-Analysis",
   "subject": "psychology",
+  "summary": "Meta-Analysis is a fundamental concept in psychology.",
   "definition": "Meta-Analysis is a fundamental concept in psychology.",
   "explanation": "Learn about Meta-Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "meta-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

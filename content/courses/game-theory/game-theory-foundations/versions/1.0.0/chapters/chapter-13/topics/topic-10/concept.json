@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-13.topic-10",
   "name": "Rational Choice",
   "subject": "game-theory",
+  "summary": "Rational Choice is a fundamental concept in game-theory.",
   "definition": "Rational Choice is a fundamental concept in game-theory.",
   "explanation": "Learn about Rational Choice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "rational-choice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

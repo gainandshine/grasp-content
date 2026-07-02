@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-09.topic-03",
   "name": "Persistent Organic Pollutants (POPs)",
   "subject": "chemistry",
+  "summary": "Persistent Organic Pollutants (POPs) is a fundamental concept in chemistry.",
   "definition": "Persistent Organic Pollutants (POPs) is a fundamental concept in chemistry.",
   "explanation": "Learn about Persistent Organic Pollutants (POPs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "persistent-organic-pollutants-pops"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-01.topic-01",
   "name": "Review of Basic Integration",
   "subject": "mathematics",
+  "summary": "Review of Basic Integration is a fundamental concept in mathematics.",
   "definition": "Review of Basic Integration is a fundamental concept in mathematics.",
   "explanation": "Learn about Review of Basic Integration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "review-of-basic-integration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

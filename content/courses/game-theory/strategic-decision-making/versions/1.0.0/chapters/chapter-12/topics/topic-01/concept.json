@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-12.topic-01",
   "name": "Business Strategy",
   "subject": "game-theory",
+  "summary": "Business Strategy is a fundamental concept in game-theory.",
   "definition": "Business Strategy is a fundamental concept in game-theory.",
   "explanation": "Learn about Business Strategy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "business-strategy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

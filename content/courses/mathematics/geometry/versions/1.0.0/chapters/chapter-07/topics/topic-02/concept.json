@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-07.topic-02",
   "name": "Converse of Pythagorean Theorem",
   "subject": "mathematics",
+  "summary": "Converse of Pythagorean Theorem is a fundamental concept in mathematics.",
   "definition": "Converse of Pythagorean Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Converse of Pythagorean Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "converse-of-pythagorean-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

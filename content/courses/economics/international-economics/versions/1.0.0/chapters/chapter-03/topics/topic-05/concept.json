@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-03.topic-05",
   "name": "Competitive Advantage",
   "subject": "economics",
+  "summary": "Competitive Advantage is a fundamental concept in economics.",
   "definition": "Competitive Advantage is a fundamental concept in economics.",
   "explanation": "Learn about Competitive Advantage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "competitive-advantage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

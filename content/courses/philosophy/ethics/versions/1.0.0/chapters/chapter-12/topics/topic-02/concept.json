@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-12.topic-02",
   "name": "Relationships",
   "subject": "philosophy",
+  "summary": "Relationships is a fundamental concept in philosophy.",
   "definition": "Relationships is a fundamental concept in philosophy.",
   "explanation": "Learn about Relationships and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "relationships"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

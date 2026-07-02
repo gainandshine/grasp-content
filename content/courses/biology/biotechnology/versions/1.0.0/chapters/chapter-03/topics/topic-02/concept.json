@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-03.topic-02",
   "name": "DNA Amplification",
   "subject": "biology",
+  "summary": "DNA Amplification is a fundamental concept in biology.",
   "definition": "DNA Amplification is a fundamental concept in biology.",
   "explanation": "Learn about DNA Amplification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "dna-amplification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

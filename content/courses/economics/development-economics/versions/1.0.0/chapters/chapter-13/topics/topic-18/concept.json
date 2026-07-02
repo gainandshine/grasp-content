@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-13.topic-18",
   "name": "Experimental Economics",
   "subject": "economics",
+  "summary": "Experimental Economics is a fundamental concept in economics.",
   "definition": "Experimental Economics is a fundamental concept in economics.",
   "explanation": "Learn about Experimental Economics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "experimental-economics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

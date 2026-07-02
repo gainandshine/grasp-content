@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-05.topic-05",
   "name": "Applications",
   "subject": "chemistry",
+  "summary": "Applications is a fundamental concept in chemistry.",
   "definition": "Applications is a fundamental concept in chemistry.",
   "explanation": "Learn about Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-01.topic-02",
   "name": "Brain-Behavior Relationship",
   "subject": "psychology",
+  "summary": "Brain-Behavior Relationship is a fundamental concept in psychology.",
   "definition": "Brain-Behavior Relationship is a fundamental concept in psychology.",
   "explanation": "Learn about Brain-Behavior Relationship and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "brain-behavior-relationship"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-08.topic-02",
   "name": "Metabolism",
   "subject": "biology",
+  "summary": "Metabolism is a fundamental concept in biology.",
   "definition": "Metabolism is a fundamental concept in biology.",
   "explanation": "Learn about Metabolism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "metabolism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

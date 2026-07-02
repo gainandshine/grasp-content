@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-03.topic-03",
   "name": "Stateless Services",
   "subject": "computer-science",
+  "summary": "Stateless Services is a fundamental concept in computer-science.",
   "definition": "Stateless Services is a fundamental concept in computer-science.",
   "explanation": "Learn about Stateless Services and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "stateless-services"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

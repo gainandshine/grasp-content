@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-07.topic-06",
   "name": "Mocking",
   "subject": "computer-science",
+  "summary": "Mocking is a fundamental concept in computer-science.",
   "definition": "Mocking is a fundamental concept in computer-science.",
   "explanation": "Learn about Mocking and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mocking"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-07.topic-02",
   "name": "Flux Density",
   "subject": "physics",
+  "summary": "Flux Density is a fundamental concept in physics.",
   "definition": "Flux Density is a fundamental concept in physics.",
   "explanation": "Learn about Flux Density and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "flux-density"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-07.topic-07",
   "name": "Sickle Cell Disease",
   "subject": "biology",
+  "summary": "Sickle Cell Disease is a fundamental concept in biology.",
   "definition": "Sickle Cell Disease is a fundamental concept in biology.",
   "explanation": "Learn about Sickle Cell Disease and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "sickle-cell-disease"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

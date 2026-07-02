@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-01.topic-05",
   "name": "Von Neumann Architecture",
   "subject": "computer-science",
+  "summary": "Von Neumann Architecture is a fundamental concept in computer-science.",
   "definition": "Von Neumann Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Von Neumann Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "von-neumann-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

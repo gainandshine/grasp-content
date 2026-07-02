@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-03.topic-07",
   "name": "PCR Applications",
   "subject": "biology",
+  "summary": "PCR Applications is a fundamental concept in biology.",
   "definition": "PCR Applications is a fundamental concept in biology.",
   "explanation": "Learn about PCR Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "pcr-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

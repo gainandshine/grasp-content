@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-10.topic-06",
   "name": "Distributed Memory (Introduction)",
   "subject": "computer-science",
+  "summary": "Distributed Memory (Introduction) is a fundamental concept in computer-science.",
   "definition": "Distributed Memory (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Distributed Memory (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "distributed-memory-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

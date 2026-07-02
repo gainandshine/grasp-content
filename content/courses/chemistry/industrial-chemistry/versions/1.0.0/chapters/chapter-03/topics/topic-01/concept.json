@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-03.topic-01",
   "name": "Catalysts",
   "subject": "chemistry",
+  "summary": "Catalysts is a fundamental concept in chemistry.",
   "definition": "Catalysts is a fundamental concept in chemistry.",
   "explanation": "Learn about Catalysts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "catalysts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

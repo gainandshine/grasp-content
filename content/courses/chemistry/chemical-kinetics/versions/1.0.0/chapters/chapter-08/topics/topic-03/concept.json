@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-08.topic-03",
   "name": "Intermediates",
   "subject": "chemistry",
+  "summary": "Intermediates is a fundamental concept in chemistry.",
   "definition": "Intermediates is a fundamental concept in chemistry.",
   "explanation": "Learn about Intermediates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "intermediates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

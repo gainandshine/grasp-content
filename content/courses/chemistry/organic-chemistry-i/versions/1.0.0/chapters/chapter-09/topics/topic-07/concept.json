@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-09.topic-07",
   "name": "Oxidation Reactions",
   "subject": "chemistry",
+  "summary": "Oxidation Reactions is a fundamental concept in chemistry.",
   "definition": "Oxidation Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Oxidation Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oxidation-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

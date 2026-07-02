@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-04.topic-07",
   "name": "Model Ensembling",
   "subject": "computer-science",
+  "summary": "Model Ensembling is a fundamental concept in computer-science.",
   "definition": "Model Ensembling is a fundamental concept in computer-science.",
   "explanation": "Learn about Model Ensembling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "model-ensembling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

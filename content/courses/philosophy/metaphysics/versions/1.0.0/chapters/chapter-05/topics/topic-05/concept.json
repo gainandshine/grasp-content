@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-05.topic-05",
   "name": "Contingency",
   "subject": "philosophy",
+  "summary": "Contingency is a fundamental concept in philosophy.",
   "definition": "Contingency is a fundamental concept in philosophy.",
   "explanation": "Learn about Contingency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "contingency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

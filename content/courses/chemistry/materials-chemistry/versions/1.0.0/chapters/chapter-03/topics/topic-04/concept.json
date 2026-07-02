@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-03.topic-04",
   "name": "Steel",
   "subject": "chemistry",
+  "summary": "Steel is a fundamental concept in chemistry.",
   "definition": "Steel is a fundamental concept in chemistry.",
   "explanation": "Learn about Steel and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "steel"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

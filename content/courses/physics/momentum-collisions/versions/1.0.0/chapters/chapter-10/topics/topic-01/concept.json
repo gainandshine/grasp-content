@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-10.topic-01",
   "name": "Rocket Motion",
   "subject": "physics",
+  "summary": "Rocket Motion is a fundamental concept in physics.",
   "definition": "Rocket Motion is a fundamental concept in physics.",
   "explanation": "Learn about Rocket Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rocket-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

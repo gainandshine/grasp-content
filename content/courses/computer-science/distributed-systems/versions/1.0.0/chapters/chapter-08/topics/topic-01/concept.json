@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-08.topic-01",
   "name": "Failure Models",
   "subject": "computer-science",
+  "summary": "Failure Models is a fundamental concept in computer-science.",
   "definition": "Failure Models is a fundamental concept in computer-science.",
   "explanation": "Learn about Failure Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "failure-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

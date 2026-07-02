@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-04.topic-05",
   "name": "Secure Boot",
   "subject": "computer-science",
+  "summary": "Secure Boot is a fundamental concept in computer-science.",
   "definition": "Secure Boot is a fundamental concept in computer-science.",
   "explanation": "Learn about Secure Boot and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "secure-boot"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

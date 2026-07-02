@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-13.topic-12",
   "name": "Condorcet Paradox",
   "subject": "game-theory",
+  "summary": "Condorcet Paradox is a fundamental concept in game-theory.",
   "definition": "Condorcet Paradox is a fundamental concept in game-theory.",
   "explanation": "Learn about Condorcet Paradox and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "condorcet-paradox"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

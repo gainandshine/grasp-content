@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-08.topic-04",
   "name": "Learning Disorders",
   "subject": "psychology",
+  "summary": "Learning Disorders is a fundamental concept in psychology.",
   "definition": "Learning Disorders is a fundamental concept in psychology.",
   "explanation": "Learn about Learning Disorders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "learning-disorders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

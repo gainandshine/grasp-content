@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-11.topic-05",
   "name": "Epigenetic Inheritance",
   "subject": "biology",
+  "summary": "Epigenetic Inheritance is a fundamental concept in biology.",
   "definition": "Epigenetic Inheritance is a fundamental concept in biology.",
   "explanation": "Learn about Epigenetic Inheritance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "epigenetic-inheritance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

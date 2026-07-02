@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-14.topic-03",
   "name": "Pyramids",
   "subject": "mathematics",
+  "summary": "Pyramids is a fundamental concept in mathematics.",
   "definition": "Pyramids is a fundamental concept in mathematics.",
   "explanation": "Learn about Pyramids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "pyramids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

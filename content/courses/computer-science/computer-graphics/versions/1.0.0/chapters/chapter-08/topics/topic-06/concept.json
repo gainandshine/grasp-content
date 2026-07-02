@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-08.topic-06",
   "name": "Environment Mapping",
   "subject": "computer-science",
+  "summary": "Environment Mapping is a fundamental concept in computer-science.",
   "definition": "Environment Mapping is a fundamental concept in computer-science.",
   "explanation": "Learn about Environment Mapping and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "environment-mapping"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

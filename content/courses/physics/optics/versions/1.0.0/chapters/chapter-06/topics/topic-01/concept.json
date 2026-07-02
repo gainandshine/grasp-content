@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-06.topic-01",
   "name": "Huygens' Principle",
   "subject": "physics",
+  "summary": "Huygens' Principle is a fundamental concept in physics.",
   "definition": "Huygens' Principle is a fundamental concept in physics.",
   "explanation": "Learn about Huygens' Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "huygens-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.contemporary-philosophy.chapter-10.topic-03",
   "name": "Autonomous Systems",
   "subject": "philosophy",
+  "summary": "Autonomous Systems is a fundamental concept in philosophy.",
   "definition": "Autonomous Systems is a fundamental concept in philosophy.",
   "explanation": "Learn about Autonomous Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "autonomous-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

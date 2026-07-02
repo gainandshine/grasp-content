@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-07.topic-01",
   "name": "Schwarzschild Black Holes",
   "subject": "physics",
+  "summary": "Schwarzschild Black Holes is a fundamental concept in physics.",
   "definition": "Schwarzschild Black Holes is a fundamental concept in physics.",
   "explanation": "Learn about Schwarzschild Black Holes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "schwarzschild-black-holes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

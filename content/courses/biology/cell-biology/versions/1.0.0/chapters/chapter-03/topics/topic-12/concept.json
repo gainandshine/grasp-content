@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-03.topic-12",
   "name": "Centrosomes",
   "subject": "biology",
+  "summary": "Centrosomes is a fundamental concept in biology.",
   "definition": "Centrosomes is a fundamental concept in biology.",
   "explanation": "Learn about Centrosomes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "centrosomes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-05.topic-05",
   "name": "Energy Release",
   "subject": "chemistry",
+  "summary": "Energy Release is a fundamental concept in chemistry.",
   "definition": "Energy Release is a fundamental concept in chemistry.",
   "explanation": "Learn about Energy Release and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "energy-release"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

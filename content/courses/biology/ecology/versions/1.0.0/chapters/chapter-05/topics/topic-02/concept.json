@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-05.topic-02",
   "name": "Tropical Rainforest",
   "subject": "biology",
+  "summary": "Tropical Rainforest is a fundamental concept in biology.",
   "definition": "Tropical Rainforest is a fundamental concept in biology.",
   "explanation": "Learn about Tropical Rainforest and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "tropical-rainforest"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

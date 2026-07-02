@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-13.topic-17",
   "name": "Digital Forensics",
   "subject": "computer-science",
+  "summary": "Digital Forensics is a fundamental concept in computer-science.",
   "definition": "Digital Forensics is a fundamental concept in computer-science.",
   "explanation": "Learn about Digital Forensics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "digital-forensics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

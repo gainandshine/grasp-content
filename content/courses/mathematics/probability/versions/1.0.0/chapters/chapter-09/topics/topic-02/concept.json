@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-09.topic-02",
   "name": "Functions of Random Variables",
   "subject": "mathematics",
+  "summary": "Functions of Random Variables is a fundamental concept in mathematics.",
   "definition": "Functions of Random Variables is a fundamental concept in mathematics.",
   "explanation": "Learn about Functions of Random Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "functions-of-random-variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

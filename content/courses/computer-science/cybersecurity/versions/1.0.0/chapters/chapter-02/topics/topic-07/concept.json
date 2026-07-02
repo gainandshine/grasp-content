@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-02.topic-07",
   "name": "Key Management",
   "subject": "computer-science",
+  "summary": "Key Management is a fundamental concept in computer-science.",
   "definition": "Key Management is a fundamental concept in computer-science.",
   "explanation": "Learn about Key Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "key-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

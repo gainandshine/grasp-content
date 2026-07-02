@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-21",
   "name": "Software Maintenance",
   "subject": "computer-science",
+  "summary": "Software Maintenance is a fundamental concept in computer-science.",
   "definition": "Software Maintenance is a fundamental concept in computer-science.",
   "explanation": "Learn about Software Maintenance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "software-maintenance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

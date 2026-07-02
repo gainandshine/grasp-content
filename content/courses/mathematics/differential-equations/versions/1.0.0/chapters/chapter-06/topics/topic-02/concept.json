@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-06.topic-02",
   "name": "Variation of Parameters",
   "subject": "mathematics",
+  "summary": "Variation of Parameters is a fundamental concept in mathematics.",
   "definition": "Variation of Parameters is a fundamental concept in mathematics.",
   "explanation": "Learn about Variation of Parameters and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "variation-of-parameters"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

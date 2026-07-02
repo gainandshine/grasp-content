@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-08.topic-05",
   "name": "Diagonalization",
   "subject": "mathematics",
+  "summary": "Diagonalization is a fundamental concept in mathematics.",
   "definition": "Diagonalization is a fundamental concept in mathematics.",
   "explanation": "Learn about Diagonalization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "diagonalization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-14.topic-05",
   "name": "Computer Algorithms",
   "subject": "mathematics",
+  "summary": "Computer Algorithms is a fundamental concept in mathematics.",
   "definition": "Computer Algorithms is a fundamental concept in mathematics.",
   "explanation": "Learn about Computer Algorithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "computer-algorithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

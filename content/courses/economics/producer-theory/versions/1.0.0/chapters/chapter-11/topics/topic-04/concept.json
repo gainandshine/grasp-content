@@ -2,6 +2,7 @@
   "id": "economics.producer-theory.chapter-11.topic-04",
   "name": "Productivity Measurement",
   "subject": "economics",
+  "summary": "Productivity Measurement is a fundamental concept in economics.",
   "definition": "Productivity Measurement is a fundamental concept in economics.",
   "explanation": "Learn about Productivity Measurement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "productivity-measurement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

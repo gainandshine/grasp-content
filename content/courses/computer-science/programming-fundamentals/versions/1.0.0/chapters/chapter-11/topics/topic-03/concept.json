@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-11.topic-03",
   "name": "Flowcharts",
   "subject": "computer-science",
+  "summary": "Flowcharts is a fundamental concept in computer-science.",
   "definition": "Flowcharts is a fundamental concept in computer-science.",
   "explanation": "Learn about Flowcharts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "flowcharts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

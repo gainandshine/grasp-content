@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-02.topic-04",
   "name": "Heat Exchangers",
   "subject": "chemistry",
+  "summary": "Heat Exchangers is a fundamental concept in chemistry.",
   "definition": "Heat Exchangers is a fundamental concept in chemistry.",
   "explanation": "Learn about Heat Exchangers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "heat-exchangers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

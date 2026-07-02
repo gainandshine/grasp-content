@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-09.topic-07",
   "name": "Homo sapiens",
   "subject": "biology",
+  "summary": "Homo sapiens is a fundamental concept in biology.",
   "definition": "Homo sapiens is a fundamental concept in biology.",
   "explanation": "Learn about Homo sapiens and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "homo-sapiens"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

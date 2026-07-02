@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-06.topic-04",
   "name": "Forgiveness",
   "subject": "game-theory",
+  "summary": "Forgiveness is a fundamental concept in game-theory.",
   "definition": "Forgiveness is a fundamental concept in game-theory.",
   "explanation": "Learn about Forgiveness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "forgiveness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

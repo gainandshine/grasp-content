@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-01.topic-06",
   "name": "Units of Work",
   "subject": "physics",
+  "summary": "Units of Work is a fundamental concept in physics.",
   "definition": "Units of Work is a fundamental concept in physics.",
   "explanation": "Learn about Units of Work and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "units-of-work"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

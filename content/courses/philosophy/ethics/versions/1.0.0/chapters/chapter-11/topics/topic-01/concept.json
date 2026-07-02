@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-11.topic-01",
   "name": "Cultural Diversity",
   "subject": "philosophy",
+  "summary": "Cultural Diversity is a fundamental concept in philosophy.",
   "definition": "Cultural Diversity is a fundamental concept in philosophy.",
   "explanation": "Learn about Cultural Diversity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "cultural-diversity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

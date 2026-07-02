@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-02.topic-03",
   "name": "Metallic Bonding",
   "subject": "physics",
+  "summary": "Metallic Bonding is a fundamental concept in physics.",
   "definition": "Metallic Bonding is a fundamental concept in physics.",
   "explanation": "Learn about Metallic Bonding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "metallic-bonding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

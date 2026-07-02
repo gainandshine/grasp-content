@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-12.topic-16",
   "name": "Arrhenius Equation",
   "subject": "chemistry",
+  "summary": "Arrhenius Equation is a fundamental concept in chemistry.",
   "definition": "Arrhenius Equation is a fundamental concept in chemistry.",
   "explanation": "Learn about Arrhenius Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "arrhenius-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

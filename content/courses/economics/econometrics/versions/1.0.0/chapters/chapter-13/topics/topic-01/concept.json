@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-13.topic-01",
   "name": "Bayesian Econometrics",
   "subject": "economics",
+  "summary": "Bayesian Econometrics is a fundamental concept in economics.",
   "definition": "Bayesian Econometrics is a fundamental concept in economics.",
   "explanation": "Learn about Bayesian Econometrics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "bayesian-econometrics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

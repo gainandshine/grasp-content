@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-02.topic-07",
   "name": "Backtracking (Introduction)",
   "subject": "computer-science",
+  "summary": "Backtracking (Introduction) is a fundamental concept in computer-science.",
   "definition": "Backtracking (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Backtracking (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "backtracking-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

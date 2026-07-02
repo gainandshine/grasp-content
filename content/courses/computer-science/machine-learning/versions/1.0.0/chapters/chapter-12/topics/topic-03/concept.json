@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-12.topic-03",
   "name": "Embeddings",
   "subject": "computer-science",
+  "summary": "Embeddings is a fundamental concept in computer-science.",
   "definition": "Embeddings is a fundamental concept in computer-science.",
   "explanation": "Learn about Embeddings and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "embeddings"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

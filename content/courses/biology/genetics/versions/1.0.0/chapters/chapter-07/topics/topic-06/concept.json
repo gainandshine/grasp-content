@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-07.topic-06",
   "name": "Cystic Fibrosis",
   "subject": "biology",
+  "summary": "Cystic Fibrosis is a fundamental concept in biology.",
   "definition": "Cystic Fibrosis is a fundamental concept in biology.",
   "explanation": "Learn about Cystic Fibrosis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cystic-fibrosis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

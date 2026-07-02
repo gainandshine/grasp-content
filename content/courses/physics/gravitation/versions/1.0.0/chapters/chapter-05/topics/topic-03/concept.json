@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-05.topic-03",
   "name": "Orbital Period",
   "subject": "physics",
+  "summary": "Orbital Period is a fundamental concept in physics.",
   "definition": "Orbital Period is a fundamental concept in physics.",
   "explanation": "Learn about Orbital Period and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "orbital-period"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

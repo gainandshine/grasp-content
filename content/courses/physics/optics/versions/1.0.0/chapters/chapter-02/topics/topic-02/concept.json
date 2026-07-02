@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-02.topic-02",
   "name": "Plane Mirrors",
   "subject": "physics",
+  "summary": "Plane Mirrors is a fundamental concept in physics.",
   "definition": "Plane Mirrors is a fundamental concept in physics.",
   "explanation": "Learn about Plane Mirrors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plane-mirrors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

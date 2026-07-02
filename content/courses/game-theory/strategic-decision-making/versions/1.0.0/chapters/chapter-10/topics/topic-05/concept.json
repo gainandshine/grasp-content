@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-10.topic-05",
   "name": "Beliefs",
   "subject": "game-theory",
+  "summary": "Beliefs is a fundamental concept in game-theory.",
   "definition": "Beliefs is a fundamental concept in game-theory.",
   "explanation": "Learn about Beliefs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "beliefs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-03.topic-05",
   "name": "Phospholipids",
   "subject": "chemistry",
+  "summary": "Phospholipids is a fundamental concept in chemistry.",
   "definition": "Phospholipids is a fundamental concept in chemistry.",
   "explanation": "Learn about Phospholipids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "phospholipids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

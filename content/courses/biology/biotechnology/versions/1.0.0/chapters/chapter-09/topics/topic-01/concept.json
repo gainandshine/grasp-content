@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-09.topic-01",
   "name": "Fermentation Technology",
   "subject": "biology",
+  "summary": "Fermentation Technology is a fundamental concept in biology.",
   "definition": "Fermentation Technology is a fundamental concept in biology.",
   "explanation": "Learn about Fermentation Technology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "fermentation-technology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

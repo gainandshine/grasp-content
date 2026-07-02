@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-06.topic-07",
   "name": "Enzyme Inhibition",
   "subject": "chemistry",
+  "summary": "Enzyme Inhibition is a fundamental concept in chemistry.",
   "definition": "Enzyme Inhibition is a fundamental concept in chemistry.",
   "explanation": "Learn about Enzyme Inhibition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "enzyme-inhibition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

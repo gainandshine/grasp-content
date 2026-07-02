@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-02.topic-01",
   "name": "Everyday Arguments",
   "subject": "philosophy",
+  "summary": "Everyday Arguments is a fundamental concept in philosophy.",
   "definition": "Everyday Arguments is a fundamental concept in philosophy.",
   "explanation": "Learn about Everyday Arguments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "everyday-arguments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

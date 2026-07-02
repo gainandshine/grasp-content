@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-03",
   "name": "Curl",
   "subject": "mathematics",
+  "summary": "Curl is a fundamental concept in mathematics.",
   "definition": "Curl is a fundamental concept in mathematics.",
   "explanation": "Learn about Curl and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "curl"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

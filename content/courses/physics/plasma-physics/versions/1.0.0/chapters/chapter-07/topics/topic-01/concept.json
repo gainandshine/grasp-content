@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-07.topic-01",
   "name": "Magnetic Confinement",
   "subject": "physics",
+  "summary": "Magnetic Confinement is a fundamental concept in physics.",
   "definition": "Magnetic Confinement is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Confinement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-confinement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

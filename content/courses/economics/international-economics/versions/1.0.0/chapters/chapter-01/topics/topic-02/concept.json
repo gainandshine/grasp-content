@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-01.topic-02",
   "name": "Global Trade",
   "subject": "economics",
+  "summary": "Global Trade is a fundamental concept in economics.",
   "definition": "Global Trade is a fundamental concept in economics.",
   "explanation": "Learn about Global Trade and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "global-trade"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

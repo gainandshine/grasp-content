@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-03.topic-05",
   "name": "Weak Electrolytes",
   "subject": "chemistry",
+  "summary": "Weak Electrolytes is a fundamental concept in chemistry.",
   "definition": "Weak Electrolytes is a fundamental concept in chemistry.",
   "explanation": "Learn about Weak Electrolytes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "weak-electrolytes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-01.topic-02",
   "name": "Discovery of Cells",
   "subject": "biology",
+  "summary": "Discovery of Cells is a fundamental concept in biology.",
   "definition": "Discovery of Cells is a fundamental concept in biology.",
   "explanation": "Learn about Discovery of Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "discovery-of-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

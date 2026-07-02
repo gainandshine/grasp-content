@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-02.topic-03",
   "name": "Matrix Algebra",
   "subject": "chemistry",
+  "summary": "Matrix Algebra is a fundamental concept in chemistry.",
   "definition": "Matrix Algebra is a fundamental concept in chemistry.",
   "explanation": "Learn about Matrix Algebra and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "matrix-algebra"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

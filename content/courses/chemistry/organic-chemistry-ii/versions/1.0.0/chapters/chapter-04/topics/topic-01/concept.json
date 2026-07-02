@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-04.topic-01",
   "name": "Carbonyl Group",
   "subject": "chemistry",
+  "summary": "Carbonyl Group is a fundamental concept in chemistry.",
   "definition": "Carbonyl Group is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbonyl Group and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbonyl-group"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-07.topic-04",
   "name": "Diversity & Inclusion",
   "subject": "psychology",
+  "summary": "Diversity & Inclusion is a fundamental concept in psychology.",
   "definition": "Diversity & Inclusion is a fundamental concept in psychology.",
   "explanation": "Learn about Diversity & Inclusion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "diversity-inclusion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

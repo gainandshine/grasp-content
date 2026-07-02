@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-10.topic-04",
   "name": "Detection Limit",
   "subject": "chemistry",
+  "summary": "Detection Limit is a fundamental concept in chemistry.",
   "definition": "Detection Limit is a fundamental concept in chemistry.",
   "explanation": "Learn about Detection Limit and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "detection-limit"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

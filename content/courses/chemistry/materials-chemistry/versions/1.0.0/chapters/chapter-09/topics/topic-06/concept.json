@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-09.topic-06",
   "name": "Thermoelectric Materials",
   "subject": "chemistry",
+  "summary": "Thermoelectric Materials is a fundamental concept in chemistry.",
   "definition": "Thermoelectric Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Thermoelectric Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "thermoelectric-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

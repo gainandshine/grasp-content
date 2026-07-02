@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-06.topic-02",
   "name": "Möbius Function",
   "subject": "mathematics",
+  "summary": "Möbius Function is a fundamental concept in mathematics.",
   "definition": "Möbius Function is a fundamental concept in mathematics.",
   "explanation": "Learn about Möbius Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mbius-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

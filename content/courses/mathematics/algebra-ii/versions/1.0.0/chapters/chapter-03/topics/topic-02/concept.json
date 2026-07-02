@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-03.topic-02",
   "name": "Polynomial Graphs",
   "subject": "mathematics",
+  "summary": "Polynomial Graphs is a fundamental concept in mathematics.",
   "definition": "Polynomial Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Polynomial Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polynomial-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-08.topic-03",
   "name": "Family Dynamics",
   "subject": "psychology",
+  "summary": "Family Dynamics is a fundamental concept in psychology.",
   "definition": "Family Dynamics is a fundamental concept in psychology.",
   "explanation": "Learn about Family Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "family-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

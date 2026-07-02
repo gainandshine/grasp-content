@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-06.topic-05",
   "name": "Merging",
   "subject": "computer-science",
+  "summary": "Merging is a fundamental concept in computer-science.",
   "definition": "Merging is a fundamental concept in computer-science.",
   "explanation": "Learn about Merging and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "merging"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

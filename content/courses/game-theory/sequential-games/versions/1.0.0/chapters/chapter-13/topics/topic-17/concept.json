@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-13.topic-17",
   "name": "Applications in AI",
   "subject": "game-theory",
+  "summary": "Applications in AI is a fundamental concept in game-theory.",
   "definition": "Applications in AI is a fundamental concept in game-theory.",
   "explanation": "Learn about Applications in AI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "applications-in-ai"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

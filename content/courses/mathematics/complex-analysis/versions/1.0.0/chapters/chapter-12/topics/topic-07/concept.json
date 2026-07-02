@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-12.topic-07",
   "name": "Topology",
   "subject": "mathematics",
+  "summary": "Topology is a fundamental concept in mathematics.",
   "definition": "Topology is a fundamental concept in mathematics.",
   "explanation": "Learn about Topology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "topology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

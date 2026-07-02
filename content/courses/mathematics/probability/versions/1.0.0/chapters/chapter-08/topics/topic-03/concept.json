@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-08.topic-03",
   "name": "Conditional Distributions",
   "subject": "mathematics",
+  "summary": "Conditional Distributions is a fundamental concept in mathematics.",
   "definition": "Conditional Distributions is a fundamental concept in mathematics.",
   "explanation": "Learn about Conditional Distributions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "conditional-distributions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

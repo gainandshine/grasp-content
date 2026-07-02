@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-11.topic-02",
   "name": "Privacy",
   "subject": "computer-science",
+  "summary": "Privacy is a fundamental concept in computer-science.",
   "definition": "Privacy is a fundamental concept in computer-science.",
   "explanation": "Learn about Privacy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "privacy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

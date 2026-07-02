@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-10.topic-04",
   "name": "Outsourcing",
   "subject": "economics",
+  "summary": "Outsourcing is a fundamental concept in economics.",
   "definition": "Outsourcing is a fundamental concept in economics.",
   "explanation": "Learn about Outsourcing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "outsourcing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-03.topic-02",
   "name": "Independent Events",
   "subject": "mathematics",
+  "summary": "Independent Events is a fundamental concept in mathematics.",
   "definition": "Independent Events is a fundamental concept in mathematics.",
   "explanation": "Learn about Independent Events and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "independent-events"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

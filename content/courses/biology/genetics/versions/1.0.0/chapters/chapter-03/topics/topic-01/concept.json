@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-03.topic-01",
   "name": "Incomplete Dominance",
   "subject": "biology",
+  "summary": "Incomplete Dominance is a fundamental concept in biology.",
   "definition": "Incomplete Dominance is a fundamental concept in biology.",
   "explanation": "Learn about Incomplete Dominance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "incomplete-dominance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

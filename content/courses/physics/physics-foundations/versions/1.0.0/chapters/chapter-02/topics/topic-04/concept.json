@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-02.topic-04",
   "name": "Prefixes (Milli, Kilo, Mega...)",
   "subject": "physics",
+  "summary": "Prefixes (Milli, Kilo, Mega...) is a fundamental concept in physics.",
   "definition": "Prefixes (Milli, Kilo, Mega...) is a fundamental concept in physics.",
   "explanation": "Learn about Prefixes (Milli, Kilo, Mega...) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "prefixes-milli-kilo-mega"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

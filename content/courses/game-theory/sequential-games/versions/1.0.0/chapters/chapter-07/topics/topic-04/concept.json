@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-07.topic-04",
   "name": "Deterrence",
   "subject": "game-theory",
+  "summary": "Deterrence is a fundamental concept in game-theory.",
   "definition": "Deterrence is a fundamental concept in game-theory.",
   "explanation": "Learn about Deterrence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "deterrence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

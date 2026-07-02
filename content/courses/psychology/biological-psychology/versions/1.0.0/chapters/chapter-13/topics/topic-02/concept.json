@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-13.topic-02",
   "name": "Brain-Computer Interfaces",
   "subject": "psychology",
+  "summary": "Brain-Computer Interfaces is a fundamental concept in psychology.",
   "definition": "Brain-Computer Interfaces is a fundamental concept in psychology.",
   "explanation": "Learn about Brain-Computer Interfaces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "brain-computer-interfaces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-09.topic-02",
   "name": "Safety Rules",
   "subject": "chemistry",
+  "summary": "Safety Rules is a fundamental concept in chemistry.",
   "definition": "Safety Rules is a fundamental concept in chemistry.",
   "explanation": "Learn about Safety Rules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "safety-rules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-02.topic-05",
   "name": "Sigma Bonds",
   "subject": "chemistry",
+  "summary": "Sigma Bonds is a fundamental concept in chemistry.",
   "definition": "Sigma Bonds is a fundamental concept in chemistry.",
   "explanation": "Learn about Sigma Bonds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sigma-bonds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

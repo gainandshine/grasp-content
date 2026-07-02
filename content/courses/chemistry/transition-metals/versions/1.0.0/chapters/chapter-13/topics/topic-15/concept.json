@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-13.topic-15",
   "name": "Stability Constants",
   "subject": "chemistry",
+  "summary": "Stability Constants is a fundamental concept in chemistry.",
   "definition": "Stability Constants is a fundamental concept in chemistry.",
   "explanation": "Learn about Stability Constants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "stability-constants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

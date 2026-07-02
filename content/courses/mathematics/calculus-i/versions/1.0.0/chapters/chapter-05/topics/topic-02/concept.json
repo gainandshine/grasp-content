@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-05.topic-02",
   "name": "Implicit Derivatives",
   "subject": "mathematics",
+  "summary": "Implicit Derivatives is a fundamental concept in mathematics.",
   "definition": "Implicit Derivatives is a fundamental concept in mathematics.",
   "explanation": "Learn about Implicit Derivatives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "implicit-derivatives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

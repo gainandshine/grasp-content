@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-02.topic-02",
   "name": "Brønsted-Lowry Theory",
   "subject": "chemistry",
+  "summary": "Brønsted-Lowry Theory is a fundamental concept in chemistry.",
   "definition": "Brønsted-Lowry Theory is a fundamental concept in chemistry.",
   "explanation": "Learn about Brønsted-Lowry Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "brnsted-lowry-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

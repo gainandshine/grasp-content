@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-06.topic-02",
   "name": "REST APIs",
   "subject": "computer-science",
+  "summary": "REST APIs is a fundamental concept in computer-science.",
   "definition": "REST APIs is a fundamental concept in computer-science.",
   "explanation": "Learn about REST APIs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "rest-apis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

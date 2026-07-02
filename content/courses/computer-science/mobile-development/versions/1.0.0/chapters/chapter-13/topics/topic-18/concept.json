@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-18",
   "name": "Fault Tolerance",
   "subject": "computer-science",
+  "summary": "Fault Tolerance is a fundamental concept in computer-science.",
   "definition": "Fault Tolerance is a fundamental concept in computer-science.",
   "explanation": "Learn about Fault Tolerance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fault-tolerance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-01",
   "name": "Hooke's Law",
   "subject": "physics",
+  "summary": "Hooke's Law is a fundamental concept in physics.",
   "definition": "Hooke's Law is a fundamental concept in physics.",
   "explanation": "Learn about Hooke's Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "hookes-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

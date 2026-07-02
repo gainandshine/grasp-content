@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-11.topic-04",
   "name": "Grants",
   "subject": "economics",
+  "summary": "Grants is a fundamental concept in economics.",
   "definition": "Grants is a fundamental concept in economics.",
   "explanation": "Learn about Grants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "grants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

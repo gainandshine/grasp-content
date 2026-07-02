@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-08.topic-01",
   "name": "Angular Momentum (Introduction)",
   "subject": "physics",
+  "summary": "Angular Momentum (Introduction) is a fundamental concept in physics.",
   "definition": "Angular Momentum (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Angular Momentum (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "angular-momentum-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

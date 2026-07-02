@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-13.topic-13",
   "name": "Databases at Scale",
   "subject": "computer-science",
+  "summary": "Databases at Scale is a fundamental concept in computer-science.",
   "definition": "Databases at Scale is a fundamental concept in computer-science.",
   "explanation": "Learn about Databases at Scale and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "databases-at-scale"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

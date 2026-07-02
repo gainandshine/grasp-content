@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-13.topic-04",
   "name": "Coordination Polymers",
   "subject": "chemistry",
+  "summary": "Coordination Polymers is a fundamental concept in chemistry.",
   "definition": "Coordination Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Coordination Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "coordination-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

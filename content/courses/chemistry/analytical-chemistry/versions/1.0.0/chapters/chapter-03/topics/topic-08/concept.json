@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-03.topic-08",
   "name": "Confidence Intervals",
   "subject": "chemistry",
+  "summary": "Confidence Intervals is a fundamental concept in chemistry.",
   "definition": "Confidence Intervals is a fundamental concept in chemistry.",
   "explanation": "Learn about Confidence Intervals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "confidence-intervals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

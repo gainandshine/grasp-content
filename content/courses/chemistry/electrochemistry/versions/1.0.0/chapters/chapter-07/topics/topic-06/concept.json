@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-07.topic-06",
   "name": "Industrial Electrolysis",
   "subject": "chemistry",
+  "summary": "Industrial Electrolysis is a fundamental concept in chemistry.",
   "definition": "Industrial Electrolysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Industrial Electrolysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "industrial-electrolysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

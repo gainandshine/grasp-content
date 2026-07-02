@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-07.topic-05",
   "name": "Carbanions",
   "subject": "chemistry",
+  "summary": "Carbanions is a fundamental concept in chemistry.",
   "definition": "Carbanions is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbanions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbanions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

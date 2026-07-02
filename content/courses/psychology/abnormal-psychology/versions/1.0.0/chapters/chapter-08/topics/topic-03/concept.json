@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-08.topic-03",
   "name": "Intellectual Disability",
   "subject": "psychology",
+  "summary": "Intellectual Disability is a fundamental concept in psychology.",
   "definition": "Intellectual Disability is a fundamental concept in psychology.",
   "explanation": "Learn about Intellectual Disability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "intellectual-disability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

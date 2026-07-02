@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-13.topic-04",
   "name": "Circles",
   "subject": "mathematics",
+  "summary": "Circles is a fundamental concept in mathematics.",
   "definition": "Circles is a fundamental concept in mathematics.",
   "explanation": "Learn about Circles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "circles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

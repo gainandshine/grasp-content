@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-04.topic-05",
   "name": "Graviton (Theoretical)",
   "subject": "physics",
+  "summary": "Graviton (Theoretical) is a fundamental concept in physics.",
   "definition": "Graviton (Theoretical) is a fundamental concept in physics.",
   "explanation": "Learn about Graviton (Theoretical) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "graviton-theoretical"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-07.topic-01",
   "name": "Abstract Classes",
   "subject": "computer-science",
+  "summary": "Abstract Classes is a fundamental concept in computer-science.",
   "definition": "Abstract Classes is a fundamental concept in computer-science.",
   "explanation": "Learn about Abstract Classes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "abstract-classes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

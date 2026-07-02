@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-11.topic-06",
   "name": "Sustainable Resource Management",
   "subject": "economics",
+  "summary": "Sustainable Resource Management is a fundamental concept in economics.",
   "definition": "Sustainable Resource Management is a fundamental concept in economics.",
   "explanation": "Learn about Sustainable Resource Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "sustainable-resource-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

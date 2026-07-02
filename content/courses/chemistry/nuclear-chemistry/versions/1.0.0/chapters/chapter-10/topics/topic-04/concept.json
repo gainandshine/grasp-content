@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-10.topic-04",
   "name": "Diagnostic Radiopharmaceuticals",
   "subject": "chemistry",
+  "summary": "Diagnostic Radiopharmaceuticals is a fundamental concept in chemistry.",
   "definition": "Diagnostic Radiopharmaceuticals is a fundamental concept in chemistry.",
   "explanation": "Learn about Diagnostic Radiopharmaceuticals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "diagnostic-radiopharmaceuticals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

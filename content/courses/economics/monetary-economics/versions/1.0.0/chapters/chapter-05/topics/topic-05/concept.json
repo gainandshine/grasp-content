@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-05.topic-05",
   "name": "Inflation Expectations",
   "subject": "economics",
+  "summary": "Inflation Expectations is a fundamental concept in economics.",
   "definition": "Inflation Expectations is a fundamental concept in economics.",
   "explanation": "Learn about Inflation Expectations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "inflation-expectations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

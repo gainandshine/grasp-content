@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-07.topic-05",
   "name": "Transcription Factors",
   "subject": "biology",
+  "summary": "Transcription Factors is a fundamental concept in biology.",
   "definition": "Transcription Factors is a fundamental concept in biology.",
   "explanation": "Learn about Transcription Factors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "transcription-factors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

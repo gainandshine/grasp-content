@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-08.topic-03",
   "name": "Solving Recurrences",
   "subject": "mathematics",
+  "summary": "Solving Recurrences is a fundamental concept in mathematics.",
   "definition": "Solving Recurrences is a fundamental concept in mathematics.",
   "explanation": "Learn about Solving Recurrences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "solving-recurrences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

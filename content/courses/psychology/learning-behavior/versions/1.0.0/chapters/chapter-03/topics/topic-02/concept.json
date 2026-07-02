@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-03.topic-02",
   "name": "Operant Behavior",
   "subject": "psychology",
+  "summary": "Operant Behavior is a fundamental concept in psychology.",
   "definition": "Operant Behavior is a fundamental concept in psychology.",
   "explanation": "Learn about Operant Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "operant-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

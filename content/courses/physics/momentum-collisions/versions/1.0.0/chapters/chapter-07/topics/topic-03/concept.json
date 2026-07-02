@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-07.topic-03",
   "name": "Rocket Propulsion (Introduction)",
   "subject": "physics",
+  "summary": "Rocket Propulsion (Introduction) is a fundamental concept in physics.",
   "definition": "Rocket Propulsion (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Rocket Propulsion (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rocket-propulsion-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

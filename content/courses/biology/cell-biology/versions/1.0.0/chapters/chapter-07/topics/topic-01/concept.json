@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-07.topic-01",
   "name": "Cell Cycle Overview",
   "subject": "biology",
+  "summary": "Cell Cycle Overview is a fundamental concept in biology.",
   "definition": "Cell Cycle Overview is a fundamental concept in biology.",
   "explanation": "Learn about Cell Cycle Overview and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cell-cycle-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

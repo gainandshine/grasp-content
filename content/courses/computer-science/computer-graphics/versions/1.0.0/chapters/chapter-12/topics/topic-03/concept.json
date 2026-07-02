@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-12.topic-03",
   "name": "Scientific Visualization",
   "subject": "computer-science",
+  "summary": "Scientific Visualization is a fundamental concept in computer-science.",
   "definition": "Scientific Visualization is a fundamental concept in computer-science.",
   "explanation": "Learn about Scientific Visualization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scientific-visualization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-03.topic-04",
   "name": "Multiplication Rule",
   "subject": "mathematics",
+  "summary": "Multiplication Rule is a fundamental concept in mathematics.",
   "definition": "Multiplication Rule is a fundamental concept in mathematics.",
   "explanation": "Learn about Multiplication Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "multiplication-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

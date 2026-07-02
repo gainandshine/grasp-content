@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-02.topic-05",
   "name": "Goal-Based Agents",
   "subject": "computer-science",
+  "summary": "Goal-Based Agents is a fundamental concept in computer-science.",
   "definition": "Goal-Based Agents is a fundamental concept in computer-science.",
   "explanation": "Learn about Goal-Based Agents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "goal-based-agents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

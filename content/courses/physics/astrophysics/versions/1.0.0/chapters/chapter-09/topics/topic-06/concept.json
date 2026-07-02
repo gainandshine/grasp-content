@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-09.topic-06",
   "name": "Cosmic Rays",
   "subject": "physics",
+  "summary": "Cosmic Rays is a fundamental concept in physics.",
   "definition": "Cosmic Rays is a fundamental concept in physics.",
   "explanation": "Learn about Cosmic Rays and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cosmic-rays"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

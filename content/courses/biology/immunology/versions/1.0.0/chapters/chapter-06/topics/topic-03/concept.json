@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-06.topic-03",
   "name": "Antigen Presentation",
   "subject": "biology",
+  "summary": "Antigen Presentation is a fundamental concept in biology.",
   "definition": "Antigen Presentation is a fundamental concept in biology.",
   "explanation": "Learn about Antigen Presentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "antigen-presentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-01.topic-05",
   "name": "Roles in Data Science",
   "subject": "computer-science",
+  "summary": "Roles in Data Science is a fundamental concept in computer-science.",
   "definition": "Roles in Data Science is a fundamental concept in computer-science.",
   "explanation": "Learn about Roles in Data Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "roles-in-data-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

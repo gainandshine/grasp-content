@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-03.topic-04",
   "name": "Case Studies",
   "subject": "psychology",
+  "summary": "Case Studies is a fundamental concept in psychology.",
   "definition": "Case Studies is a fundamental concept in psychology.",
   "explanation": "Learn about Case Studies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "case-studies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

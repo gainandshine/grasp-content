@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-04.topic-05",
   "name": "Trimolecular Reactions",
   "subject": "chemistry",
+  "summary": "Trimolecular Reactions is a fundamental concept in chemistry.",
   "definition": "Trimolecular Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Trimolecular Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "trimolecular-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

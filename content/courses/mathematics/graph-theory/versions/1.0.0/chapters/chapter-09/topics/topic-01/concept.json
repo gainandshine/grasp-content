@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-09.topic-01",
   "name": "Vertex Coloring",
   "subject": "mathematics",
+  "summary": "Vertex Coloring is a fundamental concept in mathematics.",
   "definition": "Vertex Coloring is a fundamental concept in mathematics.",
   "explanation": "Learn about Vertex Coloring and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "vertex-coloring"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

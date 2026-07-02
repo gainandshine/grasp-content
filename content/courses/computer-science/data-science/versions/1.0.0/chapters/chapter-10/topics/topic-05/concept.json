@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-10.topic-05",
   "name": "Decision Support Systems",
   "subject": "computer-science",
+  "summary": "Decision Support Systems is a fundamental concept in computer-science.",
   "definition": "Decision Support Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Decision Support Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "decision-support-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

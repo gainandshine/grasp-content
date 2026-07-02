@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-12.topic-03",
   "name": "Traceroute",
   "subject": "computer-science",
+  "summary": "Traceroute is a fundamental concept in computer-science.",
   "definition": "Traceroute is a fundamental concept in computer-science.",
   "explanation": "Learn about Traceroute and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "traceroute"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

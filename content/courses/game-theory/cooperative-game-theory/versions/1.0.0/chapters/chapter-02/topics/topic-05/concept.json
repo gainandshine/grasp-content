@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-02.topic-05",
   "name": "Coalition Formation Processes",
   "subject": "game-theory",
+  "summary": "Coalition Formation Processes is a fundamental concept in game-theory.",
   "definition": "Coalition Formation Processes is a fundamental concept in game-theory.",
   "explanation": "Learn about Coalition Formation Processes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "coalition-formation-processes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

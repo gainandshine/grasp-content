@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-08.topic-06",
   "name": "Oxidizing Ability",
   "subject": "chemistry",
+  "summary": "Oxidizing Ability is a fundamental concept in chemistry.",
   "definition": "Oxidizing Ability is a fundamental concept in chemistry.",
   "explanation": "Learn about Oxidizing Ability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oxidizing-ability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

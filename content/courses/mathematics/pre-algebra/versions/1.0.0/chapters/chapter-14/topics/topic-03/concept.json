@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-14.topic-03",
   "name": "Experimental Probability",
   "subject": "mathematics",
+  "summary": "Experimental Probability is a fundamental concept in mathematics.",
   "definition": "Experimental Probability is a fundamental concept in mathematics.",
   "explanation": "Learn about Experimental Probability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "experimental-probability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

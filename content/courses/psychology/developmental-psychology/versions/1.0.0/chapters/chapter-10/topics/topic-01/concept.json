@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-10.topic-01",
   "name": "Piaget's Cognitive Development",
   "subject": "psychology",
+  "summary": "Piaget's Cognitive Development is a fundamental concept in psychology.",
   "definition": "Piaget's Cognitive Development is a fundamental concept in psychology.",
   "explanation": "Learn about Piaget's Cognitive Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "piagets-cognitive-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-06.topic-06",
   "name": "Greedy Proofs",
   "subject": "computer-science",
+  "summary": "Greedy Proofs is a fundamental concept in computer-science.",
   "definition": "Greedy Proofs is a fundamental concept in computer-science.",
   "explanation": "Learn about Greedy Proofs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "greedy-proofs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-10.topic-02",
   "name": "Matching",
   "subject": "mathematics",
+  "summary": "Matching is a fundamental concept in mathematics.",
   "definition": "Matching is a fundamental concept in mathematics.",
   "explanation": "Learn about Matching and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "matching"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

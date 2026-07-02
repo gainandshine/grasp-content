@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-11.topic-05",
   "name": "Metallic Crystals",
   "subject": "chemistry",
+  "summary": "Metallic Crystals is a fundamental concept in chemistry.",
   "definition": "Metallic Crystals is a fundamental concept in chemistry.",
   "explanation": "Learn about Metallic Crystals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metallic-crystals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

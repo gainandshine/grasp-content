@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-07.topic-05",
   "name": "Interleukins",
   "subject": "biology",
+  "summary": "Interleukins is a fundamental concept in biology.",
   "definition": "Interleukins is a fundamental concept in biology.",
   "explanation": "Learn about Interleukins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "interleukins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

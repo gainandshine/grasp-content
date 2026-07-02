@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-07.topic-06",
   "name": "IMAP & POP3",
   "subject": "computer-science",
+  "summary": "IMAP & POP3 is a fundamental concept in computer-science.",
   "definition": "IMAP & POP3 is a fundamental concept in computer-science.",
   "explanation": "Learn about IMAP & POP3 and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "imap-pop3"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

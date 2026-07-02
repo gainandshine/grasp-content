@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-07.topic-01",
   "name": "Honest Signaling",
   "subject": "game-theory",
+  "summary": "Honest Signaling is a fundamental concept in game-theory.",
   "definition": "Honest Signaling is a fundamental concept in game-theory.",
   "explanation": "Learn about Honest Signaling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "honest-signaling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

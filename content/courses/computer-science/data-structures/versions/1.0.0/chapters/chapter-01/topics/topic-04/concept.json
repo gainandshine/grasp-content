@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-01.topic-04",
   "name": "Time Complexity",
   "subject": "computer-science",
+  "summary": "Time Complexity is a fundamental concept in computer-science.",
   "definition": "Time Complexity is a fundamental concept in computer-science.",
   "explanation": "Learn about Time Complexity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "time-complexity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

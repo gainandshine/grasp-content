@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-07.topic-03",
   "name": "Time Series Forecasting",
   "subject": "computer-science",
+  "summary": "Time Series Forecasting is a fundamental concept in computer-science.",
   "definition": "Time Series Forecasting is a fundamental concept in computer-science.",
   "explanation": "Learn about Time Series Forecasting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "time-series-forecasting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

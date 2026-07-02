@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-07.topic-06",
   "name": "Strategic Coordination",
   "subject": "game-theory",
+  "summary": "Strategic Coordination is a fundamental concept in game-theory.",
   "definition": "Strategic Coordination is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Coordination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-coordination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

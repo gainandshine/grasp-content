@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-09.topic-04",
   "name": "Gram-Schmidt Process",
   "subject": "mathematics",
+  "summary": "Gram-Schmidt Process is a fundamental concept in mathematics.",
   "definition": "Gram-Schmidt Process is a fundamental concept in mathematics.",
   "explanation": "Learn about Gram-Schmidt Process and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "gram-schmidt-process"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

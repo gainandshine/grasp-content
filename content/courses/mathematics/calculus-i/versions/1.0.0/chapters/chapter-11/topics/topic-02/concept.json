@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-11.topic-02",
   "name": "Right Riemann Sum",
   "subject": "mathematics",
+  "summary": "Right Riemann Sum is a fundamental concept in mathematics.",
   "definition": "Right Riemann Sum is a fundamental concept in mathematics.",
   "explanation": "Learn about Right Riemann Sum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "right-riemann-sum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

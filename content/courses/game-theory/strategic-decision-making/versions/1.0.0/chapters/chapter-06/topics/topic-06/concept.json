@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-06.topic-06",
   "name": "Equilibrium Intuition",
   "subject": "game-theory",
+  "summary": "Equilibrium Intuition is a fundamental concept in game-theory.",
   "definition": "Equilibrium Intuition is a fundamental concept in game-theory.",
   "explanation": "Learn about Equilibrium Intuition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "equilibrium-intuition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

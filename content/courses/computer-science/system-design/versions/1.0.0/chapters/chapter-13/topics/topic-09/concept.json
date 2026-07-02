@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-09",
   "name": "Distributed System Fundamentals",
   "subject": "computer-science",
+  "summary": "Distributed System Fundamentals is a fundamental concept in computer-science.",
   "definition": "Distributed System Fundamentals is a fundamental concept in computer-science.",
   "explanation": "Learn about Distributed System Fundamentals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "distributed-system-fundamentals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

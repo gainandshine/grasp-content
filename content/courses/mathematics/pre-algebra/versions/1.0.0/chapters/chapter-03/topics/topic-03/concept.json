@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-03.topic-03",
   "name": "Fraction ↔ Decimal",
   "subject": "mathematics",
+  "summary": "Fraction ↔ Decimal is a fundamental concept in mathematics.",
   "definition": "Fraction ↔ Decimal is a fundamental concept in mathematics.",
   "explanation": "Learn about Fraction ↔ Decimal and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "fraction-decimal"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

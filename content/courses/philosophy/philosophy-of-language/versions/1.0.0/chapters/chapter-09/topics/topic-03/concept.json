@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-language.chapter-09.topic-03",
   "name": "Miscommunication",
   "subject": "philosophy",
+  "summary": "Miscommunication is a fundamental concept in philosophy.",
   "definition": "Miscommunication is a fundamental concept in philosophy.",
   "explanation": "Learn about Miscommunication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "miscommunication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

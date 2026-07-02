@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-02.topic-04",
   "name": "Conjugate Acids",
   "subject": "chemistry",
+  "summary": "Conjugate Acids is a fundamental concept in chemistry.",
   "definition": "Conjugate Acids is a fundamental concept in chemistry.",
   "explanation": "Learn about Conjugate Acids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "conjugate-acids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

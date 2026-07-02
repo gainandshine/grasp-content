@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-05.topic-02",
   "name": "Client Cache",
   "subject": "computer-science",
+  "summary": "Client Cache is a fundamental concept in computer-science.",
   "definition": "Client Cache is a fundamental concept in computer-science.",
   "explanation": "Learn about Client Cache and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "client-cache"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

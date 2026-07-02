@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-02.topic-03",
   "name": "Psychological Well-Being",
   "subject": "psychology",
+  "summary": "Psychological Well-Being is a fundamental concept in psychology.",
   "definition": "Psychological Well-Being is a fundamental concept in psychology.",
   "explanation": "Learn about Psychological Well-Being and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "psychological-well-being"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

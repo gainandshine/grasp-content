@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-01.topic-02",
   "name": "Chemical Basis of Life",
   "subject": "biology",
+  "summary": "Chemical Basis of Life is a fundamental concept in biology.",
   "definition": "Chemical Basis of Life is a fundamental concept in biology.",
   "explanation": "Learn about Chemical Basis of Life and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "chemical-basis-of-life"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

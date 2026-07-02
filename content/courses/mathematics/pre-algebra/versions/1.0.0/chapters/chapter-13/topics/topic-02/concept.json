@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-13.topic-02",
   "name": "Triangles",
   "subject": "mathematics",
+  "summary": "Triangles is a fundamental concept in mathematics.",
   "definition": "Triangles is a fundamental concept in mathematics.",
   "explanation": "Learn about Triangles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "triangles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

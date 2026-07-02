@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-09.topic-03",
   "name": "Graphing on Number Line",
   "subject": "mathematics",
+  "summary": "Graphing on Number Line is a fundamental concept in mathematics.",
   "definition": "Graphing on Number Line is a fundamental concept in mathematics.",
   "explanation": "Learn about Graphing on Number Line and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "graphing-on-number-line"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

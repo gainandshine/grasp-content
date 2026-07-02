@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-06.topic-07",
   "name": "Projectile Trajectory",
   "subject": "physics",
+  "summary": "Projectile Trajectory is a fundamental concept in physics.",
   "definition": "Projectile Trajectory is a fundamental concept in physics.",
   "explanation": "Learn about Projectile Trajectory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "projectile-trajectory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

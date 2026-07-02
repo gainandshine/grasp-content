@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-06.topic-03",
   "name": "Squares",
   "subject": "mathematics",
+  "summary": "Squares is a fundamental concept in mathematics.",
   "definition": "Squares is a fundamental concept in mathematics.",
   "explanation": "Learn about Squares and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "squares"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

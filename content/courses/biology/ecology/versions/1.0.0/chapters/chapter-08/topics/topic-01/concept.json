@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-08.topic-01",
   "name": "Conservation Principles",
   "subject": "biology",
+  "summary": "Conservation Principles is a fundamental concept in biology.",
   "definition": "Conservation Principles is a fundamental concept in biology.",
   "explanation": "Learn about Conservation Principles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "conservation-principles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

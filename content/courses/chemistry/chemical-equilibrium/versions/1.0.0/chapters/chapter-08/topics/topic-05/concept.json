@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-08.topic-05",
   "name": "Solubility Calculations",
   "subject": "chemistry",
+  "summary": "Solubility Calculations is a fundamental concept in chemistry.",
   "definition": "Solubility Calculations is a fundamental concept in chemistry.",
   "explanation": "Learn about Solubility Calculations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solubility-calculations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

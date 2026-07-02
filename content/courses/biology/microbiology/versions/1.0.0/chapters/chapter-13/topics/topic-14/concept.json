@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-14",
   "name": "Complement System",
   "subject": "biology",
+  "summary": "Complement System is a fundamental concept in biology.",
   "definition": "Complement System is a fundamental concept in biology.",
   "explanation": "Learn about Complement System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "complement-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

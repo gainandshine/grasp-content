@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-08.topic-05",
   "name": "Common Function Expansions",
   "subject": "mathematics",
+  "summary": "Common Function Expansions is a fundamental concept in mathematics.",
   "definition": "Common Function Expansions is a fundamental concept in mathematics.",
   "explanation": "Learn about Common Function Expansions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "common-function-expansions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

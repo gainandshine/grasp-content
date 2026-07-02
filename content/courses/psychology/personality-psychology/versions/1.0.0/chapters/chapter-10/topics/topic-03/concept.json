@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-10.topic-03",
   "name": "Leadership",
   "subject": "psychology",
+  "summary": "Leadership is a fundamental concept in psychology.",
   "definition": "Leadership is a fundamental concept in psychology.",
   "explanation": "Learn about Leadership and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "leadership"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

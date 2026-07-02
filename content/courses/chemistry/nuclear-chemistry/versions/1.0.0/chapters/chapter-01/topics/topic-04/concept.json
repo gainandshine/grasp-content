@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-01.topic-04",
   "name": "Nuclear Forces",
   "subject": "chemistry",
+  "summary": "Nuclear Forces is a fundamental concept in chemistry.",
   "definition": "Nuclear Forces is a fundamental concept in chemistry.",
   "explanation": "Learn about Nuclear Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nuclear-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

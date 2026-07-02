@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-09.topic-03",
   "name": "Cyclotrons",
   "subject": "physics",
+  "summary": "Cyclotrons is a fundamental concept in physics.",
   "definition": "Cyclotrons is a fundamental concept in physics.",
   "explanation": "Learn about Cyclotrons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cyclotrons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

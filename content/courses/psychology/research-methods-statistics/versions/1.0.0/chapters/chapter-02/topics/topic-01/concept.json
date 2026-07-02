@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-02.topic-01",
   "name": "Experimental Research",
   "subject": "psychology",
+  "summary": "Experimental Research is a fundamental concept in psychology.",
   "definition": "Experimental Research is a fundamental concept in psychology.",
   "explanation": "Learn about Experimental Research and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "experimental-research"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

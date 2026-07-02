@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-07.topic-06",
   "name": "Deadlocks",
   "subject": "computer-science",
+  "summary": "Deadlocks is a fundamental concept in computer-science.",
   "definition": "Deadlocks is a fundamental concept in computer-science.",
   "explanation": "Learn about Deadlocks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "deadlocks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-08.topic-03",
   "name": "Moral Hazard",
   "subject": "game-theory",
+  "summary": "Moral Hazard is a fundamental concept in game-theory.",
   "definition": "Moral Hazard is a fundamental concept in game-theory.",
   "explanation": "Learn about Moral Hazard and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "moral-hazard"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

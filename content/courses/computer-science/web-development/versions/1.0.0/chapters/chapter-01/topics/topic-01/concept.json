@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-01.topic-01",
   "name": "How the Web Works",
   "subject": "computer-science",
+  "summary": "How the Web Works is a fundamental concept in computer-science.",
   "definition": "How the Web Works is a fundamental concept in computer-science.",
   "explanation": "Learn about How the Web Works and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "how-the-web-works"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

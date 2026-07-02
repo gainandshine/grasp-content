@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-05.topic-03",
   "name": "Kirchhoff's Laws",
   "subject": "physics",
+  "summary": "Kirchhoff's Laws is a fundamental concept in physics.",
   "definition": "Kirchhoff's Laws is a fundamental concept in physics.",
   "explanation": "Learn about Kirchhoff's Laws and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "kirchhoffs-laws"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

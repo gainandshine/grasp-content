@@ -2,6 +2,7 @@
   "id": "physics.waves-sound.chapter-03.topic-02",
   "name": "Wave Medium",
   "subject": "physics",
+  "summary": "Wave Medium is a fundamental concept in physics.",
   "definition": "Wave Medium is a fundamental concept in physics.",
   "explanation": "Learn about Wave Medium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "wave-medium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

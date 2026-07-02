@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-01.topic-05",
   "name": "Mental Health & Well-Being",
   "subject": "psychology",
+  "summary": "Mental Health & Well-Being is a fundamental concept in psychology.",
   "definition": "Mental Health & Well-Being is a fundamental concept in psychology.",
   "explanation": "Learn about Mental Health & Well-Being and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mental-health-well-being"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-14.topic-09",
   "name": "**Discrete Mathematics**",
   "subject": "mathematics",
+  "summary": "**Discrete Mathematics** is a fundamental concept in mathematics.",
   "definition": "**Discrete Mathematics** is a fundamental concept in mathematics.",
   "explanation": "Learn about **Discrete Mathematics** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "discrete-mathematics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

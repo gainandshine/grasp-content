@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-13.topic-18",
   "name": "Organizational Change",
   "subject": "psychology",
+  "summary": "Organizational Change is a fundamental concept in psychology.",
   "definition": "Organizational Change is a fundamental concept in psychology.",
   "explanation": "Learn about Organizational Change and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "organizational-change"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

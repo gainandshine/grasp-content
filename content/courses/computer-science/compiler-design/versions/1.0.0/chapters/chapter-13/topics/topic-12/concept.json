@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-13.topic-12",
   "name": "Linear Transformations",
   "subject": "computer-science",
+  "summary": "Linear Transformations is a fundamental concept in computer-science.",
   "definition": "Linear Transformations is a fundamental concept in computer-science.",
   "explanation": "Learn about Linear Transformations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "linear-transformations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

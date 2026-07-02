@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-19",
   "name": "Medical Microbiology",
   "subject": "biology",
+  "summary": "Medical Microbiology is a fundamental concept in biology.",
   "definition": "Medical Microbiology is a fundamental concept in biology.",
   "explanation": "Learn about Medical Microbiology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "medical-microbiology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

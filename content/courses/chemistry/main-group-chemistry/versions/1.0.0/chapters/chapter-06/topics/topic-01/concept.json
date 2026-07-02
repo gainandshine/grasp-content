@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-06.topic-01",
   "name": "Nitrogen",
   "subject": "chemistry",
+  "summary": "Nitrogen is a fundamental concept in chemistry.",
   "definition": "Nitrogen is a fundamental concept in chemistry.",
   "explanation": "Learn about Nitrogen and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nitrogen"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

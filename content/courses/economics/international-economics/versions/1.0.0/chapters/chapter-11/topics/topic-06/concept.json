@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-11.topic-06",
   "name": "Digital Trade",
   "subject": "economics",
+  "summary": "Digital Trade is a fundamental concept in economics.",
   "definition": "Digital Trade is a fundamental concept in economics.",
   "explanation": "Learn about Digital Trade and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "digital-trade"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

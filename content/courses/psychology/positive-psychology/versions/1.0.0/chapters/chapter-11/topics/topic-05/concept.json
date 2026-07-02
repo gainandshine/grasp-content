@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-11.topic-05",
   "name": "Healthy Habits",
   "subject": "psychology",
+  "summary": "Healthy Habits is a fundamental concept in psychology.",
   "definition": "Healthy Habits is a fundamental concept in psychology.",
   "explanation": "Learn about Healthy Habits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "healthy-habits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

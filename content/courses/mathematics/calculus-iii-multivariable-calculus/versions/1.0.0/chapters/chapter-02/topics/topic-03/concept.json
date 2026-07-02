@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-03",
   "name": "Unit Vectors",
   "subject": "mathematics",
+  "summary": "Unit Vectors is a fundamental concept in mathematics.",
   "definition": "Unit Vectors is a fundamental concept in mathematics.",
   "explanation": "Learn about Unit Vectors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "unit-vectors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

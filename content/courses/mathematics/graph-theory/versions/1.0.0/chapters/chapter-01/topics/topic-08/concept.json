@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-01.topic-08",
   "name": "Multigraphs",
   "subject": "mathematics",
+  "summary": "Multigraphs is a fundamental concept in mathematics.",
   "definition": "Multigraphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Multigraphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "multigraphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

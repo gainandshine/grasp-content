@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-04",
   "name": "Respiratory Disorders",
   "subject": "biology",
+  "summary": "Respiratory Disorders is a fundamental concept in biology.",
   "definition": "Respiratory Disorders is a fundamental concept in biology.",
   "explanation": "Learn about Respiratory Disorders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "respiratory-disorders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

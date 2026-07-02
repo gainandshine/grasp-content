@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-11.topic-07",
   "name": "Monitoring & Logging",
   "subject": "computer-science",
+  "summary": "Monitoring & Logging is a fundamental concept in computer-science.",
   "definition": "Monitoring & Logging is a fundamental concept in computer-science.",
   "explanation": "Learn about Monitoring & Logging and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "monitoring-logging"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-04.topic-03",
   "name": "Mutex Locks",
   "subject": "computer-science",
+  "summary": "Mutex Locks is a fundamental concept in computer-science.",
   "definition": "Mutex Locks is a fundamental concept in computer-science.",
   "explanation": "Learn about Mutex Locks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mutex-locks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

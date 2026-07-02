@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-07.topic-06",
   "name": "Global Variables",
   "subject": "computer-science",
+  "summary": "Global Variables is a fundamental concept in computer-science.",
   "definition": "Global Variables is a fundamental concept in computer-science.",
   "explanation": "Learn about Global Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "global-variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

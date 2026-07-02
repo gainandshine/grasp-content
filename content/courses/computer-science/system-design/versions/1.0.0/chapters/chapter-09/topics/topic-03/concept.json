@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-09.topic-03",
   "name": "gRPC (Introduction)",
   "subject": "computer-science",
+  "summary": "gRPC (Introduction) is a fundamental concept in computer-science.",
   "definition": "gRPC (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about gRPC (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "grpc-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

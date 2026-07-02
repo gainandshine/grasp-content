@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-08.topic-02",
   "name": "Endocrine Glands",
   "subject": "biology",
+  "summary": "Endocrine Glands is a fundamental concept in biology.",
   "definition": "Endocrine Glands is a fundamental concept in biology.",
   "explanation": "Learn about Endocrine Glands and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "endocrine-glands"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

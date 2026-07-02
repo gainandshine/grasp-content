@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-09.topic-05",
   "name": "Cyber Deterrence",
   "subject": "game-theory",
+  "summary": "Cyber Deterrence is a fundamental concept in game-theory.",
   "definition": "Cyber Deterrence is a fundamental concept in game-theory.",
   "explanation": "Learn about Cyber Deterrence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "cyber-deterrence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

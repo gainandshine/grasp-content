@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-14",
   "name": "Neural Networks",
   "subject": "computer-science",
+  "summary": "Neural Networks is a fundamental concept in computer-science.",
   "definition": "Neural Networks is a fundamental concept in computer-science.",
   "explanation": "Learn about Neural Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "neural-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

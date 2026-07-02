@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-11.topic-03",
   "name": "Polynomial Regression",
   "subject": "mathematics",
+  "summary": "Polynomial Regression is a fundamental concept in mathematics.",
   "definition": "Polynomial Regression is a fundamental concept in mathematics.",
   "explanation": "Learn about Polynomial Regression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polynomial-regression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

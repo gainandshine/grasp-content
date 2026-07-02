@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-19",
   "name": "DevOps Basics",
   "subject": "computer-science",
+  "summary": "DevOps Basics is a fundamental concept in computer-science.",
   "definition": "DevOps Basics is a fundamental concept in computer-science.",
   "explanation": "Learn about DevOps Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "devops-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

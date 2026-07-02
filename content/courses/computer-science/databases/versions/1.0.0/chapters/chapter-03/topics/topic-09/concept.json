@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-03.topic-09",
   "name": "HAVING",
   "subject": "computer-science",
+  "summary": "HAVING is a fundamental concept in computer-science.",
   "definition": "HAVING is a fundamental concept in computer-science.",
   "explanation": "Learn about HAVING and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "having"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

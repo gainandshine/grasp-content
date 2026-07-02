@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-06.topic-04",
   "name": "Extreme Value Theorem",
   "subject": "mathematics",
+  "summary": "Extreme Value Theorem is a fundamental concept in mathematics.",
   "definition": "Extreme Value Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Extreme Value Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "extreme-value-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

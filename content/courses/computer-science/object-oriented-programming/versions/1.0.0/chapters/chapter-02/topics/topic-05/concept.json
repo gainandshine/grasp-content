@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-02.topic-05",
   "name": "Object References",
   "subject": "computer-science",
+  "summary": "Object References is a fundamental concept in computer-science.",
   "definition": "Object References is a fundamental concept in computer-science.",
   "explanation": "Learn about Object References and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "object-references"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

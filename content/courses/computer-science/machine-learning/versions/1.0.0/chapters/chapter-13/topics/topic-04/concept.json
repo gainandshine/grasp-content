@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-13.topic-04",
   "name": "Fraud Detection",
   "subject": "computer-science",
+  "summary": "Fraud Detection is a fundamental concept in computer-science.",
   "definition": "Fraud Detection is a fundamental concept in computer-science.",
   "explanation": "Learn about Fraud Detection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fraud-detection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

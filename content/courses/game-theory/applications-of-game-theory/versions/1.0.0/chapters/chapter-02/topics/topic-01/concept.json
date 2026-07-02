@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-02.topic-01",
   "name": "Oligopoly Competition",
   "subject": "game-theory",
+  "summary": "Oligopoly Competition is a fundamental concept in game-theory.",
   "definition": "Oligopoly Competition is a fundamental concept in game-theory.",
   "explanation": "Learn about Oligopoly Competition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "oligopoly-competition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

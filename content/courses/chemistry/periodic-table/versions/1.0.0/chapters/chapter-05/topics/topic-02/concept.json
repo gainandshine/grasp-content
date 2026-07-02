@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-05.topic-02",
   "name": "Successive Ionization Energies",
   "subject": "chemistry",
+  "summary": "Successive Ionization Energies is a fundamental concept in chemistry.",
   "definition": "Successive Ionization Energies is a fundamental concept in chemistry.",
   "explanation": "Learn about Successive Ionization Energies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "successive-ionization-energies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

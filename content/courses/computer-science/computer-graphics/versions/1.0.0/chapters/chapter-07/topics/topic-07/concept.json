@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-07.topic-07",
   "name": "Normal Vectors",
   "subject": "computer-science",
+  "summary": "Normal Vectors is a fundamental concept in computer-science.",
   "definition": "Normal Vectors is a fundamental concept in computer-science.",
   "explanation": "Learn about Normal Vectors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "normal-vectors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

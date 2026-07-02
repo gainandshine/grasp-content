@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-06.topic-05",
   "name": "File Uploads",
   "subject": "computer-science",
+  "summary": "File Uploads is a fundamental concept in computer-science.",
   "definition": "File Uploads is a fundamental concept in computer-science.",
   "explanation": "Learn about File Uploads and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "file-uploads"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

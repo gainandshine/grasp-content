@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-13.topic-18",
   "name": "Databases for Web Apps",
   "subject": "computer-science",
+  "summary": "Databases for Web Apps is a fundamental concept in computer-science.",
   "definition": "Databases for Web Apps is a fundamental concept in computer-science.",
   "explanation": "Learn about Databases for Web Apps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "databases-for-web-apps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

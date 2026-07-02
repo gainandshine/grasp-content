@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-02.topic-06",
   "name": "Mass-Energy Equivalence",
   "subject": "physics",
+  "summary": "Mass-Energy Equivalence is a fundamental concept in physics.",
   "definition": "Mass-Energy Equivalence is a fundamental concept in physics.",
   "explanation": "Learn about Mass-Energy Equivalence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "mass-energy-equivalence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

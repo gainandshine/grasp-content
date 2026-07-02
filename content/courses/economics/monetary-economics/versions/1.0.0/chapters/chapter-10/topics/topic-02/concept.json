@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-10.topic-02",
   "name": "Mobile Payments",
   "subject": "economics",
+  "summary": "Mobile Payments is a fundamental concept in economics.",
   "definition": "Mobile Payments is a fundamental concept in economics.",
   "explanation": "Learn about Mobile Payments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "mobile-payments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

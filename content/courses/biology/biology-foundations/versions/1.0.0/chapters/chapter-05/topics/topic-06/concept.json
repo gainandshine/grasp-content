@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-05.topic-06",
   "name": "Organ Systems",
   "subject": "biology",
+  "summary": "Organ Systems is a fundamental concept in biology.",
   "definition": "Organ Systems is a fundamental concept in biology.",
   "explanation": "Learn about Organ Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "organ-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

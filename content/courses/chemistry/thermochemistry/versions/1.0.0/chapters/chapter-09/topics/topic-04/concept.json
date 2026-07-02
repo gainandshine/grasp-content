@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-09.topic-04",
   "name": "Non-Spontaneous Processes",
   "subject": "chemistry",
+  "summary": "Non-Spontaneous Processes is a fundamental concept in chemistry.",
   "definition": "Non-Spontaneous Processes is a fundamental concept in chemistry.",
   "explanation": "Learn about Non-Spontaneous Processes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "non-spontaneous-processes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

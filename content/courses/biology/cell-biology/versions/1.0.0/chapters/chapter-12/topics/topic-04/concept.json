@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-12.topic-04",
   "name": "Tissue Engineering",
   "subject": "biology",
+  "summary": "Tissue Engineering is a fundamental concept in biology.",
   "definition": "Tissue Engineering is a fundamental concept in biology.",
   "explanation": "Learn about Tissue Engineering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "tissue-engineering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

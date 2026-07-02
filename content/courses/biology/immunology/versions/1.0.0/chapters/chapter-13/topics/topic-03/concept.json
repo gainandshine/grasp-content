@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-03",
   "name": "Immune Checkpoint Inhibitors",
   "subject": "biology",
+  "summary": "Immune Checkpoint Inhibitors is a fundamental concept in biology.",
   "definition": "Immune Checkpoint Inhibitors is a fundamental concept in biology.",
   "explanation": "Learn about Immune Checkpoint Inhibitors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "immune-checkpoint-inhibitors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

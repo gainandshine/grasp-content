@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-01.topic-03",
   "name": "Static vs Dynamic Data Structures",
   "subject": "computer-science",
+  "summary": "Static vs Dynamic Data Structures is a fundamental concept in computer-science.",
   "definition": "Static vs Dynamic Data Structures is a fundamental concept in computer-science.",
   "explanation": "Learn about Static vs Dynamic Data Structures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "static-vs-dynamic-data-structures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

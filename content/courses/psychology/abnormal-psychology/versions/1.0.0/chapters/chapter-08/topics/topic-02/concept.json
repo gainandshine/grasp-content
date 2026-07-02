@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-08.topic-02",
   "name": "Attention-Deficit/Hyperactivity Disorder (ADHD)",
   "subject": "psychology",
+  "summary": "Attention-Deficit/Hyperactivity Disorder (ADHD) is a fundamental concept in psychology.",
   "definition": "Attention-Deficit/Hyperactivity Disorder (ADHD) is a fundamental concept in psychology.",
   "explanation": "Learn about Attention-Deficit/Hyperactivity Disorder (ADHD) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "attention-deficithyperactivity-disorder-adhd"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

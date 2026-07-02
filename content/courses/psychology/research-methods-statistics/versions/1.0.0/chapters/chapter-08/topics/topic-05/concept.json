@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-08.topic-05",
   "name": "Prediction",
   "subject": "psychology",
+  "summary": "Prediction is a fundamental concept in psychology.",
   "definition": "Prediction is a fundamental concept in psychology.",
   "explanation": "Learn about Prediction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "prediction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

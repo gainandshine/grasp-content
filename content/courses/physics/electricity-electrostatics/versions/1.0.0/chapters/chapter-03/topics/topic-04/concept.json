@@ -2,6 +2,7 @@
   "id": "physics.electricity-electrostatics.chapter-03.topic-04",
   "name": "Uniform Electric Field",
   "subject": "physics",
+  "summary": "Uniform Electric Field is a fundamental concept in physics.",
   "definition": "Uniform Electric Field is a fundamental concept in physics.",
   "explanation": "Learn about Uniform Electric Field and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "uniform-electric-field"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

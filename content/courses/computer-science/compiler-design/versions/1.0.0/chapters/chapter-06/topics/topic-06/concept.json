@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-06.topic-06",
   "name": "Function Inlining",
   "subject": "computer-science",
+  "summary": "Function Inlining is a fundamental concept in computer-science.",
   "definition": "Function Inlining is a fundamental concept in computer-science.",
   "explanation": "Learn about Function Inlining and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "function-inlining"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

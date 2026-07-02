@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-06.topic-02",
   "name": "Paging",
   "subject": "computer-science",
+  "summary": "Paging is a fundamental concept in computer-science.",
   "definition": "Paging is a fundamental concept in computer-science.",
   "explanation": "Learn about Paging and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "paging"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

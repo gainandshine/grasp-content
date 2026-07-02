@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-13.topic-10",
   "name": "Brain Structure",
   "subject": "psychology",
+  "summary": "Brain Structure is a fundamental concept in psychology.",
   "definition": "Brain Structure is a fundamental concept in psychology.",
   "explanation": "Learn about Brain Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "brain-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

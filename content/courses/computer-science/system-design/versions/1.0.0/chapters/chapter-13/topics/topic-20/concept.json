@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-20",
   "name": "Large-Scale Distributed Architectures",
   "subject": "computer-science",
+  "summary": "Large-Scale Distributed Architectures is a fundamental concept in computer-science.",
   "definition": "Large-Scale Distributed Architectures is a fundamental concept in computer-science.",
   "explanation": "Learn about Large-Scale Distributed Architectures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "large-scale-distributed-architectures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

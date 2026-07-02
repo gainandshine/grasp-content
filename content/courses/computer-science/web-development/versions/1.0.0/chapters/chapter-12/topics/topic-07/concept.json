@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-12.topic-07",
   "name": "Web Standards",
   "subject": "computer-science",
+  "summary": "Web Standards is a fundamental concept in computer-science.",
   "definition": "Web Standards is a fundamental concept in computer-science.",
   "explanation": "Learn about Web Standards and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "web-standards"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

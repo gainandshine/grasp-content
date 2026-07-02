@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-05.topic-02",
   "name": "Silicon",
   "subject": "chemistry",
+  "summary": "Silicon is a fundamental concept in chemistry.",
   "definition": "Silicon is a fundamental concept in chemistry.",
   "explanation": "Learn about Silicon and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "silicon"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

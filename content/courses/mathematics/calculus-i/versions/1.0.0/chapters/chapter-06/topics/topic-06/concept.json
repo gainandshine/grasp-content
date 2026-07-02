@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-06.topic-06",
   "name": "Inflection Points",
   "subject": "mathematics",
+  "summary": "Inflection Points is a fundamental concept in mathematics.",
   "definition": "Inflection Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Inflection Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "inflection-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

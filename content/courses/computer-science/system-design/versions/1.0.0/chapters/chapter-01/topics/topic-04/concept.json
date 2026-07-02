@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-01.topic-04",
   "name": "Scalability",
   "subject": "computer-science",
+  "summary": "Scalability is a fundamental concept in computer-science.",
   "definition": "Scalability is a fundamental concept in computer-science.",
   "explanation": "Learn about Scalability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scalability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

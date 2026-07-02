@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-01.topic-04",
   "name": "Multiples",
   "subject": "mathematics",
+  "summary": "Multiples is a fundamental concept in mathematics.",
   "definition": "Multiples is a fundamental concept in mathematics.",
   "explanation": "Learn about Multiples and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "multiples"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

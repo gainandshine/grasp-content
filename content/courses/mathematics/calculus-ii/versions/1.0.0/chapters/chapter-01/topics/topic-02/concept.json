@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-01.topic-02",
   "name": "Integration by Substitution",
   "subject": "mathematics",
+  "summary": "Integration by Substitution is a fundamental concept in mathematics.",
   "definition": "Integration by Substitution is a fundamental concept in mathematics.",
   "explanation": "Learn about Integration by Substitution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "integration-by-substitution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

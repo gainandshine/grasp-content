@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-07.topic-03",
   "name": "Portfolio Investment",
   "subject": "economics",
+  "summary": "Portfolio Investment is a fundamental concept in economics.",
   "definition": "Portfolio Investment is a fundamental concept in economics.",
   "explanation": "Learn about Portfolio Investment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "portfolio-investment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

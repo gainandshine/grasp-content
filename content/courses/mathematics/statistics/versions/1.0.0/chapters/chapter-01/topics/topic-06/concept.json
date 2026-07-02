@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-01.topic-06",
   "name": "Data Collection",
   "subject": "mathematics",
+  "summary": "Data Collection is a fundamental concept in mathematics.",
   "definition": "Data Collection is a fundamental concept in mathematics.",
   "explanation": "Learn about Data Collection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "data-collection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

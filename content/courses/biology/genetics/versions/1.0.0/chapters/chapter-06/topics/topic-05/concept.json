@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-06.topic-05",
   "name": "Twin Studies",
   "subject": "biology",
+  "summary": "Twin Studies is a fundamental concept in biology.",
   "definition": "Twin Studies is a fundamental concept in biology.",
   "explanation": "Learn about Twin Studies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "twin-studies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

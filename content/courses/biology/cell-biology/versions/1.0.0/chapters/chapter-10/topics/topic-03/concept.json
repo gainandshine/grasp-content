@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-10.topic-03",
   "name": "Desmosomes",
   "subject": "biology",
+  "summary": "Desmosomes is a fundamental concept in biology.",
   "definition": "Desmosomes is a fundamental concept in biology.",
   "explanation": "Learn about Desmosomes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "desmosomes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

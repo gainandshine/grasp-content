@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-06.topic-02",
   "name": "Acidic Buffers",
   "subject": "chemistry",
+  "summary": "Acidic Buffers is a fundamental concept in chemistry.",
   "definition": "Acidic Buffers is a fundamental concept in chemistry.",
   "explanation": "Learn about Acidic Buffers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "acidic-buffers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

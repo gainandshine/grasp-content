@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-01.topic-01",
   "name": "What is a Fluid?",
   "subject": "physics",
+  "summary": "What is a Fluid? is a fundamental concept in physics.",
   "definition": "What is a Fluid? is a fundamental concept in physics.",
   "explanation": "Learn about What is a Fluid? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "what-is-a-fluid"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-02.topic-05",
   "name": "Polar Form (Introduction)",
   "subject": "mathematics",
+  "summary": "Polar Form (Introduction) is a fundamental concept in mathematics.",
   "definition": "Polar Form (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Polar Form (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polar-form-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

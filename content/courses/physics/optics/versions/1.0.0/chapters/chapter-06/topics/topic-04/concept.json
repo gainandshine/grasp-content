@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-06.topic-04",
   "name": "Coherence",
   "subject": "physics",
+  "summary": "Coherence is a fundamental concept in physics.",
   "definition": "Coherence is a fundamental concept in physics.",
   "explanation": "Learn about Coherence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "coherence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-02.topic-02",
   "name": "Pressure Variation with Depth",
   "subject": "physics",
+  "summary": "Pressure Variation with Depth is a fundamental concept in physics.",
   "definition": "Pressure Variation with Depth is a fundamental concept in physics.",
   "explanation": "Learn about Pressure Variation with Depth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "pressure-variation-with-depth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

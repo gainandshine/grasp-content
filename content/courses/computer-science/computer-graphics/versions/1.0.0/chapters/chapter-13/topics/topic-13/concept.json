@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-13",
   "name": "Reasoning",
   "subject": "computer-science",
+  "summary": "Reasoning is a fundamental concept in computer-science.",
   "definition": "Reasoning is a fundamental concept in computer-science.",
   "explanation": "Learn about Reasoning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "reasoning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

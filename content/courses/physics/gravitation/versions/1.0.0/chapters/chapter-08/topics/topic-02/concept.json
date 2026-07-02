@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-08.topic-02",
   "name": "Second Law",
   "subject": "physics",
+  "summary": "Second Law is a fundamental concept in physics.",
   "definition": "Second Law is a fundamental concept in physics.",
   "explanation": "Learn about Second Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "second-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

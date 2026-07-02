@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-10.topic-01",
   "name": "Perturbation Theory",
   "subject": "physics",
+  "summary": "Perturbation Theory is a fundamental concept in physics.",
   "definition": "Perturbation Theory is a fundamental concept in physics.",
   "explanation": "Learn about Perturbation Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "perturbation-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

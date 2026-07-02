@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-07.topic-03",
   "name": "Constraint Propagation",
   "subject": "computer-science",
+  "summary": "Constraint Propagation is a fundamental concept in computer-science.",
   "definition": "Constraint Propagation is a fundamental concept in computer-science.",
   "explanation": "Learn about Constraint Propagation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "constraint-propagation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

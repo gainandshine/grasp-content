@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-12.topic-04",
   "name": "Equicontinuity (Introduction)",
   "subject": "mathematics",
+  "summary": "Equicontinuity (Introduction) is a fundamental concept in mathematics.",
   "definition": "Equicontinuity (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Equicontinuity (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "equicontinuity-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-04.topic-06",
   "name": "Holes in Graphs",
   "subject": "mathematics",
+  "summary": "Holes in Graphs is a fundamental concept in mathematics.",
   "definition": "Holes in Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Holes in Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "holes-in-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

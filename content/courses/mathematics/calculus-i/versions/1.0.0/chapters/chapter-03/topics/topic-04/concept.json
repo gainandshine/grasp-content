@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-03.topic-04",
   "name": "Sum Rule",
   "subject": "mathematics",
+  "summary": "Sum Rule is a fundamental concept in mathematics.",
   "definition": "Sum Rule is a fundamental concept in mathematics.",
   "explanation": "Learn about Sum Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sum-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

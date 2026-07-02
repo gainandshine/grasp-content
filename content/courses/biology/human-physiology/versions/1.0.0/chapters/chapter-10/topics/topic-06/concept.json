@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-10.topic-06",
   "name": "Inflammation",
   "subject": "biology",
+  "summary": "Inflammation is a fundamental concept in biology.",
   "definition": "Inflammation is a fundamental concept in biology.",
   "explanation": "Learn about Inflammation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "inflammation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

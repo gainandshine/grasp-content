@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-06.topic-03",
   "name": "Magnetic Permeability",
   "subject": "physics",
+  "summary": "Magnetic Permeability is a fundamental concept in physics.",
   "definition": "Magnetic Permeability is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Permeability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-permeability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

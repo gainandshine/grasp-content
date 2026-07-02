@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-02.topic-02",
   "name": "Restriction Enzymes",
   "subject": "biology",
+  "summary": "Restriction Enzymes is a fundamental concept in biology.",
   "definition": "Restriction Enzymes is a fundamental concept in biology.",
   "explanation": "Learn about Restriction Enzymes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "restriction-enzymes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

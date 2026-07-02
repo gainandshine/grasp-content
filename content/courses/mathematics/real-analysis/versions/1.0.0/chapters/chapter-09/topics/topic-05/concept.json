@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-09.topic-05",
   "name": "Interior",
   "subject": "mathematics",
+  "summary": "Interior is a fundamental concept in mathematics.",
   "definition": "Interior is a fundamental concept in mathematics.",
   "explanation": "Learn about Interior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "interior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

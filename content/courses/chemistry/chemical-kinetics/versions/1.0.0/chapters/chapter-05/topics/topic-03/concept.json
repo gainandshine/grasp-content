@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-05.topic-03",
   "name": "Collision Frequency",
   "subject": "chemistry",
+  "summary": "Collision Frequency is a fundamental concept in chemistry.",
   "definition": "Collision Frequency is a fundamental concept in chemistry.",
   "explanation": "Learn about Collision Frequency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "collision-frequency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

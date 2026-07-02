@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-11",
   "name": "Supervised Learning",
   "subject": "computer-science",
+  "summary": "Supervised Learning is a fundamental concept in computer-science.",
   "definition": "Supervised Learning is a fundamental concept in computer-science.",
   "explanation": "Learn about Supervised Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "supervised-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

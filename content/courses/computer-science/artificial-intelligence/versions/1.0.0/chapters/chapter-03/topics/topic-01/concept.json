@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-03.topic-01",
   "name": "State Space",
   "subject": "computer-science",
+  "summary": "State Space is a fundamental concept in computer-science.",
   "definition": "State Space is a fundamental concept in computer-science.",
   "explanation": "Learn about State Space and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "state-space"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

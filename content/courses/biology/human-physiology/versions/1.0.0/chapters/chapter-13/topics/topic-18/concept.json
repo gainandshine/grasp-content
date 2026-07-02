@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-18",
   "name": "Antimicrobial Drugs",
   "subject": "biology",
+  "summary": "Antimicrobial Drugs is a fundamental concept in biology.",
   "definition": "Antimicrobial Drugs is a fundamental concept in biology.",
   "explanation": "Learn about Antimicrobial Drugs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "antimicrobial-drugs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

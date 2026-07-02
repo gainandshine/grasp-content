@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-05.topic-09",
   "name": "Row Space",
   "subject": "mathematics",
+  "summary": "Row Space is a fundamental concept in mathematics.",
   "definition": "Row Space is a fundamental concept in mathematics.",
   "explanation": "Learn about Row Space and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "row-space"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

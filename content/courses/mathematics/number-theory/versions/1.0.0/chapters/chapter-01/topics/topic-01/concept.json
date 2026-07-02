@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-01.topic-01",
   "name": "Divisibility",
   "subject": "mathematics",
+  "summary": "Divisibility is a fundamental concept in mathematics.",
   "definition": "Divisibility is a fundamental concept in mathematics.",
   "explanation": "Learn about Divisibility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "divisibility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

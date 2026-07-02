@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-09.topic-04",
   "name": "Accumulation Functions",
   "subject": "mathematics",
+  "summary": "Accumulation Functions is a fundamental concept in mathematics.",
   "definition": "Accumulation Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Accumulation Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "accumulation-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

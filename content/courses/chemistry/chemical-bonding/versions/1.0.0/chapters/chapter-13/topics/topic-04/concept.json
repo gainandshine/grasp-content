@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-13.topic-04",
   "name": "Coordination Bonding (Introduction)",
   "subject": "chemistry",
+  "summary": "Coordination Bonding (Introduction) is a fundamental concept in chemistry.",
   "definition": "Coordination Bonding (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Coordination Bonding (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "coordination-bonding-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

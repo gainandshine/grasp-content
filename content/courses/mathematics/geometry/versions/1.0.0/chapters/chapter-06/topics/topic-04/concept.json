@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-06.topic-04",
   "name": "SSS Similarity",
   "subject": "mathematics",
+  "summary": "SSS Similarity is a fundamental concept in mathematics.",
   "definition": "SSS Similarity is a fundamental concept in mathematics.",
   "explanation": "Learn about SSS Similarity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sss-similarity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

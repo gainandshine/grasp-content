@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-08.topic-03",
   "name": "RIP",
   "subject": "computer-science",
+  "summary": "RIP is a fundamental concept in computer-science.",
   "definition": "RIP is a fundamental concept in computer-science.",
   "explanation": "Learn about RIP and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "rip"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

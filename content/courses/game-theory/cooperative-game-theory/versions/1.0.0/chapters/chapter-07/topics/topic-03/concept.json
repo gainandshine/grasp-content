@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-07.topic-03",
   "name": "Proportional Allocation",
   "subject": "game-theory",
+  "summary": "Proportional Allocation is a fundamental concept in game-theory.",
   "definition": "Proportional Allocation is a fundamental concept in game-theory.",
   "explanation": "Learn about Proportional Allocation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "proportional-allocation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

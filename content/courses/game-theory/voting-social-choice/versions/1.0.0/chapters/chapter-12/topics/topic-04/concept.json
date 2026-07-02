@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-12.topic-04",
   "name": "Online Platforms",
   "subject": "game-theory",
+  "summary": "Online Platforms is a fundamental concept in game-theory.",
   "definition": "Online Platforms is a fundamental concept in game-theory.",
   "explanation": "Learn about Online Platforms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "online-platforms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

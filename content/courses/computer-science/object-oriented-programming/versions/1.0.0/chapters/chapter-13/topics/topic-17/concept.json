@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-13.topic-17",
   "name": "Heaps",
   "subject": "computer-science",
+  "summary": "Heaps is a fundamental concept in computer-science.",
   "definition": "Heaps is a fundamental concept in computer-science.",
   "explanation": "Learn about Heaps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "heaps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

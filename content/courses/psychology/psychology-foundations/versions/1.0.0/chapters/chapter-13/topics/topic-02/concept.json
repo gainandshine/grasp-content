@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-13.topic-02",
   "name": "Cognitive Science",
   "subject": "psychology",
+  "summary": "Cognitive Science is a fundamental concept in psychology.",
   "definition": "Cognitive Science is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.epistemology.chapter-01.topic-03",
   "name": "Belief",
   "subject": "philosophy",
+  "summary": "Belief is a fundamental concept in philosophy.",
   "definition": "Belief is a fundamental concept in philosophy.",
   "explanation": "Learn about Belief and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "belief"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

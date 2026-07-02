@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-13.topic-09",
   "name": "Darwin's Theory",
   "subject": "biology",
+  "summary": "Darwin's Theory is a fundamental concept in biology.",
   "definition": "Darwin's Theory is a fundamental concept in biology.",
   "explanation": "Learn about Darwin's Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "darwins-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

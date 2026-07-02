@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-08.topic-03",
   "name": "Microstates",
   "subject": "chemistry",
+  "summary": "Microstates is a fundamental concept in chemistry.",
   "definition": "Microstates is a fundamental concept in chemistry.",
   "explanation": "Learn about Microstates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "microstates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

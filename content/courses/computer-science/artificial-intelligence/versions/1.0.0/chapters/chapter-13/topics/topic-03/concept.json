@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-03",
   "name": "Autonomous Vehicles",
   "subject": "computer-science",
+  "summary": "Autonomous Vehicles is a fundamental concept in computer-science.",
   "definition": "Autonomous Vehicles is a fundamental concept in computer-science.",
   "explanation": "Learn about Autonomous Vehicles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "autonomous-vehicles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

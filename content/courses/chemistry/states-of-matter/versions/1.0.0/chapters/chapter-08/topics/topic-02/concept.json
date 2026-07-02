@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-08.topic-02",
   "name": "Freezing",
   "subject": "chemistry",
+  "summary": "Freezing is a fundamental concept in chemistry.",
   "definition": "Freezing is a fundamental concept in chemistry.",
   "explanation": "Learn about Freezing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "freezing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

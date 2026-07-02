@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-02.topic-04",
   "name": "Use Cases",
   "subject": "computer-science",
+  "summary": "Use Cases is a fundamental concept in computer-science.",
   "definition": "Use Cases is a fundamental concept in computer-science.",
   "explanation": "Learn about Use Cases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "use-cases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

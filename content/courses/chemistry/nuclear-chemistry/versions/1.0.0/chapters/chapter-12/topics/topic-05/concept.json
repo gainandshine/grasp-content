@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-12.topic-05",
   "name": "Radioactive Waste Disposal",
   "subject": "chemistry",
+  "summary": "Radioactive Waste Disposal is a fundamental concept in chemistry.",
   "definition": "Radioactive Waste Disposal is a fundamental concept in chemistry.",
   "explanation": "Learn about Radioactive Waste Disposal and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "radioactive-waste-disposal"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

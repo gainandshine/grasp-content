@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-12.topic-06",
   "name": "SNMP",
   "subject": "computer-science",
+  "summary": "SNMP is a fundamental concept in computer-science.",
   "definition": "SNMP is a fundamental concept in computer-science.",
   "explanation": "Learn about SNMP and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "snmp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

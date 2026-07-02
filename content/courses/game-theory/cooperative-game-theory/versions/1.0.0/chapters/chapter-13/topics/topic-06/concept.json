@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-13.topic-06",
   "name": "Future of Cooperative Systems",
   "subject": "game-theory",
+  "summary": "Future of Cooperative Systems is a fundamental concept in game-theory.",
   "definition": "Future of Cooperative Systems is a fundamental concept in game-theory.",
   "explanation": "Learn about Future of Cooperative Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "future-of-cooperative-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

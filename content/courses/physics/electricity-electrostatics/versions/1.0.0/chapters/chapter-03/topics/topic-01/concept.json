@@ -2,6 +2,7 @@
   "id": "physics.electricity-electrostatics.chapter-03.topic-01",
   "name": "Electric Field",
   "subject": "physics",
+  "summary": "Electric Field is a fundamental concept in physics.",
   "definition": "Electric Field is a fundamental concept in physics.",
   "explanation": "Learn about Electric Field and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electric-field"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-02.topic-02",
   "name": "Bidentate Ligands",
   "subject": "chemistry",
+  "summary": "Bidentate Ligands is a fundamental concept in chemistry.",
   "definition": "Bidentate Ligands is a fundamental concept in chemistry.",
   "explanation": "Learn about Bidentate Ligands and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bidentate-ligands"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

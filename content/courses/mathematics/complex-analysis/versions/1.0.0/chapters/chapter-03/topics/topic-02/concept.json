@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-03.topic-02",
   "name": "Analytic Functions",
   "subject": "mathematics",
+  "summary": "Analytic Functions is a fundamental concept in mathematics.",
   "definition": "Analytic Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Analytic Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "analytic-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

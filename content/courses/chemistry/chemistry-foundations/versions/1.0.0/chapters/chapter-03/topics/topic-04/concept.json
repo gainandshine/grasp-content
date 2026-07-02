@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-03.topic-04",
   "name": "Color",
   "subject": "chemistry",
+  "summary": "Color is a fundamental concept in chemistry.",
   "definition": "Color is a fundamental concept in chemistry.",
   "explanation": "Learn about Color and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "color"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

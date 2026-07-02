@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-11.topic-06",
   "name": "Intergovernmental Relations",
   "subject": "economics",
+  "summary": "Intergovernmental Relations is a fundamental concept in economics.",
   "definition": "Intergovernmental Relations is a fundamental concept in economics.",
   "explanation": "Learn about Intergovernmental Relations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "intergovernmental-relations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-12.topic-05",
   "name": "Bioethics",
   "subject": "biology",
+  "summary": "Bioethics is a fundamental concept in biology.",
   "definition": "Bioethics is a fundamental concept in biology.",
   "explanation": "Learn about Bioethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "bioethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

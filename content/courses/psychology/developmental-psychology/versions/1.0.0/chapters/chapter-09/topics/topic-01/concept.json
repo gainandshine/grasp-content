@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-09.topic-01",
   "name": "Aging",
   "subject": "psychology",
+  "summary": "Aging is a fundamental concept in psychology.",
   "definition": "Aging is a fundamental concept in psychology.",
   "explanation": "Learn about Aging and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "aging"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

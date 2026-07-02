@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-06.topic-03",
   "name": "Cache Memory",
   "subject": "computer-science",
+  "summary": "Cache Memory is a fundamental concept in computer-science.",
   "definition": "Cache Memory is a fundamental concept in computer-science.",
   "explanation": "Learn about Cache Memory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cache-memory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

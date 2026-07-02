@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-01.topic-01",
   "name": "Classification of Alcohols",
   "subject": "chemistry",
+  "summary": "Classification of Alcohols is a fundamental concept in chemistry.",
   "definition": "Classification of Alcohols is a fundamental concept in chemistry.",
   "explanation": "Learn about Classification of Alcohols and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "classification-of-alcohols"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-13.topic-03",
   "name": "Multi-Agent Decision Systems",
   "subject": "game-theory",
+  "summary": "Multi-Agent Decision Systems is a fundamental concept in game-theory.",
   "definition": "Multi-Agent Decision Systems is a fundamental concept in game-theory.",
   "explanation": "Learn about Multi-Agent Decision Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "multi-agent-decision-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

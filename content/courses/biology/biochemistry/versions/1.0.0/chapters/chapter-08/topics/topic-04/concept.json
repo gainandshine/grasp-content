@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-08.topic-04",
   "name": "Citric Acid Cycle (Krebs Cycle)",
   "subject": "biology",
+  "summary": "Citric Acid Cycle (Krebs Cycle) is a fundamental concept in biology.",
   "definition": "Citric Acid Cycle (Krebs Cycle) is a fundamental concept in biology.",
   "explanation": "Learn about Citric Acid Cycle (Krebs Cycle) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "citric-acid-cycle-krebs-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

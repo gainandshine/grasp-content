@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-13.topic-06",
   "name": "Human-AI Decision Making",
   "subject": "game-theory",
+  "summary": "Human-AI Decision Making is a fundamental concept in game-theory.",
   "definition": "Human-AI Decision Making is a fundamental concept in game-theory.",
   "explanation": "Learn about Human-AI Decision Making and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "human-ai-decision-making"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

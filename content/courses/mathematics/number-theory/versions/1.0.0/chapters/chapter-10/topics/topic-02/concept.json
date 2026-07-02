@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-10.topic-02",
   "name": "Diffie–Hellman Key Exchange",
   "subject": "mathematics",
+  "summary": "Diffie–Hellman Key Exchange is a fundamental concept in mathematics.",
   "definition": "Diffie–Hellman Key Exchange is a fundamental concept in mathematics.",
   "explanation": "Learn about Diffie–Hellman Key Exchange and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "diffiehellman-key-exchange"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

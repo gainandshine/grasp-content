@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-06.topic-05",
   "name": "Species Concept",
   "subject": "biology",
+  "summary": "Species Concept is a fundamental concept in biology.",
   "definition": "Species Concept is a fundamental concept in biology.",
   "explanation": "Learn about Species Concept and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "species-concept"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

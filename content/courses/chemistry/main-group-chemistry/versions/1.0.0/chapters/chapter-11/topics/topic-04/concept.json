@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-11.topic-04",
   "name": "Aluminum Extraction",
   "subject": "chemistry",
+  "summary": "Aluminum Extraction is a fundamental concept in chemistry.",
   "definition": "Aluminum Extraction is a fundamental concept in chemistry.",
   "explanation": "Learn about Aluminum Extraction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "aluminum-extraction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-13.topic-03",
   "name": "Dynamic Mechanism Design",
   "subject": "game-theory",
+  "summary": "Dynamic Mechanism Design is a fundamental concept in game-theory.",
   "definition": "Dynamic Mechanism Design is a fundamental concept in game-theory.",
   "explanation": "Learn about Dynamic Mechanism Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "dynamic-mechanism-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

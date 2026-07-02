@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-12.topic-07",
   "name": "Sustainable Agriculture",
   "subject": "biology",
+  "summary": "Sustainable Agriculture is a fundamental concept in biology.",
   "definition": "Sustainable Agriculture is a fundamental concept in biology.",
   "explanation": "Learn about Sustainable Agriculture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "sustainable-agriculture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

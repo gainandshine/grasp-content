@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-05.topic-04",
   "name": "Probability Distributions",
   "subject": "game-theory",
+  "summary": "Probability Distributions is a fundamental concept in game-theory.",
   "definition": "Probability Distributions is a fundamental concept in game-theory.",
   "explanation": "Learn about Probability Distributions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "probability-distributions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

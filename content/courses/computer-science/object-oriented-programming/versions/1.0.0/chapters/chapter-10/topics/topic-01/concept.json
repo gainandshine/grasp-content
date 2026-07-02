@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-10.topic-01",
   "name": "Generic Classes",
   "subject": "computer-science",
+  "summary": "Generic Classes is a fundamental concept in computer-science.",
   "definition": "Generic Classes is a fundamental concept in computer-science.",
   "explanation": "Learn about Generic Classes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "generic-classes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

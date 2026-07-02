@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-07.topic-05",
   "name": "Journalism Ethics",
   "subject": "philosophy",
+  "summary": "Journalism Ethics is a fundamental concept in philosophy.",
   "definition": "Journalism Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Journalism Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "journalism-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

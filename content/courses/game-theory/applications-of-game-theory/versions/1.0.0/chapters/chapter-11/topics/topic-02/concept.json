@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-11.topic-02",
   "name": "Recommendation Systems",
   "subject": "game-theory",
+  "summary": "Recommendation Systems is a fundamental concept in game-theory.",
   "definition": "Recommendation Systems is a fundamental concept in game-theory.",
   "explanation": "Learn about Recommendation Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "recommendation-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

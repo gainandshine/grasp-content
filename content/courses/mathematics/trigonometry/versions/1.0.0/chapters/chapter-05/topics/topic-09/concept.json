@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-05.topic-09",
   "name": "Amplitude Changes",
   "subject": "mathematics",
+  "summary": "Amplitude Changes is a fundamental concept in mathematics.",
   "definition": "Amplitude Changes is a fundamental concept in mathematics.",
   "explanation": "Learn about Amplitude Changes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "amplitude-changes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

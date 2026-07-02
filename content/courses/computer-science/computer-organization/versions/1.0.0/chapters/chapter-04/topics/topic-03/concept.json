@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-04.topic-03",
   "name": "Opcodes",
   "subject": "computer-science",
+  "summary": "Opcodes is a fundamental concept in computer-science.",
   "definition": "Opcodes is a fundamental concept in computer-science.",
   "explanation": "Learn about Opcodes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "opcodes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

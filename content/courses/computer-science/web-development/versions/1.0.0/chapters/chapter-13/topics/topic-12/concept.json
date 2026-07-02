@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-13.topic-12",
   "name": "Cross-Platform Development",
   "subject": "computer-science",
+  "summary": "Cross-Platform Development is a fundamental concept in computer-science.",
   "definition": "Cross-Platform Development is a fundamental concept in computer-science.",
   "explanation": "Learn about Cross-Platform Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cross-platform-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

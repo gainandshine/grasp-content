@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-02.topic-02",
   "name": "Condensation Polymerization",
   "subject": "chemistry",
+  "summary": "Condensation Polymerization is a fundamental concept in chemistry.",
   "definition": "Condensation Polymerization is a fundamental concept in chemistry.",
   "explanation": "Learn about Condensation Polymerization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "condensation-polymerization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

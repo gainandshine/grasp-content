@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-11.topic-02",
   "name": "Approximation Algorithms",
   "subject": "computer-science",
+  "summary": "Approximation Algorithms is a fundamental concept in computer-science.",
   "definition": "Approximation Algorithms is a fundamental concept in computer-science.",
   "explanation": "Learn about Approximation Algorithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "approximation-algorithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

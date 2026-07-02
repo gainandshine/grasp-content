@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-08.topic-06",
   "name": "Crop Improvement",
   "subject": "biology",
+  "summary": "Crop Improvement is a fundamental concept in biology.",
   "definition": "Crop Improvement is a fundamental concept in biology.",
   "explanation": "Learn about Crop Improvement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "crop-improvement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

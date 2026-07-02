@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-08.topic-04",
   "name": "Stability Analysis",
   "subject": "mathematics",
+  "summary": "Stability Analysis is a fundamental concept in mathematics.",
   "definition": "Stability Analysis is a fundamental concept in mathematics.",
   "explanation": "Learn about Stability Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "stability-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

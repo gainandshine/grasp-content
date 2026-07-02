@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-03",
   "name": "Polymer Electrolytes",
   "subject": "chemistry",
+  "summary": "Polymer Electrolytes is a fundamental concept in chemistry.",
   "definition": "Polymer Electrolytes is a fundamental concept in chemistry.",
   "explanation": "Learn about Polymer Electrolytes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "polymer-electrolytes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

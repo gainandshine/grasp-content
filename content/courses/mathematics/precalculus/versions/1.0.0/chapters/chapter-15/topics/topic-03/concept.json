@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-15.topic-03",
   "name": "Slope of a Curve",
   "subject": "mathematics",
+  "summary": "Slope of a Curve is a fundamental concept in mathematics.",
   "definition": "Slope of a Curve is a fundamental concept in mathematics.",
   "explanation": "Learn about Slope of a Curve and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "slope-of-a-curve"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

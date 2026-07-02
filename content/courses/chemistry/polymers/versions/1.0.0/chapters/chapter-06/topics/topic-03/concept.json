@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-06.topic-03",
   "name": "Electrical Properties",
   "subject": "chemistry",
+  "summary": "Electrical Properties is a fundamental concept in chemistry.",
   "definition": "Electrical Properties is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrical Properties and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrical-properties"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

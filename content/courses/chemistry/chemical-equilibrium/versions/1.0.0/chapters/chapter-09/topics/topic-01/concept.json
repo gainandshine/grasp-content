@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-09.topic-01",
   "name": "Buffer Solutions",
   "subject": "chemistry",
+  "summary": "Buffer Solutions is a fundamental concept in chemistry.",
   "definition": "Buffer Solutions is a fundamental concept in chemistry.",
   "explanation": "Learn about Buffer Solutions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "buffer-solutions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

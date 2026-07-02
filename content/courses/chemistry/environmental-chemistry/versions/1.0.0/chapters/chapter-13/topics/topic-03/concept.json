@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-13.topic-03",
   "name": "PFAS (\"Forever Chemicals\")",
   "subject": "chemistry",
+  "summary": "PFAS (\"Forever Chemicals\") is a fundamental concept in chemistry.",
   "definition": "PFAS (\"Forever Chemicals\") is a fundamental concept in chemistry.",
   "explanation": "Learn about PFAS (\"Forever Chemicals\") and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "pfas-forever-chemicals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

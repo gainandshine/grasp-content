@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-05.topic-04",
   "name": "Superposition Principle",
   "subject": "mathematics",
+  "summary": "Superposition Principle is a fundamental concept in mathematics.",
   "definition": "Superposition Principle is a fundamental concept in mathematics.",
   "explanation": "Learn about Superposition Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "superposition-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

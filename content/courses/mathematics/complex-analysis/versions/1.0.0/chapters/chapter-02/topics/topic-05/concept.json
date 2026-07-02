@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-02.topic-05",
   "name": "Branches & Branch Cuts (Introduction)",
   "subject": "mathematics",
+  "summary": "Branches & Branch Cuts (Introduction) is a fundamental concept in mathematics.",
   "definition": "Branches & Branch Cuts (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Branches & Branch Cuts (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "branches-branch-cuts-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

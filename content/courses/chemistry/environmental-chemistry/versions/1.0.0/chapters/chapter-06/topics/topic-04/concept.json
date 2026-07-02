@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-06.topic-04",
   "name": "Disinfection",
   "subject": "chemistry",
+  "summary": "Disinfection is a fundamental concept in chemistry.",
   "definition": "Disinfection is a fundamental concept in chemistry.",
   "explanation": "Learn about Disinfection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "disinfection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

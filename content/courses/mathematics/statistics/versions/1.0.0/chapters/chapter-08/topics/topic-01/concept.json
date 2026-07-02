@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-08.topic-01",
   "name": "Null Hypothesis",
   "subject": "mathematics",
+  "summary": "Null Hypothesis is a fundamental concept in mathematics.",
   "definition": "Null Hypothesis is a fundamental concept in mathematics.",
   "explanation": "Learn about Null Hypothesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "null-hypothesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

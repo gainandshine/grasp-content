@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-07.topic-01",
   "name": "Single-Gene Disorders",
   "subject": "biology",
+  "summary": "Single-Gene Disorders is a fundamental concept in biology.",
   "definition": "Single-Gene Disorders is a fundamental concept in biology.",
   "explanation": "Learn about Single-Gene Disorders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "single-gene-disorders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

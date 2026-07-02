@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-06.topic-07",
   "name": "Loop Patterns",
   "subject": "computer-science",
+  "summary": "Loop Patterns is a fundamental concept in computer-science.",
   "definition": "Loop Patterns is a fundamental concept in computer-science.",
   "explanation": "Learn about Loop Patterns and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "loop-patterns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

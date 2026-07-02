@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-07.topic-05",
   "name": "Periodic Boundary Conditions",
   "subject": "chemistry",
+  "summary": "Periodic Boundary Conditions is a fundamental concept in chemistry.",
   "definition": "Periodic Boundary Conditions is a fundamental concept in chemistry.",
   "explanation": "Learn about Periodic Boundary Conditions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "periodic-boundary-conditions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

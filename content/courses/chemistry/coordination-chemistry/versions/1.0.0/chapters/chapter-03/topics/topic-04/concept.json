@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-03.topic-04",
   "name": "Square Planar Complexes",
   "subject": "chemistry",
+  "summary": "Square Planar Complexes is a fundamental concept in chemistry.",
   "definition": "Square Planar Complexes is a fundamental concept in chemistry.",
   "explanation": "Learn about Square Planar Complexes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "square-planar-complexes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

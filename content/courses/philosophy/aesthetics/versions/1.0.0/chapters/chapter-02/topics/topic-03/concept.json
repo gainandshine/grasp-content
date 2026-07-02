@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-02.topic-03",
   "name": "Symmetry",
   "subject": "philosophy",
+  "summary": "Symmetry is a fundamental concept in philosophy.",
   "definition": "Symmetry is a fundamental concept in philosophy.",
   "explanation": "Learn about Symmetry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "symmetry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

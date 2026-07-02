@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-09.topic-05",
   "name": "Temporal Logic",
   "subject": "philosophy",
+  "summary": "Temporal Logic is a fundamental concept in philosophy.",
   "definition": "Temporal Logic is a fundamental concept in philosophy.",
   "explanation": "Learn about Temporal Logic and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "temporal-logic"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.microeconomics.chapter-12.topic-06",
   "name": "Digital Platforms",
   "subject": "economics",
+  "summary": "Digital Platforms is a fundamental concept in economics.",
   "definition": "Digital Platforms is a fundamental concept in economics.",
   "explanation": "Learn about Digital Platforms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "digital-platforms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

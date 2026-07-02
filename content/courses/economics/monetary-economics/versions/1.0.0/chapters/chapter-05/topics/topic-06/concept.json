@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-05.topic-06",
   "name": "Deflation",
   "subject": "economics",
+  "summary": "Deflation is a fundamental concept in economics.",
   "definition": "Deflation is a fundamental concept in economics.",
   "explanation": "Learn about Deflation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "deflation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

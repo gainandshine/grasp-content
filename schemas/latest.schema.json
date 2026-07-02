@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Latest",
+  "type": "object",
+  "required": ["latest", "minimumSupported", "schemaVersion"],
+  "properties": {
+    "latest": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "minimumSupported": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "schemaVersion": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "releasedAt": { "type": "string", "format": "date-time" }
+  }
+}

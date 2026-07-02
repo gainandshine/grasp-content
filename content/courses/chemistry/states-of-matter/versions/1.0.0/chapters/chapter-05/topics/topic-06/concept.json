@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-05.topic-06",
   "name": "Ideal Gas Law",
   "subject": "chemistry",
+  "summary": "Ideal Gas Law is a fundamental concept in chemistry.",
   "definition": "Ideal Gas Law is a fundamental concept in chemistry.",
   "explanation": "Learn about Ideal Gas Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ideal-gas-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

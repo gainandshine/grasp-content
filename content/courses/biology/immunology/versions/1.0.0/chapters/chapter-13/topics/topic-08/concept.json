@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-08",
   "name": "Ecosystems",
   "subject": "biology",
+  "summary": "Ecosystems is a fundamental concept in biology.",
   "definition": "Ecosystems is a fundamental concept in biology.",
   "explanation": "Learn about Ecosystems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "ecosystems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-13.topic-09",
   "name": "Valuation Models",
   "subject": "game-theory",
+  "summary": "Valuation Models is a fundamental concept in game-theory.",
   "definition": "Valuation Models is a fundamental concept in game-theory.",
   "explanation": "Learn about Valuation Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "valuation-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

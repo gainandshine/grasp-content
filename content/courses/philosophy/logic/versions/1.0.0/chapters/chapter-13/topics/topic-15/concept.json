@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-13.topic-15",
   "name": "Perception",
   "subject": "philosophy",
+  "summary": "Perception is a fundamental concept in philosophy.",
   "definition": "Perception is a fundamental concept in philosophy.",
   "explanation": "Learn about Perception and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "perception"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

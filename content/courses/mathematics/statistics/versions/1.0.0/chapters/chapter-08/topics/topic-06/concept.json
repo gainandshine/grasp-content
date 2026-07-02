@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-08.topic-06",
   "name": "Type II Error",
   "subject": "mathematics",
+  "summary": "Type II Error is a fundamental concept in mathematics.",
   "definition": "Type II Error is a fundamental concept in mathematics.",
   "explanation": "Learn about Type II Error and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "type-ii-error"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

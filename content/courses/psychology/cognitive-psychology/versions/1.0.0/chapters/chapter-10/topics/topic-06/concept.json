@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-10.topic-06",
   "name": "Cognitive Abilities",
   "subject": "psychology",
+  "summary": "Cognitive Abilities is a fundamental concept in psychology.",
   "definition": "Cognitive Abilities is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Abilities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-abilities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

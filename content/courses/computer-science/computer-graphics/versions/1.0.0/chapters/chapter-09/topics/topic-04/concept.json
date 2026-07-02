@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-09.topic-04",
   "name": "Particle Systems",
   "subject": "computer-science",
+  "summary": "Particle Systems is a fundamental concept in computer-science.",
   "definition": "Particle Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Particle Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "particle-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

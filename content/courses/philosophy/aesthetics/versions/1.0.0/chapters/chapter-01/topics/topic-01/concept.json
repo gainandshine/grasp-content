@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-01.topic-01",
   "name": "What is Aesthetics?",
   "subject": "philosophy",
+  "summary": "What is Aesthetics? is a fundamental concept in philosophy.",
   "definition": "What is Aesthetics? is a fundamental concept in philosophy.",
   "explanation": "Learn about What is Aesthetics? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "what-is-aesthetics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

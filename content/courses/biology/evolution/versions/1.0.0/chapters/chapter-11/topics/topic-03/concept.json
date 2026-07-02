@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-11.topic-03",
   "name": "Insecticide Resistance",
   "subject": "biology",
+  "summary": "Insecticide Resistance is a fundamental concept in biology.",
   "definition": "Insecticide Resistance is a fundamental concept in biology.",
   "explanation": "Learn about Insecticide Resistance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "insecticide-resistance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

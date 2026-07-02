@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-07.topic-02",
   "name": "Escape Trajectory",
   "subject": "physics",
+  "summary": "Escape Trajectory is a fundamental concept in physics.",
   "definition": "Escape Trajectory is a fundamental concept in physics.",
   "explanation": "Learn about Escape Trajectory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "escape-trajectory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

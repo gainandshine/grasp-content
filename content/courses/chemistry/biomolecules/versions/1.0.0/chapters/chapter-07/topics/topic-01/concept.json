@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-07.topic-01",
   "name": "Nucleotides",
   "subject": "chemistry",
+  "summary": "Nucleotides is a fundamental concept in chemistry.",
   "definition": "Nucleotides is a fundamental concept in chemistry.",
   "explanation": "Learn about Nucleotides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nucleotides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

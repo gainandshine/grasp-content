@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-12.topic-01",
   "name": "Transition State Theory",
   "subject": "chemistry",
+  "summary": "Transition State Theory is a fundamental concept in chemistry.",
   "definition": "Transition State Theory is a fundamental concept in chemistry.",
   "explanation": "Learn about Transition State Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "transition-state-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

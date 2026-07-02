@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-11.topic-03",
   "name": "Brain Plasticity",
   "subject": "psychology",
+  "summary": "Brain Plasticity is a fundamental concept in psychology.",
   "definition": "Brain Plasticity is a fundamental concept in psychology.",
   "explanation": "Learn about Brain Plasticity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "brain-plasticity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

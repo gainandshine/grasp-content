@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-02.topic-01",
   "name": "Clinical Interview",
   "subject": "psychology",
+  "summary": "Clinical Interview is a fundamental concept in psychology.",
   "definition": "Clinical Interview is a fundamental concept in psychology.",
   "explanation": "Learn about Clinical Interview and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "clinical-interview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

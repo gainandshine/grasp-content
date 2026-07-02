@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-13.topic-02",
   "name": "Area of Quadrilaterals",
   "subject": "mathematics",
+  "summary": "Area of Quadrilaterals is a fundamental concept in mathematics.",
   "definition": "Area of Quadrilaterals is a fundamental concept in mathematics.",
   "explanation": "Learn about Area of Quadrilaterals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "area-of-quadrilaterals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

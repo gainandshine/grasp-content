@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-02.topic-09",
   "name": "Inner Transition Elements",
   "subject": "chemistry",
+  "summary": "Inner Transition Elements is a fundamental concept in chemistry.",
   "definition": "Inner Transition Elements is a fundamental concept in chemistry.",
   "explanation": "Learn about Inner Transition Elements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "inner-transition-elements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

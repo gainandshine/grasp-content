@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-06.topic-03",
   "name": "Deferred Acceptance Algorithm",
   "subject": "game-theory",
+  "summary": "Deferred Acceptance Algorithm is a fundamental concept in game-theory.",
   "definition": "Deferred Acceptance Algorithm is a fundamental concept in game-theory.",
   "explanation": "Learn about Deferred Acceptance Algorithm and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "deferred-acceptance-algorithm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

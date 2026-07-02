@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-03.topic-02",
   "name": "Learning in Organizations",
   "subject": "psychology",
+  "summary": "Learning in Organizations is a fundamental concept in psychology.",
   "definition": "Learning in Organizations is a fundamental concept in psychology.",
   "explanation": "Learn about Learning in Organizations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "learning-in-organizations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

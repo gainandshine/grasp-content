@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-10.topic-03",
   "name": "Chords",
   "subject": "mathematics",
+  "summary": "Chords is a fundamental concept in mathematics.",
   "definition": "Chords is a fundamental concept in mathematics.",
   "explanation": "Learn about Chords and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "chords"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-05.topic-04",
   "name": "Plasma",
   "subject": "chemistry",
+  "summary": "Plasma is a fundamental concept in chemistry.",
   "definition": "Plasma is a fundamental concept in chemistry.",
   "explanation": "Learn about Plasma and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "plasma"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

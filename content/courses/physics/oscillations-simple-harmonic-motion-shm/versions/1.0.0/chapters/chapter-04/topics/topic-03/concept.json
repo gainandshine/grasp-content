@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-03",
   "name": "Compound Pendulum",
   "subject": "physics",
+  "summary": "Compound Pendulum is a fundamental concept in physics.",
   "definition": "Compound Pendulum is a fundamental concept in physics.",
   "explanation": "Learn about Compound Pendulum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "compound-pendulum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

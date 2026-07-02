@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-11.topic-03",
   "name": "Aerospace Alloys",
   "subject": "chemistry",
+  "summary": "Aerospace Alloys is a fundamental concept in chemistry.",
   "definition": "Aerospace Alloys is a fundamental concept in chemistry.",
   "explanation": "Learn about Aerospace Alloys and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "aerospace-alloys"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

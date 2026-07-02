@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-03.topic-05",
   "name": "Solving Basic Systems",
   "subject": "physics",
+  "summary": "Solving Basic Systems is a fundamental concept in physics.",
   "definition": "Solving Basic Systems is a fundamental concept in physics.",
   "explanation": "Learn about Solving Basic Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "solving-basic-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

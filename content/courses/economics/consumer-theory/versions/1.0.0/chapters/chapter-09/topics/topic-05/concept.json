@@ -2,6 +2,7 @@
   "id": "economics.consumer-theory.chapter-09.topic-05",
   "name": "Time Preference",
   "subject": "economics",
+  "summary": "Time Preference is a fundamental concept in economics.",
   "definition": "Time Preference is a fundamental concept in economics.",
   "explanation": "Learn about Time Preference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "time-preference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

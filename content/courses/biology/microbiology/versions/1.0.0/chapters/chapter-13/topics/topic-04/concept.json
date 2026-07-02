@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-04",
   "name": "Phage Therapy",
   "subject": "biology",
+  "summary": "Phage Therapy is a fundamental concept in biology.",
   "definition": "Phage Therapy is a fundamental concept in biology.",
   "explanation": "Learn about Phage Therapy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "phage-therapy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-11.topic-02",
   "name": "Electrophoresis",
   "subject": "chemistry",
+  "summary": "Electrophoresis is a fundamental concept in chemistry.",
   "definition": "Electrophoresis is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrophoresis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrophoresis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

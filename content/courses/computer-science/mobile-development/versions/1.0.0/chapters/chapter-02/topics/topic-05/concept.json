@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-02.topic-05",
   "name": "Themes",
   "subject": "computer-science",
+  "summary": "Themes is a fundamental concept in computer-science.",
   "definition": "Themes is a fundamental concept in computer-science.",
   "explanation": "Learn about Themes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "themes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

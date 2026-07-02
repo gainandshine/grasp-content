@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-07.topic-06",
   "name": "Hard Magnets",
   "subject": "chemistry",
+  "summary": "Hard Magnets is a fundamental concept in chemistry.",
   "definition": "Hard Magnets is a fundamental concept in chemistry.",
   "explanation": "Learn about Hard Magnets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hard-magnets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

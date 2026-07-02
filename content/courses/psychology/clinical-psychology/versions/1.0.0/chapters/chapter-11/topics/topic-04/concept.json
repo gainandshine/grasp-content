@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-11.topic-04",
   "name": "Community Mental Health",
   "subject": "psychology",
+  "summary": "Community Mental Health is a fundamental concept in psychology.",
   "definition": "Community Mental Health is a fundamental concept in psychology.",
   "explanation": "Learn about Community Mental Health and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "community-mental-health"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

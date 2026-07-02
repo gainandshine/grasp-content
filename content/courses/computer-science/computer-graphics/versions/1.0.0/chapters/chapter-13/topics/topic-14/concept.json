@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-14",
   "name": "Planning",
   "subject": "computer-science",
+  "summary": "Planning is a fundamental concept in computer-science.",
   "definition": "Planning is a fundamental concept in computer-science.",
   "explanation": "Learn about Planning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "planning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

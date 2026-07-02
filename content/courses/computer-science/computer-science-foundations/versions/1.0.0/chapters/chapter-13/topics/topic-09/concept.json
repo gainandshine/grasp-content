@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-09",
   "name": "*Course 2: Programming Fundamentals**",
   "subject": "computer-science",
+  "summary": "*Course 2: Programming Fundamentals** is a fundamental concept in computer-science.",
   "definition": "*Course 2: Programming Fundamentals** is a fundamental concept in computer-science.",
   "explanation": "Learn about *Course 2: Programming Fundamentals** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "course-2-programming-fundamentals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

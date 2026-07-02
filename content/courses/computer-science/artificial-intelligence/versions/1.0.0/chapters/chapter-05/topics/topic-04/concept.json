@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-05.topic-04",
   "name": "Resolution",
   "subject": "computer-science",
+  "summary": "Resolution is a fundamental concept in computer-science.",
   "definition": "Resolution is a fundamental concept in computer-science.",
   "explanation": "Learn about Resolution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "resolution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

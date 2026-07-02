@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-08.topic-04",
   "name": "Infrastructure Sharing",
   "subject": "game-theory",
+  "summary": "Infrastructure Sharing is a fundamental concept in game-theory.",
   "definition": "Infrastructure Sharing is a fundamental concept in game-theory.",
   "explanation": "Learn about Infrastructure Sharing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "infrastructure-sharing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

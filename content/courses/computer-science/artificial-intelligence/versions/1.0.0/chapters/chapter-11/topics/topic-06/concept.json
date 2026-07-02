@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-11.topic-06",
   "name": "Multimodal AI",
   "subject": "computer-science",
+  "summary": "Multimodal AI is a fundamental concept in computer-science.",
   "definition": "Multimodal AI is a fundamental concept in computer-science.",
   "explanation": "Learn about Multimodal AI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "multimodal-ai"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

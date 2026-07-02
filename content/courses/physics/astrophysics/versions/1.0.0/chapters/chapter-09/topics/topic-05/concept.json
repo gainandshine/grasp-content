@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-09.topic-05",
   "name": "Star Formation Regions",
   "subject": "physics",
+  "summary": "Star Formation Regions is a fundamental concept in physics.",
   "definition": "Star Formation Regions is a fundamental concept in physics.",
   "explanation": "Learn about Star Formation Regions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "star-formation-regions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

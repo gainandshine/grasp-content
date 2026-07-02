@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-06.topic-05",
   "name": "Chlorination",
   "subject": "chemistry",
+  "summary": "Chlorination is a fundamental concept in chemistry.",
   "definition": "Chlorination is a fundamental concept in chemistry.",
   "explanation": "Learn about Chlorination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chlorination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

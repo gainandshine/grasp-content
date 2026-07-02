@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-12.topic-01",
   "name": "Mental Health",
   "subject": "psychology",
+  "summary": "Mental Health is a fundamental concept in psychology.",
   "definition": "Mental Health is a fundamental concept in psychology.",
   "explanation": "Learn about Mental Health and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mental-health"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-21.topic-02",
   "name": "Parallel RLC Circuits",
   "subject": "physics",
+  "summary": "Parallel RLC Circuits is a fundamental concept in physics.",
   "definition": "Parallel RLC Circuits is a fundamental concept in physics.",
   "explanation": "Learn about Parallel RLC Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "parallel-rlc-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

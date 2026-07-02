@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-13.topic-09",
   "name": "Recombinant DNA Technology",
   "subject": "biology",
+  "summary": "Recombinant DNA Technology is a fundamental concept in biology.",
   "definition": "Recombinant DNA Technology is a fundamental concept in biology.",
   "explanation": "Learn about Recombinant DNA Technology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "recombinant-dna-technology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

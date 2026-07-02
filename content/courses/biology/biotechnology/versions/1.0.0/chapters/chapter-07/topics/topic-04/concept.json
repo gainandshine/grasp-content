@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-07.topic-04",
   "name": "Vaccine Technology",
   "subject": "biology",
+  "summary": "Vaccine Technology is a fundamental concept in biology.",
   "definition": "Vaccine Technology is a fundamental concept in biology.",
   "explanation": "Learn about Vaccine Technology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "vaccine-technology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

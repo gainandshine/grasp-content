@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-12.topic-01",
   "name": "Graph Matrices",
   "subject": "mathematics",
+  "summary": "Graph Matrices is a fundamental concept in mathematics.",
   "definition": "Graph Matrices is a fundamental concept in mathematics.",
   "explanation": "Learn about Graph Matrices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "graph-matrices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

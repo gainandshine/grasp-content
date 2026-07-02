@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-12.topic-05",
   "name": "Machine Learning Models",
   "subject": "chemistry",
+  "summary": "Machine Learning Models is a fundamental concept in chemistry.",
   "definition": "Machine Learning Models is a fundamental concept in chemistry.",
   "explanation": "Learn about Machine Learning Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "machine-learning-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

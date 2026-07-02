@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-06.topic-01",
   "name": "Orbitals",
   "subject": "chemistry",
+  "summary": "Orbitals is a fundamental concept in chemistry.",
   "definition": "Orbitals is a fundamental concept in chemistry.",
   "explanation": "Learn about Orbitals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "orbitals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

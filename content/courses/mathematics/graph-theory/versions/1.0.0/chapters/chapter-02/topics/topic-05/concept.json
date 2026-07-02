@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-02.topic-05",
   "name": "Graph Storage",
   "subject": "mathematics",
+  "summary": "Graph Storage is a fundamental concept in mathematics.",
   "definition": "Graph Storage is a fundamental concept in mathematics.",
   "explanation": "Learn about Graph Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "graph-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-06.topic-02",
   "name": "Gas Equilibrium",
   "subject": "chemistry",
+  "summary": "Gas Equilibrium is a fundamental concept in chemistry.",
   "definition": "Gas Equilibrium is a fundamental concept in chemistry.",
   "explanation": "Learn about Gas Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "gas-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

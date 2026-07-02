@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-12.topic-03",
   "name": "Alpha-Beta Pruning",
   "subject": "game-theory",
+  "summary": "Alpha-Beta Pruning is a fundamental concept in game-theory.",
   "definition": "Alpha-Beta Pruning is a fundamental concept in game-theory.",
   "explanation": "Learn about Alpha-Beta Pruning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "alpha-beta-pruning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

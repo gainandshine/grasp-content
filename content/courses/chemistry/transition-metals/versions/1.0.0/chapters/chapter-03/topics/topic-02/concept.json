@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-03.topic-02",
   "name": "Ionic Radius",
   "subject": "chemistry",
+  "summary": "Ionic Radius is a fundamental concept in chemistry.",
   "definition": "Ionic Radius is a fundamental concept in chemistry.",
   "explanation": "Learn about Ionic Radius and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ionic-radius"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-10.topic-03",
   "name": "JWT",
   "subject": "computer-science",
+  "summary": "JWT is a fundamental concept in computer-science.",
   "definition": "JWT is a fundamental concept in computer-science.",
   "explanation": "Learn about JWT and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "jwt"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

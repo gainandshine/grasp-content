@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-10.topic-02",
   "name": "Big Crunch",
   "subject": "physics",
+  "summary": "Big Crunch is a fundamental concept in physics.",
   "definition": "Big Crunch is a fundamental concept in physics.",
   "explanation": "Learn about Big Crunch and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "big-crunch"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

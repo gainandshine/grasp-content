@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-10.topic-01",
   "name": "Tumor Immunology",
   "subject": "biology",
+  "summary": "Tumor Immunology is a fundamental concept in biology.",
   "definition": "Tumor Immunology is a fundamental concept in biology.",
   "explanation": "Learn about Tumor Immunology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "tumor-immunology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

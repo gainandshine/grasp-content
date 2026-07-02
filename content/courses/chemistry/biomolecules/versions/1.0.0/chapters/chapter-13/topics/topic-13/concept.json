@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-13.topic-13",
   "name": "Biopolymers",
   "subject": "chemistry",
+  "summary": "Biopolymers is a fundamental concept in chemistry.",
   "definition": "Biopolymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Biopolymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biopolymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

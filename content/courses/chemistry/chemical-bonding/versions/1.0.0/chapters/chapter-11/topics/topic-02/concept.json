@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-11.topic-02",
   "name": "Ionic Crystals",
   "subject": "chemistry",
+  "summary": "Ionic Crystals is a fundamental concept in chemistry.",
   "definition": "Ionic Crystals is a fundamental concept in chemistry.",
   "explanation": "Learn about Ionic Crystals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ionic-crystals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

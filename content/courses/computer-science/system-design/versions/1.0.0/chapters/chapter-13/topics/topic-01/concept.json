@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-01",
   "name": "Design Tradeoffs",
   "subject": "computer-science",
+  "summary": "Design Tradeoffs is a fundamental concept in computer-science.",
   "definition": "Design Tradeoffs is a fundamental concept in computer-science.",
   "explanation": "Learn about Design Tradeoffs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "design-tradeoffs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

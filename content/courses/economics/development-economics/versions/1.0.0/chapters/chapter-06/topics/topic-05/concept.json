@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-06.topic-05",
   "name": "Agricultural Policy",
   "subject": "economics",
+  "summary": "Agricultural Policy is a fundamental concept in economics.",
   "definition": "Agricultural Policy is a fundamental concept in economics.",
   "explanation": "Learn about Agricultural Policy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "agricultural-policy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

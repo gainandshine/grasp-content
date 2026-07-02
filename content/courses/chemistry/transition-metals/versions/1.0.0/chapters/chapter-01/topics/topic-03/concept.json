@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-01.topic-03",
   "name": "f-Block Elements (Overview)",
   "subject": "chemistry",
+  "summary": "f-Block Elements (Overview) is a fundamental concept in chemistry.",
   "definition": "f-Block Elements (Overview) is a fundamental concept in chemistry.",
   "explanation": "Learn about f-Block Elements (Overview) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "f-block-elements-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

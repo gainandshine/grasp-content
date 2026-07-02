@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-02.topic-04",
   "name": "Homogeneous Equilibrium",
   "subject": "chemistry",
+  "summary": "Homogeneous Equilibrium is a fundamental concept in chemistry.",
   "definition": "Homogeneous Equilibrium is a fundamental concept in chemistry.",
   "explanation": "Learn about Homogeneous Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "homogeneous-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

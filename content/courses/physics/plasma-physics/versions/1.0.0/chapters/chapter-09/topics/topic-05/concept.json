@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-09.topic-05",
   "name": "Ionosphere",
   "subject": "physics",
+  "summary": "Ionosphere is a fundamental concept in physics.",
   "definition": "Ionosphere is a fundamental concept in physics.",
   "explanation": "Learn about Ionosphere and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ionosphere"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

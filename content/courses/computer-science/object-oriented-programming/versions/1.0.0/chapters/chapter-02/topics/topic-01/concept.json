@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-02.topic-01",
   "name": "Defining Classes",
   "subject": "computer-science",
+  "summary": "Defining Classes is a fundamental concept in computer-science.",
   "definition": "Defining Classes is a fundamental concept in computer-science.",
   "explanation": "Learn about Defining Classes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "defining-classes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

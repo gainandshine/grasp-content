@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-05.topic-01",
   "name": "Structural Isomerism",
   "subject": "chemistry",
+  "summary": "Structural Isomerism is a fundamental concept in chemistry.",
   "definition": "Structural Isomerism is a fundamental concept in chemistry.",
   "explanation": "Learn about Structural Isomerism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "structural-isomerism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

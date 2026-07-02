@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-09.topic-05",
   "name": "Employee Assistance Programs",
   "subject": "psychology",
+  "summary": "Employee Assistance Programs is a fundamental concept in psychology.",
   "definition": "Employee Assistance Programs is a fundamental concept in psychology.",
   "explanation": "Learn about Employee Assistance Programs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "employee-assistance-programs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

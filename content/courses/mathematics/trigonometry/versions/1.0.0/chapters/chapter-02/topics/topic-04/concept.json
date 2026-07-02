@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-02.topic-04",
   "name": "Cosecant",
   "subject": "mathematics",
+  "summary": "Cosecant is a fundamental concept in mathematics.",
   "definition": "Cosecant is a fundamental concept in mathematics.",
   "explanation": "Learn about Cosecant and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "cosecant"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

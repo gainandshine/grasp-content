@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-07.topic-02",
   "name": "Confidence Intervals",
   "subject": "mathematics",
+  "summary": "Confidence Intervals is a fundamental concept in mathematics.",
   "definition": "Confidence Intervals is a fundamental concept in mathematics.",
   "explanation": "Learn about Confidence Intervals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "confidence-intervals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

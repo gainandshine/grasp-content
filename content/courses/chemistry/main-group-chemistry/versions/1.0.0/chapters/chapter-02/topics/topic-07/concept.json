@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-02.topic-07",
   "name": "Halides",
   "subject": "chemistry",
+  "summary": "Halides is a fundamental concept in chemistry.",
   "definition": "Halides is a fundamental concept in chemistry.",
   "explanation": "Learn about Halides and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "halides"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

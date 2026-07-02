@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-09.topic-02",
   "name": "Text Processing",
   "subject": "computer-science",
+  "summary": "Text Processing is a fundamental concept in computer-science.",
   "definition": "Text Processing is a fundamental concept in computer-science.",
   "explanation": "Learn about Text Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "text-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

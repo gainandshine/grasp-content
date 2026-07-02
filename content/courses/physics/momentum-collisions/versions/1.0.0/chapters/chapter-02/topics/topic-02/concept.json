@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-02.topic-02",
   "name": "Internal Forces",
   "subject": "physics",
+  "summary": "Internal Forces is a fundamental concept in physics.",
   "definition": "Internal Forces is a fundamental concept in physics.",
   "explanation": "Learn about Internal Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "internal-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

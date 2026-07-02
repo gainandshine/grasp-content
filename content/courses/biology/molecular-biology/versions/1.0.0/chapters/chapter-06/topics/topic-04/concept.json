@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-06.topic-04",
   "name": "Translation",
   "subject": "biology",
+  "summary": "Translation is a fundamental concept in biology.",
   "definition": "Translation is a fundamental concept in biology.",
   "explanation": "Learn about Translation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "translation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

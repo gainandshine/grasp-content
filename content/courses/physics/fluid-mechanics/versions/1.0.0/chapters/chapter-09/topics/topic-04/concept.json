@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-09.topic-04",
   "name": "Shock Waves (Introduction)",
   "subject": "physics",
+  "summary": "Shock Waves (Introduction) is a fundamental concept in physics.",
   "definition": "Shock Waves (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Shock Waves (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "shock-waves-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-08.topic-04",
   "name": "Booster Doses",
   "subject": "biology",
+  "summary": "Booster Doses is a fundamental concept in biology.",
   "definition": "Booster Doses is a fundamental concept in biology.",
   "explanation": "Learn about Booster Doses and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "booster-doses"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

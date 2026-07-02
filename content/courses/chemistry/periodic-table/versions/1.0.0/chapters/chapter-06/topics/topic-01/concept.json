@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-06.topic-01",
   "name": "Electron Affinity",
   "subject": "chemistry",
+  "summary": "Electron Affinity is a fundamental concept in chemistry.",
   "definition": "Electron Affinity is a fundamental concept in chemistry.",
   "explanation": "Learn about Electron Affinity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electron-affinity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

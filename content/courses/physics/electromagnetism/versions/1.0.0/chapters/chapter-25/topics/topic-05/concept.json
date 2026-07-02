@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-25.topic-05",
   "name": "Renewable Energy Systems",
   "subject": "physics",
+  "summary": "Renewable Energy Systems is a fundamental concept in physics.",
   "definition": "Renewable Energy Systems is a fundamental concept in physics.",
   "explanation": "Learn about Renewable Energy Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "renewable-energy-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-06.topic-06",
   "name": "Consequences",
   "subject": "philosophy",
+  "summary": "Consequences is a fundamental concept in philosophy.",
   "definition": "Consequences is a fundamental concept in philosophy.",
   "explanation": "Learn about Consequences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "consequences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-01.topic-02",
   "name": "Being",
   "subject": "philosophy",
+  "summary": "Being is a fundamental concept in philosophy.",
   "definition": "Being is a fundamental concept in philosophy.",
   "explanation": "Learn about Being and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "being"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

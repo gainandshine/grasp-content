@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-06.topic-02",
   "name": "Amoebae",
   "subject": "biology",
+  "summary": "Amoebae is a fundamental concept in biology.",
   "definition": "Amoebae is a fundamental concept in biology.",
   "explanation": "Learn about Amoebae and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "amoebae"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

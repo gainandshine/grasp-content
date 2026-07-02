@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-06.topic-04",
   "name": "Empirical Formula",
   "subject": "chemistry",
+  "summary": "Empirical Formula is a fundamental concept in chemistry.",
   "definition": "Empirical Formula is a fundamental concept in chemistry.",
   "explanation": "Learn about Empirical Formula and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "empirical-formula"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

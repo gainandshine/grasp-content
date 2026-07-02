@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-03",
   "name": "Equilibrium Position",
   "subject": "physics",
+  "summary": "Equilibrium Position is a fundamental concept in physics.",
   "definition": "Equilibrium Position is a fundamental concept in physics.",
   "explanation": "Learn about Equilibrium Position and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "equilibrium-position"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

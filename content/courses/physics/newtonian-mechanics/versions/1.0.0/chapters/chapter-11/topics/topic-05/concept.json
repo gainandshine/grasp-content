@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-11.topic-05",
   "name": "Rocket Motion (Introduction)",
   "subject": "physics",
+  "summary": "Rocket Motion (Introduction) is a fundamental concept in physics.",
   "definition": "Rocket Motion (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Rocket Motion (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rocket-motion-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

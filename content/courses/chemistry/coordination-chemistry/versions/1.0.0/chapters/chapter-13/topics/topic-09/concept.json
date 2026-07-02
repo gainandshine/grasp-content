@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-13.topic-09",
   "name": "IUPAC Nomenclature",
   "subject": "chemistry",
+  "summary": "IUPAC Nomenclature is a fundamental concept in chemistry.",
   "definition": "IUPAC Nomenclature is a fundamental concept in chemistry.",
   "explanation": "Learn about IUPAC Nomenclature and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "iupac-nomenclature"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

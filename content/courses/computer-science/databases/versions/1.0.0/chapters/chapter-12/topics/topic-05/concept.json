@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-12.topic-05",
   "name": "Backup & Recovery",
   "subject": "computer-science",
+  "summary": "Backup & Recovery is a fundamental concept in computer-science.",
   "definition": "Backup & Recovery is a fundamental concept in computer-science.",
   "explanation": "Learn about Backup & Recovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "backup-recovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

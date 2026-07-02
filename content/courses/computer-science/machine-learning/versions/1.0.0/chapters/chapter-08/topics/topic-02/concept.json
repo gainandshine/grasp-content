@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-08.topic-02",
   "name": "Convolutional Neural Networks (CNNs)",
   "subject": "computer-science",
+  "summary": "Convolutional Neural Networks (CNNs) is a fundamental concept in computer-science.",
   "definition": "Convolutional Neural Networks (CNNs) is a fundamental concept in computer-science.",
   "explanation": "Learn about Convolutional Neural Networks (CNNs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "convolutional-neural-networks-cnns"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

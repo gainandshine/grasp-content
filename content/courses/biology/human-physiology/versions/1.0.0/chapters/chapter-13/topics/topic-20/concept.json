@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-20",
   "name": "Industrial & Environmental Microbiology",
   "subject": "biology",
+  "summary": "Industrial & Environmental Microbiology is a fundamental concept in biology.",
   "definition": "Industrial & Environmental Microbiology is a fundamental concept in biology.",
   "explanation": "Learn about Industrial & Environmental Microbiology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "industrial-environmental-microbiology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

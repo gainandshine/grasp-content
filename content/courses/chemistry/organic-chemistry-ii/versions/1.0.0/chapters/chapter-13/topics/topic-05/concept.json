@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-13.topic-05",
   "name": "Computational Organic Chemistry",
   "subject": "chemistry",
+  "summary": "Computational Organic Chemistry is a fundamental concept in chemistry.",
   "definition": "Computational Organic Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Computational Organic Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "computational-organic-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

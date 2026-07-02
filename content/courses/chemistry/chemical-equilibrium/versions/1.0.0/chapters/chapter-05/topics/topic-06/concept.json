@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-05.topic-06",
   "name": "Inert Gas Effects",
   "subject": "chemistry",
+  "summary": "Inert Gas Effects is a fundamental concept in chemistry.",
   "definition": "Inert Gas Effects is a fundamental concept in chemistry.",
   "explanation": "Learn about Inert Gas Effects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "inert-gas-effects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-03.topic-02",
   "name": "Systematic Errors",
   "subject": "chemistry",
+  "summary": "Systematic Errors is a fundamental concept in chemistry.",
   "definition": "Systematic Errors is a fundamental concept in chemistry.",
   "explanation": "Learn about Systematic Errors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "systematic-errors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

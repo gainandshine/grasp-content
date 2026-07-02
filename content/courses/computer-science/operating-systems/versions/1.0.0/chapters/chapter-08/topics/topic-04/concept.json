@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-08.topic-04",
   "name": "File System Structure",
   "subject": "computer-science",
+  "summary": "File System Structure is a fundamental concept in computer-science.",
   "definition": "File System Structure is a fundamental concept in computer-science.",
   "explanation": "Learn about File System Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "file-system-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

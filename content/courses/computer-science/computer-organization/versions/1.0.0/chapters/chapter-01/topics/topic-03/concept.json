@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-01.topic-03",
   "name": "Stored Program Concept",
   "subject": "computer-science",
+  "summary": "Stored Program Concept is a fundamental concept in computer-science.",
   "definition": "Stored Program Concept is a fundamental concept in computer-science.",
   "explanation": "Learn about Stored Program Concept and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "stored-program-concept"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

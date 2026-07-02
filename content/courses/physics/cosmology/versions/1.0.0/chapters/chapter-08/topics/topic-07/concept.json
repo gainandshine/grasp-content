@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-08.topic-07",
   "name": "Flat Universe",
   "subject": "physics",
+  "summary": "Flat Universe is a fundamental concept in physics.",
   "definition": "Flat Universe is a fundamental concept in physics.",
   "explanation": "Learn about Flat Universe and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "flat-universe"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

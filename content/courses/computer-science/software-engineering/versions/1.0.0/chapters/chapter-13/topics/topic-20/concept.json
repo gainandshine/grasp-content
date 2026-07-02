@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-13.topic-20",
   "name": "Full-Stack Development",
   "subject": "computer-science",
+  "summary": "Full-Stack Development is a fundamental concept in computer-science.",
   "definition": "Full-Stack Development is a fundamental concept in computer-science.",
   "explanation": "Learn about Full-Stack Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "full-stack-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

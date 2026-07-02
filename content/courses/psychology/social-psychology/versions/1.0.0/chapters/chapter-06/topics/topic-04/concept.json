@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-06.topic-04",
   "name": "Groupthink",
   "subject": "psychology",
+  "summary": "Groupthink is a fundamental concept in psychology.",
   "definition": "Groupthink is a fundamental concept in psychology.",
   "explanation": "Learn about Groupthink and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "groupthink"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

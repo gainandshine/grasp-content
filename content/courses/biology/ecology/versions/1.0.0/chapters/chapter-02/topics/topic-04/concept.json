@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-02.topic-04",
   "name": "Carrying Capacity",
   "subject": "biology",
+  "summary": "Carrying Capacity is a fundamental concept in biology.",
   "definition": "Carrying Capacity is a fundamental concept in biology.",
   "explanation": "Learn about Carrying Capacity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "carrying-capacity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

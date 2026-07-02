@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-10.topic-03",
   "name": "Dipole Moment",
   "subject": "chemistry",
+  "summary": "Dipole Moment is a fundamental concept in chemistry.",
   "definition": "Dipole Moment is a fundamental concept in chemistry.",
   "explanation": "Learn about Dipole Moment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "dipole-moment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

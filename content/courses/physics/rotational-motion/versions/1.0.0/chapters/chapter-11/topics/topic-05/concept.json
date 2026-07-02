@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-11.topic-05",
   "name": "Rotating Machinery",
   "subject": "physics",
+  "summary": "Rotating Machinery is a fundamental concept in physics.",
   "definition": "Rotating Machinery is a fundamental concept in physics.",
   "explanation": "Learn about Rotating Machinery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rotating-machinery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

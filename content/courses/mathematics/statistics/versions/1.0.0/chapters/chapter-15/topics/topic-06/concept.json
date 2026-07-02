@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-15.topic-06",
   "name": "Quality Control",
   "subject": "mathematics",
+  "summary": "Quality Control is a fundamental concept in mathematics.",
   "definition": "Quality Control is a fundamental concept in mathematics.",
   "explanation": "Learn about Quality Control and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "quality-control"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

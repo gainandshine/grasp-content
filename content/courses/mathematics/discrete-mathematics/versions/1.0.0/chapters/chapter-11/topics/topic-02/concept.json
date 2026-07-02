@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-11.topic-02",
   "name": "Boolean Identities",
   "subject": "mathematics",
+  "summary": "Boolean Identities is a fundamental concept in mathematics.",
   "definition": "Boolean Identities is a fundamental concept in mathematics.",
   "explanation": "Learn about Boolean Identities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "boolean-identities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

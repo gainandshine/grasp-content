@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-08.topic-03",
   "name": "Heartbeats",
   "subject": "computer-science",
+  "summary": "Heartbeats is a fundamental concept in computer-science.",
   "definition": "Heartbeats is a fundamental concept in computer-science.",
   "explanation": "Learn about Heartbeats and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "heartbeats"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

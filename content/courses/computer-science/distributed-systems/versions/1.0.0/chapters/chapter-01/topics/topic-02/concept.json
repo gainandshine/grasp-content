@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-01.topic-02",
   "name": "Characteristics",
   "subject": "computer-science",
+  "summary": "Characteristics is a fundamental concept in computer-science.",
   "definition": "Characteristics is a fundamental concept in computer-science.",
   "explanation": "Learn about Characteristics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "characteristics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

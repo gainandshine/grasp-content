@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-11.topic-05",
   "name": "Sigma Notation",
   "subject": "mathematics",
+  "summary": "Sigma Notation is a fundamental concept in mathematics.",
   "definition": "Sigma Notation is a fundamental concept in mathematics.",
   "explanation": "Learn about Sigma Notation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sigma-notation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

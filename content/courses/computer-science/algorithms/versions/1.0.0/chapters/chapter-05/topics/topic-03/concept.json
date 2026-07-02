@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-05.topic-03",
   "name": "Quick Sort",
   "subject": "computer-science",
+  "summary": "Quick Sort is a fundamental concept in computer-science.",
   "definition": "Quick Sort is a fundamental concept in computer-science.",
   "explanation": "Learn about Quick Sort and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "quick-sort"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

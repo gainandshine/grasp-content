@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-07.topic-03",
   "name": "Down Syndrome",
   "subject": "biology",
+  "summary": "Down Syndrome is a fundamental concept in biology.",
   "definition": "Down Syndrome is a fundamental concept in biology.",
   "explanation": "Learn about Down Syndrome and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "down-syndrome"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

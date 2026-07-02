@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Visualization",
+  "type": "object",
+  "required": ["id", "type", "spec"],
+  "properties": {
+    "id": { "type": "string" },
+    "type": {
+      "type": "string",
+      "enum": ["markdown", "formula", "d3", "canvas", "diagram", "3d", "latex", "2d-text"],
+      "description": "Renderer type — must match mobile VisualizerType enum"
+    },
+    "title": { "type": "string" },
+    "caption": { "type": "string" },
+    "spec": { "type": "object", "description": "Renderer-specific spec object" },
+    "assetPath": { "type": "string" },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "difficulty": { "type": "string" },
+        "estimatedMinutes": { "type": "number" }
+      }
+    }
+  }
+}

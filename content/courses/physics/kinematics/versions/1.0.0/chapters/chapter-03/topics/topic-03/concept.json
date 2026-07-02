@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-03.topic-03",
   "name": "Velocity-Time Graph",
   "subject": "physics",
+  "summary": "Velocity-Time Graph is a fundamental concept in physics.",
   "definition": "Velocity-Time Graph is a fundamental concept in physics.",
   "explanation": "Learn about Velocity-Time Graph and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "velocity-time-graph"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

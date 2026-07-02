@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-06.topic-01",
   "name": "Paramagnetism",
   "subject": "chemistry",
+  "summary": "Paramagnetism is a fundamental concept in chemistry.",
   "definition": "Paramagnetism is a fundamental concept in chemistry.",
   "explanation": "Learn about Paramagnetism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "paramagnetism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

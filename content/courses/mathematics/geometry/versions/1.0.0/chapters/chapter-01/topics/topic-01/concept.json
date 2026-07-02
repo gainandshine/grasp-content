@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-01.topic-01",
   "name": "Points",
   "subject": "mathematics",
+  "summary": "Points is a fundamental concept in mathematics.",
   "definition": "Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.political-philosophy.chapter-05.topic-03",
   "name": "Representative Democracy",
   "subject": "philosophy",
+  "summary": "Representative Democracy is a fundamental concept in philosophy.",
   "definition": "Representative Democracy is a fundamental concept in philosophy.",
   "explanation": "Learn about Representative Democracy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "representative-democracy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

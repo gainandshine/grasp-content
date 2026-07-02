@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-04.topic-06",
   "name": "Error Handling (Introduction)",
   "subject": "computer-science",
+  "summary": "Error Handling (Introduction) is a fundamental concept in computer-science.",
   "definition": "Error Handling (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Error Handling (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "error-handling-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

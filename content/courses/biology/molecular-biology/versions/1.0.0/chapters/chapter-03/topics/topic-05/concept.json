@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-03.topic-05",
   "name": "Helicase",
   "subject": "biology",
+  "summary": "Helicase is a fundamental concept in biology.",
   "definition": "Helicase is a fundamental concept in biology.",
   "explanation": "Learn about Helicase and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "helicase"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

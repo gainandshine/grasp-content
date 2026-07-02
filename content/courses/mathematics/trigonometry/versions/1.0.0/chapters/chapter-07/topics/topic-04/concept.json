@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-07.topic-04",
   "name": "Double-Angle Identities",
   "subject": "mathematics",
+  "summary": "Double-Angle Identities is a fundamental concept in mathematics.",
   "definition": "Double-Angle Identities is a fundamental concept in mathematics.",
   "explanation": "Learn about Double-Angle Identities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "double-angle-identities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

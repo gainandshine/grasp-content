@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-01.topic-03",
   "name": "Quantum Postulates",
   "subject": "physics",
+  "summary": "Quantum Postulates is a fundamental concept in physics.",
   "definition": "Quantum Postulates is a fundamental concept in physics.",
   "explanation": "Learn about Quantum Postulates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quantum-postulates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

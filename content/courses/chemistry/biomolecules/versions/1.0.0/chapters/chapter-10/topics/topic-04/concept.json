@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-10.topic-04",
   "name": "ATP",
   "subject": "chemistry",
+  "summary": "ATP is a fundamental concept in chemistry.",
   "definition": "ATP is a fundamental concept in chemistry.",
   "explanation": "Learn about ATP and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

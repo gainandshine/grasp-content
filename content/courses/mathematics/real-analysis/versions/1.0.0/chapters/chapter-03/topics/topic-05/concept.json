@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-03.topic-05",
   "name": "Monotone Sequences",
   "subject": "mathematics",
+  "summary": "Monotone Sequences is a fundamental concept in mathematics.",
   "definition": "Monotone Sequences is a fundamental concept in mathematics.",
   "explanation": "Learn about Monotone Sequences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "monotone-sequences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

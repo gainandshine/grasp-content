@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-10.topic-03",
   "name": "Knuth-Morris-Pratt (KMP)",
   "subject": "computer-science",
+  "summary": "Knuth-Morris-Pratt (KMP) is a fundamental concept in computer-science.",
   "definition": "Knuth-Morris-Pratt (KMP) is a fundamental concept in computer-science.",
   "explanation": "Learn about Knuth-Morris-Pratt (KMP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "knuth-morris-pratt-kmp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

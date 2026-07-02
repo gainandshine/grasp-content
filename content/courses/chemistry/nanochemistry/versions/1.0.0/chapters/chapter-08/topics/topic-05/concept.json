@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-08.topic-05",
   "name": "Environmental Catalysis",
   "subject": "chemistry",
+  "summary": "Environmental Catalysis is a fundamental concept in chemistry.",
   "definition": "Environmental Catalysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Environmental Catalysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "environmental-catalysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

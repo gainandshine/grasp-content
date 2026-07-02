@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-02.topic-02",
   "name": "Law of Segregation",
   "subject": "biology",
+  "summary": "Law of Segregation is a fundamental concept in biology.",
   "definition": "Law of Segregation is a fundamental concept in biology.",
   "explanation": "Learn about Law of Segregation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "law-of-segregation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

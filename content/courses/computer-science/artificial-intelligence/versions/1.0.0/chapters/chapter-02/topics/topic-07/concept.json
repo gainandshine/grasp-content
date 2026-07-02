@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-02.topic-07",
   "name": "Learning Agents",
   "subject": "computer-science",
+  "summary": "Learning Agents is a fundamental concept in computer-science.",
   "definition": "Learning Agents is a fundamental concept in computer-science.",
   "explanation": "Learn about Learning Agents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "learning-agents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

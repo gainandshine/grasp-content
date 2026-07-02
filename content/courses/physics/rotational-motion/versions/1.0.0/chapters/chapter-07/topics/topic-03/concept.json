@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-07.topic-03",
   "name": "Translational + Rotational Motion",
   "subject": "physics",
+  "summary": "Translational + Rotational Motion is a fundamental concept in physics.",
   "definition": "Translational + Rotational Motion is a fundamental concept in physics.",
   "explanation": "Learn about Translational + Rotational Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "translational-rotational-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

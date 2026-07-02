@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-09.topic-01",
   "name": "Pathogens",
   "subject": "biology",
+  "summary": "Pathogens is a fundamental concept in biology.",
   "definition": "Pathogens is a fundamental concept in biology.",
   "explanation": "Learn about Pathogens and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "pathogens"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

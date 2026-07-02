@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-01.topic-07",
   "name": "Path Functions",
   "subject": "chemistry",
+  "summary": "Path Functions is a fundamental concept in chemistry.",
   "definition": "Path Functions is a fundamental concept in chemistry.",
   "explanation": "Learn about Path Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "path-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

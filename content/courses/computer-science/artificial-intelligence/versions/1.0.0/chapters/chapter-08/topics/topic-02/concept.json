@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-08.topic-02",
   "name": "Rule Engines",
   "subject": "computer-science",
+  "summary": "Rule Engines is a fundamental concept in computer-science.",
   "definition": "Rule Engines is a fundamental concept in computer-science.",
   "explanation": "Learn about Rule Engines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "rule-engines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

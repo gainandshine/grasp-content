@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-03.topic-03",
   "name": "Comparison Operators",
   "subject": "computer-science",
+  "summary": "Comparison Operators is a fundamental concept in computer-science.",
   "definition": "Comparison Operators is a fundamental concept in computer-science.",
   "explanation": "Learn about Comparison Operators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "comparison-operators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

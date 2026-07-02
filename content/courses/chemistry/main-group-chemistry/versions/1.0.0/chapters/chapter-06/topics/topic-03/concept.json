@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-06.topic-03",
   "name": "Arsenic",
   "subject": "chemistry",
+  "summary": "Arsenic is a fundamental concept in chemistry.",
   "definition": "Arsenic is a fundamental concept in chemistry.",
   "explanation": "Learn about Arsenic and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "arsenic"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

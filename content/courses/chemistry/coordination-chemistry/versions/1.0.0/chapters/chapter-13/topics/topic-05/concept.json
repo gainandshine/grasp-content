@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-13.topic-05",
   "name": "Metal-Organic Frameworks (MOFs)",
   "subject": "chemistry",
+  "summary": "Metal-Organic Frameworks (MOFs) is a fundamental concept in chemistry.",
   "definition": "Metal-Organic Frameworks (MOFs) is a fundamental concept in chemistry.",
   "explanation": "Learn about Metal-Organic Frameworks (MOFs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metal-organic-frameworks-mofs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

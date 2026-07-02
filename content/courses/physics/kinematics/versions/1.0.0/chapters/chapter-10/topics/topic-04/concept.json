@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-10.topic-04",
   "name": "Sports Motion",
   "subject": "physics",
+  "summary": "Sports Motion is a fundamental concept in physics.",
   "definition": "Sports Motion is a fundamental concept in physics.",
   "explanation": "Learn about Sports Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "sports-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

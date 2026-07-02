@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-10.topic-03",
   "name": "Electronegativity",
   "subject": "chemistry",
+  "summary": "Electronegativity is a fundamental concept in chemistry.",
   "definition": "Electronegativity is a fundamental concept in chemistry.",
   "explanation": "Learn about Electronegativity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electronegativity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

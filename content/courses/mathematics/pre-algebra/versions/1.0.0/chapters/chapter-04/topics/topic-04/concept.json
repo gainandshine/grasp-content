@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-04.topic-04",
   "name": "Proportions",
   "subject": "mathematics",
+  "summary": "Proportions is a fundamental concept in mathematics.",
   "definition": "Proportions is a fundamental concept in mathematics.",
   "explanation": "Learn about Proportions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "proportions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

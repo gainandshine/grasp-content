@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-10.topic-03",
   "name": "Model Serving",
   "subject": "computer-science",
+  "summary": "Model Serving is a fundamental concept in computer-science.",
   "definition": "Model Serving is a fundamental concept in computer-science.",
   "explanation": "Learn about Model Serving and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "model-serving"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

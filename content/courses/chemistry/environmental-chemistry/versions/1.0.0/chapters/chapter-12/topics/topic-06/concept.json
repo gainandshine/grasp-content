@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-12.topic-06",
   "name": "Industrial Environmental Management",
   "subject": "chemistry",
+  "summary": "Industrial Environmental Management is a fundamental concept in chemistry.",
   "definition": "Industrial Environmental Management is a fundamental concept in chemistry.",
   "explanation": "Learn about Industrial Environmental Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "industrial-environmental-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

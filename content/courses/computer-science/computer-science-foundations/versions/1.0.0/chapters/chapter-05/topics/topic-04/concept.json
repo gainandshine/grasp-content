@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-05.topic-04",
   "name": "Device Drivers",
   "subject": "computer-science",
+  "summary": "Device Drivers is a fundamental concept in computer-science.",
   "definition": "Device Drivers is a fundamental concept in computer-science.",
   "explanation": "Learn about Device Drivers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "device-drivers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

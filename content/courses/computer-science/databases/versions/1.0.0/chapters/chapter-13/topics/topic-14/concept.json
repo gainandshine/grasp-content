@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-14",
   "name": "Version Control (Git)",
   "subject": "computer-science",
+  "summary": "Version Control (Git) is a fundamental concept in computer-science.",
   "definition": "Version Control (Git) is a fundamental concept in computer-science.",
   "explanation": "Learn about Version Control (Git) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "version-control-git"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

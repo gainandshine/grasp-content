@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-04",
   "name": "Equations of Planes",
   "subject": "mathematics",
+  "summary": "Equations of Planes is a fundamental concept in mathematics.",
   "definition": "Equations of Planes is a fundamental concept in mathematics.",
   "explanation": "Learn about Equations of Planes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "equations-of-planes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

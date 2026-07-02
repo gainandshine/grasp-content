@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-13.topic-12",
   "name": "Rights",
   "subject": "philosophy",
+  "summary": "Rights is a fundamental concept in philosophy.",
   "definition": "Rights is a fundamental concept in philosophy.",
   "explanation": "Learn about Rights and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "rights"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

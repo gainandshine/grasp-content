@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-01.topic-06",
   "name": "Weighted Graphs",
   "subject": "mathematics",
+  "summary": "Weighted Graphs is a fundamental concept in mathematics.",
   "definition": "Weighted Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Weighted Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "weighted-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

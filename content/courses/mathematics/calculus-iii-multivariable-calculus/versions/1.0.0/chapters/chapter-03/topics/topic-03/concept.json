@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-03.topic-03",
   "name": "Symmetric Equations",
   "subject": "mathematics",
+  "summary": "Symmetric Equations is a fundamental concept in mathematics.",
   "definition": "Symmetric Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Symmetric Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "symmetric-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

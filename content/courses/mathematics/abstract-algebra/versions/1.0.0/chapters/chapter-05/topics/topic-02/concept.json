@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-05.topic-02",
   "name": "Orbits",
   "subject": "mathematics",
+  "summary": "Orbits is a fundamental concept in mathematics.",
   "definition": "Orbits is a fundamental concept in mathematics.",
   "explanation": "Learn about Orbits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "orbits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

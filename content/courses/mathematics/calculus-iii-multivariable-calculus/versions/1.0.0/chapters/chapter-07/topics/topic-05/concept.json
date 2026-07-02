@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-07.topic-05",
   "name": "Hessian Matrix",
   "subject": "mathematics",
+  "summary": "Hessian Matrix is a fundamental concept in mathematics.",
   "definition": "Hessian Matrix is a fundamental concept in mathematics.",
   "explanation": "Learn about Hessian Matrix and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "hessian-matrix"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

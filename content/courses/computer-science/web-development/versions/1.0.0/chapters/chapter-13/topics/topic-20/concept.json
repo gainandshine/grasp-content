@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-13.topic-20",
   "name": "App Publishing",
   "subject": "computer-science",
+  "summary": "App Publishing is a fundamental concept in computer-science.",
   "definition": "App Publishing is a fundamental concept in computer-science.",
   "explanation": "Learn about App Publishing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "app-publishing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

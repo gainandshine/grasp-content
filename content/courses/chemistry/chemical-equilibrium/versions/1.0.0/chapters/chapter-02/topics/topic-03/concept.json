@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-02.topic-03",
   "name": "Equilibrium Expression",
   "subject": "chemistry",
+  "summary": "Equilibrium Expression is a fundamental concept in chemistry.",
   "definition": "Equilibrium Expression is a fundamental concept in chemistry.",
   "explanation": "Learn about Equilibrium Expression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "equilibrium-expression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

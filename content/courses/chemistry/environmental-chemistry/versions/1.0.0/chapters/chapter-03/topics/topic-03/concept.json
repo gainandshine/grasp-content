@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-03.topic-03",
   "name": "Carbon Monoxide",
   "subject": "chemistry",
+  "summary": "Carbon Monoxide is a fundamental concept in chemistry.",
   "definition": "Carbon Monoxide is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbon Monoxide and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbon-monoxide"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

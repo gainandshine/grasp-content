@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-01.topic-04",
   "name": "Efficiency",
   "subject": "computer-science",
+  "summary": "Efficiency is a fundamental concept in computer-science.",
   "definition": "Efficiency is a fundamental concept in computer-science.",
   "explanation": "Learn about Efficiency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "efficiency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

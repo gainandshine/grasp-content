@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-08.topic-03",
   "name": "Photonic Materials",
   "subject": "chemistry",
+  "summary": "Photonic Materials is a fundamental concept in chemistry.",
   "definition": "Photonic Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Photonic Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "photonic-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

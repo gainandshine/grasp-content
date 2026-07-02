@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-12.topic-17",
   "name": "Named Reactions",
   "subject": "chemistry",
+  "summary": "Named Reactions is a fundamental concept in chemistry.",
   "definition": "Named Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Named Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "named-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

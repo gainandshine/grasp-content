@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-11.topic-04",
   "name": "Docker Concepts",
   "subject": "computer-science",
+  "summary": "Docker Concepts is a fundamental concept in computer-science.",
   "definition": "Docker Concepts is a fundamental concept in computer-science.",
   "explanation": "Learn about Docker Concepts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "docker-concepts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-07.topic-05",
   "name": "Weak Acid–Strong Base",
   "subject": "chemistry",
+  "summary": "Weak Acid–Strong Base is a fundamental concept in chemistry.",
   "definition": "Weak Acid–Strong Base is a fundamental concept in chemistry.",
   "explanation": "Learn about Weak Acid–Strong Base and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "weak-acidstrong-base"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-01.topic-05",
   "name": "Limits at Infinity",
   "subject": "mathematics",
+  "summary": "Limits at Infinity is a fundamental concept in mathematics.",
   "definition": "Limits at Infinity is a fundamental concept in mathematics.",
   "explanation": "Learn about Limits at Infinity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "limits-at-infinity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

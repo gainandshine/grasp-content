@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-11.topic-02",
   "name": "Interferometers",
   "subject": "physics",
+  "summary": "Interferometers is a fundamental concept in physics.",
   "definition": "Interferometers is a fundamental concept in physics.",
   "explanation": "Learn about Interferometers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "interferometers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

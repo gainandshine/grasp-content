@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-13.topic-07",
   "name": "Scientific Machine Learning",
   "subject": "computer-science",
+  "summary": "Scientific Machine Learning is a fundamental concept in computer-science.",
   "definition": "Scientific Machine Learning is a fundamental concept in computer-science.",
   "explanation": "Learn about Scientific Machine Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scientific-machine-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

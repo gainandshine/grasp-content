@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-09.topic-05",
   "name": "Beam Problems",
   "subject": "physics",
+  "summary": "Beam Problems is a fundamental concept in physics.",
   "definition": "Beam Problems is a fundamental concept in physics.",
   "explanation": "Learn about Beam Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "beam-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

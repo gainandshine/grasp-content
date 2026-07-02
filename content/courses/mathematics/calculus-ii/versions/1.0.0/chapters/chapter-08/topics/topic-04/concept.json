@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-08.topic-04",
   "name": "Error Estimation",
   "subject": "mathematics",
+  "summary": "Error Estimation is a fundamental concept in mathematics.",
   "definition": "Error Estimation is a fundamental concept in mathematics.",
   "explanation": "Learn about Error Estimation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "error-estimation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

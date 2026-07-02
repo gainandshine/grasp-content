@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-06.topic-05",
   "name": "Energy Balance",
   "subject": "physics",
+  "summary": "Energy Balance is a fundamental concept in physics.",
   "definition": "Energy Balance is a fundamental concept in physics.",
   "explanation": "Learn about Energy Balance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-balance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

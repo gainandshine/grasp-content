@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-03.topic-02",
   "name": "Classification",
   "subject": "computer-science",
+  "summary": "Classification is a fundamental concept in computer-science.",
   "definition": "Classification is a fundamental concept in computer-science.",
   "explanation": "Learn about Classification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "classification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

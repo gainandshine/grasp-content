@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-02.topic-02",
   "name": "Dynamic Arrays",
   "subject": "computer-science",
+  "summary": "Dynamic Arrays is a fundamental concept in computer-science.",
   "definition": "Dynamic Arrays is a fundamental concept in computer-science.",
   "explanation": "Learn about Dynamic Arrays and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "dynamic-arrays"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

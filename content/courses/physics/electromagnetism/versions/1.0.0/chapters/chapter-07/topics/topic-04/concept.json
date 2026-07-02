@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-07.topic-04",
   "name": "Solenoids",
   "subject": "physics",
+  "summary": "Solenoids is a fundamental concept in physics.",
   "definition": "Solenoids is a fundamental concept in physics.",
   "explanation": "Learn about Solenoids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "solenoids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

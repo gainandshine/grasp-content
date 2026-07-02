@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-05.topic-06",
   "name": "Dictatorship",
   "subject": "game-theory",
+  "summary": "Dictatorship is a fundamental concept in game-theory.",
   "definition": "Dictatorship is a fundamental concept in game-theory.",
   "explanation": "Learn about Dictatorship and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "dictatorship"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

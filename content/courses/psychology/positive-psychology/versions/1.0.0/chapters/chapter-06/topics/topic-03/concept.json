@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-06.topic-03",
   "name": "Purpose",
   "subject": "psychology",
+  "summary": "Purpose is a fundamental concept in psychology.",
   "definition": "Purpose is a fundamental concept in psychology.",
   "explanation": "Learn about Purpose and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "purpose"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-03.topic-02",
   "name": "Electromagnetic Force",
   "subject": "physics",
+  "summary": "Electromagnetic Force is a fundamental concept in physics.",
   "definition": "Electromagnetic Force is a fundamental concept in physics.",
   "explanation": "Learn about Electromagnetic Force and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electromagnetic-force"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

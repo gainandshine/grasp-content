@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-03.topic-03",
   "name": "Unsaturated Fats",
   "subject": "chemistry",
+  "summary": "Unsaturated Fats is a fundamental concept in chemistry.",
   "definition": "Unsaturated Fats is a fundamental concept in chemistry.",
   "explanation": "Learn about Unsaturated Fats and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "unsaturated-fats"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

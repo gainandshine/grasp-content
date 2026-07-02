@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-03.topic-03",
   "name": "Boundary Conditions",
   "subject": "physics",
+  "summary": "Boundary Conditions is a fundamental concept in physics.",
   "definition": "Boundary Conditions is a fundamental concept in physics.",
   "explanation": "Learn about Boundary Conditions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "boundary-conditions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

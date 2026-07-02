@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-03.topic-02",
   "name": "First-Order Reactions",
   "subject": "chemistry",
+  "summary": "First-Order Reactions is a fundamental concept in chemistry.",
   "definition": "First-Order Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about First-Order Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "first-order-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

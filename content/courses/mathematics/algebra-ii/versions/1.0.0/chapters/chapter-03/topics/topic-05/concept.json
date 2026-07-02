@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-03.topic-05",
   "name": "Factor Theorem",
   "subject": "mathematics",
+  "summary": "Factor Theorem is a fundamental concept in mathematics.",
   "definition": "Factor Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Factor Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "factor-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

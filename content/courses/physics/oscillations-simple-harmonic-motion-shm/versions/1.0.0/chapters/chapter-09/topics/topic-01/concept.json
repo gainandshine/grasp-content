@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-09.topic-01",
   "name": "Coupled Oscillations",
   "subject": "physics",
+  "summary": "Coupled Oscillations is a fundamental concept in physics.",
   "definition": "Coupled Oscillations is a fundamental concept in physics.",
   "explanation": "Learn about Coupled Oscillations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "coupled-oscillations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

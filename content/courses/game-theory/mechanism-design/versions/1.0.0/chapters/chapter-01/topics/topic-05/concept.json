@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-01.topic-05",
   "name": "Mechanisms",
   "subject": "game-theory",
+  "summary": "Mechanisms is a fundamental concept in game-theory.",
   "definition": "Mechanisms is a fundamental concept in game-theory.",
   "explanation": "Learn about Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

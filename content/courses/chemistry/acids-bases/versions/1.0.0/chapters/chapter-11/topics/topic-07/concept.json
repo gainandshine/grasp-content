@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-11.topic-07",
   "name": "Industrial Neutralization",
   "subject": "chemistry",
+  "summary": "Industrial Neutralization is a fundamental concept in chemistry.",
   "definition": "Industrial Neutralization is a fundamental concept in chemistry.",
   "explanation": "Learn about Industrial Neutralization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "industrial-neutralization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

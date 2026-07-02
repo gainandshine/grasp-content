@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-12.topic-01",
   "name": "Drug Discovery",
   "subject": "biology",
+  "summary": "Drug Discovery is a fundamental concept in biology.",
   "definition": "Drug Discovery is a fundamental concept in biology.",
   "explanation": "Learn about Drug Discovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "drug-discovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

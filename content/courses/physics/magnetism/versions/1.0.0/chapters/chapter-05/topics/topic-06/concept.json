@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-05.topic-06",
   "name": "Permanent Magnets",
   "subject": "physics",
+  "summary": "Permanent Magnets is a fundamental concept in physics.",
   "definition": "Permanent Magnets is a fundamental concept in physics.",
   "explanation": "Learn about Permanent Magnets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "permanent-magnets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

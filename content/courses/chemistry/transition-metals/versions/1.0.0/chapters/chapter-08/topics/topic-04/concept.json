@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-08.topic-04",
   "name": "Reduction Processes",
   "subject": "chemistry",
+  "summary": "Reduction Processes is a fundamental concept in chemistry.",
   "definition": "Reduction Processes is a fundamental concept in chemistry.",
   "explanation": "Learn about Reduction Processes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "reduction-processes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

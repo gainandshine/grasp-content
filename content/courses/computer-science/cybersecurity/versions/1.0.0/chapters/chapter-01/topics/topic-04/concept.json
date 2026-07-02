@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-01.topic-04",
   "name": "Vulnerabilities",
   "subject": "computer-science",
+  "summary": "Vulnerabilities is a fundamental concept in computer-science.",
   "definition": "Vulnerabilities is a fundamental concept in computer-science.",
   "explanation": "Learn about Vulnerabilities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "vulnerabilities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-02.topic-03",
   "name": "Identifying Oxidation & Reduction",
   "subject": "chemistry",
+  "summary": "Identifying Oxidation & Reduction is a fundamental concept in chemistry.",
   "definition": "Identifying Oxidation & Reduction is a fundamental concept in chemistry.",
   "explanation": "Learn about Identifying Oxidation & Reduction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "identifying-oxidation-reduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

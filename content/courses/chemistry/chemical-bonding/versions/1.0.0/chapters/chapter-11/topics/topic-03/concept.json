@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-11.topic-03",
   "name": "Covalent Network Solids",
   "subject": "chemistry",
+  "summary": "Covalent Network Solids is a fundamental concept in chemistry.",
   "definition": "Covalent Network Solids is a fundamental concept in chemistry.",
   "explanation": "Learn about Covalent Network Solids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "covalent-network-solids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-06.topic-03",
   "name": "Homologous Structures",
   "subject": "biology",
+  "summary": "Homologous Structures is a fundamental concept in biology.",
   "definition": "Homologous Structures is a fundamental concept in biology.",
   "explanation": "Learn about Homologous Structures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "homologous-structures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

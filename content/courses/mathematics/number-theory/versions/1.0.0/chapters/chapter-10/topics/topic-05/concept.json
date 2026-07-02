@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-10.topic-05",
   "name": "Hash Functions (Introduction)",
   "subject": "mathematics",
+  "summary": "Hash Functions (Introduction) is a fundamental concept in mathematics.",
   "definition": "Hash Functions (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Hash Functions (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "hash-functions-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

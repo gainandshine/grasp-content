@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-06.topic-01",
   "name": "TCP",
   "subject": "computer-science",
+  "summary": "TCP is a fundamental concept in computer-science.",
   "definition": "TCP is a fundamental concept in computer-science.",
   "explanation": "Learn about TCP and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "tcp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

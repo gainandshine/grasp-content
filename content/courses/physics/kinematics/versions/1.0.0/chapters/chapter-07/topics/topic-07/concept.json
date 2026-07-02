@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-07.topic-07",
   "name": "Period",
   "subject": "physics",
+  "summary": "Period is a fundamental concept in physics.",
   "definition": "Period is a fundamental concept in physics.",
   "explanation": "Learn about Period and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "period"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

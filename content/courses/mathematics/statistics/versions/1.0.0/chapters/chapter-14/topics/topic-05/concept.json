@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-14.topic-05",
   "name": "Missing Data",
   "subject": "mathematics",
+  "summary": "Missing Data is a fundamental concept in mathematics.",
   "definition": "Missing Data is a fundamental concept in mathematics.",
   "explanation": "Learn about Missing Data and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "missing-data"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

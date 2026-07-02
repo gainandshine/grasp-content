@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-08.topic-02",
   "name": "Water-Soluble Vitamins",
   "subject": "chemistry",
+  "summary": "Water-Soluble Vitamins is a fundamental concept in chemistry.",
   "definition": "Water-Soluble Vitamins is a fundamental concept in chemistry.",
   "explanation": "Learn about Water-Soluble Vitamins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "water-soluble-vitamins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

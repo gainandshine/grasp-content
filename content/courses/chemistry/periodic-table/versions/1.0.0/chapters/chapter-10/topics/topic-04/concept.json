@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-10.topic-04",
   "name": "Boiling Point Trends",
   "subject": "chemistry",
+  "summary": "Boiling Point Trends is a fundamental concept in chemistry.",
   "definition": "Boiling Point Trends is a fundamental concept in chemistry.",
   "explanation": "Learn about Boiling Point Trends and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "boiling-point-trends"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

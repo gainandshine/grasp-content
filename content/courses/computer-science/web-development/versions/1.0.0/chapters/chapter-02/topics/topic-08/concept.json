@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-02.topic-08",
   "name": "Accessibility Basics",
   "subject": "computer-science",
+  "summary": "Accessibility Basics is a fundamental concept in computer-science.",
   "definition": "Accessibility Basics is a fundamental concept in computer-science.",
   "explanation": "Learn about Accessibility Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "accessibility-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

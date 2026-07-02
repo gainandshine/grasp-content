@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-06.topic-03",
   "name": "Segmentation",
   "subject": "computer-science",
+  "summary": "Segmentation is a fundamental concept in computer-science.",
   "definition": "Segmentation is a fundamental concept in computer-science.",
   "explanation": "Learn about Segmentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "segmentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

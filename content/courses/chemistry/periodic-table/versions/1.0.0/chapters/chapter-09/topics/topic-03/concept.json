@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-09.topic-03",
   "name": "Boron Group",
   "subject": "chemistry",
+  "summary": "Boron Group is a fundamental concept in chemistry.",
   "definition": "Boron Group is a fundamental concept in chemistry.",
   "explanation": "Learn about Boron Group and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "boron-group"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

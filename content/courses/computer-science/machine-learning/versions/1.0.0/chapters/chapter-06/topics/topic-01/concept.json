@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-06.topic-01",
   "name": "Confusion Matrix",
   "subject": "computer-science",
+  "summary": "Confusion Matrix is a fundamental concept in computer-science.",
   "definition": "Confusion Matrix is a fundamental concept in computer-science.",
   "explanation": "Learn about Confusion Matrix and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "confusion-matrix"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

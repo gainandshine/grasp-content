@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-11.topic-06",
   "name": "Semiconductor Modeling",
   "subject": "chemistry",
+  "summary": "Semiconductor Modeling is a fundamental concept in chemistry.",
   "definition": "Semiconductor Modeling is a fundamental concept in chemistry.",
   "explanation": "Learn about Semiconductor Modeling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "semiconductor-modeling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-08.topic-06",
   "name": "Model Evaluation",
   "subject": "computer-science",
+  "summary": "Model Evaluation is a fundamental concept in computer-science.",
   "definition": "Model Evaluation is a fundamental concept in computer-science.",
   "explanation": "Learn about Model Evaluation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "model-evaluation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

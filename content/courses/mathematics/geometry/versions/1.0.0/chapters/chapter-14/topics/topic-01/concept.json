@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-14.topic-01",
   "name": "Prisms",
   "subject": "mathematics",
+  "summary": "Prisms is a fundamental concept in mathematics.",
   "definition": "Prisms is a fundamental concept in mathematics.",
   "explanation": "Learn about Prisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "prisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

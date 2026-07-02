@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-09.topic-04",
   "name": "Energy Transfer",
   "subject": "physics",
+  "summary": "Energy Transfer is a fundamental concept in physics.",
   "definition": "Energy Transfer is a fundamental concept in physics.",
   "explanation": "Learn about Energy Transfer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-transfer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

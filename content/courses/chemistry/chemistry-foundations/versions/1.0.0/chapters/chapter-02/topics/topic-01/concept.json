@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-02.topic-01",
   "name": "Elements",
   "subject": "chemistry",
+  "summary": "Elements is a fundamental concept in chemistry.",
   "definition": "Elements is a fundamental concept in chemistry.",
   "explanation": "Learn about Elements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "elements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

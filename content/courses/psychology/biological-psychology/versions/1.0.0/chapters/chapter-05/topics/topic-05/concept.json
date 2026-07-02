@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-05.topic-05",
   "name": "Hormones",
   "subject": "psychology",
+  "summary": "Hormones is a fundamental concept in psychology.",
   "definition": "Hormones is a fundamental concept in psychology.",
   "explanation": "Learn about Hormones and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "hormones"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

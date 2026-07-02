@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-08.topic-03",
   "name": "Litmus",
   "subject": "chemistry",
+  "summary": "Litmus is a fundamental concept in chemistry.",
   "definition": "Litmus is a fundamental concept in chemistry.",
   "explanation": "Learn about Litmus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "litmus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

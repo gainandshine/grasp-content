@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-08.topic-03",
   "name": "Heuristics",
   "subject": "psychology",
+  "summary": "Heuristics is a fundamental concept in psychology.",
   "definition": "Heuristics is a fundamental concept in psychology.",
   "explanation": "Learn about Heuristics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "heuristics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

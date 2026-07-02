@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-10.topic-05",
   "name": "Crossover",
   "subject": "game-theory",
+  "summary": "Crossover is a fundamental concept in game-theory.",
   "definition": "Crossover is a fundamental concept in game-theory.",
   "explanation": "Learn about Crossover and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "crossover"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

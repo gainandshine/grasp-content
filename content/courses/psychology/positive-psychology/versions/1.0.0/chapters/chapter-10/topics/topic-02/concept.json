@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-10.topic-02",
   "name": "Workplace Well-Being",
   "subject": "psychology",
+  "summary": "Workplace Well-Being is a fundamental concept in psychology.",
   "definition": "Workplace Well-Being is a fundamental concept in psychology.",
   "explanation": "Learn about Workplace Well-Being and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "workplace-well-being"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

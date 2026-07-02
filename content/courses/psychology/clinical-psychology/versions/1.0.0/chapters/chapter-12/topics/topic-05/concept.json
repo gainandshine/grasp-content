@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-12.topic-05",
   "name": "Corporate Wellness",
   "subject": "psychology",
+  "summary": "Corporate Wellness is a fundamental concept in psychology.",
   "definition": "Corporate Wellness is a fundamental concept in psychology.",
   "explanation": "Learn about Corporate Wellness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "corporate-wellness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

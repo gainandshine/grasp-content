@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-05.topic-04",
   "name": "Parallelogram Law",
   "subject": "physics",
+  "summary": "Parallelogram Law is a fundamental concept in physics.",
   "definition": "Parallelogram Law is a fundamental concept in physics.",
   "explanation": "Learn about Parallelogram Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "parallelogram-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

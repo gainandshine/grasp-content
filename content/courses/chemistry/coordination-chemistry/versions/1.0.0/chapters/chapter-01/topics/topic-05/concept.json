@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-01.topic-05",
   "name": "Werner's Theory",
   "subject": "chemistry",
+  "summary": "Werner's Theory is a fundamental concept in chemistry.",
   "definition": "Werner's Theory is a fundamental concept in chemistry.",
   "explanation": "Learn about Werner's Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "werners-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

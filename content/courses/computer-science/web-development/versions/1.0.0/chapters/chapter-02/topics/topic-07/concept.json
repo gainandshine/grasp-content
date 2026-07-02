@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-02.topic-07",
   "name": "Media Elements",
   "subject": "computer-science",
+  "summary": "Media Elements is a fundamental concept in computer-science.",
   "definition": "Media Elements is a fundamental concept in computer-science.",
   "explanation": "Learn about Media Elements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "media-elements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

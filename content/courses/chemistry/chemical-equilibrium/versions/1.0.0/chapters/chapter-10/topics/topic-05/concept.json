@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-10.topic-05",
   "name": "Yield vs Rate",
   "subject": "chemistry",
+  "summary": "Yield vs Rate is a fundamental concept in chemistry.",
   "definition": "Yield vs Rate is a fundamental concept in chemistry.",
   "explanation": "Learn about Yield vs Rate and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "yield-vs-rate"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-11.topic-03",
   "name": "JVM",
   "subject": "computer-science",
+  "summary": "JVM is a fundamental concept in computer-science.",
   "definition": "JVM is a fundamental concept in computer-science.",
   "explanation": "Learn about JVM and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "jvm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

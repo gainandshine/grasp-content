@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-04.topic-10",
   "name": "Stability & In-Place Sorting",
   "subject": "computer-science",
+  "summary": "Stability & In-Place Sorting is a fundamental concept in computer-science.",
   "definition": "Stability & In-Place Sorting is a fundamental concept in computer-science.",
   "explanation": "Learn about Stability & In-Place Sorting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "stability-in-place-sorting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

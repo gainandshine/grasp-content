@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-08.topic-02",
   "name": "Correlation Coefficient",
   "subject": "psychology",
+  "summary": "Correlation Coefficient is a fundamental concept in psychology.",
   "definition": "Correlation Coefficient is a fundamental concept in psychology.",
   "explanation": "Learn about Correlation Coefficient and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "correlation-coefficient"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

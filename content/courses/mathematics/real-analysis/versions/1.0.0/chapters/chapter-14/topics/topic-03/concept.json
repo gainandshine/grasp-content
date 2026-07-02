@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-14.topic-03",
   "name": "Functional Analysis",
   "subject": "mathematics",
+  "summary": "Functional Analysis is a fundamental concept in mathematics.",
   "definition": "Functional Analysis is a fundamental concept in mathematics.",
   "explanation": "Learn about Functional Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "functional-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

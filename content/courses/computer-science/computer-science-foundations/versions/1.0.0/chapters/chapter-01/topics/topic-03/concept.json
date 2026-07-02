@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-01.topic-03",
   "name": "Fields of Computer Science",
   "subject": "computer-science",
+  "summary": "Fields of Computer Science is a fundamental concept in computer-science.",
   "definition": "Fields of Computer Science is a fundamental concept in computer-science.",
   "explanation": "Learn about Fields of Computer Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fields-of-computer-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

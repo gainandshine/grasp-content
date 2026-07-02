@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-02.topic-03",
   "name": "Self-Awareness",
   "subject": "psychology",
+  "summary": "Self-Awareness is a fundamental concept in psychology.",
   "definition": "Self-Awareness is a fundamental concept in psychology.",
   "explanation": "Learn about Self-Awareness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "self-awareness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

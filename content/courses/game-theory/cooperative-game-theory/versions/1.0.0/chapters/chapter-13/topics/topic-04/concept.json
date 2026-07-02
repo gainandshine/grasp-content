@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-13.topic-04",
   "name": "Network Formation Games",
   "subject": "game-theory",
+  "summary": "Network Formation Games is a fundamental concept in game-theory.",
   "definition": "Network Formation Games is a fundamental concept in game-theory.",
   "explanation": "Learn about Network Formation Games and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "network-formation-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

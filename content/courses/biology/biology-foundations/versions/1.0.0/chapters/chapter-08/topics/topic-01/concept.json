@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-08.topic-01",
   "name": "Energy",
   "subject": "biology",
+  "summary": "Energy is a fundamental concept in biology.",
   "definition": "Energy is a fundamental concept in biology.",
   "explanation": "Learn about Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

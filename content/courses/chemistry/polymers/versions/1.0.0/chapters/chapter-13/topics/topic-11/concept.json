@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-11",
   "name": "*Course 18: Analytical Chemistry**",
   "subject": "chemistry",
+  "summary": "*Course 18: Analytical Chemistry** is a fundamental concept in chemistry.",
   "definition": "*Course 18: Analytical Chemistry** is a fundamental concept in chemistry.",
   "explanation": "Learn about *Course 18: Analytical Chemistry** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "course-18-analytical-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

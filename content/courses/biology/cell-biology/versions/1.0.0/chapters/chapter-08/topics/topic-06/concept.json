@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-08.topic-06",
   "name": "Chromosome Behavior",
   "subject": "biology",
+  "summary": "Chromosome Behavior is a fundamental concept in biology.",
   "definition": "Chromosome Behavior is a fundamental concept in biology.",
   "explanation": "Learn about Chromosome Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "chromosome-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

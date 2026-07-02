@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-04.topic-03",
   "name": "Eukaryotic Cells",
   "subject": "biology",
+  "summary": "Eukaryotic Cells is a fundamental concept in biology.",
   "definition": "Eukaryotic Cells is a fundamental concept in biology.",
   "explanation": "Learn about Eukaryotic Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "eukaryotic-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

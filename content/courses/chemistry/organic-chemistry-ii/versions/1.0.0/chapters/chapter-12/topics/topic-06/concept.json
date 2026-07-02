@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-12.topic-06",
   "name": "Petrochemicals",
   "subject": "chemistry",
+  "summary": "Petrochemicals is a fundamental concept in chemistry.",
   "definition": "Petrochemicals is a fundamental concept in chemistry.",
   "explanation": "Learn about Petrochemicals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "petrochemicals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

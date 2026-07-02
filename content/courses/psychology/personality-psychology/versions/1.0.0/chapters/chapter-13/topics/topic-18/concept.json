@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-13.topic-18",
   "name": "Applied Behavior Analysis",
   "subject": "psychology",
+  "summary": "Applied Behavior Analysis is a fundamental concept in psychology.",
   "definition": "Applied Behavior Analysis is a fundamental concept in psychology.",
   "explanation": "Learn about Applied Behavior Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "applied-behavior-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

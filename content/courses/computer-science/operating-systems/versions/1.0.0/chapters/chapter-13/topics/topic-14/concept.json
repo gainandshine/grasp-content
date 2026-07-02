@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-13.topic-14",
   "name": "Transport Layer",
   "subject": "computer-science",
+  "summary": "Transport Layer is a fundamental concept in computer-science.",
   "definition": "Transport Layer is a fundamental concept in computer-science.",
   "explanation": "Learn about Transport Layer and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "transport-layer"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-03.topic-01",
   "name": "Formation of Stars",
   "subject": "physics",
+  "summary": "Formation of Stars is a fundamental concept in physics.",
   "definition": "Formation of Stars is a fundamental concept in physics.",
   "explanation": "Learn about Formation of Stars and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "formation-of-stars"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

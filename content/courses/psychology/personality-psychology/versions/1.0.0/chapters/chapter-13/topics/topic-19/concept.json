@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-13.topic-19",
   "name": "Learning in Everyday Life",
   "subject": "psychology",
+  "summary": "Learning in Everyday Life is a fundamental concept in psychology.",
   "definition": "Learning in Everyday Life is a fundamental concept in psychology.",
   "explanation": "Learn about Learning in Everyday Life and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "learning-in-everyday-life"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

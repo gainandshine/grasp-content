@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-07.topic-03",
   "name": "Heat of Neutralization",
   "subject": "chemistry",
+  "summary": "Heat of Neutralization is a fundamental concept in chemistry.",
   "definition": "Heat of Neutralization is a fundamental concept in chemistry.",
   "explanation": "Learn about Heat of Neutralization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "heat-of-neutralization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

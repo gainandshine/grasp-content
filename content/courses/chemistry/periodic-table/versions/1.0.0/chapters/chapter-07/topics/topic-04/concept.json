@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-07.topic-04",
   "name": "Periodic Trends",
   "subject": "chemistry",
+  "summary": "Periodic Trends is a fundamental concept in chemistry.",
   "definition": "Periodic Trends is a fundamental concept in chemistry.",
   "explanation": "Learn about Periodic Trends and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "periodic-trends"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.political-philosophy.chapter-06.topic-01",
   "name": "Political Authority",
   "subject": "philosophy",
+  "summary": "Political Authority is a fundamental concept in philosophy.",
   "definition": "Political Authority is a fundamental concept in philosophy.",
   "explanation": "Learn about Political Authority and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "political-authority"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

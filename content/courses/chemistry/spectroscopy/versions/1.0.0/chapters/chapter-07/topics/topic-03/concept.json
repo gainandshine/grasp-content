@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-07.topic-03",
   "name": "Mass-to-Charge Ratio (m/z)",
   "subject": "chemistry",
+  "summary": "Mass-to-Charge Ratio (m/z) is a fundamental concept in chemistry.",
   "definition": "Mass-to-Charge Ratio (m/z) is a fundamental concept in chemistry.",
   "explanation": "Learn about Mass-to-Charge Ratio (m/z) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "mass-to-charge-ratio-mz"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

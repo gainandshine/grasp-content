@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-03.topic-02",
   "name": "Branched Polymers",
   "subject": "chemistry",
+  "summary": "Branched Polymers is a fundamental concept in chemistry.",
   "definition": "Branched Polymers is a fundamental concept in chemistry.",
   "explanation": "Learn about Branched Polymers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "branched-polymers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-01.topic-02",
   "name": "Characteristics of Life",
   "subject": "biology",
+  "summary": "Characteristics of Life is a fundamental concept in biology.",
   "definition": "Characteristics of Life is a fundamental concept in biology.",
   "explanation": "Learn about Characteristics of Life and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "characteristics-of-life"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

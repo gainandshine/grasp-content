@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-04.topic-04",
   "name": "Non-Probability Sampling",
   "subject": "psychology",
+  "summary": "Non-Probability Sampling is a fundamental concept in psychology.",
   "definition": "Non-Probability Sampling is a fundamental concept in psychology.",
   "explanation": "Learn about Non-Probability Sampling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "non-probability-sampling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

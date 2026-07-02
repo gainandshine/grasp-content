@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-12.topic-07",
   "name": "Version Control (Introduction)",
   "subject": "computer-science",
+  "summary": "Version Control (Introduction) is a fundamental concept in computer-science.",
   "definition": "Version Control (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Version Control (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "version-control-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

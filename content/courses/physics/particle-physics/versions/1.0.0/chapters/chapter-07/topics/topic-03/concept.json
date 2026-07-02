@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-07.topic-03",
   "name": "Particle Decay",
   "subject": "physics",
+  "summary": "Particle Decay is a fundamental concept in physics.",
   "definition": "Particle Decay is a fundamental concept in physics.",
   "explanation": "Learn about Particle Decay and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "particle-decay"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

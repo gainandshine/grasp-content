@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-04.topic-03",
   "name": "Probability Mass Function (PMF)",
   "subject": "mathematics",
+  "summary": "Probability Mass Function (PMF) is a fundamental concept in mathematics.",
   "definition": "Probability Mass Function (PMF) is a fundamental concept in mathematics.",
   "explanation": "Learn about Probability Mass Function (PMF) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "probability-mass-function-pmf"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

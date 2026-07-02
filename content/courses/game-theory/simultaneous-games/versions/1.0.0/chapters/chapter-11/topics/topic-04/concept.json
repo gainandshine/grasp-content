@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-11.topic-04",
   "name": "Military Planning",
   "subject": "game-theory",
+  "summary": "Military Planning is a fundamental concept in game-theory.",
   "definition": "Military Planning is a fundamental concept in game-theory.",
   "explanation": "Learn about Military Planning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "military-planning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

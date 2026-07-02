@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-19",
   "name": "Pipelining",
   "subject": "computer-science",
+  "summary": "Pipelining is a fundamental concept in computer-science.",
   "definition": "Pipelining is a fundamental concept in computer-science.",
   "explanation": "Learn about Pipelining and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "pipelining"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

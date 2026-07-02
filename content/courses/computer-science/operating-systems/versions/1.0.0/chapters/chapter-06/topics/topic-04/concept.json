@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-06.topic-04",
   "name": "Fragmentation",
   "subject": "computer-science",
+  "summary": "Fragmentation is a fundamental concept in computer-science.",
   "definition": "Fragmentation is a fundamental concept in computer-science.",
   "explanation": "Learn about Fragmentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fragmentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

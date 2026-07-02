@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-09.topic-01",
   "name": "Linear Accelerators",
   "subject": "physics",
+  "summary": "Linear Accelerators is a fundamental concept in physics.",
   "definition": "Linear Accelerators is a fundamental concept in physics.",
   "explanation": "Learn about Linear Accelerators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "linear-accelerators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

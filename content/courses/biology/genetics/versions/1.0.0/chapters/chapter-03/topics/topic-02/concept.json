@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-03.topic-02",
   "name": "Codominance",
   "subject": "biology",
+  "summary": "Codominance is a fundamental concept in biology.",
   "definition": "Codominance is a fundamental concept in biology.",
   "explanation": "Learn about Codominance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "codominance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

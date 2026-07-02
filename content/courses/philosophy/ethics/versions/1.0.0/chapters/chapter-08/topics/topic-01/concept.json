@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-08.topic-01",
   "name": "Corporate Responsibility",
   "subject": "philosophy",
+  "summary": "Corporate Responsibility is a fundamental concept in philosophy.",
   "definition": "Corporate Responsibility is a fundamental concept in philosophy.",
   "explanation": "Learn about Corporate Responsibility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "corporate-responsibility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

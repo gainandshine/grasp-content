@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-13.topic-05",
   "name": "GUI Applications",
   "subject": "computer-science",
+  "summary": "GUI Applications is a fundamental concept in computer-science.",
   "definition": "GUI Applications is a fundamental concept in computer-science.",
   "explanation": "Learn about GUI Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "gui-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-07.topic-01",
   "name": "Graphs",
   "subject": "physics",
+  "summary": "Graphs is a fundamental concept in physics.",
   "definition": "Graphs is a fundamental concept in physics.",
   "explanation": "Learn about Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

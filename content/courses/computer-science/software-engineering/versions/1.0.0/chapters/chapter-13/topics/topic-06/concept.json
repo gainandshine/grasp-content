@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-13.topic-06",
   "name": "Open Source Projects",
   "subject": "computer-science",
+  "summary": "Open Source Projects is a fundamental concept in computer-science.",
   "definition": "Open Source Projects is a fundamental concept in computer-science.",
   "explanation": "Learn about Open Source Projects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "open-source-projects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

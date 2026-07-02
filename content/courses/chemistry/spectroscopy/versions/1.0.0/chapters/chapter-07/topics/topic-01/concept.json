@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-07.topic-01",
   "name": "Ionization Methods",
   "subject": "chemistry",
+  "summary": "Ionization Methods is a fundamental concept in chemistry.",
   "definition": "Ionization Methods is a fundamental concept in chemistry.",
   "explanation": "Learn about Ionization Methods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ionization-methods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-08.topic-02",
   "name": "Field Extensions",
   "subject": "mathematics",
+  "summary": "Field Extensions is a fundamental concept in mathematics.",
   "definition": "Field Extensions is a fundamental concept in mathematics.",
   "explanation": "Learn about Field Extensions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "field-extensions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

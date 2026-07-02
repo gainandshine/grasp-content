@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-08.topic-02",
   "name": "Conductometry",
   "subject": "chemistry",
+  "summary": "Conductometry is a fundamental concept in chemistry.",
   "definition": "Conductometry is a fundamental concept in chemistry.",
   "explanation": "Learn about Conductometry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "conductometry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

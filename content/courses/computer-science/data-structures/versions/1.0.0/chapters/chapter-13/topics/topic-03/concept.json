@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-13.topic-03",
   "name": "Search Engines",
   "subject": "computer-science",
+  "summary": "Search Engines is a fundamental concept in computer-science.",
   "definition": "Search Engines is a fundamental concept in computer-science.",
   "explanation": "Learn about Search Engines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "search-engines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

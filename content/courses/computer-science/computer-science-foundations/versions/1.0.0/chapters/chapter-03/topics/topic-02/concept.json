@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-03.topic-02",
   "name": "Information",
   "subject": "computer-science",
+  "summary": "Information is a fundamental concept in computer-science.",
   "definition": "Information is a fundamental concept in computer-science.",
   "explanation": "Learn about Information and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "information"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-05.topic-03",
   "name": "Control Flow Graphs",
   "subject": "computer-science",
+  "summary": "Control Flow Graphs is a fundamental concept in computer-science.",
   "definition": "Control Flow Graphs is a fundamental concept in computer-science.",
   "explanation": "Learn about Control Flow Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "control-flow-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

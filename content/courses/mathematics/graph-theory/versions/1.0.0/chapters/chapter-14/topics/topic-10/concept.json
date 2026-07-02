@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-14.topic-10",
   "name": "Bioinformatics",
   "subject": "mathematics",
+  "summary": "Bioinformatics is a fundamental concept in mathematics.",
   "definition": "Bioinformatics is a fundamental concept in mathematics.",
   "explanation": "Learn about Bioinformatics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "bioinformatics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

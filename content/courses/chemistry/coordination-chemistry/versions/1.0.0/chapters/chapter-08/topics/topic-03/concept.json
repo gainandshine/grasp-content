@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-08.topic-03",
   "name": "Electronic Transitions",
   "subject": "chemistry",
+  "summary": "Electronic Transitions is a fundamental concept in chemistry.",
   "definition": "Electronic Transitions is a fundamental concept in chemistry.",
   "explanation": "Learn about Electronic Transitions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electronic-transitions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

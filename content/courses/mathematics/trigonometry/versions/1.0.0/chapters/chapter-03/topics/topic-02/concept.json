@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-03.topic-02",
   "name": "Standard Position",
   "subject": "mathematics",
+  "summary": "Standard Position is a fundamental concept in mathematics.",
   "definition": "Standard Position is a fundamental concept in mathematics.",
   "explanation": "Learn about Standard Position and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "standard-position"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

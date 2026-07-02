@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-03.topic-04",
   "name": "Kernels",
   "subject": "mathematics",
+  "summary": "Kernels is a fundamental concept in mathematics.",
   "definition": "Kernels is a fundamental concept in mathematics.",
   "explanation": "Learn about Kernels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "kernels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

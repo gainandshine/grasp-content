@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-08.topic-05",
   "name": "Cooperative Investments",
   "subject": "game-theory",
+  "summary": "Cooperative Investments is a fundamental concept in game-theory.",
   "definition": "Cooperative Investments is a fundamental concept in game-theory.",
   "explanation": "Learn about Cooperative Investments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "cooperative-investments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

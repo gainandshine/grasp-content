@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-06.topic-02",
   "name": "Probability Interpretation",
   "subject": "physics",
+  "summary": "Probability Interpretation is a fundamental concept in physics.",
   "definition": "Probability Interpretation is a fundamental concept in physics.",
   "explanation": "Learn about Probability Interpretation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "probability-interpretation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-14.topic-06",
   "name": "Machine Learning Theory",
   "subject": "mathematics",
+  "summary": "Machine Learning Theory is a fundamental concept in mathematics.",
   "definition": "Machine Learning Theory is a fundamental concept in mathematics.",
   "explanation": "Learn about Machine Learning Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "machine-learning-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

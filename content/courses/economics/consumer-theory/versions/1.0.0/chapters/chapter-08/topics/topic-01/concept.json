@@ -2,6 +2,7 @@
   "id": "economics.consumer-theory.chapter-08.topic-01",
   "name": "Revealed Preference",
   "subject": "economics",
+  "summary": "Revealed Preference is a fundamental concept in economics.",
   "definition": "Revealed Preference is a fundamental concept in economics.",
   "explanation": "Learn about Revealed Preference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "revealed-preference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

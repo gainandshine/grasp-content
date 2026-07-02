@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-11.topic-06",
   "name": "Linking Assembly to High-Level Languages",
   "subject": "computer-science",
+  "summary": "Linking Assembly to High-Level Languages is a fundamental concept in computer-science.",
   "definition": "Linking Assembly to High-Level Languages is a fundamental concept in computer-science.",
   "explanation": "Learn about Linking Assembly to High-Level Languages and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "linking-assembly-to-high-level-languages"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-09.topic-04",
   "name": "Cholesterol Metabolism",
   "subject": "biology",
+  "summary": "Cholesterol Metabolism is a fundamental concept in biology.",
   "definition": "Cholesterol Metabolism is a fundamental concept in biology.",
   "explanation": "Learn about Cholesterol Metabolism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cholesterol-metabolism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-13.topic-01",
   "name": "Green's Theorem",
   "subject": "mathematics",
+  "summary": "Green's Theorem is a fundamental concept in mathematics.",
   "definition": "Green's Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Green's Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "greens-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

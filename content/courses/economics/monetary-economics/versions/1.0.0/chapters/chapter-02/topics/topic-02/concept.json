@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-02.topic-02",
   "name": "Monetary Aggregates (M0, M1, M2, M3)",
   "subject": "economics",
+  "summary": "Monetary Aggregates (M0, M1, M2, M3) is a fundamental concept in economics.",
   "definition": "Monetary Aggregates (M0, M1, M2, M3) is a fundamental concept in economics.",
   "explanation": "Learn about Monetary Aggregates (M0, M1, M2, M3) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "monetary-aggregates-m0-m1-m2-m3"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

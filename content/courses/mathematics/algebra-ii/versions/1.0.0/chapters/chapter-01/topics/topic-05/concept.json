@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-01.topic-05",
   "name": "Quadratics Review",
   "subject": "mathematics",
+  "summary": "Quadratics Review is a fundamental concept in mathematics.",
   "definition": "Quadratics Review is a fundamental concept in mathematics.",
   "explanation": "Learn about Quadratics Review and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "quadratics-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

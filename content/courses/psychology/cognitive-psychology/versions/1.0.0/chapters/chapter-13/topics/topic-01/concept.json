@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-13.topic-01",
   "name": "Embodied Cognition",
   "subject": "psychology",
+  "summary": "Embodied Cognition is a fundamental concept in psychology.",
   "definition": "Embodied Cognition is a fundamental concept in psychology.",
   "explanation": "Learn about Embodied Cognition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "embodied-cognition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

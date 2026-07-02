@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-13.topic-01",
   "name": "Computer Vision",
   "subject": "computer-science",
+  "summary": "Computer Vision is a fundamental concept in computer-science.",
   "definition": "Computer Vision is a fundamental concept in computer-science.",
   "explanation": "Learn about Computer Vision and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "computer-vision"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

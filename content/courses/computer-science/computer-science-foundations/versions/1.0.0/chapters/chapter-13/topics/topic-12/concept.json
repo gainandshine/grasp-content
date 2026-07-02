@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-12",
   "name": "Operators",
   "subject": "computer-science",
+  "summary": "Operators is a fundamental concept in computer-science.",
   "definition": "Operators is a fundamental concept in computer-science.",
   "explanation": "Learn about Operators and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "operators"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

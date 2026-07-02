@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-09.topic-06",
   "name": "Particle Interactions",
   "subject": "physics",
+  "summary": "Particle Interactions is a fundamental concept in physics.",
   "definition": "Particle Interactions is a fundamental concept in physics.",
   "explanation": "Learn about Particle Interactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "particle-interactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

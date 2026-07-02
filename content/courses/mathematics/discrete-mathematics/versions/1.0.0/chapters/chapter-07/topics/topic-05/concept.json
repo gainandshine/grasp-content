@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-07.topic-05",
   "name": "Multinomial Coefficients",
   "subject": "mathematics",
+  "summary": "Multinomial Coefficients is a fundamental concept in mathematics.",
   "definition": "Multinomial Coefficients is a fundamental concept in mathematics.",
   "explanation": "Learn about Multinomial Coefficients and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "multinomial-coefficients"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

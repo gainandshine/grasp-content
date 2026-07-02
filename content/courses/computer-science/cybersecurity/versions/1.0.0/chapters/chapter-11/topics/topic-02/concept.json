@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-11.topic-02",
   "name": "Penetration Testing",
   "subject": "computer-science",
+  "summary": "Penetration Testing is a fundamental concept in computer-science.",
   "definition": "Penetration Testing is a fundamental concept in computer-science.",
   "explanation": "Learn about Penetration Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "penetration-testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

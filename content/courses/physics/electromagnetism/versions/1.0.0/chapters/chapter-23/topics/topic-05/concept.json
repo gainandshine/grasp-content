@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-23.topic-05",
   "name": "Oscilloscope",
   "subject": "physics",
+  "summary": "Oscilloscope is a fundamental concept in physics.",
   "definition": "Oscilloscope is a fundamental concept in physics.",
   "explanation": "Learn about Oscilloscope and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "oscilloscope"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

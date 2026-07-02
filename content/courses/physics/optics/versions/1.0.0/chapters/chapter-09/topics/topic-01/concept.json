@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-09.topic-01",
   "name": "Polarized Light",
   "subject": "physics",
+  "summary": "Polarized Light is a fundamental concept in physics.",
   "definition": "Polarized Light is a fundamental concept in physics.",
   "explanation": "Learn about Polarized Light and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "polarized-light"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

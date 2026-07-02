@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-02",
   "name": "Simple Games",
   "subject": "computer-science",
+  "summary": "Simple Games is a fundamental concept in computer-science.",
   "definition": "Simple Games is a fundamental concept in computer-science.",
   "explanation": "Learn about Simple Games and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "simple-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

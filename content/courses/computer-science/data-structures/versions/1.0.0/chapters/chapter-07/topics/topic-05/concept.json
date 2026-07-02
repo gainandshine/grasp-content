@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-07.topic-05",
   "name": "Balanced Trees (Introduction)",
   "subject": "computer-science",
+  "summary": "Balanced Trees (Introduction) is a fundamental concept in computer-science.",
   "definition": "Balanced Trees (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Balanced Trees (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "balanced-trees-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

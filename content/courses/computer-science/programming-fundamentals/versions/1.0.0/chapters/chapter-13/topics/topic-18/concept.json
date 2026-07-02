@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-18",
   "name": "Generics",
   "subject": "computer-science",
+  "summary": "Generics is a fundamental concept in computer-science.",
   "definition": "Generics is a fundamental concept in computer-science.",
   "explanation": "Learn about Generics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "generics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

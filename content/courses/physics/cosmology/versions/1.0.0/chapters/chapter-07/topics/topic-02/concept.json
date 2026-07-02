@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-07.topic-02",
   "name": "Accelerating Expansion",
   "subject": "physics",
+  "summary": "Accelerating Expansion is a fundamental concept in physics.",
   "definition": "Accelerating Expansion is a fundamental concept in physics.",
   "explanation": "Learn about Accelerating Expansion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "accelerating-expansion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

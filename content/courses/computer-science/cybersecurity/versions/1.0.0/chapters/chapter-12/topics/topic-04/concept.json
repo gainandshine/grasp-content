@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-12.topic-04",
   "name": "Security Frameworks",
   "subject": "computer-science",
+  "summary": "Security Frameworks is a fundamental concept in computer-science.",
   "definition": "Security Frameworks is a fundamental concept in computer-science.",
   "explanation": "Learn about Security Frameworks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "security-frameworks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

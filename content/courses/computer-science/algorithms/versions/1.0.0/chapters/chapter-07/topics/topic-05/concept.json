@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-07.topic-05",
   "name": "Fibonacci",
   "subject": "computer-science",
+  "summary": "Fibonacci is a fundamental concept in computer-science.",
   "definition": "Fibonacci is a fundamental concept in computer-science.",
   "explanation": "Learn about Fibonacci and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fibonacci"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

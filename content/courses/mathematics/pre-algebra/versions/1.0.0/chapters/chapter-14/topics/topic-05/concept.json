@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-14.topic-05",
   "name": "Simple Events",
   "subject": "mathematics",
+  "summary": "Simple Events is a fundamental concept in mathematics.",
   "definition": "Simple Events is a fundamental concept in mathematics.",
   "explanation": "Learn about Simple Events and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "simple-events"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

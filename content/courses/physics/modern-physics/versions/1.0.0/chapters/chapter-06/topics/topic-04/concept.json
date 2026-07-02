@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-06.topic-04",
   "name": "Observables",
   "subject": "physics",
+  "summary": "Observables is a fundamental concept in physics.",
   "definition": "Observables is a fundamental concept in physics.",
   "explanation": "Learn about Observables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "observables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

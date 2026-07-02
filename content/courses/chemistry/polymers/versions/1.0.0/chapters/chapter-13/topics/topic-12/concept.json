@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-12",
   "name": "Qualitative Analysis",
   "subject": "chemistry",
+  "summary": "Qualitative Analysis is a fundamental concept in chemistry.",
   "definition": "Qualitative Analysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Qualitative Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "qualitative-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

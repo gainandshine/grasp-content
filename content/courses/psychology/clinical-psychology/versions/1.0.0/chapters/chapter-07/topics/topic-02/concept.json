@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-07.topic-02",
   "name": "Couples Therapy",
   "subject": "psychology",
+  "summary": "Couples Therapy is a fundamental concept in psychology.",
   "definition": "Couples Therapy is a fundamental concept in psychology.",
   "explanation": "Learn about Couples Therapy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "couples-therapy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

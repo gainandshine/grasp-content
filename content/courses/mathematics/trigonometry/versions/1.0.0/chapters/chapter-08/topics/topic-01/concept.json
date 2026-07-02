@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-08.topic-01",
   "name": "Arcsine",
   "subject": "mathematics",
+  "summary": "Arcsine is a fundamental concept in mathematics.",
   "definition": "Arcsine is a fundamental concept in mathematics.",
   "explanation": "Learn about Arcsine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "arcsine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

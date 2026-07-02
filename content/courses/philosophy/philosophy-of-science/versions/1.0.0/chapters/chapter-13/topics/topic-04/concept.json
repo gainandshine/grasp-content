@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-13.topic-04",
   "name": "Complexity Science",
   "subject": "philosophy",
+  "summary": "Complexity Science is a fundamental concept in philosophy.",
   "definition": "Complexity Science is a fundamental concept in philosophy.",
   "explanation": "Learn about Complexity Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "complexity-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-08.topic-05",
   "name": "Electrolytic Extraction",
   "subject": "chemistry",
+  "summary": "Electrolytic Extraction is a fundamental concept in chemistry.",
   "definition": "Electrolytic Extraction is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrolytic Extraction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrolytic-extraction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

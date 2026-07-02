@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-13.topic-03",
   "name": "Cluster Compounds",
   "subject": "chemistry",
+  "summary": "Cluster Compounds is a fundamental concept in chemistry.",
   "definition": "Cluster Compounds is a fundamental concept in chemistry.",
   "explanation": "Learn about Cluster Compounds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cluster-compounds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

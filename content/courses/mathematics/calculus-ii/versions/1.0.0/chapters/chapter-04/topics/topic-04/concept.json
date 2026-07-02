@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-04.topic-04",
   "name": "Monotonic Sequences",
   "subject": "mathematics",
+  "summary": "Monotonic Sequences is a fundamental concept in mathematics.",
   "definition": "Monotonic Sequences is a fundamental concept in mathematics.",
   "explanation": "Learn about Monotonic Sequences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "monotonic-sequences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

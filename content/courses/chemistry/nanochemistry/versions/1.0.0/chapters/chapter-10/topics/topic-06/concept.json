@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-10.topic-06",
   "name": "Supercapacitors",
   "subject": "chemistry",
+  "summary": "Supercapacitors is a fundamental concept in chemistry.",
   "definition": "Supercapacitors is a fundamental concept in chemistry.",
   "explanation": "Learn about Supercapacitors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "supercapacitors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

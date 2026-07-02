@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-11.topic-02",
   "name": "DNA Sequence Analysis",
   "subject": "biology",
+  "summary": "DNA Sequence Analysis is a fundamental concept in biology.",
   "definition": "DNA Sequence Analysis is a fundamental concept in biology.",
   "explanation": "Learn about DNA Sequence Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "dna-sequence-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

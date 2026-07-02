@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-05.topic-06",
   "name": "Chromosomal Rearrangements",
   "subject": "biology",
+  "summary": "Chromosomal Rearrangements is a fundamental concept in biology.",
   "definition": "Chromosomal Rearrangements is a fundamental concept in biology.",
   "explanation": "Learn about Chromosomal Rearrangements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "chromosomal-rearrangements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

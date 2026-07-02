@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-10.topic-06",
   "name": "Sustainable Manufacturing",
   "subject": "chemistry",
+  "summary": "Sustainable Manufacturing is a fundamental concept in chemistry.",
   "definition": "Sustainable Manufacturing is a fundamental concept in chemistry.",
   "explanation": "Learn about Sustainable Manufacturing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sustainable-manufacturing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

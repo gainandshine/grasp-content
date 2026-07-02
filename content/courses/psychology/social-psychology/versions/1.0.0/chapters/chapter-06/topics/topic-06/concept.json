@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-06.topic-06",
   "name": "Collective Decision Making",
   "subject": "psychology",
+  "summary": "Collective Decision Making is a fundamental concept in psychology.",
   "definition": "Collective Decision Making is a fundamental concept in psychology.",
   "explanation": "Learn about Collective Decision Making and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "collective-decision-making"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

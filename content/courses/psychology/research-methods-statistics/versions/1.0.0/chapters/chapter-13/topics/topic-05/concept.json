@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-13.topic-05",
   "name": "Machine Learning for Behavioral Research",
   "subject": "psychology",
+  "summary": "Machine Learning for Behavioral Research is a fundamental concept in psychology.",
   "definition": "Machine Learning for Behavioral Research is a fundamental concept in psychology.",
   "explanation": "Learn about Machine Learning for Behavioral Research and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "machine-learning-for-behavioral-research"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

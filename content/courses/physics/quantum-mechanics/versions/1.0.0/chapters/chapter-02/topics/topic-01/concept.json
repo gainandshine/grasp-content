@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-02.topic-01",
   "name": "Wave Function",
   "subject": "physics",
+  "summary": "Wave Function is a fundamental concept in physics.",
   "definition": "Wave Function is a fundamental concept in physics.",
   "explanation": "Learn about Wave Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "wave-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

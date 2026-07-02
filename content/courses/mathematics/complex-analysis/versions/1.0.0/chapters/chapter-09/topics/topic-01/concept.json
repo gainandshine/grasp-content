@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-09.topic-01",
   "name": "Conformal Maps",
   "subject": "mathematics",
+  "summary": "Conformal Maps is a fundamental concept in mathematics.",
   "definition": "Conformal Maps is a fundamental concept in mathematics.",
   "explanation": "Learn about Conformal Maps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "conformal-maps"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

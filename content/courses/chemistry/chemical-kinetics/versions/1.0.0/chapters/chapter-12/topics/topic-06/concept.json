@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-12.topic-06",
   "name": "Reaction Network Modeling",
   "subject": "chemistry",
+  "summary": "Reaction Network Modeling is a fundamental concept in chemistry.",
   "definition": "Reaction Network Modeling is a fundamental concept in chemistry.",
   "explanation": "Learn about Reaction Network Modeling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "reaction-network-modeling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

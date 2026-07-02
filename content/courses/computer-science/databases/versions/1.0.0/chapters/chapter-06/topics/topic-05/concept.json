@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-06.topic-05",
   "name": "Boyce-Codd Normal Form (BCNF)",
   "subject": "computer-science",
+  "summary": "Boyce-Codd Normal Form (BCNF) is a fundamental concept in computer-science.",
   "definition": "Boyce-Codd Normal Form (BCNF) is a fundamental concept in computer-science.",
   "explanation": "Learn about Boyce-Codd Normal Form (BCNF) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "boyce-codd-normal-form-bcnf"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

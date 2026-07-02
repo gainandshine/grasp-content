@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-09.topic-04",
   "name": "Singular Points",
   "subject": "mathematics",
+  "summary": "Singular Points is a fundamental concept in mathematics.",
   "definition": "Singular Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Singular Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "singular-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

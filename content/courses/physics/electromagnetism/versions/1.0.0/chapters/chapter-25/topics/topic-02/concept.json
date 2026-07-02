@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-25.topic-02",
   "name": "Electronic Circuits",
   "subject": "physics",
+  "summary": "Electronic Circuits is a fundamental concept in physics.",
   "definition": "Electronic Circuits is a fundamental concept in physics.",
   "explanation": "Learn about Electronic Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electronic-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

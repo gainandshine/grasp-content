@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-13.topic-09",
   "name": "Calorimetry",
   "subject": "chemistry",
+  "summary": "Calorimetry is a fundamental concept in chemistry.",
   "definition": "Calorimetry is a fundamental concept in chemistry.",
   "explanation": "Learn about Calorimetry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "calorimetry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

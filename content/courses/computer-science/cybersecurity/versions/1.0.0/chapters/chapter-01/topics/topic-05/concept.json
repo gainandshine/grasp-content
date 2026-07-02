@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-01.topic-05",
   "name": "Risk",
   "subject": "computer-science",
+  "summary": "Risk is a fundamental concept in computer-science.",
   "definition": "Risk is a fundamental concept in computer-science.",
   "explanation": "Learn about Risk and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "risk"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

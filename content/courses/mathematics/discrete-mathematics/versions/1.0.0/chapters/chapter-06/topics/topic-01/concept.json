@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-06.topic-01",
   "name": "Addition Principle",
   "subject": "mathematics",
+  "summary": "Addition Principle is a fundamental concept in mathematics.",
   "definition": "Addition Principle is a fundamental concept in mathematics.",
   "explanation": "Learn about Addition Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "addition-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

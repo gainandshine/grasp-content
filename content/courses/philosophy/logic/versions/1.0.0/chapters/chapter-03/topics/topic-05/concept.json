@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-03.topic-05",
   "name": "Implication",
   "subject": "philosophy",
+  "summary": "Implication is a fundamental concept in philosophy.",
   "definition": "Implication is a fundamental concept in philosophy.",
   "explanation": "Learn about Implication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "implication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

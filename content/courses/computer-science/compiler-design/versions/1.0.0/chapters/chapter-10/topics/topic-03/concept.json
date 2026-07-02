@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-10.topic-03",
   "name": "Virtual Machines",
   "subject": "computer-science",
+  "summary": "Virtual Machines is a fundamental concept in computer-science.",
   "definition": "Virtual Machines is a fundamental concept in computer-science.",
   "explanation": "Learn about Virtual Machines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "virtual-machines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

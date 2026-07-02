@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-03.topic-02",
   "name": "Hydrocarbons",
   "subject": "chemistry",
+  "summary": "Hydrocarbons is a fundamental concept in chemistry.",
   "definition": "Hydrocarbons is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrocarbons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrocarbons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-05.topic-01",
   "name": "Schrödinger Equation",
   "subject": "chemistry",
+  "summary": "Schrödinger Equation is a fundamental concept in chemistry.",
   "definition": "Schrödinger Equation is a fundamental concept in chemistry.",
   "explanation": "Learn about Schrödinger Equation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "schrdinger-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

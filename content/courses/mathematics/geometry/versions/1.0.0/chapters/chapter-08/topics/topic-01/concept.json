@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-08.topic-01",
   "name": "Parallelograms",
   "subject": "mathematics",
+  "summary": "Parallelograms is a fundamental concept in mathematics.",
   "definition": "Parallelograms is a fundamental concept in mathematics.",
   "explanation": "Learn about Parallelograms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "parallelograms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

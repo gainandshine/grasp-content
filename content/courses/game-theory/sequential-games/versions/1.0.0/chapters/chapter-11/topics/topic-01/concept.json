@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-11.topic-01",
   "name": "Business Negotiation",
   "subject": "game-theory",
+  "summary": "Business Negotiation is a fundamental concept in game-theory.",
   "definition": "Business Negotiation is a fundamental concept in game-theory.",
   "explanation": "Learn about Business Negotiation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "business-negotiation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

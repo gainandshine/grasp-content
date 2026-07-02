@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-08.topic-01",
   "name": "Income Inequality",
   "subject": "economics",
+  "summary": "Income Inequality is a fundamental concept in economics.",
   "definition": "Income Inequality is a fundamental concept in economics.",
   "explanation": "Learn about Income Inequality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "income-inequality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

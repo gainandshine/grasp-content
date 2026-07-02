@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-13.topic-05",
   "name": "Supercomputers",
   "subject": "computer-science",
+  "summary": "Supercomputers is a fundamental concept in computer-science.",
   "definition": "Supercomputers is a fundamental concept in computer-science.",
   "explanation": "Learn about Supercomputers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "supercomputers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-01.topic-02",
   "name": "CIA Triad",
   "subject": "computer-science",
+  "summary": "CIA Triad is a fundamental concept in computer-science.",
   "definition": "CIA Triad is a fundamental concept in computer-science.",
   "explanation": "Learn about CIA Triad and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cia-triad"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

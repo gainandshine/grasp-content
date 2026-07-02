@@ -2,6 +2,7 @@
   "id": "economics.consumer-theory.chapter-02.topic-05",
   "name": "Ordinal Utility",
   "subject": "economics",
+  "summary": "Ordinal Utility is a fundamental concept in economics.",
   "definition": "Ordinal Utility is a fundamental concept in economics.",
   "explanation": "Learn about Ordinal Utility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "ordinal-utility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

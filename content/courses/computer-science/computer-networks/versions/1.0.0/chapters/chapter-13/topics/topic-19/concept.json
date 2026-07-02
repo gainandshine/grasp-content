@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-19",
   "name": "Data Warehousing",
   "subject": "computer-science",
+  "summary": "Data Warehousing is a fundamental concept in computer-science.",
   "definition": "Data Warehousing is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Warehousing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-warehousing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

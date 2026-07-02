@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-06.topic-06",
   "name": "Frame Buffers",
   "subject": "computer-science",
+  "summary": "Frame Buffers is a fundamental concept in computer-science.",
   "definition": "Frame Buffers is a fundamental concept in computer-science.",
   "explanation": "Learn about Frame Buffers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "frame-buffers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

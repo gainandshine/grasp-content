@@ -2,6 +2,7 @@
   "id": "philosophy.history-of-philosophy.chapter-05.topic-06",
   "name": "Faith & Reason",
   "subject": "philosophy",
+  "summary": "Faith & Reason is a fundamental concept in philosophy.",
   "definition": "Faith & Reason is a fundamental concept in philosophy.",
   "explanation": "Learn about Faith & Reason and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "faith-reason"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

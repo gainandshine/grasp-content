@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-02.topic-01",
   "name": "Definition of a Group",
   "subject": "mathematics",
+  "summary": "Definition of a Group is a fundamental concept in mathematics.",
   "definition": "Definition of a Group is a fundamental concept in mathematics.",
   "explanation": "Learn about Definition of a Group and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "definition-of-a-group"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-08.topic-04",
   "name": "Phenolphthalein",
   "subject": "chemistry",
+  "summary": "Phenolphthalein is a fundamental concept in chemistry.",
   "definition": "Phenolphthalein is a fundamental concept in chemistry.",
   "explanation": "Learn about Phenolphthalein and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "phenolphthalein"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-11.topic-02",
   "name": "Public Opinion",
   "subject": "psychology",
+  "summary": "Public Opinion is a fundamental concept in psychology.",
   "definition": "Public Opinion is a fundamental concept in psychology.",
   "explanation": "Learn about Public Opinion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "public-opinion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

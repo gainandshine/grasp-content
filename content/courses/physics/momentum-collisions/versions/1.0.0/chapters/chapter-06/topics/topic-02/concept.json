@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-06.topic-02",
   "name": "Internal Interactions",
   "subject": "physics",
+  "summary": "Internal Interactions is a fundamental concept in physics.",
   "definition": "Internal Interactions is a fundamental concept in physics.",
   "explanation": "Learn about Internal Interactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "internal-interactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-04.topic-05",
   "name": "Core Existence",
   "subject": "game-theory",
+  "summary": "Core Existence is a fundamental concept in game-theory.",
   "definition": "Core Existence is a fundamental concept in game-theory.",
   "explanation": "Learn about Core Existence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "core-existence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-01",
   "name": "Simple Pendulum",
   "subject": "physics",
+  "summary": "Simple Pendulum is a fundamental concept in physics.",
   "definition": "Simple Pendulum is a fundamental concept in physics.",
   "explanation": "Learn about Simple Pendulum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "simple-pendulum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

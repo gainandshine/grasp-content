@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-09.topic-03",
   "name": "Spontaneous Processes",
   "subject": "chemistry",
+  "summary": "Spontaneous Processes is a fundamental concept in chemistry.",
   "definition": "Spontaneous Processes is a fundamental concept in chemistry.",
   "explanation": "Learn about Spontaneous Processes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "spontaneous-processes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

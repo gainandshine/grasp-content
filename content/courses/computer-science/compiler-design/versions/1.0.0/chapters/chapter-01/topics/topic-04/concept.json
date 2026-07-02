@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-01.topic-04",
   "name": "Compiler Phases",
   "subject": "computer-science",
+  "summary": "Compiler Phases is a fundamental concept in computer-science.",
   "definition": "Compiler Phases is a fundamental concept in computer-science.",
   "explanation": "Learn about Compiler Phases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "compiler-phases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

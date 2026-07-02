@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-05.topic-02",
   "name": "Down Quark",
   "subject": "physics",
+  "summary": "Down Quark is a fundamental concept in physics.",
   "definition": "Down Quark is a fundamental concept in physics.",
   "explanation": "Learn about Down Quark and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "down-quark"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

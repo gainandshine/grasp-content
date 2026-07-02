@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-09.topic-03",
   "name": "Manganese",
   "subject": "chemistry",
+  "summary": "Manganese is a fundamental concept in chemistry.",
   "definition": "Manganese is a fundamental concept in chemistry.",
   "explanation": "Learn about Manganese and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "manganese"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

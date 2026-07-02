@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-05.topic-03",
   "name": "Recombination Frequency",
   "subject": "biology",
+  "summary": "Recombination Frequency is a fundamental concept in biology.",
   "definition": "Recombination Frequency is a fundamental concept in biology.",
   "explanation": "Learn about Recombination Frequency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "recombination-frequency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

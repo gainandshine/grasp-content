@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-01",
   "name": "Coupled Equilibria",
   "subject": "chemistry",
+  "summary": "Coupled Equilibria is a fundamental concept in chemistry.",
   "definition": "Coupled Equilibria is a fundamental concept in chemistry.",
   "explanation": "Learn about Coupled Equilibria and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "coupled-equilibria"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

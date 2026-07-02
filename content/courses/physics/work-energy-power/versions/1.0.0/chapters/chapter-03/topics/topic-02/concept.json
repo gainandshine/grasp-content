@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-03.topic-02",
   "name": "Gravitational Potential Energy",
   "subject": "physics",
+  "summary": "Gravitational Potential Energy is a fundamental concept in physics.",
   "definition": "Gravitational Potential Energy is a fundamental concept in physics.",
   "explanation": "Learn about Gravitational Potential Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gravitational-potential-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

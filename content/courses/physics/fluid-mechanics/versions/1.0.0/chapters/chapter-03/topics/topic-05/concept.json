@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-03.topic-05",
   "name": "Stability of Floating Objects",
   "subject": "physics",
+  "summary": "Stability of Floating Objects is a fundamental concept in physics.",
   "definition": "Stability of Floating Objects is a fundamental concept in physics.",
   "explanation": "Learn about Stability of Floating Objects and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "stability-of-floating-objects"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

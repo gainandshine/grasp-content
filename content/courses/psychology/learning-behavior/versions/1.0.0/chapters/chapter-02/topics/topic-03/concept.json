@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-02.topic-03",
   "name": "Unconditioned Response (UR)",
   "subject": "psychology",
+  "summary": "Unconditioned Response (UR) is a fundamental concept in psychology.",
   "definition": "Unconditioned Response (UR) is a fundamental concept in psychology.",
   "explanation": "Learn about Unconditioned Response (UR) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "unconditioned-response-ur"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

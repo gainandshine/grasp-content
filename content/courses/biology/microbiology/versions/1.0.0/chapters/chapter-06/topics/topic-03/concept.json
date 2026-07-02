@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-06.topic-03",
   "name": "Flagellates",
   "subject": "biology",
+  "summary": "Flagellates is a fundamental concept in biology.",
   "definition": "Flagellates is a fundamental concept in biology.",
   "explanation": "Learn about Flagellates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "flagellates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

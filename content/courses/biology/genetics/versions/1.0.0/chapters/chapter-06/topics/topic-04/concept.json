@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-06.topic-04",
   "name": "Rh Factor",
   "subject": "biology",
+  "summary": "Rh Factor is a fundamental concept in biology.",
   "definition": "Rh Factor is a fundamental concept in biology.",
   "explanation": "Learn about Rh Factor and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "rh-factor"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

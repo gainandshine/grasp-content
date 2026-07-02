@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-13.topic-04",
   "name": "String Theory",
   "subject": "physics",
+  "summary": "String Theory is a fundamental concept in physics.",
   "definition": "String Theory is a fundamental concept in physics.",
   "explanation": "Learn about String Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "string-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

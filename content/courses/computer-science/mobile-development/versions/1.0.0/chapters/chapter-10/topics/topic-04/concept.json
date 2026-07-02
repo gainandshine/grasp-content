@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-10.topic-04",
   "name": "Network Optimization",
   "subject": "computer-science",
+  "summary": "Network Optimization is a fundamental concept in computer-science.",
   "definition": "Network Optimization is a fundamental concept in computer-science.",
   "explanation": "Learn about Network Optimization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "network-optimization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

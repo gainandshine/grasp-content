@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-01.topic-02",
   "name": "Functions",
   "subject": "mathematics",
+  "summary": "Functions is a fundamental concept in mathematics.",
   "definition": "Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

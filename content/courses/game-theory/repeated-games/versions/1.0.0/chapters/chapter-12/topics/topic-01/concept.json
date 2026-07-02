@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-12.topic-01",
   "name": "Multi-Agent Simulation",
   "subject": "game-theory",
+  "summary": "Multi-Agent Simulation is a fundamental concept in game-theory.",
   "definition": "Multi-Agent Simulation is a fundamental concept in game-theory.",
   "explanation": "Learn about Multi-Agent Simulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "multi-agent-simulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

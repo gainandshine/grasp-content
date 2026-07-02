@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-02.topic-06",
   "name": "Windowing",
   "subject": "computer-science",
+  "summary": "Windowing is a fundamental concept in computer-science.",
   "definition": "Windowing is a fundamental concept in computer-science.",
   "explanation": "Learn about Windowing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "windowing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

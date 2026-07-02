@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-11.topic-05",
   "name": "Quantum Mechanics",
   "subject": "mathematics",
+  "summary": "Quantum Mechanics is a fundamental concept in mathematics.",
   "definition": "Quantum Mechanics is a fundamental concept in mathematics.",
   "explanation": "Learn about Quantum Mechanics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "quantum-mechanics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

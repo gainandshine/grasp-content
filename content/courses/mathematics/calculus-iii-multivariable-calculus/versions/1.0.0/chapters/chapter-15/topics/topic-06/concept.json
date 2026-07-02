@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-15.topic-06",
   "name": "Physics Applications",
   "subject": "mathematics",
+  "summary": "Physics Applications is a fundamental concept in mathematics.",
   "definition": "Physics Applications is a fundamental concept in mathematics.",
   "explanation": "Learn about Physics Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "physics-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

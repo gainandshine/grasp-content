@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-05.topic-01",
   "name": "Boolean Logic",
   "subject": "computer-science",
+  "summary": "Boolean Logic is a fundamental concept in computer-science.",
   "definition": "Boolean Logic is a fundamental concept in computer-science.",
   "explanation": "Learn about Boolean Logic and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "boolean-logic"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

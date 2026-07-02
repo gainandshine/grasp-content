@@ -2,6 +2,7 @@
   "id": "economics.microeconomics.chapter-02.topic-03",
   "name": "Total Utility",
   "subject": "economics",
+  "summary": "Total Utility is a fundamental concept in economics.",
   "definition": "Total Utility is a fundamental concept in economics.",
   "explanation": "Learn about Total Utility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "total-utility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

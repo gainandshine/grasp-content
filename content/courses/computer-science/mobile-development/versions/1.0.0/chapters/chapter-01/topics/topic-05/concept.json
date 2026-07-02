@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-01.topic-05",
   "name": "Development Tools",
   "subject": "computer-science",
+  "summary": "Development Tools is a fundamental concept in computer-science.",
   "definition": "Development Tools is a fundamental concept in computer-science.",
   "explanation": "Learn about Development Tools and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "development-tools"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

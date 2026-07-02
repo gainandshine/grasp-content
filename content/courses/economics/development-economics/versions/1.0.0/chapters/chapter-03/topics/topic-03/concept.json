@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-03.topic-03",
   "name": "Poverty Trap",
   "subject": "economics",
+  "summary": "Poverty Trap is a fundamental concept in economics.",
   "definition": "Poverty Trap is a fundamental concept in economics.",
   "explanation": "Learn about Poverty Trap and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "poverty-trap"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

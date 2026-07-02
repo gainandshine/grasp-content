@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-03.topic-01",
   "name": "Schemas",
   "subject": "psychology",
+  "summary": "Schemas is a fundamental concept in psychology.",
   "definition": "Schemas is a fundamental concept in psychology.",
   "explanation": "Learn about Schemas and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "schemas"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-08.topic-06",
   "name": "Bit Manipulation",
   "subject": "computer-science",
+  "summary": "Bit Manipulation is a fundamental concept in computer-science.",
   "definition": "Bit Manipulation is a fundamental concept in computer-science.",
   "explanation": "Learn about Bit Manipulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "bit-manipulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-15",
   "name": "Vaccines",
   "subject": "biology",
+  "summary": "Vaccines is a fundamental concept in biology.",
   "definition": "Vaccines is a fundamental concept in biology.",
   "explanation": "Learn about Vaccines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "vaccines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

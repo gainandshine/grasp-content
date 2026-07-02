@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-13.topic-01",
   "name": "Cell Differentiation",
   "subject": "biology",
+  "summary": "Cell Differentiation is a fundamental concept in biology.",
   "definition": "Cell Differentiation is a fundamental concept in biology.",
   "explanation": "Learn about Cell Differentiation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cell-differentiation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-11.topic-02",
   "name": "Exercise",
   "subject": "psychology",
+  "summary": "Exercise is a fundamental concept in psychology.",
   "definition": "Exercise is a fundamental concept in psychology.",
   "explanation": "Learn about Exercise and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "exercise"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

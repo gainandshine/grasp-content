@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-02.topic-06",
   "name": "Streaming Data",
   "subject": "computer-science",
+  "summary": "Streaming Data is a fundamental concept in computer-science.",
   "definition": "Streaming Data is a fundamental concept in computer-science.",
   "explanation": "Learn about Streaming Data and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "streaming-data"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

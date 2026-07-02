@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-06.topic-07",
   "name": "Secondary Storage",
   "subject": "computer-science",
+  "summary": "Secondary Storage is a fundamental concept in computer-science.",
   "definition": "Secondary Storage is a fundamental concept in computer-science.",
   "explanation": "Learn about Secondary Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "secondary-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

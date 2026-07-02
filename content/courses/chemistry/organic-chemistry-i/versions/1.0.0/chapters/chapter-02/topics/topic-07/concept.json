@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-02.topic-07",
   "name": "Bond Length",
   "subject": "chemistry",
+  "summary": "Bond Length is a fundamental concept in chemistry.",
   "definition": "Bond Length is a fundamental concept in chemistry.",
   "explanation": "Learn about Bond Length and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bond-length"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

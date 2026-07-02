@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-15.topic-03",
   "name": "Conductance",
   "subject": "physics",
+  "summary": "Conductance is a fundamental concept in physics.",
   "definition": "Conductance is a fundamental concept in physics.",
   "explanation": "Learn about Conductance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "conductance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

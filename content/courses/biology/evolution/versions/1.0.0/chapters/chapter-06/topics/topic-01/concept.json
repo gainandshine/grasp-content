@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-06.topic-01",
   "name": "Fossil Record",
   "subject": "biology",
+  "summary": "Fossil Record is a fundamental concept in biology.",
   "definition": "Fossil Record is a fundamental concept in biology.",
   "explanation": "Learn about Fossil Record and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "fossil-record"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

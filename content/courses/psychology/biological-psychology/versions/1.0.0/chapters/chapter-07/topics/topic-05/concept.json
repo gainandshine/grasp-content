@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-07.topic-05",
   "name": "Memory Storage",
   "subject": "psychology",
+  "summary": "Memory Storage is a fundamental concept in psychology.",
   "definition": "Memory Storage is a fundamental concept in psychology.",
   "explanation": "Learn about Memory Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "memory-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

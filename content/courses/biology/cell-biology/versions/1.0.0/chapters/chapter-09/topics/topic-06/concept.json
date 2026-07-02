@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-09.topic-06",
   "name": "Stem Cells",
   "subject": "biology",
+  "summary": "Stem Cells is a fundamental concept in biology.",
   "definition": "Stem Cells is a fundamental concept in biology.",
   "explanation": "Learn about Stem Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "stem-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

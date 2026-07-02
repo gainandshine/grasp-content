@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-10.topic-06",
   "name": "CSRF",
   "subject": "computer-science",
+  "summary": "CSRF is a fundamental concept in computer-science.",
   "definition": "CSRF is a fundamental concept in computer-science.",
   "explanation": "Learn about CSRF and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "csrf"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

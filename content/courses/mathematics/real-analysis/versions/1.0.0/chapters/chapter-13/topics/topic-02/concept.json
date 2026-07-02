@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-13.topic-02",
   "name": "Measure Theory (Introduction)",
   "subject": "mathematics",
+  "summary": "Measure Theory (Introduction) is a fundamental concept in mathematics.",
   "definition": "Measure Theory (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Measure Theory (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "measure-theory-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

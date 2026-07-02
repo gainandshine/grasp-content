@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-05.topic-04",
   "name": "Chemical Vapor Deposition (CVD)",
   "subject": "chemistry",
+  "summary": "Chemical Vapor Deposition (CVD) is a fundamental concept in chemistry.",
   "definition": "Chemical Vapor Deposition (CVD) is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Vapor Deposition (CVD) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-vapor-deposition-cvd"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

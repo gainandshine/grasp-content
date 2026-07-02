@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-06.topic-06",
   "name": "High-Performance Teams",
   "subject": "psychology",
+  "summary": "High-Performance Teams is a fundamental concept in psychology.",
   "definition": "High-Performance Teams is a fundamental concept in psychology.",
   "explanation": "Learn about High-Performance Teams and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "high-performance-teams"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

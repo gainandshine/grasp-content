@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-07.topic-02",
   "name": "Bonding Orbitals",
   "subject": "chemistry",
+  "summary": "Bonding Orbitals is a fundamental concept in chemistry.",
   "definition": "Bonding Orbitals is a fundamental concept in chemistry.",
   "explanation": "Learn about Bonding Orbitals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bonding-orbitals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-07.topic-06",
   "name": "Metacognition",
   "subject": "psychology",
+  "summary": "Metacognition is a fundamental concept in psychology.",
   "definition": "Metacognition is a fundamental concept in psychology.",
   "explanation": "Learn about Metacognition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "metacognition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

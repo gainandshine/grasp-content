@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-13.topic-16",
   "name": "Organometallic Chemistry",
   "subject": "chemistry",
+  "summary": "Organometallic Chemistry is a fundamental concept in chemistry.",
   "definition": "Organometallic Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Organometallic Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "organometallic-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

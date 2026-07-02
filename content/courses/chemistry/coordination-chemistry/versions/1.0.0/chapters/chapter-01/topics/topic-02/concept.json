@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-01.topic-02",
   "name": "Central Metal Atom/Ion",
   "subject": "chemistry",
+  "summary": "Central Metal Atom/Ion is a fundamental concept in chemistry.",
   "definition": "Central Metal Atom/Ion is a fundamental concept in chemistry.",
   "explanation": "Learn about Central Metal Atom/Ion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "central-metal-atomion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

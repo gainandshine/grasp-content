@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-06.topic-05",
   "name": "Co-Function Identities",
   "subject": "mathematics",
+  "summary": "Co-Function Identities is a fundamental concept in mathematics.",
   "definition": "Co-Function Identities is a fundamental concept in mathematics.",
   "explanation": "Learn about Co-Function Identities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "co-function-identities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

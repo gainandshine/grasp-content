@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-15.topic-04",
   "name": "Coordinate Proofs",
   "subject": "mathematics",
+  "summary": "Coordinate Proofs is a fundamental concept in mathematics.",
   "definition": "Coordinate Proofs is a fundamental concept in mathematics.",
   "explanation": "Learn about Coordinate Proofs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "coordinate-proofs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

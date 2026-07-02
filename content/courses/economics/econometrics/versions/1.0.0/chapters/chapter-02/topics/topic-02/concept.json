@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-02.topic-02",
   "name": "Probability Distributions",
   "subject": "economics",
+  "summary": "Probability Distributions is a fundamental concept in economics.",
   "definition": "Probability Distributions is a fundamental concept in economics.",
   "explanation": "Learn about Probability Distributions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "probability-distributions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

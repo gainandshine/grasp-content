@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-11.topic-01",
   "name": "Good Laboratory Practice (GLP)",
   "subject": "chemistry",
+  "summary": "Good Laboratory Practice (GLP) is a fundamental concept in chemistry.",
   "definition": "Good Laboratory Practice (GLP) is a fundamental concept in chemistry.",
   "explanation": "Learn about Good Laboratory Practice (GLP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "good-laboratory-practice-glp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

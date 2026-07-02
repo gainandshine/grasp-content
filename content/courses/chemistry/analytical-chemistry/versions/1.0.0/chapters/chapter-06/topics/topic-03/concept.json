@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-06.topic-03",
   "name": "Solvent Extraction",
   "subject": "chemistry",
+  "summary": "Solvent Extraction is a fundamental concept in chemistry.",
   "definition": "Solvent Extraction is a fundamental concept in chemistry.",
   "explanation": "Learn about Solvent Extraction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solvent-extraction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

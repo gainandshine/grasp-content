@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-mind.chapter-01.topic-02",
   "name": "Mental States",
   "subject": "philosophy",
+  "summary": "Mental States is a fundamental concept in philosophy.",
   "definition": "Mental States is a fundamental concept in philosophy.",
   "explanation": "Learn about Mental States and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "mental-states"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-09.topic-02",
   "name": "Part II",
   "subject": "mathematics",
+  "summary": "Part II is a fundamental concept in mathematics.",
   "definition": "Part II is a fundamental concept in mathematics.",
   "explanation": "Learn about Part II and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "part-ii"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

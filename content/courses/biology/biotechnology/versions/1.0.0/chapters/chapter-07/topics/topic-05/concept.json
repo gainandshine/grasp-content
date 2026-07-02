@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-07.topic-05",
   "name": "Molecular Diagnostics",
   "subject": "biology",
+  "summary": "Molecular Diagnostics is a fundamental concept in biology.",
   "definition": "Molecular Diagnostics is a fundamental concept in biology.",
   "explanation": "Learn about Molecular Diagnostics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "molecular-diagnostics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

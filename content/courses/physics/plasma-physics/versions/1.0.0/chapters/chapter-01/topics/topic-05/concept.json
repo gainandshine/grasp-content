@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-01.topic-05",
   "name": "Plasma Characteristics",
   "subject": "physics",
+  "summary": "Plasma Characteristics is a fundamental concept in physics.",
   "definition": "Plasma Characteristics is a fundamental concept in physics.",
   "explanation": "Learn about Plasma Characteristics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "plasma-characteristics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

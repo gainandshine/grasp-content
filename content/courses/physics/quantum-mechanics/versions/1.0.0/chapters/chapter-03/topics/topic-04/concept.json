@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-03.topic-04",
   "name": "Stationary States",
   "subject": "physics",
+  "summary": "Stationary States is a fundamental concept in physics.",
   "definition": "Stationary States is a fundamental concept in physics.",
   "explanation": "Learn about Stationary States and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "stationary-states"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

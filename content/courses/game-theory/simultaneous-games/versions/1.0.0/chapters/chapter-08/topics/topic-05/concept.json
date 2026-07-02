@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-08.topic-05",
   "name": "Zero-Sum Games",
   "subject": "game-theory",
+  "summary": "Zero-Sum Games is a fundamental concept in game-theory.",
   "definition": "Zero-Sum Games is a fundamental concept in game-theory.",
   "explanation": "Learn about Zero-Sum Games and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "zero-sum-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

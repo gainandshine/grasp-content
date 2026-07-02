@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-08.topic-02",
   "name": "Early Earth",
   "subject": "biology",
+  "summary": "Early Earth is a fundamental concept in biology.",
   "definition": "Early Earth is a fundamental concept in biology.",
   "explanation": "Learn about Early Earth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "early-earth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

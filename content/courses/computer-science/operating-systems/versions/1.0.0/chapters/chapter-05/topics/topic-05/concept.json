@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-05.topic-05",
   "name": "Banker's Algorithm",
   "subject": "computer-science",
+  "summary": "Banker's Algorithm is a fundamental concept in computer-science.",
   "definition": "Banker's Algorithm is a fundamental concept in computer-science.",
   "explanation": "Learn about Banker's Algorithm and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "bankers-algorithm"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

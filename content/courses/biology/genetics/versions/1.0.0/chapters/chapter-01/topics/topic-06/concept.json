@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-01.topic-06",
   "name": "Heredity",
   "subject": "biology",
+  "summary": "Heredity is a fundamental concept in biology.",
   "definition": "Heredity is a fundamental concept in biology.",
   "explanation": "Learn about Heredity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "heredity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

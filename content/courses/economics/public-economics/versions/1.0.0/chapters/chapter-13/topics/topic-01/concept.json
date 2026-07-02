@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-13.topic-01",
   "name": "Optimal Taxation",
   "subject": "economics",
+  "summary": "Optimal Taxation is a fundamental concept in economics.",
   "definition": "Optimal Taxation is a fundamental concept in economics.",
   "explanation": "Learn about Optimal Taxation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "optimal-taxation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

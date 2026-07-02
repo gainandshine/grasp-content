@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-01.topic-03",
   "name": "Duet Rule",
   "subject": "chemistry",
+  "summary": "Duet Rule is a fundamental concept in chemistry.",
   "definition": "Duet Rule is a fundamental concept in chemistry.",
   "explanation": "Learn about Duet Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "duet-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

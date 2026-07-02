@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-01",
   "name": "E-Commerce Databases",
   "subject": "computer-science",
+  "summary": "E-Commerce Databases is a fundamental concept in computer-science.",
   "definition": "E-Commerce Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about E-Commerce Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "e-commerce-databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

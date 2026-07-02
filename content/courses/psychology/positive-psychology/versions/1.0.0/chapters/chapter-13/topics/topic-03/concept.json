@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-13.topic-03",
   "name": "Happiness Economics",
   "subject": "psychology",
+  "summary": "Happiness Economics is a fundamental concept in psychology.",
   "definition": "Happiness Economics is a fundamental concept in psychology.",
   "explanation": "Learn about Happiness Economics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "happiness-economics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

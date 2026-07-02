@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-08.topic-03",
   "name": "Marker-Assisted Breeding",
   "subject": "biology",
+  "summary": "Marker-Assisted Breeding is a fundamental concept in biology.",
   "definition": "Marker-Assisted Breeding is a fundamental concept in biology.",
   "explanation": "Learn about Marker-Assisted Breeding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "marker-assisted-breeding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

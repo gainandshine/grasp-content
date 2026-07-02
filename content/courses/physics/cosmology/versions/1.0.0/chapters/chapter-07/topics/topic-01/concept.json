@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-07.topic-01",
   "name": "Discovery of Dark Energy",
   "subject": "physics",
+  "summary": "Discovery of Dark Energy is a fundamental concept in physics.",
   "definition": "Discovery of Dark Energy is a fundamental concept in physics.",
   "explanation": "Learn about Discovery of Dark Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "discovery-of-dark-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

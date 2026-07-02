@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-12.topic-04",
   "name": "Air Conditioning",
   "subject": "physics",
+  "summary": "Air Conditioning is a fundamental concept in physics.",
   "definition": "Air Conditioning is a fundamental concept in physics.",
   "explanation": "Learn about Air Conditioning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "air-conditioning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

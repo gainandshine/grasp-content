@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-11.topic-01",
   "name": "Multidisciplinary Care",
   "subject": "psychology",
+  "summary": "Multidisciplinary Care is a fundamental concept in psychology.",
   "definition": "Multidisciplinary Care is a fundamental concept in psychology.",
   "explanation": "Learn about Multidisciplinary Care and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "multidisciplinary-care"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-05.topic-05",
   "name": "Regression Analysis",
   "subject": "computer-science",
+  "summary": "Regression Analysis is a fundamental concept in computer-science.",
   "definition": "Regression Analysis is a fundamental concept in computer-science.",
   "explanation": "Learn about Regression Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "regression-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

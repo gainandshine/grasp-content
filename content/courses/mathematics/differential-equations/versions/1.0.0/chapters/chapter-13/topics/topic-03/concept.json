@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-13.topic-03",
   "name": "Equilibrium Points",
   "subject": "mathematics",
+  "summary": "Equilibrium Points is a fundamental concept in mathematics.",
   "definition": "Equilibrium Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Equilibrium Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "equilibrium-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

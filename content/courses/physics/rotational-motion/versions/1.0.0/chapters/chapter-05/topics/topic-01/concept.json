@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-05.topic-01",
   "name": "Rotational Form of Newton's Second Law",
   "subject": "physics",
+  "summary": "Rotational Form of Newton's Second Law is a fundamental concept in physics.",
   "definition": "Rotational Form of Newton's Second Law is a fundamental concept in physics.",
   "explanation": "Learn about Rotational Form of Newton's Second Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rotational-form-of-newtons-second-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

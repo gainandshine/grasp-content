@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-07.topic-06",
   "name": "Expectancy Theory",
   "subject": "psychology",
+  "summary": "Expectancy Theory is a fundamental concept in psychology.",
   "definition": "Expectancy Theory is a fundamental concept in psychology.",
   "explanation": "Learn about Expectancy Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "expectancy-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

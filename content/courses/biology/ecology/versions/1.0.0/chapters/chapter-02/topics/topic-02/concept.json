@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-02.topic-02",
   "name": "Population Density",
   "subject": "biology",
+  "summary": "Population Density is a fundamental concept in biology.",
   "definition": "Population Density is a fundamental concept in biology.",
   "explanation": "Learn about Population Density and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "population-density"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-06.topic-04",
   "name": "Nutrient Absorption",
   "subject": "biology",
+  "summary": "Nutrient Absorption is a fundamental concept in biology.",
   "definition": "Nutrient Absorption is a fundamental concept in biology.",
   "explanation": "Learn about Nutrient Absorption and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "nutrient-absorption"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

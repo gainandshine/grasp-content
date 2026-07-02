@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-03.topic-04",
   "name": "Methanogens",
   "subject": "biology",
+  "summary": "Methanogens is a fundamental concept in biology.",
   "definition": "Methanogens is a fundamental concept in biology.",
   "explanation": "Learn about Methanogens and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "methanogens"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

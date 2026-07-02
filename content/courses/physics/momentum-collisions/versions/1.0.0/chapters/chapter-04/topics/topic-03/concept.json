@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-04.topic-03",
   "name": "Force-Time Graphs",
   "subject": "physics",
+  "summary": "Force-Time Graphs is a fundamental concept in physics.",
   "definition": "Force-Time Graphs is a fundamental concept in physics.",
   "explanation": "Learn about Force-Time Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "force-time-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

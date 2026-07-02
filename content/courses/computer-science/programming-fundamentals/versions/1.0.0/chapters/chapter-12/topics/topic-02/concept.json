@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-12.topic-02",
   "name": "Naming Conventions",
   "subject": "computer-science",
+  "summary": "Naming Conventions is a fundamental concept in computer-science.",
   "definition": "Naming Conventions is a fundamental concept in computer-science.",
   "explanation": "Learn about Naming Conventions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "naming-conventions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

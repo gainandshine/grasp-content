@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-11.topic-04",
   "name": "Reserve Prices",
   "subject": "game-theory",
+  "summary": "Reserve Prices is a fundamental concept in game-theory.",
   "definition": "Reserve Prices is a fundamental concept in game-theory.",
   "explanation": "Learn about Reserve Prices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "reserve-prices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

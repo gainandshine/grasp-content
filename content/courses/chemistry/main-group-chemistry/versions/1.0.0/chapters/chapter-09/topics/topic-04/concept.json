@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-09.topic-04",
   "name": "Krypton",
   "subject": "chemistry",
+  "summary": "Krypton is a fundamental concept in chemistry.",
   "definition": "Krypton is a fundamental concept in chemistry.",
   "explanation": "Learn about Krypton and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "krypton"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

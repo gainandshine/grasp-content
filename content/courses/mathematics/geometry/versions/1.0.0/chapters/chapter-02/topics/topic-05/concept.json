@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-02.topic-05",
   "name": "Vertical Angles",
   "subject": "mathematics",
+  "summary": "Vertical Angles is a fundamental concept in mathematics.",
   "definition": "Vertical Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Vertical Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "vertical-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

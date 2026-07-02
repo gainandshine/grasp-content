@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-08.topic-05",
   "name": "Data Compression",
   "subject": "computer-science",
+  "summary": "Data Compression is a fundamental concept in computer-science.",
   "definition": "Data Compression is a fundamental concept in computer-science.",
   "explanation": "Learn about Data Compression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "data-compression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

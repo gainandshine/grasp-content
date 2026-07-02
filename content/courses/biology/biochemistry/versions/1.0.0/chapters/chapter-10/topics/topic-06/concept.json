@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-10.topic-06",
   "name": "Plant Metabolism",
   "subject": "biology",
+  "summary": "Plant Metabolism is a fundamental concept in biology.",
   "definition": "Plant Metabolism is a fundamental concept in biology.",
   "explanation": "Learn about Plant Metabolism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "plant-metabolism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

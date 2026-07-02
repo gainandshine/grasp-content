@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-12.topic-01",
   "name": "Bug Fixing",
   "subject": "computer-science",
+  "summary": "Bug Fixing is a fundamental concept in computer-science.",
   "definition": "Bug Fixing is a fundamental concept in computer-science.",
   "explanation": "Learn about Bug Fixing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "bug-fixing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

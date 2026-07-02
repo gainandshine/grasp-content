@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-04.topic-06",
   "name": "Originality",
   "subject": "philosophy",
+  "summary": "Originality is a fundamental concept in philosophy.",
   "definition": "Originality is a fundamental concept in philosophy.",
   "explanation": "Learn about Originality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "originality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

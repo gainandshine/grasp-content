@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-04.topic-02",
   "name": "Symbol Tables",
   "subject": "computer-science",
+  "summary": "Symbol Tables is a fundamental concept in computer-science.",
   "definition": "Symbol Tables is a fundamental concept in computer-science.",
   "explanation": "Learn about Symbol Tables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "symbol-tables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

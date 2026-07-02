@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-14.topic-15",
   "name": "**Abstract Algebra**",
   "subject": "mathematics",
+  "summary": "**Abstract Algebra** is a fundamental concept in mathematics.",
   "definition": "**Abstract Algebra** is a fundamental concept in mathematics.",
   "explanation": "Learn about **Abstract Algebra** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "abstract-algebra"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

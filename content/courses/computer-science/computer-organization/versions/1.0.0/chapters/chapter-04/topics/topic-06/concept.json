@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-04.topic-06",
   "name": "Instruction Formats",
   "subject": "computer-science",
+  "summary": "Instruction Formats is a fundamental concept in computer-science.",
   "definition": "Instruction Formats is a fundamental concept in computer-science.",
   "explanation": "Learn about Instruction Formats and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "instruction-formats"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

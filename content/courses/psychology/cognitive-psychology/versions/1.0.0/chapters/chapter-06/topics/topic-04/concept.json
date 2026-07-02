@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-06.topic-04",
   "name": "Language Production",
   "subject": "psychology",
+  "summary": "Language Production is a fundamental concept in psychology.",
   "definition": "Language Production is a fundamental concept in psychology.",
   "explanation": "Learn about Language Production and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "language-production"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-13.topic-10",
   "name": "Operant Conditioning",
   "subject": "psychology",
+  "summary": "Operant Conditioning is a fundamental concept in psychology.",
   "definition": "Operant Conditioning is a fundamental concept in psychology.",
   "explanation": "Learn about Operant Conditioning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "operant-conditioning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

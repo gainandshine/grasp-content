@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-16",
   "name": "Polyprotic Acids",
   "subject": "chemistry",
+  "summary": "Polyprotic Acids is a fundamental concept in chemistry.",
   "definition": "Polyprotic Acids is a fundamental concept in chemistry.",
   "explanation": "Learn about Polyprotic Acids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "polyprotic-acids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

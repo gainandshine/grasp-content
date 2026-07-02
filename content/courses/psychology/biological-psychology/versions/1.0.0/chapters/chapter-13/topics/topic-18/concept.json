@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-13.topic-18",
   "name": "Attachment",
   "subject": "psychology",
+  "summary": "Attachment is a fundamental concept in psychology.",
   "definition": "Attachment is a fundamental concept in psychology.",
   "explanation": "Learn about Attachment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "attachment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

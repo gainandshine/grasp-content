@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-03.topic-07",
   "name": "Shape Memory Alloys",
   "subject": "chemistry",
+  "summary": "Shape Memory Alloys is a fundamental concept in chemistry.",
   "definition": "Shape Memory Alloys is a fundamental concept in chemistry.",
   "explanation": "Learn about Shape Memory Alloys and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "shape-memory-alloys"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

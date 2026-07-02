@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-11.topic-02",
   "name": "Lucas Numbers",
   "subject": "mathematics",
+  "summary": "Lucas Numbers is a fundamental concept in mathematics.",
   "definition": "Lucas Numbers is a fundamental concept in mathematics.",
   "explanation": "Learn about Lucas Numbers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "lucas-numbers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

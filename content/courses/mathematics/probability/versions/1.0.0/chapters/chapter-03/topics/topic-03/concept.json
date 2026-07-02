@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-03.topic-03",
   "name": "Dependent Events",
   "subject": "mathematics",
+  "summary": "Dependent Events is a fundamental concept in mathematics.",
   "definition": "Dependent Events is a fundamental concept in mathematics.",
   "explanation": "Learn about Dependent Events and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "dependent-events"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

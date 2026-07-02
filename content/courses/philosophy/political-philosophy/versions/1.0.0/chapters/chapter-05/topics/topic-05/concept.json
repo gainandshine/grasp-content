@@ -2,6 +2,7 @@
   "id": "philosophy.political-philosophy.chapter-05.topic-05",
   "name": "Separation of Powers",
   "subject": "philosophy",
+  "summary": "Separation of Powers is a fundamental concept in philosophy.",
   "definition": "Separation of Powers is a fundamental concept in philosophy.",
   "explanation": "Learn about Separation of Powers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "separation-of-powers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

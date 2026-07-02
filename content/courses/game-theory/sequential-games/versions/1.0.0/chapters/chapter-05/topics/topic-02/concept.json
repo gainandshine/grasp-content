@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-05.topic-02",
   "name": "Subgame Perfect Equilibrium (SPE)",
   "subject": "game-theory",
+  "summary": "Subgame Perfect Equilibrium (SPE) is a fundamental concept in game-theory.",
   "definition": "Subgame Perfect Equilibrium (SPE) is a fundamental concept in game-theory.",
   "explanation": "Learn about Subgame Perfect Equilibrium (SPE) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "subgame-perfect-equilibrium-spe"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

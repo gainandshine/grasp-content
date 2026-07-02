@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-13.topic-09",
   "name": "Graphics Fundamentals",
   "subject": "computer-science",
+  "summary": "Graphics Fundamentals is a fundamental concept in computer-science.",
   "definition": "Graphics Fundamentals is a fundamental concept in computer-science.",
   "explanation": "Learn about Graphics Fundamentals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "graphics-fundamentals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

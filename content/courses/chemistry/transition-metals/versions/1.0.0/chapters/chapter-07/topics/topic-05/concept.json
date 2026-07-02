@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-07.topic-05",
   "name": "Biological Catalysts",
   "subject": "chemistry",
+  "summary": "Biological Catalysts is a fundamental concept in chemistry.",
   "definition": "Biological Catalysts is a fundamental concept in chemistry.",
   "explanation": "Learn about Biological Catalysts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biological-catalysts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

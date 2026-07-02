@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-06.topic-05",
   "name": "Loop Optimization",
   "subject": "computer-science",
+  "summary": "Loop Optimization is a fundamental concept in computer-science.",
   "definition": "Loop Optimization is a fundamental concept in computer-science.",
   "explanation": "Learn about Loop Optimization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "loop-optimization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

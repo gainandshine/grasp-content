@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-12.topic-04",
   "name": "Clinical Biomarkers",
   "subject": "biology",
+  "summary": "Clinical Biomarkers is a fundamental concept in biology.",
   "definition": "Clinical Biomarkers is a fundamental concept in biology.",
   "explanation": "Learn about Clinical Biomarkers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "clinical-biomarkers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

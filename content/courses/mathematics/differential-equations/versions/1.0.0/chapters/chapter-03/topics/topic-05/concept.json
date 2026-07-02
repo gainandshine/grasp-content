@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-03.topic-05",
   "name": "Mixing Problems",
   "subject": "mathematics",
+  "summary": "Mixing Problems is a fundamental concept in mathematics.",
   "definition": "Mixing Problems is a fundamental concept in mathematics.",
   "explanation": "Learn about Mixing Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "mixing-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

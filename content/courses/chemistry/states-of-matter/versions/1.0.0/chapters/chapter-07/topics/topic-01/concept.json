@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-07.topic-01",
   "name": "Ideal vs Real Gases",
   "subject": "chemistry",
+  "summary": "Ideal vs Real Gases is a fundamental concept in chemistry.",
   "definition": "Ideal vs Real Gases is a fundamental concept in chemistry.",
   "explanation": "Learn about Ideal vs Real Gases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ideal-vs-real-gases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

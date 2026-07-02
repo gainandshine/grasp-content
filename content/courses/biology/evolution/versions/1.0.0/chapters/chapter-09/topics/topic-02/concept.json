@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-09.topic-02",
   "name": "Hominins",
   "subject": "biology",
+  "summary": "Hominins is a fundamental concept in biology.",
   "definition": "Hominins is a fundamental concept in biology.",
   "explanation": "Learn about Hominins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "hominins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

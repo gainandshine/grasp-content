@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-03.topic-05",
   "name": "Priority Scheduling",
   "subject": "computer-science",
+  "summary": "Priority Scheduling is a fundamental concept in computer-science.",
   "definition": "Priority Scheduling is a fundamental concept in computer-science.",
   "explanation": "Learn about Priority Scheduling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "priority-scheduling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-13.topic-03",
   "name": "Hypertension",
   "subject": "biology",
+  "summary": "Hypertension is a fundamental concept in biology.",
   "definition": "Hypertension is a fundamental concept in biology.",
   "explanation": "Learn about Hypertension and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "hypertension"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

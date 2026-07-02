@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-05.topic-05",
   "name": "Salinity",
   "subject": "chemistry",
+  "summary": "Salinity is a fundamental concept in chemistry.",
   "definition": "Salinity is a fundamental concept in chemistry.",
   "explanation": "Learn about Salinity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "salinity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

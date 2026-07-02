@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-10.topic-04",
   "name": "T Cells",
   "subject": "biology",
+  "summary": "T Cells is a fundamental concept in biology.",
   "definition": "T Cells is a fundamental concept in biology.",
   "explanation": "Learn about T Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "t-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

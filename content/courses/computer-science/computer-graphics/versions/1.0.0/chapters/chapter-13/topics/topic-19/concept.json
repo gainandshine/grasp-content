@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-19",
   "name": "Generative AI",
   "subject": "computer-science",
+  "summary": "Generative AI is a fundamental concept in computer-science.",
   "definition": "Generative AI is a fundamental concept in computer-science.",
   "explanation": "Learn about Generative AI and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "generative-ai"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

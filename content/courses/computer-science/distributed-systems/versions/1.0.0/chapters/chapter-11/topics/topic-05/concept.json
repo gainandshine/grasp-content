@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-11.topic-05",
   "name": "Serverless Computing",
   "subject": "computer-science",
+  "summary": "Serverless Computing is a fundamental concept in computer-science.",
   "definition": "Serverless Computing is a fundamental concept in computer-science.",
   "explanation": "Learn about Serverless Computing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "serverless-computing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

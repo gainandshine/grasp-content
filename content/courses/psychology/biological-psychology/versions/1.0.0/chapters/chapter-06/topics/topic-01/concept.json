@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-06.topic-01",
   "name": "Visual System",
   "subject": "psychology",
+  "summary": "Visual System is a fundamental concept in psychology.",
   "definition": "Visual System is a fundamental concept in psychology.",
   "explanation": "Learn about Visual System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "visual-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

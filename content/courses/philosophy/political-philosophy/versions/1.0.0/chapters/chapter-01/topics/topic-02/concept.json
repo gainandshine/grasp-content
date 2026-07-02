@@ -2,6 +2,7 @@
   "id": "philosophy.political-philosophy.chapter-01.topic-02",
   "name": "Politics & Philosophy",
   "subject": "philosophy",
+  "summary": "Politics & Philosophy is a fundamental concept in philosophy.",
   "definition": "Politics & Philosophy is a fundamental concept in philosophy.",
   "explanation": "Learn about Politics & Philosophy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "politics-philosophy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

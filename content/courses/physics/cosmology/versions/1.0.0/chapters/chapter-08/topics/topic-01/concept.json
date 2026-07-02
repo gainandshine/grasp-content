@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-08.topic-01",
   "name": "Friedmann Equations",
   "subject": "physics",
+  "summary": "Friedmann Equations is a fundamental concept in physics.",
   "definition": "Friedmann Equations is a fundamental concept in physics.",
   "explanation": "Learn about Friedmann Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "friedmann-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

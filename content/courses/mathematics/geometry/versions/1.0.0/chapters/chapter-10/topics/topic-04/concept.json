@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-10.topic-04",
   "name": "Tangents",
   "subject": "mathematics",
+  "summary": "Tangents is a fundamental concept in mathematics.",
   "definition": "Tangents is a fundamental concept in mathematics.",
   "explanation": "Learn about Tangents and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "tangents"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

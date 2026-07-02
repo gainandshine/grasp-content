@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-03.topic-06",
   "name": "Decision Trees",
   "subject": "computer-science",
+  "summary": "Decision Trees is a fundamental concept in computer-science.",
   "definition": "Decision Trees is a fundamental concept in computer-science.",
   "explanation": "Learn about Decision Trees and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "decision-trees"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

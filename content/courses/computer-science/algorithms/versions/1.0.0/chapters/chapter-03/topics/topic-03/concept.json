@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-03.topic-03",
   "name": "Search Variants",
   "subject": "computer-science",
+  "summary": "Search Variants is a fundamental concept in computer-science.",
   "definition": "Search Variants is a fundamental concept in computer-science.",
   "explanation": "Learn about Search Variants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "search-variants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-11.topic-06",
   "name": "Robotics",
   "subject": "physics",
+  "summary": "Robotics is a fundamental concept in physics.",
   "definition": "Robotics is a fundamental concept in physics.",
   "explanation": "Learn about Robotics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "robotics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-03.topic-06",
   "name": "Crystallinity",
   "subject": "chemistry",
+  "summary": "Crystallinity is a fundamental concept in chemistry.",
   "definition": "Crystallinity is a fundamental concept in chemistry.",
   "explanation": "Learn about Crystallinity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "crystallinity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

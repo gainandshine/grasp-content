@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-10.topic-02",
   "name": "Carbon Fiber Composites",
   "subject": "chemistry",
+  "summary": "Carbon Fiber Composites is a fundamental concept in chemistry.",
   "definition": "Carbon Fiber Composites is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbon Fiber Composites and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbon-fiber-composites"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

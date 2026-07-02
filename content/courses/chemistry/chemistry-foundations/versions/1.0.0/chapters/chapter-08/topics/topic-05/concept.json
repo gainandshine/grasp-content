@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-08.topic-05",
   "name": "Conservation of Mass",
   "subject": "chemistry",
+  "summary": "Conservation of Mass is a fundamental concept in chemistry.",
   "definition": "Conservation of Mass is a fundamental concept in chemistry.",
   "explanation": "Learn about Conservation of Mass and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "conservation-of-mass"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

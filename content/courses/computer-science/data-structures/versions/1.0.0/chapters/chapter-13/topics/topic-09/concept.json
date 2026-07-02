@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-13.topic-09",
   "name": "Algorithm Analysis",
   "subject": "computer-science",
+  "summary": "Algorithm Analysis is a fundamental concept in computer-science.",
   "definition": "Algorithm Analysis is a fundamental concept in computer-science.",
   "explanation": "Learn about Algorithm Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "algorithm-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

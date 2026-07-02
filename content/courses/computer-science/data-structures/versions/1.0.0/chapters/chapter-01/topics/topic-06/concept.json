@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-01.topic-06",
   "name": "Choosing the Right Data Structure",
   "subject": "computer-science",
+  "summary": "Choosing the Right Data Structure is a fundamental concept in computer-science.",
   "definition": "Choosing the Right Data Structure is a fundamental concept in computer-science.",
   "explanation": "Learn about Choosing the Right Data Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "choosing-the-right-data-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

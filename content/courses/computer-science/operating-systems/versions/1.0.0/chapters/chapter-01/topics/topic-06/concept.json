@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-01.topic-06",
   "name": "User Space vs Kernel Space",
   "subject": "computer-science",
+  "summary": "User Space vs Kernel Space is a fundamental concept in computer-science.",
   "definition": "User Space vs Kernel Space is a fundamental concept in computer-science.",
   "explanation": "Learn about User Space vs Kernel Space and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "user-space-vs-kernel-space"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

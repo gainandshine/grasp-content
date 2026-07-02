@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-11.topic-02",
   "name": "DRY Principle",
   "subject": "computer-science",
+  "summary": "DRY Principle is a fundamental concept in computer-science.",
   "definition": "DRY Principle is a fundamental concept in computer-science.",
   "explanation": "Learn about DRY Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "dry-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

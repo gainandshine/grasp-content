@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-08.topic-05",
   "name": "Free Energy Calculations",
   "subject": "chemistry",
+  "summary": "Free Energy Calculations is a fundamental concept in chemistry.",
   "definition": "Free Energy Calculations is a fundamental concept in chemistry.",
   "explanation": "Learn about Free Energy Calculations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "free-energy-calculations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

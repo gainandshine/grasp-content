@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-09.topic-07",
   "name": "Emerging Infectious Diseases",
   "subject": "biology",
+  "summary": "Emerging Infectious Diseases is a fundamental concept in biology.",
   "definition": "Emerging Infectious Diseases is a fundamental concept in biology.",
   "explanation": "Learn about Emerging Infectious Diseases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "emerging-infectious-diseases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

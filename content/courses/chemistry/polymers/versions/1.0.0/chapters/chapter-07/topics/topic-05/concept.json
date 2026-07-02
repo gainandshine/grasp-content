@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-07.topic-05",
   "name": "3D Printing",
   "subject": "chemistry",
+  "summary": "3D Printing is a fundamental concept in chemistry.",
   "definition": "3D Printing is a fundamental concept in chemistry.",
   "explanation": "Learn about 3D Printing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "3d-printing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

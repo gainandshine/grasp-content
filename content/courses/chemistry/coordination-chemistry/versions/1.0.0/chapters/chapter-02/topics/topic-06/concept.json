@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-02.topic-06",
   "name": "Bridging Ligands",
   "subject": "chemistry",
+  "summary": "Bridging Ligands is a fundamental concept in chemistry.",
   "definition": "Bridging Ligands is a fundamental concept in chemistry.",
   "explanation": "Learn about Bridging Ligands and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bridging-ligands"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

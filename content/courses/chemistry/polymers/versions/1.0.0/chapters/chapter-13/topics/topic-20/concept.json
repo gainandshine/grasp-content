@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-20",
   "name": "Thermal Analysis",
   "subject": "chemistry",
+  "summary": "Thermal Analysis is a fundamental concept in chemistry.",
   "definition": "Thermal Analysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Thermal Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "thermal-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

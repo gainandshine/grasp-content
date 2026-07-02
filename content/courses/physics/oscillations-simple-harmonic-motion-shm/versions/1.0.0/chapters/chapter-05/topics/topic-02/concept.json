@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-05.topic-02",
   "name": "Potential Energy",
   "subject": "physics",
+  "summary": "Potential Energy is a fundamental concept in physics.",
   "definition": "Potential Energy is a fundamental concept in physics.",
   "explanation": "Learn about Potential Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "potential-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-07.topic-03",
   "name": "Cooperation Through Reciprocity",
   "subject": "game-theory",
+  "summary": "Cooperation Through Reciprocity is a fundamental concept in game-theory.",
   "definition": "Cooperation Through Reciprocity is a fundamental concept in game-theory.",
   "explanation": "Learn about Cooperation Through Reciprocity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "cooperation-through-reciprocity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

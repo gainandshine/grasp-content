@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-04.topic-06",
   "name": "Right Triangles",
   "subject": "mathematics",
+  "summary": "Right Triangles is a fundamental concept in mathematics.",
   "definition": "Right Triangles is a fundamental concept in mathematics.",
   "explanation": "Learn about Right Triangles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "right-triangles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

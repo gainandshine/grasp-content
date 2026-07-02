@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-03",
   "name": "Driving Frequency",
   "subject": "physics",
+  "summary": "Driving Frequency is a fundamental concept in physics.",
   "definition": "Driving Frequency is a fundamental concept in physics.",
   "explanation": "Learn about Driving Frequency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "driving-frequency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

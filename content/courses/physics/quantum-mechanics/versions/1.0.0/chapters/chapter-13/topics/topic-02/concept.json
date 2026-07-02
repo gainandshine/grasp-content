@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-13.topic-02",
   "name": "Quantum Dots",
   "subject": "physics",
+  "summary": "Quantum Dots is a fundamental concept in physics.",
   "definition": "Quantum Dots is a fundamental concept in physics.",
   "explanation": "Learn about Quantum Dots and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quantum-dots"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-13.topic-12",
   "name": "Shapley Value",
   "subject": "game-theory",
+  "summary": "Shapley Value is a fundamental concept in game-theory.",
   "definition": "Shapley Value is a fundamental concept in game-theory.",
   "explanation": "Learn about Shapley Value and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "shapley-value"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

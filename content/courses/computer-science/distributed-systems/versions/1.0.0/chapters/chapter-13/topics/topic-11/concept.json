@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-13.topic-11",
   "name": "Parsing",
   "subject": "computer-science",
+  "summary": "Parsing is a fundamental concept in computer-science.",
   "definition": "Parsing is a fundamental concept in computer-science.",
   "explanation": "Learn about Parsing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "parsing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

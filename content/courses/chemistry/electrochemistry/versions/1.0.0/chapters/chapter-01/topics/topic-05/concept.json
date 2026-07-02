@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-01.topic-05",
   "name": "Oxidation",
   "subject": "chemistry",
+  "summary": "Oxidation is a fundamental concept in chemistry.",
   "definition": "Oxidation is a fundamental concept in chemistry.",
   "explanation": "Learn about Oxidation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oxidation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

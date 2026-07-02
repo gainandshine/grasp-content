@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-06.topic-01",
   "name": "Identity Management",
   "subject": "computer-science",
+  "summary": "Identity Management is a fundamental concept in computer-science.",
   "definition": "Identity Management is a fundamental concept in computer-science.",
   "explanation": "Learn about Identity Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "identity-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

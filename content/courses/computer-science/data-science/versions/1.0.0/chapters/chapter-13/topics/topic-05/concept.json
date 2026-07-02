@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-13.topic-05",
   "name": "Manufacturing",
   "subject": "computer-science",
+  "summary": "Manufacturing is a fundamental concept in computer-science.",
   "definition": "Manufacturing is a fundamental concept in computer-science.",
   "explanation": "Learn about Manufacturing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "manufacturing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

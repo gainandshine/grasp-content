@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-10.topic-05",
   "name": "Type II Superconductors",
   "subject": "physics",
+  "summary": "Type II Superconductors is a fundamental concept in physics.",
   "definition": "Type II Superconductors is a fundamental concept in physics.",
   "explanation": "Learn about Type II Superconductors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "type-ii-superconductors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

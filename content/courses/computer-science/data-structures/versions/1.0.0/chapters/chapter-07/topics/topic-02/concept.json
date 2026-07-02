@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-07.topic-02",
   "name": "Binary Trees",
   "subject": "computer-science",
+  "summary": "Binary Trees is a fundamental concept in computer-science.",
   "definition": "Binary Trees is a fundamental concept in computer-science.",
   "explanation": "Learn about Binary Trees and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "binary-trees"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

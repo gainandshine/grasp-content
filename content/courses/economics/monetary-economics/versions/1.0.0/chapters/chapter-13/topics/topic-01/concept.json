@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-13.topic-01",
   "name": "Modern Monetary Theory (MMT)",
   "subject": "economics",
+  "summary": "Modern Monetary Theory (MMT) is a fundamental concept in economics.",
   "definition": "Modern Monetary Theory (MMT) is a fundamental concept in economics.",
   "explanation": "Learn about Modern Monetary Theory (MMT) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "modern-monetary-theory-mmt"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

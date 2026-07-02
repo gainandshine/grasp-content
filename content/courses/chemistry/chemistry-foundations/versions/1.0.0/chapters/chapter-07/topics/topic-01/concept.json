@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-07.topic-01",
   "name": "Mole",
   "subject": "chemistry",
+  "summary": "Mole is a fundamental concept in chemistry.",
   "definition": "Mole is a fundamental concept in chemistry.",
   "explanation": "Learn about Mole and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "mole"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-07.topic-02",
   "name": "Binary Fission",
   "subject": "biology",
+  "summary": "Binary Fission is a fundamental concept in biology.",
   "definition": "Binary Fission is a fundamental concept in biology.",
   "explanation": "Learn about Binary Fission and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "binary-fission"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

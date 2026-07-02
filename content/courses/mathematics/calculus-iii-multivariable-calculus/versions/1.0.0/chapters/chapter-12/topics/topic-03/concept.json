@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-12.topic-03",
   "name": "Flux Integrals",
   "subject": "mathematics",
+  "summary": "Flux Integrals is a fundamental concept in mathematics.",
   "definition": "Flux Integrals is a fundamental concept in mathematics.",
   "explanation": "Learn about Flux Integrals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "flux-integrals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-08.topic-05",
   "name": "Ignition",
   "subject": "physics",
+  "summary": "Ignition is a fundamental concept in physics.",
   "definition": "Ignition is a fundamental concept in physics.",
   "explanation": "Learn about Ignition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "ignition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

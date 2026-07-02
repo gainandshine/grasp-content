@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-09.topic-03",
   "name": "Tidal Forces",
   "subject": "physics",
+  "summary": "Tidal Forces is a fundamental concept in physics.",
   "definition": "Tidal Forces is a fundamental concept in physics.",
   "explanation": "Learn about Tidal Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "tidal-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

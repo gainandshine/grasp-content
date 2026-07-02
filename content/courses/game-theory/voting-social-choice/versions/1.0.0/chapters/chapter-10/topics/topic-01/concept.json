@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-10.topic-01",
   "name": "Elections",
   "subject": "game-theory",
+  "summary": "Elections is a fundamental concept in game-theory.",
   "definition": "Elections is a fundamental concept in game-theory.",
   "explanation": "Learn about Elections and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "elections"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

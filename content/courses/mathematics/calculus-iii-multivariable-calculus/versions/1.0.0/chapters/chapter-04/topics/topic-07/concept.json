@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-04.topic-07",
   "name": "Curvature",
   "subject": "mathematics",
+  "summary": "Curvature is a fundamental concept in mathematics.",
   "definition": "Curvature is a fundamental concept in mathematics.",
   "explanation": "Learn about Curvature and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "curvature"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

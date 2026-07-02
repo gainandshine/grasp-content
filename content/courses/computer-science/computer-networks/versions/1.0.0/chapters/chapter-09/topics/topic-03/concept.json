@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-09.topic-03",
   "name": "Cellular Networks",
   "subject": "computer-science",
+  "summary": "Cellular Networks is a fundamental concept in computer-science.",
   "definition": "Cellular Networks is a fundamental concept in computer-science.",
   "explanation": "Learn about Cellular Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cellular-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

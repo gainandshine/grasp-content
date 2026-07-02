@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-06.topic-04",
   "name": "Sample Mean Distribution",
   "subject": "mathematics",
+  "summary": "Sample Mean Distribution is a fundamental concept in mathematics.",
   "definition": "Sample Mean Distribution is a fundamental concept in mathematics.",
   "explanation": "Learn about Sample Mean Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sample-mean-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

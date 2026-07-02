@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-09.topic-03",
   "name": "Australopithecus",
   "subject": "biology",
+  "summary": "Australopithecus is a fundamental concept in biology.",
   "definition": "Australopithecus is a fundamental concept in biology.",
   "explanation": "Learn about Australopithecus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "australopithecus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

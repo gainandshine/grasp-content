@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-11.topic-04",
   "name": "PCR (Introduction)",
   "subject": "chemistry",
+  "summary": "PCR (Introduction) is a fundamental concept in chemistry.",
   "definition": "PCR (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about PCR (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "pcr-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

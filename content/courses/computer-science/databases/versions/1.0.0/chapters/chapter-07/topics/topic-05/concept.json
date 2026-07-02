@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-07.topic-05",
   "name": "Isolation Levels",
   "subject": "computer-science",
+  "summary": "Isolation Levels is a fundamental concept in computer-science.",
   "definition": "Isolation Levels is a fundamental concept in computer-science.",
   "explanation": "Learn about Isolation Levels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "isolation-levels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

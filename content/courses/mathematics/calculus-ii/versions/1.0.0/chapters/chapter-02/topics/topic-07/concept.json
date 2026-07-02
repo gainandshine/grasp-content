@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-02.topic-07",
   "name": "Surface Area of Revolution",
   "subject": "mathematics",
+  "summary": "Surface Area of Revolution is a fundamental concept in mathematics.",
   "definition": "Surface Area of Revolution is a fundamental concept in mathematics.",
   "explanation": "Learn about Surface Area of Revolution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "surface-area-of-revolution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

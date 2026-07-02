@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-01.topic-07",
   "name": "Coplanar Points",
   "subject": "mathematics",
+  "summary": "Coplanar Points is a fundamental concept in mathematics.",
   "definition": "Coplanar Points is a fundamental concept in mathematics.",
   "explanation": "Learn about Coplanar Points and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "coplanar-points"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

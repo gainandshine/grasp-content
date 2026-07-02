@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-01.topic-02",
   "name": "Personality Traits",
   "subject": "psychology",
+  "summary": "Personality Traits is a fundamental concept in psychology.",
   "definition": "Personality Traits is a fundamental concept in psychology.",
   "explanation": "Learn about Personality Traits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "personality-traits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

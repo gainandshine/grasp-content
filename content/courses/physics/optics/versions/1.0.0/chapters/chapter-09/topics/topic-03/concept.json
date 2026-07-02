@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-09.topic-03",
   "name": "Malus' Law",
   "subject": "physics",
+  "summary": "Malus' Law is a fundamental concept in physics.",
   "definition": "Malus' Law is a fundamental concept in physics.",
   "explanation": "Learn about Malus' Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "malus-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

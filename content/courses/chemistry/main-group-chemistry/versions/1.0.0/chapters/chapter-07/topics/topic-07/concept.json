@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-07.topic-07",
   "name": "Sulfuric Acid",
   "subject": "chemistry",
+  "summary": "Sulfuric Acid is a fundamental concept in chemistry.",
   "definition": "Sulfuric Acid is a fundamental concept in chemistry.",
   "explanation": "Learn about Sulfuric Acid and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sulfuric-acid"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

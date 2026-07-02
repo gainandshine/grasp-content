@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-03.topic-05",
   "name": "Top-Down Parsing",
   "subject": "computer-science",
+  "summary": "Top-Down Parsing is a fundamental concept in computer-science.",
   "definition": "Top-Down Parsing is a fundamental concept in computer-science.",
   "explanation": "Learn about Top-Down Parsing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "top-down-parsing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

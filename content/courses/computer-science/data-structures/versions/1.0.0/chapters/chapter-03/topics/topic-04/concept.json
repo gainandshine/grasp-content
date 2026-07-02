@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-03.topic-04",
   "name": "List Operations",
   "subject": "computer-science",
+  "summary": "List Operations is a fundamental concept in computer-science.",
   "definition": "List Operations is a fundamental concept in computer-science.",
   "explanation": "Learn about List Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "list-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

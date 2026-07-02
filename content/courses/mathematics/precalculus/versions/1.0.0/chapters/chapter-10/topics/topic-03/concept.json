@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-10.topic-03",
   "name": "Determinants",
   "subject": "mathematics",
+  "summary": "Determinants is a fundamental concept in mathematics.",
   "definition": "Determinants is a fundamental concept in mathematics.",
   "explanation": "Learn about Determinants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "determinants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

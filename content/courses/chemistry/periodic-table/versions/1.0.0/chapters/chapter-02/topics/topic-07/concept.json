@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-02.topic-07",
   "name": "Representative Elements",
   "subject": "chemistry",
+  "summary": "Representative Elements is a fundamental concept in chemistry.",
   "definition": "Representative Elements is a fundamental concept in chemistry.",
   "explanation": "Learn about Representative Elements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "representative-elements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

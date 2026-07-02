@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-10.topic-04",
   "name": "Fantasy Sports",
   "subject": "game-theory",
+  "summary": "Fantasy Sports is a fundamental concept in game-theory.",
   "definition": "Fantasy Sports is a fundamental concept in game-theory.",
   "explanation": "Learn about Fantasy Sports and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "fantasy-sports"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

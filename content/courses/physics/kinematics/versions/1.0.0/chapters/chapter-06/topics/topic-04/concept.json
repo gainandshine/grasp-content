@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-06.topic-04",
   "name": "Time of Flight",
   "subject": "physics",
+  "summary": "Time of Flight is a fundamental concept in physics.",
   "definition": "Time of Flight is a fundamental concept in physics.",
   "explanation": "Learn about Time of Flight and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "time-of-flight"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

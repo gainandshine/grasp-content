@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-05.topic-04",
   "name": "Floating Exchange Rates",
   "subject": "economics",
+  "summary": "Floating Exchange Rates is a fundamental concept in economics.",
   "definition": "Floating Exchange Rates is a fundamental concept in economics.",
   "explanation": "Learn about Floating Exchange Rates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "floating-exchange-rates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

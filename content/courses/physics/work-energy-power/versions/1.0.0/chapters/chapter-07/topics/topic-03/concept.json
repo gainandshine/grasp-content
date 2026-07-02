@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-07.topic-03",
   "name": "Elastic Potential Energy",
   "subject": "physics",
+  "summary": "Elastic Potential Energy is a fundamental concept in physics.",
   "definition": "Elastic Potential Energy is a fundamental concept in physics.",
   "explanation": "Learn about Elastic Potential Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "elastic-potential-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-09.topic-04",
   "name": "Law of Large Numbers",
   "subject": "mathematics",
+  "summary": "Law of Large Numbers is a fundamental concept in mathematics.",
   "definition": "Law of Large Numbers is a fundamental concept in mathematics.",
   "explanation": "Learn about Law of Large Numbers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "law-of-large-numbers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

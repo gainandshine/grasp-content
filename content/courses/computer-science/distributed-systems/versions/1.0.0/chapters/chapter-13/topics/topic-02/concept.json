@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-13.topic-02",
   "name": "Distributed Machine Learning",
   "subject": "computer-science",
+  "summary": "Distributed Machine Learning is a fundamental concept in computer-science.",
   "definition": "Distributed Machine Learning is a fundamental concept in computer-science.",
   "explanation": "Learn about Distributed Machine Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "distributed-machine-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-11.topic-02",
   "name": "Domain Configuration",
   "subject": "computer-science",
+  "summary": "Domain Configuration is a fundamental concept in computer-science.",
   "definition": "Domain Configuration is a fundamental concept in computer-science.",
   "explanation": "Learn about Domain Configuration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "domain-configuration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

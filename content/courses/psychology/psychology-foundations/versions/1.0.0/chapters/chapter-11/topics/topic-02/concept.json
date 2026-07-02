@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-11.topic-02",
   "name": "Temperament",
   "subject": "psychology",
+  "summary": "Temperament is a fundamental concept in psychology.",
   "definition": "Temperament is a fundamental concept in psychology.",
   "explanation": "Learn about Temperament and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "temperament"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-13.topic-04",
   "name": "Decentralized Mechanisms",
   "subject": "game-theory",
+  "summary": "Decentralized Mechanisms is a fundamental concept in game-theory.",
   "definition": "Decentralized Mechanisms is a fundamental concept in game-theory.",
   "explanation": "Learn about Decentralized Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "decentralized-mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

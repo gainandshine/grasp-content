@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-13.topic-03",
   "name": "Mobile Devices",
   "subject": "computer-science",
+  "summary": "Mobile Devices is a fundamental concept in computer-science.",
   "definition": "Mobile Devices is a fundamental concept in computer-science.",
   "explanation": "Learn about Mobile Devices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mobile-devices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

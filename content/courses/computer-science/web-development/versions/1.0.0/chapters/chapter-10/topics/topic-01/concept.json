@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-10.topic-01",
   "name": "Sessions",
   "subject": "computer-science",
+  "summary": "Sessions is a fundamental concept in computer-science.",
   "definition": "Sessions is a fundamental concept in computer-science.",
   "explanation": "Learn about Sessions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sessions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

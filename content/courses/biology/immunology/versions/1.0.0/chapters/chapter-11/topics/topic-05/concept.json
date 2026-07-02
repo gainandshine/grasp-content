@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-11.topic-05",
   "name": "Serological Tests",
   "subject": "biology",
+  "summary": "Serological Tests is a fundamental concept in biology.",
   "definition": "Serological Tests is a fundamental concept in biology.",
   "explanation": "Learn about Serological Tests and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "serological-tests"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

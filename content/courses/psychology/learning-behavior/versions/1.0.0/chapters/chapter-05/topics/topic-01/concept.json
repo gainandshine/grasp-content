@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-05.topic-01",
   "name": "Albert Bandura",
   "subject": "psychology",
+  "summary": "Albert Bandura is a fundamental concept in psychology.",
   "definition": "Albert Bandura is a fundamental concept in psychology.",
   "explanation": "Learn about Albert Bandura and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "albert-bandura"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.macroeconomics.chapter-10.topic-06",
   "name": "Global Financial Systems",
   "subject": "economics",
+  "summary": "Global Financial Systems is a fundamental concept in economics.",
   "definition": "Global Financial Systems is a fundamental concept in economics.",
   "explanation": "Learn about Global Financial Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "global-financial-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

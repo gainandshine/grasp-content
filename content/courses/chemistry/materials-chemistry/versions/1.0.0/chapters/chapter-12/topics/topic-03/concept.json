@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-12.topic-03",
   "name": "Electronic Devices",
   "subject": "chemistry",
+  "summary": "Electronic Devices is a fundamental concept in chemistry.",
   "definition": "Electronic Devices is a fundamental concept in chemistry.",
   "explanation": "Learn about Electronic Devices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electronic-devices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

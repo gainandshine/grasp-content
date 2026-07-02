@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-01.topic-04",
   "name": "Mobile App Architecture",
   "subject": "computer-science",
+  "summary": "Mobile App Architecture is a fundamental concept in computer-science.",
   "definition": "Mobile App Architecture is a fundamental concept in computer-science.",
   "explanation": "Learn about Mobile App Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mobile-app-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

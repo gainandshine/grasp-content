@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-04.topic-01",
   "name": "Social Welfare",
   "subject": "game-theory",
+  "summary": "Social Welfare is a fundamental concept in game-theory.",
   "definition": "Social Welfare is a fundamental concept in game-theory.",
   "explanation": "Learn about Social Welfare and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "social-welfare"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

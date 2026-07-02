@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-06.topic-01",
   "name": "Group Dynamics",
   "subject": "psychology",
+  "summary": "Group Dynamics is a fundamental concept in psychology.",
   "definition": "Group Dynamics is a fundamental concept in psychology.",
   "explanation": "Learn about Group Dynamics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "group-dynamics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

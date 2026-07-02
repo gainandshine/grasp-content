@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-02.topic-05",
   "name": "Longitudinal Studies",
   "subject": "psychology",
+  "summary": "Longitudinal Studies is a fundamental concept in psychology.",
   "definition": "Longitudinal Studies is a fundamental concept in psychology.",
   "explanation": "Learn about Longitudinal Studies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "longitudinal-studies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

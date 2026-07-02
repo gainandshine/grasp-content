@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-13.topic-07",
   "name": "*Course 10: Ecology**",
   "subject": "biology",
+  "summary": "*Course 10: Ecology** is a fundamental concept in biology.",
   "definition": "*Course 10: Ecology** is a fundamental concept in biology.",
   "explanation": "Learn about *Course 10: Ecology** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "course-10-ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

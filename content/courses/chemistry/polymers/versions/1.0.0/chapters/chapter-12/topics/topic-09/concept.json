@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-12.topic-09",
   "name": "Construction",
   "subject": "chemistry",
+  "summary": "Construction is a fundamental concept in chemistry.",
   "definition": "Construction is a fundamental concept in chemistry.",
   "explanation": "Learn about Construction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "construction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

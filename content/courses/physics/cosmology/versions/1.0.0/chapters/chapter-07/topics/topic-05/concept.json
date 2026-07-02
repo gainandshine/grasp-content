@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-07.topic-05",
   "name": "Quintessence (Introduction)",
   "subject": "physics",
+  "summary": "Quintessence (Introduction) is a fundamental concept in physics.",
   "definition": "Quintessence (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Quintessence (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quintessence-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

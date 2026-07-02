@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-05.topic-02",
   "name": "Electromagnetic Waves in Plasma",
   "subject": "physics",
+  "summary": "Electromagnetic Waves in Plasma is a fundamental concept in physics.",
   "definition": "Electromagnetic Waves in Plasma is a fundamental concept in physics.",
   "explanation": "Learn about Electromagnetic Waves in Plasma and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "electromagnetic-waves-in-plasma"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

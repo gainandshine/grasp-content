@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-10.topic-04",
   "name": "Memory Forensics",
   "subject": "computer-science",
+  "summary": "Memory Forensics is a fundamental concept in computer-science.",
   "definition": "Memory Forensics is a fundamental concept in computer-science.",
   "explanation": "Learn about Memory Forensics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "memory-forensics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

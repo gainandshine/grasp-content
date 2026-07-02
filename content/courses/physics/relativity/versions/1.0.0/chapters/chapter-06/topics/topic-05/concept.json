@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-06.topic-05",
   "name": "Einstein's Insight",
   "subject": "physics",
+  "summary": "Einstein's Insight is a fundamental concept in physics.",
   "definition": "Einstein's Insight is a fundamental concept in physics.",
   "explanation": "Learn about Einstein's Insight and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "einsteins-insight"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

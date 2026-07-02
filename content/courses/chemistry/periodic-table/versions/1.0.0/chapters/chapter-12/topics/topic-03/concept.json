@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-12.topic-03",
   "name": "Superheavy Elements",
   "subject": "chemistry",
+  "summary": "Superheavy Elements is a fundamental concept in chemistry.",
   "definition": "Superheavy Elements is a fundamental concept in chemistry.",
   "explanation": "Learn about Superheavy Elements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "superheavy-elements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

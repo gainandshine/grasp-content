@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-09.topic-01",
   "name": "Fluorescence",
   "subject": "chemistry",
+  "summary": "Fluorescence is a fundamental concept in chemistry.",
   "definition": "Fluorescence is a fundamental concept in chemistry.",
   "explanation": "Learn about Fluorescence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fluorescence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

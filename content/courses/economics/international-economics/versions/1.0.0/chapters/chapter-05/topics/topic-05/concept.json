@@ -2,6 +2,7 @@
   "id": "economics.international-economics.chapter-05.topic-05",
   "name": "Currency Appreciation",
   "subject": "economics",
+  "summary": "Currency Appreciation is a fundamental concept in economics.",
   "definition": "Currency Appreciation is a fundamental concept in economics.",
   "explanation": "Learn about Currency Appreciation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "currency-appreciation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

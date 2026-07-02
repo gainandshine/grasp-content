@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-13.topic-10",
   "name": "Natural Selection",
   "subject": "biology",
+  "summary": "Natural Selection is a fundamental concept in biology.",
   "definition": "Natural Selection is a fundamental concept in biology.",
   "explanation": "Learn about Natural Selection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "natural-selection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

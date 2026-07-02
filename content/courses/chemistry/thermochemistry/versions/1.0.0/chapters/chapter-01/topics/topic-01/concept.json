@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-01.topic-01",
   "name": "Energy",
   "subject": "chemistry",
+  "summary": "Energy is a fundamental concept in chemistry.",
   "definition": "Energy is a fundamental concept in chemistry.",
   "explanation": "Learn about Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

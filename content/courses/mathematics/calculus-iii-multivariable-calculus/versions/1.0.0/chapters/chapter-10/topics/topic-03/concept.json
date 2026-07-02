@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-10.topic-03",
   "name": "Conservative Fields",
   "subject": "mathematics",
+  "summary": "Conservative Fields is a fundamental concept in mathematics.",
   "definition": "Conservative Fields is a fundamental concept in mathematics.",
   "explanation": "Learn about Conservative Fields and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "conservative-fields"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

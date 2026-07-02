@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-06.topic-04",
   "name": "Integral Domains",
   "subject": "mathematics",
+  "summary": "Integral Domains is a fundamental concept in mathematics.",
   "definition": "Integral Domains is a fundamental concept in mathematics.",
   "explanation": "Learn about Integral Domains and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "integral-domains"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-10.topic-01",
   "name": "Planet Formation",
   "subject": "physics",
+  "summary": "Planet Formation is a fundamental concept in physics.",
   "definition": "Planet Formation is a fundamental concept in physics.",
   "explanation": "Learn about Planet Formation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "planet-formation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

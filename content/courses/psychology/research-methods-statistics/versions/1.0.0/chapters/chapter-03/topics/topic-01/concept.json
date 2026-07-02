@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-03.topic-01",
   "name": "Independent Variables",
   "subject": "psychology",
+  "summary": "Independent Variables is a fundamental concept in psychology.",
   "definition": "Independent Variables is a fundamental concept in psychology.",
   "explanation": "Learn about Independent Variables and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "independent-variables"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

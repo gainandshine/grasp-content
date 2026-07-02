@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-01.topic-02",
   "name": "Classical vs Quantum Physics",
   "subject": "physics",
+  "summary": "Classical vs Quantum Physics is a fundamental concept in physics.",
   "definition": "Classical vs Quantum Physics is a fundamental concept in physics.",
   "explanation": "Learn about Classical vs Quantum Physics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "classical-vs-quantum-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

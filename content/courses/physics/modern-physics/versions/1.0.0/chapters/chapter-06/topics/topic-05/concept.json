@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-06.topic-05",
   "name": "Quantum Measurement",
   "subject": "physics",
+  "summary": "Quantum Measurement is a fundamental concept in physics.",
   "definition": "Quantum Measurement is a fundamental concept in physics.",
   "explanation": "Learn about Quantum Measurement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "quantum-measurement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

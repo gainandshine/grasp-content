@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-12.topic-03",
   "name": "Carbon Capture",
   "subject": "chemistry",
+  "summary": "Carbon Capture is a fundamental concept in chemistry.",
   "definition": "Carbon Capture is a fundamental concept in chemistry.",
   "explanation": "Learn about Carbon Capture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carbon-capture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

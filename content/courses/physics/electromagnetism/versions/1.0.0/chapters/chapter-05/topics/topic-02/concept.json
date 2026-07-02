@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-05.topic-02",
   "name": "Parallel Circuits",
   "subject": "physics",
+  "summary": "Parallel Circuits is a fundamental concept in physics.",
   "definition": "Parallel Circuits is a fundamental concept in physics.",
   "explanation": "Learn about Parallel Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "parallel-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

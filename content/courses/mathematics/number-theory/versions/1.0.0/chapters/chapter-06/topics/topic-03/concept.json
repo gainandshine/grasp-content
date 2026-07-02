@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-06.topic-03",
   "name": "Divisor Function",
   "subject": "mathematics",
+  "summary": "Divisor Function is a fundamental concept in mathematics.",
   "definition": "Divisor Function is a fundamental concept in mathematics.",
   "explanation": "Learn about Divisor Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "divisor-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-06.topic-06",
   "name": "Maxwell-Boltzmann Distribution",
   "subject": "chemistry",
+  "summary": "Maxwell-Boltzmann Distribution is a fundamental concept in chemistry.",
   "definition": "Maxwell-Boltzmann Distribution is a fundamental concept in chemistry.",
   "explanation": "Learn about Maxwell-Boltzmann Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "maxwell-boltzmann-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

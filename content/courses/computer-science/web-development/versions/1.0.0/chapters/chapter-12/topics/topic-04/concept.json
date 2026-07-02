@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-12.topic-04",
   "name": "SEO Basics",
   "subject": "computer-science",
+  "summary": "SEO Basics is a fundamental concept in computer-science.",
   "definition": "SEO Basics is a fundamental concept in computer-science.",
   "explanation": "Learn about SEO Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "seo-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

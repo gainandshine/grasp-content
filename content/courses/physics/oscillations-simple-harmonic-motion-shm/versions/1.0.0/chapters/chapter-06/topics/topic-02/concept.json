@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-02",
   "name": "Underdamped Motion",
   "subject": "physics",
+  "summary": "Underdamped Motion is a fundamental concept in physics.",
   "definition": "Underdamped Motion is a fundamental concept in physics.",
   "explanation": "Learn about Underdamped Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "underdamped-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

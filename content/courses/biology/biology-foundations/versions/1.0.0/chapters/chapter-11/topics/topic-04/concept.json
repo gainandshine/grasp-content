@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-11.topic-04",
   "name": "Environment",
   "subject": "biology",
+  "summary": "Environment is a fundamental concept in biology.",
   "definition": "Environment is a fundamental concept in biology.",
   "explanation": "Learn about Environment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "environment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

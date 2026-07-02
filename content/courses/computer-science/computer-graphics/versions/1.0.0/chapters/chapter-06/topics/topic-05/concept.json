@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-06.topic-05",
   "name": "Fragment Processing",
   "subject": "computer-science",
+  "summary": "Fragment Processing is a fundamental concept in computer-science.",
   "definition": "Fragment Processing is a fundamental concept in computer-science.",
   "explanation": "Learn about Fragment Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fragment-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

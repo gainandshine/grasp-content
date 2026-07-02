@@ -2,6 +2,7 @@
   "id": "physics.momentum-collisions.chapter-03.topic-05",
   "name": "One-Dimensional Collisions",
   "subject": "physics",
+  "summary": "One-Dimensional Collisions is a fundamental concept in physics.",
   "definition": "One-Dimensional Collisions is a fundamental concept in physics.",
   "explanation": "Learn about One-Dimensional Collisions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "one-dimensional-collisions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-03.topic-03",
   "name": "Extremophiles",
   "subject": "biology",
+  "summary": "Extremophiles is a fundamental concept in biology.",
   "definition": "Extremophiles is a fundamental concept in biology.",
   "explanation": "Learn about Extremophiles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "extremophiles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

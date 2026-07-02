@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-03.topic-05",
   "name": "Force Carriers",
   "subject": "physics",
+  "summary": "Force Carriers is a fundamental concept in physics.",
   "definition": "Force Carriers is a fundamental concept in physics.",
   "explanation": "Learn about Force Carriers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "force-carriers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

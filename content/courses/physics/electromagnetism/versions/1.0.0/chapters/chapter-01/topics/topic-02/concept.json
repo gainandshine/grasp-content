@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-01.topic-02",
   "name": "Coulomb's Law",
   "subject": "physics",
+  "summary": "Coulomb's Law is a fundamental concept in physics.",
   "definition": "Coulomb's Law is a fundamental concept in physics.",
   "explanation": "Learn about Coulomb's Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "coulombs-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

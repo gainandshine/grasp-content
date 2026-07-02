@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-03.topic-03",
   "name": "Multiple Alleles",
   "subject": "biology",
+  "summary": "Multiple Alleles is a fundamental concept in biology.",
   "definition": "Multiple Alleles is a fundamental concept in biology.",
   "explanation": "Learn about Multiple Alleles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "multiple-alleles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

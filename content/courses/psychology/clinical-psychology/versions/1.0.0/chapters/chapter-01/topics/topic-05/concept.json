@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-01.topic-05",
   "name": "Evidence-Based Practice",
   "subject": "psychology",
+  "summary": "Evidence-Based Practice is a fundamental concept in psychology.",
   "definition": "Evidence-Based Practice is a fundamental concept in psychology.",
   "explanation": "Learn about Evidence-Based Practice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "evidence-based-practice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

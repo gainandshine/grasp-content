@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-08.topic-04",
   "name": "Checking Solutions",
   "subject": "mathematics",
+  "summary": "Checking Solutions is a fundamental concept in mathematics.",
   "definition": "Checking Solutions is a fundamental concept in mathematics.",
   "explanation": "Learn about Checking Solutions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "checking-solutions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.modern-physics.chapter-02.topic-03",
   "name": "Time Dilation",
   "subject": "physics",
+  "summary": "Time Dilation is a fundamental concept in physics.",
   "definition": "Time Dilation is a fundamental concept in physics.",
   "explanation": "Learn about Time Dilation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "time-dilation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

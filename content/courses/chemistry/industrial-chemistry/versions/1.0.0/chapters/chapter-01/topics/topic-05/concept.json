@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-01.topic-05",
   "name": "Feedstocks",
   "subject": "chemistry",
+  "summary": "Feedstocks is a fundamental concept in chemistry.",
   "definition": "Feedstocks is a fundamental concept in chemistry.",
   "explanation": "Learn about Feedstocks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "feedstocks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

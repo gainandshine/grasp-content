@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-09.topic-05",
   "name": "Circular Polarization",
   "subject": "physics",
+  "summary": "Circular Polarization is a fundamental concept in physics.",
   "definition": "Circular Polarization is a fundamental concept in physics.",
   "explanation": "Learn about Circular Polarization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "circular-polarization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

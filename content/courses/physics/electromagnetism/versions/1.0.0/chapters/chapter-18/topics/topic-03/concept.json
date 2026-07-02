@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-18.topic-03",
   "name": "Norton's Theorem",
   "subject": "physics",
+  "summary": "Norton's Theorem is a fundamental concept in physics.",
   "definition": "Norton's Theorem is a fundamental concept in physics.",
   "explanation": "Learn about Norton's Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "nortons-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

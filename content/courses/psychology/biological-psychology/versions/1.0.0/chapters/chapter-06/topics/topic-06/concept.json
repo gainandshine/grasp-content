@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-06.topic-06",
   "name": "Sensory Processing",
   "subject": "psychology",
+  "summary": "Sensory Processing is a fundamental concept in psychology.",
   "definition": "Sensory Processing is a fundamental concept in psychology.",
   "explanation": "Learn about Sensory Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "sensory-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

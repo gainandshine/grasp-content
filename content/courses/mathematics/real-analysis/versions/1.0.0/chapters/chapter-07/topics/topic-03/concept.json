@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-07.topic-03",
   "name": "Rolle's Theorem",
   "subject": "mathematics",
+  "summary": "Rolle's Theorem is a fundamental concept in mathematics.",
   "definition": "Rolle's Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Rolle's Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rolles-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

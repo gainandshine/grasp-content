@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-12.topic-07",
   "name": "Organ Transplantation",
   "subject": "biology",
+  "summary": "Organ Transplantation is a fundamental concept in biology.",
   "definition": "Organ Transplantation is a fundamental concept in biology.",
   "explanation": "Learn about Organ Transplantation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "organ-transplantation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

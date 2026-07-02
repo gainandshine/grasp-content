@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-03.topic-01",
   "name": "Sequences",
   "subject": "mathematics",
+  "summary": "Sequences is a fundamental concept in mathematics.",
   "definition": "Sequences is a fundamental concept in mathematics.",
   "explanation": "Learn about Sequences and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sequences"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

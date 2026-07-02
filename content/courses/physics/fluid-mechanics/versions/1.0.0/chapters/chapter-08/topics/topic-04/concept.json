@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-08.topic-04",
   "name": "Soap Films",
   "subject": "physics",
+  "summary": "Soap Films is a fundamental concept in physics.",
   "definition": "Soap Films is a fundamental concept in physics.",
   "explanation": "Learn about Soap Films and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "soap-films"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

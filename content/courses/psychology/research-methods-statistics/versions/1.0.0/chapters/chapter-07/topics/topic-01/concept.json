@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-07.topic-01",
   "name": "Probability",
   "subject": "psychology",
+  "summary": "Probability is a fundamental concept in psychology.",
   "definition": "Probability is a fundamental concept in psychology.",
   "explanation": "Learn about Probability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "probability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

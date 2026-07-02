@@ -2,6 +2,7 @@
   "id": "physics.physics-foundations.chapter-04.topic-05",
   "name": "Direction",
   "subject": "physics",
+  "summary": "Direction is a fundamental concept in physics.",
   "definition": "Direction is a fundamental concept in physics.",
   "explanation": "Learn about Direction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "direction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

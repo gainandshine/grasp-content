@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-01.topic-02",
   "name": "Functions of an Operating System",
   "subject": "computer-science",
+  "summary": "Functions of an Operating System is a fundamental concept in computer-science.",
   "definition": "Functions of an Operating System is a fundamental concept in computer-science.",
   "explanation": "Learn about Functions of an Operating System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "functions-of-an-operating-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

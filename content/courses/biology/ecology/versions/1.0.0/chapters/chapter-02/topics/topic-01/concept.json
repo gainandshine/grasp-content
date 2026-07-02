@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-02.topic-01",
   "name": "Population",
   "subject": "biology",
+  "summary": "Population is a fundamental concept in biology.",
   "definition": "Population is a fundamental concept in biology.",
   "explanation": "Learn about Population and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "population"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

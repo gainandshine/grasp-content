@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-09.topic-05",
   "name": "Climate Ethics",
   "subject": "philosophy",
+  "summary": "Climate Ethics is a fundamental concept in philosophy.",
   "definition": "Climate Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Climate Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "climate-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

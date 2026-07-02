@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-11.topic-03",
   "name": "Protein Sequence Analysis",
   "subject": "biology",
+  "summary": "Protein Sequence Analysis is a fundamental concept in biology.",
   "definition": "Protein Sequence Analysis is a fundamental concept in biology.",
   "explanation": "Learn about Protein Sequence Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "protein-sequence-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

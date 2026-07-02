@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-10.topic-05",
   "name": "Hungarian Algorithm (Introduction)",
   "subject": "mathematics",
+  "summary": "Hungarian Algorithm (Introduction) is a fundamental concept in mathematics.",
   "definition": "Hungarian Algorithm (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Hungarian Algorithm (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "hungarian-algorithm-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

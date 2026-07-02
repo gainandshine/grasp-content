@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-13.topic-01",
   "name": "Endogenous Growth Theory",
   "subject": "economics",
+  "summary": "Endogenous Growth Theory is a fundamental concept in economics.",
   "definition": "Endogenous Growth Theory is a fundamental concept in economics.",
   "explanation": "Learn about Endogenous Growth Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "endogenous-growth-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

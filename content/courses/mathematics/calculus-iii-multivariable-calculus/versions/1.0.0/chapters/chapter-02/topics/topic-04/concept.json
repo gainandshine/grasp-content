@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-02.topic-04",
   "name": "Dot Product",
   "subject": "mathematics",
+  "summary": "Dot Product is a fundamental concept in mathematics.",
   "definition": "Dot Product is a fundamental concept in mathematics.",
   "explanation": "Learn about Dot Product and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "dot-product"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

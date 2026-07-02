@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-11.topic-05",
   "name": "Peer Review",
   "subject": "psychology",
+  "summary": "Peer Review is a fundamental concept in psychology.",
   "definition": "Peer Review is a fundamental concept in psychology.",
   "explanation": "Learn about Peer Review and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "peer-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

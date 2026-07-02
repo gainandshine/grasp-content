@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-14.topic-02",
   "name": "Computer Processors",
   "subject": "physics",
+  "summary": "Computer Processors is a fundamental concept in physics.",
   "definition": "Computer Processors is a fundamental concept in physics.",
   "explanation": "Learn about Computer Processors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "computer-processors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

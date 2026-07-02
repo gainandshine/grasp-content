@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-10.topic-10",
   "name": "Sector Area",
   "subject": "mathematics",
+  "summary": "Sector Area is a fundamental concept in mathematics.",
   "definition": "Sector Area is a fundamental concept in mathematics.",
   "explanation": "Learn about Sector Area and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sector-area"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-09.topic-04",
   "name": "Strategic Pricing",
   "subject": "game-theory",
+  "summary": "Strategic Pricing is a fundamental concept in game-theory.",
   "definition": "Strategic Pricing is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Pricing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-pricing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

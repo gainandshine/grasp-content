@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-03.topic-02",
   "name": "Conscious Mind",
   "subject": "psychology",
+  "summary": "Conscious Mind is a fundamental concept in psychology.",
   "definition": "Conscious Mind is a fundamental concept in psychology.",
   "explanation": "Learn about Conscious Mind and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "conscious-mind"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

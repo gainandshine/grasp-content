@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-13.topic-09",
   "name": "Fitness",
   "subject": "game-theory",
+  "summary": "Fitness is a fundamental concept in game-theory.",
   "definition": "Fitness is a fundamental concept in game-theory.",
   "explanation": "Learn about Fitness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "fitness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

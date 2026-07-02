@@ -2,6 +2,7 @@
   "id": "philosophy.aesthetics.chapter-03.topic-05",
   "name": "Institutional Theory of Art",
   "subject": "philosophy",
+  "summary": "Institutional Theory of Art is a fundamental concept in philosophy.",
   "definition": "Institutional Theory of Art is a fundamental concept in philosophy.",
   "explanation": "Learn about Institutional Theory of Art and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "institutional-theory-of-art"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

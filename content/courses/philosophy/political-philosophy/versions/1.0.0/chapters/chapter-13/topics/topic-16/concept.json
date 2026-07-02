@@ -2,6 +2,7 @@
   "id": "philosophy.political-philosophy.chapter-13.topic-16",
   "name": "Cognitive Science",
   "subject": "philosophy",
+  "summary": "Cognitive Science is a fundamental concept in philosophy.",
   "definition": "Cognitive Science is a fundamental concept in philosophy.",
   "explanation": "Learn about Cognitive Science and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "cognitive-science"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.research-methods-statistics.chapter-03.topic-04",
   "name": "Operational Definitions",
   "subject": "psychology",
+  "summary": "Operational Definitions is a fundamental concept in psychology.",
   "definition": "Operational Definitions is a fundamental concept in psychology.",
   "explanation": "Learn about Operational Definitions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "operational-definitions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

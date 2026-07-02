@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-08.topic-04",
   "name": "Control Rods",
   "subject": "chemistry",
+  "summary": "Control Rods is a fundamental concept in chemistry.",
   "definition": "Control Rods is a fundamental concept in chemistry.",
   "explanation": "Learn about Control Rods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "control-rods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-09.topic-03",
   "name": "Environments",
   "subject": "computer-science",
+  "summary": "Environments is a fundamental concept in computer-science.",
   "definition": "Environments is a fundamental concept in computer-science.",
   "explanation": "Learn about Environments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "environments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

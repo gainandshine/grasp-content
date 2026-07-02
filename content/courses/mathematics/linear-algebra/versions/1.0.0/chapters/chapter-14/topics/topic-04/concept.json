@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-14.topic-04",
   "name": "Image Processing",
   "subject": "mathematics",
+  "summary": "Image Processing is a fundamental concept in mathematics.",
   "definition": "Image Processing is a fundamental concept in mathematics.",
   "explanation": "Learn about Image Processing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "image-processing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

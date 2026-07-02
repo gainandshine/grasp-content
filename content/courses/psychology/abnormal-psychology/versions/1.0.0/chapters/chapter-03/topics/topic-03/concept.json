@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-03.topic-03",
   "name": "Phobias",
   "subject": "psychology",
+  "summary": "Phobias is a fundamental concept in psychology.",
   "definition": "Phobias is a fundamental concept in psychology.",
   "explanation": "Learn about Phobias and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "phobias"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

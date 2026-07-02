@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-13.topic-05",
   "name": "Cognitive Enhancement",
   "subject": "psychology",
+  "summary": "Cognitive Enhancement is a fundamental concept in psychology.",
   "definition": "Cognitive Enhancement is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Enhancement and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-enhancement"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

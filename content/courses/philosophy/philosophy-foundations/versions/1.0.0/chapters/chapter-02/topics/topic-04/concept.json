@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-02.topic-04",
   "name": "Contemporary Philosophy",
   "subject": "philosophy",
+  "summary": "Contemporary Philosophy is a fundamental concept in philosophy.",
   "definition": "Contemporary Philosophy is a fundamental concept in philosophy.",
   "explanation": "Learn about Contemporary Philosophy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "contemporary-philosophy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

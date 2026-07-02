@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-10.topic-04",
   "name": "Finite Subcover Property",
   "subject": "mathematics",
+  "summary": "Finite Subcover Property is a fundamental concept in mathematics.",
   "definition": "Finite Subcover Property is a fundamental concept in mathematics.",
   "explanation": "Learn about Finite Subcover Property and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "finite-subcover-property"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

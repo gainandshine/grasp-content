@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-13.topic-19",
   "name": "Modern Political Philosophy",
   "subject": "philosophy",
+  "summary": "Modern Political Philosophy is a fundamental concept in philosophy.",
   "definition": "Modern Political Philosophy is a fundamental concept in philosophy.",
   "explanation": "Learn about Modern Political Philosophy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "modern-political-philosophy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

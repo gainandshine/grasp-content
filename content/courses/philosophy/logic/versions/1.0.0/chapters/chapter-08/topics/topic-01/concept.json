@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-08.topic-01",
   "name": "Ad Hominem",
   "subject": "philosophy",
+  "summary": "Ad Hominem is a fundamental concept in philosophy.",
   "definition": "Ad Hominem is a fundamental concept in philosophy.",
   "explanation": "Learn about Ad Hominem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "ad-hominem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

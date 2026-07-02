@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-04.topic-05",
   "name": "Kinetic Energy",
   "subject": "physics",
+  "summary": "Kinetic Energy is a fundamental concept in physics.",
   "definition": "Kinetic Energy is a fundamental concept in physics.",
   "explanation": "Learn about Kinetic Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "kinetic-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

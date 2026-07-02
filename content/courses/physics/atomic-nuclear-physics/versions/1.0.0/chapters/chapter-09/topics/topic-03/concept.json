@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-09.topic-03",
   "name": "Moderator",
   "subject": "physics",
+  "summary": "Moderator is a fundamental concept in physics.",
   "definition": "Moderator is a fundamental concept in physics.",
   "explanation": "Learn about Moderator and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "moderator"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

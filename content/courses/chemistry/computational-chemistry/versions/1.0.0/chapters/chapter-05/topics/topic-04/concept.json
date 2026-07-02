@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-05.topic-04",
   "name": "Basis Sets",
   "subject": "chemistry",
+  "summary": "Basis Sets is a fundamental concept in chemistry.",
   "definition": "Basis Sets is a fundamental concept in chemistry.",
   "explanation": "Learn about Basis Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "basis-sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

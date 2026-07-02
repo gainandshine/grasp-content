@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-04.topic-02",
   "name": "Gas Pressure",
   "subject": "chemistry",
+  "summary": "Gas Pressure is a fundamental concept in chemistry.",
   "definition": "Gas Pressure is a fundamental concept in chemistry.",
   "explanation": "Learn about Gas Pressure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "gas-pressure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-12.topic-04",
   "name": "Cobalt in Vitamin B12",
   "subject": "chemistry",
+  "summary": "Cobalt in Vitamin B12 is a fundamental concept in chemistry.",
   "definition": "Cobalt in Vitamin B12 is a fundamental concept in chemistry.",
   "explanation": "Learn about Cobalt in Vitamin B12 and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "cobalt-in-vitamin-b12"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

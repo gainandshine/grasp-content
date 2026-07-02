@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-01.topic-03",
   "name": "One-Sided Limits",
   "subject": "mathematics",
+  "summary": "One-Sided Limits is a fundamental concept in mathematics.",
   "definition": "One-Sided Limits is a fundamental concept in mathematics.",
   "explanation": "Learn about One-Sided Limits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "one-sided-limits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

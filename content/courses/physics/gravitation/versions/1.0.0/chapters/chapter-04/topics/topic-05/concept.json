@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-04.topic-05",
   "name": "Gravity on Other Planets",
   "subject": "physics",
+  "summary": "Gravity on Other Planets is a fundamental concept in physics.",
   "definition": "Gravity on Other Planets is a fundamental concept in physics.",
   "explanation": "Learn about Gravity on Other Planets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gravity-on-other-planets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-12.topic-01",
   "name": "Analytic Philosophy",
   "subject": "philosophy",
+  "summary": "Analytic Philosophy is a fundamental concept in philosophy.",
   "definition": "Analytic Philosophy is a fundamental concept in philosophy.",
   "explanation": "Learn about Analytic Philosophy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "analytic-philosophy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

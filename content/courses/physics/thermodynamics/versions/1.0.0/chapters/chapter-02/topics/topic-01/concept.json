@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-02.topic-01",
   "name": "Linear Expansion",
   "subject": "physics",
+  "summary": "Linear Expansion is a fundamental concept in physics.",
   "definition": "Linear Expansion is a fundamental concept in physics.",
   "explanation": "Learn about Linear Expansion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "linear-expansion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-01.topic-06",
   "name": "Importance of Biology",
   "subject": "biology",
+  "summary": "Importance of Biology is a fundamental concept in biology.",
   "definition": "Importance of Biology is a fundamental concept in biology.",
   "explanation": "Learn about Importance of Biology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "importance-of-biology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

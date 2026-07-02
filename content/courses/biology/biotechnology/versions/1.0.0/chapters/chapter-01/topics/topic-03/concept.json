@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-01.topic-03",
   "name": "Branches of Biotechnology",
   "subject": "biology",
+  "summary": "Branches of Biotechnology is a fundamental concept in biology.",
   "definition": "Branches of Biotechnology is a fundamental concept in biology.",
   "explanation": "Learn about Branches of Biotechnology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "branches-of-biotechnology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

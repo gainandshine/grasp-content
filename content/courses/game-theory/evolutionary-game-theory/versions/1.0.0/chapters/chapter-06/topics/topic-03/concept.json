@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-06.topic-03",
   "name": "Territorial Behavior",
   "subject": "game-theory",
+  "summary": "Territorial Behavior is a fundamental concept in game-theory.",
   "definition": "Territorial Behavior is a fundamental concept in game-theory.",
   "explanation": "Learn about Territorial Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "territorial-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

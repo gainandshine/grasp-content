@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-05.topic-06",
   "name": "Long-Term Growth",
   "subject": "economics",
+  "summary": "Long-Term Growth is a fundamental concept in economics.",
   "definition": "Long-Term Growth is a fundamental concept in economics.",
   "explanation": "Learn about Long-Term Growth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "long-term-growth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

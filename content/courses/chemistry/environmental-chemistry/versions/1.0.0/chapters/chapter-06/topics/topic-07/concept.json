@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-06.topic-07",
   "name": "Reverse Osmosis",
   "subject": "chemistry",
+  "summary": "Reverse Osmosis is a fundamental concept in chemistry.",
   "definition": "Reverse Osmosis is a fundamental concept in chemistry.",
   "explanation": "Learn about Reverse Osmosis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "reverse-osmosis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

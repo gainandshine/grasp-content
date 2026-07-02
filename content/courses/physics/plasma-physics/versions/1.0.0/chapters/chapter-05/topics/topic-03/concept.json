@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-05.topic-03",
   "name": "Langmuir Waves",
   "subject": "physics",
+  "summary": "Langmuir Waves is a fundamental concept in physics.",
   "definition": "Langmuir Waves is a fundamental concept in physics.",
   "explanation": "Learn about Langmuir Waves and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "langmuir-waves"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-03.topic-03",
   "name": "Chemical Properties",
   "subject": "chemistry",
+  "summary": "Chemical Properties is a fundamental concept in chemistry.",
   "definition": "Chemical Properties is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Properties and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-properties"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

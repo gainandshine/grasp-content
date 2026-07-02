@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-03.topic-03",
   "name": "Constant Multiple Rule",
   "subject": "mathematics",
+  "summary": "Constant Multiple Rule is a fundamental concept in mathematics.",
   "definition": "Constant Multiple Rule is a fundamental concept in mathematics.",
   "explanation": "Learn about Constant Multiple Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "constant-multiple-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-13.topic-16",
   "name": "Autoimmune Diseases",
   "subject": "biology",
+  "summary": "Autoimmune Diseases is a fundamental concept in biology.",
   "definition": "Autoimmune Diseases is a fundamental concept in biology.",
   "explanation": "Learn about Autoimmune Diseases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "autoimmune-diseases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-10.topic-02",
   "name": "Foreign Direct Investment (FDI)",
   "subject": "economics",
+  "summary": "Foreign Direct Investment (FDI) is a fundamental concept in economics.",
   "definition": "Foreign Direct Investment (FDI) is a fundamental concept in economics.",
   "explanation": "Learn about Foreign Direct Investment (FDI) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "foreign-direct-investment-fdi"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

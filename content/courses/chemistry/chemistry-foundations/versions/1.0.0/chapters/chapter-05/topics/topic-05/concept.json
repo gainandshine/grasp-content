@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-05.topic-05",
   "name": "Bose-Einstein Condensate (Introduction)",
   "subject": "chemistry",
+  "summary": "Bose-Einstein Condensate (Introduction) is a fundamental concept in chemistry.",
   "definition": "Bose-Einstein Condensate (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Bose-Einstein Condensate (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "bose-einstein-condensate-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

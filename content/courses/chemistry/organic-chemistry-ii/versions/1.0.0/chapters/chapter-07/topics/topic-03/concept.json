@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-07.topic-03",
   "name": "Preparation",
   "subject": "chemistry",
+  "summary": "Preparation is a fundamental concept in chemistry.",
   "definition": "Preparation is a fundamental concept in chemistry.",
   "explanation": "Learn about Preparation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "preparation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

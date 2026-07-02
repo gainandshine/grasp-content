@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-06.topic-02",
   "name": "Diamagnetism",
   "subject": "chemistry",
+  "summary": "Diamagnetism is a fundamental concept in chemistry.",
   "definition": "Diamagnetism is a fundamental concept in chemistry.",
   "explanation": "Learn about Diamagnetism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "diamagnetism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-03.topic-03",
   "name": "Dielectrics",
   "subject": "physics",
+  "summary": "Dielectrics is a fundamental concept in physics.",
   "definition": "Dielectrics is a fundamental concept in physics.",
   "explanation": "Learn about Dielectrics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "dielectrics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

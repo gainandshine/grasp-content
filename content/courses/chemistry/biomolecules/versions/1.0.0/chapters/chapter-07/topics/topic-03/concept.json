@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-07.topic-03",
   "name": "RNA Structure",
   "subject": "chemistry",
+  "summary": "RNA Structure is a fundamental concept in chemistry.",
   "definition": "RNA Structure is a fundamental concept in chemistry.",
   "explanation": "Learn about RNA Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "rna-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

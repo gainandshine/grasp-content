@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-05.topic-05",
   "name": "Prime Editing",
   "subject": "biology",
+  "summary": "Prime Editing is a fundamental concept in biology.",
   "definition": "Prime Editing is a fundamental concept in biology.",
   "explanation": "Learn about Prime Editing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "prime-editing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

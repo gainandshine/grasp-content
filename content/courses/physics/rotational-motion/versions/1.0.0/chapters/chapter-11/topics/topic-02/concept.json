@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-11.topic-02",
   "name": "Gears",
   "subject": "physics",
+  "summary": "Gears is a fundamental concept in physics.",
   "definition": "Gears is a fundamental concept in physics.",
   "explanation": "Learn about Gears and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "gears"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

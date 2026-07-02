@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-06.topic-02",
   "name": "Auditory System",
   "subject": "psychology",
+  "summary": "Auditory System is a fundamental concept in psychology.",
   "definition": "Auditory System is a fundamental concept in psychology.",
   "explanation": "Learn about Auditory System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "auditory-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

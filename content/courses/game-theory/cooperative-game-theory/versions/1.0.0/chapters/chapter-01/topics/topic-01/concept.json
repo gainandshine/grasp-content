@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-01.topic-01",
   "name": "What is Cooperative Game Theory?",
   "subject": "game-theory",
+  "summary": "What is Cooperative Game Theory? is a fundamental concept in game-theory.",
   "definition": "What is Cooperative Game Theory? is a fundamental concept in game-theory.",
   "explanation": "Learn about What is Cooperative Game Theory? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "what-is-cooperative-game-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-12.topic-04",
   "name": "Fine-Tuning",
   "subject": "computer-science",
+  "summary": "Fine-Tuning is a fundamental concept in computer-science.",
   "definition": "Fine-Tuning is a fundamental concept in computer-science.",
   "explanation": "Learn about Fine-Tuning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "fine-tuning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

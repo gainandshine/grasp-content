@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-08.topic-04",
   "name": "Practice",
   "subject": "psychology",
+  "summary": "Practice is a fundamental concept in psychology.",
   "definition": "Practice is a fundamental concept in psychology.",
   "explanation": "Learn about Practice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "practice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

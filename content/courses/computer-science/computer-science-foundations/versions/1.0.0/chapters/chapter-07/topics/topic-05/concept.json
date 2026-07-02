@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-07.topic-05",
   "name": "Conditions",
   "subject": "computer-science",
+  "summary": "Conditions is a fundamental concept in computer-science.",
   "definition": "Conditions is a fundamental concept in computer-science.",
   "explanation": "Learn about Conditions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "conditions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

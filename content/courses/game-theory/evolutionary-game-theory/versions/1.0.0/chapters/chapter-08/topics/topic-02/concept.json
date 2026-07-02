@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-08.topic-02",
   "name": "Random Matching",
   "subject": "game-theory",
+  "summary": "Random Matching is a fundamental concept in game-theory.",
   "definition": "Random Matching is a fundamental concept in game-theory.",
   "explanation": "Learn about Random Matching and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "random-matching"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

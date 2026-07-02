@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-12.topic-05",
   "name": "Software Tools",
   "subject": "game-theory",
+  "summary": "Software Tools is a fundamental concept in game-theory.",
   "definition": "Software Tools is a fundamental concept in game-theory.",
   "explanation": "Learn about Software Tools and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "software-tools"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

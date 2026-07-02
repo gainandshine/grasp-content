@@ -2,6 +2,7 @@
   "id": "economics.behavioral-economics.chapter-07.topic-02",
   "name": "Reciprocity",
   "subject": "economics",
+  "summary": "Reciprocity is a fundamental concept in economics.",
   "definition": "Reciprocity is a fundamental concept in economics.",
   "explanation": "Learn about Reciprocity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "reciprocity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

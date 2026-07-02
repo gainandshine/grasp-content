@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-10.topic-04",
   "name": "Rotating Frames (Introduction)",
   "subject": "physics",
+  "summary": "Rotating Frames (Introduction) is a fundamental concept in physics.",
   "definition": "Rotating Frames (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Rotating Frames (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rotating-frames-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

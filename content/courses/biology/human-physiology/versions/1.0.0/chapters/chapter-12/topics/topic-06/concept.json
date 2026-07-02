@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-12.topic-06",
   "name": "Stress Physiology",
   "subject": "biology",
+  "summary": "Stress Physiology is a fundamental concept in biology.",
   "definition": "Stress Physiology is a fundamental concept in biology.",
   "explanation": "Learn about Stress Physiology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "stress-physiology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

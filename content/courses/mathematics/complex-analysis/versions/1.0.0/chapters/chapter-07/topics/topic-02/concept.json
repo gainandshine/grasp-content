@@ -2,6 +2,7 @@
   "id": "mathematics.complex-analysis.chapter-07.topic-02",
   "name": "Laurent Series",
   "subject": "mathematics",
+  "summary": "Laurent Series is a fundamental concept in mathematics.",
   "definition": "Laurent Series is a fundamental concept in mathematics.",
   "explanation": "Learn about Laurent Series and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "laurent-series"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-07.topic-03",
   "name": "Memoization",
   "subject": "computer-science",
+  "summary": "Memoization is a fundamental concept in computer-science.",
   "definition": "Memoization is a fundamental concept in computer-science.",
   "explanation": "Learn about Memoization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "memoization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-05.topic-03",
   "name": "Trade Negotiations",
   "subject": "game-theory",
+  "summary": "Trade Negotiations is a fundamental concept in game-theory.",
   "definition": "Trade Negotiations is a fundamental concept in game-theory.",
   "explanation": "Learn about Trade Negotiations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "trade-negotiations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

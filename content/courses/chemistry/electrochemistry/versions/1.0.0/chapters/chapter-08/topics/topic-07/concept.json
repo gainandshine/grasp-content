@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-08.topic-07",
   "name": "Hydrogen Fuel Cells",
   "subject": "chemistry",
+  "summary": "Hydrogen Fuel Cells is a fundamental concept in chemistry.",
   "definition": "Hydrogen Fuel Cells is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrogen Fuel Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrogen-fuel-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

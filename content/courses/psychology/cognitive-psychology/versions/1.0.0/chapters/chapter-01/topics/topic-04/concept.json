@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-01.topic-04",
   "name": "Cognitive Architecture",
   "subject": "psychology",
+  "summary": "Cognitive Architecture is a fundamental concept in psychology.",
   "definition": "Cognitive Architecture is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Architecture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-architecture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

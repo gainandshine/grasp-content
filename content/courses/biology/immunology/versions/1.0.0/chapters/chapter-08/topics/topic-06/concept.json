@@ -2,6 +2,7 @@
   "id": "biology.immunology.chapter-08.topic-06",
   "name": "Vaccine Development",
   "subject": "biology",
+  "summary": "Vaccine Development is a fundamental concept in biology.",
   "definition": "Vaccine Development is a fundamental concept in biology.",
   "explanation": "Learn about Vaccine Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "vaccine-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

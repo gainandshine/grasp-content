@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-03.topic-02",
   "name": "Auditory Perception",
   "subject": "psychology",
+  "summary": "Auditory Perception is a fundamental concept in psychology.",
   "definition": "Auditory Perception is a fundamental concept in psychology.",
   "explanation": "Learn about Auditory Perception and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "auditory-perception"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

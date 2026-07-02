@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-05.topic-03",
   "name": "Genome Editing",
   "subject": "biology",
+  "summary": "Genome Editing is a fundamental concept in biology.",
   "definition": "Genome Editing is a fundamental concept in biology.",
   "explanation": "Learn about Genome Editing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genome-editing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

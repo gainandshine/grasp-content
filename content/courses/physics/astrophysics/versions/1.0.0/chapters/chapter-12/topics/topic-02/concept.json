@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-12.topic-02",
   "name": "Satellite Astronomy",
   "subject": "physics",
+  "summary": "Satellite Astronomy is a fundamental concept in physics.",
   "definition": "Satellite Astronomy is a fundamental concept in physics.",
   "explanation": "Learn about Satellite Astronomy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "satellite-astronomy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

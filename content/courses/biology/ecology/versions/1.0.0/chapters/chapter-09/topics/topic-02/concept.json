@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-09.topic-02",
   "name": "Climate Change",
   "subject": "biology",
+  "summary": "Climate Change is a fundamental concept in biology.",
   "definition": "Climate Change is a fundamental concept in biology.",
   "explanation": "Learn about Climate Change and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "climate-change"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

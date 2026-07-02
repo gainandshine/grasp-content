@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-03.topic-06",
   "name": "Lysosomes",
   "subject": "biology",
+  "summary": "Lysosomes is a fundamental concept in biology.",
   "definition": "Lysosomes is a fundamental concept in biology.",
   "explanation": "Learn about Lysosomes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "lysosomes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

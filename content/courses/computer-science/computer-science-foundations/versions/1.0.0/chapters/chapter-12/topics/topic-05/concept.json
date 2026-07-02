@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-12.topic-05",
   "name": "Quantum Computing",
   "subject": "computer-science",
+  "summary": "Quantum Computing is a fundamental concept in computer-science.",
   "definition": "Quantum Computing is a fundamental concept in computer-science.",
   "explanation": "Learn about Quantum Computing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "quantum-computing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

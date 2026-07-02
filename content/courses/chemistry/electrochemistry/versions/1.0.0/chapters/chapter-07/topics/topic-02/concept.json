@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-07.topic-02",
   "name": "Electrolysis Principles",
   "subject": "chemistry",
+  "summary": "Electrolysis Principles is a fundamental concept in chemistry.",
   "definition": "Electrolysis Principles is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrolysis Principles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrolysis-principles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

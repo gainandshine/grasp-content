@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-03.topic-07",
   "name": "App Configuration",
   "subject": "computer-science",
+  "summary": "App Configuration is a fundamental concept in computer-science.",
   "definition": "App Configuration is a fundamental concept in computer-science.",
   "explanation": "Learn about App Configuration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "app-configuration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

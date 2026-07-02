@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-09.topic-03",
   "name": "Chemical Hazards",
   "subject": "chemistry",
+  "summary": "Chemical Hazards is a fundamental concept in chemistry.",
   "definition": "Chemical Hazards is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Hazards and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-hazards"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

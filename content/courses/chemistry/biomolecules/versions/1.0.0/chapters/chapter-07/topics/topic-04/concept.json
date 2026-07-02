@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-07.topic-04",
   "name": "DNA Replication",
   "subject": "chemistry",
+  "summary": "DNA Replication is a fundamental concept in chemistry.",
   "definition": "DNA Replication is a fundamental concept in chemistry.",
   "explanation": "Learn about DNA Replication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "dna-replication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

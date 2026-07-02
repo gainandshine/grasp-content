@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-22",
   "name": "Quality Control",
   "subject": "chemistry",
+  "summary": "Quality Control is a fundamental concept in chemistry.",
   "definition": "Quality Control is a fundamental concept in chemistry.",
   "explanation": "Learn about Quality Control and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "quality-control"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

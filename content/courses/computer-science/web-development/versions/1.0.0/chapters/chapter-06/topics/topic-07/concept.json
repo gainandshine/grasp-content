@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-06.topic-07",
   "name": "Frontend Frameworks (Introduction)",
   "subject": "computer-science",
+  "summary": "Frontend Frameworks (Introduction) is a fundamental concept in computer-science.",
   "definition": "Frontend Frameworks (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Frontend Frameworks (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "frontend-frameworks-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

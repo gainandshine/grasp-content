@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-12.topic-13",
   "name": "Carboxylic Acids",
   "subject": "chemistry",
+  "summary": "Carboxylic Acids is a fundamental concept in chemistry.",
   "definition": "Carboxylic Acids is a fundamental concept in chemistry.",
   "explanation": "Learn about Carboxylic Acids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "carboxylic-acids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

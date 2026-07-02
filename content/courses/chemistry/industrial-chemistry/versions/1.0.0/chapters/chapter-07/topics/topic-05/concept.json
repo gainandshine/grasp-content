@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-07.topic-05",
   "name": "Construction Chemicals",
   "subject": "chemistry",
+  "summary": "Construction Chemicals is a fundamental concept in chemistry.",
   "definition": "Construction Chemicals is a fundamental concept in chemistry.",
   "explanation": "Learn about Construction Chemicals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "construction-chemicals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

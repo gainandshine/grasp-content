@@ -2,6 +2,7 @@
   "id": "physics.waves-sound.chapter-02.topic-01",
   "name": "Wavelength",
   "subject": "physics",
+  "summary": "Wavelength is a fundamental concept in physics.",
   "definition": "Wavelength is a fundamental concept in physics.",
   "explanation": "Learn about Wavelength and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "wavelength"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

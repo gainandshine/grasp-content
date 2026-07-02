@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-07.topic-04",
   "name": "Locking",
   "subject": "computer-science",
+  "summary": "Locking is a fundamental concept in computer-science.",
   "definition": "Locking is a fundamental concept in computer-science.",
   "explanation": "Learn about Locking and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "locking"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

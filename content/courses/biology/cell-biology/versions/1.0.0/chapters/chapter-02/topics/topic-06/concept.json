@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-02.topic-06",
   "name": "Membrane Cholesterol",
   "subject": "biology",
+  "summary": "Membrane Cholesterol is a fundamental concept in biology.",
   "definition": "Membrane Cholesterol is a fundamental concept in biology.",
   "explanation": "Learn about Membrane Cholesterol and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "membrane-cholesterol"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

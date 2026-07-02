@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-02.topic-07",
   "name": "Chromatin",
   "subject": "biology",
+  "summary": "Chromatin is a fundamental concept in biology.",
   "definition": "Chromatin is a fundamental concept in biology.",
   "explanation": "Learn about Chromatin and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "chromatin"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

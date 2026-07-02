@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-13.topic-13",
   "name": "Normalization",
   "subject": "computer-science",
+  "summary": "Normalization is a fundamental concept in computer-science.",
   "definition": "Normalization is a fundamental concept in computer-science.",
   "explanation": "Learn about Normalization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "normalization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

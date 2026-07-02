@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-06.topic-06",
   "name": "Virtual Memory",
   "subject": "computer-science",
+  "summary": "Virtual Memory is a fundamental concept in computer-science.",
   "definition": "Virtual Memory is a fundamental concept in computer-science.",
   "explanation": "Learn about Virtual Memory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "virtual-memory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-12.topic-01",
   "name": "Polar Form",
   "subject": "mathematics",
+  "summary": "Polar Form is a fundamental concept in mathematics.",
   "definition": "Polar Form is a fundamental concept in mathematics.",
   "explanation": "Learn about Polar Form and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "polar-form"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-02.topic-03",
   "name": "Natural Selection",
   "subject": "game-theory",
+  "summary": "Natural Selection is a fundamental concept in game-theory.",
   "definition": "Natural Selection is a fundamental concept in game-theory.",
   "explanation": "Learn about Natural Selection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "natural-selection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

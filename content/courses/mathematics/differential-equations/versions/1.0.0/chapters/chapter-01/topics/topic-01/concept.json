@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-01.topic-01",
   "name": "What is a Differential Equation?",
   "subject": "mathematics",
+  "summary": "What is a Differential Equation? is a fundamental concept in mathematics.",
   "definition": "What is a Differential Equation? is a fundamental concept in mathematics.",
   "explanation": "Learn about What is a Differential Equation? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "what-is-a-differential-equation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

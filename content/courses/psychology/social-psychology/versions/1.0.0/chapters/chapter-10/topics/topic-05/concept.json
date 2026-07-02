@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-10.topic-05",
   "name": "Implicit Bias",
   "subject": "psychology",
+  "summary": "Implicit Bias is a fundamental concept in psychology.",
   "definition": "Implicit Bias is a fundamental concept in psychology.",
   "explanation": "Learn about Implicit Bias and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "implicit-bias"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

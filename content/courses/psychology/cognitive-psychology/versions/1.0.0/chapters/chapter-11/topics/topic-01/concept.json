@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-11.topic-01",
   "name": "Brain Regions",
   "subject": "psychology",
+  "summary": "Brain Regions is a fundamental concept in psychology.",
   "definition": "Brain Regions is a fundamental concept in psychology.",
   "explanation": "Learn about Brain Regions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "brain-regions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

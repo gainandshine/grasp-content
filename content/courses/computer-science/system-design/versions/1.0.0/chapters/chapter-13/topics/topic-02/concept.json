@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-02",
   "name": "Cost Optimization",
   "subject": "computer-science",
+  "summary": "Cost Optimization is a fundamental concept in computer-science.",
   "definition": "Cost Optimization is a fundamental concept in computer-science.",
   "explanation": "Learn about Cost Optimization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cost-optimization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-05.topic-05",
   "name": "Combined Gas Law",
   "subject": "chemistry",
+  "summary": "Combined Gas Law is a fundamental concept in chemistry.",
   "definition": "Combined Gas Law is a fundamental concept in chemistry.",
   "explanation": "Learn about Combined Gas Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "combined-gas-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

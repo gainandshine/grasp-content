@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-05.topic-04",
   "name": "Method Overriding",
   "subject": "computer-science",
+  "summary": "Method Overriding is a fundamental concept in computer-science.",
   "definition": "Method Overriding is a fundamental concept in computer-science.",
   "explanation": "Learn about Method Overriding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "method-overriding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

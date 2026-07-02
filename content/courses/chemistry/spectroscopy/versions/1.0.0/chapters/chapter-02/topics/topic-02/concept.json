@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-02.topic-02",
   "name": "Line Spectra",
   "subject": "chemistry",
+  "summary": "Line Spectra is a fundamental concept in chemistry.",
   "definition": "Line Spectra is a fundamental concept in chemistry.",
   "explanation": "Learn about Line Spectra and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "line-spectra"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-06.topic-04",
   "name": "Even-Odd Identities",
   "subject": "mathematics",
+  "summary": "Even-Odd Identities is a fundamental concept in mathematics.",
   "definition": "Even-Odd Identities is a fundamental concept in mathematics.",
   "explanation": "Learn about Even-Odd Identities and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "even-odd-identities"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-13.topic-13",
   "name": "Evolutionary Mechanisms",
   "subject": "biology",
+  "summary": "Evolutionary Mechanisms is a fundamental concept in biology.",
   "definition": "Evolutionary Mechanisms is a fundamental concept in biology.",
   "explanation": "Learn about Evolutionary Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "evolutionary-mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

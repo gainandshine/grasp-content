@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-02.topic-04",
   "name": "Feature Scaling",
   "subject": "computer-science",
+  "summary": "Feature Scaling is a fundamental concept in computer-science.",
   "definition": "Feature Scaling is a fundamental concept in computer-science.",
   "explanation": "Learn about Feature Scaling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "feature-scaling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

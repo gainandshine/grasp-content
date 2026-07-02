@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-02.topic-01",
   "name": "Preference Orderings",
   "subject": "game-theory",
+  "summary": "Preference Orderings is a fundamental concept in game-theory.",
   "definition": "Preference Orderings is a fundamental concept in game-theory.",
   "explanation": "Learn about Preference Orderings and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "preference-orderings"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-02.topic-03",
   "name": "Chain-Growth Polymerization",
   "subject": "chemistry",
+  "summary": "Chain-Growth Polymerization is a fundamental concept in chemistry.",
   "definition": "Chain-Growth Polymerization is a fundamental concept in chemistry.",
   "explanation": "Learn about Chain-Growth Polymerization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chain-growth-polymerization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

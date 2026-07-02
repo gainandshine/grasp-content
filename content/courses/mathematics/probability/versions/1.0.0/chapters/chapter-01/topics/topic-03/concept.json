@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-01.topic-03",
   "name": "Events",
   "subject": "mathematics",
+  "summary": "Events is a fundamental concept in mathematics.",
   "definition": "Events is a fundamental concept in mathematics.",
   "explanation": "Learn about Events and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "events"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

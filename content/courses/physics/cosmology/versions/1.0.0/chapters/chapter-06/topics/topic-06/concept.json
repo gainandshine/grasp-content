@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-06.topic-06",
   "name": "Detection Experiments",
   "subject": "physics",
+  "summary": "Detection Experiments is a fundamental concept in physics.",
   "definition": "Detection Experiments is a fundamental concept in physics.",
   "explanation": "Learn about Detection Experiments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "detection-experiments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

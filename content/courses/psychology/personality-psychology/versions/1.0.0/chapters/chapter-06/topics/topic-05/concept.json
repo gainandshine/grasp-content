@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-06.topic-05",
   "name": "Evolutionary Psychology",
   "subject": "psychology",
+  "summary": "Evolutionary Psychology is a fundamental concept in psychology.",
   "definition": "Evolutionary Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about Evolutionary Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "evolutionary-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

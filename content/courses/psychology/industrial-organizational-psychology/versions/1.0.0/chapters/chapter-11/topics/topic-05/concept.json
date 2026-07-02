@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-11.topic-05",
   "name": "Safety",
   "subject": "psychology",
+  "summary": "Safety is a fundamental concept in psychology.",
   "definition": "Safety is a fundamental concept in psychology.",
   "explanation": "Learn about Safety and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "safety"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

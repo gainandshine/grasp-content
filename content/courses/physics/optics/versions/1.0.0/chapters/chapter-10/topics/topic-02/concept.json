@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-10.topic-02",
   "name": "Laser Principle",
   "subject": "physics",
+  "summary": "Laser Principle is a fundamental concept in physics.",
   "definition": "Laser Principle is a fundamental concept in physics.",
   "explanation": "Learn about Laser Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "laser-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

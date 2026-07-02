@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-12.topic-16",
   "name": "Heterocyclic Compounds",
   "subject": "chemistry",
+  "summary": "Heterocyclic Compounds is a fundamental concept in chemistry.",
   "definition": "Heterocyclic Compounds is a fundamental concept in chemistry.",
   "explanation": "Learn about Heterocyclic Compounds and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "heterocyclic-compounds"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

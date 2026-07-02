@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-09.topic-02",
   "name": "Inflationary Models",
   "subject": "physics",
+  "summary": "Inflationary Models is a fundamental concept in physics.",
   "definition": "Inflationary Models is a fundamental concept in physics.",
   "explanation": "Learn about Inflationary Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "inflationary-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

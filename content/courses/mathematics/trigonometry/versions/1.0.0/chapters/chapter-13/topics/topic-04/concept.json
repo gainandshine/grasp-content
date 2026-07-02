@@ -2,6 +2,7 @@
   "id": "mathematics.trigonometry.chapter-13.topic-04",
   "name": "Circular Motion",
   "subject": "mathematics",
+  "summary": "Circular Motion is a fundamental concept in mathematics.",
   "definition": "Circular Motion is a fundamental concept in mathematics.",
   "explanation": "Learn about Circular Motion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "circular-motion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

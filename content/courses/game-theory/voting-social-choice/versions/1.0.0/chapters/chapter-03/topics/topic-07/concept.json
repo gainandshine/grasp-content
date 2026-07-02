@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-03.topic-07",
   "name": "Proportional Representation",
   "subject": "game-theory",
+  "summary": "Proportional Representation is a fundamental concept in game-theory.",
   "definition": "Proportional Representation is a fundamental concept in game-theory.",
   "explanation": "Learn about Proportional Representation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "proportional-representation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

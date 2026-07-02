@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-01.topic-01",
   "name": "What is a Graph?",
   "subject": "mathematics",
+  "summary": "What is a Graph? is a fundamental concept in mathematics.",
   "definition": "What is a Graph? is a fundamental concept in mathematics.",
   "explanation": "Learn about What is a Graph? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "what-is-a-graph"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

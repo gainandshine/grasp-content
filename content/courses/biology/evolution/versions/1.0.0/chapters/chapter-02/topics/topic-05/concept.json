@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-02.topic-05",
   "name": "Fitness",
   "subject": "biology",
+  "summary": "Fitness is a fundamental concept in biology.",
   "definition": "Fitness is a fundamental concept in biology.",
   "explanation": "Learn about Fitness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "fitness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

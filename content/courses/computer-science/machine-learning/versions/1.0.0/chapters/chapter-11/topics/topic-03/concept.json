@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-11.topic-03",
   "name": "Versioning",
   "subject": "computer-science",
+  "summary": "Versioning is a fundamental concept in computer-science.",
   "definition": "Versioning is a fundamental concept in computer-science.",
   "explanation": "Learn about Versioning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "versioning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

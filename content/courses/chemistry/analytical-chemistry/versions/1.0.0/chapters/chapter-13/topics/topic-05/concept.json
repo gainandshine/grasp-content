@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-13.topic-05",
   "name": "Artificial Intelligence in Chemical Analysis",
   "subject": "chemistry",
+  "summary": "Artificial Intelligence in Chemical Analysis is a fundamental concept in chemistry.",
   "definition": "Artificial Intelligence in Chemical Analysis is a fundamental concept in chemistry.",
   "explanation": "Learn about Artificial Intelligence in Chemical Analysis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "artificial-intelligence-in-chemical-analysis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

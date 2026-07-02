@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-03.topic-04",
   "name": "UPDATE",
   "subject": "computer-science",
+  "summary": "UPDATE is a fundamental concept in computer-science.",
   "definition": "UPDATE is a fundamental concept in computer-science.",
   "explanation": "Learn about UPDATE and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "update"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-02.topic-06",
   "name": "Collective Rationality",
   "subject": "game-theory",
+  "summary": "Collective Rationality is a fundamental concept in game-theory.",
   "definition": "Collective Rationality is a fundamental concept in game-theory.",
   "explanation": "Learn about Collective Rationality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "collective-rationality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

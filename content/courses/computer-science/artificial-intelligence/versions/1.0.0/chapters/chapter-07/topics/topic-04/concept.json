@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-07.topic-04",
   "name": "Scheduling",
   "subject": "computer-science",
+  "summary": "Scheduling is a fundamental concept in computer-science.",
   "definition": "Scheduling is a fundamental concept in computer-science.",
   "explanation": "Learn about Scheduling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scheduling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

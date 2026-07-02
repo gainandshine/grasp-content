@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-02",
   "name": "Natural Frequency",
   "subject": "physics",
+  "summary": "Natural Frequency is a fundamental concept in physics.",
   "definition": "Natural Frequency is a fundamental concept in physics.",
   "explanation": "Learn about Natural Frequency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "natural-frequency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

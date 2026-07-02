@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-05.topic-02",
   "name": "ER Diagrams",
   "subject": "computer-science",
+  "summary": "ER Diagrams is a fundamental concept in computer-science.",
   "definition": "ER Diagrams is a fundamental concept in computer-science.",
   "explanation": "Learn about ER Diagrams and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "er-diagrams"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

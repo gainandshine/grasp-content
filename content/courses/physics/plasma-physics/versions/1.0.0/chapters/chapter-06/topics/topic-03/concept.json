@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-06.topic-03",
   "name": "Kelvin–Helmholtz Instability",
   "subject": "physics",
+  "summary": "Kelvin–Helmholtz Instability is a fundamental concept in physics.",
   "definition": "Kelvin–Helmholtz Instability is a fundamental concept in physics.",
   "explanation": "Learn about Kelvin–Helmholtz Instability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "kelvinhelmholtz-instability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

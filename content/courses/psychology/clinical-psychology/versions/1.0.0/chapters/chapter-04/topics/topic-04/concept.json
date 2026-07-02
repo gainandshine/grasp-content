@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-04.topic-04",
   "name": "Treatment Planning",
   "subject": "psychology",
+  "summary": "Treatment Planning is a fundamental concept in psychology.",
   "definition": "Treatment Planning is a fundamental concept in psychology.",
   "explanation": "Learn about Treatment Planning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "treatment-planning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

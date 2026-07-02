@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-02.topic-02",
   "name": "Semantic HTML",
   "subject": "computer-science",
+  "summary": "Semantic HTML is a fundamental concept in computer-science.",
   "definition": "Semantic HTML is a fundamental concept in computer-science.",
   "explanation": "Learn about Semantic HTML and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "semantic-html"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

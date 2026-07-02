@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-01.topic-03",
   "name": "Dynamic Equilibrium",
   "subject": "chemistry",
+  "summary": "Dynamic Equilibrium is a fundamental concept in chemistry.",
   "definition": "Dynamic Equilibrium is a fundamental concept in chemistry.",
   "explanation": "Learn about Dynamic Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "dynamic-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

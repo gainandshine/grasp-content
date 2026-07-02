@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-02.topic-03",
   "name": "Experimentation",
   "subject": "philosophy",
+  "summary": "Experimentation is a fundamental concept in philosophy.",
   "definition": "Experimentation is a fundamental concept in philosophy.",
   "explanation": "Learn about Experimentation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "experimentation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

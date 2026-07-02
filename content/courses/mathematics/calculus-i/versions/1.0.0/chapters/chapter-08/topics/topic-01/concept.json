@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-i.chapter-08.topic-01",
   "name": "Riemann Sums",
   "subject": "mathematics",
+  "summary": "Riemann Sums is a fundamental concept in mathematics.",
   "definition": "Riemann Sums is a fundamental concept in mathematics.",
   "explanation": "Learn about Riemann Sums and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "riemann-sums"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

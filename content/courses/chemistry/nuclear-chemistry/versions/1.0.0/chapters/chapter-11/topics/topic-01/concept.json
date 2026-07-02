@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-11.topic-01",
   "name": "Radiation Sterilization",
   "subject": "chemistry",
+  "summary": "Radiation Sterilization is a fundamental concept in chemistry.",
   "definition": "Radiation Sterilization is a fundamental concept in chemistry.",
   "explanation": "Learn about Radiation Sterilization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "radiation-sterilization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

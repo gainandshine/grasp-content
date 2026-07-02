@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-06.topic-01",
   "name": "Powers",
   "subject": "mathematics",
+  "summary": "Powers is a fundamental concept in mathematics.",
   "definition": "Powers is a fundamental concept in mathematics.",
   "explanation": "Learn about Powers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "powers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-08.topic-02",
   "name": "Sustainable Cooperation",
   "subject": "game-theory",
+  "summary": "Sustainable Cooperation is a fundamental concept in game-theory.",
   "definition": "Sustainable Cooperation is a fundamental concept in game-theory.",
   "explanation": "Learn about Sustainable Cooperation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "sustainable-cooperation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

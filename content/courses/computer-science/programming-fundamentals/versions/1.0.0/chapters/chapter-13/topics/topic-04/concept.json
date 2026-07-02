@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-13.topic-04",
   "name": "Automation Scripts",
   "subject": "computer-science",
+  "summary": "Automation Scripts is a fundamental concept in computer-science.",
   "definition": "Automation Scripts is a fundamental concept in computer-science.",
   "explanation": "Learn about Automation Scripts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "automation-scripts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

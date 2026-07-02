@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CourseIndex",
+  "description": "Course metadata index entry",
+  "type": "object",
+  "required": ["id", "title", "version", "difficulty", "chapters"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "description": { "type": "string" },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "domain": { "type": "string" },
+    "difficulty": { "type": "string", "enum": ["beginner", "intermediate", "advanced"] },
+    "estimatedHours": { "type": "number" },
+    "chapters": { "type": "integer", "minimum": 0 },
+    "prerequisites": { "type": "array", "items": { "type": "string" } },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

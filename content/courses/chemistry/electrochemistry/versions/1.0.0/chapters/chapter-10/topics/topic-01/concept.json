@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-10.topic-01",
   "name": "Electroplating",
   "subject": "chemistry",
+  "summary": "Electroplating is a fundamental concept in chemistry.",
   "definition": "Electroplating is a fundamental concept in chemistry.",
   "explanation": "Learn about Electroplating and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electroplating"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

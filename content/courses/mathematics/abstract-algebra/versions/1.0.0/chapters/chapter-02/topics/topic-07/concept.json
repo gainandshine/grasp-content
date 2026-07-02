@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-02.topic-07",
   "name": "Order of a Group",
   "subject": "mathematics",
+  "summary": "Order of a Group is a fundamental concept in mathematics.",
   "definition": "Order of a Group is a fundamental concept in mathematics.",
   "explanation": "Learn about Order of a Group and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "order-of-a-group"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

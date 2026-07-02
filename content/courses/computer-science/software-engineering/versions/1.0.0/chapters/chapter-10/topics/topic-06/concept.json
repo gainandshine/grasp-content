@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-10.topic-06",
   "name": "Infrastructure as Code (Overview)",
   "subject": "computer-science",
+  "summary": "Infrastructure as Code (Overview) is a fundamental concept in computer-science.",
   "definition": "Infrastructure as Code (Overview) is a fundamental concept in computer-science.",
   "explanation": "Learn about Infrastructure as Code (Overview) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "infrastructure-as-code-overview"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

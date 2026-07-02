@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-11.topic-03",
   "name": "Carrier Screening",
   "subject": "biology",
+  "summary": "Carrier Screening is a fundamental concept in biology.",
   "definition": "Carrier Screening is a fundamental concept in biology.",
   "explanation": "Learn about Carrier Screening and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "carrier-screening"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

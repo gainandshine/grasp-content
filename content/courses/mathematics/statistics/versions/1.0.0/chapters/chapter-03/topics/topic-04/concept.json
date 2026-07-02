@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-03.topic-04",
   "name": "Weighted Mean",
   "subject": "mathematics",
+  "summary": "Weighted Mean is a fundamental concept in mathematics.",
   "definition": "Weighted Mean is a fundamental concept in mathematics.",
   "explanation": "Learn about Weighted Mean and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "weighted-mean"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

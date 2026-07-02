@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-09.topic-02",
   "name": "Dynamic Equilibrium",
   "subject": "physics",
+  "summary": "Dynamic Equilibrium is a fundamental concept in physics.",
   "definition": "Dynamic Equilibrium is a fundamental concept in physics.",
   "explanation": "Learn about Dynamic Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "dynamic-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

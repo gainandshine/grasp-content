@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-01.topic-05",
   "name": "Biological Organization",
   "subject": "biology",
+  "summary": "Biological Organization is a fundamental concept in biology.",
   "definition": "Biological Organization is a fundamental concept in biology.",
   "explanation": "Learn about Biological Organization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "biological-organization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

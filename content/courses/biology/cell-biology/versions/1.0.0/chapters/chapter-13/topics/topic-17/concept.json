@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-13.topic-17",
   "name": "CRISPR",
   "subject": "biology",
+  "summary": "CRISPR is a fundamental concept in biology.",
   "definition": "CRISPR is a fundamental concept in biology.",
   "explanation": "Learn about CRISPR and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "crispr"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

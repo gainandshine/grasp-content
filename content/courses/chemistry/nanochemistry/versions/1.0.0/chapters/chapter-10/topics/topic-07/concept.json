@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-10.topic-07",
   "name": "Hydrogen Storage",
   "subject": "chemistry",
+  "summary": "Hydrogen Storage is a fundamental concept in chemistry.",
   "definition": "Hydrogen Storage is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrogen Storage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrogen-storage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

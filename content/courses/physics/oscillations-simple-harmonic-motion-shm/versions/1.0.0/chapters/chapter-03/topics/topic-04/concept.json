@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-04",
   "name": "Horizontal Springs",
   "subject": "physics",
+  "summary": "Horizontal Springs is a fundamental concept in physics.",
   "definition": "Horizontal Springs is a fundamental concept in physics.",
   "explanation": "Learn about Horizontal Springs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "horizontal-springs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

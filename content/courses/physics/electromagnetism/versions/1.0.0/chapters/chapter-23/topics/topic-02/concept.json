@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-23.topic-02",
   "name": "Voltmeter",
   "subject": "physics",
+  "summary": "Voltmeter is a fundamental concept in physics.",
   "definition": "Voltmeter is a fundamental concept in physics.",
   "explanation": "Learn about Voltmeter and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "voltmeter"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

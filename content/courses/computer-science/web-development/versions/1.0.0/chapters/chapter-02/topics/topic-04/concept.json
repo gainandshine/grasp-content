@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-02.topic-04",
   "name": "Lists",
   "subject": "computer-science",
+  "summary": "Lists is a fundamental concept in computer-science.",
   "definition": "Lists is a fundamental concept in computer-science.",
   "explanation": "Learn about Lists and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "lists"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

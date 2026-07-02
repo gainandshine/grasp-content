@@ -2,6 +2,7 @@
   "id": "physics.waves-sound.chapter-04.topic-04",
   "name": "Phase Difference",
   "subject": "physics",
+  "summary": "Phase Difference is a fundamental concept in physics.",
   "definition": "Phase Difference is a fundamental concept in physics.",
   "explanation": "Learn about Phase Difference and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "phase-difference"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

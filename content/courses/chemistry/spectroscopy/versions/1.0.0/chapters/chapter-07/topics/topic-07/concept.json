@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-07.topic-07",
   "name": "Spectrum Interpretation",
   "subject": "chemistry",
+  "summary": "Spectrum Interpretation is a fundamental concept in chemistry.",
   "definition": "Spectrum Interpretation is a fundamental concept in chemistry.",
   "explanation": "Learn about Spectrum Interpretation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "spectrum-interpretation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

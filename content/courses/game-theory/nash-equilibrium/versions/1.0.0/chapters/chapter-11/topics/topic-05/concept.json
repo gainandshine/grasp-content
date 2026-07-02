@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-11.topic-05",
   "name": "Social Networks",
   "subject": "game-theory",
+  "summary": "Social Networks is a fundamental concept in game-theory.",
   "definition": "Social Networks is a fundamental concept in game-theory.",
   "explanation": "Learn about Social Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "social-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

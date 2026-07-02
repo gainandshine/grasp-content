@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-09.topic-01",
   "name": "Wi-Fi",
   "subject": "computer-science",
+  "summary": "Wi-Fi is a fundamental concept in computer-science.",
   "definition": "Wi-Fi is a fundamental concept in computer-science.",
   "explanation": "Learn about Wi-Fi and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "wi-fi"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

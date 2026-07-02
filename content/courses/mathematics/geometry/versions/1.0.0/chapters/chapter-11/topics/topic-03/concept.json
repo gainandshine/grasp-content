@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-11.topic-03",
   "name": "Rotation",
   "subject": "mathematics",
+  "summary": "Rotation is a fundamental concept in mathematics.",
   "definition": "Rotation is a fundamental concept in mathematics.",
   "explanation": "Learn about Rotation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rotation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

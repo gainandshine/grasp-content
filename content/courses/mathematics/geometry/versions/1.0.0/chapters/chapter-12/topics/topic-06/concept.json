@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-12.topic-06",
   "name": "Parallel & Perpendicular Lines",
   "subject": "mathematics",
+  "summary": "Parallel & Perpendicular Lines is a fundamental concept in mathematics.",
   "definition": "Parallel & Perpendicular Lines is a fundamental concept in mathematics.",
   "explanation": "Learn about Parallel & Perpendicular Lines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "parallel-perpendicular-lines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

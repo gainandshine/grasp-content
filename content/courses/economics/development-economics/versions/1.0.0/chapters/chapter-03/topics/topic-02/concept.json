@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-03.topic-02",
   "name": "Relative Poverty",
   "subject": "economics",
+  "summary": "Relative Poverty is a fundamental concept in economics.",
   "definition": "Relative Poverty is a fundamental concept in economics.",
   "explanation": "Learn about Relative Poverty and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "relative-poverty"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

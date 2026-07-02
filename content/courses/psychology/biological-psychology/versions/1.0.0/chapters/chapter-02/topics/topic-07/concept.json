@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-02.topic-07",
   "name": "Neural Networks",
   "subject": "psychology",
+  "summary": "Neural Networks is a fundamental concept in psychology.",
   "definition": "Neural Networks is a fundamental concept in psychology.",
   "explanation": "Learn about Neural Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "neural-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

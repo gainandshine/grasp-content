@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-07.topic-03",
   "name": "Observational Learning",
   "subject": "psychology",
+  "summary": "Observational Learning is a fundamental concept in psychology.",
   "definition": "Observational Learning is a fundamental concept in psychology.",
   "explanation": "Learn about Observational Learning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "observational-learning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

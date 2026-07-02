@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-08.topic-02",
   "name": "Diamagnetic Complexes",
   "subject": "chemistry",
+  "summary": "Diamagnetic Complexes is a fundamental concept in chemistry.",
   "definition": "Diamagnetic Complexes is a fundamental concept in chemistry.",
   "explanation": "Learn about Diamagnetic Complexes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "diamagnetic-complexes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

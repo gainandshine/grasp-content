@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-03.topic-01",
   "name": "Radioactive Decay",
   "subject": "chemistry",
+  "summary": "Radioactive Decay is a fundamental concept in chemistry.",
   "definition": "Radioactive Decay is a fundamental concept in chemistry.",
   "explanation": "Learn about Radioactive Decay and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "radioactive-decay"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

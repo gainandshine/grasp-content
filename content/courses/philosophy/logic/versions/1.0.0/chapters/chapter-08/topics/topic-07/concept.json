@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-08.topic-07",
   "name": "Appeal to Authority",
   "subject": "philosophy",
+  "summary": "Appeal to Authority is a fundamental concept in philosophy.",
   "definition": "Appeal to Authority is a fundamental concept in philosophy.",
   "explanation": "Learn about Appeal to Authority and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "appeal-to-authority"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

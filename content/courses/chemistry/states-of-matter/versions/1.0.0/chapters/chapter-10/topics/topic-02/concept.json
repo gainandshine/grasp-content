@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-10.topic-02",
   "name": "Solute & Solvent",
   "subject": "chemistry",
+  "summary": "Solute & Solvent is a fundamental concept in chemistry.",
   "definition": "Solute & Solvent is a fundamental concept in chemistry.",
   "explanation": "Learn about Solute & Solvent and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solute-solvent"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

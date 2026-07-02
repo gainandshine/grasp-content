@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-02.topic-01",
   "name": "Atom",
   "subject": "chemistry",
+  "summary": "Atom is a fundamental concept in chemistry.",
   "definition": "Atom is a fundamental concept in chemistry.",
   "explanation": "Learn about Atom and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atom"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

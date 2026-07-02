@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-04.topic-03",
   "name": "Differential Diagnosis",
   "subject": "psychology",
+  "summary": "Differential Diagnosis is a fundamental concept in psychology.",
   "definition": "Differential Diagnosis is a fundamental concept in psychology.",
   "explanation": "Learn about Differential Diagnosis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "differential-diagnosis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-03.topic-01",
   "name": "CSS Syntax",
   "subject": "computer-science",
+  "summary": "CSS Syntax is a fundamental concept in computer-science.",
   "definition": "CSS Syntax is a fundamental concept in computer-science.",
   "explanation": "Learn about CSS Syntax and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "css-syntax"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

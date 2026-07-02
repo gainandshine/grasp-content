@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-05.topic-07",
   "name": "Composition vs Inheritance",
   "subject": "computer-science",
+  "summary": "Composition vs Inheritance is a fundamental concept in computer-science.",
   "definition": "Composition vs Inheritance is a fundamental concept in computer-science.",
   "explanation": "Learn about Composition vs Inheritance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "composition-vs-inheritance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

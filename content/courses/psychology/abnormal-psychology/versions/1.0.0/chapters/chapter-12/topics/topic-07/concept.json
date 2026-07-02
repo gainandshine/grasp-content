@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-12.topic-07",
   "name": "Digital Mental Health",
   "subject": "psychology",
+  "summary": "Digital Mental Health is a fundamental concept in psychology.",
   "definition": "Digital Mental Health is a fundamental concept in psychology.",
   "explanation": "Learn about Digital Mental Health and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "digital-mental-health"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

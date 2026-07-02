@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-06.topic-04",
   "name": "Enzyme Mechanism",
   "subject": "chemistry",
+  "summary": "Enzyme Mechanism is a fundamental concept in chemistry.",
   "definition": "Enzyme Mechanism is a fundamental concept in chemistry.",
   "explanation": "Learn about Enzyme Mechanism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "enzyme-mechanism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

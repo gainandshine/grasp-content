@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-06.topic-04",
   "name": "Dynamic Dispatch",
   "subject": "computer-science",
+  "summary": "Dynamic Dispatch is a fundamental concept in computer-science.",
   "definition": "Dynamic Dispatch is a fundamental concept in computer-science.",
   "explanation": "Learn about Dynamic Dispatch and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "dynamic-dispatch"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-04.topic-03",
   "name": "Osmosis",
   "subject": "biology",
+  "summary": "Osmosis is a fundamental concept in biology.",
   "definition": "Osmosis is a fundamental concept in biology.",
   "explanation": "Learn about Osmosis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "osmosis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

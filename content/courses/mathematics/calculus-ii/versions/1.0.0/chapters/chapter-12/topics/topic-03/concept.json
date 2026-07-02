@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-ii.chapter-12.topic-03",
   "name": "Physical Applications",
   "subject": "mathematics",
+  "summary": "Physical Applications is a fundamental concept in mathematics.",
   "definition": "Physical Applications is a fundamental concept in mathematics.",
   "explanation": "Learn about Physical Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "physical-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

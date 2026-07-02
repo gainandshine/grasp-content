@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-05.topic-03",
   "name": "Hartree-Fock Theory",
   "subject": "chemistry",
+  "summary": "Hartree-Fock Theory is a fundamental concept in chemistry.",
   "definition": "Hartree-Fock Theory is a fundamental concept in chemistry.",
   "explanation": "Learn about Hartree-Fock Theory and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hartree-fock-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

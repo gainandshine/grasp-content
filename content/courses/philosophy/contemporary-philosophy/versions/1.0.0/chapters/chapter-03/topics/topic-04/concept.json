@@ -2,6 +2,7 @@
   "id": "philosophy.contemporary-philosophy.chapter-03.topic-04",
   "name": "Freedom",
   "subject": "philosophy",
+  "summary": "Freedom is a fundamental concept in philosophy.",
   "definition": "Freedom is a fundamental concept in philosophy.",
   "explanation": "Learn about Freedom and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "freedom"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

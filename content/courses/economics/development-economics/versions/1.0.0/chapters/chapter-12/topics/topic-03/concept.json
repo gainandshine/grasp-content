@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-12.topic-03",
   "name": "Entrepreneurship",
   "subject": "economics",
+  "summary": "Entrepreneurship is a fundamental concept in economics.",
   "definition": "Entrepreneurship is a fundamental concept in economics.",
   "explanation": "Learn about Entrepreneurship and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "entrepreneurship"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

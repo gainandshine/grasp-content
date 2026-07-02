@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-03.topic-03",
   "name": "Patience",
   "subject": "game-theory",
+  "summary": "Patience is a fundamental concept in game-theory.",
   "definition": "Patience is a fundamental concept in game-theory.",
   "explanation": "Learn about Patience and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "patience"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-11.topic-03",
   "name": "Workplace Design",
   "subject": "psychology",
+  "summary": "Workplace Design is a fundamental concept in psychology.",
   "definition": "Workplace Design is a fundamental concept in psychology.",
   "explanation": "Learn about Workplace Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "workplace-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

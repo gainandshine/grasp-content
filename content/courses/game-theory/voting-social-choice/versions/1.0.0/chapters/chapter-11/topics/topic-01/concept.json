@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-11.topic-01",
   "name": "Voting Algorithms",
   "subject": "game-theory",
+  "summary": "Voting Algorithms is a fundamental concept in game-theory.",
   "definition": "Voting Algorithms is a fundamental concept in game-theory.",
   "explanation": "Learn about Voting Algorithms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "voting-algorithms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

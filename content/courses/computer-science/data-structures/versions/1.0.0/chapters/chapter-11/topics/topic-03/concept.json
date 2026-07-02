@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-11.topic-03",
   "name": "Find",
   "subject": "computer-science",
+  "summary": "Find is a fundamental concept in computer-science.",
   "definition": "Find is a fundamental concept in computer-science.",
   "explanation": "Learn about Find and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "find"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

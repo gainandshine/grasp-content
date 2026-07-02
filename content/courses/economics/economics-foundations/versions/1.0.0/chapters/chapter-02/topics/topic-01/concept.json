@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-02.topic-01",
   "name": "Traditional Economy",
   "subject": "economics",
+  "summary": "Traditional Economy is a fundamental concept in economics.",
   "definition": "Traditional Economy is a fundamental concept in economics.",
   "explanation": "Learn about Traditional Economy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "traditional-economy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

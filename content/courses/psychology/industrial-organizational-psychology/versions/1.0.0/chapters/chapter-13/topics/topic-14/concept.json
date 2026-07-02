@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-13.topic-14",
   "name": "Descriptive Statistics",
   "subject": "psychology",
+  "summary": "Descriptive Statistics is a fundamental concept in psychology.",
   "definition": "Descriptive Statistics is a fundamental concept in psychology.",
   "explanation": "Learn about Descriptive Statistics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "descriptive-statistics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

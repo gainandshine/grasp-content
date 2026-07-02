@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-12.topic-04",
   "name": "Phase Equilibrium (Introduction)",
   "subject": "chemistry",
+  "summary": "Phase Equilibrium (Introduction) is a fundamental concept in chemistry.",
   "definition": "Phase Equilibrium (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Phase Equilibrium (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "phase-equilibrium-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

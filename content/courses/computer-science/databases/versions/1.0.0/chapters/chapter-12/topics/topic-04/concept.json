@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-12.topic-04",
   "name": "SQL Injection",
   "subject": "computer-science",
+  "summary": "SQL Injection is a fundamental concept in computer-science.",
   "definition": "SQL Injection is a fundamental concept in computer-science.",
   "explanation": "Learn about SQL Injection and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sql-injection"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

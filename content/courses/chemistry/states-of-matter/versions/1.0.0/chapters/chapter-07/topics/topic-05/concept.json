@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-07.topic-05",
   "name": "Critical Pressure",
   "subject": "chemistry",
+  "summary": "Critical Pressure is a fundamental concept in chemistry.",
   "definition": "Critical Pressure is a fundamental concept in chemistry.",
   "explanation": "Learn about Critical Pressure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "critical-pressure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

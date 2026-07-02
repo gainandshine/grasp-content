@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-03.topic-06",
   "name": "First Impressions",
   "subject": "psychology",
+  "summary": "First Impressions is a fundamental concept in psychology.",
   "definition": "First Impressions is a fundamental concept in psychology.",
   "explanation": "Learn about First Impressions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "first-impressions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

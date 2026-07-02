@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-06.topic-05",
   "name": "Dark Matter Candidates",
   "subject": "physics",
+  "summary": "Dark Matter Candidates is a fundamental concept in physics.",
   "definition": "Dark Matter Candidates is a fundamental concept in physics.",
   "explanation": "Learn about Dark Matter Candidates and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "dark-matter-candidates"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

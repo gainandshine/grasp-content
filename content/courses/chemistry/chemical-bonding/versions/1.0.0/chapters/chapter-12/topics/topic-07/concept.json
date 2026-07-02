@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-12.topic-07",
   "name": "Chemical Engineering Applications",
   "subject": "chemistry",
+  "summary": "Chemical Engineering Applications is a fundamental concept in chemistry.",
   "definition": "Chemical Engineering Applications is a fundamental concept in chemistry.",
   "explanation": "Learn about Chemical Engineering Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "chemical-engineering-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

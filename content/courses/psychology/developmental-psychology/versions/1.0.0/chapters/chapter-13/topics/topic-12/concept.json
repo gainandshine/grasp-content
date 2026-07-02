@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-13.topic-12",
   "name": "Conformity",
   "subject": "psychology",
+  "summary": "Conformity is a fundamental concept in psychology.",
   "definition": "Conformity is a fundamental concept in psychology.",
   "explanation": "Learn about Conformity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "conformity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

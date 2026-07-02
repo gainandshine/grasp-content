@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-13.topic-05",
   "name": "Sustainable Process Design",
   "subject": "chemistry",
+  "summary": "Sustainable Process Design is a fundamental concept in chemistry.",
   "definition": "Sustainable Process Design is a fundamental concept in chemistry.",
   "explanation": "Learn about Sustainable Process Design and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sustainable-process-design"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

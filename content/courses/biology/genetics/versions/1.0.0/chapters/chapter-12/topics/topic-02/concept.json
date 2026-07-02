@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-12.topic-02",
   "name": "Medicine",
   "subject": "biology",
+  "summary": "Medicine is a fundamental concept in biology.",
   "definition": "Medicine is a fundamental concept in biology.",
   "explanation": "Learn about Medicine and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "medicine"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

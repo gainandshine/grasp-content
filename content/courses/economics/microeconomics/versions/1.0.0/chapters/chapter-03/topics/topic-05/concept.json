@@ -2,6 +2,7 @@
   "id": "economics.microeconomics.chapter-03.topic-05",
   "name": "Elasticity of Demand",
   "subject": "economics",
+  "summary": "Elasticity of Demand is a fundamental concept in economics.",
   "definition": "Elasticity of Demand is a fundamental concept in economics.",
   "explanation": "Learn about Elasticity of Demand and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "elasticity-of-demand"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

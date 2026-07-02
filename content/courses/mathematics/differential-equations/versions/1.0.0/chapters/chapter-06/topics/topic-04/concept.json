@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-06.topic-04",
   "name": "Operator Method (Introduction)",
   "subject": "mathematics",
+  "summary": "Operator Method (Introduction) is a fundamental concept in mathematics.",
   "definition": "Operator Method (Introduction) is a fundamental concept in mathematics.",
   "explanation": "Learn about Operator Method (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "operator-method-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

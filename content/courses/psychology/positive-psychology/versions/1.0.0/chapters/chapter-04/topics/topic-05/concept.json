@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-04.topic-05",
   "name": "Justice",
   "subject": "psychology",
+  "summary": "Justice is a fundamental concept in psychology.",
   "definition": "Justice is a fundamental concept in psychology.",
   "explanation": "Learn about Justice and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "justice"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

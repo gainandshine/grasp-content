@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-03.topic-03",
   "name": "Floating Bodies",
   "subject": "physics",
+  "summary": "Floating Bodies is a fundamental concept in physics.",
   "definition": "Floating Bodies is a fundamental concept in physics.",
   "explanation": "Learn about Floating Bodies and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "floating-bodies"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

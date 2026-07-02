@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-02",
   "name": "Genome Engineering",
   "subject": "biology",
+  "summary": "Genome Engineering is a fundamental concept in biology.",
   "definition": "Genome Engineering is a fundamental concept in biology.",
   "explanation": "Learn about Genome Engineering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genome-engineering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

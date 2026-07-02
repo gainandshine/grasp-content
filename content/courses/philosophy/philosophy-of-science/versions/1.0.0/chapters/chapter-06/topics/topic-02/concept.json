@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-of-science.chapter-06.topic-02",
   "name": "Instrumentalism",
   "subject": "philosophy",
+  "summary": "Instrumentalism is a fundamental concept in philosophy.",
   "definition": "Instrumentalism is a fundamental concept in philosophy.",
   "explanation": "Learn about Instrumentalism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "instrumentalism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

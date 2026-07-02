@@ -2,6 +2,7 @@
   "id": "chemistry.acids-bases.chapter-12.topic-14",
   "name": "Batteries",
   "subject": "chemistry",
+  "summary": "Batteries is a fundamental concept in chemistry.",
   "definition": "Batteries is a fundamental concept in chemistry.",
   "explanation": "Learn about Batteries and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "batteries"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

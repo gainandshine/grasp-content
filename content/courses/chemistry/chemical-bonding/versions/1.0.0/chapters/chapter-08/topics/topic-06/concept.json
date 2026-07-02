@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-08.topic-06",
   "name": "Metallic Crystal Structure",
   "subject": "chemistry",
+  "summary": "Metallic Crystal Structure is a fundamental concept in chemistry.",
   "definition": "Metallic Crystal Structure is a fundamental concept in chemistry.",
   "explanation": "Learn about Metallic Crystal Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metallic-crystal-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

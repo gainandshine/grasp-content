@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-13.topic-17",
   "name": "Public Policy",
   "subject": "economics",
+  "summary": "Public Policy is a fundamental concept in economics.",
   "definition": "Public Policy is a fundamental concept in economics.",
   "explanation": "Learn about Public Policy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "public-policy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

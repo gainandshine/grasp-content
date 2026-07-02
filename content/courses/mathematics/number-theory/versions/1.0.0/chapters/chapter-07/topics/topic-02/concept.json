@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-07.topic-02",
   "name": "Euler's Theorem",
   "subject": "mathematics",
+  "summary": "Euler's Theorem is a fundamental concept in mathematics.",
   "definition": "Euler's Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Euler's Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "eulers-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

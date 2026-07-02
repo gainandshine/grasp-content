@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-06.topic-02",
   "name": "Group Decision Making",
   "subject": "psychology",
+  "summary": "Group Decision Making is a fundamental concept in psychology.",
   "definition": "Group Decision Making is a fundamental concept in psychology.",
   "explanation": "Learn about Group Decision Making and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "group-decision-making"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

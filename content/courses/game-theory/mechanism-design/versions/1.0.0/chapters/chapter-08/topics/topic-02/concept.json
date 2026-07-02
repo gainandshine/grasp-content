@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-08.topic-02",
   "name": "Principal-Agent Problem",
   "subject": "game-theory",
+  "summary": "Principal-Agent Problem is a fundamental concept in game-theory.",
   "definition": "Principal-Agent Problem is a fundamental concept in game-theory.",
   "explanation": "Learn about Principal-Agent Problem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "principal-agent-problem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

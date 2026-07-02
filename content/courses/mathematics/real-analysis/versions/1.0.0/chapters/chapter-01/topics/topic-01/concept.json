@@ -2,6 +2,7 @@
   "id": "mathematics.real-analysis.chapter-01.topic-01",
   "name": "Real Numbers",
   "subject": "mathematics",
+  "summary": "Real Numbers is a fundamental concept in mathematics.",
   "definition": "Real Numbers is a fundamental concept in mathematics.",
   "explanation": "Learn about Real Numbers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "real-numbers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

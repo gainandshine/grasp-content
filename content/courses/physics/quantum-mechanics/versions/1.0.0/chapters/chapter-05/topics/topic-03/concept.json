@@ -2,6 +2,7 @@
   "id": "physics.quantum-mechanics.chapter-05.topic-03",
   "name": "Energy-Time Uncertainty",
   "subject": "physics",
+  "summary": "Energy-Time Uncertainty is a fundamental concept in physics.",
   "definition": "Energy-Time Uncertainty is a fundamental concept in physics.",
   "explanation": "Learn about Energy-Time Uncertainty and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-time-uncertainty"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

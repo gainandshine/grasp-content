@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-09.topic-04",
   "name": "Hydrogels",
   "subject": "chemistry",
+  "summary": "Hydrogels is a fundamental concept in chemistry.",
   "definition": "Hydrogels is a fundamental concept in chemistry.",
   "explanation": "Learn about Hydrogels and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hydrogels"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

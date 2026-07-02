@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-18",
   "name": "Input/Output Systems",
   "subject": "computer-science",
+  "summary": "Input/Output Systems is a fundamental concept in computer-science.",
   "definition": "Input/Output Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Input/Output Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "inputoutput-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-06.topic-06",
   "name": "Rolling Friction (Introduction)",
   "subject": "physics",
+  "summary": "Rolling Friction (Introduction) is a fundamental concept in physics.",
   "definition": "Rolling Friction (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Rolling Friction (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "rolling-friction-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

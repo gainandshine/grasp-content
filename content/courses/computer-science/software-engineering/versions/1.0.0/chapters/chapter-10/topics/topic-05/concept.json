@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-10.topic-05",
   "name": "Docker (Introduction)",
   "subject": "computer-science",
+  "summary": "Docker (Introduction) is a fundamental concept in computer-science.",
   "definition": "Docker (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Docker (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "docker-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

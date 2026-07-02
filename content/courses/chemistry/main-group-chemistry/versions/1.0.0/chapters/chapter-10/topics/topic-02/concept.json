@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-10.topic-02",
   "name": "Ionization Energy",
   "subject": "chemistry",
+  "summary": "Ionization Energy is a fundamental concept in chemistry.",
   "definition": "Ionization Energy is a fundamental concept in chemistry.",
   "explanation": "Learn about Ionization Energy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ionization-energy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

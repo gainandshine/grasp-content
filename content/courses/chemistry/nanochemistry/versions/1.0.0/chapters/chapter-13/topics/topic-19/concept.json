@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-13.topic-19",
   "name": "Environmental Radiation",
   "subject": "chemistry",
+  "summary": "Environmental Radiation is a fundamental concept in chemistry.",
   "definition": "Environmental Radiation is a fundamental concept in chemistry.",
   "explanation": "Learn about Environmental Radiation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "environmental-radiation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

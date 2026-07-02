@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-02.topic-03",
   "name": "Incidence Matrix",
   "subject": "mathematics",
+  "summary": "Incidence Matrix is a fundamental concept in mathematics.",
   "definition": "Incidence Matrix is a fundamental concept in mathematics.",
   "explanation": "Learn about Incidence Matrix and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "incidence-matrix"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

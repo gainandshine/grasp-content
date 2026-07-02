@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-06.topic-01",
   "name": "Stable Matching",
   "subject": "game-theory",
+  "summary": "Stable Matching is a fundamental concept in game-theory.",
   "definition": "Stable Matching is a fundamental concept in game-theory.",
   "explanation": "Learn about Stable Matching and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "stable-matching"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

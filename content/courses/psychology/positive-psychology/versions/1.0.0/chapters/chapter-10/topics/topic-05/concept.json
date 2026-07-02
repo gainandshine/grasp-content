@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-10.topic-05",
   "name": "Prosocial Behavior",
   "subject": "psychology",
+  "summary": "Prosocial Behavior is a fundamental concept in psychology.",
   "definition": "Prosocial Behavior is a fundamental concept in psychology.",
   "explanation": "Learn about Prosocial Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "prosocial-behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

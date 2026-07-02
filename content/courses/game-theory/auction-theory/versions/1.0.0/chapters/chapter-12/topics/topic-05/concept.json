@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-12.topic-05",
   "name": "Cloud Computing Resources",
   "subject": "game-theory",
+  "summary": "Cloud Computing Resources is a fundamental concept in game-theory.",
   "definition": "Cloud Computing Resources is a fundamental concept in game-theory.",
   "explanation": "Learn about Cloud Computing Resources and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "cloud-computing-resources"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

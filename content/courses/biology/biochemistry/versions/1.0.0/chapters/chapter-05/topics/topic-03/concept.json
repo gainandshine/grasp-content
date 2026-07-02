@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-05.topic-03",
   "name": "Phospholipids",
   "subject": "biology",
+  "summary": "Phospholipids is a fundamental concept in biology.",
   "definition": "Phospholipids is a fundamental concept in biology.",
   "explanation": "Learn about Phospholipids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "phospholipids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

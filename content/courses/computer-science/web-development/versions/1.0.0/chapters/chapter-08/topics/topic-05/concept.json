@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-08.topic-05",
   "name": "CRUD Operations",
   "subject": "computer-science",
+  "summary": "CRUD Operations is a fundamental concept in computer-science.",
   "definition": "CRUD Operations is a fundamental concept in computer-science.",
   "explanation": "Learn about CRUD Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "crud-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

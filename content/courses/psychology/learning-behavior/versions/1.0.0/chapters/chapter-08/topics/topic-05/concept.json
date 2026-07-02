@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-08.topic-05",
   "name": "Spaced Repetition",
   "subject": "psychology",
+  "summary": "Spaced Repetition is a fundamental concept in psychology.",
   "definition": "Spaced Repetition is a fundamental concept in psychology.",
   "explanation": "Learn about Spaced Repetition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "spaced-repetition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-05.topic-06",
   "name": "Supernova Nucleosynthesis",
   "subject": "physics",
+  "summary": "Supernova Nucleosynthesis is a fundamental concept in physics.",
   "definition": "Supernova Nucleosynthesis is a fundamental concept in physics.",
   "explanation": "Learn about Supernova Nucleosynthesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "supernova-nucleosynthesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

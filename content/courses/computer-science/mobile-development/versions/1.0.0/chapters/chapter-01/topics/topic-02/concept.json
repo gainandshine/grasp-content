@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-01.topic-02",
   "name": "Mobile Operating Systems",
   "subject": "computer-science",
+  "summary": "Mobile Operating Systems is a fundamental concept in computer-science.",
   "definition": "Mobile Operating Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Mobile Operating Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mobile-operating-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

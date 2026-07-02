@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-12.topic-06",
   "name": "Astrobiology (Introduction)",
   "subject": "physics",
+  "summary": "Astrobiology (Introduction) is a fundamental concept in physics.",
   "definition": "Astrobiology (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Astrobiology (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "astrobiology-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

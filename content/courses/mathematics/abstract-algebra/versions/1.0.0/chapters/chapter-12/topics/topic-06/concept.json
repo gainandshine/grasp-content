@@ -2,6 +2,7 @@
   "id": "mathematics.abstract-algebra.chapter-12.topic-06",
   "name": "Symmetry in Physics",
   "subject": "mathematics",
+  "summary": "Symmetry in Physics is a fundamental concept in mathematics.",
   "definition": "Symmetry in Physics is a fundamental concept in mathematics.",
   "explanation": "Learn about Symmetry in Physics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "symmetry-in-physics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

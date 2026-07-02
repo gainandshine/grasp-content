@@ -2,6 +2,7 @@
   "id": "game-theory.voting-social-choice.chapter-13.topic-01",
   "name": "Liquid Democracy",
   "subject": "game-theory",
+  "summary": "Liquid Democracy is a fundamental concept in game-theory.",
   "definition": "Liquid Democracy is a fundamental concept in game-theory.",
   "explanation": "Learn about Liquid Democracy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "liquid-democracy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

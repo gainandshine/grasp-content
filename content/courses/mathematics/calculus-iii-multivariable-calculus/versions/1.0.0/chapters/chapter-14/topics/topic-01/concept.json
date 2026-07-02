@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-14.topic-01",
   "name": "Gradient",
   "subject": "mathematics",
+  "summary": "Gradient is a fundamental concept in mathematics.",
   "definition": "Gradient is a fundamental concept in mathematics.",
   "explanation": "Learn about Gradient and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "gradient"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

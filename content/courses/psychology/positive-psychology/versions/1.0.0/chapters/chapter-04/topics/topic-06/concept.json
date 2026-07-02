@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-04.topic-06",
   "name": "Temperance",
   "subject": "psychology",
+  "summary": "Temperance is a fundamental concept in psychology.",
   "definition": "Temperance is a fundamental concept in psychology.",
   "explanation": "Learn about Temperance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "temperance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-05.topic-04",
   "name": "Tissues",
   "subject": "biology",
+  "summary": "Tissues is a fundamental concept in biology.",
   "definition": "Tissues is a fundamental concept in biology.",
   "explanation": "Learn about Tissues and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "tissues"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

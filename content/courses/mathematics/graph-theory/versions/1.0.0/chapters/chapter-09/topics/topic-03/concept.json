@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-09.topic-03",
   "name": "Chromatic Number",
   "subject": "mathematics",
+  "summary": "Chromatic Number is a fundamental concept in mathematics.",
   "definition": "Chromatic Number is a fundamental concept in mathematics.",
   "explanation": "Learn about Chromatic Number and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "chromatic-number"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-09.topic-02",
   "name": "Raman Spectrum Prediction",
   "subject": "chemistry",
+  "summary": "Raman Spectrum Prediction is a fundamental concept in chemistry.",
   "definition": "Raman Spectrum Prediction is a fundamental concept in chemistry.",
   "explanation": "Learn about Raman Spectrum Prediction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "raman-spectrum-prediction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

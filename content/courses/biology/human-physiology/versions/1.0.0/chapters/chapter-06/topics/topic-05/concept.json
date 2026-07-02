@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-06.topic-05",
   "name": "Liver Function",
   "subject": "biology",
+  "summary": "Liver Function is a fundamental concept in biology.",
   "definition": "Liver Function is a fundamental concept in biology.",
   "explanation": "Learn about Liver Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "liver-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

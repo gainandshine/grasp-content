@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-05.topic-03",
   "name": "Critical Mass",
   "subject": "chemistry",
+  "summary": "Critical Mass is a fundamental concept in chemistry.",
   "definition": "Critical Mass is a fundamental concept in chemistry.",
   "explanation": "Learn about Critical Mass and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "critical-mass"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

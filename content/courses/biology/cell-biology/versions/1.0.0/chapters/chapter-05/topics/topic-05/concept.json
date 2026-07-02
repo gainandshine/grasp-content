@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-05.topic-05",
   "name": "Metabolic Pathways",
   "subject": "biology",
+  "summary": "Metabolic Pathways is a fundamental concept in biology.",
   "definition": "Metabolic Pathways is a fundamental concept in biology.",
   "explanation": "Learn about Metabolic Pathways and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "metabolic-pathways"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

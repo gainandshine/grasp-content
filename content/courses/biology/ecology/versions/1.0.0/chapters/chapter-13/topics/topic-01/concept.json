@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-13.topic-01",
   "name": "Landscape Ecology",
   "subject": "biology",
+  "summary": "Landscape Ecology is a fundamental concept in biology.",
   "definition": "Landscape Ecology is a fundamental concept in biology.",
   "explanation": "Learn about Landscape Ecology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "landscape-ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

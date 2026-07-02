@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-08.topic-01",
   "name": "Static Routing",
   "subject": "computer-science",
+  "summary": "Static Routing is a fundamental concept in computer-science.",
   "definition": "Static Routing is a fundamental concept in computer-science.",
   "explanation": "Learn about Static Routing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "static-routing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

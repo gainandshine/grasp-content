@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-13.topic-15",
   "name": "Alkynes",
   "subject": "chemistry",
+  "summary": "Alkynes is a fundamental concept in chemistry.",
   "definition": "Alkynes is a fundamental concept in chemistry.",
   "explanation": "Learn about Alkynes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "alkynes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

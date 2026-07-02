@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-05.topic-06",
   "name": "Social Responsibility",
   "subject": "philosophy",
+  "summary": "Social Responsibility is a fundamental concept in philosophy.",
   "definition": "Social Responsibility is a fundamental concept in philosophy.",
   "explanation": "Learn about Social Responsibility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "social-responsibility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

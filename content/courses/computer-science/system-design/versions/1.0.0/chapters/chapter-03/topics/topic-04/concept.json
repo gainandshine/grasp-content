@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-03.topic-04",
   "name": "Stateful Services",
   "subject": "computer-science",
+  "summary": "Stateful Services is a fundamental concept in computer-science.",
   "definition": "Stateful Services is a fundamental concept in computer-science.",
   "explanation": "Learn about Stateful Services and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "stateful-services"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

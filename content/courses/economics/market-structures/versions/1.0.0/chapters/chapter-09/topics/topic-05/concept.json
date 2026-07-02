@@ -2,6 +2,7 @@
   "id": "economics.market-structures.chapter-09.topic-05",
   "name": "Data as an Economic Asset",
   "subject": "economics",
+  "summary": "Data as an Economic Asset is a fundamental concept in economics.",
   "definition": "Data as an Economic Asset is a fundamental concept in economics.",
   "explanation": "Learn about Data as an Economic Asset and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "data-as-an-economic-asset"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

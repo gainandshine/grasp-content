@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-13.topic-03",
   "name": "Organometallic Compounds (Introduction)",
   "subject": "chemistry",
+  "summary": "Organometallic Compounds (Introduction) is a fundamental concept in chemistry.",
   "definition": "Organometallic Compounds (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Organometallic Compounds (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "organometallic-compounds-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

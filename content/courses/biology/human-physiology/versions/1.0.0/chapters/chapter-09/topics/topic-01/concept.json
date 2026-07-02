@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-09.topic-01",
   "name": "Male Reproductive Function",
   "subject": "biology",
+  "summary": "Male Reproductive Function is a fundamental concept in biology.",
   "definition": "Male Reproductive Function is a fundamental concept in biology.",
   "explanation": "Learn about Male Reproductive Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "male-reproductive-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

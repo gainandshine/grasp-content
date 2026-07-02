@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-05.topic-05",
   "name": "Utility Software",
   "subject": "computer-science",
+  "summary": "Utility Software is a fundamental concept in computer-science.",
   "definition": "Utility Software is a fundamental concept in computer-science.",
   "explanation": "Learn about Utility Software and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "utility-software"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

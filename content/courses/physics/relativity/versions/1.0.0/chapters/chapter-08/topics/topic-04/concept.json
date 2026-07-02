@@ -2,6 +2,7 @@
   "id": "physics.relativity.chapter-08.topic-04",
   "name": "Singularity",
   "subject": "physics",
+  "summary": "Singularity is a fundamental concept in physics.",
   "definition": "Singularity is a fundamental concept in physics.",
   "explanation": "Learn about Singularity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "singularity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-05.topic-02",
   "name": "Orbital Velocity",
   "subject": "physics",
+  "summary": "Orbital Velocity is a fundamental concept in physics.",
   "definition": "Orbital Velocity is a fundamental concept in physics.",
   "explanation": "Learn about Orbital Velocity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "orbital-velocity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-10.topic-06",
   "name": "Phishing",
   "subject": "computer-science",
+  "summary": "Phishing is a fundamental concept in computer-science.",
   "definition": "Phishing is a fundamental concept in computer-science.",
   "explanation": "Learn about Phishing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "phishing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

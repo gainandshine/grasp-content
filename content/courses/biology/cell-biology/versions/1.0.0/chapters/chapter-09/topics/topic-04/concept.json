@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-09.topic-04",
   "name": "Cell Senescence",
   "subject": "biology",
+  "summary": "Cell Senescence is a fundamental concept in biology.",
   "definition": "Cell Senescence is a fundamental concept in biology.",
   "explanation": "Learn about Cell Senescence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cell-senescence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

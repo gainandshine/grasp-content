@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-03.topic-03",
   "name": "Isotones",
   "subject": "chemistry",
+  "summary": "Isotones is a fundamental concept in chemistry.",
   "definition": "Isotones is a fundamental concept in chemistry.",
   "explanation": "Learn about Isotones and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "isotones"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

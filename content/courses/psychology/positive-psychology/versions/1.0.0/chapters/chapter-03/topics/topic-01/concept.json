@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-03.topic-01",
   "name": "Joy",
   "subject": "psychology",
+  "summary": "Joy is a fundamental concept in psychology.",
   "definition": "Joy is a fundamental concept in psychology.",
   "explanation": "Learn about Joy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "joy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

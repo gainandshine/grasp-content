@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-06.topic-02",
   "name": "First Normal Form (1NF)",
   "subject": "computer-science",
+  "summary": "First Normal Form (1NF) is a fundamental concept in computer-science.",
   "definition": "First Normal Form (1NF) is a fundamental concept in computer-science.",
   "explanation": "Learn about First Normal Form (1NF) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "first-normal-form-1nf"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

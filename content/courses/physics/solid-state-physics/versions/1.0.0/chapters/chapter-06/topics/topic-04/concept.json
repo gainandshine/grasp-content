@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-06.topic-04",
   "name": "Band Gap",
   "subject": "physics",
+  "summary": "Band Gap is a fundamental concept in physics.",
   "definition": "Band Gap is a fundamental concept in physics.",
   "explanation": "Learn about Band Gap and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "band-gap"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.differential-equations.chapter-14.topic-13",
   "name": "**Graph Theory**",
   "subject": "mathematics",
+  "summary": "**Graph Theory** is a fundamental concept in mathematics.",
   "definition": "**Graph Theory** is a fundamental concept in mathematics.",
   "explanation": "Learn about **Graph Theory** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "graph-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

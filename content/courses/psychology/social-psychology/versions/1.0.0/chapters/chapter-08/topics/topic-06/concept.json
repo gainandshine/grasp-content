@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-08.topic-06",
   "name": "Bystander Effect",
   "subject": "psychology",
+  "summary": "Bystander Effect is a fundamental concept in psychology.",
   "definition": "Bystander Effect is a fundamental concept in psychology.",
   "explanation": "Learn about Bystander Effect and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "bystander-effect"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

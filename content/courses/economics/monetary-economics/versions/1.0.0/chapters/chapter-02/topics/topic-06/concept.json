@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-02.topic-06",
   "name": "Liquidity",
   "subject": "economics",
+  "summary": "Liquidity is a fundamental concept in economics.",
   "definition": "Liquidity is a fundamental concept in economics.",
   "explanation": "Learn about Liquidity and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "liquidity"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-13.topic-08",
   "name": "Nervous System",
   "subject": "psychology",
+  "summary": "Nervous System is a fundamental concept in psychology.",
   "definition": "Nervous System is a fundamental concept in psychology.",
   "explanation": "Learn about Nervous System and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "nervous-system"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-08.topic-03",
   "name": "Statistical Mechanics",
   "subject": "chemistry",
+  "summary": "Statistical Mechanics is a fundamental concept in chemistry.",
   "definition": "Statistical Mechanics is a fundamental concept in chemistry.",
   "explanation": "Learn about Statistical Mechanics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "statistical-mechanics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

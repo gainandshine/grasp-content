@@ -2,6 +2,7 @@
   "id": "chemistry.periodic-table.chapter-03.topic-05",
   "name": "Periodicity from Electron Configuration",
   "subject": "chemistry",
+  "summary": "Periodicity from Electron Configuration is a fundamental concept in chemistry.",
   "definition": "Periodicity from Electron Configuration is a fundamental concept in chemistry.",
   "explanation": "Learn about Periodicity from Electron Configuration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "periodicity-from-electron-configuration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

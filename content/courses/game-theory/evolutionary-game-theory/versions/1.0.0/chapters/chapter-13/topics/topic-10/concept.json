@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-13.topic-10",
   "name": "Truthful Mechanisms",
   "subject": "game-theory",
+  "summary": "Truthful Mechanisms is a fundamental concept in game-theory.",
   "definition": "Truthful Mechanisms is a fundamental concept in game-theory.",
   "explanation": "Learn about Truthful Mechanisms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "truthful-mechanisms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-08.topic-06",
   "name": "Cambrian Explosion",
   "subject": "biology",
+  "summary": "Cambrian Explosion is a fundamental concept in biology.",
   "definition": "Cambrian Explosion is a fundamental concept in biology.",
   "explanation": "Learn about Cambrian Explosion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cambrian-explosion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.strategic-decision-making.chapter-02.topic-01",
   "name": "Decision Trees",
   "subject": "game-theory",
+  "summary": "Decision Trees is a fundamental concept in game-theory.",
   "definition": "Decision Trees is a fundamental concept in game-theory.",
   "explanation": "Learn about Decision Trees and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "decision-trees"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

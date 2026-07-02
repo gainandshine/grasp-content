@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-11.topic-04",
   "name": "Reconnaissance",
   "subject": "computer-science",
+  "summary": "Reconnaissance is a fundamental concept in computer-science.",
   "definition": "Reconnaissance is a fundamental concept in computer-science.",
   "explanation": "Learn about Reconnaissance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "reconnaissance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-06.topic-03",
   "name": "Geometric Distribution",
   "subject": "mathematics",
+  "summary": "Geometric Distribution is a fundamental concept in mathematics.",
   "definition": "Geometric Distribution is a fundamental concept in mathematics.",
   "explanation": "Learn about Geometric Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "geometric-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

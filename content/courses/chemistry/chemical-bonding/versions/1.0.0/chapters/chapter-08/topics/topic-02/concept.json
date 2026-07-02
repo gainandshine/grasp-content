@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-08.topic-02",
   "name": "Electron Sea Model",
   "subject": "chemistry",
+  "summary": "Electron Sea Model is a fundamental concept in chemistry.",
   "definition": "Electron Sea Model is a fundamental concept in chemistry.",
   "explanation": "Learn about Electron Sea Model and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electron-sea-model"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

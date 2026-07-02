@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-08.topic-01",
   "name": "Potentiometry",
   "subject": "chemistry",
+  "summary": "Potentiometry is a fundamental concept in chemistry.",
   "definition": "Potentiometry is a fundamental concept in chemistry.",
   "explanation": "Learn about Potentiometry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "potentiometry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

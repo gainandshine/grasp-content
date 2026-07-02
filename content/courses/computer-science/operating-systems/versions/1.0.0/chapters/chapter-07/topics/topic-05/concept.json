@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-07.topic-05",
   "name": "Thrashing",
   "subject": "computer-science",
+  "summary": "Thrashing is a fundamental concept in computer-science.",
   "definition": "Thrashing is a fundamental concept in computer-science.",
   "explanation": "Learn about Thrashing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "thrashing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

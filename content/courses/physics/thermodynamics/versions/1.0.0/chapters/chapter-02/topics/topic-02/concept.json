@@ -2,6 +2,7 @@
   "id": "physics.thermodynamics.chapter-02.topic-02",
   "name": "Area Expansion",
   "subject": "physics",
+  "summary": "Area Expansion is a fundamental concept in physics.",
   "definition": "Area Expansion is a fundamental concept in physics.",
   "explanation": "Learn about Area Expansion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "area-expansion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

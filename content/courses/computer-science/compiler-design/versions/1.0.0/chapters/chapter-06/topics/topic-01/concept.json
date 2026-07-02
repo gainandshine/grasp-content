@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-06.topic-01",
   "name": "Constant Folding",
   "subject": "computer-science",
+  "summary": "Constant Folding is a fundamental concept in computer-science.",
   "definition": "Constant Folding is a fundamental concept in computer-science.",
   "explanation": "Learn about Constant Folding and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "constant-folding"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

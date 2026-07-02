@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-10.topic-05",
   "name": "Sets",
   "subject": "computer-science",
+  "summary": "Sets is a fundamental concept in computer-science.",
   "definition": "Sets is a fundamental concept in computer-science.",
   "explanation": "Learn about Sets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

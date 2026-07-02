@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-10.topic-07",
   "name": "Self & Mutual Inductance",
   "subject": "physics",
+  "summary": "Self & Mutual Inductance is a fundamental concept in physics.",
   "definition": "Self & Mutual Inductance is a fundamental concept in physics.",
   "explanation": "Learn about Self & Mutual Inductance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "self-mutual-inductance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

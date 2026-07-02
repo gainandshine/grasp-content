@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-13.topic-11",
   "name": "Sampling",
   "subject": "psychology",
+  "summary": "Sampling is a fundamental concept in psychology.",
   "definition": "Sampling is a fundamental concept in psychology.",
   "explanation": "Learn about Sampling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "sampling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

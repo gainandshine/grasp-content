@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-13.topic-01",
   "name": "Proteomics",
   "subject": "biology",
+  "summary": "Proteomics is a fundamental concept in biology.",
   "definition": "Proteomics is a fundamental concept in biology.",
   "explanation": "Learn about Proteomics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "proteomics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

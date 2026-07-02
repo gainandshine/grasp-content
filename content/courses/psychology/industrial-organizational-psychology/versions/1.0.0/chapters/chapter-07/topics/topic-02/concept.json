@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-07.topic-02",
   "name": "Organizational Climate",
   "subject": "psychology",
+  "summary": "Organizational Climate is a fundamental concept in psychology.",
   "definition": "Organizational Climate is a fundamental concept in psychology.",
   "explanation": "Learn about Organizational Climate and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "organizational-climate"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

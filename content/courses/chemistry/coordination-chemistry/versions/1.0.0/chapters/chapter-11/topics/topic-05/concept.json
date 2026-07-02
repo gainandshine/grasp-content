@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-11.topic-05",
   "name": "Metalloenzymes",
   "subject": "chemistry",
+  "summary": "Metalloenzymes is a fundamental concept in chemistry.",
   "definition": "Metalloenzymes is a fundamental concept in chemistry.",
   "explanation": "Learn about Metalloenzymes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metalloenzymes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

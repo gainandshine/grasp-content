@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-22.topic-02",
   "name": "Phasors",
   "subject": "physics",
+  "summary": "Phasors is a fundamental concept in physics.",
   "definition": "Phasors is a fundamental concept in physics.",
   "explanation": "Learn about Phasors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "phasors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

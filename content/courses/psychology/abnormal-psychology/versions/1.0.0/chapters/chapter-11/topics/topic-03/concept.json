@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-11.topic-03",
   "name": "Mental Health Promotion",
   "subject": "psychology",
+  "summary": "Mental Health Promotion is a fundamental concept in psychology.",
   "definition": "Mental Health Promotion is a fundamental concept in psychology.",
   "explanation": "Learn about Mental Health Promotion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mental-health-promotion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

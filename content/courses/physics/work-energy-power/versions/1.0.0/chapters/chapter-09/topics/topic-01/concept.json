@@ -2,6 +2,7 @@
   "id": "physics.work-energy-power.chapter-09.topic-01",
   "name": "Multi-Body Systems",
   "subject": "physics",
+  "summary": "Multi-Body Systems is a fundamental concept in physics.",
   "definition": "Multi-Body Systems is a fundamental concept in physics.",
   "explanation": "Learn about Multi-Body Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "multi-body-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

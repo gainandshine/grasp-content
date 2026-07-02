@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-13.topic-01",
   "name": "Correlated Equilibrium",
   "subject": "game-theory",
+  "summary": "Correlated Equilibrium is a fundamental concept in game-theory.",
   "definition": "Correlated Equilibrium is a fundamental concept in game-theory.",
   "explanation": "Learn about Correlated Equilibrium and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "correlated-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

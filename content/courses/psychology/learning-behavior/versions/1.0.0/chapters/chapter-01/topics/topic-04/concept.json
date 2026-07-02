@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-01.topic-04",
   "name": "Behavior",
   "subject": "psychology",
+  "summary": "Behavior is a fundamental concept in psychology.",
   "definition": "Behavior is a fundamental concept in psychology.",
   "explanation": "Learn about Behavior and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "behavior"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

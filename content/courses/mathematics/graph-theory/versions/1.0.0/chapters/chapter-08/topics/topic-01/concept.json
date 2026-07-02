@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-08.topic-01",
   "name": "Flow Networks",
   "subject": "mathematics",
+  "summary": "Flow Networks is a fundamental concept in mathematics.",
   "definition": "Flow Networks is a fundamental concept in mathematics.",
   "explanation": "Learn about Flow Networks and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "flow-networks"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

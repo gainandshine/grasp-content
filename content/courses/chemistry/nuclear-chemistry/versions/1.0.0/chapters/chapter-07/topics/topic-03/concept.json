@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-07.topic-03",
   "name": "Semiconductor Detector",
   "subject": "chemistry",
+  "summary": "Semiconductor Detector is a fundamental concept in chemistry.",
   "definition": "Semiconductor Detector is a fundamental concept in chemistry.",
   "explanation": "Learn about Semiconductor Detector and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "semiconductor-detector"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-12.topic-03",
   "name": "Electrochemical Impedance Spectroscopy",
   "subject": "chemistry",
+  "summary": "Electrochemical Impedance Spectroscopy is a fundamental concept in chemistry.",
   "definition": "Electrochemical Impedance Spectroscopy is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrochemical Impedance Spectroscopy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrochemical-impedance-spectroscopy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

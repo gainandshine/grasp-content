@@ -2,6 +2,7 @@
   "id": "chemistry.chemistry-foundations.chapter-03.topic-07",
   "name": "Solubility",
   "subject": "chemistry",
+  "summary": "Solubility is a fundamental concept in chemistry.",
   "definition": "Solubility is a fundamental concept in chemistry.",
   "explanation": "Learn about Solubility and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solubility"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

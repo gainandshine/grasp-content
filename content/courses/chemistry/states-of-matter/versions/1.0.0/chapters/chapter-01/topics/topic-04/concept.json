@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-01.topic-04",
   "name": "Intermolecular Forces (Review)",
   "subject": "chemistry",
+  "summary": "Intermolecular Forces (Review) is a fundamental concept in chemistry.",
   "definition": "Intermolecular Forces (Review) is a fundamental concept in chemistry.",
   "explanation": "Learn about Intermolecular Forces (Review) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "intermolecular-forces-review"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

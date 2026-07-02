@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-13.topic-03",
   "name": "Biomaterials",
   "subject": "chemistry",
+  "summary": "Biomaterials is a fundamental concept in chemistry.",
   "definition": "Biomaterials is a fundamental concept in chemistry.",
   "explanation": "Learn about Biomaterials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biomaterials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

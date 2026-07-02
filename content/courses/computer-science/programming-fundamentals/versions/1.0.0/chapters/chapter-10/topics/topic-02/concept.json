@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-10.topic-02",
   "name": "Runtime Errors",
   "subject": "computer-science",
+  "summary": "Runtime Errors is a fundamental concept in computer-science.",
   "definition": "Runtime Errors is a fundamental concept in computer-science.",
   "explanation": "Learn about Runtime Errors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "runtime-errors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

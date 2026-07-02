@@ -2,6 +2,7 @@
   "id": "economics.monetary-economics.chapter-10.topic-06",
   "name": "Central Bank Digital Currencies (CBDCs)",
   "subject": "economics",
+  "summary": "Central Bank Digital Currencies (CBDCs) is a fundamental concept in economics.",
   "definition": "Central Bank Digital Currencies (CBDCs) is a fundamental concept in economics.",
   "explanation": "Learn about Central Bank Digital Currencies (CBDCs) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "central-bank-digital-currencies-cbdcs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-05.topic-03",
   "name": "Elastomers",
   "subject": "chemistry",
+  "summary": "Elastomers is a fundamental concept in chemistry.",
   "definition": "Elastomers is a fundamental concept in chemistry.",
   "explanation": "Learn about Elastomers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "elastomers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

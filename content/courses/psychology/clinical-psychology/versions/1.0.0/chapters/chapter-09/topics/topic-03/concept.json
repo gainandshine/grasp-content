@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-09.topic-03",
   "name": "Adult Mental Health",
   "subject": "psychology",
+  "summary": "Adult Mental Health is a fundamental concept in psychology.",
   "definition": "Adult Mental Health is a fundamental concept in psychology.",
   "explanation": "Learn about Adult Mental Health and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "adult-mental-health"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-10.topic-02",
   "name": "Aircraft Wings",
   "subject": "physics",
+  "summary": "Aircraft Wings is a fundamental concept in physics.",
   "definition": "Aircraft Wings is a fundamental concept in physics.",
   "explanation": "Learn about Aircraft Wings and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "aircraft-wings"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-09.topic-02",
   "name": "Long-Term Contracts",
   "subject": "game-theory",
+  "summary": "Long-Term Contracts is a fundamental concept in game-theory.",
   "definition": "Long-Term Contracts is a fundamental concept in game-theory.",
   "explanation": "Learn about Long-Term Contracts and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "long-term-contracts"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

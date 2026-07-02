@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-05",
   "name": "Gradient Vector",
   "subject": "mathematics",
+  "summary": "Gradient Vector is a fundamental concept in mathematics.",
   "definition": "Gradient Vector is a fundamental concept in mathematics.",
   "explanation": "Learn about Gradient Vector and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "gradient-vector"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

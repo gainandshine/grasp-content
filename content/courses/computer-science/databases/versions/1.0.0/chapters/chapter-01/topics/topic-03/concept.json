@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-01.topic-03",
   "name": "Types of Databases",
   "subject": "computer-science",
+  "summary": "Types of Databases is a fundamental concept in computer-science.",
   "definition": "Types of Databases is a fundamental concept in computer-science.",
   "explanation": "Learn about Types of Databases and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "types-of-databases"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

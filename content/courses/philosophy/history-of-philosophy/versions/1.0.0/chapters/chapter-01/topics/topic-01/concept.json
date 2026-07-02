@@ -2,6 +2,7 @@
   "id": "philosophy.history-of-philosophy.chapter-01.topic-01",
   "name": "Myth to Reason",
   "subject": "philosophy",
+  "summary": "Myth to Reason is a fundamental concept in philosophy.",
   "definition": "Myth to Reason is a fundamental concept in philosophy.",
   "explanation": "Learn about Myth to Reason and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "myth-to-reason"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

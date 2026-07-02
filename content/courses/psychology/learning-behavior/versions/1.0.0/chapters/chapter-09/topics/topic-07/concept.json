@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-09.topic-07",
   "name": "Behavior Modification",
   "subject": "psychology",
+  "summary": "Behavior Modification is a fundamental concept in psychology.",
   "definition": "Behavior Modification is a fundamental concept in psychology.",
   "explanation": "Learn about Behavior Modification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "behavior-modification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

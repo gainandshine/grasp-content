@@ -2,6 +2,7 @@
   "id": "philosophy.metaphysics.chapter-11.topic-02",
   "name": "Cosmology",
   "subject": "philosophy",
+  "summary": "Cosmology is a fundamental concept in philosophy.",
   "definition": "Cosmology is a fundamental concept in philosophy.",
   "explanation": "Learn about Cosmology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "cosmology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

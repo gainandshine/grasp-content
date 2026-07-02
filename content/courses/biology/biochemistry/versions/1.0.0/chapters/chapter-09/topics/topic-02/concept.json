@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-09.topic-02",
   "name": "Fatty Acid Synthesis",
   "subject": "biology",
+  "summary": "Fatty Acid Synthesis is a fundamental concept in biology.",
   "definition": "Fatty Acid Synthesis is a fundamental concept in biology.",
   "explanation": "Learn about Fatty Acid Synthesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "fatty-acid-synthesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

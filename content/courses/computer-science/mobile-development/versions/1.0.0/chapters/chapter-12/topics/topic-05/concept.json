@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-12.topic-05",
   "name": "Performance Tradeoffs",
   "subject": "computer-science",
+  "summary": "Performance Tradeoffs is a fundamental concept in computer-science.",
   "definition": "Performance Tradeoffs is a fundamental concept in computer-science.",
   "explanation": "Learn about Performance Tradeoffs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "performance-tradeoffs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

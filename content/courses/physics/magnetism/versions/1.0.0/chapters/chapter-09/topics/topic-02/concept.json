@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-09.topic-02",
   "name": "Loudspeakers",
   "subject": "physics",
+  "summary": "Loudspeakers is a fundamental concept in physics.",
   "definition": "Loudspeakers is a fundamental concept in physics.",
   "explanation": "Learn about Loudspeakers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "loudspeakers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

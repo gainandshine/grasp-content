@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-03.topic-04",
   "name": "Shearing",
   "subject": "computer-science",
+  "summary": "Shearing is a fundamental concept in computer-science.",
   "definition": "Shearing is a fundamental concept in computer-science.",
   "explanation": "Learn about Shearing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "shearing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

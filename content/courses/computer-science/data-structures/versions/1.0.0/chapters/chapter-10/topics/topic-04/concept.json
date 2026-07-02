@@ -2,6 +2,7 @@
   "id": "computer-science.data-structures.chapter-10.topic-04",
   "name": "Weighted Graphs",
   "subject": "computer-science",
+  "summary": "Weighted Graphs is a fundamental concept in computer-science.",
   "definition": "Weighted Graphs is a fundamental concept in computer-science.",
   "explanation": "Learn about Weighted Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "weighted-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

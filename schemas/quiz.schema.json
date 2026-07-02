@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Quiz",
+  "type": "object",
+  "required": ["id", "questions"],
+  "properties": {
+    "id": { "type": "string" },
+    "questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "stem", "options", "correctIndex", "explanation"],
+        "properties": {
+          "id": { "type": "string" },
+          "stem": { "type": "string" },
+          "options": { "type": "array", "items": { "type": "string" }, "minItems": 2 },
+          "correctIndex": { "type": "integer", "minimum": 0 },
+          "explanation": { "type": "string" },
+          "difficulty": { "type": "string", "enum": ["beginner", "intermediate", "advanced"] },
+          "tags": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "difficulty": { "type": "string" },
+        "estimatedMinutes": { "type": "number" },
+        "passingScore": { "type": "number", "minimum": 0, "maximum": 100 }
+      }
+    }
+  }
+}

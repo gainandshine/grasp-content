@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-11.topic-03",
   "name": "Nanomaterial Simulation",
   "subject": "chemistry",
+  "summary": "Nanomaterial Simulation is a fundamental concept in chemistry.",
   "definition": "Nanomaterial Simulation is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanomaterial Simulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanomaterial-simulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

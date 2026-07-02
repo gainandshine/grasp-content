@@ -2,6 +2,7 @@
   "id": "game-theory.simultaneous-games.chapter-07.topic-04",
   "name": "Assurance Games",
   "subject": "game-theory",
+  "summary": "Assurance Games is a fundamental concept in game-theory.",
   "definition": "Assurance Games is a fundamental concept in game-theory.",
   "explanation": "Learn about Assurance Games and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "assurance-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-13.topic-19",
   "name": "Cognitive Neuroscience",
   "subject": "psychology",
+  "summary": "Cognitive Neuroscience is a fundamental concept in psychology.",
   "definition": "Cognitive Neuroscience is a fundamental concept in psychology.",
   "explanation": "Learn about Cognitive Neuroscience and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cognitive-neuroscience"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

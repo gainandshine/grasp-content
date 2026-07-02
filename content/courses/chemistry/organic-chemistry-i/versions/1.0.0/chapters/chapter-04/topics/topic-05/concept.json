@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-04.topic-05",
   "name": "Branched Chains",
   "subject": "chemistry",
+  "summary": "Branched Chains is a fundamental concept in chemistry.",
   "definition": "Branched Chains is a fundamental concept in chemistry.",
   "explanation": "Learn about Branched Chains and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "branched-chains"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

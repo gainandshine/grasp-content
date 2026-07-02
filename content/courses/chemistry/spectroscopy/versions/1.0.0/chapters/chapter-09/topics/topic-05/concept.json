@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-09.topic-05",
   "name": "Fluorescent Probes",
   "subject": "chemistry",
+  "summary": "Fluorescent Probes is a fundamental concept in chemistry.",
   "definition": "Fluorescent Probes is a fundamental concept in chemistry.",
   "explanation": "Learn about Fluorescent Probes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fluorescent-probes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

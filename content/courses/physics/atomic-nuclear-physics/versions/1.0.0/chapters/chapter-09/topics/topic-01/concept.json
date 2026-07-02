@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-09.topic-01",
   "name": "Reactor Components",
   "subject": "physics",
+  "summary": "Reactor Components is a fundamental concept in physics.",
   "definition": "Reactor Components is a fundamental concept in physics.",
   "explanation": "Learn about Reactor Components and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "reactor-components"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "philosophy.logic.chapter-13.topic-19",
   "name": "Contemporary Epistemology",
   "subject": "philosophy",
+  "summary": "Contemporary Epistemology is a fundamental concept in philosophy.",
   "definition": "Contemporary Epistemology is a fundamental concept in philosophy.",
   "explanation": "Learn about Contemporary Epistemology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "contemporary-epistemology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

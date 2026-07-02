@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-04.topic-03",
   "name": "Boosting",
   "subject": "computer-science",
+  "summary": "Boosting is a fundamental concept in computer-science.",
   "definition": "Boosting is a fundamental concept in computer-science.",
   "explanation": "Learn about Boosting and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "boosting"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

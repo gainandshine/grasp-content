@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-02.topic-03",
   "name": "Line Spectra",
   "subject": "physics",
+  "summary": "Line Spectra is a fundamental concept in physics.",
   "definition": "Line Spectra is a fundamental concept in physics.",
   "explanation": "Learn about Line Spectra and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "line-spectra"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

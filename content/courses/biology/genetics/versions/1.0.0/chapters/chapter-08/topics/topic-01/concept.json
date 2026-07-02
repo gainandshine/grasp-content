@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-08.topic-01",
   "name": "Gene Pool",
   "subject": "biology",
+  "summary": "Gene Pool is a fundamental concept in biology.",
   "definition": "Gene Pool is a fundamental concept in biology.",
   "explanation": "Learn about Gene Pool and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gene-pool"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

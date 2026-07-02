@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-01.topic-02",
   "name": "Isotopes of Hydrogen",
   "subject": "chemistry",
+  "summary": "Isotopes of Hydrogen is a fundamental concept in chemistry.",
   "definition": "Isotopes of Hydrogen is a fundamental concept in chemistry.",
   "explanation": "Learn about Isotopes of Hydrogen and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "isotopes-of-hydrogen"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

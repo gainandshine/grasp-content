@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-09.topic-05",
   "name": "Modules",
   "subject": "computer-science",
+  "summary": "Modules is a fundamental concept in computer-science.",
   "definition": "Modules is a fundamental concept in computer-science.",
   "explanation": "Learn about Modules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "modules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

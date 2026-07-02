@@ -2,6 +2,7 @@
   "id": "economics.behavioral-economics.chapter-09.topic-03",
   "name": "Pricing Psychology",
   "subject": "economics",
+  "summary": "Pricing Psychology is a fundamental concept in economics.",
   "definition": "Pricing Psychology is a fundamental concept in economics.",
   "explanation": "Learn about Pricing Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "pricing-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

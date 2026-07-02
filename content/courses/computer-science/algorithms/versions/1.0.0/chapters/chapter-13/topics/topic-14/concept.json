@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-13.topic-14",
   "name": "Sequential Circuits",
   "subject": "computer-science",
+  "summary": "Sequential Circuits is a fundamental concept in computer-science.",
   "definition": "Sequential Circuits is a fundamental concept in computer-science.",
   "explanation": "Learn about Sequential Circuits and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "sequential-circuits"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

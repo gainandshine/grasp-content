@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-08.topic-05",
   "name": "Transformers (Introduction)",
   "subject": "computer-science",
+  "summary": "Transformers (Introduction) is a fundamental concept in computer-science.",
   "definition": "Transformers (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Transformers (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "transformers-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

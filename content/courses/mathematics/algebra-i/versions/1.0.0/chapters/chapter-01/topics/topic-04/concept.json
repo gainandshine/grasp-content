@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-01.topic-04",
   "name": "Coefficients",
   "subject": "mathematics",
+  "summary": "Coefficients is a fundamental concept in mathematics.",
   "definition": "Coefficients is a fundamental concept in mathematics.",
   "explanation": "Learn about Coefficients and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "coefficients"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

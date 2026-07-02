@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-07.topic-02",
   "name": "Shared Responsibility Model",
   "subject": "computer-science",
+  "summary": "Shared Responsibility Model is a fundamental concept in computer-science.",
   "definition": "Shared Responsibility Model is a fundamental concept in computer-science.",
   "explanation": "Learn about Shared Responsibility Model and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "shared-responsibility-model"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

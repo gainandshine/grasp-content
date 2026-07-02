@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-13.topic-11",
   "name": "Adolescence",
   "subject": "psychology",
+  "summary": "Adolescence is a fundamental concept in psychology.",
   "definition": "Adolescence is a fundamental concept in psychology.",
   "explanation": "Learn about Adolescence and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "adolescence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

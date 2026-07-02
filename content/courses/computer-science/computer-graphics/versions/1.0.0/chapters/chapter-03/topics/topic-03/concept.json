@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-03.topic-03",
   "name": "Scaling",
   "subject": "computer-science",
+  "summary": "Scaling is a fundamental concept in computer-science.",
   "definition": "Scaling is a fundamental concept in computer-science.",
   "explanation": "Learn about Scaling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "scaling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

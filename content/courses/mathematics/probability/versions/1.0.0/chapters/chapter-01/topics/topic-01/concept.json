@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-01.topic-01",
   "name": "Random Experiments",
   "subject": "mathematics",
+  "summary": "Random Experiments is a fundamental concept in mathematics.",
   "definition": "Random Experiments is a fundamental concept in mathematics.",
   "explanation": "Learn about Random Experiments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "random-experiments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

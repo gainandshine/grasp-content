@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-02.topic-06",
   "name": "Winner's Curse",
   "subject": "game-theory",
+  "summary": "Winner's Curse is a fundamental concept in game-theory.",
   "definition": "Winner's Curse is a fundamental concept in game-theory.",
   "explanation": "Learn about Winner's Curse and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "winners-curse"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

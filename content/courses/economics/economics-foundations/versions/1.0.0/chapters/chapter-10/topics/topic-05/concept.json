@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-10.topic-05",
   "name": "Fiscal Policy",
   "subject": "economics",
+  "summary": "Fiscal Policy is a fundamental concept in economics.",
   "definition": "Fiscal Policy is a fundamental concept in economics.",
   "explanation": "Learn about Fiscal Policy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "fiscal-policy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

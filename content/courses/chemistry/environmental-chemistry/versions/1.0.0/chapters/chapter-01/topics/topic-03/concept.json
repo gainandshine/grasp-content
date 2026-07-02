@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-01.topic-03",
   "name": "Natural vs Anthropogenic Processes",
   "subject": "chemistry",
+  "summary": "Natural vs Anthropogenic Processes is a fundamental concept in chemistry.",
   "definition": "Natural vs Anthropogenic Processes is a fundamental concept in chemistry.",
   "explanation": "Learn about Natural vs Anthropogenic Processes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "natural-vs-anthropogenic-processes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

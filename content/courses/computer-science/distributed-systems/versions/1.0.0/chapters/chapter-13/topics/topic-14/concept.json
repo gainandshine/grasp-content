@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-13.topic-14",
   "name": "Optimization",
   "subject": "computer-science",
+  "summary": "Optimization is a fundamental concept in computer-science.",
   "definition": "Optimization is a fundamental concept in computer-science.",
   "explanation": "Learn about Optimization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "optimization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

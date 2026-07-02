@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-06.topic-06",
   "name": "Embryology",
   "subject": "biology",
+  "summary": "Embryology is a fundamental concept in biology.",
   "definition": "Embryology is a fundamental concept in biology.",
   "explanation": "Learn about Embryology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "embryology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

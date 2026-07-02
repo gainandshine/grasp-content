@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-05.topic-02",
   "name": "Crossing Over",
   "subject": "biology",
+  "summary": "Crossing Over is a fundamental concept in biology.",
   "definition": "Crossing Over is a fundamental concept in biology.",
   "explanation": "Learn about Crossing Over and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "crossing-over"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

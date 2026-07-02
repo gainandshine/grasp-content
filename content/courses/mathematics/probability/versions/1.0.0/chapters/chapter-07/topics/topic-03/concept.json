@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-07.topic-03",
   "name": "Exponential Distribution",
   "subject": "mathematics",
+  "summary": "Exponential Distribution is a fundamental concept in mathematics.",
   "definition": "Exponential Distribution is a fundamental concept in mathematics.",
   "explanation": "Learn about Exponential Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "exponential-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

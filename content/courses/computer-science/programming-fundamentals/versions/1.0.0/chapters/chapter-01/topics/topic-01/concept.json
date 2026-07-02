@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-01.topic-01",
   "name": "What is Programming?",
   "subject": "computer-science",
+  "summary": "What is Programming? is a fundamental concept in computer-science.",
   "definition": "What is Programming? is a fundamental concept in computer-science.",
   "explanation": "Learn about What is Programming? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "what-is-programming"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.computational-chemistry.chapter-01.topic-01",
   "name": "What is Computational Chemistry?",
   "subject": "chemistry",
+  "summary": "What is Computational Chemistry? is a fundamental concept in chemistry.",
   "definition": "What is Computational Chemistry? is a fundamental concept in chemistry.",
   "explanation": "Learn about What is Computational Chemistry? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "what-is-computational-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

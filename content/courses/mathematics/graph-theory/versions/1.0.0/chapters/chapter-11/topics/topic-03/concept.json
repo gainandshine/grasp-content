@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-11.topic-03",
   "name": "Planar Graphs",
   "subject": "mathematics",
+  "summary": "Planar Graphs is a fundamental concept in mathematics.",
   "definition": "Planar Graphs is a fundamental concept in mathematics.",
   "explanation": "Learn about Planar Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "planar-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

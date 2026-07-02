@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-08.topic-02",
   "name": "Rectangles",
   "subject": "mathematics",
+  "summary": "Rectangles is a fundamental concept in mathematics.",
   "definition": "Rectangles is a fundamental concept in mathematics.",
   "explanation": "Learn about Rectangles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rectangles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

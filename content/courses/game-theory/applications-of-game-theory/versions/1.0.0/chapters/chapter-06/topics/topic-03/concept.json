@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-06.topic-03",
   "name": "Autonomous Negotiation",
   "subject": "game-theory",
+  "summary": "Autonomous Negotiation is a fundamental concept in game-theory.",
   "definition": "Autonomous Negotiation is a fundamental concept in game-theory.",
   "explanation": "Learn about Autonomous Negotiation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "autonomous-negotiation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-11.topic-06",
   "name": "Goodness of Fit",
   "subject": "mathematics",
+  "summary": "Goodness of Fit is a fundamental concept in mathematics.",
   "definition": "Goodness of Fit is a fundamental concept in mathematics.",
   "explanation": "Learn about Goodness of Fit and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "goodness-of-fit"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.evolutionary-game-theory.chapter-13.topic-03",
   "name": "Network Evolution",
   "subject": "game-theory",
+  "summary": "Network Evolution is a fundamental concept in game-theory.",
   "definition": "Network Evolution is a fundamental concept in game-theory.",
   "explanation": "Learn about Network Evolution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "network-evolution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

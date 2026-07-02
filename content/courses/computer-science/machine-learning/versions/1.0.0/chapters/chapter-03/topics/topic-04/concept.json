@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-03.topic-04",
   "name": "Logistic Regression",
   "subject": "computer-science",
+  "summary": "Logistic Regression is a fundamental concept in computer-science.",
   "definition": "Logistic Regression is a fundamental concept in computer-science.",
   "explanation": "Learn about Logistic Regression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "logistic-regression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

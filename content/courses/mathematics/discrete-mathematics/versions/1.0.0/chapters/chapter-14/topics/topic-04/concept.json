@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-14.topic-04",
   "name": "Bayes' Theorem",
   "subject": "mathematics",
+  "summary": "Bayes' Theorem is a fundamental concept in mathematics.",
   "definition": "Bayes' Theorem is a fundamental concept in mathematics.",
   "explanation": "Learn about Bayes' Theorem and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "bayes-theorem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

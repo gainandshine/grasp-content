@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-05.topic-03",
   "name": "CNO Cycle",
   "subject": "physics",
+  "summary": "CNO Cycle is a fundamental concept in physics.",
   "definition": "CNO Cycle is a fundamental concept in physics.",
   "explanation": "Learn about CNO Cycle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "cno-cycle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.biomolecules.chapter-08.topic-01",
   "name": "Fat-Soluble Vitamins",
   "subject": "chemistry",
+  "summary": "Fat-Soluble Vitamins is a fundamental concept in chemistry.",
   "definition": "Fat-Soluble Vitamins is a fundamental concept in chemistry.",
   "explanation": "Learn about Fat-Soluble Vitamins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fat-soluble-vitamins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

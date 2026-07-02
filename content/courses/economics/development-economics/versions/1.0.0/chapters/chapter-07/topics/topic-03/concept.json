@@ -2,6 +2,7 @@
   "id": "economics.development-economics.chapter-07.topic-03",
   "name": "Structural Transformation",
   "subject": "economics",
+  "summary": "Structural Transformation is a fundamental concept in economics.",
   "definition": "Structural Transformation is a fundamental concept in economics.",
   "explanation": "Learn about Structural Transformation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "structural-transformation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

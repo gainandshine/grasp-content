@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-06.topic-01",
   "name": "Puberty",
   "subject": "psychology",
+  "summary": "Puberty is a fundamental concept in psychology.",
   "definition": "Puberty is a fundamental concept in psychology.",
   "explanation": "Learn about Puberty and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "puberty"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

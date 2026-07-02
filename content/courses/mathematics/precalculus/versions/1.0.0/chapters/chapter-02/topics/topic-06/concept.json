@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-02.topic-06",
   "name": "Parent Functions",
   "subject": "mathematics",
+  "summary": "Parent Functions is a fundamental concept in mathematics.",
   "definition": "Parent Functions is a fundamental concept in mathematics.",
   "explanation": "Learn about Parent Functions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "parent-functions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

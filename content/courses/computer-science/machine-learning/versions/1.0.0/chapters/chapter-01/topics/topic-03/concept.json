@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-01.topic-03",
   "name": "ML Workflow",
   "subject": "computer-science",
+  "summary": "ML Workflow is a fundamental concept in computer-science.",
   "definition": "ML Workflow is a fundamental concept in computer-science.",
   "explanation": "Learn about ML Workflow and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "ml-workflow"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

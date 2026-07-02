@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-02.topic-01",
   "name": "Oxidation Number",
   "subject": "chemistry",
+  "summary": "Oxidation Number is a fundamental concept in chemistry.",
   "definition": "Oxidation Number is a fundamental concept in chemistry.",
   "explanation": "Learn about Oxidation Number and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "oxidation-number"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.analytical-chemistry.chapter-03.topic-04",
   "name": "Significant Figures",
   "subject": "chemistry",
+  "summary": "Significant Figures is a fundamental concept in chemistry.",
   "definition": "Significant Figures is a fundamental concept in chemistry.",
   "explanation": "Learn about Significant Figures and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "significant-figures"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

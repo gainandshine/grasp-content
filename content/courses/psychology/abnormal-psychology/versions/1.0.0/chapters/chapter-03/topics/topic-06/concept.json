@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-03.topic-06",
   "name": "Anxiety Assessment",
   "subject": "psychology",
+  "summary": "Anxiety Assessment is a fundamental concept in psychology.",
   "definition": "Anxiety Assessment is a fundamental concept in psychology.",
   "explanation": "Learn about Anxiety Assessment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "anxiety-assessment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

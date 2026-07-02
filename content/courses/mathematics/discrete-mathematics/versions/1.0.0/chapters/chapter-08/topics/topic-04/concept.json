@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-08.topic-04",
   "name": "Characteristic Equations",
   "subject": "mathematics",
+  "summary": "Characteristic Equations is a fundamental concept in mathematics.",
   "definition": "Characteristic Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Characteristic Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "characteristic-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

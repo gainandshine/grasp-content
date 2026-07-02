@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-10.topic-04",
   "name": "Solar Cells",
   "subject": "chemistry",
+  "summary": "Solar Cells is a fundamental concept in chemistry.",
   "definition": "Solar Cells is a fundamental concept in chemistry.",
   "explanation": "Learn about Solar Cells and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solar-cells"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

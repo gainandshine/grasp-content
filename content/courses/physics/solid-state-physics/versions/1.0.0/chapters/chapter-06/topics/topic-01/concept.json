@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-06.topic-01",
   "name": "Energy Bands",
   "subject": "physics",
+  "summary": "Energy Bands is a fundamental concept in physics.",
   "definition": "Energy Bands is a fundamental concept in physics.",
   "explanation": "Learn about Energy Bands and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "energy-bands"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

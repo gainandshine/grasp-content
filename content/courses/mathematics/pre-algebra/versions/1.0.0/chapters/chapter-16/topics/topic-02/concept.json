@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-16.topic-02",
   "name": "Logical Reasoning",
   "subject": "mathematics",
+  "summary": "Logical Reasoning is a fundamental concept in mathematics.",
   "definition": "Logical Reasoning is a fundamental concept in mathematics.",
   "explanation": "Learn about Logical Reasoning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "logical-reasoning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

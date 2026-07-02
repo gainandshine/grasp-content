@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-10.topic-02",
   "name": "Urban Ecology",
   "subject": "biology",
+  "summary": "Urban Ecology is a fundamental concept in biology.",
   "definition": "Urban Ecology is a fundamental concept in biology.",
   "explanation": "Learn about Urban Ecology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "urban-ecology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

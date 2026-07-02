@@ -2,6 +2,7 @@
   "id": "biology.biology-foundations.chapter-02.topic-01",
   "name": "Atoms",
   "subject": "biology",
+  "summary": "Atoms is a fundamental concept in biology.",
   "definition": "Atoms is a fundamental concept in biology.",
   "explanation": "Learn about Atoms and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "atoms"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

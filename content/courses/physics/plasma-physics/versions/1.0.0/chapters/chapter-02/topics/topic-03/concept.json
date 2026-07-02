@@ -2,6 +2,7 @@
   "id": "physics.plasma-physics.chapter-02.topic-03",
   "name": "Degree of Ionization",
   "subject": "physics",
+  "summary": "Degree of Ionization is a fundamental concept in physics.",
   "definition": "Degree of Ionization is a fundamental concept in physics.",
   "explanation": "Learn about Degree of Ionization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "degree-of-ionization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

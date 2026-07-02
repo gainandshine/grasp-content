@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-07.topic-06",
   "name": "Chi-Square Distribution",
   "subject": "mathematics",
+  "summary": "Chi-Square Distribution is a fundamental concept in mathematics.",
   "definition": "Chi-Square Distribution is a fundamental concept in mathematics.",
   "explanation": "Learn about Chi-Square Distribution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "chi-square-distribution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

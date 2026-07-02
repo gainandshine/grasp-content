@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-07.topic-08",
   "name": "Recursion (Introduction)",
   "subject": "computer-science",
+  "summary": "Recursion (Introduction) is a fundamental concept in computer-science.",
   "definition": "Recursion (Introduction) is a fundamental concept in computer-science.",
   "explanation": "Learn about Recursion (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "recursion-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

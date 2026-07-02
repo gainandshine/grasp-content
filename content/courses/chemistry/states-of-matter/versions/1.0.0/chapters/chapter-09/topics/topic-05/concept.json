@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-09.topic-05",
   "name": "Phase Rule (Introduction)",
   "subject": "chemistry",
+  "summary": "Phase Rule (Introduction) is a fundamental concept in chemistry.",
   "definition": "Phase Rule (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Phase Rule (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "phase-rule-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

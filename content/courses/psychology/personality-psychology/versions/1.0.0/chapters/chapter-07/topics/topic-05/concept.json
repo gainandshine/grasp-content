@@ -2,6 +2,7 @@
   "id": "psychology.personality-psychology.chapter-07.topic-05",
   "name": "Culture",
   "subject": "psychology",
+  "summary": "Culture is a fundamental concept in psychology.",
   "definition": "Culture is a fundamental concept in psychology.",
   "explanation": "Learn about Culture and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "culture"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-07.topic-05",
   "name": "Sample Size Determination",
   "subject": "mathematics",
+  "summary": "Sample Size Determination is a fundamental concept in mathematics.",
   "definition": "Sample Size Determination is a fundamental concept in mathematics.",
   "explanation": "Learn about Sample Size Determination and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "sample-size-determination"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

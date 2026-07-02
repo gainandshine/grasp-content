@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-03.topic-07",
   "name": "Same-Side Interior Angles",
   "subject": "mathematics",
+  "summary": "Same-Side Interior Angles is a fundamental concept in mathematics.",
   "definition": "Same-Side Interior Angles is a fundamental concept in mathematics.",
   "explanation": "Learn about Same-Side Interior Angles and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "same-side-interior-angles"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

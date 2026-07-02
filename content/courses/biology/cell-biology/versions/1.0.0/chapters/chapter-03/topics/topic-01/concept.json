@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-03.topic-01",
   "name": "Nucleus",
   "subject": "biology",
+  "summary": "Nucleus is a fundamental concept in biology.",
   "definition": "Nucleus is a fundamental concept in biology.",
   "explanation": "Learn about Nucleus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "nucleus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

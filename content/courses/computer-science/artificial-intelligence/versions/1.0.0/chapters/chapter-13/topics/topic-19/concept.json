@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-13.topic-19",
   "name": "MLOps",
   "subject": "computer-science",
+  "summary": "MLOps is a fundamental concept in computer-science.",
   "definition": "MLOps is a fundamental concept in computer-science.",
   "explanation": "Learn about MLOps and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mlops"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

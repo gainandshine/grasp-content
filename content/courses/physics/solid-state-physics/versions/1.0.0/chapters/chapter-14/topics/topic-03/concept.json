@@ -2,6 +2,7 @@
   "id": "physics.solid-state-physics.chapter-14.topic-03",
   "name": "Memory Devices",
   "subject": "physics",
+  "summary": "Memory Devices is a fundamental concept in physics.",
   "definition": "Memory Devices is a fundamental concept in physics.",
   "explanation": "Learn about Memory Devices and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "memory-devices"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

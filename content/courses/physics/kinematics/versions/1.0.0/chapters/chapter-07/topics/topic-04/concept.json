@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-07.topic-04",
   "name": "Angular Acceleration",
   "subject": "physics",
+  "summary": "Angular Acceleration is a fundamental concept in physics.",
   "definition": "Angular Acceleration is a fundamental concept in physics.",
   "explanation": "Learn about Angular Acceleration and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "angular-acceleration"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

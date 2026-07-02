@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-07.topic-01",
   "name": "Molecular Orbitals",
   "subject": "chemistry",
+  "summary": "Molecular Orbitals is a fundamental concept in chemistry.",
   "definition": "Molecular Orbitals is a fundamental concept in chemistry.",
   "explanation": "Learn about Molecular Orbitals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "molecular-orbitals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

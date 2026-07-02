@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-08.topic-05",
   "name": "Correlation",
   "subject": "mathematics",
+  "summary": "Correlation is a fundamental concept in mathematics.",
   "definition": "Correlation is a fundamental concept in mathematics.",
   "explanation": "Learn about Correlation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "correlation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

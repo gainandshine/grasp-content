@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-12.topic-15",
   "name": "Amines",
   "subject": "chemistry",
+  "summary": "Amines is a fundamental concept in chemistry.",
   "definition": "Amines is a fundamental concept in chemistry.",
   "explanation": "Learn about Amines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "amines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

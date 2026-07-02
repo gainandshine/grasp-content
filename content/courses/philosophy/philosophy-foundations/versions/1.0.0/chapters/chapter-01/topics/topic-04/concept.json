@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-01.topic-04",
   "name": "Methods of Philosophy",
   "subject": "philosophy",
+  "summary": "Methods of Philosophy is a fundamental concept in philosophy.",
   "definition": "Methods of Philosophy is a fundamental concept in philosophy.",
   "explanation": "Learn about Methods of Philosophy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "methods-of-philosophy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

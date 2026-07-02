@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-02.topic-04",
   "name": "Scale Factor",
   "subject": "physics",
+  "summary": "Scale Factor is a fundamental concept in physics.",
   "definition": "Scale Factor is a fundamental concept in physics.",
   "explanation": "Learn about Scale Factor and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "scale-factor"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

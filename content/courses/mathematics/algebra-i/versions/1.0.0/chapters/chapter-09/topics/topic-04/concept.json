@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-i.chapter-09.topic-04",
   "name": "Perfect Square Trinomials",
   "subject": "mathematics",
+  "summary": "Perfect Square Trinomials is a fundamental concept in mathematics.",
   "definition": "Perfect Square Trinomials is a fundamental concept in mathematics.",
   "explanation": "Learn about Perfect Square Trinomials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "perfect-square-trinomials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

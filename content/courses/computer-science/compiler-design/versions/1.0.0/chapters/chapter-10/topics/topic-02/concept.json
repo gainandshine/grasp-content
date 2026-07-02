@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-10.topic-02",
   "name": "Bytecode",
   "subject": "computer-science",
+  "summary": "Bytecode is a fundamental concept in computer-science.",
   "definition": "Bytecode is a fundamental concept in computer-science.",
   "explanation": "Learn about Bytecode and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "bytecode"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

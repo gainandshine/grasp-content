@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-03.topic-01",
   "name": "Muscle Contraction",
   "subject": "biology",
+  "summary": "Muscle Contraction is a fundamental concept in biology.",
   "definition": "Muscle Contraction is a fundamental concept in biology.",
   "explanation": "Learn about Muscle Contraction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "muscle-contraction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

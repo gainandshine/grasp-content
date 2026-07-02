@@ -2,6 +2,7 @@
   "id": "game-theory.nash-equilibrium.chapter-01.topic-01",
   "name": "What is Nash Equilibrium?",
   "subject": "game-theory",
+  "summary": "What is Nash Equilibrium? is a fundamental concept in game-theory.",
   "definition": "What is Nash Equilibrium? is a fundamental concept in game-theory.",
   "explanation": "Learn about What is Nash Equilibrium? and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "what-is-nash-equilibrium"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

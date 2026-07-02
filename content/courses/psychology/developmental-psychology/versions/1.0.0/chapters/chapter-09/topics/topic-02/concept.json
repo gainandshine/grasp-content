@@ -2,6 +2,7 @@
   "id": "psychology.developmental-psychology.chapter-09.topic-02",
   "name": "Memory Changes",
   "subject": "psychology",
+  "summary": "Memory Changes is a fundamental concept in psychology.",
   "definition": "Memory Changes is a fundamental concept in psychology.",
   "explanation": "Learn about Memory Changes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "memory-changes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

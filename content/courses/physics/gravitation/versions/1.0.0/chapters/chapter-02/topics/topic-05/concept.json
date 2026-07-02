@@ -2,6 +2,7 @@
   "id": "physics.gravitation.chapter-02.topic-05",
   "name": "Variation of g",
   "subject": "physics",
+  "summary": "Variation of g is a fundamental concept in physics.",
   "definition": "Variation of g is a fundamental concept in physics.",
   "explanation": "Learn about Variation of g and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "variation-of-g"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

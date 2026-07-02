@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-13.topic-04",
   "name": "Functional Genomics",
   "subject": "biology",
+  "summary": "Functional Genomics is a fundamental concept in biology.",
   "definition": "Functional Genomics is a fundamental concept in biology.",
   "explanation": "Learn about Functional Genomics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "functional-genomics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

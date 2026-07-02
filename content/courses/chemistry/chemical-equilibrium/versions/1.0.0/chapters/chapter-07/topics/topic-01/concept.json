@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-07.topic-01",
   "name": "Electrolytes",
   "subject": "chemistry",
+  "summary": "Electrolytes is a fundamental concept in chemistry.",
   "definition": "Electrolytes is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrolytes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrolytes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

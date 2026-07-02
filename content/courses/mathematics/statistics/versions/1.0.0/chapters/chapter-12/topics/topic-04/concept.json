@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-12.topic-04",
   "name": "Relative Risk",
   "subject": "mathematics",
+  "summary": "Relative Risk is a fundamental concept in mathematics.",
   "definition": "Relative Risk is a fundamental concept in mathematics.",
   "explanation": "Learn about Relative Risk and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "relative-risk"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

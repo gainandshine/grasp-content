@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-04.topic-02",
   "name": "Leader-Follower Replication",
   "subject": "computer-science",
+  "summary": "Leader-Follower Replication is a fundamental concept in computer-science.",
   "definition": "Leader-Follower Replication is a fundamental concept in computer-science.",
   "explanation": "Learn about Leader-Follower Replication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "leader-follower-replication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

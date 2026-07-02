@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-03.topic-01",
   "name": "Fraction Operations",
   "subject": "mathematics",
+  "summary": "Fraction Operations is a fundamental concept in mathematics.",
   "definition": "Fraction Operations is a fundamental concept in mathematics.",
   "explanation": "Learn about Fraction Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "fraction-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-20.topic-05",
   "name": "Transient Response",
   "subject": "physics",
+  "summary": "Transient Response is a fundamental concept in physics.",
   "definition": "Transient Response is a fundamental concept in physics.",
   "explanation": "Learn about Transient Response and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "transient-response"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

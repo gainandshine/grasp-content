@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-03.topic-06",
   "name": "Correlation",
   "subject": "psychology",
+  "summary": "Correlation is a fundamental concept in psychology.",
   "definition": "Correlation is a fundamental concept in psychology.",
   "explanation": "Learn about Correlation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "correlation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

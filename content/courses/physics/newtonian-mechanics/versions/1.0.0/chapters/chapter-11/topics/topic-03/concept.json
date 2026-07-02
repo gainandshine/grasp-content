@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-11.topic-03",
   "name": "Pulley Systems",
   "subject": "physics",
+  "summary": "Pulley Systems is a fundamental concept in physics.",
   "definition": "Pulley Systems is a fundamental concept in physics.",
   "explanation": "Learn about Pulley Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "pulley-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

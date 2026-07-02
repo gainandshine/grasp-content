@@ -2,6 +2,7 @@
   "id": "chemistry.nuclear-chemistry.chapter-01.topic-05",
   "name": "History of Nuclear Chemistry",
   "subject": "chemistry",
+  "summary": "History of Nuclear Chemistry is a fundamental concept in chemistry.",
   "definition": "History of Nuclear Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about History of Nuclear Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "history-of-nuclear-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

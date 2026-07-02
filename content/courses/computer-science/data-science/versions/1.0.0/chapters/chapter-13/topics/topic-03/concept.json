@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-13.topic-03",
   "name": "Marketing",
   "subject": "computer-science",
+  "summary": "Marketing is a fundamental concept in computer-science.",
   "definition": "Marketing is a fundamental concept in computer-science.",
   "explanation": "Learn about Marketing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "marketing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

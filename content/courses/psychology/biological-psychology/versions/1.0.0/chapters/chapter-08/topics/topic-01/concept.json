@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-08.topic-01",
   "name": "Emotion",
   "subject": "psychology",
+  "summary": "Emotion is a fundamental concept in psychology.",
   "definition": "Emotion is a fundamental concept in psychology.",
   "explanation": "Learn about Emotion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "emotion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

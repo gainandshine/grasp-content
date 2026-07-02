@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-01.topic-09",
   "name": "Instantaneous Speed",
   "subject": "physics",
+  "summary": "Instantaneous Speed is a fundamental concept in physics.",
   "definition": "Instantaneous Speed is a fundamental concept in physics.",
   "explanation": "Learn about Instantaneous Speed and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "instantaneous-speed"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

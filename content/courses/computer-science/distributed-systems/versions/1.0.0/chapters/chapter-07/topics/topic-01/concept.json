@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-07.topic-01",
   "name": "Two-Phase Commit (2PC)",
   "subject": "computer-science",
+  "summary": "Two-Phase Commit (2PC) is a fundamental concept in computer-science.",
   "definition": "Two-Phase Commit (2PC) is a fundamental concept in computer-science.",
   "explanation": "Learn about Two-Phase Commit (2PC) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "two-phase-commit-2pc"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

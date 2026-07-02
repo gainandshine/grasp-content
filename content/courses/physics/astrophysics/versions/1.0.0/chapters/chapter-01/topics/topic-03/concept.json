@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-01.topic-03",
   "name": "Astronomical Units",
   "subject": "physics",
+  "summary": "Astronomical Units is a fundamental concept in physics.",
   "definition": "Astronomical Units is a fundamental concept in physics.",
   "explanation": "Learn about Astronomical Units and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "astronomical-units"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

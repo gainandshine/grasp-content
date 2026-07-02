@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-12.topic-04",
   "name": "Gram Staining",
   "subject": "biology",
+  "summary": "Gram Staining is a fundamental concept in biology.",
   "definition": "Gram Staining is a fundamental concept in biology.",
   "explanation": "Learn about Gram Staining and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gram-staining"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

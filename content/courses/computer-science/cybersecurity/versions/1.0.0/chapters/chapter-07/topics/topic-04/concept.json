@@ -2,6 +2,7 @@
   "id": "computer-science.cybersecurity.chapter-07.topic-04",
   "name": "Secrets Management",
   "subject": "computer-science",
+  "summary": "Secrets Management is a fundamental concept in computer-science.",
   "definition": "Secrets Management is a fundamental concept in computer-science.",
   "explanation": "Learn about Secrets Management and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "secrets-management"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

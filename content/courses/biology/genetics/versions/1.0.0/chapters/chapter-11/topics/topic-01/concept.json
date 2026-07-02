@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-11.topic-01",
   "name": "Genetic Testing",
   "subject": "biology",
+  "summary": "Genetic Testing is a fundamental concept in biology.",
   "definition": "Genetic Testing is a fundamental concept in biology.",
   "explanation": "Learn about Genetic Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "genetic-testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

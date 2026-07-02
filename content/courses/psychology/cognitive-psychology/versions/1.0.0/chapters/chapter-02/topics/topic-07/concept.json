@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-02.topic-07",
   "name": "Attention Disorders",
   "subject": "psychology",
+  "summary": "Attention Disorders is a fundamental concept in psychology.",
   "definition": "Attention Disorders is a fundamental concept in psychology.",
   "explanation": "Learn about Attention Disorders and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "attention-disorders"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

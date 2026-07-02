@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-01.topic-03",
   "name": "Tetravalency of Carbon",
   "subject": "chemistry",
+  "summary": "Tetravalency of Carbon is a fundamental concept in chemistry.",
   "definition": "Tetravalency of Carbon is a fundamental concept in chemistry.",
   "explanation": "Learn about Tetravalency of Carbon and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "tetravalency-of-carbon"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

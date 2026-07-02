@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-11.topic-01",
   "name": "Pricing Wars",
   "subject": "game-theory",
+  "summary": "Pricing Wars is a fundamental concept in game-theory.",
   "definition": "Pricing Wars is a fundamental concept in game-theory.",
   "explanation": "Learn about Pricing Wars and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "pricing-wars"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-05.topic-02",
   "name": "Resource Allocation Graph",
   "subject": "computer-science",
+  "summary": "Resource Allocation Graph is a fundamental concept in computer-science.",
   "definition": "Resource Allocation Graph is a fundamental concept in computer-science.",
   "explanation": "Learn about Resource Allocation Graph and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "resource-allocation-graph"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

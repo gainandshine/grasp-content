@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-01.topic-06",
   "name": "Branches of Ethics",
   "subject": "philosophy",
+  "summary": "Branches of Ethics is a fundamental concept in philosophy.",
   "definition": "Branches of Ethics is a fundamental concept in philosophy.",
   "explanation": "Learn about Branches of Ethics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "branches-of-ethics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

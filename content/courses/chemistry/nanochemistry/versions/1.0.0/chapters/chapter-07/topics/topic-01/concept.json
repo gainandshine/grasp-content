@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-07.topic-01",
   "name": "Surface Area",
   "subject": "chemistry",
+  "summary": "Surface Area is a fundamental concept in chemistry.",
   "definition": "Surface Area is a fundamental concept in chemistry.",
   "explanation": "Learn about Surface Area and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "surface-area"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

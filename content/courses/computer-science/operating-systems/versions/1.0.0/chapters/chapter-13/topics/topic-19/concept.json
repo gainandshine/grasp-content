@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-13.topic-19",
   "name": "Network Security",
   "subject": "computer-science",
+  "summary": "Network Security is a fundamental concept in computer-science.",
   "definition": "Network Security is a fundamental concept in computer-science.",
   "explanation": "Learn about Network Security and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "network-security"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-02.topic-02",
   "name": "Nanoclusters",
   "subject": "chemistry",
+  "summary": "Nanoclusters is a fundamental concept in chemistry.",
   "definition": "Nanoclusters is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanoclusters and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanoclusters"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.machine-learning.chapter-06.topic-05",
   "name": "F1 Score",
   "subject": "computer-science",
+  "summary": "F1 Score is a fundamental concept in computer-science.",
   "definition": "F1 Score is a fundamental concept in computer-science.",
   "explanation": "Learn about F1 Score and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "f1-score"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

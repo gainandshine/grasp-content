@@ -2,6 +2,7 @@
   "id": "computer-science.distributed-systems.chapter-05.topic-01",
   "name": "Strong Consistency",
   "subject": "computer-science",
+  "summary": "Strong Consistency is a fundamental concept in computer-science.",
   "definition": "Strong Consistency is a fundamental concept in computer-science.",
   "explanation": "Learn about Strong Consistency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "strong-consistency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

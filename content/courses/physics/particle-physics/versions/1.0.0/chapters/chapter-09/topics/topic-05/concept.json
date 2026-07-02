@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-09.topic-05",
   "name": "Particle Detectors",
   "subject": "physics",
+  "summary": "Particle Detectors is a fundamental concept in physics.",
   "definition": "Particle Detectors is a fundamental concept in physics.",
   "explanation": "Learn about Particle Detectors and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "particle-detectors"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-01.topic-03",
   "name": "Language Translation",
   "subject": "computer-science",
+  "summary": "Language Translation is a fundamental concept in computer-science.",
   "definition": "Language Translation is a fundamental concept in computer-science.",
   "explanation": "Learn about Language Translation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "language-translation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-11.topic-04",
   "name": "Atmospheric Chemistry",
   "subject": "chemistry",
+  "summary": "Atmospheric Chemistry is a fundamental concept in chemistry.",
   "definition": "Atmospheric Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about Atmospheric Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "atmospheric-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

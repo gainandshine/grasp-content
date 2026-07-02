@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-02.topic-02",
   "name": "Hexadecimal & Octal",
   "subject": "computer-science",
+  "summary": "Hexadecimal & Octal is a fundamental concept in computer-science.",
   "definition": "Hexadecimal & Octal is a fundamental concept in computer-science.",
   "explanation": "Learn about Hexadecimal & Octal and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "hexadecimal-octal"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

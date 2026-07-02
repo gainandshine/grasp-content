@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-07.topic-02",
   "name": "Abstract Methods",
   "subject": "computer-science",
+  "summary": "Abstract Methods is a fundamental concept in computer-science.",
   "definition": "Abstract Methods is a fundamental concept in computer-science.",
   "explanation": "Learn about Abstract Methods and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "abstract-methods"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

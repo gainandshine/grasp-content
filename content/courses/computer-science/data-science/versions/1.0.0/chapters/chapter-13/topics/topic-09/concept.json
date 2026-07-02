@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-13.topic-09",
   "name": "Cybersecurity Fundamentals",
   "subject": "computer-science",
+  "summary": "Cybersecurity Fundamentals is a fundamental concept in computer-science.",
   "definition": "Cybersecurity Fundamentals is a fundamental concept in computer-science.",
   "explanation": "Learn about Cybersecurity Fundamentals and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "cybersecurity-fundamentals"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

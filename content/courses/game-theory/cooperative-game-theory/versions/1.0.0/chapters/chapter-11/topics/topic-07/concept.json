@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-11.topic-07",
   "name": "Blockchain Governance",
   "subject": "game-theory",
+  "summary": "Blockchain Governance is a fundamental concept in game-theory.",
   "definition": "Blockchain Governance is a fundamental concept in game-theory.",
   "explanation": "Learn about Blockchain Governance and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "blockchain-governance"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-12.topic-03",
   "name": "Comments",
   "subject": "computer-science",
+  "summary": "Comments is a fundamental concept in computer-science.",
   "definition": "Comments is a fundamental concept in computer-science.",
   "explanation": "Learn about Comments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "comments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

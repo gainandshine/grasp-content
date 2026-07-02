@@ -2,6 +2,7 @@
   "id": "philosophy.ethics.chapter-08.topic-05",
   "name": "Corruption",
   "subject": "philosophy",
+  "summary": "Corruption is a fundamental concept in philosophy.",
   "definition": "Corruption is a fundamental concept in philosophy.",
   "explanation": "Learn about Corruption and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "corruption"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

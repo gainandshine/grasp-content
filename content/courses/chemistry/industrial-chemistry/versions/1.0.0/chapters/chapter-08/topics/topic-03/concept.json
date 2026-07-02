@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-08.topic-03",
   "name": "Formulation",
   "subject": "chemistry",
+  "summary": "Formulation is a fundamental concept in chemistry.",
   "definition": "Formulation is a fundamental concept in chemistry.",
   "explanation": "Learn about Formulation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "formulation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

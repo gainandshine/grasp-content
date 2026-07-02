@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-14.topic-01",
   "name": "Data Cleaning",
   "subject": "mathematics",
+  "summary": "Data Cleaning is a fundamental concept in mathematics.",
   "definition": "Data Cleaning is a fundamental concept in mathematics.",
   "explanation": "Learn about Data Cleaning and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "data-cleaning"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

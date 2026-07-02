@@ -2,6 +2,7 @@
   "id": "mathematics.statistics.chapter-05.topic-03",
   "name": "Common Distributions",
   "subject": "mathematics",
+  "summary": "Common Distributions is a fundamental concept in mathematics.",
   "definition": "Common Distributions is a fundamental concept in mathematics.",
   "explanation": "Learn about Common Distributions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "common-distributions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

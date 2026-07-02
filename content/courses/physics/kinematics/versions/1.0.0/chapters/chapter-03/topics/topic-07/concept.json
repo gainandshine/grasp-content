@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-03.topic-07",
   "name": "Area Under Graphs",
   "subject": "physics",
+  "summary": "Area Under Graphs is a fundamental concept in physics.",
   "definition": "Area Under Graphs is a fundamental concept in physics.",
   "explanation": "Learn about Area Under Graphs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "area-under-graphs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

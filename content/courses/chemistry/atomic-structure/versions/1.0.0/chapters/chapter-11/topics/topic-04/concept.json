@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-11.topic-04",
   "name": "Relativistic Effects in Heavy Elements (Introduction)",
   "subject": "chemistry",
+  "summary": "Relativistic Effects in Heavy Elements (Introduction) is a fundamental concept in chemistry.",
   "definition": "Relativistic Effects in Heavy Elements (Introduction) is a fundamental concept in chemistry.",
   "explanation": "Learn about Relativistic Effects in Heavy Elements (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "relativistic-effects-in-heavy-elements-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

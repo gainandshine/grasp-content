@@ -2,6 +2,7 @@
   "id": "game-theory.sequential-games.chapter-09.topic-01",
   "name": "First-Mover Advantage",
   "subject": "game-theory",
+  "summary": "First-Mover Advantage is a fundamental concept in game-theory.",
   "definition": "First-Mover Advantage is a fundamental concept in game-theory.",
   "explanation": "Learn about First-Mover Advantage and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "first-mover-advantage"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

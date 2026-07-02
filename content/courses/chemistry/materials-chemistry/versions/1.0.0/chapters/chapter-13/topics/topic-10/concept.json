@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-13.topic-10",
   "name": "Nanomaterials",
   "subject": "chemistry",
+  "summary": "Nanomaterials is a fundamental concept in chemistry.",
   "definition": "Nanomaterials is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanomaterials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanomaterials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

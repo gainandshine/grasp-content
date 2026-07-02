@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-08.topic-02",
   "name": "Solubility Product (Ksp)",
   "subject": "chemistry",
+  "summary": "Solubility Product (Ksp) is a fundamental concept in chemistry.",
   "definition": "Solubility Product (Ksp) is a fundamental concept in chemistry.",
   "explanation": "Learn about Solubility Product (Ksp) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "solubility-product-ksp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

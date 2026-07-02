@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-07.topic-02",
   "name": "Publish-Subscribe Systems",
   "subject": "computer-science",
+  "summary": "Publish-Subscribe Systems is a fundamental concept in computer-science.",
   "definition": "Publish-Subscribe Systems is a fundamental concept in computer-science.",
   "explanation": "Learn about Publish-Subscribe Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "publish-subscribe-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

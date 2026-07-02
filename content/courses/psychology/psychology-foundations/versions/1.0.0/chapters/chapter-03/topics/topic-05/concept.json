@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-03.topic-05",
   "name": "Experiments",
   "subject": "psychology",
+  "summary": "Experiments is a fundamental concept in psychology.",
   "definition": "Experiments is a fundamental concept in psychology.",
   "explanation": "Learn about Experiments and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "experiments"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.polymers.chapter-13.topic-09",
   "name": "Biomolecules",
   "subject": "chemistry",
+  "summary": "Biomolecules is a fundamental concept in chemistry.",
   "definition": "Biomolecules is a fundamental concept in chemistry.",
   "explanation": "Learn about Biomolecules and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biomolecules"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

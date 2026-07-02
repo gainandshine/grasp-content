@@ -2,6 +2,7 @@
   "id": "computer-science.computer-organization.chapter-10.topic-02",
   "name": "SIMD",
   "subject": "computer-science",
+  "summary": "SIMD is a fundamental concept in computer-science.",
   "definition": "SIMD is a fundamental concept in computer-science.",
   "explanation": "Learn about SIMD and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "simd"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

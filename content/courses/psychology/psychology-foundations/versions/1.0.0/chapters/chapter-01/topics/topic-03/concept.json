@@ -2,6 +2,7 @@
   "id": "psychology.psychology-foundations.chapter-01.topic-03",
   "name": "Goals of Psychology",
   "subject": "psychology",
+  "summary": "Goals of Psychology is a fundamental concept in psychology.",
   "definition": "Goals of Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about Goals of Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "goals-of-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

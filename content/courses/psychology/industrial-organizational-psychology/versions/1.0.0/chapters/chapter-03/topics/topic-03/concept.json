@@ -2,6 +2,7 @@
   "id": "psychology.industrial-organizational-psychology.chapter-03.topic-03",
   "name": "Leadership Development",
   "subject": "psychology",
+  "summary": "Leadership Development is a fundamental concept in psychology.",
   "definition": "Leadership Development is a fundamental concept in psychology.",
   "explanation": "Learn about Leadership Development and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "leadership-development"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

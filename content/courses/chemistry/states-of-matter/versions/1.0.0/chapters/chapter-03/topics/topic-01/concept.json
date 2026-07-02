@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-03.topic-01",
   "name": "Properties of Liquids",
   "subject": "chemistry",
+  "summary": "Properties of Liquids is a fundamental concept in chemistry.",
   "definition": "Properties of Liquids is a fundamental concept in chemistry.",
   "explanation": "Learn about Properties of Liquids and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "properties-of-liquids"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

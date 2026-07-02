@@ -2,6 +2,7 @@
   "id": "game-theory.cooperative-game-theory.chapter-03.topic-01",
   "name": "Characteristic Function",
   "subject": "game-theory",
+  "summary": "Characteristic Function is a fundamental concept in game-theory.",
   "definition": "Characteristic Function is a fundamental concept in game-theory.",
   "explanation": "Learn about Characteristic Function and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "characteristic-function"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

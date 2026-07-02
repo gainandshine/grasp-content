@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-09.topic-04",
   "name": "Social Learning of Aggression",
   "subject": "psychology",
+  "summary": "Social Learning of Aggression is a fundamental concept in psychology.",
   "definition": "Social Learning of Aggression is a fundamental concept in psychology.",
   "explanation": "Learn about Social Learning of Aggression and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "social-learning-of-aggression"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

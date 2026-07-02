@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-03.topic-04",
   "name": "Relationship Between Kc & Kp",
   "subject": "chemistry",
+  "summary": "Relationship Between Kc & Kp is a fundamental concept in chemistry.",
   "definition": "Relationship Between Kc & Kp is a fundamental concept in chemistry.",
   "explanation": "Learn about Relationship Between Kc & Kp and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "relationship-between-kc-kp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

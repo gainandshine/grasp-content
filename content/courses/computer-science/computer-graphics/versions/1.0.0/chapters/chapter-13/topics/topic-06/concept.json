@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-06",
   "name": "Neural Rendering",
   "subject": "computer-science",
+  "summary": "Neural Rendering is a fundamental concept in computer-science.",
   "definition": "Neural Rendering is a fundamental concept in computer-science.",
   "explanation": "Learn about Neural Rendering and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "neural-rendering"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

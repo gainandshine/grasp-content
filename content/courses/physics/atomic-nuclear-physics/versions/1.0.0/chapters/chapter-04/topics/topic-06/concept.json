@@ -2,6 +2,7 @@
   "id": "physics.atomic-nuclear-physics.chapter-04.topic-06",
   "name": "Periodic Trends",
   "subject": "physics",
+  "summary": "Periodic Trends is a fundamental concept in physics.",
   "definition": "Periodic Trends is a fundamental concept in physics.",
   "explanation": "Learn about Periodic Trends and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "periodic-trends"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

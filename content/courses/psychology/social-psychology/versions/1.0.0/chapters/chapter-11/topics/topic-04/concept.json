@@ -2,6 +2,7 @@
   "id": "psychology.social-psychology.chapter-11.topic-04",
   "name": "Political Psychology",
   "subject": "psychology",
+  "summary": "Political Psychology is a fundamental concept in psychology.",
   "definition": "Political Psychology is a fundamental concept in psychology.",
   "explanation": "Learn about Political Psychology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "political-psychology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

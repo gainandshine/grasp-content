@@ -2,6 +2,7 @@
   "id": "mathematics.number-theory.chapter-03.topic-02",
   "name": "Modular Operations",
   "subject": "mathematics",
+  "summary": "Modular Operations is a fundamental concept in mathematics.",
   "definition": "Modular Operations is a fundamental concept in mathematics.",
   "explanation": "Learn about Modular Operations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "modular-operations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

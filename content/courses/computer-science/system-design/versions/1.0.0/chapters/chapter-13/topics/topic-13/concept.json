@@ -2,6 +2,7 @@
   "id": "computer-science.system-design.chapter-13.topic-13",
   "name": "Consensus",
   "subject": "computer-science",
+  "summary": "Consensus is a fundamental concept in computer-science.",
   "definition": "Consensus is a fundamental concept in computer-science.",
   "explanation": "Learn about Consensus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "consensus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

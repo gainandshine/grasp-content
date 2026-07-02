@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-10.topic-04",
   "name": "Network Authentication",
   "subject": "computer-science",
+  "summary": "Network Authentication is a fundamental concept in computer-science.",
   "definition": "Network Authentication is a fundamental concept in computer-science.",
   "explanation": "Learn about Network Authentication and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "network-authentication"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

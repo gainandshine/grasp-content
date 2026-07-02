@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-12.topic-02",
   "name": "Error Recovery",
   "subject": "computer-science",
+  "summary": "Error Recovery is a fundamental concept in computer-science.",
   "definition": "Error Recovery is a fundamental concept in computer-science.",
   "explanation": "Learn about Error Recovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "error-recovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

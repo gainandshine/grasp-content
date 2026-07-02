@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-01.topic-03",
   "name": "Electromagnetic Spectrum",
   "subject": "chemistry",
+  "summary": "Electromagnetic Spectrum is a fundamental concept in chemistry.",
   "definition": "Electromagnetic Spectrum is a fundamental concept in chemistry.",
   "explanation": "Learn about Electromagnetic Spectrum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electromagnetic-spectrum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

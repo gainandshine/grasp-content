@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-02.topic-05",
   "name": "Nanotubes",
   "subject": "chemistry",
+  "summary": "Nanotubes is a fundamental concept in chemistry.",
   "definition": "Nanotubes is a fundamental concept in chemistry.",
   "explanation": "Learn about Nanotubes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nanotubes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

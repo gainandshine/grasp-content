@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-09.topic-02",
   "name": "try-catch",
   "subject": "computer-science",
+  "summary": "try-catch is a fundamental concept in computer-science.",
   "definition": "try-catch is a fundamental concept in computer-science.",
   "explanation": "Learn about try-catch and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "try-catch"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.geometry.chapter-03.topic-02",
   "name": "Perpendicular Lines",
   "subject": "mathematics",
+  "summary": "Perpendicular Lines is a fundamental concept in mathematics.",
   "definition": "Perpendicular Lines is a fundamental concept in mathematics.",
   "explanation": "Learn about Perpendicular Lines and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "perpendicular-lines"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

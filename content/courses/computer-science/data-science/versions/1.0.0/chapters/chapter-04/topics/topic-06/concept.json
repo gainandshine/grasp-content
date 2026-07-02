@@ -2,6 +2,7 @@
   "id": "computer-science.data-science.chapter-04.topic-06",
   "name": "Pattern Discovery",
   "subject": "computer-science",
+  "summary": "Pattern Discovery is a fundamental concept in computer-science.",
   "definition": "Pattern Discovery is a fundamental concept in computer-science.",
   "explanation": "Learn about Pattern Discovery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "pattern-discovery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

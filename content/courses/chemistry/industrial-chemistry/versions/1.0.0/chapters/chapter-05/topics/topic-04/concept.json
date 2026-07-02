@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-05.topic-04",
   "name": "Phosphate Fertilizers",
   "subject": "chemistry",
+  "summary": "Phosphate Fertilizers is a fundamental concept in chemistry.",
   "definition": "Phosphate Fertilizers is a fundamental concept in chemistry.",
   "explanation": "Learn about Phosphate Fertilizers and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "phosphate-fertilizers"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

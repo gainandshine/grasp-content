@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-10.topic-05",
   "name": "Km",
   "subject": "chemistry",
+  "summary": "Km is a fundamental concept in chemistry.",
   "definition": "Km is a fundamental concept in chemistry.",
   "explanation": "Learn about Km and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "km"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

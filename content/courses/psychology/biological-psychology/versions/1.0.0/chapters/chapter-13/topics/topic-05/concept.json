@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-13.topic-05",
   "name": "Artificial Intelligence & the Brain",
   "subject": "psychology",
+  "summary": "Artificial Intelligence & the Brain is a fundamental concept in psychology.",
   "definition": "Artificial Intelligence & the Brain is a fundamental concept in psychology.",
   "explanation": "Learn about Artificial Intelligence & the Brain and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "artificial-intelligence-the-brain"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

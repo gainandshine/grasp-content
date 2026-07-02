@@ -2,6 +2,7 @@
   "id": "psychology.cognitive-psychology.chapter-07.topic-02",
   "name": "Mental Imagery",
   "subject": "psychology",
+  "summary": "Mental Imagery is a fundamental concept in psychology.",
   "definition": "Mental Imagery is a fundamental concept in psychology.",
   "explanation": "Learn about Mental Imagery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "mental-imagery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

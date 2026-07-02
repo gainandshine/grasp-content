@@ -2,6 +2,7 @@
   "id": "chemistry.states-of-matter.chapter-06.topic-04",
   "name": "Root Mean Square Speed",
   "subject": "chemistry",
+  "summary": "Root Mean Square Speed is a fundamental concept in chemistry.",
   "definition": "Root Mean Square Speed is a fundamental concept in chemistry.",
   "explanation": "Learn about Root Mean Square Speed and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "root-mean-square-speed"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

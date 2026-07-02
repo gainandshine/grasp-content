@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-03.topic-03",
   "name": "Internal Structure",
   "subject": "physics",
+  "summary": "Internal Structure is a fundamental concept in physics.",
   "definition": "Internal Structure is a fundamental concept in physics.",
   "explanation": "Learn about Internal Structure and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "internal-structure"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

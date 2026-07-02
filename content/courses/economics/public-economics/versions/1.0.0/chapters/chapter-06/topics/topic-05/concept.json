@@ -2,6 +2,7 @@
   "id": "economics.public-economics.chapter-06.topic-05",
   "name": "Debt Sustainability",
   "subject": "economics",
+  "summary": "Debt Sustainability is a fundamental concept in economics.",
   "definition": "Debt Sustainability is a fundamental concept in economics.",
   "explanation": "Learn about Debt Sustainability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "debt-sustainability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

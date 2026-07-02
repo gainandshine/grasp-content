@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-03.topic-05",
   "name": "Law of Total Probability",
   "subject": "mathematics",
+  "summary": "Law of Total Probability is a fundamental concept in mathematics.",
   "definition": "Law of Total Probability is a fundamental concept in mathematics.",
   "explanation": "Learn about Law of Total Probability and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "law-of-total-probability"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

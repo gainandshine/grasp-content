@@ -2,6 +2,7 @@
   "id": "economics.economics-foundations.chapter-01.topic-06",
   "name": "Factors of Production",
   "subject": "economics",
+  "summary": "Factors of Production is a fundamental concept in economics.",
   "definition": "Factors of Production is a fundamental concept in economics.",
   "explanation": "Learn about Factors of Production and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "factors-of-production"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

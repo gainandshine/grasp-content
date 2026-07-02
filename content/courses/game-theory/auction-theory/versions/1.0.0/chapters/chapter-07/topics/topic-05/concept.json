@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-07.topic-05",
   "name": "Allocation Efficiency",
   "subject": "game-theory",
+  "summary": "Allocation Efficiency is a fundamental concept in game-theory.",
   "definition": "Allocation Efficiency is a fundamental concept in game-theory.",
   "explanation": "Learn about Allocation Efficiency and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "allocation-efficiency"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

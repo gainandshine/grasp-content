@@ -2,6 +2,7 @@
   "id": "biology.human-physiology.chapter-06.topic-03",
   "name": "Enzyme Secretion",
   "subject": "biology",
+  "summary": "Enzyme Secretion is a fundamental concept in biology.",
   "definition": "Enzyme Secretion is a fundamental concept in biology.",
   "explanation": "Learn about Enzyme Secretion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "enzyme-secretion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

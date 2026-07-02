@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-10.topic-03",
   "name": "Magnetic Monopoles (Theory)",
   "subject": "physics",
+  "summary": "Magnetic Monopoles (Theory) is a fundamental concept in physics.",
   "definition": "Magnetic Monopoles (Theory) is a fundamental concept in physics.",
   "explanation": "Learn about Magnetic Monopoles (Theory) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "magnetic-monopoles-theory"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

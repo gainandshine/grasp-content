@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-11.topic-07",
   "name": "Optical Computing (Introduction)",
   "subject": "physics",
+  "summary": "Optical Computing (Introduction) is a fundamental concept in physics.",
   "definition": "Optical Computing (Introduction) is a fundamental concept in physics.",
   "explanation": "Learn about Optical Computing (Introduction) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "optical-computing-introduction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

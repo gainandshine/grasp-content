@@ -2,6 +2,7 @@
   "id": "computer-science.computer-graphics.chapter-13.topic-07",
   "name": "*Course 17: Artificial Intelligence**",
   "subject": "computer-science",
+  "summary": "*Course 17: Artificial Intelligence** is a fundamental concept in computer-science.",
   "definition": "*Course 17: Artificial Intelligence** is a fundamental concept in computer-science.",
   "explanation": "Learn about *Course 17: Artificial Intelligence** and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "course-17-artificial-intelligence"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

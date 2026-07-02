@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-08.topic-02",
   "name": "Lenz's Law",
   "subject": "physics",
+  "summary": "Lenz's Law is a fundamental concept in physics.",
   "definition": "Lenz's Law is a fundamental concept in physics.",
   "explanation": "Learn about Lenz's Law and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "lenzs-law"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

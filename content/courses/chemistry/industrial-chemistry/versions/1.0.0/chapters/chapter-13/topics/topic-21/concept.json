@@ -2,6 +2,7 @@
   "id": "chemistry.industrial-chemistry.chapter-13.topic-21",
   "name": "AI in Chemistry",
   "subject": "chemistry",
+  "summary": "AI in Chemistry is a fundamental concept in chemistry.",
   "definition": "AI in Chemistry is a fundamental concept in chemistry.",
   "explanation": "Learn about AI in Chemistry and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "ai-in-chemistry"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

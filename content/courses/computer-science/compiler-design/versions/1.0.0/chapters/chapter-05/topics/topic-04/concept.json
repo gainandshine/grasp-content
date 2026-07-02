@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-05.topic-04",
   "name": "Static Single Assignment (SSA)",
   "subject": "computer-science",
+  "summary": "Static Single Assignment (SSA) is a fundamental concept in computer-science.",
   "definition": "Static Single Assignment (SSA) is a fundamental concept in computer-science.",
   "explanation": "Learn about Static Single Assignment (SSA) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "static-single-assignment-ssa"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

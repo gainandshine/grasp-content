@@ -2,6 +2,7 @@
   "id": "game-theory.applications-of-game-theory.chapter-12.topic-04",
   "name": "Climate Strategy",
   "subject": "game-theory",
+  "summary": "Climate Strategy is a fundamental concept in game-theory.",
   "definition": "Climate Strategy is a fundamental concept in game-theory.",
   "explanation": "Learn about Climate Strategy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "climate-strategy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-13.topic-19",
   "name": "Central Dogma of Molecular Biology",
   "subject": "biology",
+  "summary": "Central Dogma of Molecular Biology is a fundamental concept in biology.",
   "definition": "Central Dogma of Molecular Biology is a fundamental concept in biology.",
   "explanation": "Learn about Central Dogma of Molecular Biology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "central-dogma-of-molecular-biology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

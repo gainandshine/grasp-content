@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-03.topic-02",
   "name": "Search Problems",
   "subject": "computer-science",
+  "summary": "Search Problems is a fundamental concept in computer-science.",
   "definition": "Search Problems is a fundamental concept in computer-science.",
   "explanation": "Learn about Search Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "search-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

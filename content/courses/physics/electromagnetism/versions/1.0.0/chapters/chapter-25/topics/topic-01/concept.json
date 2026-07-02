@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-25.topic-01",
   "name": "Household Wiring",
   "subject": "physics",
+  "summary": "Household Wiring is a fundamental concept in physics.",
   "definition": "Household Wiring is a fundamental concept in physics.",
   "explanation": "Learn about Household Wiring and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "household-wiring"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

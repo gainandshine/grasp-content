@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-14.topic-05",
   "name": "Trigonometric Models",
   "subject": "mathematics",
+  "summary": "Trigonometric Models is a fundamental concept in mathematics.",
   "definition": "Trigonometric Models is a fundamental concept in mathematics.",
   "explanation": "Learn about Trigonometric Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "trigonometric-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-01.topic-03",
   "name": "Software Process Models",
   "subject": "computer-science",
+  "summary": "Software Process Models is a fundamental concept in computer-science.",
   "definition": "Software Process Models is a fundamental concept in computer-science.",
   "explanation": "Learn about Software Process Models and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "software-process-models"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

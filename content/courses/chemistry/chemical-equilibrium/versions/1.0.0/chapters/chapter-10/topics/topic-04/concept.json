@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-equilibrium.chapter-10.topic-04",
   "name": "Optimization of Industrial Reactions",
   "subject": "chemistry",
+  "summary": "Optimization of Industrial Reactions is a fundamental concept in chemistry.",
   "definition": "Optimization of Industrial Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Optimization of Industrial Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "optimization-of-industrial-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

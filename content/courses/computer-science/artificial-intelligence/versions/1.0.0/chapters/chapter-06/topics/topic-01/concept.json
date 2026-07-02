@@ -2,6 +2,7 @@
   "id": "computer-science.artificial-intelligence.chapter-06.topic-01",
   "name": "Planning Problems",
   "subject": "computer-science",
+  "summary": "Planning Problems is a fundamental concept in computer-science.",
   "definition": "Planning Problems is a fundamental concept in computer-science.",
   "explanation": "Learn about Planning Problems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "planning-problems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

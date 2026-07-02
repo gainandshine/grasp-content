@@ -2,6 +2,7 @@
   "id": "chemistry.atomic-structure.chapter-02.topic-02",
   "name": "Nucleus",
   "subject": "chemistry",
+  "summary": "Nucleus is a fundamental concept in chemistry.",
   "definition": "Nucleus is a fundamental concept in chemistry.",
   "explanation": "Learn about Nucleus and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "nucleus"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

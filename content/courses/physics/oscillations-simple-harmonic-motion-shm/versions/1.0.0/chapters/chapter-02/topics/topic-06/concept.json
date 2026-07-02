@@ -2,6 +2,7 @@
   "id": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-06",
   "name": "SHM Equations",
   "subject": "physics",
+  "summary": "SHM Equations is a fundamental concept in physics.",
   "definition": "SHM Equations is a fundamental concept in physics.",
   "explanation": "Learn about SHM Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "shm-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

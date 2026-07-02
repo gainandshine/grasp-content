@@ -2,6 +2,7 @@
   "id": "physics.cosmology.chapter-10.topic-03",
   "name": "Big Rip",
   "subject": "physics",
+  "summary": "Big Rip is a fundamental concept in physics.",
   "definition": "Big Rip is a fundamental concept in physics.",
   "explanation": "Learn about Big Rip and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "big-rip"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

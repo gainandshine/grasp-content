@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-06.topic-06",
   "name": "Strategic Simplification",
   "subject": "game-theory",
+  "summary": "Strategic Simplification is a fundamental concept in game-theory.",
   "definition": "Strategic Simplification is a fundamental concept in game-theory.",
   "explanation": "Learn about Strategic Simplification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "strategic-simplification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

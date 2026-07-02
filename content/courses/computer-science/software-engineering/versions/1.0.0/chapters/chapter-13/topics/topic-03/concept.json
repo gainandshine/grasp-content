@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-13.topic-03",
   "name": "Mobile Applications",
   "subject": "computer-science",
+  "summary": "Mobile Applications is a fundamental concept in computer-science.",
   "definition": "Mobile Applications is a fundamental concept in computer-science.",
   "explanation": "Learn about Mobile Applications and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "mobile-applications"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

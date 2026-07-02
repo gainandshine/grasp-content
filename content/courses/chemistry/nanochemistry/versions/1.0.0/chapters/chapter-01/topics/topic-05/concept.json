@@ -2,6 +2,7 @@
   "id": "chemistry.nanochemistry.chapter-01.topic-05",
   "name": "Unique Properties of Nanomaterials",
   "subject": "chemistry",
+  "summary": "Unique Properties of Nanomaterials is a fundamental concept in chemistry.",
   "definition": "Unique Properties of Nanomaterials is a fundamental concept in chemistry.",
   "explanation": "Learn about Unique Properties of Nanomaterials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "unique-properties-of-nanomaterials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

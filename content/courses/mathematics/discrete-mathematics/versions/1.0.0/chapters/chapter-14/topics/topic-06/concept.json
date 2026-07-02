@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-14.topic-06",
   "name": "Expected Value",
   "subject": "mathematics",
+  "summary": "Expected Value is a fundamental concept in mathematics.",
   "definition": "Expected Value is a fundamental concept in mathematics.",
   "explanation": "Learn about Expected Value and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "expected-value"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

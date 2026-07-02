@@ -2,6 +2,7 @@
   "id": "computer-science.object-oriented-programming.chapter-06.topic-01",
   "name": "Compile-Time Polymorphism",
   "subject": "computer-science",
+  "summary": "Compile-Time Polymorphism is a fundamental concept in computer-science.",
   "definition": "Compile-Time Polymorphism is a fundamental concept in computer-science.",
   "explanation": "Learn about Compile-Time Polymorphism and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "compile-time-polymorphism"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

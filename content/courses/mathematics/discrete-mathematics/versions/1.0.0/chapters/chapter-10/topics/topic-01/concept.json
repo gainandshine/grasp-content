@@ -2,6 +2,7 @@
   "id": "mathematics.discrete-mathematics.chapter-10.topic-01",
   "name": "Rooted Trees",
   "subject": "mathematics",
+  "summary": "Rooted Trees is a fundamental concept in mathematics.",
   "definition": "Rooted Trees is a fundamental concept in mathematics.",
   "explanation": "Learn about Rooted Trees and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "rooted-trees"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

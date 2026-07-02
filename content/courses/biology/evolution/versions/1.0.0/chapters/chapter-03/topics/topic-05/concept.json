@@ -2,6 +2,7 @@
   "id": "biology.evolution.chapter-03.topic-05",
   "name": "Founder Effect",
   "subject": "biology",
+  "summary": "Founder Effect is a fundamental concept in biology.",
   "definition": "Founder Effect is a fundamental concept in biology.",
   "explanation": "Learn about Founder Effect and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "founder-effect"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

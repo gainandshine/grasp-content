@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-08.topic-03",
   "name": "Biomedical Waste",
   "subject": "chemistry",
+  "summary": "Biomedical Waste is a fundamental concept in chemistry.",
   "definition": "Biomedical Waste is a fundamental concept in chemistry.",
   "explanation": "Learn about Biomedical Waste and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biomedical-waste"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

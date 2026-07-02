@@ -2,6 +2,7 @@
   "id": "biology.microbiology.chapter-07.topic-05",
   "name": "Aerobic & Anaerobic Growth",
   "subject": "biology",
+  "summary": "Aerobic & Anaerobic Growth is a fundamental concept in biology.",
   "definition": "Aerobic & Anaerobic Growth is a fundamental concept in biology.",
   "explanation": "Learn about Aerobic & Anaerobic Growth and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "aerobic-anaerobic-growth"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

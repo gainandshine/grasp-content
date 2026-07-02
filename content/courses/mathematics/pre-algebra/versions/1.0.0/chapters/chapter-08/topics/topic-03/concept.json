@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-08.topic-03",
   "name": "Multi-Step Equations",
   "subject": "mathematics",
+  "summary": "Multi-Step Equations is a fundamental concept in mathematics.",
   "definition": "Multi-Step Equations is a fundamental concept in mathematics.",
   "explanation": "Learn about Multi-Step Equations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "multi-step-equations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "game-theory.game-theory-foundations.chapter-07.topic-04",
   "name": "Stable Outcomes",
   "subject": "game-theory",
+  "summary": "Stable Outcomes is a fundamental concept in game-theory.",
   "definition": "Stable Outcomes is a fundamental concept in game-theory.",
   "explanation": "Learn about Stable Outcomes and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "stable-outcomes"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

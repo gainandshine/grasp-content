@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-bonding.chapter-09.topic-02",
   "name": "London Dispersion Forces",
   "subject": "chemistry",
+  "summary": "London Dispersion Forces is a fundamental concept in chemistry.",
   "definition": "London Dispersion Forces is a fundamental concept in chemistry.",
   "explanation": "Learn about London Dispersion Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "london-dispersion-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

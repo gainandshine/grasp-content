@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-09.topic-05",
   "name": "Biomagnification",
   "subject": "chemistry",
+  "summary": "Biomagnification is a fundamental concept in chemistry.",
   "definition": "Biomagnification is a fundamental concept in chemistry.",
   "explanation": "Learn about Biomagnification and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "biomagnification"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

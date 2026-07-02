@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-i.chapter-10.topic-03",
   "name": "Huckel's Rule",
   "subject": "chemistry",
+  "summary": "Huckel's Rule is a fundamental concept in chemistry.",
   "definition": "Huckel's Rule is a fundamental concept in chemistry.",
   "explanation": "Learn about Huckel's Rule and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "huckels-rule"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

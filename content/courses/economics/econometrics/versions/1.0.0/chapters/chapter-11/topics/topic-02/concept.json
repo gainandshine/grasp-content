@@ -2,6 +2,7 @@
   "id": "economics.econometrics.chapter-11.topic-02",
   "name": "Regularization",
   "subject": "economics",
+  "summary": "Regularization is a fundamental concept in economics.",
   "definition": "Regularization is a fundamental concept in economics.",
   "explanation": "Learn about Regularization and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "economics",
     "regularization"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

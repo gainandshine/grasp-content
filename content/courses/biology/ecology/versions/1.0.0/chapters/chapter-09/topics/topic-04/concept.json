@@ -2,6 +2,7 @@
   "id": "biology.ecology.chapter-09.topic-04",
   "name": "Global Warming",
   "subject": "biology",
+  "summary": "Global Warming is a fundamental concept in biology.",
   "definition": "Global Warming is a fundamental concept in biology.",
   "explanation": "Learn about Global Warming and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "global-warming"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

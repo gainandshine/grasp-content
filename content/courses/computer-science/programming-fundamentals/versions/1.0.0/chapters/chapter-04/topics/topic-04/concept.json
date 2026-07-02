@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-04.topic-04",
   "name": "Reading User Input",
   "subject": "computer-science",
+  "summary": "Reading User Input is a fundamental concept in computer-science.",
   "definition": "Reading User Input is a fundamental concept in computer-science.",
   "explanation": "Learn about Reading User Input and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "reading-user-input"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

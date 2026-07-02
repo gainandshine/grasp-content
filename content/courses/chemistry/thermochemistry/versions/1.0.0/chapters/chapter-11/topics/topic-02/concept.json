@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-11.topic-02",
   "name": "Food Calories",
   "subject": "chemistry",
+  "summary": "Food Calories is a fundamental concept in chemistry.",
   "definition": "Food Calories is a fundamental concept in chemistry.",
   "explanation": "Learn about Food Calories and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "food-calories"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.databases.chapter-13.topic-05",
   "name": "Enterprise Resource Planning (ERP)",
   "subject": "computer-science",
+  "summary": "Enterprise Resource Planning (ERP) is a fundamental concept in computer-science.",
   "definition": "Enterprise Resource Planning (ERP) is a fundamental concept in computer-science.",
   "explanation": "Learn about Enterprise Resource Planning (ERP) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "enterprise-resource-planning-erp"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

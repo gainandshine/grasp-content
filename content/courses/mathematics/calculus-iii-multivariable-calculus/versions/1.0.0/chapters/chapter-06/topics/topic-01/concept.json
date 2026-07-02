@@ -2,6 +2,7 @@
   "id": "mathematics.calculus-iii-multivariable-calculus.chapter-06.topic-01",
   "name": "Partial Derivatives",
   "subject": "mathematics",
+  "summary": "Partial Derivatives is a fundamental concept in mathematics.",
   "definition": "Partial Derivatives is a fundamental concept in mathematics.",
   "explanation": "Learn about Partial Derivatives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "partial-derivatives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

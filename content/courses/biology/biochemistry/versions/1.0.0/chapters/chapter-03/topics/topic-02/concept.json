@@ -2,6 +2,7 @@
   "id": "biology.biochemistry.chapter-03.topic-02",
   "name": "Active Site",
   "subject": "biology",
+  "summary": "Active Site is a fundamental concept in biology.",
   "definition": "Active Site is a fundamental concept in biology.",
   "explanation": "Learn about Active Site and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "active-site"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

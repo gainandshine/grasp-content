@@ -2,6 +2,7 @@
   "id": "computer-science.computer-networks.chapter-03.topic-01",
   "name": "Transmission Media",
   "subject": "computer-science",
+  "summary": "Transmission Media is a fundamental concept in computer-science.",
   "definition": "Transmission Media is a fundamental concept in computer-science.",
   "explanation": "Learn about Transmission Media and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "transmission-media"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

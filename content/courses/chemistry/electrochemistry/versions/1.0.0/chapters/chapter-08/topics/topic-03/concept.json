@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-08.topic-03",
   "name": "Lead-Acid Battery",
   "subject": "chemistry",
+  "summary": "Lead-Acid Battery is a fundamental concept in chemistry.",
   "definition": "Lead-Acid Battery is a fundamental concept in chemistry.",
   "explanation": "Learn about Lead-Acid Battery and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "lead-acid-battery"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

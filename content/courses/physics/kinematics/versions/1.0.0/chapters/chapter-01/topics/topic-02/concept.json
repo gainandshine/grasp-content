@@ -2,6 +2,7 @@
   "id": "physics.kinematics.chapter-01.topic-02",
   "name": "Reference Frame",
   "subject": "physics",
+  "summary": "Reference Frame is a fundamental concept in physics.",
   "definition": "Reference Frame is a fundamental concept in physics.",
   "explanation": "Learn about Reference Frame and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "reference-frame"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

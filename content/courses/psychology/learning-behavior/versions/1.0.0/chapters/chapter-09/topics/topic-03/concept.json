@@ -2,6 +2,7 @@
   "id": "psychology.learning-behavior.chapter-09.topic-03",
   "name": "Cue",
   "subject": "psychology",
+  "summary": "Cue is a fundamental concept in psychology.",
   "definition": "Cue is a fundamental concept in psychology.",
   "explanation": "Learn about Cue and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "cue"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

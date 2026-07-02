@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-03.topic-01",
   "name": "Ascending-Bid Auctions",
   "subject": "game-theory",
+  "summary": "Ascending-Bid Auctions is a fundamental concept in game-theory.",
   "definition": "Ascending-Bid Auctions is a fundamental concept in game-theory.",
   "explanation": "Learn about Ascending-Bid Auctions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "ascending-bid-auctions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

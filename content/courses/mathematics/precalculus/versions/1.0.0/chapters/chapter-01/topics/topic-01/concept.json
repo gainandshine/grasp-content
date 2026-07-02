@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-01.topic-01",
   "name": "Function Basics",
   "subject": "mathematics",
+  "summary": "Function Basics is a fundamental concept in mathematics.",
   "definition": "Function Basics is a fundamental concept in mathematics.",
   "explanation": "Learn about Function Basics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "function-basics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

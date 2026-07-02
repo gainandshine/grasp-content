@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-11.topic-02",
   "name": "Scanning Electron Microscopy (SEM)",
   "subject": "chemistry",
+  "summary": "Scanning Electron Microscopy (SEM) is a fundamental concept in chemistry.",
   "definition": "Scanning Electron Microscopy (SEM) is a fundamental concept in chemistry.",
   "explanation": "Learn about Scanning Electron Microscopy (SEM) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "scanning-electron-microscopy-sem"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

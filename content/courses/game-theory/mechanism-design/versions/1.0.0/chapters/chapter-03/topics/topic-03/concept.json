@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-03.topic-03",
   "name": "Revelation Principle",
   "subject": "game-theory",
+  "summary": "Revelation Principle is a fundamental concept in game-theory.",
   "definition": "Revelation Principle is a fundamental concept in game-theory.",
   "explanation": "Learn about Revelation Principle and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "revelation-principle"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

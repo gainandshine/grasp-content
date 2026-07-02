@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-07.topic-04",
   "name": "G₂ Phase",
   "subject": "biology",
+  "summary": "G₂ Phase is a fundamental concept in biology.",
   "definition": "G₂ Phase is a fundamental concept in biology.",
   "explanation": "Learn about G₂ Phase and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "g-phase"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

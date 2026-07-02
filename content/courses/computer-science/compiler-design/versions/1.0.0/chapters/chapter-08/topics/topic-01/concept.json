@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-08.topic-01",
   "name": "Runtime Environment",
   "subject": "computer-science",
+  "summary": "Runtime Environment is a fundamental concept in computer-science.",
   "definition": "Runtime Environment is a fundamental concept in computer-science.",
   "explanation": "Learn about Runtime Environment and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "runtime-environment"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

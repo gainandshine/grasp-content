@@ -2,6 +2,7 @@
   "id": "mathematics.probability.chapter-13.topic-06",
   "name": "Queueing Systems",
   "subject": "mathematics",
+  "summary": "Queueing Systems is a fundamental concept in mathematics.",
   "definition": "Queueing Systems is a fundamental concept in mathematics.",
   "explanation": "Learn about Queueing Systems and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "queueing-systems"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

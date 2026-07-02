@@ -2,6 +2,7 @@
   "id": "computer-science.algorithms.chapter-02.topic-05",
   "name": "Tail Recursion",
   "subject": "computer-science",
+  "summary": "Tail Recursion is a fundamental concept in computer-science.",
   "definition": "Tail Recursion is a fundamental concept in computer-science.",
   "explanation": "Learn about Tail Recursion and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "tail-recursion"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "computer-science.computer-science-foundations.chapter-13.topic-14",
   "name": "Conditional Statements",
   "subject": "computer-science",
+  "summary": "Conditional Statements is a fundamental concept in computer-science.",
   "definition": "Conditional Statements is a fundamental concept in computer-science.",
   "explanation": "Learn about Conditional Statements and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "conditional-statements"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

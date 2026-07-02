@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-10.topic-02",
   "name": "Torsional Pendulum",
   "subject": "physics",
+  "summary": "Torsional Pendulum is a fundamental concept in physics.",
   "definition": "Torsional Pendulum is a fundamental concept in physics.",
   "explanation": "Learn about Torsional Pendulum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "torsional-pendulum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

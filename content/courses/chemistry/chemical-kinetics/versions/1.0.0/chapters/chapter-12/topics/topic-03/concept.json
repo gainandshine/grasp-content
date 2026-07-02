@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-12.topic-03",
   "name": "Photochemical Kinetics",
   "subject": "chemistry",
+  "summary": "Photochemical Kinetics is a fundamental concept in chemistry.",
   "definition": "Photochemical Kinetics is a fundamental concept in chemistry.",
   "explanation": "Learn about Photochemical Kinetics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "photochemical-kinetics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

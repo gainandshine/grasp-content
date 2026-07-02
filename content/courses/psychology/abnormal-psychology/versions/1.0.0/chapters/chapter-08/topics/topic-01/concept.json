@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-08.topic-01",
   "name": "Autism Spectrum Disorder (ASD)",
   "subject": "psychology",
+  "summary": "Autism Spectrum Disorder (ASD) is a fundamental concept in psychology.",
   "definition": "Autism Spectrum Disorder (ASD) is a fundamental concept in psychology.",
   "explanation": "Learn about Autism Spectrum Disorder (ASD) and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "autism-spectrum-disorder-asd"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

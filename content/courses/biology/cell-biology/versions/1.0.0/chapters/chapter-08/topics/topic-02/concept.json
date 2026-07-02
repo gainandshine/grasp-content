@@ -2,6 +2,7 @@
   "id": "biology.cell-biology.chapter-08.topic-02",
   "name": "Cytokinesis",
   "subject": "biology",
+  "summary": "Cytokinesis is a fundamental concept in biology.",
   "definition": "Cytokinesis is a fundamental concept in biology.",
   "explanation": "Learn about Cytokinesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "cytokinesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

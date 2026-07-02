@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-18.topic-05",
   "name": "Source Transformation",
   "subject": "physics",
+  "summary": "Source Transformation is a fundamental concept in physics.",
   "definition": "Source Transformation is a fundamental concept in physics.",
   "explanation": "Learn about Source Transformation and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "source-transformation"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

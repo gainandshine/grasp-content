@@ -2,6 +2,7 @@
   "id": "computer-science.operating-systems.chapter-03.topic-07",
   "name": "Multilevel Queue Scheduling",
   "subject": "computer-science",
+  "summary": "Multilevel Queue Scheduling is a fundamental concept in computer-science.",
   "definition": "Multilevel Queue Scheduling is a fundamental concept in computer-science.",
   "explanation": "Learn about Multilevel Queue Scheduling and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "multilevel-queue-scheduling"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

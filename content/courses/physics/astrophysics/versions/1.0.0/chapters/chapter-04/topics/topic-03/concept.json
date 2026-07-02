@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-04.topic-03",
   "name": "Red Giants",
   "subject": "physics",
+  "summary": "Red Giants is a fundamental concept in physics.",
   "definition": "Red Giants is a fundamental concept in physics.",
   "explanation": "Learn about Red Giants and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "red-giants"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.linear-algebra.chapter-11.topic-01",
   "name": "LU Decomposition",
   "subject": "mathematics",
+  "summary": "LU Decomposition is a fundamental concept in mathematics.",
   "definition": "LU Decomposition is a fundamental concept in mathematics.",
   "explanation": "Learn about LU Decomposition and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "lu-decomposition"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

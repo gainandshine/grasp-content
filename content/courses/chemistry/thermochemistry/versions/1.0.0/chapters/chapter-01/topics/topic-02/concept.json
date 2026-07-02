@@ -2,6 +2,7 @@
   "id": "chemistry.thermochemistry.chapter-01.topic-02",
   "name": "System & Surroundings",
   "subject": "chemistry",
+  "summary": "System & Surroundings is a fundamental concept in chemistry.",
   "definition": "System & Surroundings is a fundamental concept in chemistry.",
   "explanation": "Learn about System & Surroundings and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "system-surroundings"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

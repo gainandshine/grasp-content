@@ -2,6 +2,7 @@
   "id": "computer-science.web-development.chapter-08.topic-07",
   "name": "Database Migrations",
   "subject": "computer-science",
+  "summary": "Database Migrations is a fundamental concept in computer-science.",
   "definition": "Database Migrations is a fundamental concept in computer-science.",
   "explanation": "Learn about Database Migrations and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "database-migrations"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.graph-theory.chapter-02.topic-02",
   "name": "Adjacency List",
   "subject": "mathematics",
+  "summary": "Adjacency List is a fundamental concept in mathematics.",
   "definition": "Adjacency List is a fundamental concept in mathematics.",
   "explanation": "Learn about Adjacency List and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "adjacency-list"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

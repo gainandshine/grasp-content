@@ -2,6 +2,7 @@
   "id": "chemistry.organic-chemistry-ii.chapter-03.topic-03",
   "name": "Williamson Ether Synthesis",
   "subject": "chemistry",
+  "summary": "Williamson Ether Synthesis is a fundamental concept in chemistry.",
   "definition": "Williamson Ether Synthesis is a fundamental concept in chemistry.",
   "explanation": "Learn about Williamson Ether Synthesis and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "williamson-ether-synthesis"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

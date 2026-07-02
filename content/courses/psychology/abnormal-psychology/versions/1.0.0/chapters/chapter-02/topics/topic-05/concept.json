@@ -2,6 +2,7 @@
   "id": "psychology.abnormal-psychology.chapter-02.topic-05",
   "name": "Psychological Testing",
   "subject": "psychology",
+  "summary": "Psychological Testing is a fundamental concept in psychology.",
   "definition": "Psychological Testing is a fundamental concept in psychology.",
   "explanation": "Learn about Psychological Testing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "psychological-testing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

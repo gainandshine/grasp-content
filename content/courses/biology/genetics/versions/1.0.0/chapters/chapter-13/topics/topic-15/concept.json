@@ -2,6 +2,7 @@
   "id": "biology.genetics.chapter-13.topic-15",
   "name": "Phylogenetics",
   "subject": "biology",
+  "summary": "Phylogenetics is a fundamental concept in biology.",
   "definition": "Phylogenetics is a fundamental concept in biology.",
   "explanation": "Learn about Phylogenetics and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "phylogenetics"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

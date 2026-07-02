@@ -2,6 +2,7 @@
   "id": "game-theory.repeated-games.chapter-13.topic-01",
   "name": "Stochastic Repeated Games",
   "subject": "game-theory",
+  "summary": "Stochastic Repeated Games is a fundamental concept in game-theory.",
   "definition": "Stochastic Repeated Games is a fundamental concept in game-theory.",
   "explanation": "Learn about Stochastic Repeated Games and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "stochastic-repeated-games"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.chemical-kinetics.chapter-01.topic-04",
   "name": "Fast vs Slow Reactions",
   "subject": "chemistry",
+  "summary": "Fast vs Slow Reactions is a fundamental concept in chemistry.",
   "definition": "Fast vs Slow Reactions is a fundamental concept in chemistry.",
   "explanation": "Learn about Fast vs Slow Reactions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "fast-vs-slow-reactions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

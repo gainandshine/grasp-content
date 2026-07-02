@@ -2,6 +2,7 @@
   "id": "computer-science.programming-fundamentals.chapter-06.topic-05",
   "name": "break",
   "subject": "computer-science",
+  "summary": "break is a fundamental concept in computer-science.",
   "definition": "break is a fundamental concept in computer-science.",
   "explanation": "Learn about break and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "break"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

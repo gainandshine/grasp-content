@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-02.topic-04",
   "name": "Life Satisfaction",
   "subject": "psychology",
+  "summary": "Life Satisfaction is a fundamental concept in psychology.",
   "definition": "Life Satisfaction is a fundamental concept in psychology.",
   "explanation": "Learn about Life Satisfaction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "life-satisfaction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

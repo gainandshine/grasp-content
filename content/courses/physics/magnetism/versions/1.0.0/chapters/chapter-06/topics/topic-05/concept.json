@@ -2,6 +2,7 @@
   "id": "physics.magnetism.chapter-06.topic-05",
   "name": "B-H Curve",
   "subject": "physics",
+  "summary": "B-H Curve is a fundamental concept in physics.",
   "definition": "B-H Curve is a fundamental concept in physics.",
   "explanation": "Learn about B-H Curve and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "b-h-curve"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

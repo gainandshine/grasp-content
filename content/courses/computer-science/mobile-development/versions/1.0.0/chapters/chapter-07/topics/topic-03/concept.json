@@ -2,6 +2,7 @@
   "id": "computer-science.mobile-development.chapter-07.topic-03",
   "name": "GPS & Location",
   "subject": "computer-science",
+  "summary": "GPS & Location is a fundamental concept in computer-science.",
   "definition": "GPS & Location is a fundamental concept in computer-science.",
   "explanation": "Learn about GPS & Location and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "gps-location"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

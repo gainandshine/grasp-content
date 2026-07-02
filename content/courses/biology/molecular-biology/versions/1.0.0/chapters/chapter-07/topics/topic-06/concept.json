@@ -2,6 +2,7 @@
   "id": "biology.molecular-biology.chapter-07.topic-06",
   "name": "Gene Silencing",
   "subject": "biology",
+  "summary": "Gene Silencing is a fundamental concept in biology.",
   "definition": "Gene Silencing is a fundamental concept in biology.",
   "explanation": "Learn about Gene Silencing and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "gene-silencing"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

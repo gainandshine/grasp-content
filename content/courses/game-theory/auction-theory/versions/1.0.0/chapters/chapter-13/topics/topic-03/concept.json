@@ -2,6 +2,7 @@
   "id": "game-theory.auction-theory.chapter-13.topic-03",
   "name": "Matching Markets",
   "subject": "game-theory",
+  "summary": "Matching Markets is a fundamental concept in game-theory.",
   "definition": "Matching Markets is a fundamental concept in game-theory.",
   "explanation": "Learn about Matching Markets and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "matching-markets"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

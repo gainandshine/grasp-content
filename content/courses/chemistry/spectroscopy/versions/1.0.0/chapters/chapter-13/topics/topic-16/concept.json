@@ -2,6 +2,7 @@
   "id": "chemistry.spectroscopy.chapter-13.topic-16",
   "name": "Environmental Toxicology",
   "subject": "chemistry",
+  "summary": "Environmental Toxicology is a fundamental concept in chemistry.",
   "definition": "Environmental Toxicology is a fundamental concept in chemistry.",
   "explanation": "Learn about Environmental Toxicology and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "environmental-toxicology"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

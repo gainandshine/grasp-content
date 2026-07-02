@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-15.topic-06",
   "name": "Introduction to Derivatives",
   "subject": "mathematics",
+  "summary": "Introduction to Derivatives is a fundamental concept in mathematics.",
   "definition": "Introduction to Derivatives is a fundamental concept in mathematics.",
   "explanation": "Learn about Introduction to Derivatives and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "introduction-to-derivatives"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

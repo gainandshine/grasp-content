@@ -2,6 +2,7 @@
   "id": "physics.astrophysics.chapter-06.topic-01",
   "name": "White Dwarfs",
   "subject": "physics",
+  "summary": "White Dwarfs is a fundamental concept in physics.",
   "definition": "White Dwarfs is a fundamental concept in physics.",
   "explanation": "Learn about White Dwarfs and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "white-dwarfs"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

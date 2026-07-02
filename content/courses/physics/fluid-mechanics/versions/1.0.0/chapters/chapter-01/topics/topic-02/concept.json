@@ -2,6 +2,7 @@
   "id": "physics.fluid-mechanics.chapter-01.topic-02",
   "name": "Density",
   "subject": "physics",
+  "summary": "Density is a fundamental concept in physics.",
   "definition": "Density is a fundamental concept in physics.",
   "explanation": "Learn about Density and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "density"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

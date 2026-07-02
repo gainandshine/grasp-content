@@ -2,6 +2,7 @@
   "id": "chemistry.electrochemistry.chapter-07.topic-05",
   "name": "Electrolysis of Aqueous Solutions",
   "subject": "chemistry",
+  "summary": "Electrolysis of Aqueous Solutions is a fundamental concept in chemistry.",
   "definition": "Electrolysis of Aqueous Solutions is a fundamental concept in chemistry.",
   "explanation": "Learn about Electrolysis of Aqueous Solutions and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "electrolysis-of-aqueous-solutions"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

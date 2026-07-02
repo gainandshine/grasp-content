@@ -2,6 +2,7 @@
   "id": "chemistry.main-group-chemistry.chapter-07.topic-02",
   "name": "Sulfur",
   "subject": "chemistry",
+  "summary": "Sulfur is a fundamental concept in chemistry.",
   "definition": "Sulfur is a fundamental concept in chemistry.",
   "explanation": "Learn about Sulfur and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "sulfur"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

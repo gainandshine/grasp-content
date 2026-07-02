@@ -2,6 +2,7 @@
   "id": "psychology.clinical-psychology.chapter-07.topic-05",
   "name": "Support Groups",
   "subject": "psychology",
+  "summary": "Support Groups is a fundamental concept in psychology.",
   "definition": "Support Groups is a fundamental concept in psychology.",
   "explanation": "Learn about Support Groups and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "support-groups"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

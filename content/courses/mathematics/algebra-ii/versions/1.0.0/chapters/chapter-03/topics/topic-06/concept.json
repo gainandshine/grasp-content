@@ -2,6 +2,7 @@
   "id": "mathematics.algebra-ii.chapter-03.topic-06",
   "name": "Synthetic Division",
   "subject": "mathematics",
+  "summary": "Synthetic Division is a fundamental concept in mathematics.",
   "definition": "Synthetic Division is a fundamental concept in mathematics.",
   "explanation": "Learn about Synthetic Division and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "synthetic-division"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

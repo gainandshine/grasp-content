@@ -2,6 +2,7 @@
   "id": "physics.rotational-motion.chapter-10.topic-01",
   "name": "Physical Pendulum",
   "subject": "physics",
+  "summary": "Physical Pendulum is a fundamental concept in physics.",
   "definition": "Physical Pendulum is a fundamental concept in physics.",
   "explanation": "Learn about Physical Pendulum and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "physical-pendulum"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

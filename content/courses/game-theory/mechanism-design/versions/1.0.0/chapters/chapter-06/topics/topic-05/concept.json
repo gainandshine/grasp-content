@@ -2,6 +2,7 @@
   "id": "game-theory.mechanism-design.chapter-06.topic-05",
   "name": "Medical Residency Matching",
   "subject": "game-theory",
+  "summary": "Medical Residency Matching is a fundamental concept in game-theory.",
   "definition": "Medical Residency Matching is a fundamental concept in game-theory.",
   "explanation": "Learn about Medical Residency Matching and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "game-theory",
     "medical-residency-matching"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

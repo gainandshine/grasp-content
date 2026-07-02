@@ -2,6 +2,7 @@
   "id": "computer-science.software-engineering.chapter-12.topic-06",
   "name": "Software Evolution",
   "subject": "computer-science",
+  "summary": "Software Evolution is a fundamental concept in computer-science.",
   "definition": "Software Evolution is a fundamental concept in computer-science.",
   "explanation": "Learn about Software Evolution and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "software-evolution"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

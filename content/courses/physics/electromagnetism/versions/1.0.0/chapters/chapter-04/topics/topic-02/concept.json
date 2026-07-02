@@ -2,6 +2,7 @@
   "id": "physics.electromagnetism.chapter-04.topic-02",
   "name": "Current Density",
   "subject": "physics",
+  "summary": "Current Density is a fundamental concept in physics.",
   "definition": "Current Density is a fundamental concept in physics.",
   "explanation": "Learn about Current Density and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "current-density"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

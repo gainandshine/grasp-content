@@ -2,6 +2,7 @@
   "id": "psychology.positive-psychology.chapter-09.topic-02",
   "name": "Trust",
   "subject": "psychology",
+  "summary": "Trust is a fundamental concept in psychology.",
   "definition": "Trust is a fundamental concept in psychology.",
   "explanation": "Learn about Trust and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "trust"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.environmental-chemistry.chapter-05.topic-01",
   "name": "Water Quality",
   "subject": "chemistry",
+  "summary": "Water Quality is a fundamental concept in chemistry.",
   "definition": "Water Quality is a fundamental concept in chemistry.",
   "explanation": "Learn about Water Quality and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "water-quality"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

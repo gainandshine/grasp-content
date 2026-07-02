@@ -2,6 +2,7 @@
   "id": "mathematics.precalculus.chapter-15.topic-02",
   "name": "Instantaneous Rate of Change",
   "subject": "mathematics",
+  "summary": "Instantaneous Rate of Change is a fundamental concept in mathematics.",
   "definition": "Instantaneous Rate of Change is a fundamental concept in mathematics.",
   "explanation": "Learn about Instantaneous Rate of Change and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "instantaneous-rate-of-change"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

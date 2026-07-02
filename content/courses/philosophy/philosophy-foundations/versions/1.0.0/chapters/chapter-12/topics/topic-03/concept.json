@@ -2,6 +2,7 @@
   "id": "philosophy.philosophy-foundations.chapter-12.topic-03",
   "name": "Indian Philosophy",
   "subject": "philosophy",
+  "summary": "Indian Philosophy is a fundamental concept in philosophy.",
   "definition": "Indian Philosophy is a fundamental concept in philosophy.",
   "explanation": "Learn about Indian Philosophy and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "philosophy",
     "indian-philosophy"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

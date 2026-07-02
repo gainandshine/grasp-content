@@ -2,6 +2,7 @@
   "id": "chemistry.materials-chemistry.chapter-07.topic-02",
   "name": "Paramagnetic Materials",
   "subject": "chemistry",
+  "summary": "Paramagnetic Materials is a fundamental concept in chemistry.",
   "definition": "Paramagnetic Materials is a fundamental concept in chemistry.",
   "explanation": "Learn about Paramagnetic Materials and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "paramagnetic-materials"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

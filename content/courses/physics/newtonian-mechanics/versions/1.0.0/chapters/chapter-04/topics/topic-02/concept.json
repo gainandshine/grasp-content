@@ -2,6 +2,7 @@
   "id": "physics.newtonian-mechanics.chapter-04.topic-02",
   "name": "Internal vs External Forces",
   "subject": "physics",
+  "summary": "Internal vs External Forces is a fundamental concept in physics.",
   "definition": "Internal vs External Forces is a fundamental concept in physics.",
   "explanation": "Learn about Internal vs External Forces and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "internal-vs-external-forces"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-06.topic-05",
   "name": "Exotic Hadrons",
   "subject": "physics",
+  "summary": "Exotic Hadrons is a fundamental concept in physics.",
   "definition": "Exotic Hadrons is a fundamental concept in physics.",
   "explanation": "Learn about Exotic Hadrons and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "exotic-hadrons"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "mathematics.pre-algebra.chapter-06.topic-02",
   "name": "Base & Exponent",
   "subject": "mathematics",
+  "summary": "Base & Exponent is a fundamental concept in mathematics.",
   "definition": "Base & Exponent is a fundamental concept in mathematics.",
   "explanation": "Learn about Base & Exponent and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "mathematics",
     "base-exponent"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

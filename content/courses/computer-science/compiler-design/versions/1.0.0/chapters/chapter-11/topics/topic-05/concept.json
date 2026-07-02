@@ -2,6 +2,7 @@
   "id": "computer-science.compiler-design.chapter-11.topic-05",
   "name": "WebAssembly",
   "subject": "computer-science",
+  "summary": "WebAssembly is a fundamental concept in computer-science.",
   "definition": "WebAssembly is a fundamental concept in computer-science.",
   "explanation": "Learn about WebAssembly and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "computer-science",
     "webassembly"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

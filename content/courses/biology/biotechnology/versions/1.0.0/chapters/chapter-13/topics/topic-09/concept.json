@@ -2,6 +2,7 @@
   "id": "biology.biotechnology.chapter-13.topic-09",
   "name": "Amino Acids & Proteins",
   "subject": "biology",
+  "summary": "Amino Acids & Proteins is a fundamental concept in biology.",
   "definition": "Amino Acids & Proteins is a fundamental concept in biology.",
   "explanation": "Learn about Amino Acids & Proteins and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "biology",
     "amino-acids-proteins"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

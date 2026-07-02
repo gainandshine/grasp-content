@@ -2,6 +2,7 @@
   "id": "chemistry.coordination-chemistry.chapter-11.topic-06",
   "name": "Metal Ion Transport",
   "subject": "chemistry",
+  "summary": "Metal Ion Transport is a fundamental concept in chemistry.",
   "definition": "Metal Ion Transport is a fundamental concept in chemistry.",
   "explanation": "Learn about Metal Ion Transport and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "metal-ion-transport"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

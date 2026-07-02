@@ -2,6 +2,7 @@
   "id": "physics.particle-physics.chapter-06.topic-03",
   "name": "Proton",
   "subject": "physics",
+  "summary": "Proton is a fundamental concept in physics.",
   "definition": "Proton is a fundamental concept in physics.",
   "explanation": "Learn about Proton and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "proton"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

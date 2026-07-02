@@ -2,6 +2,7 @@
   "id": "physics.optics.chapter-03.topic-01",
   "name": "Refraction",
   "subject": "physics",
+  "summary": "Refraction is a fundamental concept in physics.",
   "definition": "Refraction is a fundamental concept in physics.",
   "explanation": "Learn about Refraction and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "physics",
     "refraction"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

@@ -2,6 +2,7 @@
   "id": "chemistry.transition-metals.chapter-03.topic-05",
   "name": "Hardness",
   "subject": "chemistry",
+  "summary": "Hardness is a fundamental concept in chemistry.",
   "definition": "Hardness is a fundamental concept in chemistry.",
   "explanation": "Learn about Hardness and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "chemistry",
     "hardness"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }

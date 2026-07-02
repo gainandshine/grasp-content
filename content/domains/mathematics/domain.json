@@ -1,7 +1,32 @@
-{
-  "id": "mathematics",
-  "name": "Mathematics",
-  "description": "The study of numbers, quantities, shapes, structures, and change.",
-  "courses": ["arithmetic","pre-algebra","algebra-1","algebra-2","geometry","trigonometry","precalculus","calculus-1","calculus-2","calculus-3","linear-algebra","differential-equations","discrete-mathematics","probability","statistics","number-theory","graph-theory","real-analysis","abstract-algebra","complex-analysis"],
-  "metadata": { "icon": "calculator", "color": "#2563EB", "order": 1 }
+﻿{
+    "id":  "mathematics",
+    "name":  "Mathematics",
+    "description":  "The study of numbers, quantities, shapes, structures, and change.",
+    "courses":  [
+                    "arithmetic",
+                    "pre-algebra",
+                    "algebra-i",
+                    "algebra-ii",
+                    "geometry",
+                    "trigonometry",
+                    "precalculus",
+                    "calculus-i",
+                    "calculus-ii",
+                    "calculus-iii-multivariable-calculus",
+                    "linear-algebra",
+                    "differential-equations",
+                    "discrete-mathematics",
+                    "probability",
+                    "statistics",
+                    "number-theory",
+                    "graph-theory",
+                    "real-analysis",
+                    "abstract-algebra",
+                    "complex-analysis"
+                ],
+    "metadata":  {
+                     "icon":  "calculator",
+                     "color":  "#2563EB",
+                     "order":  1
+                 }
 }

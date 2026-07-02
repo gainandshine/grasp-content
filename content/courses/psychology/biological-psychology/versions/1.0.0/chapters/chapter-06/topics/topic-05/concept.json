@@ -2,6 +2,7 @@
   "id": "psychology.biological-psychology.chapter-06.topic-05",
   "name": "Smell",
   "subject": "psychology",
+  "summary": "Smell is a fundamental concept in psychology.",
   "definition": "Smell is a fundamental concept in psychology.",
   "explanation": "Learn about Smell and its applications.",
   "prerequisites": [],
@@ -16,5 +17,8 @@
   "tags": [
     "psychology",
     "smell"
-  ]
+  ],
+  "learningType": "conceptual",
+  "whyItMatters": "",
+  "memoryHook": ""
 }
