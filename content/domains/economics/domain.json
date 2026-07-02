@@ -1,0 +1,7 @@
+{
+  "id": "economics",
+  "name": "Economics",
+  "description": "The study of production, distribution, and consumption of goods and services.",
+  "courses": ["economics-foundations","microeconomics","macroeconomics","consumer-theory","producer-theory","market-structures","international-economics","public-economics","monetary-economics","development-economics","behavioral-economics","econometrics"],
+  "metadata": { "icon": "trending-up", "color": "#CA8A04", "order": 6 }
+}

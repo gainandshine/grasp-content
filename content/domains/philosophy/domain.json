@@ -1,0 +1,7 @@
+{
+  "id": "philosophy",
+  "name": "Philosophy",
+  "description": "The study of fundamental questions about existence, knowledge, values, reason, mind, and language.",
+  "courses": ["philosophy-foundations","logic","epistemology","metaphysics","ethics","political-philosophy","philosophy-of-mind","philosophy-of-science","philosophy-of-language","aesthetics","history-of-philosophy","contemporary-philosophy"],
+  "metadata": { "icon": "book-open", "color": "#C2410C", "order": 8 }
+}

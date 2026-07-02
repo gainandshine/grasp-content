@@ -1,0 +1,7 @@
+{
+  "id": "biology",
+  "name": "Biology",
+  "description": "The study of life and living organisms.",
+  "courses": ["biology-foundations","cell-biology","molecular-biology","genetics","evolution","human-physiology","microbiology","immunology","ecology","biotechnology","biochemistry"],
+  "metadata": { "icon": "activity", "color": "#059669", "order": 4 }
+}

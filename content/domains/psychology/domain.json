@@ -1,0 +1,7 @@
+{
+  "id": "psychology",
+  "name": "Psychology",
+  "description": "The scientific study of mind and behavior.",
+  "courses": ["psychology-foundations","cognitive-psychology","biological-psychology","developmental-psychology","social-psychology","personality-psychology","learning-behavior","abnormal-psychology","clinical-psychology","industrial-organizational-psychology","research-methods-statistics","positive-psychology"],
+  "metadata": { "icon": "brain", "color": "#EC4899", "order": 7 }
+}

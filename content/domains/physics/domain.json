@@ -1,0 +1,7 @@
+{
+  "id": "physics",
+  "name": "Physics",
+  "description": "The natural science that studies matter, motion, energy, and force.",
+  "courses": ["physics-foundations","kinematics","newtonian-mechanics","work-energy-power","momentum-collisions","rotational-motion","gravitation","oscillations-simple-harmonic-motion-shm","waves-sound","thermodynamics","fluid-mechanics","electricity-electrostatics","magnetism","electromagnetism","optics","modern-physics","electrical-circuits","quantum-mechanics","atomic-nuclear-physics","solid-state-physics","particle-physics","relativity","plasma-physics","astrophysics","cosmology"],
+  "metadata": { "icon": "atom", "color": "#DC2626", "order": 2 }
+}
