@@ -4,10 +4,569 @@
   "description": "This course studies **money, banking, financial systems, and monetary policy**. It explains how money is created, how central banks influence the economy, and how financial stability is maintained.",
   "version": "1.0.0",
   "domain": "economics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Monetary Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Money?",
+          "topicId": "economics.monetary-economics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functions of Money",
+          "topicId": "economics.monetary-economics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Evolution of Money",
+          "topicId": "economics.monetary-economics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Monetary System",
+          "topicId": "economics.monetary-economics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Financial System",
+          "topicId": "economics.monetary-economics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Role of Money in the Economy",
+          "topicId": "economics.monetary-economics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Money Supply",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Money Supply",
+          "topicId": "economics.monetary-economics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Monetary Aggregates (M0, M1, M2, M3)",
+          "topicId": "economics.monetary-economics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Money Creation",
+          "topicId": "economics.monetary-economics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fractional Reserve Banking",
+          "topicId": "economics.monetary-economics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Money Multiplier",
+          "topicId": "economics.monetary-economics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Liquidity",
+          "topicId": "economics.monetary-economics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Banking System",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Commercial Banks",
+          "topicId": "economics.monetary-economics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Central Banks",
+          "topicId": "economics.monetary-economics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Financial Intermediaries",
+          "topicId": "economics.monetary-economics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deposits",
+          "topicId": "economics.monetary-economics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Loans",
+          "topicId": "economics.monetary-economics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bank Balance Sheets",
+          "topicId": "economics.monetary-economics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Credit Creation",
+          "topicId": "economics.monetary-economics.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Interest Rates",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Interest Rates",
+          "topicId": "economics.monetary-economics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nominal vs Real Interest Rates",
+          "topicId": "economics.monetary-economics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Time Value of Money",
+          "topicId": "economics.monetary-economics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Loan Markets",
+          "topicId": "economics.monetary-economics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bond Markets",
+          "topicId": "economics.monetary-economics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Yield Curve",
+          "topicId": "economics.monetary-economics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Interest Rate Determination",
+          "topicId": "economics.monetary-economics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Inflation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Inflation",
+          "topicId": "economics.monetary-economics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Inflation Measurement",
+          "topicId": "economics.monetary-economics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Demand-Pull Inflation",
+          "topicId": "economics.monetary-economics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cost-Push Inflation",
+          "topicId": "economics.monetary-economics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inflation Expectations",
+          "topicId": "economics.monetary-economics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deflation",
+          "topicId": "economics.monetary-economics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hyperinflation",
+          "topicId": "economics.monetary-economics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Monetary Policy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monetary Policy Objectives",
+          "topicId": "economics.monetary-economics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Expansionary Monetary Policy",
+          "topicId": "economics.monetary-economics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Contractionary Monetary Policy",
+          "topicId": "economics.monetary-economics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Open Market Operations",
+          "topicId": "economics.monetary-economics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reserve Requirements",
+          "topicId": "economics.monetary-economics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Policy Interest Rates",
+          "topicId": "economics.monetary-economics.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Monetary Transmission Mechanism",
+          "topicId": "economics.monetary-economics.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Financial Markets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Money Markets",
+          "topicId": "economics.monetary-economics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Capital Markets",
+          "topicId": "economics.monetary-economics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equity Markets",
+          "topicId": "economics.monetary-economics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bond Markets",
+          "topicId": "economics.monetary-economics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Foreign Exchange Markets",
+          "topicId": "economics.monetary-economics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Financial Instruments",
+          "topicId": "economics.monetary-economics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Financial Stability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Banking Crises",
+          "topicId": "economics.monetary-economics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Financial Risk",
+          "topicId": "economics.monetary-economics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Liquidity Risk",
+          "topicId": "economics.monetary-economics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Systemic Risk",
+          "topicId": "economics.monetary-economics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Financial Regulation",
+          "topicId": "economics.monetary-economics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deposit Insurance",
+          "topicId": "economics.monetary-economics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Exchange Rates",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Exchange Rate Systems",
+          "topicId": "economics.monetary-economics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fixed Exchange Rates",
+          "topicId": "economics.monetary-economics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Floating Exchange Rates",
+          "topicId": "economics.monetary-economics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Currency Markets",
+          "topicId": "economics.monetary-economics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Foreign Exchange Intervention",
+          "topicId": "economics.monetary-economics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Purchasing Power Parity (PPP)",
+          "topicId": "economics.monetary-economics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Digital Money",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electronic Payments",
+          "topicId": "economics.monetary-economics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mobile Payments",
+          "topicId": "economics.monetary-economics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Digital Wallets",
+          "topicId": "economics.monetary-economics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cryptocurrencies",
+          "topicId": "economics.monetary-economics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stablecoins",
+          "topicId": "economics.monetary-economics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Central Bank Digital Currencies (CBDCs)",
+          "topicId": "economics.monetary-economics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Monetary Economics in Practice",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Inflation Targeting",
+          "topicId": "economics.monetary-economics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quantitative Easing",
+          "topicId": "economics.monetary-economics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Negative Interest Rates",
+          "topicId": "economics.monetary-economics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Monetary Policy During Crises",
+          "topicId": "economics.monetary-economics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Central Bank Independence",
+          "topicId": "economics.monetary-economics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Monetary Coordination",
+          "topicId": "economics.monetary-economics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Banking",
+          "topicId": "economics.monetary-economics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Investment",
+          "topicId": "economics.monetary-economics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Corporate Finance",
+          "topicId": "economics.monetary-economics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Public Policy",
+          "topicId": "economics.monetary-economics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "International Finance",
+          "topicId": "economics.monetary-economics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Financial Technology (FinTech)",
+          "topicId": "economics.monetary-economics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Personal Finance",
+          "topicId": "economics.monetary-economics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Modern Monetary Theory (MMT)",
+          "topicId": "economics.monetary-economics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Shadow Banking",
+          "topicId": "economics.monetary-economics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Financial Innovation",
+          "topicId": "economics.monetary-economics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Monetary Unions",
+          "topicId": "economics.monetary-economics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Financial Systems",
+          "topicId": "economics.monetary-economics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Money",
+          "topicId": "economics.monetary-economics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 10: Development Economics**",
+          "topicId": "economics.monetary-economics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Economic Development",
+          "topicId": "economics.monetary-economics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Poverty",
+          "topicId": "economics.monetary-economics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Inequality",
+          "topicId": "economics.monetary-economics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Human Development",
+          "topicId": "economics.monetary-economics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Economic Growth",
+          "topicId": "economics.monetary-economics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Institutions",
+          "topicId": "economics.monetary-economics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Agriculture",
+          "topicId": "economics.monetary-economics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Industrialization",
+          "topicId": "economics.monetary-economics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Urbanization",
+          "topicId": "economics.monetary-economics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Global Development",
+          "topicId": "economics.monetary-economics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Sustainable Development",
+          "topicId": "economics.monetary-economics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Development Policy",
+          "topicId": "economics.monetary-economics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "economics",

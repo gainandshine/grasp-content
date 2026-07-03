@@ -4,10 +4,549 @@
   "description": "This course studies **the fundamental nature of reality, existence, and being**. It explores questions about what exists, how things persist through time, the nature of causation, and the structure of reality itself.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Metaphysics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Metaphysics?",
+          "topicId": "philosophy.metaphysics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Being",
+          "topicId": "philosophy.metaphysics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Existence",
+          "topicId": "philosophy.metaphysics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reality",
+          "topicId": "philosophy.metaphysics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Metaphysical Questions",
+          "topicId": "philosophy.metaphysics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Branches of Metaphysics",
+          "topicId": "philosophy.metaphysics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Identity & Persistence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Identity",
+          "topicId": "philosophy.metaphysics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Numerical vs Qualitative Identity",
+          "topicId": "philosophy.metaphysics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Persistence Through Time",
+          "topicId": "philosophy.metaphysics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Change",
+          "topicId": "philosophy.metaphysics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Essential vs Accidental Properties",
+          "topicId": "philosophy.metaphysics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ship of Theseus",
+          "topicId": "philosophy.metaphysics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Space & Time",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nature of Space",
+          "topicId": "philosophy.metaphysics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nature of Time",
+          "topicId": "philosophy.metaphysics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Absolute vs Relative Space",
+          "topicId": "philosophy.metaphysics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Presentism",
+          "topicId": "philosophy.metaphysics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Eternalism",
+          "topicId": "philosophy.metaphysics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Space-Time",
+          "topicId": "philosophy.metaphysics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Causation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cause & Effect",
+          "topicId": "philosophy.metaphysics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Necessary & Sufficient Causes",
+          "topicId": "philosophy.metaphysics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Causal Chains",
+          "topicId": "philosophy.metaphysics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Determinism",
+          "topicId": "philosophy.metaphysics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Probability & Causation",
+          "topicId": "philosophy.metaphysics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Counterfactuals",
+          "topicId": "philosophy.metaphysics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Possibility & Necessity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Possibility",
+          "topicId": "philosophy.metaphysics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Necessity",
+          "topicId": "philosophy.metaphysics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Possible Worlds",
+          "topicId": "philosophy.metaphysics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Modal Realism",
+          "topicId": "philosophy.metaphysics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Contingency",
+          "topicId": "philosophy.metaphysics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logical Possibility",
+          "topicId": "philosophy.metaphysics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Free Will & Determinism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Free Will",
+          "topicId": "philosophy.metaphysics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Determinism",
+          "topicId": "philosophy.metaphysics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Compatibilism",
+          "topicId": "philosophy.metaphysics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Libertarianism",
+          "topicId": "philosophy.metaphysics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hard Determinism",
+          "topicId": "philosophy.metaphysics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Moral Responsibility",
+          "topicId": "philosophy.metaphysics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Personal Identity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Self",
+          "topicId": "philosophy.metaphysics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Consciousness",
+          "topicId": "philosophy.metaphysics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mind-Body Identity",
+          "topicId": "philosophy.metaphysics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Memory Theory",
+          "topicId": "philosophy.metaphysics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Psychological Continuity",
+          "topicId": "philosophy.metaphysics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bodily Continuity",
+          "topicId": "philosophy.metaphysics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Universals & Particulars",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Universals",
+          "topicId": "philosophy.metaphysics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Particulars",
+          "topicId": "philosophy.metaphysics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Realism",
+          "topicId": "philosophy.metaphysics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nominalism",
+          "topicId": "philosophy.metaphysics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Properties",
+          "topicId": "philosophy.metaphysics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Abstract Objects",
+          "topicId": "philosophy.metaphysics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Laws of Nature",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Natural Laws",
+          "topicId": "philosophy.metaphysics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Laws",
+          "topicId": "philosophy.metaphysics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Necessity in Nature",
+          "topicId": "philosophy.metaphysics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Regularity Theory",
+          "topicId": "philosophy.metaphysics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dispositions",
+          "topicId": "philosophy.metaphysics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Natural Kinds",
+          "topicId": "philosophy.metaphysics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Mind & Reality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Materialism",
+          "topicId": "philosophy.metaphysics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Idealism",
+          "topicId": "philosophy.metaphysics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dualism",
+          "topicId": "philosophy.metaphysics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Physicalism",
+          "topicId": "philosophy.metaphysics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Emergence",
+          "topicId": "philosophy.metaphysics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Panpsychism",
+          "topicId": "philosophy.metaphysics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Metaphysics & Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Quantum Mechanics & Reality",
+          "topicId": "philosophy.metaphysics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cosmology",
+          "topicId": "philosophy.metaphysics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Philosophy of Physics",
+          "topicId": "philosophy.metaphysics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Emergence",
+          "topicId": "philosophy.metaphysics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Complexity",
+          "topicId": "philosophy.metaphysics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Simulation Hypothesis",
+          "topicId": "philosophy.metaphysics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.metaphysics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ethics",
+          "topicId": "philosophy.metaphysics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Law",
+          "topicId": "philosophy.metaphysics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Religion",
+          "topicId": "philosophy.metaphysics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Scientific Inquiry",
+          "topicId": "philosophy.metaphysics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Everyday Reasoning",
+          "topicId": "philosophy.metaphysics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Technology",
+          "topicId": "philosophy.metaphysics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ontology",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mereology",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Persistence Theories",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Metaphysical Grounding",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Information as Reality",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Metaphysics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 5: Ethics**",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Moral Philosophy",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Virtue Ethics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Deontology",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Consequentialism",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Rights",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Justice",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Applied Ethics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Bioethics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Business Ethics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Environmental Ethics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "AI Ethics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Global Ethics",
+          "topicId": "philosophy.metaphysics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

@@ -4,10 +4,549 @@
   "description": "This course studies **the nature, sources, limits, and justification of knowledge**. It explores questions about truth, belief, evidence, skepticism, and how humans acquire reliable knowledge.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Epistemology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Epistemology?",
+          "topicId": "philosophy.epistemology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Knowledge",
+          "topicId": "philosophy.epistemology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Belief",
+          "topicId": "philosophy.epistemology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Truth",
+          "topicId": "philosophy.epistemology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Justification",
+          "topicId": "philosophy.epistemology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "The Value of Knowledge",
+          "topicId": "philosophy.epistemology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Theories of Knowledge",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Justified True Belief (JTB)",
+          "topicId": "philosophy.epistemology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gettier Problem",
+          "topicId": "philosophy.epistemology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Internalism",
+          "topicId": "philosophy.epistemology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Externalism",
+          "topicId": "philosophy.epistemology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reliabilism",
+          "topicId": "philosophy.epistemology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Virtue Epistemology",
+          "topicId": "philosophy.epistemology.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Skepticism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophical Skepticism",
+          "topicId": "philosophy.epistemology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Global Skepticism",
+          "topicId": "philosophy.epistemology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Local Skepticism",
+          "topicId": "philosophy.epistemology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cartesian Skepticism",
+          "topicId": "philosophy.epistemology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Brain-in-a-Vat Argument",
+          "topicId": "philosophy.epistemology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Responses to Skepticism",
+          "topicId": "philosophy.epistemology.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Rationalism & Empiricism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rationalism",
+          "topicId": "philosophy.epistemology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Empiricism",
+          "topicId": "philosophy.epistemology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Innate Knowledge",
+          "topicId": "philosophy.epistemology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "A Priori Knowledge",
+          "topicId": "philosophy.epistemology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "A Posteriori Knowledge",
+          "topicId": "philosophy.epistemology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reason vs Experience",
+          "topicId": "philosophy.epistemology.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Perception",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Perception as a Source of Knowledge",
+          "topicId": "philosophy.epistemology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sense Data",
+          "topicId": "philosophy.epistemology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Direct Realism",
+          "topicId": "philosophy.epistemology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Indirect Realism",
+          "topicId": "philosophy.epistemology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Perceptual Error",
+          "topicId": "philosophy.epistemology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Illusions",
+          "topicId": "philosophy.epistemology.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Memory & Testimony",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Memory",
+          "topicId": "philosophy.epistemology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Testimony",
+          "topicId": "philosophy.epistemology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Eyewitness Knowledge",
+          "topicId": "philosophy.epistemology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Collective Knowledge",
+          "topicId": "philosophy.epistemology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trust",
+          "topicId": "philosophy.epistemology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Epistemic Authority",
+          "topicId": "philosophy.epistemology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Reasoning & Evidence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Deductive Reasoning",
+          "topicId": "philosophy.epistemology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Inductive Reasoning",
+          "topicId": "philosophy.epistemology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Abductive Reasoning",
+          "topicId": "philosophy.epistemology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Evidence",
+          "topicId": "philosophy.epistemology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inference",
+          "topicId": "philosophy.epistemology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Justification",
+          "topicId": "philosophy.epistemology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Scientific Knowledge",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scientific Method",
+          "topicId": "philosophy.epistemology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Observation",
+          "topicId": "philosophy.epistemology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Experimentation",
+          "topicId": "philosophy.epistemology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Theory Formation",
+          "topicId": "philosophy.epistemology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Falsifiability",
+          "topicId": "philosophy.epistemology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Realism",
+          "topicId": "philosophy.epistemology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Social Epistemology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Collective Knowledge",
+          "topicId": "philosophy.epistemology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Expert Testimony",
+          "topicId": "philosophy.epistemology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Peer Disagreement",
+          "topicId": "philosophy.epistemology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Information Networks",
+          "topicId": "philosophy.epistemology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Misinformation",
+          "topicId": "philosophy.epistemology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Epistemic Communities",
+          "topicId": "philosophy.epistemology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Knowledge & Technology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Digital Information",
+          "topicId": "philosophy.epistemology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Search Engines",
+          "topicId": "philosophy.epistemology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.epistemology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Algorithmic Knowledge",
+          "topicId": "philosophy.epistemology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Information Reliability",
+          "topicId": "philosophy.epistemology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Digital Epistemology",
+          "topicId": "philosophy.epistemology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Limits of Knowledge",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Uncertainty",
+          "topicId": "philosophy.epistemology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ignorance",
+          "topicId": "philosophy.epistemology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cognitive Biases",
+          "topicId": "philosophy.epistemology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Epistemic Humility",
+          "topicId": "philosophy.epistemology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Unknown Unknowns",
+          "topicId": "philosophy.epistemology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human Limitations",
+          "topicId": "philosophy.epistemology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Critical Thinking",
+          "topicId": "philosophy.epistemology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Research",
+          "topicId": "philosophy.epistemology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Journalism",
+          "topicId": "philosophy.epistemology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Law",
+          "topicId": "philosophy.epistemology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Education",
+          "topicId": "philosophy.epistemology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.epistemology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Decision Making",
+          "topicId": "philosophy.epistemology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bayesian Epistemology",
+          "topicId": "philosophy.epistemology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Formal Epistemology",
+          "topicId": "philosophy.epistemology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Epistemic Logic",
+          "topicId": "philosophy.epistemology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Collective Intelligence",
+          "topicId": "philosophy.epistemology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Knowledge in the Age of AI",
+          "topicId": "philosophy.epistemology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Epistemology",
+          "topicId": "philosophy.epistemology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 4: Metaphysics**",
+          "topicId": "philosophy.epistemology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Being",
+          "topicId": "philosophy.epistemology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Existence",
+          "topicId": "philosophy.epistemology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Identity",
+          "topicId": "philosophy.epistemology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Time",
+          "topicId": "philosophy.epistemology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Space",
+          "topicId": "philosophy.epistemology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Causality",
+          "topicId": "philosophy.epistemology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Possibility & Necessity",
+          "topicId": "philosophy.epistemology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Free Will",
+          "topicId": "philosophy.epistemology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Personal Identity",
+          "topicId": "philosophy.epistemology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Universals",
+          "topicId": "philosophy.epistemology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Laws of Nature",
+          "topicId": "philosophy.epistemology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Philosophy of Reality",
+          "topicId": "philosophy.epistemology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

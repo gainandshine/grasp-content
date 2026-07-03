@@ -4,10 +4,589 @@
   "description": "This course studies **how intelligent systems perceive, reason, learn, and make decisions**. It covers the core ideas of AI beyond machine learning, including search, planning, reasoning, knowledge representation, robotics, and modern generative AI.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Artificial Intelligence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Artificial Intelligence?",
+          "topicId": "computer-science.artificial-intelligence.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Types of AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "AI Applications",
+          "topicId": "computer-science.artificial-intelligence.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rational Agents",
+          "topicId": "computer-science.artificial-intelligence.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Workflow",
+          "topicId": "computer-science.artificial-intelligence.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Intelligent Agents",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Intelligent Agents",
+          "topicId": "computer-science.artificial-intelligence.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Agent Architecture",
+          "topicId": "computer-science.artificial-intelligence.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environment Types",
+          "topicId": "computer-science.artificial-intelligence.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reflex Agents",
+          "topicId": "computer-science.artificial-intelligence.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Goal-Based Agents",
+          "topicId": "computer-science.artificial-intelligence.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Utility-Based Agents",
+          "topicId": "computer-science.artificial-intelligence.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Learning Agents",
+          "topicId": "computer-science.artificial-intelligence.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Problem Solving & Search",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "State Space",
+          "topicId": "computer-science.artificial-intelligence.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Search Problems",
+          "topicId": "computer-science.artificial-intelligence.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Breadth-First Search (BFS)",
+          "topicId": "computer-science.artificial-intelligence.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Depth-First Search (DFS)",
+          "topicId": "computer-science.artificial-intelligence.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Uniform Cost Search",
+          "topicId": "computer-science.artificial-intelligence.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "A* Search",
+          "topicId": "computer-science.artificial-intelligence.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Heuristic Search",
+          "topicId": "computer-science.artificial-intelligence.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Knowledge Representation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Knowledge Representation",
+          "topicId": "computer-science.artificial-intelligence.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Propositional Logic",
+          "topicId": "computer-science.artificial-intelligence.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "First-Order Logic",
+          "topicId": "computer-science.artificial-intelligence.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Knowledge Bases",
+          "topicId": "computer-science.artificial-intelligence.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Semantic Networks",
+          "topicId": "computer-science.artificial-intelligence.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ontologies",
+          "topicId": "computer-science.artificial-intelligence.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Rule-Based Systems",
+          "topicId": "computer-science.artificial-intelligence.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Reasoning & Inference",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Logical Inference",
+          "topicId": "computer-science.artificial-intelligence.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Forward Chaining",
+          "topicId": "computer-science.artificial-intelligence.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Backward Chaining",
+          "topicId": "computer-science.artificial-intelligence.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Resolution",
+          "topicId": "computer-science.artificial-intelligence.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Uncertainty",
+          "topicId": "computer-science.artificial-intelligence.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bayesian Reasoning",
+          "topicId": "computer-science.artificial-intelligence.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Probabilistic Inference",
+          "topicId": "computer-science.artificial-intelligence.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Planning & Decision Making",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Planning Problems",
+          "topicId": "computer-science.artificial-intelligence.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "State-Space Planning",
+          "topicId": "computer-science.artificial-intelligence.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Goal Planning",
+          "topicId": "computer-science.artificial-intelligence.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Markov Decision Processes (Introduction)",
+          "topicId": "computer-science.artificial-intelligence.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decision Trees",
+          "topicId": "computer-science.artificial-intelligence.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Utility Theory",
+          "topicId": "computer-science.artificial-intelligence.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Constraint Satisfaction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Constraint Satisfaction Problems (CSPs)",
+          "topicId": "computer-science.artificial-intelligence.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Backtracking Search",
+          "topicId": "computer-science.artificial-intelligence.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Constraint Propagation",
+          "topicId": "computer-science.artificial-intelligence.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scheduling",
+          "topicId": "computer-science.artificial-intelligence.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Resource Allocation",
+          "topicId": "computer-science.artificial-intelligence.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Optimization",
+          "topicId": "computer-science.artificial-intelligence.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Expert Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Expert Systems",
+          "topicId": "computer-science.artificial-intelligence.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rule Engines",
+          "topicId": "computer-science.artificial-intelligence.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Inference Engines",
+          "topicId": "computer-science.artificial-intelligence.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Knowledge Engineering",
+          "topicId": "computer-science.artificial-intelligence.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Medical Expert Systems",
+          "topicId": "computer-science.artificial-intelligence.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Applications",
+          "topicId": "computer-science.artificial-intelligence.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Natural Language Processing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Natural Language Processing",
+          "topicId": "computer-science.artificial-intelligence.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Text Processing",
+          "topicId": "computer-science.artificial-intelligence.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tokenization",
+          "topicId": "computer-science.artificial-intelligence.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Language Models (Concept)",
+          "topicId": "computer-science.artificial-intelligence.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Machine Translation",
+          "topicId": "computer-science.artificial-intelligence.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Question Answering",
+          "topicId": "computer-science.artificial-intelligence.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Conversational AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Computer Vision & Robotics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Computer Vision",
+          "topicId": "computer-science.artificial-intelligence.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Image Processing",
+          "topicId": "computer-science.artificial-intelligence.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Object Detection",
+          "topicId": "computer-science.artificial-intelligence.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Image Classification",
+          "topicId": "computer-science.artificial-intelligence.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Robotics",
+          "topicId": "computer-science.artificial-intelligence.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sensors",
+          "topicId": "computer-science.artificial-intelligence.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Motion Planning",
+          "topicId": "computer-science.artificial-intelligence.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Generative AI",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Generative AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Large Language Models (LLMs)",
+          "topicId": "computer-science.artificial-intelligence.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transformers (Concept)",
+          "topicId": "computer-science.artificial-intelligence.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Prompt Engineering",
+          "topicId": "computer-science.artificial-intelligence.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "AI Agents",
+          "topicId": "computer-science.artificial-intelligence.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Multimodal AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "AI Applications",
+          "topicId": "computer-science.artificial-intelligence.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "AI Ethics & Safety",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "AI Bias",
+          "topicId": "computer-science.artificial-intelligence.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fairness",
+          "topicId": "computer-science.artificial-intelligence.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Explainable AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Privacy",
+          "topicId": "computer-science.artificial-intelligence.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Security",
+          "topicId": "computer-science.artificial-intelligence.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Governance",
+          "topicId": "computer-science.artificial-intelligence.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Responsible AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Healthcare AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Finance AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Autonomous Vehicles",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Recommendation Systems",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Education",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Discovery",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Future of AI",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 18: Machine Learning**",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Machine Learning Fundamentals",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Data Preprocessing",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Supervised Learning",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Unsupervised Learning",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Reinforcement Learning",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Neural Networks",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Deep Learning",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Model Evaluation",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Feature Engineering",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Model Deployment",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "MLOps",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Large Language Models (Applied)",
+          "topicId": "computer-science.artificial-intelligence.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

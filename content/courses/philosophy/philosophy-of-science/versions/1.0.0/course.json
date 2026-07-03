@@ -4,10 +4,559 @@
   "description": "This course studies **the nature of scientific knowledge, scientific reasoning, and the methods used to investigate the natural world**. It explores what distinguishes science from non-science and how scientific knowledge evolves.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Philosophy of Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Philosophy of Science?",
+          "topicId": "philosophy.philosophy-of-science.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Science & Philosophy",
+          "topicId": "philosophy.philosophy-of-science.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Scientific Knowledge",
+          "topicId": "philosophy.philosophy-of-science.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scientific Inquiry",
+          "topicId": "philosophy.philosophy-of-science.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Goals of Science",
+          "topicId": "philosophy.philosophy-of-science.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Worldview",
+          "topicId": "philosophy.philosophy-of-science.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "The Scientific Method",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Observation",
+          "topicId": "philosophy.philosophy-of-science.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hypothesis",
+          "topicId": "philosophy.philosophy-of-science.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Experimentation",
+          "topicId": "philosophy.philosophy-of-science.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Collection",
+          "topicId": "philosophy.philosophy-of-science.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Analysis",
+          "topicId": "philosophy.philosophy-of-science.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Replication",
+          "topicId": "philosophy.philosophy-of-science.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Communication",
+          "topicId": "philosophy.philosophy-of-science.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Scientific Explanation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scientific Laws",
+          "topicId": "philosophy.philosophy-of-science.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Theories",
+          "topicId": "philosophy.philosophy-of-science.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Models",
+          "topicId": "philosophy.philosophy-of-science.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Prediction",
+          "topicId": "philosophy.philosophy-of-science.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Explanation",
+          "topicId": "philosophy.philosophy-of-science.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Causation",
+          "topicId": "philosophy.philosophy-of-science.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Evidence & Confirmation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Evidence",
+          "topicId": "philosophy.philosophy-of-science.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Confirmation",
+          "topicId": "philosophy.philosophy-of-science.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Verification",
+          "topicId": "philosophy.philosophy-of-science.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Falsifiability",
+          "topicId": "philosophy.philosophy-of-science.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Induction",
+          "topicId": "philosophy.philosophy-of-science.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deduction",
+          "topicId": "philosophy.philosophy-of-science.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Bayesian Reasoning",
+          "topicId": "philosophy.philosophy-of-science.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Scientific Revolutions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Paradigms",
+          "topicId": "philosophy.philosophy-of-science.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Normal Science",
+          "topicId": "philosophy.philosophy-of-science.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Scientific Revolutions",
+          "topicId": "philosophy.philosophy-of-science.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Paradigm Shifts",
+          "topicId": "philosophy.philosophy-of-science.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Theory Change",
+          "topicId": "philosophy.philosophy-of-science.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Progress",
+          "topicId": "philosophy.philosophy-of-science.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Realism & Anti-Realism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scientific Realism",
+          "topicId": "philosophy.philosophy-of-science.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Instrumentalism",
+          "topicId": "philosophy.philosophy-of-science.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Constructive Empiricism",
+          "topicId": "philosophy.philosophy-of-science.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Observable vs Unobservable Entities",
+          "topicId": "philosophy.philosophy-of-science.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Truth in Science",
+          "topicId": "philosophy.philosophy-of-science.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Models of Reality",
+          "topicId": "philosophy.philosophy-of-science.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Reductionism & Emergence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reductionism",
+          "topicId": "philosophy.philosophy-of-science.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Emergence",
+          "topicId": "philosophy.philosophy-of-science.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Levels of Explanation",
+          "topicId": "philosophy.philosophy-of-science.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Complex Systems",
+          "topicId": "philosophy.philosophy-of-science.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Systems Thinking",
+          "topicId": "philosophy.philosophy-of-science.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interdisciplinary Science",
+          "topicId": "philosophy.philosophy-of-science.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Causation & Probability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Causality",
+          "topicId": "philosophy.philosophy-of-science.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Correlation",
+          "topicId": "philosophy.philosophy-of-science.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Statistical Inference",
+          "topicId": "philosophy.philosophy-of-science.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Probability",
+          "topicId": "philosophy.philosophy-of-science.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Randomness",
+          "topicId": "philosophy.philosophy-of-science.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Determinism",
+          "topicId": "philosophy.philosophy-of-science.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Philosophy of the Natural Sciences",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophy of Physics",
+          "topicId": "philosophy.philosophy-of-science.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Philosophy of Chemistry",
+          "topicId": "philosophy.philosophy-of-science.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Philosophy of Biology",
+          "topicId": "philosophy.philosophy-of-science.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Evolution",
+          "topicId": "philosophy.philosophy-of-science.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Space & Time",
+          "topicId": "philosophy.philosophy-of-science.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scientific Laws",
+          "topicId": "philosophy.philosophy-of-science.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Philosophy of the Social Sciences",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Social Science Methods",
+          "topicId": "philosophy.philosophy-of-science.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Economics",
+          "topicId": "philosophy.philosophy-of-science.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Psychology",
+          "topicId": "philosophy.philosophy-of-science.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sociology",
+          "topicId": "philosophy.philosophy-of-science.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Objectivity",
+          "topicId": "philosophy.philosophy-of-science.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interpretation",
+          "topicId": "philosophy.philosophy-of-science.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Ethics & Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Research Ethics",
+          "topicId": "philosophy.philosophy-of-science.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Responsibility",
+          "topicId": "philosophy.philosophy-of-science.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Peer Review",
+          "topicId": "philosophy.philosophy-of-science.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reproducibility",
+          "topicId": "philosophy.philosophy-of-science.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Scientific Misconduct",
+          "topicId": "philosophy.philosophy-of-science.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Responsible Innovation",
+          "topicId": "philosophy.philosophy-of-science.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Medicine",
+          "topicId": "philosophy.philosophy-of-science.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.philosophy-of-science.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Climate Science",
+          "topicId": "philosophy.philosophy-of-science.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Space Exploration",
+          "topicId": "philosophy.philosophy-of-science.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biotechnology",
+          "topicId": "philosophy.philosophy-of-science.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Policy",
+          "topicId": "philosophy.philosophy-of-science.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Literacy",
+          "topicId": "philosophy.philosophy-of-science.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophy of Mathematics",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Philosophy of Information",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Computational Science",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Complexity Science",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Future of Scientific Discovery",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI as a Scientific Tool",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 9: Philosophy of Language**",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Meaning",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Reference",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Truth",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Language & Thought",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Speech Acts",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Semantics",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Pragmatics",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Logic & Language",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Communication",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Interpretation",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Linguistic Relativity",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "AI & Natural Language",
+          "topicId": "philosophy.philosophy-of-science.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

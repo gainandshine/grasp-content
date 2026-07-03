@@ -4,10 +4,916 @@
   "description": "This course studies **electric and magnetic fields, their interactions, and the unified theory of electromagnetism**. Students learn the principles governing electric charges, magnetic fields, electromagnetic induction, and electromagnetic waves.",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Electric Fields",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Charge",
+          "topicId": "physics.electromagnetism.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Coulomb's Law",
+          "topicId": "physics.electromagnetism.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electric Field",
+          "topicId": "physics.electromagnetism.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electric Field Lines",
+          "topicId": "physics.electromagnetism.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Superposition Principle",
+          "topicId": "physics.electromagnetism.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Continuous Charge Distributions",
+          "topicId": "physics.electromagnetism.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Electric Potential",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Potential",
+          "topicId": "physics.electromagnetism.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Potential Difference",
+          "topicId": "physics.electromagnetism.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equipotential Surfaces",
+          "topicId": "physics.electromagnetism.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electric Potential Energy",
+          "topicId": "physics.electromagnetism.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Voltage",
+          "topicId": "physics.electromagnetism.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electrostatic Work",
+          "topicId": "physics.electromagnetism.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Capacitance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Capacitors",
+          "topicId": "physics.electromagnetism.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parallel Plate Capacitor",
+          "topicId": "physics.electromagnetism.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dielectrics",
+          "topicId": "physics.electromagnetism.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Capacitance",
+          "topicId": "physics.electromagnetism.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Storage",
+          "topicId": "physics.electromagnetism.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Capacitor Networks",
+          "topicId": "physics.electromagnetism.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Current Electricity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Current",
+          "topicId": "physics.electromagnetism.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Current Density",
+          "topicId": "physics.electromagnetism.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Drift Velocity",
+          "topicId": "physics.electromagnetism.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ohm's Law",
+          "topicId": "physics.electromagnetism.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electrical Resistance",
+          "topicId": "physics.electromagnetism.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electrical Conductivity",
+          "topicId": "physics.electromagnetism.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "DC Circuits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Series Circuits",
+          "topicId": "physics.electromagnetism.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parallel Circuits",
+          "topicId": "physics.electromagnetism.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Kirchhoff's Laws",
+          "topicId": "physics.electromagnetism.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "EMF",
+          "topicId": "physics.electromagnetism.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Internal Resistance",
+          "topicId": "physics.electromagnetism.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Power Dissipation",
+          "topicId": "physics.electromagnetism.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Magnetic Fields",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnetic Field",
+          "topicId": "physics.electromagnetism.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnetic Force",
+          "topicId": "physics.electromagnetism.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Lorentz Force",
+          "topicId": "physics.electromagnetism.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Motion of Charged Particles",
+          "topicId": "physics.electromagnetism.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Magnetic Flux",
+          "topicId": "physics.electromagnetism.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Earth's Magnetic Field",
+          "topicId": "physics.electromagnetism.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Sources of Magnetic Fields",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Biot-Savart Law",
+          "topicId": "physics.electromagnetism.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ampère's Law",
+          "topicId": "physics.electromagnetism.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Field of a Wire",
+          "topicId": "physics.electromagnetism.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Solenoids",
+          "topicId": "physics.electromagnetism.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Toroids",
+          "topicId": "physics.electromagnetism.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Magnetic Dipoles",
+          "topicId": "physics.electromagnetism.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Electromagnetic Induction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Faraday's Law",
+          "topicId": "physics.electromagnetism.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lenz's Law",
+          "topicId": "physics.electromagnetism.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Induced EMF",
+          "topicId": "physics.electromagnetism.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Eddy Currents",
+          "topicId": "physics.electromagnetism.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Self Inductance",
+          "topicId": "physics.electromagnetism.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mutual Inductance",
+          "topicId": "physics.electromagnetism.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Inductors & AC Circuits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Inductors",
+          "topicId": "physics.electromagnetism.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "RL Circuits",
+          "topicId": "physics.electromagnetism.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "LC Circuits",
+          "topicId": "physics.electromagnetism.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "RLC Circuits",
+          "topicId": "physics.electromagnetism.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Alternating Current",
+          "topicId": "physics.electromagnetism.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Impedance",
+          "topicId": "physics.electromagnetism.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Maxwell's Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gauss's Law (Electric)",
+          "topicId": "physics.electromagnetism.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gauss's Law (Magnetism)",
+          "topicId": "physics.electromagnetism.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Faraday's Law",
+          "topicId": "physics.electromagnetism.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ampère-Maxwell Law",
+          "topicId": "physics.electromagnetism.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Maxwell's Equations",
+          "topicId": "physics.electromagnetism.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electromagnetic Field Theory",
+          "topicId": "physics.electromagnetism.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Electromagnetic Waves",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Wave Equation",
+          "topicId": "physics.electromagnetism.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Speed of Light",
+          "topicId": "physics.electromagnetism.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Polarization",
+          "topicId": "physics.electromagnetism.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Transport",
+          "topicId": "physics.electromagnetism.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Wave Propagation",
+          "topicId": "physics.electromagnetism.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electromagnetic Spectrum",
+          "topicId": "physics.electromagnetism.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Motors",
+          "topicId": "physics.electromagnetism.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Generators",
+          "topicId": "physics.electromagnetism.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transformers",
+          "topicId": "physics.electromagnetism.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Wireless Communication",
+          "topicId": "physics.electromagnetism.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "MRI",
+          "topicId": "physics.electromagnetism.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electromagnetic Devices",
+          "topicId": "physics.electromagnetism.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electrodynamics",
+          "topicId": "physics.electromagnetism.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Radiation",
+          "topicId": "physics.electromagnetism.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Waveguides",
+          "topicId": "physics.electromagnetism.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Antennas",
+          "topicId": "physics.electromagnetism.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Plasma Electrodynamics",
+          "topicId": "physics.electromagnetism.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Computational Electromagnetics",
+          "topicId": "physics.electromagnetism.chapter-13.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Circuit Fundamentals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Current",
+          "topicId": "physics.electromagnetism.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Voltage",
+          "topicId": "physics.electromagnetism.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Resistance",
+          "topicId": "physics.electromagnetism.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Power",
+          "topicId": "physics.electromagnetism.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy",
+          "topicId": "physics.electromagnetism.chapter-14.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Passive Components",
+          "topicId": "physics.electromagnetism.chapter-14.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Active Components",
+          "topicId": "physics.electromagnetism.chapter-14.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Circuit Symbols",
+          "topicId": "physics.electromagnetism.chapter-14.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "name": "Ohm's Law",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ohm's Law",
+          "topicId": "physics.electromagnetism.chapter-15.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Resistance",
+          "topicId": "physics.electromagnetism.chapter-15.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conductance",
+          "topicId": "physics.electromagnetism.chapter-15.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Resistivity",
+          "topicId": "physics.electromagnetism.chapter-15.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Temperature Effects",
+          "topicId": "physics.electromagnetism.chapter-15.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Power Dissipation",
+          "topicId": "physics.electromagnetism.chapter-15.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-16",
+      "name": "Series & Parallel Circuits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Series Circuits",
+          "topicId": "physics.electromagnetism.chapter-16.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parallel Circuits",
+          "topicId": "physics.electromagnetism.chapter-16.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Series-Parallel Networks",
+          "topicId": "physics.electromagnetism.chapter-16.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equivalent Resistance",
+          "topicId": "physics.electromagnetism.chapter-16.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Voltage Division",
+          "topicId": "physics.electromagnetism.chapter-16.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Current Division",
+          "topicId": "physics.electromagnetism.chapter-16.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-17",
+      "name": "Kirchhoff's Laws",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Kirchhoff's Current Law (KCL)",
+          "topicId": "physics.electromagnetism.chapter-17.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Kirchhoff's Voltage Law (KVL)",
+          "topicId": "physics.electromagnetism.chapter-17.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Loop Analysis",
+          "topicId": "physics.electromagnetism.chapter-17.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Node Analysis",
+          "topicId": "physics.electromagnetism.chapter-17.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Circuit Simplification",
+          "topicId": "physics.electromagnetism.chapter-17.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-18",
+      "name": "Network Theorems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Superposition Theorem",
+          "topicId": "physics.electromagnetism.chapter-18.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Thévenin's Theorem",
+          "topicId": "physics.electromagnetism.chapter-18.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Norton's Theorem",
+          "topicId": "physics.electromagnetism.chapter-18.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Maximum Power Transfer Theorem",
+          "topicId": "physics.electromagnetism.chapter-18.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Source Transformation",
+          "topicId": "physics.electromagnetism.chapter-18.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-19",
+      "name": "Capacitors in Circuits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Capacitors",
+          "topicId": "physics.electromagnetism.chapter-19.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Charging",
+          "topicId": "physics.electromagnetism.chapter-19.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Discharging",
+          "topicId": "physics.electromagnetism.chapter-19.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "RC Time Constant",
+          "topicId": "physics.electromagnetism.chapter-19.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Storage",
+          "topicId": "physics.electromagnetism.chapter-19.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "RC Circuits",
+          "topicId": "physics.electromagnetism.chapter-19.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-20",
+      "name": "Inductors in Circuits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Inductors",
+          "topicId": "physics.electromagnetism.chapter-20.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnetic Energy Storage",
+          "topicId": "physics.electromagnetism.chapter-20.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "RL Circuits",
+          "topicId": "physics.electromagnetism.chapter-20.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Time Constant",
+          "topicId": "physics.electromagnetism.chapter-20.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transient Response",
+          "topicId": "physics.electromagnetism.chapter-20.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-21",
+      "name": "RLC Circuits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Series RLC Circuits",
+          "topicId": "physics.electromagnetism.chapter-21.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parallel RLC Circuits",
+          "topicId": "physics.electromagnetism.chapter-21.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Resonance",
+          "topicId": "physics.electromagnetism.chapter-21.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quality Factor",
+          "topicId": "physics.electromagnetism.chapter-21.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bandwidth",
+          "topicId": "physics.electromagnetism.chapter-21.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Frequency Response",
+          "topicId": "physics.electromagnetism.chapter-21.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-22",
+      "name": "AC Circuit Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "AC Sources",
+          "topicId": "physics.electromagnetism.chapter-22.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Phasors",
+          "topicId": "physics.electromagnetism.chapter-22.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Impedance",
+          "topicId": "physics.electromagnetism.chapter-22.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reactance",
+          "topicId": "physics.electromagnetism.chapter-22.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Complex Power",
+          "topicId": "physics.electromagnetism.chapter-22.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Power Factor",
+          "topicId": "physics.electromagnetism.chapter-22.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Three-Phase Systems (Introduction)",
+          "topicId": "physics.electromagnetism.chapter-22.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-23",
+      "name": "Measurement & Instrumentation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ammeter",
+          "topicId": "physics.electromagnetism.chapter-23.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Voltmeter",
+          "topicId": "physics.electromagnetism.chapter-23.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ohmmeter",
+          "topicId": "physics.electromagnetism.chapter-23.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multimeter",
+          "topicId": "physics.electromagnetism.chapter-23.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oscilloscope",
+          "topicId": "physics.electromagnetism.chapter-23.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Wheatstone Bridge",
+          "topicId": "physics.electromagnetism.chapter-23.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-24",
+      "name": "Semiconductor Devices (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Diodes",
+          "topicId": "physics.electromagnetism.chapter-24.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "LEDs",
+          "topicId": "physics.electromagnetism.chapter-24.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Zener Diodes",
+          "topicId": "physics.electromagnetism.chapter-24.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rectifiers",
+          "topicId": "physics.electromagnetism.chapter-24.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Voltage Regulators",
+          "topicId": "physics.electromagnetism.chapter-24.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Basic Transistors (Overview)",
+          "topicId": "physics.electromagnetism.chapter-24.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-25",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Household Wiring",
+          "topicId": "physics.electromagnetism.chapter-25.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electronic Circuits",
+          "topicId": "physics.electromagnetism.chapter-25.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Power Supplies",
+          "topicId": "physics.electromagnetism.chapter-25.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Battery Systems",
+          "topicId": "physics.electromagnetism.chapter-25.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Renewable Energy Systems",
+          "topicId": "physics.electromagnetism.chapter-25.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electric Vehicles",
+          "topicId": "physics.electromagnetism.chapter-25.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Industrial Electrical Systems",
+          "topicId": "physics.electromagnetism.chapter-25.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 50,
     "prerequisites": [],
     "tags": [
       "physics",

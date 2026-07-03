@@ -4,10 +4,589 @@
   "description": "This course studies **how a computer is built and how it executes programs**, bridging the gap between software and hardware.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Computer Organization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Computer Organization vs Computer Architecture",
+          "topicId": "computer-science.computer-organization.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functional Units of a Computer",
+          "topicId": "computer-science.computer-organization.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stored Program Concept",
+          "topicId": "computer-science.computer-organization.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fetch-Decode-Execute Cycle",
+          "topicId": "computer-science.computer-organization.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Von Neumann Architecture",
+          "topicId": "computer-science.computer-organization.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Harvard Architecture",
+          "topicId": "computer-science.computer-organization.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Digital Logic Fundamentals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Binary Number System",
+          "topicId": "computer-science.computer-organization.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hexadecimal & Octal",
+          "topicId": "computer-science.computer-organization.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Boolean Algebra",
+          "topicId": "computer-science.computer-organization.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Logic Gates",
+          "topicId": "computer-science.computer-organization.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Truth Tables",
+          "topicId": "computer-science.computer-organization.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logic Simplification",
+          "topicId": "computer-science.computer-organization.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Karnaugh Maps (Introduction)",
+          "topicId": "computer-science.computer-organization.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Digital Circuits",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Combinational Circuits",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Adders",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Subtractors",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multiplexers",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decoders",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Encoders",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sequential Circuits",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Flip-Flops",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Registers",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Counters",
+          "topicId": "computer-science.computer-organization.chapter-03.topic-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Instruction Set Architecture (ISA)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Machine Language",
+          "topicId": "computer-science.computer-organization.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Instructions",
+          "topicId": "computer-science.computer-organization.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Opcodes",
+          "topicId": "computer-science.computer-organization.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Operands",
+          "topicId": "computer-science.computer-organization.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Addressing Modes",
+          "topicId": "computer-science.computer-organization.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Instruction Formats",
+          "topicId": "computer-science.computer-organization.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "RISC vs CISC",
+          "topicId": "computer-science.computer-organization.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Central Processing Unit (CPU)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "CPU Components",
+          "topicId": "computer-science.computer-organization.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Arithmetic Logic Unit (ALU)",
+          "topicId": "computer-science.computer-organization.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Control Unit",
+          "topicId": "computer-science.computer-organization.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Registers",
+          "topicId": "computer-science.computer-organization.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Program Counter",
+          "topicId": "computer-science.computer-organization.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Instruction Register",
+          "topicId": "computer-science.computer-organization.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Clock Cycle",
+          "topicId": "computer-science.computer-organization.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Memory Organization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Memory Hierarchy",
+          "topicId": "computer-science.computer-organization.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Registers",
+          "topicId": "computer-science.computer-organization.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cache Memory",
+          "topicId": "computer-science.computer-organization.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Main Memory (RAM)",
+          "topicId": "computer-science.computer-organization.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "ROM",
+          "topicId": "computer-science.computer-organization.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Virtual Memory",
+          "topicId": "computer-science.computer-organization.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Secondary Storage",
+          "topicId": "computer-science.computer-organization.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Input & Output Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Input Devices",
+          "topicId": "computer-science.computer-organization.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Output Devices",
+          "topicId": "computer-science.computer-organization.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "I/O Controllers",
+          "topicId": "computer-science.computer-organization.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interrupts",
+          "topicId": "computer-science.computer-organization.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Direct Memory Access (DMA)",
+          "topicId": "computer-science.computer-organization.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Memory-Mapped I/O",
+          "topicId": "computer-science.computer-organization.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Data Representation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Signed & Unsigned Numbers",
+          "topicId": "computer-science.computer-organization.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Two's Complement",
+          "topicId": "computer-science.computer-organization.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Floating-Point Representation",
+          "topicId": "computer-science.computer-organization.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "IEEE 754 Standard",
+          "topicId": "computer-science.computer-organization.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Character Encoding",
+          "topicId": "computer-science.computer-organization.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bit Manipulation",
+          "topicId": "computer-science.computer-organization.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Performance Enhancement",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Instruction Pipelining",
+          "topicId": "computer-science.computer-organization.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pipeline Hazards",
+          "topicId": "computer-science.computer-organization.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Superscalar Processors",
+          "topicId": "computer-science.computer-organization.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Branch Prediction",
+          "topicId": "computer-science.computer-organization.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Out-of-Order Execution",
+          "topicId": "computer-science.computer-organization.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Performance Metrics",
+          "topicId": "computer-science.computer-organization.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Multiprocessors & Parallelism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multicore Processors",
+          "topicId": "computer-science.computer-organization.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "SIMD",
+          "topicId": "computer-science.computer-organization.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "MIMD",
+          "topicId": "computer-science.computer-organization.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Parallel Processing",
+          "topicId": "computer-science.computer-organization.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Shared Memory",
+          "topicId": "computer-science.computer-organization.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Distributed Memory (Introduction)",
+          "topicId": "computer-science.computer-organization.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Assembly Language",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Assembly Language Basics",
+          "topicId": "computer-science.computer-organization.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Assembly Instructions",
+          "topicId": "computer-science.computer-organization.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Registers",
+          "topicId": "computer-science.computer-organization.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stack Operations",
+          "topicId": "computer-science.computer-organization.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Procedure Calls",
+          "topicId": "computer-science.computer-organization.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Linking Assembly to High-Level Languages",
+          "topicId": "computer-science.computer-organization.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Modern Processor Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "GPUs",
+          "topicId": "computer-science.computer-organization.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "ARM Architecture",
+          "topicId": "computer-science.computer-organization.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "x86 Architecture",
+          "topicId": "computer-science.computer-organization.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Embedded Processors",
+          "topicId": "computer-science.computer-organization.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Low-Power Computing",
+          "topicId": "computer-science.computer-organization.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hardware Security Features",
+          "topicId": "computer-science.computer-organization.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Performance Optimization",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Embedded Systems",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mobile Devices",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Servers",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Supercomputers",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Accelerators",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hardware-Aware Programming",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 7: Operating Systems**",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Operating System Fundamentals",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Processes & Threads",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "CPU Scheduling",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Synchronization",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Deadlocks",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Memory Management",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Virtual Memory",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "File Systems",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Storage Management",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Input/Output Management",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Security & Protection",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Virtualization & Containers",
+          "topicId": "computer-science.computer-organization.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

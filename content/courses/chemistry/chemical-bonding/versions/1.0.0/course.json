@@ -4,10 +4,504 @@
   "description": "Chemical Bonding",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Chemical Bonding",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Why Atoms Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Octet Rule",
+          "topicId": "chemistry.chemical-bonding.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Duet Rule",
+          "topicId": "chemistry.chemical-bonding.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Valence Electrons",
+          "topicId": "chemistry.chemical-bonding.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Lewis Symbols",
+          "topicId": "chemistry.chemical-bonding.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Chemical Stability",
+          "topicId": "chemistry.chemical-bonding.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Ionic Bonding",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ionic Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Formation of Ions",
+          "topicId": "chemistry.chemical-bonding.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cations",
+          "topicId": "chemistry.chemical-bonding.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Anions",
+          "topicId": "chemistry.chemical-bonding.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Lattice Energy",
+          "topicId": "chemistry.chemical-bonding.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Properties of Ionic Compounds",
+          "topicId": "chemistry.chemical-bonding.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Writing Ionic Formulae",
+          "topicId": "chemistry.chemical-bonding.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Covalent Bonding",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Covalent Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Single Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Double Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Triple Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polar Covalent Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nonpolar Covalent Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Coordinate (Dative) Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Lewis Structures",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Lewis Dot Structures",
+          "topicId": "chemistry.chemical-bonding.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Formal Charge",
+          "topicId": "chemistry.chemical-bonding.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Resonance Structures",
+          "topicId": "chemistry.chemical-bonding.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Expanded Octet",
+          "topicId": "chemistry.chemical-bonding.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Incomplete Octet",
+          "topicId": "chemistry.chemical-bonding.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Exceptions to the Octet Rule",
+          "topicId": "chemistry.chemical-bonding.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Molecular Geometry (VSEPR Theory)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "VSEPR Theory",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electron Domains",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Linear Geometry",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bent Geometry",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trigonal Planar",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Trigonal Pyramidal",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Tetrahedral",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Trigonal Bipyramidal",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Octahedral",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Molecular Shape Prediction",
+          "topicId": "chemistry.chemical-bonding.chapter-05.topic-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Hybridization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Atomic Orbitals Review",
+          "topicId": "chemistry.chemical-bonding.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hybrid Orbitals",
+          "topicId": "chemistry.chemical-bonding.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "sp Hybridization",
+          "topicId": "chemistry.chemical-bonding.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "sp² Hybridization",
+          "topicId": "chemistry.chemical-bonding.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "sp³ Hybridization",
+          "topicId": "chemistry.chemical-bonding.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "sp³d Hybridization",
+          "topicId": "chemistry.chemical-bonding.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "sp³d² Hybridization",
+          "topicId": "chemistry.chemical-bonding.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Molecular Orbital Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Molecular Orbitals",
+          "topicId": "chemistry.chemical-bonding.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bonding Orbitals",
+          "topicId": "chemistry.chemical-bonding.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Antibonding Orbitals",
+          "topicId": "chemistry.chemical-bonding.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bond Order",
+          "topicId": "chemistry.chemical-bonding.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sigma (σ) Bonds",
+          "topicId": "chemistry.chemical-bonding.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pi (π) Bonds",
+          "topicId": "chemistry.chemical-bonding.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Metallic Bonding",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Metallic Bond",
+          "topicId": "chemistry.chemical-bonding.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electron Sea Model",
+          "topicId": "chemistry.chemical-bonding.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conductivity",
+          "topicId": "chemistry.chemical-bonding.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Malleability",
+          "topicId": "chemistry.chemical-bonding.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ductility",
+          "topicId": "chemistry.chemical-bonding.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Metallic Crystal Structure",
+          "topicId": "chemistry.chemical-bonding.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Intermolecular Forces",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Van der Waals Forces",
+          "topicId": "chemistry.chemical-bonding.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "London Dispersion Forces",
+          "topicId": "chemistry.chemical-bonding.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dipole-Dipole Forces",
+          "topicId": "chemistry.chemical-bonding.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hydrogen Bonding",
+          "topicId": "chemistry.chemical-bonding.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ion-Dipole Forces",
+          "topicId": "chemistry.chemical-bonding.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Relative Strength of Intermolecular Forces",
+          "topicId": "chemistry.chemical-bonding.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Molecular Polarity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bond Polarity",
+          "topicId": "chemistry.chemical-bonding.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Molecular Polarity",
+          "topicId": "chemistry.chemical-bonding.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dipole Moment",
+          "topicId": "chemistry.chemical-bonding.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electronegativity Difference",
+          "topicId": "chemistry.chemical-bonding.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Predicting Molecular Polarity",
+          "topicId": "chemistry.chemical-bonding.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Crystal Structures",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Crystal Lattices",
+          "topicId": "chemistry.chemical-bonding.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ionic Crystals",
+          "topicId": "chemistry.chemical-bonding.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Covalent Network Solids",
+          "topicId": "chemistry.chemical-bonding.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Molecular Crystals",
+          "topicId": "chemistry.chemical-bonding.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Metallic Crystals",
+          "topicId": "chemistry.chemical-bonding.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Crystal Defects (Introduction)",
+          "topicId": "chemistry.chemical-bonding.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Properties of Materials",
+          "topicId": "chemistry.chemical-bonding.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Water & Hydrogen Bonding",
+          "topicId": "chemistry.chemical-bonding.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biomolecular Bonding",
+          "topicId": "chemistry.chemical-bonding.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Drug Design",
+          "topicId": "chemistry.chemical-bonding.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nanomaterials",
+          "topicId": "chemistry.chemical-bonding.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Semiconductor Materials",
+          "topicId": "chemistry.chemical-bonding.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Chemical Engineering Applications",
+          "topicId": "chemistry.chemical-bonding.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Band Theory (Introduction)",
+          "topicId": "chemistry.chemical-bonding.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Delocalized Electrons",
+          "topicId": "chemistry.chemical-bonding.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aromatic Bonding (Introduction)",
+          "topicId": "chemistry.chemical-bonding.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coordination Bonding (Introduction)",
+          "topicId": "chemistry.chemical-bonding.chapter-13.topic-04"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

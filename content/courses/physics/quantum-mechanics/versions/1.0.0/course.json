@@ -4,10 +4,450 @@
   "description": "Quantum Mechanics",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Foundations of Quantum Mechanics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Birth of Quantum Mechanics",
+          "topicId": "physics.quantum-mechanics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classical vs Quantum Physics",
+          "topicId": "physics.quantum-mechanics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Postulates",
+          "topicId": "physics.quantum-mechanics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantum States",
+          "topicId": "physics.quantum-mechanics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "State Vectors",
+          "topicId": "physics.quantum-mechanics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hilbert Space (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Wave Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Wave Function",
+          "topicId": "physics.quantum-mechanics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Probability Density",
+          "topicId": "physics.quantum-mechanics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Normalization",
+          "topicId": "physics.quantum-mechanics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Expectation Values",
+          "topicId": "physics.quantum-mechanics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Probability Current",
+          "topicId": "physics.quantum-mechanics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Physical Interpretation",
+          "topicId": "physics.quantum-mechanics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Schrödinger Equation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Time-Dependent Schrödinger Equation",
+          "topicId": "physics.quantum-mechanics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Time-Independent Schrödinger Equation",
+          "topicId": "physics.quantum-mechanics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Boundary Conditions",
+          "topicId": "physics.quantum-mechanics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stationary States",
+          "topicId": "physics.quantum-mechanics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Solving Basic Systems",
+          "topicId": "physics.quantum-mechanics.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Quantum Operators",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Operators",
+          "topicId": "physics.quantum-mechanics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Observable Quantities",
+          "topicId": "physics.quantum-mechanics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Eigenvalues",
+          "topicId": "physics.quantum-mechanics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Eigenvectors",
+          "topicId": "physics.quantum-mechanics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hermitian Operators",
+          "topicId": "physics.quantum-mechanics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Commutators",
+          "topicId": "physics.quantum-mechanics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Uncertainty Principle",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Heisenberg Uncertainty Principle",
+          "topicId": "physics.quantum-mechanics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Position-Momentum Uncertainty",
+          "topicId": "physics.quantum-mechanics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Energy-Time Uncertainty",
+          "topicId": "physics.quantum-mechanics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Measurement Limits",
+          "topicId": "physics.quantum-mechanics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Wave Packet Interpretation",
+          "topicId": "physics.quantum-mechanics.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "One-Dimensional Quantum Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Particle in a Box",
+          "topicId": "physics.quantum-mechanics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Infinite Potential Well",
+          "topicId": "physics.quantum-mechanics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Finite Potential Well",
+          "topicId": "physics.quantum-mechanics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Potential Step",
+          "topicId": "physics.quantum-mechanics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Potential Barrier",
+          "topicId": "physics.quantum-mechanics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quantum Tunneling",
+          "topicId": "physics.quantum-mechanics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Harmonic Oscillator",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Quantum Harmonic Oscillator",
+          "topicId": "physics.quantum-mechanics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ladder Operators",
+          "topicId": "physics.quantum-mechanics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ground State",
+          "topicId": "physics.quantum-mechanics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Excited States",
+          "topicId": "physics.quantum-mechanics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Zero-Point Energy",
+          "topicId": "physics.quantum-mechanics.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Angular Momentum",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Orbital Angular Momentum",
+          "topicId": "physics.quantum-mechanics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Spin Angular Momentum",
+          "topicId": "physics.quantum-mechanics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Numbers",
+          "topicId": "physics.quantum-mechanics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Addition of Angular Momentum",
+          "topicId": "physics.quantum-mechanics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Spin Operators",
+          "topicId": "physics.quantum-mechanics.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Hydrogen Atom",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hydrogen Atom Solution",
+          "topicId": "physics.quantum-mechanics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quantum Numbers",
+          "topicId": "physics.quantum-mechanics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Atomic Orbitals",
+          "topicId": "physics.quantum-mechanics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Radial Wave Functions",
+          "topicId": "physics.quantum-mechanics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electron Probability Distribution",
+          "topicId": "physics.quantum-mechanics.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Approximation Methods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Perturbation Theory",
+          "topicId": "physics.quantum-mechanics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Variational Method",
+          "topicId": "physics.quantum-mechanics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "WKB Approximation (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-10.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Identical Particles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bosons",
+          "topicId": "physics.quantum-mechanics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fermions",
+          "topicId": "physics.quantum-mechanics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pauli Exclusion Principle",
+          "topicId": "physics.quantum-mechanics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spin Statistics",
+          "topicId": "physics.quantum-mechanics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Exchange Symmetry",
+          "topicId": "physics.quantum-mechanics.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Quantum Entanglement",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Superposition",
+          "topicId": "physics.quantum-mechanics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Entanglement",
+          "topicId": "physics.quantum-mechanics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bell's Theorem (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantum Measurement",
+          "topicId": "physics.quantum-mechanics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantum Decoherence (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-12.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Quantum Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Quantum Wells",
+          "topicId": "physics.quantum-mechanics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quantum Dots",
+          "topicId": "physics.quantum-mechanics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Tunneling Devices",
+          "topicId": "physics.quantum-mechanics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Semiconductor Physics",
+          "topicId": "physics.quantum-mechanics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantum Computing (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quantum Cryptography (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-13.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Density Matrix (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Path Integral Formulation (Introduction)",
+          "topicId": "physics.quantum-mechanics.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quantum Field Theory (Overview)",
+          "topicId": "physics.quantum-mechanics.chapter-14.topic-03"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 28,
     "prerequisites": [],
     "tags": [
       "physics",

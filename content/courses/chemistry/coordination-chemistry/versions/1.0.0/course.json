@@ -4,10 +4,509 @@
   "description": "This course studies **coordination compounds (metal complexes)**—molecules in which a central metal atom or ion is surrounded by ligands. It is a major branch of inorganic chemistry with applications in medicine, catalysis, biology, and materials science.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Coordination Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coordination Compounds",
+          "topicId": "chemistry.coordination-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Central Metal Atom/Ion",
+          "topicId": "chemistry.coordination-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coordination Sphere",
+          "topicId": "chemistry.coordination-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Werner's Theory",
+          "topicId": "chemistry.coordination-chemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Importance of Coordination Chemistry",
+          "topicId": "chemistry.coordination-chemistry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Ligands",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monodentate Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bidentate Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Polydentate Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ambidentate Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Chelating Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bridging Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Common Ligands",
+          "topicId": "chemistry.coordination-chemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Coordination Number & Geometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coordination Number",
+          "topicId": "chemistry.coordination-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Linear Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tetrahedral Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Square Planar Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Octahedral Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Geometry Prediction",
+          "topicId": "chemistry.coordination-chemistry.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Nomenclature",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "IUPAC Naming Rules",
+          "topicId": "chemistry.coordination-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Naming Cationic Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Naming Anionic Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Naming Neutral Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oxidation State Assignment",
+          "topicId": "chemistry.coordination-chemistry.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Isomerism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structural Isomerism",
+          "topicId": "chemistry.coordination-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Linkage Isomerism",
+          "topicId": "chemistry.coordination-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ionization Isomerism",
+          "topicId": "chemistry.coordination-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coordination Isomerism",
+          "topicId": "chemistry.coordination-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Geometrical Isomerism",
+          "topicId": "chemistry.coordination-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Optical Isomerism",
+          "topicId": "chemistry.coordination-chemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Bonding Theories",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Valence Bond Theory",
+          "topicId": "chemistry.coordination-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Crystal Field Theory (CFT)",
+          "topicId": "chemistry.coordination-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ligand Field Theory (Introduction)",
+          "topicId": "chemistry.coordination-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Molecular Orbital Theory (Introduction)",
+          "topicId": "chemistry.coordination-chemistry.chapter-06.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Crystal Field Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Crystal Field Splitting",
+          "topicId": "chemistry.coordination-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Octahedral Splitting",
+          "topicId": "chemistry.coordination-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tetrahedral Splitting",
+          "topicId": "chemistry.coordination-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "High-Spin Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Low-Spin Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Crystal Field Stabilization Energy (CFSE)",
+          "topicId": "chemistry.coordination-chemistry.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Magnetic & Spectral Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Paramagnetic Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diamagnetic Complexes",
+          "topicId": "chemistry.coordination-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electronic Transitions",
+          "topicId": "chemistry.coordination-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "UV-Visible Spectroscopy",
+          "topicId": "chemistry.coordination-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Color of Coordination Compounds",
+          "topicId": "chemistry.coordination-chemistry.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Stability of Complexes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stability Constants",
+          "topicId": "chemistry.coordination-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Formation Constants",
+          "topicId": "chemistry.coordination-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chelate Effect",
+          "topicId": "chemistry.coordination-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Factors Affecting Stability",
+          "topicId": "chemistry.coordination-chemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Kinetic vs Thermodynamic Stability",
+          "topicId": "chemistry.coordination-chemistry.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Organometallic Chemistry (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Organometallic Compounds",
+          "topicId": "chemistry.coordination-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Metal-Carbon Bonds",
+          "topicId": "chemistry.coordination-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ferrocene",
+          "topicId": "chemistry.coordination-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Metal Carbonyls",
+          "topicId": "chemistry.coordination-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Catalytic Cycles",
+          "topicId": "chemistry.coordination-chemistry.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Bioinorganic Coordination Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hemoglobin",
+          "topicId": "chemistry.coordination-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Myoglobin",
+          "topicId": "chemistry.coordination-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chlorophyll",
+          "topicId": "chemistry.coordination-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Vitamin B12",
+          "topicId": "chemistry.coordination-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Metalloenzymes",
+          "topicId": "chemistry.coordination-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Metal Ion Transport",
+          "topicId": "chemistry.coordination-chemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Catalysis",
+          "topicId": "chemistry.coordination-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Medicine",
+          "topicId": "chemistry.coordination-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "MRI Contrast Agents",
+          "topicId": "chemistry.coordination-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cancer Drugs (Cisplatin)",
+          "topicId": "chemistry.coordination-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Industrial Catalysts",
+          "topicId": "chemistry.coordination-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Water Treatment",
+          "topicId": "chemistry.coordination-chemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Nanotechnology",
+          "topicId": "chemistry.coordination-chemistry.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ligand Field Theory",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Molecular Orbital Analysis",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Supramolecular Chemistry",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coordination Polymers",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Metal-Organic Frameworks (MOFs)",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Carbon Chemistry",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hydrocarbons",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Functional Groups",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "IUPAC Nomenclature",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Structural Isomerism",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Stereochemistry",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Reaction Mechanisms",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Alkanes",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Alkenes",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Alkynes",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Aromatic Compounds",
+          "topicId": "chemistry.coordination-chemistry.chapter-13.topic-16"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

@@ -4,10 +4,574 @@
   "description": "This course studies **how chemistry is applied in large-scale manufacturing**. It covers chemical process industries, industrial production methods, process optimization, quality control, sustainability, and safety.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Industrial Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Industrial Chemistry?",
+          "topicId": "chemistry.industrial-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chemical Process Industries",
+          "topicId": "chemistry.industrial-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Industrial Scale Production",
+          "topicId": "chemistry.industrial-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Raw Materials",
+          "topicId": "chemistry.industrial-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Feedstocks",
+          "topicId": "chemistry.industrial-chemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Process Flow Diagrams",
+          "topicId": "chemistry.industrial-chemistry.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Process Economics",
+          "topicId": "chemistry.industrial-chemistry.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Chemical Process Engineering",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Unit Operations",
+          "topicId": "chemistry.industrial-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Unit Processes",
+          "topicId": "chemistry.industrial-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reactors",
+          "topicId": "chemistry.industrial-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Heat Exchangers",
+          "topicId": "chemistry.industrial-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distillation Columns",
+          "topicId": "chemistry.industrial-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Separation Processes",
+          "topicId": "chemistry.industrial-chemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Process Control",
+          "topicId": "chemistry.industrial-chemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Industrial Catalysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Catalysts",
+          "topicId": "chemistry.industrial-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Catalyst Design",
+          "topicId": "chemistry.industrial-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heterogeneous Catalysis",
+          "topicId": "chemistry.industrial-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Homogeneous Catalysis",
+          "topicId": "chemistry.industrial-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Enzyme Catalysis",
+          "topicId": "chemistry.industrial-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Catalyst Regeneration",
+          "topicId": "chemistry.industrial-chemistry.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Petroleum & Petrochemicals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Crude Oil",
+          "topicId": "chemistry.industrial-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fractional Distillation",
+          "topicId": "chemistry.industrial-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cracking",
+          "topicId": "chemistry.industrial-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reforming",
+          "topicId": "chemistry.industrial-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Petrochemicals",
+          "topicId": "chemistry.industrial-chemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lubricants",
+          "topicId": "chemistry.industrial-chemistry.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Fuels",
+          "topicId": "chemistry.industrial-chemistry.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Fertilizer Industry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ammonia Production",
+          "topicId": "chemistry.industrial-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Haber Process",
+          "topicId": "chemistry.industrial-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Urea Production",
+          "topicId": "chemistry.industrial-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Phosphate Fertilizers",
+          "topicId": "chemistry.industrial-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Potash Fertilizers",
+          "topicId": "chemistry.industrial-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Fertilizers",
+          "topicId": "chemistry.industrial-chemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Polymer Industry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plastic Manufacturing",
+          "topicId": "chemistry.industrial-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Synthetic Rubber",
+          "topicId": "chemistry.industrial-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fibers",
+          "topicId": "chemistry.industrial-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Resins",
+          "topicId": "chemistry.industrial-chemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Polymer Processing",
+          "topicId": "chemistry.industrial-chemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Recycling Technologies",
+          "topicId": "chemistry.industrial-chemistry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Cement, Glass & Ceramics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cement Manufacturing",
+          "topicId": "chemistry.industrial-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Glass Production",
+          "topicId": "chemistry.industrial-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ceramic Processing",
+          "topicId": "chemistry.industrial-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Refractory Materials",
+          "topicId": "chemistry.industrial-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Construction Chemicals",
+          "topicId": "chemistry.industrial-chemistry.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Pharmaceutical Industry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Drug Manufacturing",
+          "topicId": "chemistry.industrial-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Active Pharmaceutical Ingredients (APIs)",
+          "topicId": "chemistry.industrial-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Formulation",
+          "topicId": "chemistry.industrial-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Good Manufacturing Practices (GMP)",
+          "topicId": "chemistry.industrial-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quality Assurance",
+          "topicId": "chemistry.industrial-chemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regulatory Compliance",
+          "topicId": "chemistry.industrial-chemistry.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Food & Consumer Products",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Food Processing",
+          "topicId": "chemistry.industrial-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Food Additives",
+          "topicId": "chemistry.industrial-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Preservatives",
+          "topicId": "chemistry.industrial-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Flavoring Agents",
+          "topicId": "chemistry.industrial-chemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cosmetics",
+          "topicId": "chemistry.industrial-chemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Soaps & Detergents",
+          "topicId": "chemistry.industrial-chemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Industrial Quality Control",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Process Monitoring",
+          "topicId": "chemistry.industrial-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Statistical Quality Control",
+          "topicId": "chemistry.industrial-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Process Validation",
+          "topicId": "chemistry.industrial-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Laboratory Testing",
+          "topicId": "chemistry.industrial-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "ISO Standards",
+          "topicId": "chemistry.industrial-chemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Six Sigma (Introduction)",
+          "topicId": "chemistry.industrial-chemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Environmental & Process Safety",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Industrial Waste Treatment",
+          "topicId": "chemistry.industrial-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Emission Control",
+          "topicId": "chemistry.industrial-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hazardous Chemicals",
+          "topicId": "chemistry.industrial-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Plant Safety",
+          "topicId": "chemistry.industrial-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Risk Assessment",
+          "topicId": "chemistry.industrial-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Green Manufacturing",
+          "topicId": "chemistry.industrial-chemistry.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Circular Economy",
+          "topicId": "chemistry.industrial-chemistry.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chemical Manufacturing",
+          "topicId": "chemistry.industrial-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Energy Industry",
+          "topicId": "chemistry.industrial-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Agriculture",
+          "topicId": "chemistry.industrial-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Consumer Goods",
+          "topicId": "chemistry.industrial-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Automotive Industry",
+          "topicId": "chemistry.industrial-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electronics Manufacturing",
+          "topicId": "chemistry.industrial-chemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Biomedical Products",
+          "topicId": "chemistry.industrial-chemistry.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Industry 4.0",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Process Automation",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "AI in Chemical Manufacturing",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Digital Twins",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sustainable Process Design",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Carbon Capture",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Green Hydrogen Production",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 25: Computational Chemistry**",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Introduction to Computational Chemistry",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Molecular Modeling",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Molecular Mechanics",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Quantum Chemistry",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Density Functional Theory (DFT)",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Molecular Dynamics",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Monte Carlo Simulation",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Drug Discovery",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Protein Modeling",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Computational Spectroscopy",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Materials Simulation",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "High-Performance Computing",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-20"
+        },
+        {
+          "id": "topic-21",
+          "name": "AI in Chemistry",
+          "topicId": "chemistry.industrial-chemistry.chapter-13.topic-21"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

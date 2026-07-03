@@ -4,10 +4,549 @@
   "description": "This course studies **the immune system**, how it protects the body from pathogens, how vaccines work, and why immune disorders such as allergies, autoimmune diseases, and immunodeficiencies occur.",
   "version": "1.0.0",
   "domain": "biology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Immunology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Immunology?",
+          "topicId": "biology.immunology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functions of the Immune System",
+          "topicId": "biology.immunology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Immune Organs",
+          "topicId": "biology.immunology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Immune Cells",
+          "topicId": "biology.immunology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Immune Responses",
+          "topicId": "biology.immunology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Self vs Non-Self Recognition",
+          "topicId": "biology.immunology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Innate Immunity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Physical Barriers",
+          "topicId": "biology.immunology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chemical Barriers",
+          "topicId": "biology.immunology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Normal Microbiota",
+          "topicId": "biology.immunology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Inflammation",
+          "topicId": "biology.immunology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fever",
+          "topicId": "biology.immunology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Phagocytosis",
+          "topicId": "biology.immunology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Natural Killer (NK) Cells",
+          "topicId": "biology.immunology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Adaptive Immunity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Adaptive Immune Response",
+          "topicId": "biology.immunology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Humoral Immunity",
+          "topicId": "biology.immunology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cell-Mediated Immunity",
+          "topicId": "biology.immunology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Immunological Memory",
+          "topicId": "biology.immunology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Primary & Secondary Responses",
+          "topicId": "biology.immunology.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Antigens & Antibodies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Antigens",
+          "topicId": "biology.immunology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Epitopes",
+          "topicId": "biology.immunology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Immunoglobulins (IgG, IgA, IgM, IgE, IgD)",
+          "topicId": "biology.immunology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Antibody Structure",
+          "topicId": "biology.immunology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Antigen-Antibody Binding",
+          "topicId": "biology.immunology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Antibody Functions",
+          "topicId": "biology.immunology.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "B Cells & T Cells",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "B Lymphocytes",
+          "topicId": "biology.immunology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Plasma Cells",
+          "topicId": "biology.immunology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Helper T Cells",
+          "topicId": "biology.immunology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cytotoxic T Cells",
+          "topicId": "biology.immunology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Regulatory T Cells",
+          "topicId": "biology.immunology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Memory Cells",
+          "topicId": "biology.immunology.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Lymphocyte Activation",
+          "topicId": "biology.immunology.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Major Histocompatibility Complex (MHC)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "MHC Class I",
+          "topicId": "biology.immunology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "MHC Class II",
+          "topicId": "biology.immunology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Antigen Presentation",
+          "topicId": "biology.immunology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dendritic Cells",
+          "topicId": "biology.immunology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Immune Recognition",
+          "topicId": "biology.immunology.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Complement System & Cytokines",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Complement Pathways",
+          "topicId": "biology.immunology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Opsonization",
+          "topicId": "biology.immunology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cell Lysis",
+          "topicId": "biology.immunology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cytokines",
+          "topicId": "biology.immunology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Interleukins",
+          "topicId": "biology.immunology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interferons",
+          "topicId": "biology.immunology.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Chemokines",
+          "topicId": "biology.immunology.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Vaccines & Immunization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Active Immunity",
+          "topicId": "biology.immunology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Passive Immunity",
+          "topicId": "biology.immunology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Vaccine Types",
+          "topicId": "biology.immunology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Booster Doses",
+          "topicId": "biology.immunology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Herd Immunity",
+          "topicId": "biology.immunology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Vaccine Development",
+          "topicId": "biology.immunology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Immune Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Autoimmune Diseases",
+          "topicId": "biology.immunology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Allergies",
+          "topicId": "biology.immunology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hypersensitivity Reactions",
+          "topicId": "biology.immunology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Asthma",
+          "topicId": "biology.immunology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Immunodeficiency Disorders",
+          "topicId": "biology.immunology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "HIV/AIDS",
+          "topicId": "biology.immunology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Cancer & Transplant Immunology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Tumor Immunology",
+          "topicId": "biology.immunology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Immune Surveillance",
+          "topicId": "biology.immunology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Immunotherapy",
+          "topicId": "biology.immunology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Organ Transplantation",
+          "topicId": "biology.immunology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Tissue Rejection",
+          "topicId": "biology.immunology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Immunosuppressive Drugs",
+          "topicId": "biology.immunology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Diagnostic Immunology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "ELISA",
+          "topicId": "biology.immunology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Western Blot",
+          "topicId": "biology.immunology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Flow Cytometry",
+          "topicId": "biology.immunology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Immunofluorescence",
+          "topicId": "biology.immunology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Serological Tests",
+          "topicId": "biology.immunology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Rapid Diagnostic Tests",
+          "topicId": "biology.immunology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Infectious Disease Control",
+          "topicId": "biology.immunology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vaccine Programs",
+          "topicId": "biology.immunology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Autoimmune Disease Treatment",
+          "topicId": "biology.immunology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Allergy Management",
+          "topicId": "biology.immunology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cancer Therapy",
+          "topicId": "biology.immunology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Precision Medicine",
+          "topicId": "biology.immunology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Organ Transplantation",
+          "topicId": "biology.immunology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monoclonal Antibodies",
+          "topicId": "biology.immunology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "CAR-T Cell Therapy",
+          "topicId": "biology.immunology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Immune Checkpoint Inhibitors",
+          "topicId": "biology.immunology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Microbiome & Immunity",
+          "topicId": "biology.immunology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Systems Immunology",
+          "topicId": "biology.immunology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Immunotherapies",
+          "topicId": "biology.immunology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 10: Ecology**",
+          "topicId": "biology.immunology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Ecosystems",
+          "topicId": "biology.immunology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Population Ecology",
+          "topicId": "biology.immunology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Communities",
+          "topicId": "biology.immunology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Food Chains & Food Webs",
+          "topicId": "biology.immunology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Biomes",
+          "topicId": "biology.immunology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Biodiversity",
+          "topicId": "biology.immunology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Biogeochemical Cycles",
+          "topicId": "biology.immunology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Conservation Biology",
+          "topicId": "biology.immunology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Climate Change",
+          "topicId": "biology.immunology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Sustainability",
+          "topicId": "biology.immunology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Restoration Ecology",
+          "topicId": "biology.immunology.chapter-13.topic-18"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "biology",

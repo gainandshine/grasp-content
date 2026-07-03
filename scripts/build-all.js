@@ -3,7 +3,6 @@ const path = require('path');
 
 const NOTES_DIR = 'D:\\Projects\\Grasp\\notes';
 const CONTENT_OUT = 'D:\\Projects\\Grasp\\grasp-content\\content';
-const MOBILE_OUT = 'D:\\Projects\\Grasp\\mobile\\assets\\courses';
 
 // ─── Helpers ───────────────────────────────────────────────────────────
 function slugify(s) {
@@ -33,8 +32,8 @@ function parseNotes(content) {
       continue; 
     }
     
-    // Match chapter headers: "## Chapter 1:" or "### Chapter 1:" with 2+ #
-    const chm = t.match(/^##+ *Chapter\s+\d+:\s*(.+)$/i);
+    // Match chapter headers: ACCEPT SINGLE # OR MORE
+    const chm = t.match(/^#+\s*Chapter\s+\d+:\s*(.+)$/i);
     if (chm && cur) { 
       ch = { title: chm[1].trim(), topics: [] }; 
       cur.chapters.push(ch); 
@@ -410,16 +409,7 @@ Understanding ${name} requires both theoretical knowledge {{viz:text-01}} and pr
     updatedAt: new Date().toISOString()
   });
 
-  // ─── Write mobile bundle ───────────────────────────────────────────────
-  
-  fs.mkdirSync(MOBILE_OUT, { recursive: true });
-  writeJson(path.join(MOBILE_OUT, `${courseId}.json`), {
-    id: courseId,
-    title: course.title,
-    description: course.description || `Learn ${course.title} from fundamentals to advanced concepts.`,
-    domain,
-    materials: allMaterials
-  });
+  // Mobile app fetches directly from CDN - no local bundles needed
 
   const topicCount = chapters.reduce((s, c) => s + c.topics.length, 0);
   return { courseId, chapters: chapters.length, topics: topicCount };
@@ -455,5 +445,5 @@ console.log(`\n✅ Generated:`);
 console.log(`   - ${totalCourses} courses`);
 console.log(`   - ${totalTopics} topics`);
 console.log(`   - grasp-content: ${CONTENT_OUT}/courses/`);
-console.log(`   - mobile bundles: ${MOBILE_OUT}/`);
+console.log(`   - Mobile app fetches from CDN (no local bundles)`);
 

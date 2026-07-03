@@ -4,10 +4,494 @@
   "description": "This course studies **the science of human flourishing**, focusing on the strengths, habits, relationships, and experiences that contribute to happiness, resilience, meaning, and well-being.",
   "version": "1.0.0",
   "domain": "psychology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Positive Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Positive Psychology?",
+          "topicId": "psychology.positive-psychology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Positive Psychology",
+          "topicId": "psychology.positive-psychology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Traditional vs Positive Psychology",
+          "topicId": "psychology.positive-psychology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Human Flourishing",
+          "topicId": "psychology.positive-psychology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "psychology.positive-psychology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Happiness & Well-Being",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Happiness",
+          "topicId": "psychology.positive-psychology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Subjective Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Psychological Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Life Satisfaction",
+          "topicId": "psychology.positive-psychology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hedonic Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Eudaimonic Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Positive Emotions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Joy",
+          "topicId": "psychology.positive-psychology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gratitude",
+          "topicId": "psychology.positive-psychology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hope",
+          "topicId": "psychology.positive-psychology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Love",
+          "topicId": "psychology.positive-psychology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Awe",
+          "topicId": "psychology.positive-psychology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Compassion",
+          "topicId": "psychology.positive-psychology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Broaden-and-Build Theory",
+          "topicId": "psychology.positive-psychology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Character Strengths & Virtues",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Character Strengths",
+          "topicId": "psychology.positive-psychology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Virtues",
+          "topicId": "psychology.positive-psychology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Courage",
+          "topicId": "psychology.positive-psychology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Wisdom",
+          "topicId": "psychology.positive-psychology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Justice",
+          "topicId": "psychology.positive-psychology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Temperance",
+          "topicId": "psychology.positive-psychology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Strength-Based Development",
+          "topicId": "psychology.positive-psychology.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Resilience",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Resilience",
+          "topicId": "psychology.positive-psychology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Coping Strategies",
+          "topicId": "psychology.positive-psychology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Adaptability",
+          "topicId": "psychology.positive-psychology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Growth Mindset",
+          "topicId": "psychology.positive-psychology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Post-Traumatic Growth",
+          "topicId": "psychology.positive-psychology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Psychological Flexibility",
+          "topicId": "psychology.positive-psychology.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Motivation & Goal Achievement",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Intrinsic Motivation",
+          "topicId": "psychology.positive-psychology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Extrinsic Motivation",
+          "topicId": "psychology.positive-psychology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Purpose",
+          "topicId": "psychology.positive-psychology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Goal Setting",
+          "topicId": "psychology.positive-psychology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Self-Regulation",
+          "topicId": "psychology.positive-psychology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Self-Determination Theory",
+          "topicId": "psychology.positive-psychology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Mindfulness & Flow",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mindfulness",
+          "topicId": "psychology.positive-psychology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Meditation",
+          "topicId": "psychology.positive-psychology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Flow State",
+          "topicId": "psychology.positive-psychology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Present-Moment Awareness",
+          "topicId": "psychology.positive-psychology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Attention Regulation",
+          "topicId": "psychology.positive-psychology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Peak Performance",
+          "topicId": "psychology.positive-psychology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Meaning & Purpose",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Meaning in Life",
+          "topicId": "psychology.positive-psychology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Purpose",
+          "topicId": "psychology.positive-psychology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Values",
+          "topicId": "psychology.positive-psychology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Identity",
+          "topicId": "psychology.positive-psychology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Personal Growth",
+          "topicId": "psychology.positive-psychology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Self-Transcendence",
+          "topicId": "psychology.positive-psychology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Positive Relationships",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Social Support",
+          "topicId": "psychology.positive-psychology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Trust",
+          "topicId": "psychology.positive-psychology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Empathy",
+          "topicId": "psychology.positive-psychology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Kindness",
+          "topicId": "psychology.positive-psychology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gratitude in Relationships",
+          "topicId": "psychology.positive-psychology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Relationship Satisfaction",
+          "topicId": "psychology.positive-psychology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Positive Organizations & Communities",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Positive Leadership",
+          "topicId": "psychology.positive-psychology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Workplace Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Team Resilience",
+          "topicId": "psychology.positive-psychology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Community Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Prosocial Behavior",
+          "topicId": "psychology.positive-psychology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Organizational Flourishing",
+          "topicId": "psychology.positive-psychology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Health & Lifestyle",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sleep",
+          "topicId": "psychology.positive-psychology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exercise",
+          "topicId": "psychology.positive-psychology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nutrition",
+          "topicId": "psychology.positive-psychology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stress Management",
+          "topicId": "psychology.positive-psychology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Healthy Habits",
+          "topicId": "psychology.positive-psychology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Longevity & Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Education",
+          "topicId": "psychology.positive-psychology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Healthcare",
+          "topicId": "psychology.positive-psychology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coaching",
+          "topicId": "psychology.positive-psychology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sports Psychology",
+          "topicId": "psychology.positive-psychology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Workplace Development",
+          "topicId": "psychology.positive-psychology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Policy",
+          "topicId": "psychology.positive-psychology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Digital Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Positive Education",
+          "topicId": "psychology.positive-psychology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Positive Technology",
+          "topicId": "psychology.positive-psychology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Happiness Economics",
+          "topicId": "psychology.positive-psychology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cross-Cultural Well-Being",
+          "topicId": "psychology.positive-psychology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Future of Positive Psychology",
+          "topicId": "psychology.positive-psychology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human Flourishing in the AI Era",
+          "topicId": "psychology.positive-psychology.chapter-13.topic-06"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "psychology",

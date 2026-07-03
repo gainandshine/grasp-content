@@ -4,10 +4,539 @@
   "description": "This course studies **how to protect computers, networks, applications, and data from cyber threats**. It covers defensive security, secure system design, incident response, and ethical security practices.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Cybersecurity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Cybersecurity?",
+          "topicId": "computer-science.cybersecurity.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "CIA Triad",
+          "topicId": "computer-science.cybersecurity.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Threats",
+          "topicId": "computer-science.cybersecurity.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Vulnerabilities",
+          "topicId": "computer-science.cybersecurity.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Risk",
+          "topicId": "computer-science.cybersecurity.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Attack Surface",
+          "topicId": "computer-science.cybersecurity.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Security Principles",
+          "topicId": "computer-science.cybersecurity.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Cryptography",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Encryption",
+          "topicId": "computer-science.cybersecurity.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Symmetric Encryption",
+          "topicId": "computer-science.cybersecurity.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Asymmetric Encryption",
+          "topicId": "computer-science.cybersecurity.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hash Functions",
+          "topicId": "computer-science.cybersecurity.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Signatures",
+          "topicId": "computer-science.cybersecurity.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Key Infrastructure (PKI)",
+          "topicId": "computer-science.cybersecurity.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Key Management",
+          "topicId": "computer-science.cybersecurity.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Network Security",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Firewalls",
+          "topicId": "computer-science.cybersecurity.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Intrusion Detection Systems (IDS)",
+          "topicId": "computer-science.cybersecurity.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Intrusion Prevention Systems (IPS)",
+          "topicId": "computer-science.cybersecurity.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Virtual Private Networks (VPNs)",
+          "topicId": "computer-science.cybersecurity.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Network Segmentation",
+          "topicId": "computer-science.cybersecurity.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Secure Network Design",
+          "topicId": "computer-science.cybersecurity.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Wireless Security",
+          "topicId": "computer-science.cybersecurity.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Operating System Security",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "User Accounts",
+          "topicId": "computer-science.cybersecurity.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Permissions",
+          "topicId": "computer-science.cybersecurity.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Access Control",
+          "topicId": "computer-science.cybersecurity.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sandboxing",
+          "topicId": "computer-science.cybersecurity.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Secure Boot",
+          "topicId": "computer-science.cybersecurity.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "System Hardening",
+          "topicId": "computer-science.cybersecurity.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Patch Management",
+          "topicId": "computer-science.cybersecurity.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Application Security",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Secure Coding",
+          "topicId": "computer-science.cybersecurity.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Input Validation",
+          "topicId": "computer-science.cybersecurity.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Authentication",
+          "topicId": "computer-science.cybersecurity.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Authorization",
+          "topicId": "computer-science.cybersecurity.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Session Management",
+          "topicId": "computer-science.cybersecurity.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "OWASP Top 10",
+          "topicId": "computer-science.cybersecurity.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Secure APIs",
+          "topicId": "computer-science.cybersecurity.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Identity & Access Management",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Identity Management",
+          "topicId": "computer-science.cybersecurity.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Authentication",
+          "topicId": "computer-science.cybersecurity.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Factor Authentication (MFA)",
+          "topicId": "computer-science.cybersecurity.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Single Sign-On (SSO)",
+          "topicId": "computer-science.cybersecurity.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Role-Based Access Control (RBAC)",
+          "topicId": "computer-science.cybersecurity.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Zero Trust",
+          "topicId": "computer-science.cybersecurity.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Cloud Security",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cloud Security Models",
+          "topicId": "computer-science.cybersecurity.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Shared Responsibility Model",
+          "topicId": "computer-science.cybersecurity.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cloud Identity",
+          "topicId": "computer-science.cybersecurity.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Secrets Management",
+          "topicId": "computer-science.cybersecurity.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Container Security",
+          "topicId": "computer-science.cybersecurity.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Kubernetes Security",
+          "topicId": "computer-science.cybersecurity.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Serverless Security",
+          "topicId": "computer-science.cybersecurity.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Malware & Threats",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Viruses",
+          "topicId": "computer-science.cybersecurity.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Worms",
+          "topicId": "computer-science.cybersecurity.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Trojans",
+          "topicId": "computer-science.cybersecurity.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ransomware",
+          "topicId": "computer-science.cybersecurity.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Spyware",
+          "topicId": "computer-science.cybersecurity.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Botnets",
+          "topicId": "computer-science.cybersecurity.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Advanced Persistent Threats (APTs)",
+          "topicId": "computer-science.cybersecurity.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Security Monitoring & Incident Response",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Security Operations Center (SOC)",
+          "topicId": "computer-science.cybersecurity.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logging",
+          "topicId": "computer-science.cybersecurity.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Security Information and Event Management (SIEM)",
+          "topicId": "computer-science.cybersecurity.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Incident Detection",
+          "topicId": "computer-science.cybersecurity.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Incident Response",
+          "topicId": "computer-science.cybersecurity.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Threat Intelligence",
+          "topicId": "computer-science.cybersecurity.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Disaster Recovery",
+          "topicId": "computer-science.cybersecurity.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Digital Forensics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Digital Evidence",
+          "topicId": "computer-science.cybersecurity.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Evidence Collection",
+          "topicId": "computer-science.cybersecurity.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Disk Forensics",
+          "topicId": "computer-science.cybersecurity.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Memory Forensics",
+          "topicId": "computer-science.cybersecurity.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Network Forensics",
+          "topicId": "computer-science.cybersecurity.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Malware Analysis (Introduction)",
+          "topicId": "computer-science.cybersecurity.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Chain of Custody",
+          "topicId": "computer-science.cybersecurity.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Ethical Hacking & Penetration Testing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ethical Hacking",
+          "topicId": "computer-science.cybersecurity.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Penetration Testing",
+          "topicId": "computer-science.cybersecurity.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Vulnerability Assessment",
+          "topicId": "computer-science.cybersecurity.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reconnaissance",
+          "topicId": "computer-science.cybersecurity.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Exploitation Concepts",
+          "topicId": "computer-science.cybersecurity.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Post-Assessment Reporting",
+          "topicId": "computer-science.cybersecurity.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Responsible Disclosure",
+          "topicId": "computer-science.cybersecurity.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Security Governance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Security Policies",
+          "topicId": "computer-science.cybersecurity.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Risk Management",
+          "topicId": "computer-science.cybersecurity.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Compliance",
+          "topicId": "computer-science.cybersecurity.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Security Frameworks",
+          "topicId": "computer-science.cybersecurity.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Business Continuity",
+          "topicId": "computer-science.cybersecurity.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Security Awareness",
+          "topicId": "computer-science.cybersecurity.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Privacy Regulations",
+          "topicId": "computer-science.cybersecurity.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Enterprise Security",
+          "topicId": "computer-science.cybersecurity.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Financial Systems",
+          "topicId": "computer-science.cybersecurity.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Healthcare Security",
+          "topicId": "computer-science.cybersecurity.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Government Systems",
+          "topicId": "computer-science.cybersecurity.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "IoT Security",
+          "topicId": "computer-science.cybersecurity.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mobile Security",
+          "topicId": "computer-science.cybersecurity.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "AI Security",
+          "topicId": "computer-science.cybersecurity.chapter-13.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

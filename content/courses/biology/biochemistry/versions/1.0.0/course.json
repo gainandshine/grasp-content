@@ -4,10 +4,534 @@
   "description": "This course studies **the chemical processes of living organisms**. It explains how biomolecules are built, how cells obtain and use energy, and how biochemical pathways regulate life.",
   "version": "1.0.0",
   "domain": "biology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Biochemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Biochemistry?",
+          "topicId": "biology.biochemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chemical Basis of Life",
+          "topicId": "biology.biochemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Water in Biological Systems",
+          "topicId": "biology.biochemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Biological Buffers",
+          "topicId": "biology.biochemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "pH in Living Systems",
+          "topicId": "biology.biochemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biomolecular Interactions",
+          "topicId": "biology.biochemistry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Amino Acids & Proteins",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Amino Acids",
+          "topicId": "biology.biochemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Peptide Bonds",
+          "topicId": "biology.biochemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Protein Structure",
+          "topicId": "biology.biochemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Protein Folding",
+          "topicId": "biology.biochemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Protein Denaturation",
+          "topicId": "biology.biochemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Protein Function",
+          "topicId": "biology.biochemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Protein Classification",
+          "topicId": "biology.biochemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Enzymes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Enzyme Structure",
+          "topicId": "biology.biochemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Active Site",
+          "topicId": "biology.biochemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Enzyme Catalysis",
+          "topicId": "biology.biochemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cofactors",
+          "topicId": "biology.biochemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coenzymes",
+          "topicId": "biology.biochemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Enzyme Kinetics",
+          "topicId": "biology.biochemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Enzyme Regulation",
+          "topicId": "biology.biochemistry.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Enzyme Inhibition",
+          "topicId": "biology.biochemistry.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Carbohydrates",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monosaccharides",
+          "topicId": "biology.biochemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Disaccharides",
+          "topicId": "biology.biochemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Polysaccharides",
+          "topicId": "biology.biochemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Glycogen",
+          "topicId": "biology.biochemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Starch",
+          "topicId": "biology.biochemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cellulose",
+          "topicId": "biology.biochemistry.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Glycoproteins",
+          "topicId": "biology.biochemistry.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Glycolipids",
+          "topicId": "biology.biochemistry.chapter-04.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Lipids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fatty Acids",
+          "topicId": "biology.biochemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Triglycerides",
+          "topicId": "biology.biochemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Phospholipids",
+          "topicId": "biology.biochemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cholesterol",
+          "topicId": "biology.biochemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Steroids",
+          "topicId": "biology.biochemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lipoproteins",
+          "topicId": "biology.biochemistry.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Biological Membranes",
+          "topicId": "biology.biochemistry.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Nucleic Acids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "DNA",
+          "topicId": "biology.biochemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "RNA",
+          "topicId": "biology.biochemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nucleotides",
+          "topicId": "biology.biochemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "DNA Replication",
+          "topicId": "biology.biochemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transcription",
+          "topicId": "biology.biochemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Translation",
+          "topicId": "biology.biochemistry.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Gene Expression",
+          "topicId": "biology.biochemistry.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Bioenergetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "ATP",
+          "topicId": "biology.biochemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Energy Coupling",
+          "topicId": "biology.biochemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Oxidation-Reduction Reactions",
+          "topicId": "biology.biochemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electron Carriers",
+          "topicId": "biology.biochemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Thermodynamics in Biology",
+          "topicId": "biology.biochemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "High-Energy Compounds",
+          "topicId": "biology.biochemistry.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Metabolism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Catabolism",
+          "topicId": "biology.biochemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Anabolism",
+          "topicId": "biology.biochemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Glycolysis",
+          "topicId": "biology.biochemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Citric Acid Cycle (Krebs Cycle)",
+          "topicId": "biology.biochemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electron Transport Chain",
+          "topicId": "biology.biochemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Oxidative Phosphorylation",
+          "topicId": "biology.biochemistry.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Gluconeogenesis",
+          "topicId": "biology.biochemistry.chapter-08.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Glycogen Metabolism",
+          "topicId": "biology.biochemistry.chapter-08.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Lipid & Nitrogen Metabolism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fatty Acid Oxidation",
+          "topicId": "biology.biochemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fatty Acid Synthesis",
+          "topicId": "biology.biochemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ketone Bodies",
+          "topicId": "biology.biochemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cholesterol Metabolism",
+          "topicId": "biology.biochemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Amino Acid Metabolism",
+          "topicId": "biology.biochemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Urea Cycle",
+          "topicId": "biology.biochemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Photosynthesis & Plant Biochemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Photosynthesis",
+          "topicId": "biology.biochemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Light Reactions",
+          "topicId": "biology.biochemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Calvin Cycle",
+          "topicId": "biology.biochemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chlorophyll",
+          "topicId": "biology.biochemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon Fixation",
+          "topicId": "biology.biochemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Plant Metabolism",
+          "topicId": "biology.biochemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Cell Signaling & Molecular Regulation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cell Signaling",
+          "topicId": "biology.biochemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hormones",
+          "topicId": "biology.biochemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Signal Transduction",
+          "topicId": "biology.biochemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Second Messengers",
+          "topicId": "biology.biochemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Protein Phosphorylation",
+          "topicId": "biology.biochemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene Regulation",
+          "topicId": "biology.biochemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Clinical & Applied Biochemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Metabolic Disorders",
+          "topicId": "biology.biochemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diabetes",
+          "topicId": "biology.biochemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Enzyme Deficiencies",
+          "topicId": "biology.biochemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Clinical Biomarkers",
+          "topicId": "biology.biochemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nutrition",
+          "topicId": "biology.biochemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Drug Metabolism",
+          "topicId": "biology.biochemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Molecular Medicine",
+          "topicId": "biology.biochemistry.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Proteomics",
+          "topicId": "biology.biochemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Metabolomics",
+          "topicId": "biology.biochemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Structural Biology",
+          "topicId": "biology.biochemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Computational Biochemistry",
+          "topicId": "biology.biochemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Systems Biochemistry",
+          "topicId": "biology.biochemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biochemistry of Aging",
+          "topicId": "biology.biochemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Synthetic Biochemistry",
+          "topicId": "biology.biochemistry.chapter-13.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "biology",

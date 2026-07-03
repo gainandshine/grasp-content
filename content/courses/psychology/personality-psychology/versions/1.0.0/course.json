@@ -4,10 +4,549 @@
   "description": "This course studies **personality**—the enduring patterns of thoughts, emotions, and behaviors that make individuals unique. It explores major theories of personality, personality assessment, development, and applications.",
   "version": "1.0.0",
   "domain": "psychology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Personality Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Personality?",
+          "topicId": "psychology.personality-psychology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Personality Traits",
+          "topicId": "psychology.personality-psychology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Individual Differences",
+          "topicId": "psychology.personality-psychology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stability & Change",
+          "topicId": "psychology.personality-psychology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Personality Research",
+          "topicId": "psychology.personality-psychology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications of Personality Psychology",
+          "topicId": "psychology.personality-psychology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Trait Theories",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Trait Theory",
+          "topicId": "psychology.personality-psychology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gordon Allport's Trait Theory",
+          "topicId": "psychology.personality-psychology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Raymond Cattell's Trait Theory",
+          "topicId": "psychology.personality-psychology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hans Eysenck's Model",
+          "topicId": "psychology.personality-psychology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "The Big Five Personality Traits (OCEAN)",
+          "topicId": "psychology.personality-psychology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Trait Assessment",
+          "topicId": "psychology.personality-psychology.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Psychodynamic Perspectives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sigmund Freud's Theory",
+          "topicId": "psychology.personality-psychology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conscious Mind",
+          "topicId": "psychology.personality-psychology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unconscious Mind",
+          "topicId": "psychology.personality-psychology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Id, Ego & Superego",
+          "topicId": "psychology.personality-psychology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Defense Mechanisms",
+          "topicId": "psychology.personality-psychology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Neo-Freudian Theories",
+          "topicId": "psychology.personality-psychology.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Humanistic Perspectives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Humanistic Psychology",
+          "topicId": "psychology.personality-psychology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Abraham Maslow's Hierarchy of Needs",
+          "topicId": "psychology.personality-psychology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Carl Rogers' Person-Centered Theory",
+          "topicId": "psychology.personality-psychology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Self-Concept",
+          "topicId": "psychology.personality-psychology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Self-Actualization",
+          "topicId": "psychology.personality-psychology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Personal Growth",
+          "topicId": "psychology.personality-psychology.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Social-Cognitive Perspectives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Albert Bandura's Theory",
+          "topicId": "psychology.personality-psychology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reciprocal Determinism",
+          "topicId": "psychology.personality-psychology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Self-Efficacy",
+          "topicId": "psychology.personality-psychology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Observational Learning",
+          "topicId": "psychology.personality-psychology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cognitive Influences on Personality",
+          "topicId": "psychology.personality-psychology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Situational Factors",
+          "topicId": "psychology.personality-psychology.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Biological Perspectives",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Genetics & Personality",
+          "topicId": "psychology.personality-psychology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Temperament",
+          "topicId": "psychology.personality-psychology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Brain & Personality",
+          "topicId": "psychology.personality-psychology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hormones",
+          "topicId": "psychology.personality-psychology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Evolutionary Psychology",
+          "topicId": "psychology.personality-psychology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene-Environment Interaction",
+          "topicId": "psychology.personality-psychology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Personality Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Childhood Development",
+          "topicId": "psychology.personality-psychology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Adolescence",
+          "topicId": "psychology.personality-psychology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Adulthood",
+          "topicId": "psychology.personality-psychology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Life Experiences",
+          "topicId": "psychology.personality-psychology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Culture",
+          "topicId": "psychology.personality-psychology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Environmental Influences",
+          "topicId": "psychology.personality-psychology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Personality Assessment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Personality Tests",
+          "topicId": "psychology.personality-psychology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Self-Report Inventories",
+          "topicId": "psychology.personality-psychology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Projective Tests",
+          "topicId": "psychology.personality-psychology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Behavioral Assessment",
+          "topicId": "psychology.personality-psychology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reliability",
+          "topicId": "psychology.personality-psychology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Validity",
+          "topicId": "psychology.personality-psychology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Personality Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Personality Disorders",
+          "topicId": "psychology.personality-psychology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cluster A Disorders",
+          "topicId": "psychology.personality-psychology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cluster B Disorders",
+          "topicId": "psychology.personality-psychology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cluster C Disorders",
+          "topicId": "psychology.personality-psychology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Diagnosis",
+          "topicId": "psychology.personality-psychology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Treatment Approaches",
+          "topicId": "psychology.personality-psychology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Personality in Everyday Life",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Relationships",
+          "topicId": "psychology.personality-psychology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Career Choice",
+          "topicId": "psychology.personality-psychology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Leadership",
+          "topicId": "psychology.personality-psychology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Decision Making",
+          "topicId": "psychology.personality-psychology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stress Management",
+          "topicId": "psychology.personality-psychology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Well-Being",
+          "topicId": "psychology.personality-psychology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Culture & Personality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cross-Cultural Personality",
+          "topicId": "psychology.personality-psychology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Individualism",
+          "topicId": "psychology.personality-psychology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Collectivism",
+          "topicId": "psychology.personality-psychology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cultural Values",
+          "topicId": "psychology.personality-psychology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Identity",
+          "topicId": "psychology.personality-psychology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Diversity",
+          "topicId": "psychology.personality-psychology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Clinical Psychology",
+          "topicId": "psychology.personality-psychology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Organizational Psychology",
+          "topicId": "psychology.personality-psychology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Education",
+          "topicId": "psychology.personality-psychology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sports Psychology",
+          "topicId": "psychology.personality-psychology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Counseling",
+          "topicId": "psychology.personality-psychology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Personal Development",
+          "topicId": "psychology.personality-psychology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Artificial Intelligence & Personality",
+          "topicId": "psychology.personality-psychology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Personality Neuroscience",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Personality Across the Lifespan",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Positive Personality Traits",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dark Personality Traits",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Personality",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Personality Research",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 7: Learning & Behavior**",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Learning Theories",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Classical Conditioning",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Operant Conditioning",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Reinforcement",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Punishment",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Observational Learning",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Cognitive Learning",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Motivation",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Habit Formation",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Behavior Modification",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Applied Behavior Analysis",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Learning in Everyday Life",
+          "topicId": "psychology.personality-psychology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "psychology",

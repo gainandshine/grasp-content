@@ -4,10 +4,569 @@
   "description": "This course studies **how to design scalable, reliable, and maintainable software systems**. It focuses on architecture rather than implementation and prepares students to build applications that can serve thousands or millions of users.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to System Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is System Design?",
+          "topicId": "computer-science.system-design.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functional Requirements",
+          "topicId": "computer-science.system-design.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Non-Functional Requirements",
+          "topicId": "computer-science.system-design.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scalability",
+          "topicId": "computer-science.system-design.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reliability",
+          "topicId": "computer-science.system-design.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Availability",
+          "topicId": "computer-science.system-design.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Maintainability",
+          "topicId": "computer-science.system-design.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "System Architecture",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monolithic Architecture",
+          "topicId": "computer-science.system-design.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Layered Architecture",
+          "topicId": "computer-science.system-design.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Client-Server Architecture",
+          "topicId": "computer-science.system-design.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Service-Oriented Architecture (SOA)",
+          "topicId": "computer-science.system-design.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Microservices",
+          "topicId": "computer-science.system-design.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Event-Driven Architecture",
+          "topicId": "computer-science.system-design.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Scalability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Vertical Scaling",
+          "topicId": "computer-science.system-design.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Horizontal Scaling",
+          "topicId": "computer-science.system-design.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stateless Services",
+          "topicId": "computer-science.system-design.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stateful Services",
+          "topicId": "computer-science.system-design.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Auto Scaling",
+          "topicId": "computer-science.system-design.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Capacity Planning",
+          "topicId": "computer-science.system-design.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Load Balancing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Load Balancers",
+          "topicId": "computer-science.system-design.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Load Balancing Algorithms",
+          "topicId": "computer-science.system-design.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reverse Proxies",
+          "topicId": "computer-science.system-design.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Health Checks",
+          "topicId": "computer-science.system-design.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Traffic Routing",
+          "topicId": "computer-science.system-design.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "High Availability",
+          "topicId": "computer-science.system-design.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Caching",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Why Caching?",
+          "topicId": "computer-science.system-design.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Client Cache",
+          "topicId": "computer-science.system-design.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Server Cache",
+          "topicId": "computer-science.system-design.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Database Cache",
+          "topicId": "computer-science.system-design.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cache Eviction Policies",
+          "topicId": "computer-science.system-design.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cache Consistency",
+          "topicId": "computer-science.system-design.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Content Delivery Networks (CDNs)",
+          "topicId": "computer-science.system-design.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Databases at Scale",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Database Replication",
+          "topicId": "computer-science.system-design.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sharding",
+          "topicId": "computer-science.system-design.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Partitioning",
+          "topicId": "computer-science.system-design.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Read Replicas",
+          "topicId": "computer-science.system-design.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distributed Transactions",
+          "topicId": "computer-science.system-design.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "SQL vs NoSQL in System Design",
+          "topicId": "computer-science.system-design.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Messaging Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Message Queues",
+          "topicId": "computer-science.system-design.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Publish-Subscribe Systems",
+          "topicId": "computer-science.system-design.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Event Streaming",
+          "topicId": "computer-science.system-design.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Asynchronous Communication",
+          "topicId": "computer-science.system-design.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Event Sourcing (Introduction)",
+          "topicId": "computer-science.system-design.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Message Brokers",
+          "topicId": "computer-science.system-design.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Distributed Systems Concepts",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Distributed Systems",
+          "topicId": "computer-science.system-design.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "CAP Theorem",
+          "topicId": "computer-science.system-design.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Consistency Models",
+          "topicId": "computer-science.system-design.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Consensus (Introduction)",
+          "topicId": "computer-science.system-design.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distributed Locks",
+          "topicId": "computer-science.system-design.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fault Tolerance",
+          "topicId": "computer-science.system-design.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "APIs & Communication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "REST APIs",
+          "topicId": "computer-science.system-design.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "GraphQL (Introduction)",
+          "topicId": "computer-science.system-design.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "gRPC (Introduction)",
+          "topicId": "computer-science.system-design.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "API Gateways",
+          "topicId": "computer-science.system-design.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Service Discovery",
+          "topicId": "computer-science.system-design.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "API Versioning",
+          "topicId": "computer-science.system-design.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Security & Reliability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Authentication",
+          "topicId": "computer-science.system-design.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Authorization",
+          "topicId": "computer-science.system-design.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rate Limiting",
+          "topicId": "computer-science.system-design.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Encryption",
+          "topicId": "computer-science.system-design.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Disaster Recovery",
+          "topicId": "computer-science.system-design.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Backup Strategies",
+          "topicId": "computer-science.system-design.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Fault Isolation",
+          "topicId": "computer-science.system-design.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Monitoring & Observability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Logging",
+          "topicId": "computer-science.system-design.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Metrics",
+          "topicId": "computer-science.system-design.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tracing",
+          "topicId": "computer-science.system-design.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Health Monitoring",
+          "topicId": "computer-science.system-design.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Alerting",
+          "topicId": "computer-science.system-design.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Performance Monitoring",
+          "topicId": "computer-science.system-design.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Incident Response",
+          "topicId": "computer-science.system-design.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Design Case Studies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "URL Shortener",
+          "topicId": "computer-science.system-design.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chat Application",
+          "topicId": "computer-science.system-design.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Media Feed",
+          "topicId": "computer-science.system-design.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Video Streaming Platform",
+          "topicId": "computer-science.system-design.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ride-Sharing System",
+          "topicId": "computer-science.system-design.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "E-Commerce Platform",
+          "topicId": "computer-science.system-design.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Best Practices",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Design Tradeoffs",
+          "topicId": "computer-science.system-design.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cost Optimization",
+          "topicId": "computer-science.system-design.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Performance Optimization",
+          "topicId": "computer-science.system-design.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scalability Reviews",
+          "topicId": "computer-science.system-design.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Architecture Documentation",
+          "topicId": "computer-science.system-design.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Design Interviews",
+          "topicId": "computer-science.system-design.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Future-Proofing Systems",
+          "topicId": "computer-science.system-design.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 14: Distributed Systems**",
+          "topicId": "computer-science.system-design.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Distributed System Fundamentals",
+          "topicId": "computer-science.system-design.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Distributed Communication",
+          "topicId": "computer-science.system-design.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Time & Ordering",
+          "topicId": "computer-science.system-design.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Replication",
+          "topicId": "computer-science.system-design.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Consensus",
+          "topicId": "computer-science.system-design.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Distributed Transactions",
+          "topicId": "computer-science.system-design.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Fault Tolerance",
+          "topicId": "computer-science.system-design.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Distributed File Systems",
+          "topicId": "computer-science.system-design.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Stream Processing",
+          "topicId": "computer-science.system-design.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Distributed Databases",
+          "topicId": "computer-science.system-design.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Cloud-Native Systems",
+          "topicId": "computer-science.system-design.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Large-Scale Distributed Architectures",
+          "topicId": "computer-science.system-design.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

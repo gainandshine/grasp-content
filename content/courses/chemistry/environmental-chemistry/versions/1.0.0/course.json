@@ -4,10 +4,524 @@
   "description": "This course studies **the chemistry of Earth's environment**, including the atmosphere, water, soil, pollution, climate change, and sustainable chemical practices. It connects chemistry with ecology, public health, and environmental engineering.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Environmental Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Environmental Chemistry?",
+          "topicId": "chemistry.environmental-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Earth's Environmental Systems",
+          "topicId": "chemistry.environmental-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Natural vs Anthropogenic Processes",
+          "topicId": "chemistry.environmental-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Monitoring",
+          "topicId": "chemistry.environmental-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Environmental Regulations",
+          "topicId": "chemistry.environmental-chemistry.chapter-01.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Atmospheric Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Composition of the Atmosphere",
+          "topicId": "chemistry.environmental-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Atmospheric Layers",
+          "topicId": "chemistry.environmental-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Oxygen Cycle",
+          "topicId": "chemistry.environmental-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carbon Cycle",
+          "topicId": "chemistry.environmental-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nitrogen Cycle",
+          "topicId": "chemistry.environmental-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Atmospheric Reactions",
+          "topicId": "chemistry.environmental-chemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Photochemical Reactions",
+          "topicId": "chemistry.environmental-chemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Air Pollution",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Air Pollutants",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Particulate Matter",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Carbon Monoxide",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sulfur Oxides",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nitrogen Oxides",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Volatile Organic Compounds (VOCs)",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ozone Pollution",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Smog",
+          "topicId": "chemistry.environmental-chemistry.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Climate Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Greenhouse Effect",
+          "topicId": "chemistry.environmental-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Greenhouse Gases",
+          "topicId": "chemistry.environmental-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Global Warming",
+          "topicId": "chemistry.environmental-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carbon Footprint",
+          "topicId": "chemistry.environmental-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon Sequestration",
+          "topicId": "chemistry.environmental-chemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Climate Feedback Mechanisms",
+          "topicId": "chemistry.environmental-chemistry.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Water Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Water Quality",
+          "topicId": "chemistry.environmental-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Water Hardness",
+          "topicId": "chemistry.environmental-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dissolved Oxygen",
+          "topicId": "chemistry.environmental-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "pH of Water",
+          "topicId": "chemistry.environmental-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Salinity",
+          "topicId": "chemistry.environmental-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Water Pollutants",
+          "topicId": "chemistry.environmental-chemistry.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Eutrophication",
+          "topicId": "chemistry.environmental-chemistry.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Water Treatment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coagulation",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Flocculation",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Filtration",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Disinfection",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Chlorination",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ozonation",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Reverse Osmosis",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Desalination",
+          "topicId": "chemistry.environmental-chemistry.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Soil Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Soil Composition",
+          "topicId": "chemistry.environmental-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Soil pH",
+          "topicId": "chemistry.environmental-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Soil Nutrients",
+          "topicId": "chemistry.environmental-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Soil Contamination",
+          "topicId": "chemistry.environmental-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Heavy Metals",
+          "topicId": "chemistry.environmental-chemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fertilizers",
+          "topicId": "chemistry.environmental-chemistry.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Pesticides",
+          "topicId": "chemistry.environmental-chemistry.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Waste Management",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Solid Waste",
+          "topicId": "chemistry.environmental-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hazardous Waste",
+          "topicId": "chemistry.environmental-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biomedical Waste",
+          "topicId": "chemistry.environmental-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electronic Waste",
+          "topicId": "chemistry.environmental-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recycling",
+          "topicId": "chemistry.environmental-chemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Composting",
+          "topicId": "chemistry.environmental-chemistry.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Incineration",
+          "topicId": "chemistry.environmental-chemistry.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Environmental Toxicology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Toxic Chemicals",
+          "topicId": "chemistry.environmental-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heavy Metal Toxicity",
+          "topicId": "chemistry.environmental-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Persistent Organic Pollutants (POPs)",
+          "topicId": "chemistry.environmental-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bioaccumulation",
+          "topicId": "chemistry.environmental-chemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biomagnification",
+          "topicId": "chemistry.environmental-chemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Risk Assessment",
+          "topicId": "chemistry.environmental-chemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Green Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Principles of Green Chemistry",
+          "topicId": "chemistry.environmental-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Atom Economy",
+          "topicId": "chemistry.environmental-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Renewable Feedstocks",
+          "topicId": "chemistry.environmental-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Safer Solvents",
+          "topicId": "chemistry.environmental-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Catalysis",
+          "topicId": "chemistry.environmental-chemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Manufacturing",
+          "topicId": "chemistry.environmental-chemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Environmental Monitoring",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Air Quality Monitoring",
+          "topicId": "chemistry.environmental-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Water Quality Analysis",
+          "topicId": "chemistry.environmental-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Soil Testing",
+          "topicId": "chemistry.environmental-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Remote Sensing",
+          "topicId": "chemistry.environmental-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Environmental Sensors",
+          "topicId": "chemistry.environmental-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "GIS Applications",
+          "topicId": "chemistry.environmental-chemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pollution Control",
+          "topicId": "chemistry.environmental-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Environmental Remediation",
+          "topicId": "chemistry.environmental-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Carbon Capture",
+          "topicId": "chemistry.environmental-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sustainable Agriculture",
+          "topicId": "chemistry.environmental-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Renewable Energy",
+          "topicId": "chemistry.environmental-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Environmental Management",
+          "topicId": "chemistry.environmental-chemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Circular Economy",
+          "topicId": "chemistry.environmental-chemistry.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Environmental Nanotechnology",
+          "topicId": "chemistry.environmental-chemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Microplastics",
+          "topicId": "chemistry.environmental-chemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "PFAS (\"Forever Chemicals\")",
+          "topicId": "chemistry.environmental-chemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ocean Acidification",
+          "topicId": "chemistry.environmental-chemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Atmospheric Aerosols",
+          "topicId": "chemistry.environmental-chemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Environmental Modeling",
+          "topicId": "chemistry.environmental-chemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Climate Engineering",
+          "topicId": "chemistry.environmental-chemistry.chapter-13.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

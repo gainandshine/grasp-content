@@ -4,10 +4,569 @@
   "description": "This course studies **the application of biological systems and living organisms to develop technologies and products** for medicine, agriculture, industry, and environmental science.",
   "version": "1.0.0",
   "domain": "biology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Biotechnology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Biotechnology?",
+          "topicId": "biology.biotechnology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Biotechnology",
+          "topicId": "biology.biotechnology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Branches of Biotechnology",
+          "topicId": "biology.biotechnology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications of Biotechnology",
+          "topicId": "biology.biotechnology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ethics in Biotechnology",
+          "topicId": "biology.biotechnology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biosafety",
+          "topicId": "biology.biotechnology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Recombinant DNA Technology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Recombinant DNA",
+          "topicId": "biology.biotechnology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Restriction Enzymes",
+          "topicId": "biology.biotechnology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "DNA Ligase",
+          "topicId": "biology.biotechnology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cloning Vectors",
+          "topicId": "biology.biotechnology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Plasmids",
+          "topicId": "biology.biotechnology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene Cloning",
+          "topicId": "biology.biotechnology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Transformation",
+          "topicId": "biology.biotechnology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Polymerase Chain Reaction (PCR)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "PCR Principles",
+          "topicId": "biology.biotechnology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DNA Amplification",
+          "topicId": "biology.biotechnology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Primers",
+          "topicId": "biology.biotechnology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "DNA Polymerase",
+          "topicId": "biology.biotechnology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "PCR Cycle",
+          "topicId": "biology.biotechnology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Real-Time PCR (qPCR)",
+          "topicId": "biology.biotechnology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "PCR Applications",
+          "topicId": "biology.biotechnology.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "DNA Sequencing & Genomics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sanger Sequencing",
+          "topicId": "biology.biotechnology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Next-Generation Sequencing (NGS)",
+          "topicId": "biology.biotechnology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Whole Genome Sequencing",
+          "topicId": "biology.biotechnology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Genome Annotation",
+          "topicId": "biology.biotechnology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Comparative Genomics",
+          "topicId": "biology.biotechnology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Personalized Genomics",
+          "topicId": "biology.biotechnology.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Gene Editing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "CRISPR-Cas9",
+          "topicId": "biology.biotechnology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Guide RNA",
+          "topicId": "biology.biotechnology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Genome Editing",
+          "topicId": "biology.biotechnology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Base Editing",
+          "topicId": "biology.biotechnology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Prime Editing",
+          "topicId": "biology.biotechnology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene Therapy",
+          "topicId": "biology.biotechnology.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ethical Considerations",
+          "topicId": "biology.biotechnology.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Cell & Tissue Engineering",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cell Culture",
+          "topicId": "biology.biotechnology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stem Cells",
+          "topicId": "biology.biotechnology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Induced Pluripotent Stem Cells (iPSCs)",
+          "topicId": "biology.biotechnology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tissue Engineering",
+          "topicId": "biology.biotechnology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Organoids",
+          "topicId": "biology.biotechnology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regenerative Medicine",
+          "topicId": "biology.biotechnology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Medical Biotechnology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Biopharmaceuticals",
+          "topicId": "biology.biotechnology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Monoclonal Antibodies",
+          "topicId": "biology.biotechnology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Recombinant Proteins",
+          "topicId": "biology.biotechnology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Vaccine Technology",
+          "topicId": "biology.biotechnology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Molecular Diagnostics",
+          "topicId": "biology.biotechnology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Precision Medicine",
+          "topicId": "biology.biotechnology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Agricultural Biotechnology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Genetically Modified Crops",
+          "topicId": "biology.biotechnology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Plant Tissue Culture",
+          "topicId": "biology.biotechnology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Marker-Assisted Breeding",
+          "topicId": "biology.biotechnology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Biofertilizers",
+          "topicId": "biology.biotechnology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biopesticides",
+          "topicId": "biology.biotechnology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Crop Improvement",
+          "topicId": "biology.biotechnology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Industrial Biotechnology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fermentation Technology",
+          "topicId": "biology.biotechnology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Industrial Enzymes",
+          "topicId": "biology.biotechnology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biofuels",
+          "topicId": "biology.biotechnology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bioplastics",
+          "topicId": "biology.biotechnology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bioprocess Engineering",
+          "topicId": "biology.biotechnology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bioreactors",
+          "topicId": "biology.biotechnology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Environmental Biotechnology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bioremediation",
+          "topicId": "biology.biotechnology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wastewater Treatment",
+          "topicId": "biology.biotechnology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bioleaching",
+          "topicId": "biology.biotechnology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carbon Capture",
+          "topicId": "biology.biotechnology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Environmental Biosensors",
+          "topicId": "biology.biotechnology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Biotechnology",
+          "topicId": "biology.biotechnology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Bioinformatics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Biological Databases",
+          "topicId": "biology.biotechnology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DNA Sequence Analysis",
+          "topicId": "biology.biotechnology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Protein Sequence Analysis",
+          "topicId": "biology.biotechnology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Genome Assembly",
+          "topicId": "biology.biotechnology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Molecular Modeling",
+          "topicId": "biology.biotechnology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI in Biotechnology",
+          "topicId": "biology.biotechnology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Drug Discovery",
+          "topicId": "biology.biotechnology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cancer Therapy",
+          "topicId": "biology.biotechnology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Synthetic Biology",
+          "topicId": "biology.biotechnology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Food Biotechnology",
+          "topicId": "biology.biotechnology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Forensic Biotechnology",
+          "topicId": "biology.biotechnology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Space Biotechnology",
+          "topicId": "biology.biotechnology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Personalized Medicine",
+          "topicId": "biology.biotechnology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Synthetic Biology",
+          "topicId": "biology.biotechnology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Genome Engineering",
+          "topicId": "biology.biotechnology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Xenotransplantation",
+          "topicId": "biology.biotechnology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Lab-Grown Organs",
+          "topicId": "biology.biotechnology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Cells",
+          "topicId": "biology.biotechnology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Biotechnology",
+          "topicId": "biology.biotechnology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 12: Biochemistry**",
+          "topicId": "biology.biotechnology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Water & Biological Molecules",
+          "topicId": "biology.biotechnology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Amino Acids & Proteins",
+          "topicId": "biology.biotechnology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Enzymes",
+          "topicId": "biology.biotechnology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Carbohydrates",
+          "topicId": "biology.biotechnology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Lipids",
+          "topicId": "biology.biotechnology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Nucleic Acids",
+          "topicId": "biology.biotechnology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Metabolism",
+          "topicId": "biology.biotechnology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Cellular Respiration",
+          "topicId": "biology.biotechnology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Photosynthesis",
+          "topicId": "biology.biotechnology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Signal Transduction",
+          "topicId": "biology.biotechnology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Hormones",
+          "topicId": "biology.biotechnology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Molecular Medicine",
+          "topicId": "biology.biotechnology.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Systems Biochemistry",
+          "topicId": "biology.biotechnology.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "biology",

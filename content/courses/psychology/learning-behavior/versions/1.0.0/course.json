@@ -4,10 +4,589 @@
   "description": "This course studies **how humans and animals acquire, modify, and maintain behavior** through experience. It covers the major theories of learning and their practical applications in education, therapy, and everyday life.",
   "version": "1.0.0",
   "domain": "psychology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Learning?",
+          "topicId": "psychology.learning-behavior.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Types of Learning",
+          "topicId": "psychology.learning-behavior.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Learning Processes",
+          "topicId": "psychology.learning-behavior.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Behavior",
+          "topicId": "psychology.learning-behavior.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Learning Theories",
+          "topicId": "psychology.learning-behavior.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications of Learning",
+          "topicId": "psychology.learning-behavior.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Classical Conditioning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ivan Pavlov",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Unconditioned Stimulus (US)",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unconditioned Response (UR)",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conditioned Stimulus (CS)",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Conditioned Response (CR)",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Acquisition",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Extinction",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Generalization",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Discrimination",
+          "topicId": "psychology.learning-behavior.chapter-02.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Operant Conditioning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "B. F. Skinner",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Operant Behavior",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reinforcement",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Punishment",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Positive Reinforcement",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Negative Reinforcement",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Positive Punishment",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Negative Punishment",
+          "topicId": "psychology.learning-behavior.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Reinforcement Schedules",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Continuous Reinforcement",
+          "topicId": "psychology.learning-behavior.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fixed Ratio",
+          "topicId": "psychology.learning-behavior.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Variable Ratio",
+          "topicId": "psychology.learning-behavior.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fixed Interval",
+          "topicId": "psychology.learning-behavior.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Variable Interval",
+          "topicId": "psychology.learning-behavior.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Shaping",
+          "topicId": "psychology.learning-behavior.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Chaining",
+          "topicId": "psychology.learning-behavior.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Observational Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Albert Bandura",
+          "topicId": "psychology.learning-behavior.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Modeling",
+          "topicId": "psychology.learning-behavior.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Imitation",
+          "topicId": "psychology.learning-behavior.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Vicarious Reinforcement",
+          "topicId": "psychology.learning-behavior.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Learning Theory",
+          "topicId": "psychology.learning-behavior.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bobo Doll Experiment",
+          "topicId": "psychology.learning-behavior.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Cognitive Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Insight Learning",
+          "topicId": "psychology.learning-behavior.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Latent Learning",
+          "topicId": "psychology.learning-behavior.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cognitive Maps",
+          "topicId": "psychology.learning-behavior.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Information Processing",
+          "topicId": "psychology.learning-behavior.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Problem Solving",
+          "topicId": "psychology.learning-behavior.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Metacognition",
+          "topicId": "psychology.learning-behavior.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Motivation & Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Intrinsic Motivation",
+          "topicId": "psychology.learning-behavior.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Extrinsic Motivation",
+          "topicId": "psychology.learning-behavior.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Goal Setting",
+          "topicId": "psychology.learning-behavior.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Achievement Motivation",
+          "topicId": "psychology.learning-behavior.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Self-Determination Theory",
+          "topicId": "psychology.learning-behavior.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Expectancy Theory",
+          "topicId": "psychology.learning-behavior.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Memory & Learning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Encoding",
+          "topicId": "psychology.learning-behavior.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Storage",
+          "topicId": "psychology.learning-behavior.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Retrieval",
+          "topicId": "psychology.learning-behavior.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Practice",
+          "topicId": "psychology.learning-behavior.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Spaced Repetition",
+          "topicId": "psychology.learning-behavior.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Transfer of Learning",
+          "topicId": "psychology.learning-behavior.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Forgetting",
+          "topicId": "psychology.learning-behavior.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Habit Formation & Behavior Change",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Habits",
+          "topicId": "psychology.learning-behavior.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Habit Loop",
+          "topicId": "psychology.learning-behavior.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cue",
+          "topicId": "psychology.learning-behavior.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Routine",
+          "topicId": "psychology.learning-behavior.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reward",
+          "topicId": "psychology.learning-behavior.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Self-Control",
+          "topicId": "psychology.learning-behavior.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Behavior Modification",
+          "topicId": "psychology.learning-behavior.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applied Behavior Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Applied Behavior Analysis (ABA)",
+          "topicId": "psychology.learning-behavior.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functional Behavior Assessment",
+          "topicId": "psychology.learning-behavior.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Token Economies",
+          "topicId": "psychology.learning-behavior.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Behavior Intervention Plans",
+          "topicId": "psychology.learning-behavior.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Skill Acquisition",
+          "topicId": "psychology.learning-behavior.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Behavioral Measurement",
+          "topicId": "psychology.learning-behavior.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Learning in Real Life",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Education",
+          "topicId": "psychology.learning-behavior.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Workplace Learning",
+          "topicId": "psychology.learning-behavior.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sports Training",
+          "topicId": "psychology.learning-behavior.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Parenting",
+          "topicId": "psychology.learning-behavior.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Animal Training",
+          "topicId": "psychology.learning-behavior.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Digital Learning",
+          "topicId": "psychology.learning-behavior.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Classroom Instruction",
+          "topicId": "psychology.learning-behavior.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Clinical Therapy",
+          "topicId": "psychology.learning-behavior.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Organizational Training",
+          "topicId": "psychology.learning-behavior.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rehabilitation",
+          "topicId": "psychology.learning-behavior.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Health Behavior",
+          "topicId": "psychology.learning-behavior.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Artificial Intelligence & Reinforcement Learning",
+          "topicId": "psychology.learning-behavior.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Human-Computer Interaction",
+          "topicId": "psychology.learning-behavior.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Lifelong Learning",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Neurobiology of Learning",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Learning Analytics",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Adaptive Learning Systems",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Personalized Education",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Learning Science",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 8: Abnormal Psychology**",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Psychological Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Diagnosis",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Anxiety Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Mood Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Personality Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Schizophrenia Spectrum Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Neurodevelopmental Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Trauma & Stress Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Substance Use Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Eating Disorders",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Prevention & Mental Health",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Modern Classification Systems",
+          "topicId": "psychology.learning-behavior.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "psychology",

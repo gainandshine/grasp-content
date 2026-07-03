@@ -4,10 +4,594 @@
   "description": "This course studies **how organisms interact with each other and their environment**, from individual organisms to the entire biosphere. It explains ecosystems, biodiversity, climate, and conservation.",
   "version": "1.0.0",
   "domain": "biology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Ecology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Ecology?",
+          "topicId": "biology.ecology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Levels of Ecological Organization",
+          "topicId": "biology.ecology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Habitat",
+          "topicId": "biology.ecology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Niche",
+          "topicId": "biology.ecology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biotic Factors",
+          "topicId": "biology.ecology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Abiotic Factors",
+          "topicId": "biology.ecology.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ecosystem Overview",
+          "topicId": "biology.ecology.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Population Ecology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Population",
+          "topicId": "biology.ecology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Population Density",
+          "topicId": "biology.ecology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Population Growth",
+          "topicId": "biology.ecology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carrying Capacity",
+          "topicId": "biology.ecology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Birth Rate",
+          "topicId": "biology.ecology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Death Rate",
+          "topicId": "biology.ecology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Migration",
+          "topicId": "biology.ecology.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Population Dynamics",
+          "topicId": "biology.ecology.chapter-02.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Community Ecology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ecological Communities",
+          "topicId": "biology.ecology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Species Interactions",
+          "topicId": "biology.ecology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Competition",
+          "topicId": "biology.ecology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Predation",
+          "topicId": "biology.ecology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mutualism",
+          "topicId": "biology.ecology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Commensalism",
+          "topicId": "biology.ecology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Parasitism",
+          "topicId": "biology.ecology.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Ecological Succession",
+          "topicId": "biology.ecology.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Ecosystems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ecosystem Structure",
+          "topicId": "biology.ecology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Energy Flow",
+          "topicId": "biology.ecology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Primary Productivity",
+          "topicId": "biology.ecology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Secondary Productivity",
+          "topicId": "biology.ecology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Food Chains",
+          "topicId": "biology.ecology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Food Webs",
+          "topicId": "biology.ecology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ecological Pyramids",
+          "topicId": "biology.ecology.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Biomes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Terrestrial Biomes",
+          "topicId": "biology.ecology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Tropical Rainforest",
+          "topicId": "biology.ecology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Desert",
+          "topicId": "biology.ecology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Grassland",
+          "topicId": "biology.ecology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Temperate Forest",
+          "topicId": "biology.ecology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Taiga",
+          "topicId": "biology.ecology.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Tundra",
+          "topicId": "biology.ecology.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Aquatic Biomes",
+          "topicId": "biology.ecology.chapter-05.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Biodiversity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Species Diversity",
+          "topicId": "biology.ecology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Genetic Diversity",
+          "topicId": "biology.ecology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ecosystem Diversity",
+          "topicId": "biology.ecology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Keystone Species",
+          "topicId": "biology.ecology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Endangered Species",
+          "topicId": "biology.ecology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biodiversity Hotspots",
+          "topicId": "biology.ecology.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Biogeochemical Cycles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Water Cycle",
+          "topicId": "biology.ecology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Carbon Cycle",
+          "topicId": "biology.ecology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nitrogen Cycle",
+          "topicId": "biology.ecology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Phosphorus Cycle",
+          "topicId": "biology.ecology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oxygen Cycle",
+          "topicId": "biology.ecology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nutrient Cycling",
+          "topicId": "biology.ecology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Conservation Biology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conservation Principles",
+          "topicId": "biology.ecology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Habitat Fragmentation",
+          "topicId": "biology.ecology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Wildlife Conservation",
+          "topicId": "biology.ecology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Protected Areas",
+          "topicId": "biology.ecology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ecosystem Restoration",
+          "topicId": "biology.ecology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Resource Management",
+          "topicId": "biology.ecology.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Climate & Global Change",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Climate vs Weather",
+          "topicId": "biology.ecology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Climate Change",
+          "topicId": "biology.ecology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Greenhouse Effect",
+          "topicId": "biology.ecology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Global Warming",
+          "topicId": "biology.ecology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ocean Acidification",
+          "topicId": "biology.ecology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human Impacts on Ecosystems",
+          "topicId": "biology.ecology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Human Ecology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Human Population Growth",
+          "topicId": "biology.ecology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Urban Ecology",
+          "topicId": "biology.ecology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Agriculture",
+          "topicId": "biology.ecology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pollution",
+          "topicId": "biology.ecology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Renewable Resources",
+          "topicId": "biology.ecology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Development",
+          "topicId": "biology.ecology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Environmental Management",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Environmental Monitoring",
+          "topicId": "biology.ecology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ecological Restoration",
+          "topicId": "biology.ecology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Waste Management",
+          "topicId": "biology.ecology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Renewable Energy",
+          "topicId": "biology.ecology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon Footprint",
+          "topicId": "biology.ecology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Environmental Policy",
+          "topicId": "biology.ecology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conservation Planning",
+          "topicId": "biology.ecology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wildlife Management",
+          "topicId": "biology.ecology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fisheries",
+          "topicId": "biology.ecology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Forestry",
+          "topicId": "biology.ecology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Environmental Assessment",
+          "topicId": "biology.ecology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ecotourism",
+          "topicId": "biology.ecology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sustainable Agriculture",
+          "topicId": "biology.ecology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Landscape Ecology",
+          "topicId": "biology.ecology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ecosystem Services",
+          "topicId": "biology.ecology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Invasion Biology",
+          "topicId": "biology.ecology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Disease Ecology",
+          "topicId": "biology.ecology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Restoration Ecology",
+          "topicId": "biology.ecology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Biodiversity Conservation",
+          "topicId": "biology.ecology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 11: Biotechnology**",
+          "topicId": "biology.ecology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Introduction to Biotechnology",
+          "topicId": "biology.ecology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Recombinant DNA Technology",
+          "topicId": "biology.ecology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Genetic Engineering",
+          "topicId": "biology.ecology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "PCR",
+          "topicId": "biology.ecology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "DNA Sequencing",
+          "topicId": "biology.ecology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "CRISPR-Cas9",
+          "topicId": "biology.ecology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Cloning",
+          "topicId": "biology.ecology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Stem Cells",
+          "topicId": "biology.ecology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Tissue Engineering",
+          "topicId": "biology.ecology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Industrial Biotechnology",
+          "topicId": "biology.ecology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Agricultural Biotechnology",
+          "topicId": "biology.ecology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Medical Biotechnology",
+          "topicId": "biology.ecology.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Bioinformatics",
+          "topicId": "biology.ecology.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "biology",

@@ -4,10 +4,430 @@
   "description": "Number Theory",
   "version": "1.0.0",
   "domain": "mathematics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Divisibility",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Divisibility",
+          "topicId": "mathematics.number-theory.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Divisibility Rules",
+          "topicId": "mathematics.number-theory.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Factors",
+          "topicId": "mathematics.number-theory.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multiples",
+          "topicId": "mathematics.number-theory.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Greatest Common Divisor (GCD)",
+          "topicId": "mathematics.number-theory.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Least Common Multiple (LCM)",
+          "topicId": "mathematics.number-theory.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Euclidean Algorithm",
+          "topicId": "mathematics.number-theory.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Extended Euclidean Algorithm",
+          "topicId": "mathematics.number-theory.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Prime Numbers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Prime Numbers",
+          "topicId": "mathematics.number-theory.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Composite Numbers",
+          "topicId": "mathematics.number-theory.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Prime Factorization",
+          "topicId": "mathematics.number-theory.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fundamental Theorem of Arithmetic",
+          "topicId": "mathematics.number-theory.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sieve of Eratosthenes",
+          "topicId": "mathematics.number-theory.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Distribution of Primes (Introduction)",
+          "topicId": "mathematics.number-theory.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Modular Arithmetic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Congruence",
+          "topicId": "mathematics.number-theory.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Modular Operations",
+          "topicId": "mathematics.number-theory.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Modular Addition",
+          "topicId": "mathematics.number-theory.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Modular Subtraction",
+          "topicId": "mathematics.number-theory.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Modular Multiplication",
+          "topicId": "mathematics.number-theory.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Modular Division",
+          "topicId": "mathematics.number-theory.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Modular Inverses",
+          "topicId": "mathematics.number-theory.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Linear Congruences",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Solving Linear Congruences",
+          "topicId": "mathematics.number-theory.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chinese Remainder Theorem",
+          "topicId": "mathematics.number-theory.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Applications",
+          "topicId": "mathematics.number-theory.chapter-04.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Diophantine Equations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linear Diophantine Equations",
+          "topicId": "mathematics.number-theory.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bézout's Identity",
+          "topicId": "mathematics.number-theory.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Integer Solutions",
+          "topicId": "mathematics.number-theory.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "topicId": "mathematics.number-theory.chapter-05.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Arithmetic Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Euler's Totient Function",
+          "topicId": "mathematics.number-theory.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Möbius Function",
+          "topicId": "mathematics.number-theory.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Divisor Function",
+          "topicId": "mathematics.number-theory.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sum of Divisors",
+          "topicId": "mathematics.number-theory.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Multiplicative Functions",
+          "topicId": "mathematics.number-theory.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Fermat & Euler Theorems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fermat's Little Theorem",
+          "topicId": "mathematics.number-theory.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Euler's Theorem",
+          "topicId": "mathematics.number-theory.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Wilson's Theorem",
+          "topicId": "mathematics.number-theory.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "topicId": "mathematics.number-theory.chapter-07.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Quadratic Residues",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Quadratic Congruences",
+          "topicId": "mathematics.number-theory.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Legendre Symbol",
+          "topicId": "mathematics.number-theory.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Jacobi Symbol",
+          "topicId": "mathematics.number-theory.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quadratic Reciprocity",
+          "topicId": "mathematics.number-theory.chapter-08.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Continued Fractions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Continued Fractions",
+          "topicId": "mathematics.number-theory.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rational Approximations",
+          "topicId": "mathematics.number-theory.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Convergents",
+          "topicId": "mathematics.number-theory.chapter-09.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Cryptography",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "RSA Algorithm",
+          "topicId": "mathematics.number-theory.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diffie–Hellman Key Exchange",
+          "topicId": "mathematics.number-theory.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Public-Key Cryptography",
+          "topicId": "mathematics.number-theory.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Digital Signatures",
+          "topicId": "mathematics.number-theory.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hash Functions (Introduction)",
+          "topicId": "mathematics.number-theory.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Special Number Sequences",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fibonacci Numbers",
+          "topicId": "mathematics.number-theory.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lucas Numbers",
+          "topicId": "mathematics.number-theory.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Perfect Numbers",
+          "topicId": "mathematics.number-theory.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mersenne Primes",
+          "topicId": "mathematics.number-theory.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Catalan Numbers (Introduction)",
+          "topicId": "mathematics.number-theory.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Primitive Roots",
+          "topicId": "mathematics.number-theory.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Orders",
+          "topicId": "mathematics.number-theory.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cyclic Groups (Introduction)",
+          "topicId": "mathematics.number-theory.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Finite Fields (Introduction)",
+          "topicId": "mathematics.number-theory.chapter-12.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Analytic Number Theory (Introduction)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Prime Counting Function",
+          "topicId": "mathematics.number-theory.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Riemann Zeta Function (Overview)",
+          "topicId": "mathematics.number-theory.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Distribution of Prime Numbers",
+          "topicId": "mathematics.number-theory.chapter-13.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cryptography",
+          "topicId": "mathematics.number-theory.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Blockchain",
+          "topicId": "mathematics.number-theory.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coding Theory",
+          "topicId": "mathematics.number-theory.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Error-Correcting Codes",
+          "topicId": "mathematics.number-theory.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computer Algorithms",
+          "topicId": "mathematics.number-theory.chapter-14.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Security Systems",
+          "topicId": "mathematics.number-theory.chapter-14.topic-06"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 28,
     "prerequisites": [],
     "tags": [
       "mathematics",

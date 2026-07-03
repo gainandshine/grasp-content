@@ -4,10 +4,594 @@
   "description": "This course studies **how to extract knowledge, insights, and predictions from data** using statistics, programming, machine learning, and visualization.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Data Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Data Science?",
+          "topicId": "computer-science.data-science.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Data Science Workflow",
+          "topicId": "computer-science.data-science.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Types of Data",
+          "topicId": "computer-science.data-science.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Science Lifecycle",
+          "topicId": "computer-science.data-science.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Roles in Data Science",
+          "topicId": "computer-science.data-science.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "computer-science.data-science.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Data Collection",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data Sources",
+          "topicId": "computer-science.data-science.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Databases",
+          "topicId": "computer-science.data-science.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "APIs",
+          "topicId": "computer-science.data-science.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Web Scraping",
+          "topicId": "computer-science.data-science.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Files (CSV, JSON, Excel)",
+          "topicId": "computer-science.data-science.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Streaming Data",
+          "topicId": "computer-science.data-science.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Data Acquisition",
+          "topicId": "computer-science.data-science.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Data Wrangling",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data Cleaning",
+          "topicId": "computer-science.data-science.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Missing Values",
+          "topicId": "computer-science.data-science.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Duplicate Data",
+          "topicId": "computer-science.data-science.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Transformation",
+          "topicId": "computer-science.data-science.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Feature Engineering",
+          "topicId": "computer-science.data-science.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data Integration",
+          "topicId": "computer-science.data-science.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Data Quality",
+          "topicId": "computer-science.data-science.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Exploratory Data Analysis (EDA)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Descriptive Statistics",
+          "topicId": "computer-science.data-science.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Data Distribution",
+          "topicId": "computer-science.data-science.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Correlation",
+          "topicId": "computer-science.data-science.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Outlier Detection",
+          "topicId": "computer-science.data-science.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Data Profiling",
+          "topicId": "computer-science.data-science.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pattern Discovery",
+          "topicId": "computer-science.data-science.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hypothesis Generation",
+          "topicId": "computer-science.data-science.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Statistics for Data Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Probability",
+          "topicId": "computer-science.data-science.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sampling",
+          "topicId": "computer-science.data-science.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Confidence Intervals",
+          "topicId": "computer-science.data-science.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hypothesis Testing",
+          "topicId": "computer-science.data-science.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Regression Analysis",
+          "topicId": "computer-science.data-science.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Statistical Significance",
+          "topicId": "computer-science.data-science.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "A/B Testing",
+          "topicId": "computer-science.data-science.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Data Visualization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Visualization Principles",
+          "topicId": "computer-science.data-science.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bar Charts",
+          "topicId": "computer-science.data-science.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Line Charts",
+          "topicId": "computer-science.data-science.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scatter Plots",
+          "topicId": "computer-science.data-science.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Histograms",
+          "topicId": "computer-science.data-science.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Heatmaps",
+          "topicId": "computer-science.data-science.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Dashboards",
+          "topicId": "computer-science.data-science.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Data Storytelling",
+          "topicId": "computer-science.data-science.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Predictive Analytics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Regression Models",
+          "topicId": "computer-science.data-science.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classification Models",
+          "topicId": "computer-science.data-science.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Time Series Forecasting",
+          "topicId": "computer-science.data-science.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Recommendation Systems",
+          "topicId": "computer-science.data-science.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Forecast Evaluation",
+          "topicId": "computer-science.data-science.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Business Prediction",
+          "topicId": "computer-science.data-science.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Machine Learning for Data Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Supervised Learning",
+          "topicId": "computer-science.data-science.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Unsupervised Learning",
+          "topicId": "computer-science.data-science.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Model Selection",
+          "topicId": "computer-science.data-science.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Feature Selection",
+          "topicId": "computer-science.data-science.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cross Validation",
+          "topicId": "computer-science.data-science.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Model Evaluation",
+          "topicId": "computer-science.data-science.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Big Data",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Big Data Concepts",
+          "topicId": "computer-science.data-science.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Distributed Data Processing",
+          "topicId": "computer-science.data-science.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Data Lakes",
+          "topicId": "computer-science.data-science.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Warehouses",
+          "topicId": "computer-science.data-science.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Batch Processing",
+          "topicId": "computer-science.data-science.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stream Processing",
+          "topicId": "computer-science.data-science.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scalable Analytics",
+          "topicId": "computer-science.data-science.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Business Intelligence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Key Performance Indicators (KPIs)",
+          "topicId": "computer-science.data-science.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Business Metrics",
+          "topicId": "computer-science.data-science.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reporting",
+          "topicId": "computer-science.data-science.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dashboards",
+          "topicId": "computer-science.data-science.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decision Support Systems",
+          "topicId": "computer-science.data-science.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data-Driven Decision Making",
+          "topicId": "computer-science.data-science.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Data Ethics & Governance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data Privacy",
+          "topicId": "computer-science.data-science.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Data Security",
+          "topicId": "computer-science.data-science.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bias in Data",
+          "topicId": "computer-science.data-science.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fairness",
+          "topicId": "computer-science.data-science.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Responsible AI",
+          "topicId": "computer-science.data-science.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data Governance",
+          "topicId": "computer-science.data-science.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Regulatory Compliance",
+          "topicId": "computer-science.data-science.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "End-to-End Data Science Projects",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Problem Definition",
+          "topicId": "computer-science.data-science.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Data Collection",
+          "topicId": "computer-science.data-science.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Data Preparation",
+          "topicId": "computer-science.data-science.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Model Building",
+          "topicId": "computer-science.data-science.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Model Evaluation",
+          "topicId": "computer-science.data-science.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deployment",
+          "topicId": "computer-science.data-science.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Communication of Results",
+          "topicId": "computer-science.data-science.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Finance",
+          "topicId": "computer-science.data-science.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Healthcare",
+          "topicId": "computer-science.data-science.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Marketing",
+          "topicId": "computer-science.data-science.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Retail",
+          "topicId": "computer-science.data-science.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Manufacturing",
+          "topicId": "computer-science.data-science.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sports Analytics",
+          "topicId": "computer-science.data-science.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Research",
+          "topicId": "computer-science.data-science.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 20: Cybersecurity**",
+          "topicId": "computer-science.data-science.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Cybersecurity Fundamentals",
+          "topicId": "computer-science.data-science.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Cryptography",
+          "topicId": "computer-science.data-science.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Network Security",
+          "topicId": "computer-science.data-science.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Application Security",
+          "topicId": "computer-science.data-science.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Identity & Access Management",
+          "topicId": "computer-science.data-science.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Operating System Security",
+          "topicId": "computer-science.data-science.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Cloud Security",
+          "topicId": "computer-science.data-science.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Incident Response",
+          "topicId": "computer-science.data-science.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Digital Forensics",
+          "topicId": "computer-science.data-science.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Ethical Hacking",
+          "topicId": "computer-science.data-science.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Security Operations",
+          "topicId": "computer-science.data-science.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Security Governance",
+          "topicId": "computer-science.data-science.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

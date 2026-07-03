@@ -4,10 +4,376 @@
   "description": "This course studies **repetitive motion** and forms the foundation for **waves, sound, electronics, and quantum mechanics**.",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Oscillations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Periodic Motion",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Oscillatory Motion",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equilibrium Position",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Amplitude",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Time Period",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Frequency",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Angular Frequency",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Phase",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Simple Harmonic Motion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Definition of SHM",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conditions for SHM",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Displacement",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Velocity",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Acceleration",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "SHM Equations",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Phase Relationships",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Spring-Mass Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hooke's Law",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Spring Constant",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Restoring Force",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Horizontal Springs",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Vertical Springs",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Springs in Series",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Springs in Parallel",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Effective Spring Constant",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Pendulums",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Simple Pendulum",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Physical Pendulum",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Compound Pendulum",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Time Period",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Small Angle Approximation",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Energy of a Pendulum",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Energy in SHM",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Kinetic Energy",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Potential Energy",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Total Mechanical Energy",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Exchange",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Graphs",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Damped Oscillations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Damping",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Underdamped Motion",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Critically Damped Motion",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Overdamped Motion",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Damping Coefficient",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Forced Oscillations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "External Driving Force",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Natural Frequency",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Driving Frequency",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Steady-State Motion",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transient Motion",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Resonance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Resonance",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Resonance Curve",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Quality Factor (Q)",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bandwidth",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mechanical Resonance",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electrical Resonance (Introduction)",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Coupled Oscillators",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Coupled Oscillations",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Normal Modes",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Beat Phenomenon",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Transfer",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Clocks",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Vehicle Suspension",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Buildings & Earthquakes",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Musical Instruments",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Vibrations in Machines",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Atomic Vibrations",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Engineering Systems",
+          "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-10.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 20,
     "prerequisites": [],
     "tags": [
       "physics",

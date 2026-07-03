@@ -4,10 +4,603 @@
   "description": "This course introduces the **chemistry of carbon compounds**. Students learn how organic molecules are structured, named, classified, and how they react. It forms the foundation for pharmaceuticals, biochemistry, polymers, and materials science.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Organic Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Organic Chemistry?",
+          "topicId": "chemistry.organic-chemistry-i.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Carbon Atom",
+          "topicId": "chemistry.organic-chemistry-i.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tetravalency of Carbon",
+          "topicId": "chemistry.organic-chemistry-i.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Catenation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Organic Compounds",
+          "topicId": "chemistry.organic-chemistry-i.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Classification of Organic Compounds",
+          "topicId": "chemistry.organic-chemistry-i.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Structure & Bonding",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hybridization of Carbon",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "sp Hybridization",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "sp² Hybridization",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "sp³ Hybridization",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sigma Bonds",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pi Bonds",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Bond Length",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Bond Angle",
+          "topicId": "chemistry.organic-chemistry-i.chapter-02.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Functional Groups",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Functional Groups",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hydrocarbons",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Alcohols",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ethers",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Aldehydes",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ketones",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Carboxylic Acids",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Esters",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Amines",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Amides",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Nitriles",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Haloalkanes",
+          "topicId": "chemistry.organic-chemistry-i.chapter-03.topic-12"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "IUPAC Nomenclature",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Naming Alkanes",
+          "topicId": "chemistry.organic-chemistry-i.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Naming Alkenes",
+          "topicId": "chemistry.organic-chemistry-i.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Naming Alkynes",
+          "topicId": "chemistry.organic-chemistry-i.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Naming Functional Groups",
+          "topicId": "chemistry.organic-chemistry-i.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Branched Chains",
+          "topicId": "chemistry.organic-chemistry-i.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cyclic Compounds",
+          "topicId": "chemistry.organic-chemistry-i.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Aromatic Compounds",
+          "topicId": "chemistry.organic-chemistry-i.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Isomerism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structural Isomerism",
+          "topicId": "chemistry.organic-chemistry-i.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chain Isomerism",
+          "topicId": "chemistry.organic-chemistry-i.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Position Isomerism",
+          "topicId": "chemistry.organic-chemistry-i.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Functional Isomerism",
+          "topicId": "chemistry.organic-chemistry-i.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Geometrical Isomerism",
+          "topicId": "chemistry.organic-chemistry-i.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Optical Isomerism",
+          "topicId": "chemistry.organic-chemistry-i.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Conformational Isomerism",
+          "topicId": "chemistry.organic-chemistry-i.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Stereochemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chirality",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chiral Centers",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Enantiomers",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Diastereomers",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "R/S Configuration",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "E/Z Configuration",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Fischer Projections",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Newman Projections",
+          "topicId": "chemistry.organic-chemistry-i.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Organic Reaction Mechanisms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Homolytic Cleavage",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heterolytic Cleavage",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Free Radicals",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carbocations",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbanions",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electrophiles",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Nucleophiles",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Curved Arrow Notation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-07.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Alkanes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structure of Alkanes",
+          "topicId": "chemistry.organic-chemistry-i.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Physical Properties",
+          "topicId": "chemistry.organic-chemistry-i.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chemical Properties",
+          "topicId": "chemistry.organic-chemistry-i.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Halogenation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Combustion",
+          "topicId": "chemistry.organic-chemistry-i.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cracking",
+          "topicId": "chemistry.organic-chemistry-i.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "topicId": "chemistry.organic-chemistry-i.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Alkenes & Alkynes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structure",
+          "topicId": "chemistry.organic-chemistry-i.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electrophilic Addition",
+          "topicId": "chemistry.organic-chemistry-i.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hydrogenation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hydration",
+          "topicId": "chemistry.organic-chemistry-i.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Halogenation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Polymerization",
+          "topicId": "chemistry.organic-chemistry-i.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Oxidation Reactions",
+          "topicId": "chemistry.organic-chemistry-i.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Aromatic Compounds",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Benzene",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Aromaticity",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Huckel's Rule",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electrophilic Aromatic Substitution",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nitration",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sulfonation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Halogenation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Friedel-Crafts Reactions",
+          "topicId": "chemistry.organic-chemistry-i.chapter-10.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Petroleum",
+          "topicId": "chemistry.organic-chemistry-i.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fuels",
+          "topicId": "chemistry.organic-chemistry-i.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Plastics",
+          "topicId": "chemistry.organic-chemistry-i.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Solvents",
+          "topicId": "chemistry.organic-chemistry-i.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pharmaceuticals",
+          "topicId": "chemistry.organic-chemistry-i.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Food Chemistry",
+          "topicId": "chemistry.organic-chemistry-i.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Agricultural Chemicals",
+          "topicId": "chemistry.organic-chemistry-i.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Resonance",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Inductive Effect",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mesomeric Effect",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hyperconjugation",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Aromatic Stability",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Introduction to Organic Synthesis",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 15: Organic Chemistry II**",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Alcohols",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Phenols",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Ethers",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Aldehydes",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Ketones",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Carboxylic Acids",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Acid Derivatives",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Amines",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Heterocyclic Compounds",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Named Reactions",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Multistep Organic Synthesis",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Spectroscopic Identification (Introduction)",
+          "topicId": "chemistry.organic-chemistry-i.chapter-12.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "chemistry",

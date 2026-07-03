@@ -4,10 +4,478 @@
   "description": "This course explores the structure of atoms, atomic nuclei, radioactivity, nuclear reactions, and the principles behind nuclear energy and radiation.",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Atomic Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Historical Atomic Models",
+          "topicId": "physics.atomic-nuclear-physics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Structure of the Atom",
+          "topicId": "physics.atomic-nuclear-physics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Atomic Number",
+          "topicId": "physics.atomic-nuclear-physics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mass Number",
+          "topicId": "physics.atomic-nuclear-physics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Isotopes",
+          "topicId": "physics.atomic-nuclear-physics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ions",
+          "topicId": "physics.atomic-nuclear-physics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Atomic Mass",
+          "topicId": "physics.atomic-nuclear-physics.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Atomic Spectra",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Emission Spectra",
+          "topicId": "physics.atomic-nuclear-physics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Absorption Spectra",
+          "topicId": "physics.atomic-nuclear-physics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Line Spectra",
+          "topicId": "physics.atomic-nuclear-physics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hydrogen Spectrum",
+          "topicId": "physics.atomic-nuclear-physics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rydberg Formula",
+          "topicId": "physics.atomic-nuclear-physics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Spectroscopic Series",
+          "topicId": "physics.atomic-nuclear-physics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Quantum Numbers & Atomic Orbitals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Principal Quantum Number",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Azimuthal Quantum Number",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Quantum Number",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spin Quantum Number",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Atomic Orbitals",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electron Configuration",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Aufbau Principle",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Hund's Rule",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Pauli Exclusion Principle",
+          "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Multi-Electron Atoms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electron Shielding",
+          "topicId": "physics.atomic-nuclear-physics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Effective Nuclear Charge",
+          "topicId": "physics.atomic-nuclear-physics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Atomic Size",
+          "topicId": "physics.atomic-nuclear-physics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ionization Energy",
+          "topicId": "physics.atomic-nuclear-physics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electron Affinity",
+          "topicId": "physics.atomic-nuclear-physics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Periodic Trends",
+          "topicId": "physics.atomic-nuclear-physics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Atomic Interactions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fine Structure",
+          "topicId": "physics.atomic-nuclear-physics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Zeeman Effect",
+          "topicId": "physics.atomic-nuclear-physics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stark Effect",
+          "topicId": "physics.atomic-nuclear-physics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spin-Orbit Coupling",
+          "topicId": "physics.atomic-nuclear-physics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Selection Rules",
+          "topicId": "physics.atomic-nuclear-physics.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Nuclear Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structure of the Nucleus",
+          "topicId": "physics.atomic-nuclear-physics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nuclear Forces",
+          "topicId": "physics.atomic-nuclear-physics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Binding Energy",
+          "topicId": "physics.atomic-nuclear-physics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mass Defect",
+          "topicId": "physics.atomic-nuclear-physics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nuclear Stability",
+          "topicId": "physics.atomic-nuclear-physics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Liquid Drop Model",
+          "topicId": "physics.atomic-nuclear-physics.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Shell Model (Introduction)",
+          "topicId": "physics.atomic-nuclear-physics.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Radioactivity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Alpha Decay",
+          "topicId": "physics.atomic-nuclear-physics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Beta Decay",
+          "topicId": "physics.atomic-nuclear-physics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gamma Decay",
+          "topicId": "physics.atomic-nuclear-physics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Radioactive Decay Law",
+          "topicId": "physics.atomic-nuclear-physics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Half-Life",
+          "topicId": "physics.atomic-nuclear-physics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decay Chains",
+          "topicId": "physics.atomic-nuclear-physics.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Activity",
+          "topicId": "physics.atomic-nuclear-physics.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Nuclear Reactions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Fission",
+          "topicId": "physics.atomic-nuclear-physics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nuclear Fusion",
+          "topicId": "physics.atomic-nuclear-physics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chain Reactions",
+          "topicId": "physics.atomic-nuclear-physics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Q-Value",
+          "topicId": "physics.atomic-nuclear-physics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Conservation Laws",
+          "topicId": "physics.atomic-nuclear-physics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nuclear Cross Section",
+          "topicId": "physics.atomic-nuclear-physics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Nuclear Reactors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reactor Components",
+          "topicId": "physics.atomic-nuclear-physics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fuel",
+          "topicId": "physics.atomic-nuclear-physics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Moderator",
+          "topicId": "physics.atomic-nuclear-physics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Control Rods",
+          "topicId": "physics.atomic-nuclear-physics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coolant",
+          "topicId": "physics.atomic-nuclear-physics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reactor Types",
+          "topicId": "physics.atomic-nuclear-physics.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Safety Systems",
+          "topicId": "physics.atomic-nuclear-physics.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Radiation Detection",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Geiger-Müller Counter",
+          "topicId": "physics.atomic-nuclear-physics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scintillation Detector",
+          "topicId": "physics.atomic-nuclear-physics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cloud Chamber",
+          "topicId": "physics.atomic-nuclear-physics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bubble Chamber",
+          "topicId": "physics.atomic-nuclear-physics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Semiconductor Detectors",
+          "topicId": "physics.atomic-nuclear-physics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dosimetry",
+          "topicId": "physics.atomic-nuclear-physics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Power Plants",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Medical Imaging",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Radiation Therapy",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "PET Scans",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Carbon Dating",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Radiography",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Food Irradiation",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Space Nuclear Systems",
+          "topicId": "physics.atomic-nuclear-physics.chapter-11.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Astrophysics",
+          "topicId": "physics.atomic-nuclear-physics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stellar Fusion",
+          "topicId": "physics.atomic-nuclear-physics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Neutron Stars",
+          "topicId": "physics.atomic-nuclear-physics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nuclear Waste Management",
+          "topicId": "physics.atomic-nuclear-physics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Controlled Fusion (Introduction)",
+          "topicId": "physics.atomic-nuclear-physics.chapter-12.topic-05"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "physics",

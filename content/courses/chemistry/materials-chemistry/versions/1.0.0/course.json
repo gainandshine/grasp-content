@@ -4,10 +4,564 @@
   "description": "This course studies **how the composition, structure, and bonding of materials determine their properties and applications**. It bridges chemistry, physics, engineering, and nanotechnology.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Materials Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What are Materials?",
+          "topicId": "chemistry.materials-chemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classification of Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Structure–Property Relationships",
+          "topicId": "chemistry.materials-chemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Bonding in Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Material Selection",
+          "topicId": "chemistry.materials-chemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "chemistry.materials-chemistry.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Crystal Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Crystal Lattices",
+          "topicId": "chemistry.materials-chemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Unit Cells",
+          "topicId": "chemistry.materials-chemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Crystal Systems",
+          "topicId": "chemistry.materials-chemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bravais Lattices",
+          "topicId": "chemistry.materials-chemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Crystal Defects",
+          "topicId": "chemistry.materials-chemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Grain Boundaries",
+          "topicId": "chemistry.materials-chemistry.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Amorphous Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Metals & Alloys",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Metallic Bonding",
+          "topicId": "chemistry.materials-chemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pure Metals",
+          "topicId": "chemistry.materials-chemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Alloys",
+          "topicId": "chemistry.materials-chemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Steel",
+          "topicId": "chemistry.materials-chemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stainless Steel",
+          "topicId": "chemistry.materials-chemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Aluminum Alloys",
+          "topicId": "chemistry.materials-chemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Shape Memory Alloys",
+          "topicId": "chemistry.materials-chemistry.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Ceramics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ceramic Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Oxides",
+          "topicId": "chemistry.materials-chemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Carbides",
+          "topicId": "chemistry.materials-chemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nitrides",
+          "topicId": "chemistry.materials-chemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Glasses",
+          "topicId": "chemistry.materials-chemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Refractories",
+          "topicId": "chemistry.materials-chemistry.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Advanced Ceramics",
+          "topicId": "chemistry.materials-chemistry.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Polymers as Materials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Thermoplastics",
+          "topicId": "chemistry.materials-chemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Thermosets",
+          "topicId": "chemistry.materials-chemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Elastomers",
+          "topicId": "chemistry.materials-chemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Polymer Composites",
+          "topicId": "chemistry.materials-chemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Engineering Plastics",
+          "topicId": "chemistry.materials-chemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Polymer Blends",
+          "topicId": "chemistry.materials-chemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Electronic Materials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Semiconductors",
+          "topicId": "chemistry.materials-chemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conductors",
+          "topicId": "chemistry.materials-chemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Insulators",
+          "topicId": "chemistry.materials-chemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dielectrics",
+          "topicId": "chemistry.materials-chemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Piezoelectric Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ferroelectric Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Magnetic Materials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Diamagnetic Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Paramagnetic Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ferromagnetic Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ferrimagnetic Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Soft Magnets",
+          "topicId": "chemistry.materials-chemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hard Magnets",
+          "topicId": "chemistry.materials-chemistry.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Optical Materials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Optical Glass",
+          "topicId": "chemistry.materials-chemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Optical Fibers",
+          "topicId": "chemistry.materials-chemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Photonic Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Luminescent Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Laser Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Transparent Conductors",
+          "topicId": "chemistry.materials-chemistry.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Energy Materials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Battery Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fuel Cell Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Supercapacitor Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Solar Cell Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hydrogen Storage Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Thermoelectric Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Composite Materials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fiber-Reinforced Composites",
+          "topicId": "chemistry.materials-chemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Carbon Fiber Composites",
+          "topicId": "chemistry.materials-chemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ceramic Matrix Composites",
+          "topicId": "chemistry.materials-chemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Metal Matrix Composites",
+          "topicId": "chemistry.materials-chemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nanocomposites",
+          "topicId": "chemistry.materials-chemistry.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Characterization Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "X-Ray Diffraction (XRD)",
+          "topicId": "chemistry.materials-chemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scanning Electron Microscopy (SEM)",
+          "topicId": "chemistry.materials-chemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transmission Electron Microscopy (TEM)",
+          "topicId": "chemistry.materials-chemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Atomic Force Microscopy (AFM)",
+          "topicId": "chemistry.materials-chemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Thermal Analysis",
+          "topicId": "chemistry.materials-chemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mechanical Testing",
+          "topicId": "chemistry.materials-chemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Aerospace Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Biomedical Implants",
+          "topicId": "chemistry.materials-chemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electronic Devices",
+          "topicId": "chemistry.materials-chemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Construction Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Protective Coatings",
+          "topicId": "chemistry.materials-chemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sensors",
+          "topicId": "chemistry.materials-chemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Renewable Energy Systems",
+          "topicId": "chemistry.materials-chemistry.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Smart Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Self-Healing Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biomaterials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Metamaterials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "2D Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quantum Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sustainable Materials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 22: Nanochemistry**",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Fundamentals of Nanoscience",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Nanomaterials",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Nanoparticles",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Carbon Nanotubes",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Graphene",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Quantum Dots",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Nanofabrication",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Self-Assembly",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Nanocatalysts",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Nanomedicine",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Nanoelectronics",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Environmental Nanotechnology",
+          "topicId": "chemistry.materials-chemistry.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

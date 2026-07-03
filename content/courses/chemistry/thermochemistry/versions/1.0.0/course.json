@@ -4,10 +4,488 @@
   "description": "This course studies **how energy changes during chemical reactions**. It is one of the core subjects of physical chemistry and explains why reactions release or absorb heat.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Energy in Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Energy",
+          "topicId": "chemistry.thermochemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "System & Surroundings",
+          "topicId": "chemistry.thermochemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Internal Energy",
+          "topicId": "chemistry.thermochemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Heat",
+          "topicId": "chemistry.thermochemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Work",
+          "topicId": "chemistry.thermochemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "State Functions",
+          "topicId": "chemistry.thermochemistry.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Path Functions",
+          "topicId": "chemistry.thermochemistry.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "First Law of Thermodynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conservation of Energy",
+          "topicId": "chemistry.thermochemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Internal Energy Change (ΔU)",
+          "topicId": "chemistry.thermochemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heat Transfer (q)",
+          "topicId": "chemistry.thermochemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Work Done (w)",
+          "topicId": "chemistry.thermochemistry.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sign Convention",
+          "topicId": "chemistry.thermochemistry.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Energy Balance",
+          "topicId": "chemistry.thermochemistry.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Enthalpy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Enthalpy (H)",
+          "topicId": "chemistry.thermochemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Enthalpy Change (ΔH)",
+          "topicId": "chemistry.thermochemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Exothermic Reactions",
+          "topicId": "chemistry.thermochemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Endothermic Reactions",
+          "topicId": "chemistry.thermochemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Standard Enthalpy",
+          "topicId": "chemistry.thermochemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Thermochemical Equations",
+          "topicId": "chemistry.thermochemistry.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Calorimetry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Calorimeter",
+          "topicId": "chemistry.thermochemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heat Capacity",
+          "topicId": "chemistry.thermochemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Specific Heat Capacity",
+          "topicId": "chemistry.thermochemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bomb Calorimeter",
+          "topicId": "chemistry.thermochemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coffee Cup Calorimeter",
+          "topicId": "chemistry.thermochemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Heat Calculations",
+          "topicId": "chemistry.thermochemistry.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Enthalpy of Reactions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Enthalpy of Formation",
+          "topicId": "chemistry.thermochemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Enthalpy of Combustion",
+          "topicId": "chemistry.thermochemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Enthalpy of Neutralization",
+          "topicId": "chemistry.thermochemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Enthalpy of Solution",
+          "topicId": "chemistry.thermochemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Enthalpy of Atomization",
+          "topicId": "chemistry.thermochemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lattice Enthalpy",
+          "topicId": "chemistry.thermochemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Hess's Law",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hess's Law",
+          "topicId": "chemistry.thermochemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Enthalpy Cycles",
+          "topicId": "chemistry.thermochemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Born-Haber Cycle",
+          "topicId": "chemistry.thermochemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "topicId": "chemistry.thermochemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Indirect Enthalpy Calculations",
+          "topicId": "chemistry.thermochemistry.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Bond Energies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bond Dissociation Energy",
+          "topicId": "chemistry.thermochemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Average Bond Energy",
+          "topicId": "chemistry.thermochemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Calculating Reaction Enthalpy",
+          "topicId": "chemistry.thermochemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bond Strength",
+          "topicId": "chemistry.thermochemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bond Stability",
+          "topicId": "chemistry.thermochemistry.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Entropy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Entropy (S)",
+          "topicId": "chemistry.thermochemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Disorder",
+          "topicId": "chemistry.thermochemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Microstates",
+          "topicId": "chemistry.thermochemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Entropy Change",
+          "topicId": "chemistry.thermochemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Second Law of Thermodynamics",
+          "topicId": "chemistry.thermochemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Factors Affecting Entropy",
+          "topicId": "chemistry.thermochemistry.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Gibbs Free Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gibbs Free Energy (G)",
+          "topicId": "chemistry.thermochemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gibbs Equation",
+          "topicId": "chemistry.thermochemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Spontaneous Processes",
+          "topicId": "chemistry.thermochemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Spontaneous Processes",
+          "topicId": "chemistry.thermochemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Equilibrium & Free Energy",
+          "topicId": "chemistry.thermochemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Temperature Dependence",
+          "topicId": "chemistry.thermochemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Thermodynamic Processes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Isothermal Process",
+          "topicId": "chemistry.thermochemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Adiabatic Process",
+          "topicId": "chemistry.thermochemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Isobaric Process",
+          "topicId": "chemistry.thermochemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Isochoric Process",
+          "topicId": "chemistry.thermochemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reversible Process",
+          "topicId": "chemistry.thermochemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Irreversible Process",
+          "topicId": "chemistry.thermochemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Thermochemistry Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fuel Energy",
+          "topicId": "chemistry.thermochemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Food Calories",
+          "topicId": "chemistry.thermochemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Industrial Chemical Processes",
+          "topicId": "chemistry.thermochemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Batteries",
+          "topicId": "chemistry.thermochemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Combustion Systems",
+          "topicId": "chemistry.thermochemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Environmental Energy",
+          "topicId": "chemistry.thermochemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Third Law of Thermodynamics",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chemical Potential (Introduction)",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Phase Equilibria",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Thermodynamic Stability",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Statistical Thermodynamics (Introduction)",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "*Course 7: Chemical Equilibrium**",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Reversible Reactions",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Dynamic Equilibrium",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Law of Mass Action",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Equilibrium Constant (Kc, Kp)",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Le Chatelier's Principle",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Reaction Quotient (Q)",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Solubility Equilibria",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Common Ion Effect",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Buffer Systems",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Industrial Equilibrium Processes",
+          "topicId": "chemistry.thermochemistry.chapter-12.topic-16"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "chemistry",

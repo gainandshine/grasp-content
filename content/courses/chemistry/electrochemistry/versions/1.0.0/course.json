@@ -4,10 +4,513 @@
   "description": "This course studies **the relationship between chemical reactions and electricity**. It forms the foundation of batteries, fuel cells, electrolysis, corrosion, and modern energy storage.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Electrochemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electrochemistry",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chemical Energy",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrical Energy",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Redox Reactions",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Oxidation",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reduction",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Oxidizing Agents",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Reducing Agents",
+          "topicId": "chemistry.electrochemistry.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Oxidation Numbers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Oxidation Number",
+          "topicId": "chemistry.electrochemistry.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rules for Assigning Oxidation Numbers",
+          "topicId": "chemistry.electrochemistry.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Identifying Oxidation & Reduction",
+          "topicId": "chemistry.electrochemistry.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Balancing Redox Reactions",
+          "topicId": "chemistry.electrochemistry.chapter-02.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Electrochemical Cells",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electrochemical Cell",
+          "topicId": "chemistry.electrochemistry.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cell Components",
+          "topicId": "chemistry.electrochemistry.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Anode",
+          "topicId": "chemistry.electrochemistry.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cathode",
+          "topicId": "chemistry.electrochemistry.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Salt Bridge",
+          "topicId": "chemistry.electrochemistry.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cell Notation",
+          "topicId": "chemistry.electrochemistry.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cell Potential",
+          "topicId": "chemistry.electrochemistry.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Galvanic (Voltaic) Cells",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Galvanic Cells",
+          "topicId": "chemistry.electrochemistry.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Daniell Cell",
+          "topicId": "chemistry.electrochemistry.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electron Flow",
+          "topicId": "chemistry.electrochemistry.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ion Movement",
+          "topicId": "chemistry.electrochemistry.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cell Reactions",
+          "topicId": "chemistry.electrochemistry.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "chemistry.electrochemistry.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Standard Electrode Potentials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Standard Hydrogen Electrode",
+          "topicId": "chemistry.electrochemistry.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electrode Potential",
+          "topicId": "chemistry.electrochemistry.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Standard Reduction Potential",
+          "topicId": "chemistry.electrochemistry.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cell EMF",
+          "topicId": "chemistry.electrochemistry.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electrochemical Series",
+          "topicId": "chemistry.electrochemistry.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Predicting Reaction Spontaneity",
+          "topicId": "chemistry.electrochemistry.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Nernst Equation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nernst Equation",
+          "topicId": "chemistry.electrochemistry.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Non-Standard Conditions",
+          "topicId": "chemistry.electrochemistry.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Concentration Cells",
+          "topicId": "chemistry.electrochemistry.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equilibrium Constant & Cell Potential",
+          "topicId": "chemistry.electrochemistry.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Temperature Effects",
+          "topicId": "chemistry.electrochemistry.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Electrolysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electrolytic Cells",
+          "topicId": "chemistry.electrochemistry.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electrolysis Principles",
+          "topicId": "chemistry.electrochemistry.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Faraday's Laws of Electrolysis",
+          "topicId": "chemistry.electrochemistry.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electrolysis of Molten Salts",
+          "topicId": "chemistry.electrochemistry.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electrolysis of Aqueous Solutions",
+          "topicId": "chemistry.electrochemistry.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Electrolysis",
+          "topicId": "chemistry.electrochemistry.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Batteries & Fuel Cells",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Primary Batteries",
+          "topicId": "chemistry.electrochemistry.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Secondary Batteries",
+          "topicId": "chemistry.electrochemistry.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Lead-Acid Battery",
+          "topicId": "chemistry.electrochemistry.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Lithium-Ion Battery",
+          "topicId": "chemistry.electrochemistry.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nickel-Metal Hydride Battery",
+          "topicId": "chemistry.electrochemistry.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fuel Cells",
+          "topicId": "chemistry.electrochemistry.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hydrogen Fuel Cells",
+          "topicId": "chemistry.electrochemistry.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Corrosion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Corrosion",
+          "topicId": "chemistry.electrochemistry.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rusting",
+          "topicId": "chemistry.electrochemistry.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrochemical Corrosion",
+          "topicId": "chemistry.electrochemistry.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Factors Affecting Corrosion",
+          "topicId": "chemistry.electrochemistry.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Corrosion Prevention",
+          "topicId": "chemistry.electrochemistry.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cathodic Protection",
+          "topicId": "chemistry.electrochemistry.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Electrochemical Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electroplating",
+          "topicId": "chemistry.electrochemistry.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electrorefining",
+          "topicId": "chemistry.electrochemistry.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrowinning",
+          "topicId": "chemistry.electrochemistry.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sensors",
+          "topicId": "chemistry.electrochemistry.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biosensors",
+          "topicId": "chemistry.electrochemistry.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electrochemical Analysis",
+          "topicId": "chemistry.electrochemistry.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Industrial Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Metal Extraction",
+          "topicId": "chemistry.electrochemistry.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Water Electrolysis",
+          "topicId": "chemistry.electrochemistry.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Energy Storage",
+          "topicId": "chemistry.electrochemistry.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electric Vehicles",
+          "topicId": "chemistry.electrochemistry.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Renewable Energy",
+          "topicId": "chemistry.electrochemistry.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Industrial Manufacturing",
+          "topicId": "chemistry.electrochemistry.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Solid-State Batteries",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Supercapacitors",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electrochemical Impedance Spectroscopy",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Photoelectrochemistry",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Photosynthesis",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electrochemical CO₂ Reduction",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 10: Chemical Kinetics**",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Reaction Rates",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Rate Laws",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Rate Constants",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Reaction Order",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Molecularity",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Collision Theory",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Transition State Theory",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Activation Energy",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Arrhenius Equation",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Catalysis",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Reaction Mechanisms",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Enzyme Kinetics",
+          "topicId": "chemistry.electrochemistry.chapter-12.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "chemistry",

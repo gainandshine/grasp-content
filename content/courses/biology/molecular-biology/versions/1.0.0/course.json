@@ -4,10 +4,599 @@
   "description": "This course studies **how genetic information is stored, replicated, expressed, and regulated**. It forms the foundation of genetics, biotechnology, genomics, and modern medicine.",
   "version": "1.0.0",
   "domain": "biology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Molecular Biology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Molecular Biology?",
+          "topicId": "biology.molecular-biology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Central Dogma of Molecular Biology",
+          "topicId": "biology.molecular-biology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "DNA",
+          "topicId": "biology.molecular-biology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "RNA",
+          "topicId": "biology.molecular-biology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Proteins",
+          "topicId": "biology.molecular-biology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Flow of Genetic Information",
+          "topicId": "biology.molecular-biology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "DNA Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "DNA Structure",
+          "topicId": "biology.molecular-biology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Double Helix",
+          "topicId": "biology.molecular-biology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nucleotides",
+          "topicId": "biology.molecular-biology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nitrogenous Bases",
+          "topicId": "biology.molecular-biology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sugar-Phosphate Backbone",
+          "topicId": "biology.molecular-biology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Complementary Base Pairing",
+          "topicId": "biology.molecular-biology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Chromatin",
+          "topicId": "biology.molecular-biology.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Chromosomes",
+          "topicId": "biology.molecular-biology.chapter-02.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "DNA Replication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "DNA Replication",
+          "topicId": "biology.molecular-biology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Semiconservative Replication",
+          "topicId": "biology.molecular-biology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Origin of Replication",
+          "topicId": "biology.molecular-biology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "DNA Polymerase",
+          "topicId": "biology.molecular-biology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Helicase",
+          "topicId": "biology.molecular-biology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Primase",
+          "topicId": "biology.molecular-biology.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Ligase",
+          "topicId": "biology.molecular-biology.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Leading & Lagging Strands",
+          "topicId": "biology.molecular-biology.chapter-03.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Okazaki Fragments",
+          "topicId": "biology.molecular-biology.chapter-03.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "RNA & Transcription",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Types of RNA",
+          "topicId": "biology.molecular-biology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Messenger RNA (mRNA)",
+          "topicId": "biology.molecular-biology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transfer RNA (tRNA)",
+          "topicId": "biology.molecular-biology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ribosomal RNA (rRNA)",
+          "topicId": "biology.molecular-biology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "RNA Polymerase",
+          "topicId": "biology.molecular-biology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Transcription",
+          "topicId": "biology.molecular-biology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Promoters",
+          "topicId": "biology.molecular-biology.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Terminators",
+          "topicId": "biology.molecular-biology.chapter-04.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "RNA Processing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Pre-mRNA",
+          "topicId": "biology.molecular-biology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "5' Capping",
+          "topicId": "biology.molecular-biology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Poly-A Tail",
+          "topicId": "biology.molecular-biology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "RNA Splicing",
+          "topicId": "biology.molecular-biology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Introns",
+          "topicId": "biology.molecular-biology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Exons",
+          "topicId": "biology.molecular-biology.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Alternative Splicing",
+          "topicId": "biology.molecular-biology.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Protein Synthesis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Genetic Code",
+          "topicId": "biology.molecular-biology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Codons",
+          "topicId": "biology.molecular-biology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ribosomes",
+          "topicId": "biology.molecular-biology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Translation",
+          "topicId": "biology.molecular-biology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Initiation",
+          "topicId": "biology.molecular-biology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Elongation",
+          "topicId": "biology.molecular-biology.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Termination",
+          "topicId": "biology.molecular-biology.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Protein Folding",
+          "topicId": "biology.molecular-biology.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Gene Regulation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gene Expression",
+          "topicId": "biology.molecular-biology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Operons",
+          "topicId": "biology.molecular-biology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Promoters",
+          "topicId": "biology.molecular-biology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Enhancers",
+          "topicId": "biology.molecular-biology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transcription Factors",
+          "topicId": "biology.molecular-biology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene Silencing",
+          "topicId": "biology.molecular-biology.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Regulatory RNA",
+          "topicId": "biology.molecular-biology.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Mutations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gene Mutations",
+          "topicId": "biology.molecular-biology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Point Mutations",
+          "topicId": "biology.molecular-biology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Insertions",
+          "topicId": "biology.molecular-biology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deletions",
+          "topicId": "biology.molecular-biology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Frameshift Mutations",
+          "topicId": "biology.molecular-biology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Chromosomal Mutations",
+          "topicId": "biology.molecular-biology.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "DNA Repair Mechanisms",
+          "topicId": "biology.molecular-biology.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Recombinant DNA Technology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Restriction Enzymes",
+          "topicId": "biology.molecular-biology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DNA Ligase",
+          "topicId": "biology.molecular-biology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Plasmids",
+          "topicId": "biology.molecular-biology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cloning Vectors",
+          "topicId": "biology.molecular-biology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recombinant DNA",
+          "topicId": "biology.molecular-biology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene Cloning",
+          "topicId": "biology.molecular-biology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Modern Molecular Biology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Polymerase Chain Reaction (PCR)",
+          "topicId": "biology.molecular-biology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DNA Sequencing",
+          "topicId": "biology.molecular-biology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "CRISPR-Cas9",
+          "topicId": "biology.molecular-biology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gene Editing",
+          "topicId": "biology.molecular-biology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Synthetic Genes",
+          "topicId": "biology.molecular-biology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene Therapy",
+          "topicId": "biology.molecular-biology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Epigenetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Epigenetics",
+          "topicId": "biology.molecular-biology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DNA Methylation",
+          "topicId": "biology.molecular-biology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Histone Modification",
+          "topicId": "biology.molecular-biology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chromatin Remodeling",
+          "topicId": "biology.molecular-biology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Epigenetic Inheritance",
+          "topicId": "biology.molecular-biology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Environmental Influences",
+          "topicId": "biology.molecular-biology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Precision Medicine",
+          "topicId": "biology.molecular-biology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Genetic Engineering",
+          "topicId": "biology.molecular-biology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biotechnology",
+          "topicId": "biology.molecular-biology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Forensic DNA Analysis",
+          "topicId": "biology.molecular-biology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Agriculture",
+          "topicId": "biology.molecular-biology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Vaccine Development",
+          "topicId": "biology.molecular-biology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Personalized Medicine",
+          "topicId": "biology.molecular-biology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Genomics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Transcriptomics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proteomics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Coding RNA",
+          "topicId": "biology.molecular-biology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Systems Biology",
+          "topicId": "biology.molecular-biology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Synthetic Biology (Introduction)",
+          "topicId": "biology.molecular-biology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 4: Genetics**",
+          "topicId": "biology.molecular-biology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Mendelian Genetics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Chromosomal Inheritance",
+          "topicId": "biology.molecular-biology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Linkage & Recombination",
+          "topicId": "biology.molecular-biology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Population Genetics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Quantitative Genetics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Human Genetics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Genetic Disorders",
+          "topicId": "biology.molecular-biology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Pedigree Analysis",
+          "topicId": "biology.molecular-biology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Genetic Counseling",
+          "topicId": "biology.molecular-biology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Evolutionary Genetics",
+          "topicId": "biology.molecular-biology.chapter-13.topic-17"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "biology",

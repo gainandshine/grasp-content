@@ -4,10 +4,589 @@
   "description": "This course teaches **how to build mobile applications** for Android and iOS, covering native concepts, cross-platform development, networking, storage, and publishing.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Mobile Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mobile Computing",
+          "topicId": "computer-science.mobile-development.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mobile Operating Systems",
+          "topicId": "computer-science.mobile-development.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Native vs Cross-Platform Development",
+          "topicId": "computer-science.mobile-development.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mobile App Architecture",
+          "topicId": "computer-science.mobile-development.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Development Tools",
+          "topicId": "computer-science.mobile-development.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "App Lifecycle",
+          "topicId": "computer-science.mobile-development.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Mobile UI Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "UI Components",
+          "topicId": "computer-science.mobile-development.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Layouts",
+          "topicId": "computer-science.mobile-development.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Navigation",
+          "topicId": "computer-science.mobile-development.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Responsive Design",
+          "topicId": "computer-science.mobile-development.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Themes",
+          "topicId": "computer-science.mobile-development.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Accessibility",
+          "topicId": "computer-science.mobile-development.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Material Design & Human Interface Guidelines",
+          "topicId": "computer-science.mobile-development.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Programming for Mobile",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Project Structure",
+          "topicId": "computer-science.mobile-development.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "State Management",
+          "topicId": "computer-science.mobile-development.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Event Handling",
+          "topicId": "computer-science.mobile-development.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Forms",
+          "topicId": "computer-science.mobile-development.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Input Validation",
+          "topicId": "computer-science.mobile-development.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Error Handling",
+          "topicId": "computer-science.mobile-development.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "App Configuration",
+          "topicId": "computer-science.mobile-development.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Navigation & User Experience",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Navigation Patterns",
+          "topicId": "computer-science.mobile-development.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Navigation Stack",
+          "topicId": "computer-science.mobile-development.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tabs",
+          "topicId": "computer-science.mobile-development.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Drawers",
+          "topicId": "computer-science.mobile-development.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Deep Linking",
+          "topicId": "computer-science.mobile-development.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "User Experience Principles",
+          "topicId": "computer-science.mobile-development.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Data Storage",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Local Storage",
+          "topicId": "computer-science.mobile-development.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Preferences",
+          "topicId": "computer-science.mobile-development.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "SQLite",
+          "topicId": "computer-science.mobile-development.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Local Databases",
+          "topicId": "computer-science.mobile-development.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "File Storage",
+          "topicId": "computer-science.mobile-development.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Caching",
+          "topicId": "computer-science.mobile-development.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Offline Support",
+          "topicId": "computer-science.mobile-development.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Networking",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "HTTP Requests",
+          "topicId": "computer-science.mobile-development.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "REST APIs",
+          "topicId": "computer-science.mobile-development.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "JSON Parsing",
+          "topicId": "computer-science.mobile-development.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Authentication",
+          "topicId": "computer-science.mobile-development.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "File Uploads",
+          "topicId": "computer-science.mobile-development.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Error Handling",
+          "topicId": "computer-science.mobile-development.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Background Synchronization",
+          "topicId": "computer-science.mobile-development.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Device Features",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Camera",
+          "topicId": "computer-science.mobile-development.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Microphone",
+          "topicId": "computer-science.mobile-development.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "GPS & Location",
+          "topicId": "computer-science.mobile-development.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sensors",
+          "topicId": "computer-science.mobile-development.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Contacts",
+          "topicId": "computer-science.mobile-development.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bluetooth",
+          "topicId": "computer-science.mobile-development.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Biometrics",
+          "topicId": "computer-science.mobile-development.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Notifications & Background Tasks",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Push Notifications",
+          "topicId": "computer-science.mobile-development.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Local Notifications",
+          "topicId": "computer-science.mobile-development.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Background Services",
+          "topicId": "computer-science.mobile-development.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Scheduling Tasks",
+          "topicId": "computer-science.mobile-development.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "App Lifecycle Management",
+          "topicId": "computer-science.mobile-development.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Battery Optimization",
+          "topicId": "computer-science.mobile-development.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Security",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Secure Storage",
+          "topicId": "computer-science.mobile-development.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Authentication",
+          "topicId": "computer-science.mobile-development.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Authorization",
+          "topicId": "computer-science.mobile-development.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Encryption",
+          "topicId": "computer-science.mobile-development.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "API Security",
+          "topicId": "computer-science.mobile-development.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "App Permissions",
+          "topicId": "computer-science.mobile-development.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Secure Coding Practices",
+          "topicId": "computer-science.mobile-development.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Performance Optimization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Memory Management",
+          "topicId": "computer-science.mobile-development.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Battery Optimization",
+          "topicId": "computer-science.mobile-development.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "UI Performance",
+          "topicId": "computer-science.mobile-development.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Network Optimization",
+          "topicId": "computer-science.mobile-development.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Profiling",
+          "topicId": "computer-science.mobile-development.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Debugging",
+          "topicId": "computer-science.mobile-development.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Crash Reporting",
+          "topicId": "computer-science.mobile-development.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Testing & Deployment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Unit Testing",
+          "topicId": "computer-science.mobile-development.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "UI Testing",
+          "topicId": "computer-science.mobile-development.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Device Testing",
+          "topicId": "computer-science.mobile-development.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Beta Testing",
+          "topicId": "computer-science.mobile-development.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "App Store Guidelines",
+          "topicId": "computer-science.mobile-development.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Play Store Publishing",
+          "topicId": "computer-science.mobile-development.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Continuous Delivery",
+          "topicId": "computer-science.mobile-development.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Cross-Platform Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cross-Platform Frameworks",
+          "topicId": "computer-science.mobile-development.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Shared Codebases",
+          "topicId": "computer-science.mobile-development.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Platform-Specific Features",
+          "topicId": "computer-science.mobile-development.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Native Modules",
+          "topicId": "computer-science.mobile-development.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Performance Tradeoffs",
+          "topicId": "computer-science.mobile-development.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Code Organization",
+          "topicId": "computer-science.mobile-development.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Social Media Apps",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "E-Commerce Apps",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Productivity Apps",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fitness Apps",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Maps & Navigation",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Messaging Apps",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Mobile App Project",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 13: System Design**",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "System Design Fundamentals",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Scalability",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Load Balancing",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Caching",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Databases at Scale",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Messaging Systems",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Microservices",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "CAP Theorem",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Consistency Models",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Fault Tolerance",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Monitoring & Observability",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Designing Large-Scale Systems",
+          "topicId": "computer-science.mobile-development.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

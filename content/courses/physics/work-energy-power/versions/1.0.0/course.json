@@ -4,10 +4,341 @@
   "description": "This course teaches how to analyze motion using **energy**, often making problems much simpler than using Newton's laws alone.",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Work",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Definition of Work",
+          "topicId": "physics.work-energy-power.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Work Done by a Constant Force",
+          "topicId": "physics.work-energy-power.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Work Done by a Variable Force",
+          "topicId": "physics.work-energy-power.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Positive, Negative & Zero Work",
+          "topicId": "physics.work-energy-power.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Work Using Dot Product",
+          "topicId": "physics.work-energy-power.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Units of Work",
+          "topicId": "physics.work-energy-power.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Kinetic Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Kinetic Energy",
+          "topicId": "physics.work-energy-power.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Translational Kinetic Energy",
+          "topicId": "physics.work-energy-power.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rotational Kinetic Energy (Introduction)",
+          "topicId": "physics.work-energy-power.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Work-Energy Theorem",
+          "topicId": "physics.work-energy-power.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "topicId": "physics.work-energy-power.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Potential Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Potential Energy",
+          "topicId": "physics.work-energy-power.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gravitational Potential Energy",
+          "topicId": "physics.work-energy-power.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Elastic Potential Energy",
+          "topicId": "physics.work-energy-power.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reference Level",
+          "topicId": "physics.work-energy-power.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Potential Energy Curves",
+          "topicId": "physics.work-energy-power.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Conservative & Non-Conservative Forces",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conservative Forces",
+          "topicId": "physics.work-energy-power.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Non-Conservative Forces",
+          "topicId": "physics.work-energy-power.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Potential Energy Functions",
+          "topicId": "physics.work-energy-power.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Path Independence",
+          "topicId": "physics.work-energy-power.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Examples",
+          "topicId": "physics.work-energy-power.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Conservation of Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mechanical Energy",
+          "topicId": "physics.work-energy-power.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conservation of Mechanical Energy",
+          "topicId": "physics.work-energy-power.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Energy Losses",
+          "topicId": "physics.work-energy-power.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Conversion",
+          "topicId": "physics.work-energy-power.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "topicId": "physics.work-energy-power.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Power",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Power",
+          "topicId": "physics.work-energy-power.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Average Power",
+          "topicId": "physics.work-energy-power.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Instantaneous Power",
+          "topicId": "physics.work-energy-power.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Efficiency",
+          "topicId": "physics.work-energy-power.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Mechanical Efficiency",
+          "topicId": "physics.work-energy-power.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Power in Machines",
+          "topicId": "physics.work-energy-power.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Springs & Elastic Energy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hooke's Law",
+          "topicId": "physics.work-energy-power.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Spring Constant",
+          "topicId": "physics.work-energy-power.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Elastic Potential Energy",
+          "topicId": "physics.work-energy-power.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Springs in Series",
+          "topicId": "physics.work-energy-power.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Springs in Parallel",
+          "topicId": "physics.work-energy-power.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Spring Oscillations (Introduction)",
+          "topicId": "physics.work-energy-power.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Variable Forces",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Variable Force",
+          "topicId": "physics.work-energy-power.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Work from Graphs",
+          "topicId": "physics.work-energy-power.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Work by Integration",
+          "topicId": "physics.work-energy-power.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "topicId": "physics.work-energy-power.chapter-08.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Energy in Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Body Systems",
+          "topicId": "physics.work-energy-power.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Internal Energy",
+          "topicId": "physics.work-energy-power.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "External Work",
+          "topicId": "physics.work-energy-power.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Transfer",
+          "topicId": "physics.work-energy-power.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Accounting",
+          "topicId": "physics.work-energy-power.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Roller Coasters",
+          "topicId": "physics.work-energy-power.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pendulums",
+          "topicId": "physics.work-energy-power.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Springs",
+          "topicId": "physics.work-energy-power.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Falling Objects",
+          "topicId": "physics.work-energy-power.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inclined Planes",
+          "topicId": "physics.work-energy-power.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Engineering Systems",
+          "topicId": "physics.work-energy-power.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sports Physics",
+          "topicId": "physics.work-energy-power.chapter-10.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 20,
     "prerequisites": [],
     "tags": [
       "physics",

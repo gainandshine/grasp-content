@@ -4,10 +4,569 @@
   "description": "This course studies **the principles of correct reasoning and argumentation**. It covers both informal and formal logic, providing the tools to evaluate arguments, identify fallacies, and construct rigorous proofs.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Logic?",
+          "topicId": "philosophy.logic.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logical Reasoning",
+          "topicId": "philosophy.logic.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Statements & Propositions",
+          "topicId": "philosophy.logic.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Arguments",
+          "topicId": "philosophy.logic.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Premises & Conclusions",
+          "topicId": "philosophy.logic.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Validity & Soundness",
+          "topicId": "philosophy.logic.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Informal Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Everyday Arguments",
+          "topicId": "philosophy.logic.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Deductive Arguments",
+          "topicId": "philosophy.logic.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Inductive Arguments",
+          "topicId": "philosophy.logic.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Abductive Reasoning",
+          "topicId": "philosophy.logic.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Argument Evaluation",
+          "topicId": "philosophy.logic.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Critical Thinking",
+          "topicId": "philosophy.logic.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Propositional Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Logical Connectives",
+          "topicId": "philosophy.logic.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Negation",
+          "topicId": "philosophy.logic.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conjunction",
+          "topicId": "philosophy.logic.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Disjunction",
+          "topicId": "philosophy.logic.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Implication",
+          "topicId": "philosophy.logic.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biconditional",
+          "topicId": "philosophy.logic.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Compound Propositions",
+          "topicId": "philosophy.logic.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Truth Tables",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Truth Values",
+          "topicId": "philosophy.logic.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Truth Tables",
+          "topicId": "philosophy.logic.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tautologies",
+          "topicId": "philosophy.logic.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Contradictions",
+          "topicId": "philosophy.logic.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Contingencies",
+          "topicId": "philosophy.logic.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logical Equivalence",
+          "topicId": "philosophy.logic.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Logical Consequence",
+          "topicId": "philosophy.logic.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Predicate Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Predicates",
+          "topicId": "philosophy.logic.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quantifiers",
+          "topicId": "philosophy.logic.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Universal Quantifier",
+          "topicId": "philosophy.logic.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Existential Quantifier",
+          "topicId": "philosophy.logic.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Variables",
+          "topicId": "philosophy.logic.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Domains of Discourse",
+          "topicId": "philosophy.logic.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Logical Expressions",
+          "topicId": "philosophy.logic.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Rules of Inference",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Modus Ponens",
+          "topicId": "philosophy.logic.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Modus Tollens",
+          "topicId": "philosophy.logic.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hypothetical Syllogism",
+          "topicId": "philosophy.logic.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Disjunctive Syllogism",
+          "topicId": "philosophy.logic.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Resolution",
+          "topicId": "philosophy.logic.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Natural Deduction",
+          "topicId": "philosophy.logic.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Proof Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Direct Proof",
+          "topicId": "philosophy.logic.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Proof by Contradiction",
+          "topicId": "philosophy.logic.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proof by Contrapositive",
+          "topicId": "philosophy.logic.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mathematical Induction",
+          "topicId": "philosophy.logic.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Case Analysis",
+          "topicId": "philosophy.logic.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Constructive Proofs",
+          "topicId": "philosophy.logic.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Logical Fallacies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ad Hominem",
+          "topicId": "philosophy.logic.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Straw Man",
+          "topicId": "philosophy.logic.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "False Dilemma",
+          "topicId": "philosophy.logic.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Slippery Slope",
+          "topicId": "philosophy.logic.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Circular Reasoning",
+          "topicId": "philosophy.logic.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hasty Generalization",
+          "topicId": "philosophy.logic.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Appeal to Authority",
+          "topicId": "philosophy.logic.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Modal Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Necessity",
+          "topicId": "philosophy.logic.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Possibility",
+          "topicId": "philosophy.logic.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Possible Worlds",
+          "topicId": "philosophy.logic.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Modal Operators",
+          "topicId": "philosophy.logic.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Temporal Logic",
+          "topicId": "philosophy.logic.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deontic Logic",
+          "topicId": "philosophy.logic.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Computational Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Boolean Algebra",
+          "topicId": "philosophy.logic.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logic Gates",
+          "topicId": "philosophy.logic.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Formal Languages",
+          "topicId": "philosophy.logic.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Automated Reasoning",
+          "topicId": "philosophy.logic.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Logic Programming",
+          "topicId": "philosophy.logic.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Knowledge Representation",
+          "topicId": "philosophy.logic.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Logic in Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Logical Positivism",
+          "topicId": "philosophy.logic.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Paradoxes",
+          "topicId": "philosophy.logic.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Logical Analysis",
+          "topicId": "philosophy.logic.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Philosophy of Logic",
+          "topicId": "philosophy.logic.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Reasoning About Knowledge",
+          "topicId": "philosophy.logic.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logical Limits",
+          "topicId": "philosophy.logic.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mathematics",
+          "topicId": "philosophy.logic.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Computer Science",
+          "topicId": "philosophy.logic.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.logic.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Law",
+          "topicId": "philosophy.logic.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Scientific Reasoning",
+          "topicId": "philosophy.logic.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decision Making",
+          "topicId": "philosophy.logic.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Debate & Argumentation",
+          "topicId": "philosophy.logic.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Set Theory (Introduction)",
+          "topicId": "philosophy.logic.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Model Theory",
+          "topicId": "philosophy.logic.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proof Theory",
+          "topicId": "philosophy.logic.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fuzzy Logic",
+          "topicId": "philosophy.logic.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Non-Classical Logic",
+          "topicId": "philosophy.logic.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Formal Reasoning",
+          "topicId": "philosophy.logic.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 3: Epistemology**",
+          "topicId": "philosophy.logic.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Knowledge",
+          "topicId": "philosophy.logic.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Belief",
+          "topicId": "philosophy.logic.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Truth",
+          "topicId": "philosophy.logic.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Justification",
+          "topicId": "philosophy.logic.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Skepticism",
+          "topicId": "philosophy.logic.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Rationalism",
+          "topicId": "philosophy.logic.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Empiricism",
+          "topicId": "philosophy.logic.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Perception",
+          "topicId": "philosophy.logic.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Testimony",
+          "topicId": "philosophy.logic.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Memory",
+          "topicId": "philosophy.logic.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Scientific Knowledge",
+          "topicId": "philosophy.logic.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Contemporary Epistemology",
+          "topicId": "philosophy.logic.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

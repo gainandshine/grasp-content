@@ -4,10 +4,574 @@
   "description": "This course teaches the **Object-Oriented Programming (OOP)** paradigm, where software is modeled as interacting objects. The concepts apply across Java, C++, C#, Kotlin, Swift, Python, and many modern languages.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to OOP",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Procedural vs Object-Oriented Programming",
+          "topicId": "computer-science.object-oriented-programming.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Objects",
+          "topicId": "computer-science.object-oriented-programming.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Classes",
+          "topicId": "computer-science.object-oriented-programming.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Attributes",
+          "topicId": "computer-science.object-oriented-programming.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Methods",
+          "topicId": "computer-science.object-oriented-programming.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Object Lifecycle",
+          "topicId": "computer-science.object-oriented-programming.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Benefits of OOP",
+          "topicId": "computer-science.object-oriented-programming.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Classes & Objects",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Defining Classes",
+          "topicId": "computer-science.object-oriented-programming.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Creating Objects",
+          "topicId": "computer-science.object-oriented-programming.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Instance Variables",
+          "topicId": "computer-science.object-oriented-programming.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Instance Methods",
+          "topicId": "computer-science.object-oriented-programming.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Object References",
+          "topicId": "computer-science.object-oriented-programming.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Accessing Members",
+          "topicId": "computer-science.object-oriented-programming.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Constructors & Object Initialization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Constructors",
+          "topicId": "computer-science.object-oriented-programming.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Default Constructors",
+          "topicId": "computer-science.object-oriented-programming.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Parameterized Constructors",
+          "topicId": "computer-science.object-oriented-programming.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Constructor Overloading",
+          "topicId": "computer-science.object-oriented-programming.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Object Initialization",
+          "topicId": "computer-science.object-oriented-programming.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Object Destruction (Introduction)",
+          "topicId": "computer-science.object-oriented-programming.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Encapsulation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Encapsulation",
+          "topicId": "computer-science.object-oriented-programming.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Access Modifiers",
+          "topicId": "computer-science.object-oriented-programming.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Getters",
+          "topicId": "computer-science.object-oriented-programming.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Setters",
+          "topicId": "computer-science.object-oriented-programming.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Data Hiding",
+          "topicId": "computer-science.object-oriented-programming.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Properties",
+          "topicId": "computer-science.object-oriented-programming.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Immutable Objects",
+          "topicId": "computer-science.object-oriented-programming.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Inheritance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Inheritance",
+          "topicId": "computer-science.object-oriented-programming.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Base Class",
+          "topicId": "computer-science.object-oriented-programming.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Derived Class",
+          "topicId": "computer-science.object-oriented-programming.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Method Overriding",
+          "topicId": "computer-science.object-oriented-programming.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Constructor Chaining",
+          "topicId": "computer-science.object-oriented-programming.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Multiple Inheritance (Concept)",
+          "topicId": "computer-science.object-oriented-programming.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Composition vs Inheritance",
+          "topicId": "computer-science.object-oriented-programming.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Polymorphism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Compile-Time Polymorphism",
+          "topicId": "computer-science.object-oriented-programming.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Method Overloading",
+          "topicId": "computer-science.object-oriented-programming.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Runtime Polymorphism",
+          "topicId": "computer-science.object-oriented-programming.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dynamic Dispatch",
+          "topicId": "computer-science.object-oriented-programming.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Upcasting",
+          "topicId": "computer-science.object-oriented-programming.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Downcasting",
+          "topicId": "computer-science.object-oriented-programming.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Abstraction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Abstract Classes",
+          "topicId": "computer-science.object-oriented-programming.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Abstract Methods",
+          "topicId": "computer-science.object-oriented-programming.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Interfaces",
+          "topicId": "computer-science.object-oriented-programming.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interface Implementation",
+          "topicId": "computer-science.object-oriented-programming.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Multiple Interfaces",
+          "topicId": "computer-science.object-oriented-programming.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "API Design",
+          "topicId": "computer-science.object-oriented-programming.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Object Relationships",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Association",
+          "topicId": "computer-science.object-oriented-programming.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Aggregation",
+          "topicId": "computer-science.object-oriented-programming.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Composition",
+          "topicId": "computer-science.object-oriented-programming.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dependency",
+          "topicId": "computer-science.object-oriented-programming.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Object Collaboration",
+          "topicId": "computer-science.object-oriented-programming.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "UML Class Diagrams (Introduction)",
+          "topicId": "computer-science.object-oriented-programming.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Exception Handling",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Exceptions",
+          "topicId": "computer-science.object-oriented-programming.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "try-catch",
+          "topicId": "computer-science.object-oriented-programming.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "finally",
+          "topicId": "computer-science.object-oriented-programming.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "throw",
+          "topicId": "computer-science.object-oriented-programming.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Custom Exceptions",
+          "topicId": "computer-science.object-oriented-programming.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Best Practices",
+          "topicId": "computer-science.object-oriented-programming.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Generics & Collections",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Generic Classes",
+          "topicId": "computer-science.object-oriented-programming.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Generic Methods",
+          "topicId": "computer-science.object-oriented-programming.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Type Parameters",
+          "topicId": "computer-science.object-oriented-programming.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Lists",
+          "topicId": "computer-science.object-oriented-programming.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sets",
+          "topicId": "computer-science.object-oriented-programming.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Maps",
+          "topicId": "computer-science.object-oriented-programming.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Iterators",
+          "topicId": "computer-science.object-oriented-programming.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Object-Oriented Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "SOLID Principles (Introduction)",
+          "topicId": "computer-science.object-oriented-programming.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DRY Principle",
+          "topicId": "computer-science.object-oriented-programming.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "KISS Principle",
+          "topicId": "computer-science.object-oriented-programming.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Code Reusability",
+          "topicId": "computer-science.object-oriented-programming.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Design for Maintainability",
+          "topicId": "computer-science.object-oriented-programming.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Introduction to Design Patterns",
+          "topicId": "computer-science.object-oriented-programming.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "File Handling & Serialization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "File Reading",
+          "topicId": "computer-science.object-oriented-programming.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "File Writing",
+          "topicId": "computer-science.object-oriented-programming.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Object Serialization",
+          "topicId": "computer-science.object-oriented-programming.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Object Deserialization",
+          "topicId": "computer-science.object-oriented-programming.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "JSON/XML Basics",
+          "topicId": "computer-science.object-oriented-programming.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Persistent Objects",
+          "topicId": "computer-science.object-oriented-programming.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Banking Systems",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Library Management Systems",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Student Management Systems",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "E-Commerce Models",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "GUI Applications",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Game Objects",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Mini OOP Project",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 4: Data Structures**",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Arrays",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Linked Lists",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Stacks",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Queues",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Deques",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Hash Tables",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Trees",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Binary Search Trees",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Heaps",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Tries",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Graphs",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Union-Find",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-20"
+        },
+        {
+          "id": "topic-21",
+          "name": "Complexity Analysis",
+          "topicId": "computer-science.object-oriented-programming.chapter-13.topic-21"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

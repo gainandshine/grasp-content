@@ -4,10 +4,544 @@
   "description": "This course studies **how multiple computers work together as one system**. It covers communication, coordination, consistency, fault tolerance, and the design of large-scale distributed applications.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Distributed Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Distributed System?",
+          "topicId": "computer-science.distributed-systems.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Characteristics",
+          "topicId": "computer-science.distributed-systems.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Advantages & Challenges",
+          "topicId": "computer-science.distributed-systems.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Distributed System Models",
+          "topicId": "computer-science.distributed-systems.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transparency",
+          "topicId": "computer-science.distributed-systems.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scalability",
+          "topicId": "computer-science.distributed-systems.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Distributed Communication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Remote Procedure Call (RPC)",
+          "topicId": "computer-science.distributed-systems.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Remote Method Invocation (RMI)",
+          "topicId": "computer-science.distributed-systems.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Message Passing",
+          "topicId": "computer-science.distributed-systems.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Publish-Subscribe",
+          "topicId": "computer-science.distributed-systems.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Message Queues",
+          "topicId": "computer-science.distributed-systems.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Event-Driven Communication",
+          "topicId": "computer-science.distributed-systems.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Time & Ordering",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Physical Clocks",
+          "topicId": "computer-science.distributed-systems.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logical Clocks",
+          "topicId": "computer-science.distributed-systems.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Lamport Timestamps",
+          "topicId": "computer-science.distributed-systems.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Vector Clocks",
+          "topicId": "computer-science.distributed-systems.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Event Ordering",
+          "topicId": "computer-science.distributed-systems.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Clock Synchronization",
+          "topicId": "computer-science.distributed-systems.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Replication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data Replication",
+          "topicId": "computer-science.distributed-systems.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Leader-Follower Replication",
+          "topicId": "computer-science.distributed-systems.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Leader Replication",
+          "topicId": "computer-science.distributed-systems.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Leaderless Replication",
+          "topicId": "computer-science.distributed-systems.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Replica Synchronization",
+          "topicId": "computer-science.distributed-systems.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quorum Systems",
+          "topicId": "computer-science.distributed-systems.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Consistency",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Strong Consistency",
+          "topicId": "computer-science.distributed-systems.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Eventual Consistency",
+          "topicId": "computer-science.distributed-systems.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Causal Consistency",
+          "topicId": "computer-science.distributed-systems.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Read/Write Consistency",
+          "topicId": "computer-science.distributed-systems.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "CAP Theorem",
+          "topicId": "computer-science.distributed-systems.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "PACELC Theorem (Introduction)",
+          "topicId": "computer-science.distributed-systems.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Consensus",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Consensus Problem",
+          "topicId": "computer-science.distributed-systems.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Paxos (Concept)",
+          "topicId": "computer-science.distributed-systems.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Raft",
+          "topicId": "computer-science.distributed-systems.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Leader Election",
+          "topicId": "computer-science.distributed-systems.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distributed Coordination",
+          "topicId": "computer-science.distributed-systems.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Consensus Applications",
+          "topicId": "computer-science.distributed-systems.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Distributed Transactions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Two-Phase Commit (2PC)",
+          "topicId": "computer-science.distributed-systems.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Three-Phase Commit (3PC)",
+          "topicId": "computer-science.distributed-systems.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sagas",
+          "topicId": "computer-science.distributed-systems.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Atomicity",
+          "topicId": "computer-science.distributed-systems.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Isolation",
+          "topicId": "computer-science.distributed-systems.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Recovery",
+          "topicId": "computer-science.distributed-systems.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Fault Tolerance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Failure Models",
+          "topicId": "computer-science.distributed-systems.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Redundancy",
+          "topicId": "computer-science.distributed-systems.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heartbeats",
+          "topicId": "computer-science.distributed-systems.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Failover",
+          "topicId": "computer-science.distributed-systems.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Checkpointing",
+          "topicId": "computer-science.distributed-systems.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Self-Healing Systems",
+          "topicId": "computer-science.distributed-systems.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Distributed Storage",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Distributed File Systems",
+          "topicId": "computer-science.distributed-systems.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Object Storage",
+          "topicId": "computer-science.distributed-systems.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Distributed Databases",
+          "topicId": "computer-science.distributed-systems.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Key-Value Stores",
+          "topicId": "computer-science.distributed-systems.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Data Partitioning",
+          "topicId": "computer-science.distributed-systems.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data Recovery",
+          "topicId": "computer-science.distributed-systems.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Stream & Batch Processing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Batch Processing",
+          "topicId": "computer-science.distributed-systems.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stream Processing",
+          "topicId": "computer-science.distributed-systems.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Event Streaming",
+          "topicId": "computer-science.distributed-systems.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Pipelines",
+          "topicId": "computer-science.distributed-systems.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Real-Time Processing",
+          "topicId": "computer-science.distributed-systems.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Distributed Analytics",
+          "topicId": "computer-science.distributed-systems.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Cloud-Native Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cloud Computing",
+          "topicId": "computer-science.distributed-systems.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Containers",
+          "topicId": "computer-science.distributed-systems.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Kubernetes (Introduction)",
+          "topicId": "computer-science.distributed-systems.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Service Mesh",
+          "topicId": "computer-science.distributed-systems.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Serverless Computing",
+          "topicId": "computer-science.distributed-systems.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Elastic Infrastructure",
+          "topicId": "computer-science.distributed-systems.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Large-Scale System Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Search Engines",
+          "topicId": "computer-science.distributed-systems.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Distributed Caching",
+          "topicId": "computer-science.distributed-systems.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Networks",
+          "topicId": "computer-science.distributed-systems.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Content Delivery Networks (CDNs)",
+          "topicId": "computer-science.distributed-systems.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Global Load Balancing",
+          "topicId": "computer-science.distributed-systems.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Geo-Distributed Systems",
+          "topicId": "computer-science.distributed-systems.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Byzantine Fault Tolerance",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Distributed Machine Learning",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Edge Computing",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Peer-to-Peer Systems",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Blockchain Fundamentals",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Distributed Architectures",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 15: Compiler Design**",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Compiler Fundamentals",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Lexical Analysis",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Syntax Analysis",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Parsing",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Semantic Analysis",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Intermediate Code Generation",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Optimization",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Code Generation",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Runtime Systems",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Interpreters",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Just-In-Time (JIT) Compilation",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Modern Compiler Architecture",
+          "topicId": "computer-science.distributed-systems.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

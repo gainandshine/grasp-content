@@ -4,10 +4,478 @@
   "description": "Astrophysics",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Astrophysics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Astrophysics?",
+          "topicId": "physics.astrophysics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scale of the Universe",
+          "topicId": "physics.astrophysics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Astronomical Units",
+          "topicId": "physics.astrophysics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Light-Year",
+          "topicId": "physics.astrophysics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Parsec",
+          "topicId": "physics.astrophysics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Celestial Coordinate Systems",
+          "topicId": "physics.astrophysics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Observational Astronomy",
+          "topicId": "physics.astrophysics.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Telescopes & Observation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Optical Telescopes",
+          "topicId": "physics.astrophysics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Radio Telescopes",
+          "topicId": "physics.astrophysics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Space Telescopes",
+          "topicId": "physics.astrophysics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spectroscopy",
+          "topicId": "physics.astrophysics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Photometry",
+          "topicId": "physics.astrophysics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interferometry",
+          "topicId": "physics.astrophysics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Adaptive Optics",
+          "topicId": "physics.astrophysics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Stellar Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Formation of Stars",
+          "topicId": "physics.astrophysics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hydrostatic Equilibrium",
+          "topicId": "physics.astrophysics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Internal Structure",
+          "topicId": "physics.astrophysics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Energy Transport",
+          "topicId": "physics.astrophysics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Stellar Atmospheres",
+          "topicId": "physics.astrophysics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hertzsprung–Russell Diagram",
+          "topicId": "physics.astrophysics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Stellar Evolution",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Protostars",
+          "topicId": "physics.astrophysics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Main Sequence Stars",
+          "topicId": "physics.astrophysics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Red Giants",
+          "topicId": "physics.astrophysics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "White Dwarfs",
+          "topicId": "physics.astrophysics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Neutron Stars",
+          "topicId": "physics.astrophysics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Black Holes",
+          "topicId": "physics.astrophysics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Supernovae",
+          "topicId": "physics.astrophysics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Nuclear Astrophysics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stellar Nucleosynthesis",
+          "topicId": "physics.astrophysics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Proton-Proton Chain",
+          "topicId": "physics.astrophysics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "CNO Cycle",
+          "topicId": "physics.astrophysics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Triple-Alpha Process",
+          "topicId": "physics.astrophysics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Heavy Element Formation",
+          "topicId": "physics.astrophysics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Supernova Nucleosynthesis",
+          "topicId": "physics.astrophysics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Compact Objects",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "White Dwarfs",
+          "topicId": "physics.astrophysics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chandrasekhar Limit",
+          "topicId": "physics.astrophysics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Neutron Stars",
+          "topicId": "physics.astrophysics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pulsars",
+          "topicId": "physics.astrophysics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Magnetars",
+          "topicId": "physics.astrophysics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Black Holes",
+          "topicId": "physics.astrophysics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Black Hole Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Schwarzschild Black Holes",
+          "topicId": "physics.astrophysics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Kerr Black Holes",
+          "topicId": "physics.astrophysics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Event Horizon",
+          "topicId": "physics.astrophysics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Accretion Disks",
+          "topicId": "physics.astrophysics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hawking Radiation",
+          "topicId": "physics.astrophysics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Black Hole Mergers",
+          "topicId": "physics.astrophysics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Galaxies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Spiral Galaxies",
+          "topicId": "physics.astrophysics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Elliptical Galaxies",
+          "topicId": "physics.astrophysics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Irregular Galaxies",
+          "topicId": "physics.astrophysics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Galaxy Clusters",
+          "topicId": "physics.astrophysics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Active Galactic Nuclei (AGN)",
+          "topicId": "physics.astrophysics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quasars",
+          "topicId": "physics.astrophysics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Interstellar Medium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gas Clouds",
+          "topicId": "physics.astrophysics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dust Clouds",
+          "topicId": "physics.astrophysics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nebulae",
+          "topicId": "physics.astrophysics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Molecular Clouds",
+          "topicId": "physics.astrophysics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Star Formation Regions",
+          "topicId": "physics.astrophysics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cosmic Rays",
+          "topicId": "physics.astrophysics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Exoplanets & Planetary Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Planet Formation",
+          "topicId": "physics.astrophysics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exoplanet Detection",
+          "topicId": "physics.astrophysics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transit Method",
+          "topicId": "physics.astrophysics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Radial Velocity Method",
+          "topicId": "physics.astrophysics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Habitable Zone",
+          "topicId": "physics.astrophysics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Planetary Atmospheres",
+          "topicId": "physics.astrophysics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "High-Energy Astrophysics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gamma-Ray Bursts",
+          "topicId": "physics.astrophysics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "X-Ray Binaries",
+          "topicId": "physics.astrophysics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cosmic Rays",
+          "topicId": "physics.astrophysics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Relativistic Jets",
+          "topicId": "physics.astrophysics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Active Galaxies",
+          "topicId": "physics.astrophysics.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Space Exploration",
+          "topicId": "physics.astrophysics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Satellite Astronomy",
+          "topicId": "physics.astrophysics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gravitational Wave Astronomy",
+          "topicId": "physics.astrophysics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multi-Messenger Astronomy",
+          "topicId": "physics.astrophysics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Space Missions",
+          "topicId": "physics.astrophysics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Astrobiology (Introduction)",
+          "topicId": "physics.astrophysics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "How did the universe begin?",
+          "topicId": "physics.astrophysics.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "What happened during the Big Bang?",
+          "topicId": "physics.astrophysics.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Why is the universe expanding?",
+          "topicId": "physics.astrophysics.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "What are dark matter and dark energy?",
+          "topicId": "physics.astrophysics.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "How might the universe end?",
+          "topicId": "physics.astrophysics.chapter-12.topic-11"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "physics",

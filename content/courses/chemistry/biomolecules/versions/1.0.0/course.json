@@ -4,10 +4,609 @@
   "description": "This course studies the **chemical molecules of life**. It bridges chemistry and biology, explaining the structure, function, and interactions of carbohydrates, proteins, lipids, nucleic acids, enzymes, vitamins, and biomolecular metabolism.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Biomolecules",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What are Biomolecules?",
+          "topicId": "chemistry.biomolecules.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classification of Biomolecules",
+          "topicId": "chemistry.biomolecules.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biological Importance",
+          "topicId": "chemistry.biomolecules.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Composition of Living Organisms",
+          "topicId": "chemistry.biomolecules.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Water in Biological Systems",
+          "topicId": "chemistry.biomolecules.chapter-01.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Carbohydrates",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monosaccharides",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Disaccharides",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Oligosaccharides",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Polysaccharides",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Glucose",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fructose",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sucrose",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Lactose",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Starch",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Glycogen",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Cellulose",
+          "topicId": "chemistry.biomolecules.chapter-02.topic-11"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Lipids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fatty Acids",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Saturated Fats",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unsaturated Fats",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Triglycerides",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Phospholipids",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Steroids",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Waxes",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Biological Functions of Lipids",
+          "topicId": "chemistry.biomolecules.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Amino Acids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Structure of Amino Acids",
+          "topicId": "chemistry.biomolecules.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classification",
+          "topicId": "chemistry.biomolecules.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Essential Amino Acids",
+          "topicId": "chemistry.biomolecules.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Non-Essential Amino Acids",
+          "topicId": "chemistry.biomolecules.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Zwitterions",
+          "topicId": "chemistry.biomolecules.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Isoelectric Point",
+          "topicId": "chemistry.biomolecules.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Proteins",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Peptide Bond",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Protein Structure",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Primary Structure",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Secondary Structure",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Tertiary Structure",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quaternary Structure",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Protein Folding",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Protein Denaturation",
+          "topicId": "chemistry.biomolecules.chapter-05.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Enzymes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Enzyme Structure",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Active Site",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Enzyme Classification",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Enzyme Mechanism",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cofactors",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Coenzymes",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Enzyme Inhibition",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Enzyme Regulation",
+          "topicId": "chemistry.biomolecules.chapter-06.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Nucleic Acids",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nucleotides",
+          "topicId": "chemistry.biomolecules.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "DNA Structure",
+          "topicId": "chemistry.biomolecules.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "RNA Structure",
+          "topicId": "chemistry.biomolecules.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "DNA Replication",
+          "topicId": "chemistry.biomolecules.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transcription",
+          "topicId": "chemistry.biomolecules.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Translation",
+          "topicId": "chemistry.biomolecules.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Genetic Code",
+          "topicId": "chemistry.biomolecules.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Vitamins & Cofactors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fat-Soluble Vitamins",
+          "topicId": "chemistry.biomolecules.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Water-Soluble Vitamins",
+          "topicId": "chemistry.biomolecules.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Vitamin Deficiency Diseases",
+          "topicId": "chemistry.biomolecules.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coenzymes",
+          "topicId": "chemistry.biomolecules.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biological Roles",
+          "topicId": "chemistry.biomolecules.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Hormones & Biomolecular Signaling",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Peptide Hormones",
+          "topicId": "chemistry.biomolecules.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Steroid Hormones",
+          "topicId": "chemistry.biomolecules.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cell Signaling",
+          "topicId": "chemistry.biomolecules.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Receptors",
+          "topicId": "chemistry.biomolecules.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Second Messengers",
+          "topicId": "chemistry.biomolecules.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Signal Transduction",
+          "topicId": "chemistry.biomolecules.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Metabolism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Metabolism",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Catabolism",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Anabolism",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "ATP",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Glycolysis",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Citric Acid Cycle",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Oxidative Phosphorylation",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Photosynthesis (Introduction)",
+          "topicId": "chemistry.biomolecules.chapter-10.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Biomolecular Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chromatography",
+          "topicId": "chemistry.biomolecules.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electrophoresis",
+          "topicId": "chemistry.biomolecules.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Centrifugation",
+          "topicId": "chemistry.biomolecules.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "PCR (Introduction)",
+          "topicId": "chemistry.biomolecules.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "DNA Sequencing (Introduction)",
+          "topicId": "chemistry.biomolecules.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "ELISA (Introduction)",
+          "topicId": "chemistry.biomolecules.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Medicine",
+          "topicId": "chemistry.biomolecules.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Biotechnology",
+          "topicId": "chemistry.biomolecules.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nutrition",
+          "topicId": "chemistry.biomolecules.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Drug Discovery",
+          "topicId": "chemistry.biomolecules.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Genetic Engineering",
+          "topicId": "chemistry.biomolecules.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Diagnostics",
+          "topicId": "chemistry.biomolecules.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Agriculture",
+          "topicId": "chemistry.biomolecules.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Protein Engineering",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Synthetic Biology (Introduction)",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proteomics",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Genomics",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Metabolomics",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Systems Biology (Introduction)",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 17: Polymers**",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Polymer Fundamentals",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Polymerization Mechanisms",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Addition Polymers",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Condensation Polymers",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Copolymers",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Biopolymers",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Polymer Properties",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Polymer Processing",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Smart Polymers",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Conductive Polymers",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Biodegradable Polymers",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Industrial Applications",
+          "topicId": "chemistry.biomolecules.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

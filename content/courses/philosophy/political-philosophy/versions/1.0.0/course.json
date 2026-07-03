@@ -4,10 +4,549 @@
   "description": "This course studies **the philosophical foundations of politics, government, law, and society**. It explores questions about justice, liberty, equality, rights, authority, and the ideal political order.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Political Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Political Philosophy?",
+          "topicId": "philosophy.political-philosophy.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Politics & Philosophy",
+          "topicId": "philosophy.political-philosophy.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "The State",
+          "topicId": "philosophy.political-philosophy.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Government",
+          "topicId": "philosophy.political-philosophy.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Political Authority",
+          "topicId": "philosophy.political-philosophy.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Political Obligation",
+          "topicId": "philosophy.political-philosophy.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Justice",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Justice",
+          "topicId": "philosophy.political-philosophy.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Distributive Justice",
+          "topicId": "philosophy.political-philosophy.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Retributive Justice",
+          "topicId": "philosophy.political-philosophy.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Procedural Justice",
+          "topicId": "philosophy.political-philosophy.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Justice",
+          "topicId": "philosophy.political-philosophy.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fairness",
+          "topicId": "philosophy.political-philosophy.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Liberty & Equality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Negative Liberty",
+          "topicId": "philosophy.political-philosophy.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Positive Liberty",
+          "topicId": "philosophy.political-philosophy.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equality of Opportunity",
+          "topicId": "philosophy.political-philosophy.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equality of Outcome",
+          "topicId": "philosophy.political-philosophy.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Freedom",
+          "topicId": "philosophy.political-philosophy.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human Dignity",
+          "topicId": "philosophy.political-philosophy.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Rights",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Natural Rights",
+          "topicId": "philosophy.political-philosophy.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Human Rights",
+          "topicId": "philosophy.political-philosophy.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Civil Rights",
+          "topicId": "philosophy.political-philosophy.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Political Rights",
+          "topicId": "philosophy.political-philosophy.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Property Rights",
+          "topicId": "philosophy.political-philosophy.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Collective Rights",
+          "topicId": "philosophy.political-philosophy.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Democracy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Democracy",
+          "topicId": "philosophy.political-philosophy.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Direct Democracy",
+          "topicId": "philosophy.political-philosophy.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Representative Democracy",
+          "topicId": "philosophy.political-philosophy.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rule of Law",
+          "topicId": "philosophy.political-philosophy.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Separation of Powers",
+          "topicId": "philosophy.political-philosophy.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Constitutional Government",
+          "topicId": "philosophy.political-philosophy.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Authority & Legitimacy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Political Authority",
+          "topicId": "philosophy.political-philosophy.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Legitimacy",
+          "topicId": "philosophy.political-philosophy.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Consent of the Governed",
+          "topicId": "philosophy.political-philosophy.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sovereignty",
+          "topicId": "philosophy.political-philosophy.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Civil Disobedience",
+          "topicId": "philosophy.political-philosophy.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Revolution",
+          "topicId": "philosophy.political-philosophy.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Social Contract Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Thomas Hobbes",
+          "topicId": "philosophy.political-philosophy.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "John Locke",
+          "topicId": "philosophy.political-philosophy.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Jean-Jacques Rousseau",
+          "topicId": "philosophy.political-philosophy.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "State of Nature",
+          "topicId": "philosophy.political-philosophy.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Contract",
+          "topicId": "philosophy.political-philosophy.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Modern Contract Theory",
+          "topicId": "philosophy.political-philosophy.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Political Ideologies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Liberalism",
+          "topicId": "philosophy.political-philosophy.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Conservatism",
+          "topicId": "philosophy.political-philosophy.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Socialism",
+          "topicId": "philosophy.political-philosophy.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Libertarianism",
+          "topicId": "philosophy.political-philosophy.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nationalism",
+          "topicId": "philosophy.political-philosophy.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Anarchism",
+          "topicId": "philosophy.political-philosophy.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Law & Punishment",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophy of Law",
+          "topicId": "philosophy.political-philosophy.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Legal Positivism",
+          "topicId": "philosophy.political-philosophy.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Natural Law",
+          "topicId": "philosophy.political-philosophy.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Justice System",
+          "topicId": "philosophy.political-philosophy.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Punishment",
+          "topicId": "philosophy.political-philosophy.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Rights & Responsibilities",
+          "topicId": "philosophy.political-philosophy.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Citizenship & Civil Society",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Citizenship",
+          "topicId": "philosophy.political-philosophy.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Civic Responsibility",
+          "topicId": "philosophy.political-philosophy.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Political Participation",
+          "topicId": "philosophy.political-philosophy.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Public Reason",
+          "topicId": "philosophy.political-philosophy.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Civil Society",
+          "topicId": "philosophy.political-philosophy.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Civic Virtue",
+          "topicId": "philosophy.political-philosophy.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Global Political Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Global Justice",
+          "topicId": "philosophy.political-philosophy.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Humanitarian Intervention",
+          "topicId": "philosophy.political-philosophy.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "International Law",
+          "topicId": "philosophy.political-philosophy.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cosmopolitanism",
+          "topicId": "philosophy.political-philosophy.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "National Sovereignty",
+          "topicId": "philosophy.political-philosophy.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Governance",
+          "topicId": "philosophy.political-philosophy.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Public Policy",
+          "topicId": "philosophy.political-philosophy.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Human Rights",
+          "topicId": "philosophy.political-philosophy.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Democracy & Elections",
+          "topicId": "philosophy.political-philosophy.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Digital Governance",
+          "topicId": "philosophy.political-philosophy.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "AI Governance",
+          "topicId": "philosophy.political-philosophy.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Environmental Politics",
+          "topicId": "philosophy.political-philosophy.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "International Relations",
+          "topicId": "philosophy.political-philosophy.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Feminist Political Philosophy",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multiculturalism",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Deliberative Democracy",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Political Realism",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Future of Democracy",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Political Philosophy in the AI Era",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 7: Philosophy of Mind**",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Consciousness",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Mind-Body Problem",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Personal Identity",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Free Will",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Intentionality",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Mental Representation",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Qualia",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Cognitive Science",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Philosophy of Neuroscience",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Self",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Machine Consciousness",
+          "topicId": "philosophy.political-philosophy.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

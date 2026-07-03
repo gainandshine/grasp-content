@@ -4,10 +4,463 @@
   "description": "Complex Analysis",
   "version": "1.0.0",
   "domain": "mathematics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Complex Numbers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Complex Plane",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Algebra of Complex Numbers",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conjugates",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Modulus",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Argument",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Polar Form",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Euler's Formula",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Roots of Complex Numbers",
+          "topicId": "mathematics.complex-analysis.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Complex Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Functions of a Complex Variable",
+          "topicId": "mathematics.complex-analysis.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Limits",
+          "topicId": "mathematics.complex-analysis.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Continuity",
+          "topicId": "mathematics.complex-analysis.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Complex Mappings",
+          "topicId": "mathematics.complex-analysis.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Branches & Branch Cuts (Introduction)",
+          "topicId": "mathematics.complex-analysis.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Complex Differentiation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Complex Derivative",
+          "topicId": "mathematics.complex-analysis.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Analytic Functions",
+          "topicId": "mathematics.complex-analysis.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Holomorphic Functions",
+          "topicId": "mathematics.complex-analysis.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cauchy-Riemann Equations",
+          "topicId": "mathematics.complex-analysis.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Harmonic Functions",
+          "topicId": "mathematics.complex-analysis.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Elementary Complex Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Exponential Function",
+          "topicId": "mathematics.complex-analysis.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logarithmic Function",
+          "topicId": "mathematics.complex-analysis.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Trigonometric Functions",
+          "topicId": "mathematics.complex-analysis.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hyperbolic Functions",
+          "topicId": "mathematics.complex-analysis.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inverse Functions",
+          "topicId": "mathematics.complex-analysis.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Complex Integration",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Contours",
+          "topicId": "mathematics.complex-analysis.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Line Integrals",
+          "topicId": "mathematics.complex-analysis.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Path Independence",
+          "topicId": "mathematics.complex-analysis.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Antiderivatives",
+          "topicId": "mathematics.complex-analysis.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cauchy's Integral Theorem",
+          "topicId": "mathematics.complex-analysis.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Cauchy's Integral Formula",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cauchy's Formula",
+          "topicId": "mathematics.complex-analysis.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Higher-Order Derivatives",
+          "topicId": "mathematics.complex-analysis.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Consequences of Cauchy's Formula",
+          "topicId": "mathematics.complex-analysis.chapter-06.topic-03"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Taylor & Laurent Series",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Taylor Series",
+          "topicId": "mathematics.complex-analysis.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Laurent Series",
+          "topicId": "mathematics.complex-analysis.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Radius of Convergence",
+          "topicId": "mathematics.complex-analysis.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Singularities",
+          "topicId": "mathematics.complex-analysis.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Classification of Singularities",
+          "topicId": "mathematics.complex-analysis.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Residue Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Residues",
+          "topicId": "mathematics.complex-analysis.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Residue Theorem",
+          "topicId": "mathematics.complex-analysis.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Evaluating Real Integrals",
+          "topicId": "mathematics.complex-analysis.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Contour Integration",
+          "topicId": "mathematics.complex-analysis.chapter-08.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Conformal Mapping",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conformal Maps",
+          "topicId": "mathematics.complex-analysis.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Möbius Transformations",
+          "topicId": "mathematics.complex-analysis.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bilinear Transformations",
+          "topicId": "mathematics.complex-analysis.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Applications",
+          "topicId": "mathematics.complex-analysis.chapter-09.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Infinite Products & Analytic Continuation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Infinite Products",
+          "topicId": "mathematics.complex-analysis.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gamma Function (Introduction)",
+          "topicId": "mathematics.complex-analysis.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Analytic Continuation",
+          "topicId": "mathematics.complex-analysis.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Riemann Surface (Introduction)",
+          "topicId": "mathematics.complex-analysis.chapter-10.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fourier Transform",
+          "topicId": "mathematics.complex-analysis.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Laplace Transform",
+          "topicId": "mathematics.complex-analysis.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fluid Flow",
+          "topicId": "mathematics.complex-analysis.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Electromagnetic Fields",
+          "topicId": "mathematics.complex-analysis.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantum Mechanics",
+          "topicId": "mathematics.complex-analysis.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Signal Processing",
+          "topicId": "mathematics.complex-analysis.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Control Systems",
+          "topicId": "mathematics.complex-analysis.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Maximum Modulus Principle",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Liouville's Theorem",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Schwarz Lemma",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Argument Principle",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rouché's Theorem",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Open Mapping Theorem",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Topology",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Measure Theory",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Functional Analysis",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Differential Geometry",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Numerical Analysis",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Optimization",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Dynamical Systems",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Mathematical Logic",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Category Theory",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Algebraic Topology",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Algebraic Geometry",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Lie Groups & Lie Algebras",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Stochastic Processes",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Information Theory",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-20"
+        },
+        {
+          "id": "topic-21",
+          "name": "Operations Research",
+          "topicId": "mathematics.complex-analysis.chapter-12.topic-21"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "mathematics",

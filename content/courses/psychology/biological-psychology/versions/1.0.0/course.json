@@ -4,10 +4,584 @@
   "description": "This course studies **the biological basis of behavior**, exploring how the brain, nervous system, hormones, and genetics influence thoughts, emotions, learning, and behavior.",
   "version": "1.0.0",
   "domain": "psychology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Biological Psychology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Biological Psychology?",
+          "topicId": "psychology.biological-psychology.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Brain-Behavior Relationship",
+          "topicId": "psychology.biological-psychology.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Levels of Biological Organization",
+          "topicId": "psychology.biological-psychology.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nature vs Nurture",
+          "topicId": "psychology.biological-psychology.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Research Methods",
+          "topicId": "psychology.biological-psychology.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "psychology.biological-psychology.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Neurons & Neural Communication",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Neurons",
+          "topicId": "psychology.biological-psychology.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Glial Cells",
+          "topicId": "psychology.biological-psychology.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Resting Membrane Potential",
+          "topicId": "psychology.biological-psychology.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Action Potential",
+          "topicId": "psychology.biological-psychology.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Synaptic Transmission",
+          "topicId": "psychology.biological-psychology.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Neurotransmitters",
+          "topicId": "psychology.biological-psychology.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Neural Networks",
+          "topicId": "psychology.biological-psychology.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Nervous System",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Central Nervous System",
+          "topicId": "psychology.biological-psychology.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Peripheral Nervous System",
+          "topicId": "psychology.biological-psychology.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Somatic Nervous System",
+          "topicId": "psychology.biological-psychology.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Autonomic Nervous System",
+          "topicId": "psychology.biological-psychology.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sympathetic Division",
+          "topicId": "psychology.biological-psychology.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Parasympathetic Division",
+          "topicId": "psychology.biological-psychology.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Brain Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cerebrum",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cerebral Cortex",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Frontal Lobe",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Parietal Lobe",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Temporal Lobe",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Occipital Lobe",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cerebellum",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Brainstem",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Limbic System",
+          "topicId": "psychology.biological-psychology.chapter-04.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Hormones & Endocrine System",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Endocrine System",
+          "topicId": "psychology.biological-psychology.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pituitary Gland",
+          "topicId": "psychology.biological-psychology.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Thyroid Gland",
+          "topicId": "psychology.biological-psychology.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Adrenal Glands",
+          "topicId": "psychology.biological-psychology.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hormones",
+          "topicId": "psychology.biological-psychology.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stress Hormones",
+          "topicId": "psychology.biological-psychology.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hormonal Regulation of Behavior",
+          "topicId": "psychology.biological-psychology.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Sensation & Perception",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Visual System",
+          "topicId": "psychology.biological-psychology.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Auditory System",
+          "topicId": "psychology.biological-psychology.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Somatosensory System",
+          "topicId": "psychology.biological-psychology.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Taste",
+          "topicId": "psychology.biological-psychology.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Smell",
+          "topicId": "psychology.biological-psychology.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sensory Processing",
+          "topicId": "psychology.biological-psychology.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Perception",
+          "topicId": "psychology.biological-psychology.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Learning & Memory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Neural Basis of Learning",
+          "topicId": "psychology.biological-psychology.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Synaptic Plasticity",
+          "topicId": "psychology.biological-psychology.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Long-Term Potentiation (LTP)",
+          "topicId": "psychology.biological-psychology.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Memory Formation",
+          "topicId": "psychology.biological-psychology.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Memory Storage",
+          "topicId": "psychology.biological-psychology.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Memory Retrieval",
+          "topicId": "psychology.biological-psychology.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Emotion & Motivation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Emotion",
+          "topicId": "psychology.biological-psychology.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Amygdala",
+          "topicId": "psychology.biological-psychology.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reward System",
+          "topicId": "psychology.biological-psychology.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dopamine",
+          "topicId": "psychology.biological-psychology.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Motivation",
+          "topicId": "psychology.biological-psychology.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stress Response",
+          "topicId": "psychology.biological-psychology.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Emotional Regulation",
+          "topicId": "psychology.biological-psychology.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Sleep & Consciousness",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sleep Stages",
+          "topicId": "psychology.biological-psychology.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "REM Sleep",
+          "topicId": "psychology.biological-psychology.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Circadian Rhythms",
+          "topicId": "psychology.biological-psychology.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sleep Disorders",
+          "topicId": "psychology.biological-psychology.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Consciousness",
+          "topicId": "psychology.biological-psychology.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biological Rhythms",
+          "topicId": "psychology.biological-psychology.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Genetics & Behavior",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Behavioral Genetics",
+          "topicId": "psychology.biological-psychology.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Genes",
+          "topicId": "psychology.biological-psychology.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heritability",
+          "topicId": "psychology.biological-psychology.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Gene-Environment Interaction",
+          "topicId": "psychology.biological-psychology.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Epigenetics",
+          "topicId": "psychology.biological-psychology.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evolutionary Influences",
+          "topicId": "psychology.biological-psychology.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Brain Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stroke",
+          "topicId": "psychology.biological-psychology.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Epilepsy",
+          "topicId": "psychology.biological-psychology.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Parkinson's Disease",
+          "topicId": "psychology.biological-psychology.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Alzheimer's Disease",
+          "topicId": "psychology.biological-psychology.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Traumatic Brain Injury",
+          "topicId": "psychology.biological-psychology.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Neurodevelopmental Disorders",
+          "topicId": "psychology.biological-psychology.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Research Methods & Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "EEG",
+          "topicId": "psychology.biological-psychology.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "CT Scan",
+          "topicId": "psychology.biological-psychology.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "MRI",
+          "topicId": "psychology.biological-psychology.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "fMRI",
+          "topicId": "psychology.biological-psychology.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "PET Scan",
+          "topicId": "psychology.biological-psychology.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Neuropsychological Testing",
+          "topicId": "psychology.biological-psychology.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Brain Stimulation Techniques",
+          "topicId": "psychology.biological-psychology.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Neuroplasticity",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Brain-Computer Interfaces",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Neuroethics",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Computational Neuroscience",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Intelligence & the Brain",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Brain Science",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 4: Developmental Psychology**",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Prenatal Development",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Infancy",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Childhood",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Adolescence",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Adulthood",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Aging",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Cognitive Development",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Social Development",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Moral Development",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Language Development",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Attachment",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Lifespan Development",
+          "topicId": "psychology.biological-psychology.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "psychology",

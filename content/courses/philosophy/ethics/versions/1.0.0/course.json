@@ -4,10 +4,549 @@
   "description": "This course studies **moral philosophy**, exploring what makes actions right or wrong, what people ought to do, and how ethical principles apply to personal life, society, science, business, and technology.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Ethics?",
+          "topicId": "philosophy.ethics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Morality",
+          "topicId": "philosophy.ethics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Moral Reasoning",
+          "topicId": "philosophy.ethics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Values",
+          "topicId": "philosophy.ethics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Moral Responsibility",
+          "topicId": "philosophy.ethics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Branches of Ethics",
+          "topicId": "philosophy.ethics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Virtue Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Virtue",
+          "topicId": "philosophy.ethics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Character",
+          "topicId": "philosophy.ethics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aristotle's Virtue Ethics",
+          "topicId": "philosophy.ethics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Golden Mean",
+          "topicId": "philosophy.ethics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Moral Habits",
+          "topicId": "philosophy.ethics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human Flourishing",
+          "topicId": "philosophy.ethics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Deontology",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Duty",
+          "topicId": "philosophy.ethics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Moral Rules",
+          "topicId": "philosophy.ethics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rights",
+          "topicId": "philosophy.ethics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Universal Principles",
+          "topicId": "philosophy.ethics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Kantian Ethics",
+          "topicId": "philosophy.ethics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Respect for Persons",
+          "topicId": "philosophy.ethics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Consequentialism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Consequentialism",
+          "topicId": "philosophy.ethics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Utilitarianism",
+          "topicId": "philosophy.ethics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cost-Benefit Reasoning",
+          "topicId": "philosophy.ethics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Greatest Happiness Principle",
+          "topicId": "philosophy.ethics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Rule vs Act Utilitarianism",
+          "topicId": "philosophy.ethics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Critiques",
+          "topicId": "philosophy.ethics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Justice & Rights",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Justice",
+          "topicId": "philosophy.ethics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Equality",
+          "topicId": "philosophy.ethics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fairness",
+          "topicId": "philosophy.ethics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human Rights",
+          "topicId": "philosophy.ethics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Liberty",
+          "topicId": "philosophy.ethics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Social Responsibility",
+          "topicId": "philosophy.ethics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Moral Decision Making",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Moral Dilemmas",
+          "topicId": "philosophy.ethics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ethical Frameworks",
+          "topicId": "philosophy.ethics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conflicting Duties",
+          "topicId": "philosophy.ethics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ethical Judgment",
+          "topicId": "philosophy.ethics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Case Analysis",
+          "topicId": "philosophy.ethics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Practical Reasoning",
+          "topicId": "philosophy.ethics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Applied Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Professional Ethics",
+          "topicId": "philosophy.ethics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Medical Ethics",
+          "topicId": "philosophy.ethics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Legal Ethics",
+          "topicId": "philosophy.ethics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Engineering Ethics",
+          "topicId": "philosophy.ethics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Journalism Ethics",
+          "topicId": "philosophy.ethics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Research Ethics",
+          "topicId": "philosophy.ethics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Business Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Corporate Responsibility",
+          "topicId": "philosophy.ethics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ethical Leadership",
+          "topicId": "philosophy.ethics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Consumer Rights",
+          "topicId": "philosophy.ethics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fair Trade",
+          "topicId": "philosophy.ethics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Corruption",
+          "topicId": "philosophy.ethics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Whistleblowing",
+          "topicId": "philosophy.ethics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Environmental Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Environmental Responsibility",
+          "topicId": "philosophy.ethics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sustainability",
+          "topicId": "philosophy.ethics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Animal Ethics",
+          "topicId": "philosophy.ethics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Biodiversity",
+          "topicId": "philosophy.ethics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Climate Ethics",
+          "topicId": "philosophy.ethics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Generations",
+          "topicId": "philosophy.ethics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Technology & AI Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data Privacy",
+          "topicId": "philosophy.ethics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Algorithmic Bias",
+          "topicId": "philosophy.ethics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.ethics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Autonomous Systems",
+          "topicId": "philosophy.ethics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Rights",
+          "topicId": "philosophy.ethics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Responsible Innovation",
+          "topicId": "philosophy.ethics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Global Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cultural Diversity",
+          "topicId": "philosophy.ethics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Global Justice",
+          "topicId": "philosophy.ethics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Humanitarian Ethics",
+          "topicId": "philosophy.ethics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "War & Peace",
+          "topicId": "philosophy.ethics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "International Responsibility",
+          "topicId": "philosophy.ethics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Global Cooperation",
+          "topicId": "philosophy.ethics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Ethics in Everyday Life",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Personal Integrity",
+          "topicId": "philosophy.ethics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Relationships",
+          "topicId": "philosophy.ethics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Leadership",
+          "topicId": "philosophy.ethics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Citizenship",
+          "topicId": "philosophy.ethics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Media Ethics",
+          "topicId": "philosophy.ethics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ethical Consumption",
+          "topicId": "philosophy.ethics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Decision Making",
+          "topicId": "philosophy.ethics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Metaethics",
+          "topicId": "philosophy.ethics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Moral Realism",
+          "topicId": "philosophy.ethics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Moral Relativism",
+          "topicId": "philosophy.ethics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Moral Psychology",
+          "topicId": "philosophy.ethics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Existential Ethics",
+          "topicId": "philosophy.ethics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Ethical Challenges",
+          "topicId": "philosophy.ethics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 6: Political Philosophy**",
+          "topicId": "philosophy.ethics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Justice",
+          "topicId": "philosophy.ethics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Liberty",
+          "topicId": "philosophy.ethics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Equality",
+          "topicId": "philosophy.ethics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Rights",
+          "topicId": "philosophy.ethics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Democracy",
+          "topicId": "philosophy.ethics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Authority",
+          "topicId": "philosophy.ethics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Social Contract",
+          "topicId": "philosophy.ethics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Political Ideologies",
+          "topicId": "philosophy.ethics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Law",
+          "topicId": "philosophy.ethics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Citizenship",
+          "topicId": "philosophy.ethics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Global Justice",
+          "topicId": "philosophy.ethics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Modern Political Philosophy",
+          "topicId": "philosophy.ethics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

@@ -4,10 +4,529 @@
   "description": "This course studies **how consumers make decisions** under limited income, explaining how preferences, prices, and budgets determine demand for goods and services.",
   "version": "1.0.0",
   "domain": "economics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Consumer Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Consumer Choice",
+          "topicId": "economics.consumer-theory.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Preferences",
+          "topicId": "economics.consumer-theory.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rational Choice",
+          "topicId": "economics.consumer-theory.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Utility",
+          "topicId": "economics.consumer-theory.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Consumption Decisions",
+          "topicId": "economics.consumer-theory.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Consumer Behavior",
+          "topicId": "economics.consumer-theory.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Utility Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Total Utility",
+          "topicId": "economics.consumer-theory.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Marginal Utility",
+          "topicId": "economics.consumer-theory.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Law of Diminishing Marginal Utility",
+          "topicId": "economics.consumer-theory.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cardinal Utility",
+          "topicId": "economics.consumer-theory.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Ordinal Utility",
+          "topicId": "economics.consumer-theory.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Utility Maximization",
+          "topicId": "economics.consumer-theory.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Budget Constraint",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Income",
+          "topicId": "economics.consumer-theory.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Prices",
+          "topicId": "economics.consumer-theory.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Budget Line",
+          "topicId": "economics.consumer-theory.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Affordable Consumption Bundles",
+          "topicId": "economics.consumer-theory.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Opportunity Cost",
+          "topicId": "economics.consumer-theory.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Budget Changes",
+          "topicId": "economics.consumer-theory.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Indifference Curves",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Indifference Curves",
+          "topicId": "economics.consumer-theory.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Indifference Map",
+          "topicId": "economics.consumer-theory.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Marginal Rate of Substitution (MRS)",
+          "topicId": "economics.consumer-theory.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Convex Preferences",
+          "topicId": "economics.consumer-theory.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Perfect Substitutes",
+          "topicId": "economics.consumer-theory.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Perfect Complements",
+          "topicId": "economics.consumer-theory.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Consumer Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Utility Maximization",
+          "topicId": "economics.consumer-theory.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Optimal Consumption Bundle",
+          "topicId": "economics.consumer-theory.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tangency Condition",
+          "topicId": "economics.consumer-theory.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interior Solutions",
+          "topicId": "economics.consumer-theory.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Corner Solutions",
+          "topicId": "economics.consumer-theory.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Consumer Equilibrium Analysis",
+          "topicId": "economics.consumer-theory.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Income & Substitution Effects",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Price Changes",
+          "topicId": "economics.consumer-theory.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Income Effect",
+          "topicId": "economics.consumer-theory.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Substitution Effect",
+          "topicId": "economics.consumer-theory.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Normal Goods",
+          "topicId": "economics.consumer-theory.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Inferior Goods",
+          "topicId": "economics.consumer-theory.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Giffen Goods",
+          "topicId": "economics.consumer-theory.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Demand Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Individual Demand",
+          "topicId": "economics.consumer-theory.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Market Demand",
+          "topicId": "economics.consumer-theory.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Demand Functions",
+          "topicId": "economics.consumer-theory.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Demand Elasticity",
+          "topicId": "economics.consumer-theory.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Consumer Response to Price Changes",
+          "topicId": "economics.consumer-theory.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Consumer Surplus",
+          "topicId": "economics.consumer-theory.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Revealed Preference Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Revealed Preference",
+          "topicId": "economics.consumer-theory.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Weak Axiom of Revealed Preference (WARP)",
+          "topicId": "economics.consumer-theory.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strong Axiom of Revealed Preference (SARP)",
+          "topicId": "economics.consumer-theory.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Preference Consistency",
+          "topicId": "economics.consumer-theory.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Consumer Choice from Observed Behavior",
+          "topicId": "economics.consumer-theory.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Intertemporal Choice",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Present vs Future Consumption",
+          "topicId": "economics.consumer-theory.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Saving",
+          "topicId": "economics.consumer-theory.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Borrowing",
+          "topicId": "economics.consumer-theory.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interest Rates",
+          "topicId": "economics.consumer-theory.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Time Preference",
+          "topicId": "economics.consumer-theory.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lifetime Consumption",
+          "topicId": "economics.consumer-theory.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Choice Under Uncertainty",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Risk",
+          "topicId": "economics.consumer-theory.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Expected Utility",
+          "topicId": "economics.consumer-theory.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Risk Aversion",
+          "topicId": "economics.consumer-theory.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Risk Neutrality",
+          "topicId": "economics.consumer-theory.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Risk Seeking",
+          "topicId": "economics.consumer-theory.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Insurance Decisions",
+          "topicId": "economics.consumer-theory.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Behavioral Consumer Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bounded Rationality",
+          "topicId": "economics.consumer-theory.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heuristics",
+          "topicId": "economics.consumer-theory.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biases",
+          "topicId": "economics.consumer-theory.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Prospect Theory",
+          "topicId": "economics.consumer-theory.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Loss Aversion",
+          "topicId": "economics.consumer-theory.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nudges",
+          "topicId": "economics.consumer-theory.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Household Spending",
+          "topicId": "economics.consumer-theory.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pricing Strategies",
+          "topicId": "economics.consumer-theory.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Consumer Finance",
+          "topicId": "economics.consumer-theory.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Digital Consumer Behavior",
+          "topicId": "economics.consumer-theory.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Online Shopping",
+          "topicId": "economics.consumer-theory.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Policy & Consumer Welfare",
+          "topicId": "economics.consumer-theory.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Welfare Economics",
+          "topicId": "economics.consumer-theory.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Consumer Demand Estimation",
+          "topicId": "economics.consumer-theory.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Experimental Economics",
+          "topicId": "economics.consumer-theory.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Consumer Analytics",
+          "topicId": "economics.consumer-theory.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Markets",
+          "topicId": "economics.consumer-theory.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI & Consumer Decision Making",
+          "topicId": "economics.consumer-theory.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 5: Producer Theory**",
+          "topicId": "economics.consumer-theory.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Firms and Production",
+          "topicId": "economics.consumer-theory.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Production Functions",
+          "topicId": "economics.consumer-theory.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Inputs & Outputs",
+          "topicId": "economics.consumer-theory.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Short-Run & Long-Run Production",
+          "topicId": "economics.consumer-theory.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Cost Functions",
+          "topicId": "economics.consumer-theory.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Profit Maximization",
+          "topicId": "economics.consumer-theory.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Supply Decisions",
+          "topicId": "economics.consumer-theory.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Economies of Scale",
+          "topicId": "economics.consumer-theory.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Firm Behavior",
+          "topicId": "economics.consumer-theory.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Productivity Analysis",
+          "topicId": "economics.consumer-theory.chapter-13.topic-17"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "economics",

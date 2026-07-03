@@ -4,10 +4,579 @@
   "description": "This course studies **how traits are inherited, how genes are passed between generations, and how genetic variation shapes living organisms**. It forms the bridge between molecular biology and evolution.",
   "version": "1.0.0",
   "domain": "biology",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Genetics?",
+          "topicId": "biology.genetics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Genes",
+          "topicId": "biology.genetics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Alleles",
+          "topicId": "biology.genetics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Genotype",
+          "topicId": "biology.genetics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Phenotype",
+          "topicId": "biology.genetics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Heredity",
+          "topicId": "biology.genetics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Genetic Variation",
+          "topicId": "biology.genetics.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Mendelian Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gregor Mendel",
+          "topicId": "biology.genetics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Law of Segregation",
+          "topicId": "biology.genetics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Law of Independent Assortment",
+          "topicId": "biology.genetics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Monohybrid Cross",
+          "topicId": "biology.genetics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dihybrid Cross",
+          "topicId": "biology.genetics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Test Cross",
+          "topicId": "biology.genetics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Probability in Genetics",
+          "topicId": "biology.genetics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Extensions of Mendelian Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Incomplete Dominance",
+          "topicId": "biology.genetics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Codominance",
+          "topicId": "biology.genetics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multiple Alleles",
+          "topicId": "biology.genetics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Polygenic Inheritance",
+          "topicId": "biology.genetics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Pleiotropy",
+          "topicId": "biology.genetics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Epistasis",
+          "topicId": "biology.genetics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sex-Influenced Traits",
+          "topicId": "biology.genetics.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Chromosomal Basis of Inheritance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Chromosome Theory of Inheritance",
+          "topicId": "biology.genetics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Homologous Chromosomes",
+          "topicId": "biology.genetics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Autosomes",
+          "topicId": "biology.genetics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sex Chromosomes",
+          "topicId": "biology.genetics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Meiosis & Inheritance",
+          "topicId": "biology.genetics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nondisjunction",
+          "topicId": "biology.genetics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Linkage & Recombination",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gene Linkage",
+          "topicId": "biology.genetics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Crossing Over",
+          "topicId": "biology.genetics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Recombination Frequency",
+          "topicId": "biology.genetics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Genetic Mapping",
+          "topicId": "biology.genetics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Linkage Maps",
+          "topicId": "biology.genetics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Chromosomal Rearrangements",
+          "topicId": "biology.genetics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Human Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Human Karyotype",
+          "topicId": "biology.genetics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pedigree Analysis",
+          "topicId": "biology.genetics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Blood Groups",
+          "topicId": "biology.genetics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rh Factor",
+          "topicId": "biology.genetics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Twin Studies",
+          "topicId": "biology.genetics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Human Genetic Variation",
+          "topicId": "biology.genetics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Genetic Disorders",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Single-Gene Disorders",
+          "topicId": "biology.genetics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chromosomal Disorders",
+          "topicId": "biology.genetics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Down Syndrome",
+          "topicId": "biology.genetics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Turner Syndrome",
+          "topicId": "biology.genetics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Klinefelter Syndrome",
+          "topicId": "biology.genetics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cystic Fibrosis",
+          "topicId": "biology.genetics.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Sickle Cell Disease",
+          "topicId": "biology.genetics.chapter-07.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Huntington's Disease",
+          "topicId": "biology.genetics.chapter-07.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Population Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gene Pool",
+          "topicId": "biology.genetics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Allele Frequency",
+          "topicId": "biology.genetics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Genotype Frequency",
+          "topicId": "biology.genetics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hardy-Weinberg Equilibrium",
+          "topicId": "biology.genetics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Genetic Drift",
+          "topicId": "biology.genetics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Gene Flow",
+          "topicId": "biology.genetics.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Founder Effect",
+          "topicId": "biology.genetics.chapter-08.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Bottleneck Effect",
+          "topicId": "biology.genetics.chapter-08.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Quantitative Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Continuous Traits",
+          "topicId": "biology.genetics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Polygenic Traits",
+          "topicId": "biology.genetics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heritability",
+          "topicId": "biology.genetics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Effects",
+          "topicId": "biology.genetics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantitative Trait Loci (QTL)",
+          "topicId": "biology.genetics.chapter-09.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Modern Genetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Genomics",
+          "topicId": "biology.genetics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Genome-Wide Association Studies (GWAS)",
+          "topicId": "biology.genetics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gene Editing",
+          "topicId": "biology.genetics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "CRISPR Applications",
+          "topicId": "biology.genetics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Personalized Genomics",
+          "topicId": "biology.genetics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Precision Medicine",
+          "topicId": "biology.genetics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Genetic Technologies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Genetic Testing",
+          "topicId": "biology.genetics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Prenatal Screening",
+          "topicId": "biology.genetics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Carrier Screening",
+          "topicId": "biology.genetics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "DNA Fingerprinting",
+          "topicId": "biology.genetics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Forensic Genetics",
+          "topicId": "biology.genetics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Genetic Counseling",
+          "topicId": "biology.genetics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications & Ethics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Agriculture",
+          "topicId": "biology.genetics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Medicine",
+          "topicId": "biology.genetics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Biotechnology",
+          "topicId": "biology.genetics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conservation Genetics",
+          "topicId": "biology.genetics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bioethics",
+          "topicId": "biology.genetics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ethical Issues in Gene Editing",
+          "topicId": "biology.genetics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Future of Genetics",
+          "topicId": "biology.genetics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Epigenetic Inheritance",
+          "topicId": "biology.genetics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Evolutionary Genetics",
+          "topicId": "biology.genetics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Comparative Genomics",
+          "topicId": "biology.genetics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Functional Genomics",
+          "topicId": "biology.genetics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Synthetic Genomics",
+          "topicId": "biology.genetics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Systems Genetics",
+          "topicId": "biology.genetics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 5: Evolution**",
+          "topicId": "biology.genetics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "History of Evolutionary Thought",
+          "topicId": "biology.genetics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Darwin's Theory",
+          "topicId": "biology.genetics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Natural Selection",
+          "topicId": "biology.genetics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Adaptation",
+          "topicId": "biology.genetics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Speciation",
+          "topicId": "biology.genetics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Evolutionary Mechanisms",
+          "topicId": "biology.genetics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Fossil Record",
+          "topicId": "biology.genetics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Phylogenetics",
+          "topicId": "biology.genetics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Human Evolution",
+          "topicId": "biology.genetics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Evolutionary Developmental Biology",
+          "topicId": "biology.genetics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Origin of Life",
+          "topicId": "biology.genetics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Modern Evolutionary Theory",
+          "topicId": "biology.genetics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "biology",

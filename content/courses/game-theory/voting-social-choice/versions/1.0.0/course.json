@@ -4,10 +4,559 @@
   "description": "This course studies **how groups combine individual preferences into collective decisions**. It explores voting systems, fairness, strategic voting, and the mathematical limits of collective decision-making.",
   "version": "1.0.0",
   "domain": "game-theory",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Social Choice",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Social Choice?",
+          "topicId": "game-theory.voting-social-choice.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Individual Preferences",
+          "topicId": "game-theory.voting-social-choice.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Collective Decisions",
+          "topicId": "game-theory.voting-social-choice.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Welfare",
+          "topicId": "game-theory.voting-social-choice.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Fairness in Decision Making",
+          "topicId": "game-theory.voting-social-choice.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Preference Aggregation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Preference Orderings",
+          "topicId": "game-theory.voting-social-choice.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Preference Profiles",
+          "topicId": "game-theory.voting-social-choice.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Preference Aggregation",
+          "topicId": "game-theory.voting-social-choice.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Social Choice Functions",
+          "topicId": "game-theory.voting-social-choice.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Majority Preference",
+          "topicId": "game-theory.voting-social-choice.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Collective Rationality",
+          "topicId": "game-theory.voting-social-choice.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Voting Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Plurality Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Majority Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ranked-Choice Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Borda Count",
+          "topicId": "game-theory.voting-social-choice.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Approval Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Condorcet Method",
+          "topicId": "game-theory.voting-social-choice.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Proportional Representation",
+          "topicId": "game-theory.voting-social-choice.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Majority Rule",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Majority Rule",
+          "topicId": "game-theory.voting-social-choice.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Majority Cycles",
+          "topicId": "game-theory.voting-social-choice.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Condorcet Winner",
+          "topicId": "game-theory.voting-social-choice.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Condorcet Paradox",
+          "topicId": "game-theory.voting-social-choice.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cyclic Preferences",
+          "topicId": "game-theory.voting-social-choice.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Voting Stability",
+          "topicId": "game-theory.voting-social-choice.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Arrow's Impossibility Theorem",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Social Welfare Functions",
+          "topicId": "game-theory.voting-social-choice.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Arrow's Axioms",
+          "topicId": "game-theory.voting-social-choice.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unrestricted Domain",
+          "topicId": "game-theory.voting-social-choice.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pareto Efficiency",
+          "topicId": "game-theory.voting-social-choice.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Independence of Irrelevant Alternatives",
+          "topicId": "game-theory.voting-social-choice.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dictatorship",
+          "topicId": "game-theory.voting-social-choice.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Arrow's Impossibility Theorem",
+          "topicId": "game-theory.voting-social-choice.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Strategic Voting",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Strategic Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Tactical Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Vote Splitting",
+          "topicId": "game-theory.voting-social-choice.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Manipulation",
+          "topicId": "game-theory.voting-social-choice.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gibbard-Satterthwaite Theorem",
+          "topicId": "game-theory.voting-social-choice.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Incentive Compatibility",
+          "topicId": "game-theory.voting-social-choice.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Voting Power",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Weighted Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Power Distribution",
+          "topicId": "game-theory.voting-social-choice.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Banzhaf Power Index",
+          "topicId": "game-theory.voting-social-choice.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Shapley-Shubik Power Index",
+          "topicId": "game-theory.voting-social-choice.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Coalition Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Decision Power",
+          "topicId": "game-theory.voting-social-choice.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Fair Division",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fair Division",
+          "topicId": "game-theory.voting-social-choice.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Envy-Free Allocation",
+          "topicId": "game-theory.voting-social-choice.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proportional Allocation",
+          "topicId": "game-theory.voting-social-choice.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equitable Allocation",
+          "topicId": "game-theory.voting-social-choice.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Resource Sharing",
+          "topicId": "game-theory.voting-social-choice.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Collective Fairness",
+          "topicId": "game-theory.voting-social-choice.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Committee Decisions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Committee Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multi-Winner Elections",
+          "topicId": "game-theory.voting-social-choice.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Consensus Building",
+          "topicId": "game-theory.voting-social-choice.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Jury Decisions",
+          "topicId": "game-theory.voting-social-choice.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Group Decision Making",
+          "topicId": "game-theory.voting-social-choice.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deliberation",
+          "topicId": "game-theory.voting-social-choice.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Social Choice Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Elections",
+          "topicId": "game-theory.voting-social-choice.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Legislatures",
+          "topicId": "game-theory.voting-social-choice.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Corporate Governance",
+          "topicId": "game-theory.voting-social-choice.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Budget Allocation",
+          "topicId": "game-theory.voting-social-choice.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Recommendation Systems",
+          "topicId": "game-theory.voting-social-choice.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Online Communities",
+          "topicId": "game-theory.voting-social-choice.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Computational Social Choice",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Voting Algorithms",
+          "topicId": "game-theory.voting-social-choice.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Preference Learning",
+          "topicId": "game-theory.voting-social-choice.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Agent Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "AI Decision Making",
+          "topicId": "game-theory.voting-social-choice.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computational Complexity",
+          "topicId": "game-theory.voting-social-choice.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Algorithmic Fairness",
+          "topicId": "game-theory.voting-social-choice.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Democratic Institutions",
+          "topicId": "game-theory.voting-social-choice.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "International Organizations",
+          "topicId": "game-theory.voting-social-choice.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Business Decisions",
+          "topicId": "game-theory.voting-social-choice.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Online Platforms",
+          "topicId": "game-theory.voting-social-choice.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Blockchain Governance",
+          "topicId": "game-theory.voting-social-choice.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Participatory Budgeting",
+          "topicId": "game-theory.voting-social-choice.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "AI Governance",
+          "topicId": "game-theory.voting-social-choice.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Liquid Democracy",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Quadratic Voting",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Judgment Aggregation",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Participatory Decision Systems",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Collective Intelligence",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Democratic Systems",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 10: Evolutionary Game Theory**",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Evolutionary Games",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Fitness",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Evolutionarily Stable Strategies (ESS)",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Replicator Dynamics",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Cooperation",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Altruism",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Population Games",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Signaling",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Biological Competition",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Cultural Evolution",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Multi-Agent Evolution",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Evolutionary Algorithms",
+          "topicId": "game-theory.voting-social-choice.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "game-theory",

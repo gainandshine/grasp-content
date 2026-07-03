@@ -4,10 +4,523 @@
   "description": "This course introduces **the fundamental principles of economics**, explaining how individuals, businesses, and governments make decisions under conditions of scarcity.",
   "version": "1.0.0",
   "domain": "economics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Economics?",
+          "topicId": "economics.economics-foundations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scarcity",
+          "topicId": "economics.economics-foundations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Choice",
+          "topicId": "economics.economics-foundations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Opportunity Cost",
+          "topicId": "economics.economics-foundations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Economic Resources",
+          "topicId": "economics.economics-foundations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Factors of Production",
+          "topicId": "economics.economics-foundations.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Branches of Economics",
+          "topicId": "economics.economics-foundations.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Economic Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Traditional Economy",
+          "topicId": "economics.economics-foundations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Market Economy",
+          "topicId": "economics.economics-foundations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Command Economy",
+          "topicId": "economics.economics-foundations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mixed Economy",
+          "topicId": "economics.economics-foundations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Role of Government",
+          "topicId": "economics.economics-foundations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Economic Institutions",
+          "topicId": "economics.economics-foundations.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Supply & Demand",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Demand",
+          "topicId": "economics.economics-foundations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Supply",
+          "topicId": "economics.economics-foundations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Market Equilibrium",
+          "topicId": "economics.economics-foundations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Changes in Demand",
+          "topicId": "economics.economics-foundations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Changes in Supply",
+          "topicId": "economics.economics-foundations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Price Controls",
+          "topicId": "economics.economics-foundations.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Market Adjustment",
+          "topicId": "economics.economics-foundations.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Elasticity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Price Elasticity of Demand",
+          "topicId": "economics.economics-foundations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Income Elasticity",
+          "topicId": "economics.economics-foundations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cross Elasticity",
+          "topicId": "economics.economics-foundations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Price Elasticity of Supply",
+          "topicId": "economics.economics-foundations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Factors Affecting Elasticity",
+          "topicId": "economics.economics-foundations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications of Elasticity",
+          "topicId": "economics.economics-foundations.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Markets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Buyers & Sellers",
+          "topicId": "economics.economics-foundations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Competitive Markets",
+          "topicId": "economics.economics-foundations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Market Efficiency",
+          "topicId": "economics.economics-foundations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Consumer Surplus",
+          "topicId": "economics.economics-foundations.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Producer Surplus",
+          "topicId": "economics.economics-foundations.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deadweight Loss",
+          "topicId": "economics.economics-foundations.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Production & Costs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Production",
+          "topicId": "economics.economics-foundations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Productivity",
+          "topicId": "economics.economics-foundations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fixed Costs",
+          "topicId": "economics.economics-foundations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Variable Costs",
+          "topicId": "economics.economics-foundations.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Total Cost",
+          "topicId": "economics.economics-foundations.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Marginal Cost",
+          "topicId": "economics.economics-foundations.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Economies of Scale",
+          "topicId": "economics.economics-foundations.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "National Economy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gross Domestic Product (GDP)",
+          "topicId": "economics.economics-foundations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Inflation",
+          "topicId": "economics.economics-foundations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unemployment",
+          "topicId": "economics.economics-foundations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Economic Growth",
+          "topicId": "economics.economics-foundations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Business Cycles",
+          "topicId": "economics.economics-foundations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Standard of Living",
+          "topicId": "economics.economics-foundations.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Money & Banking",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Functions of Money",
+          "topicId": "economics.economics-foundations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Banking System",
+          "topicId": "economics.economics-foundations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Central Banks",
+          "topicId": "economics.economics-foundations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interest Rates",
+          "topicId": "economics.economics-foundations.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Money Supply",
+          "topicId": "economics.economics-foundations.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Inflation Control",
+          "topicId": "economics.economics-foundations.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "International Trade",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Imports",
+          "topicId": "economics.economics-foundations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Exports",
+          "topicId": "economics.economics-foundations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Comparative Advantage",
+          "topicId": "economics.economics-foundations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Exchange Rates",
+          "topicId": "economics.economics-foundations.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Trade Barriers",
+          "topicId": "economics.economics-foundations.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Globalization",
+          "topicId": "economics.economics-foundations.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Government & Public Policy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Taxes",
+          "topicId": "economics.economics-foundations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Government Spending",
+          "topicId": "economics.economics-foundations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Budget Deficit",
+          "topicId": "economics.economics-foundations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Public Debt",
+          "topicId": "economics.economics-foundations.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fiscal Policy",
+          "topicId": "economics.economics-foundations.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Regulation",
+          "topicId": "economics.economics-foundations.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Economic Thinking",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Incentives",
+          "topicId": "economics.economics-foundations.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Marginal Analysis",
+          "topicId": "economics.economics-foundations.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cost-Benefit Analysis",
+          "topicId": "economics.economics-foundations.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Positive Economics",
+          "topicId": "economics.economics-foundations.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Normative Economics",
+          "topicId": "economics.economics-foundations.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Economic Models",
+          "topicId": "economics.economics-foundations.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Personal Finance",
+          "topicId": "economics.economics-foundations.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Business Decisions",
+          "topicId": "economics.economics-foundations.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Labor Markets",
+          "topicId": "economics.economics-foundations.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Economics",
+          "topicId": "economics.economics-foundations.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Economy",
+          "topicId": "economics.economics-foundations.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Current Economic Issues",
+          "topicId": "economics.economics-foundations.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 2: Microeconomics**",
+          "topicId": "economics.economics-foundations.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Consumer Choice",
+          "topicId": "economics.economics-foundations.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Demand Theory",
+          "topicId": "economics.economics-foundations.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Utility",
+          "topicId": "economics.economics-foundations.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Producer Theory",
+          "topicId": "economics.economics-foundations.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Production Functions",
+          "topicId": "economics.economics-foundations.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Cost Theory",
+          "topicId": "economics.economics-foundations.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Perfect Competition",
+          "topicId": "economics.economics-foundations.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Monopoly",
+          "topicId": "economics.economics-foundations.chapter-12.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Monopolistic Competition",
+          "topicId": "economics.economics-foundations.chapter-12.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Oligopoly",
+          "topicId": "economics.economics-foundations.chapter-12.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Game Theory",
+          "topicId": "economics.economics-foundations.chapter-12.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Market Failure",
+          "topicId": "economics.economics-foundations.chapter-12.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "economics",

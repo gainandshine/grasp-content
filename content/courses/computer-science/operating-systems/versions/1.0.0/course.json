@@ -4,10 +4,599 @@
   "description": "This course studies **how an operating system manages computer hardware and software resources**. It explains how modern operating systems run programs, manage memory, coordinate devices, and provide secure, efficient execution.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Operating Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is an Operating System?",
+          "topicId": "computer-science.operating-systems.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Functions of an Operating System",
+          "topicId": "computer-science.operating-systems.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Types of Operating Systems",
+          "topicId": "computer-science.operating-systems.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "System Calls",
+          "topicId": "computer-science.operating-systems.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Kernel",
+          "topicId": "computer-science.operating-systems.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "User Space vs Kernel Space",
+          "topicId": "computer-science.operating-systems.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "OS Architecture",
+          "topicId": "computer-science.operating-systems.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Processes & Threads",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Processes",
+          "topicId": "computer-science.operating-systems.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Process States",
+          "topicId": "computer-science.operating-systems.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Process Control Block (PCB)",
+          "topicId": "computer-science.operating-systems.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Process Creation & Termination",
+          "topicId": "computer-science.operating-systems.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Threads",
+          "topicId": "computer-science.operating-systems.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Multithreading",
+          "topicId": "computer-science.operating-systems.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Context Switching",
+          "topicId": "computer-science.operating-systems.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "CPU Scheduling",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "CPU Scheduler",
+          "topicId": "computer-science.operating-systems.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scheduling Criteria",
+          "topicId": "computer-science.operating-systems.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "First-Come, First-Served (FCFS)",
+          "topicId": "computer-science.operating-systems.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Shortest Job First (SJF)",
+          "topicId": "computer-science.operating-systems.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Priority Scheduling",
+          "topicId": "computer-science.operating-systems.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Round Robin",
+          "topicId": "computer-science.operating-systems.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Multilevel Queue Scheduling",
+          "topicId": "computer-science.operating-systems.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Process Synchronization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Race Conditions",
+          "topicId": "computer-science.operating-systems.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Critical Section",
+          "topicId": "computer-science.operating-systems.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mutex Locks",
+          "topicId": "computer-science.operating-systems.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Semaphores",
+          "topicId": "computer-science.operating-systems.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Monitors",
+          "topicId": "computer-science.operating-systems.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Condition Variables",
+          "topicId": "computer-science.operating-systems.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Producer-Consumer Problem",
+          "topicId": "computer-science.operating-systems.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Deadlocks",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Deadlock Conditions",
+          "topicId": "computer-science.operating-systems.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Resource Allocation Graph",
+          "topicId": "computer-science.operating-systems.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Deadlock Prevention",
+          "topicId": "computer-science.operating-systems.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Deadlock Avoidance",
+          "topicId": "computer-science.operating-systems.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Banker's Algorithm",
+          "topicId": "computer-science.operating-systems.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Deadlock Detection",
+          "topicId": "computer-science.operating-systems.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Deadlock Recovery",
+          "topicId": "computer-science.operating-systems.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Memory Management",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Memory Allocation",
+          "topicId": "computer-science.operating-systems.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Paging",
+          "topicId": "computer-science.operating-systems.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Segmentation",
+          "topicId": "computer-science.operating-systems.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fragmentation",
+          "topicId": "computer-science.operating-systems.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Swapping",
+          "topicId": "computer-science.operating-systems.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Memory Protection",
+          "topicId": "computer-science.operating-systems.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Address Translation",
+          "topicId": "computer-science.operating-systems.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Virtual Memory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Virtual Memory",
+          "topicId": "computer-science.operating-systems.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Demand Paging",
+          "topicId": "computer-science.operating-systems.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Page Faults",
+          "topicId": "computer-science.operating-systems.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Page Replacement Algorithms",
+          "topicId": "computer-science.operating-systems.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Thrashing",
+          "topicId": "computer-science.operating-systems.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Working Set Model",
+          "topicId": "computer-science.operating-systems.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "File Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Files",
+          "topicId": "computer-science.operating-systems.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Directories",
+          "topicId": "computer-science.operating-systems.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "File Allocation Methods",
+          "topicId": "computer-science.operating-systems.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "File System Structure",
+          "topicId": "computer-science.operating-systems.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Journaling",
+          "topicId": "computer-science.operating-systems.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Permissions",
+          "topicId": "computer-science.operating-systems.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Access Control",
+          "topicId": "computer-science.operating-systems.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Storage & I/O Management",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Disk Scheduling",
+          "topicId": "computer-science.operating-systems.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "RAID",
+          "topicId": "computer-science.operating-systems.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Device Drivers",
+          "topicId": "computer-science.operating-systems.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interrupts",
+          "topicId": "computer-science.operating-systems.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "DMA",
+          "topicId": "computer-science.operating-systems.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Buffering",
+          "topicId": "computer-science.operating-systems.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Caching",
+          "topicId": "computer-science.operating-systems.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Security & Protection",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Authentication",
+          "topicId": "computer-science.operating-systems.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Authorization",
+          "topicId": "computer-science.operating-systems.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Access Control",
+          "topicId": "computer-science.operating-systems.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Privilege Levels",
+          "topicId": "computer-science.operating-systems.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Malware Protection",
+          "topicId": "computer-science.operating-systems.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Secure Boot",
+          "topicId": "computer-science.operating-systems.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Operating System Hardening",
+          "topicId": "computer-science.operating-systems.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Virtualization & Containers",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Virtual Machines",
+          "topicId": "computer-science.operating-systems.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hypervisors",
+          "topicId": "computer-science.operating-systems.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Containerization",
+          "topicId": "computer-science.operating-systems.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Docker Concepts",
+          "topicId": "computer-science.operating-systems.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Namespaces",
+          "topicId": "computer-science.operating-systems.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Control Groups (cgroups)",
+          "topicId": "computer-science.operating-systems.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cloud Virtualization",
+          "topicId": "computer-science.operating-systems.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Modern Operating Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linux Architecture",
+          "topicId": "computer-science.operating-systems.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Windows Architecture",
+          "topicId": "computer-science.operating-systems.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "macOS Architecture",
+          "topicId": "computer-science.operating-systems.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Android",
+          "topicId": "computer-science.operating-systems.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "iOS",
+          "topicId": "computer-science.operating-systems.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Real-Time Operating Systems (RTOS)",
+          "topicId": "computer-science.operating-systems.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Server Operating Systems",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Cloud Infrastructure",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mobile Computing",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Embedded Systems",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "High-Performance Computing",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Operating System Performance Tuning",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "System Monitoring & Diagnostics",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 8: Computer Networks**",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Network Fundamentals",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "OSI & TCP/IP Models",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Physical Layer",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Data Link Layer",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Network Layer",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Transport Layer",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Application Layer",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Routing",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Switching",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Wireless Networks",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Network Security",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Internet Architecture",
+          "topicId": "computer-science.operating-systems.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

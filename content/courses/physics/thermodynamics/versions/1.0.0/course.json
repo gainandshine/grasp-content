@@ -4,10 +4,473 @@
   "description": "This course studies **heat, temperature, energy transfer, and the behavior of matter**. It is fundamental to physics, chemistry, mechanical engineering, and aerospace engineering.",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Temperature & Heat",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Temperature",
+          "topicId": "physics.thermodynamics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Thermal Equilibrium",
+          "topicId": "physics.thermodynamics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Zeroth Law of Thermodynamics",
+          "topicId": "physics.thermodynamics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Heat",
+          "topicId": "physics.thermodynamics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Internal Energy",
+          "topicId": "physics.thermodynamics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Specific Heat Capacity",
+          "topicId": "physics.thermodynamics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Heat Capacity",
+          "topicId": "physics.thermodynamics.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Latent Heat",
+          "topicId": "physics.thermodynamics.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Thermal Expansion",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linear Expansion",
+          "topicId": "physics.thermodynamics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Area Expansion",
+          "topicId": "physics.thermodynamics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Volume Expansion",
+          "topicId": "physics.thermodynamics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coefficient of Expansion",
+          "topicId": "physics.thermodynamics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Applications",
+          "topicId": "physics.thermodynamics.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Kinetic Theory of Gases",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ideal Gas",
+          "topicId": "physics.thermodynamics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gas Molecules",
+          "topicId": "physics.thermodynamics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pressure",
+          "topicId": "physics.thermodynamics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Temperature",
+          "topicId": "physics.thermodynamics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "RMS Speed",
+          "topicId": "physics.thermodynamics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mean Free Path",
+          "topicId": "physics.thermodynamics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Degrees of Freedom",
+          "topicId": "physics.thermodynamics.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Equipartition Theorem",
+          "topicId": "physics.thermodynamics.chapter-03.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Gas Laws",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Boyle's Law",
+          "topicId": "physics.thermodynamics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Charles's Law",
+          "topicId": "physics.thermodynamics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Gay-Lussac's Law",
+          "topicId": "physics.thermodynamics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Avogadro's Law",
+          "topicId": "physics.thermodynamics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Combined Gas Law",
+          "topicId": "physics.thermodynamics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ideal Gas Equation",
+          "topicId": "physics.thermodynamics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Real Gases (Introduction)",
+          "topicId": "physics.thermodynamics.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Thermodynamic Processes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Isothermal Process",
+          "topicId": "physics.thermodynamics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Adiabatic Process",
+          "topicId": "physics.thermodynamics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Isobaric Process",
+          "topicId": "physics.thermodynamics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Isochoric Process",
+          "topicId": "physics.thermodynamics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quasi-Static Process",
+          "topicId": "physics.thermodynamics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cyclic Process",
+          "topicId": "physics.thermodynamics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "PV Diagrams",
+          "topicId": "physics.thermodynamics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Work & Heat in Thermodynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Work Done by a Gas",
+          "topicId": "physics.thermodynamics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heat Transfer",
+          "topicId": "physics.thermodynamics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Internal Energy Change",
+          "topicId": "physics.thermodynamics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sign Conventions",
+          "topicId": "physics.thermodynamics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Energy Balance",
+          "topicId": "physics.thermodynamics.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "First Law of Thermodynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conservation of Energy",
+          "topicId": "physics.thermodynamics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heat & Work Relationship",
+          "topicId": "physics.thermodynamics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Applications",
+          "topicId": "physics.thermodynamics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Thermodynamic Cycles",
+          "topicId": "physics.thermodynamics.chapter-07.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Second Law of Thermodynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Entropy",
+          "topicId": "physics.thermodynamics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heat Engines",
+          "topicId": "physics.thermodynamics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Carnot Cycle",
+          "topicId": "physics.thermodynamics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Carnot Engine",
+          "topicId": "physics.thermodynamics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Thermal Efficiency",
+          "topicId": "physics.thermodynamics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Refrigerator",
+          "topicId": "physics.thermodynamics.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Heat Pump",
+          "topicId": "physics.thermodynamics.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Entropy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Entropy",
+          "topicId": "physics.thermodynamics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Entropy Change",
+          "topicId": "physics.thermodynamics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reversible Processes",
+          "topicId": "physics.thermodynamics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Irreversible Processes",
+          "topicId": "physics.thermodynamics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Disorder",
+          "topicId": "physics.thermodynamics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Statistical Interpretation (Introduction)",
+          "topicId": "physics.thermodynamics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Heat Transfer",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Conduction",
+          "topicId": "physics.thermodynamics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Convection",
+          "topicId": "physics.thermodynamics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Radiation",
+          "topicId": "physics.thermodynamics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stefan-Boltzmann Law",
+          "topicId": "physics.thermodynamics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Newton's Law of Cooling",
+          "topicId": "physics.thermodynamics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Thermal Resistance",
+          "topicId": "physics.thermodynamics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Phase Changes",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Melting",
+          "topicId": "physics.thermodynamics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Freezing",
+          "topicId": "physics.thermodynamics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Boiling",
+          "topicId": "physics.thermodynamics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Condensation",
+          "topicId": "physics.thermodynamics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sublimation",
+          "topicId": "physics.thermodynamics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Phase Diagrams",
+          "topicId": "physics.thermodynamics.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Triple Point",
+          "topicId": "physics.thermodynamics.chapter-11.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Critical Point",
+          "topicId": "physics.thermodynamics.chapter-11.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Internal Combustion Engines",
+          "topicId": "physics.thermodynamics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Steam Engines",
+          "topicId": "physics.thermodynamics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Refrigeration Systems",
+          "topicId": "physics.thermodynamics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Air Conditioning",
+          "topicId": "physics.thermodynamics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Power Plants",
+          "topicId": "physics.thermodynamics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cryogenics",
+          "topicId": "physics.thermodynamics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Climate & Atmospheric Physics",
+          "topicId": "physics.thermodynamics.chapter-12.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "physics",

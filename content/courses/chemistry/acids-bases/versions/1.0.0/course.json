@@ -4,10 +4,498 @@
   "description": "This course studies **acid-base chemistry**, one of the most important areas of chemistry. It explains pH, neutralization, buffers, titrations, and the behavior of acids and bases in biological, environmental, and industrial systems.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Acids & Bases",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Acids",
+          "topicId": "chemistry.acids-bases.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bases",
+          "topicId": "chemistry.acids-bases.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Physical Properties",
+          "topicId": "chemistry.acids-bases.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chemical Properties",
+          "topicId": "chemistry.acids-bases.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strong vs Weak Acids",
+          "topicId": "chemistry.acids-bases.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strong vs Weak Bases",
+          "topicId": "chemistry.acids-bases.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Acid-Base Theories",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arrhenius Theory",
+          "topicId": "chemistry.acids-bases.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Brønsted-Lowry Theory",
+          "topicId": "chemistry.acids-bases.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Lewis Theory",
+          "topicId": "chemistry.acids-bases.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conjugate Acids",
+          "topicId": "chemistry.acids-bases.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Conjugate Bases",
+          "topicId": "chemistry.acids-bases.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Amphoteric Substances",
+          "topicId": "chemistry.acids-bases.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Dissociation & Ionization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Acid Dissociation",
+          "topicId": "chemistry.acids-bases.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Base Dissociation",
+          "topicId": "chemistry.acids-bases.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Degree of Ionization",
+          "topicId": "chemistry.acids-bases.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Strong Electrolytes",
+          "topicId": "chemistry.acids-bases.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Weak Electrolytes",
+          "topicId": "chemistry.acids-bases.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Ionization Constants",
+          "topicId": "chemistry.acids-bases.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "pH & pOH",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "pH Scale",
+          "topicId": "chemistry.acids-bases.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "pOH Scale",
+          "topicId": "chemistry.acids-bases.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Hydrogen Ion Concentration",
+          "topicId": "chemistry.acids-bases.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hydroxide Ion Concentration",
+          "topicId": "chemistry.acids-bases.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Relationship Between pH & pOH",
+          "topicId": "chemistry.acids-bases.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Measuring pH",
+          "topicId": "chemistry.acids-bases.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Acid-Base Equilibria",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Acid Dissociation Constant (Ka)",
+          "topicId": "chemistry.acids-bases.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Base Dissociation Constant (Kb)",
+          "topicId": "chemistry.acids-bases.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Water Ionization (Kw)",
+          "topicId": "chemistry.acids-bases.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Common Ion Effect",
+          "topicId": "chemistry.acids-bases.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hydrolysis of Salts",
+          "topicId": "chemistry.acids-bases.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Buffer Solutions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Buffer?",
+          "topicId": "chemistry.acids-bases.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Acidic Buffers",
+          "topicId": "chemistry.acids-bases.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Basic Buffers",
+          "topicId": "chemistry.acids-bases.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Buffer Capacity",
+          "topicId": "chemistry.acids-bases.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Henderson-Hasselbalch Equation",
+          "topicId": "chemistry.acids-bases.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Biological Buffer Systems",
+          "topicId": "chemistry.acids-bases.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Neutralization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Neutralization Reaction",
+          "topicId": "chemistry.acids-bases.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Salt Formation",
+          "topicId": "chemistry.acids-bases.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heat of Neutralization",
+          "topicId": "chemistry.acids-bases.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Strong Acid–Strong Base",
+          "topicId": "chemistry.acids-bases.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Weak Acid–Strong Base",
+          "topicId": "chemistry.acids-bases.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strong Acid–Weak Base",
+          "topicId": "chemistry.acids-bases.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Acid-Base Indicators",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Indicators",
+          "topicId": "chemistry.acids-bases.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Indicator Range",
+          "topicId": "chemistry.acids-bases.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Litmus",
+          "topicId": "chemistry.acids-bases.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Phenolphthalein",
+          "topicId": "chemistry.acids-bases.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Methyl Orange",
+          "topicId": "chemistry.acids-bases.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Universal Indicator",
+          "topicId": "chemistry.acids-bases.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Acid-Base Titration",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Titration Principles",
+          "topicId": "chemistry.acids-bases.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Standard Solutions",
+          "topicId": "chemistry.acids-bases.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "End Point",
+          "topicId": "chemistry.acids-bases.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Equivalence Point",
+          "topicId": "chemistry.acids-bases.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Titration Curves",
+          "topicId": "chemistry.acids-bases.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Choosing Indicators",
+          "topicId": "chemistry.acids-bases.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Polyprotic Acids & Amphoteric Compounds",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Diprotic Acids",
+          "topicId": "chemistry.acids-bases.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Triprotic Acids",
+          "topicId": "chemistry.acids-bases.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Successive Ionization",
+          "topicId": "chemistry.acids-bases.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Amphiprotic Species",
+          "topicId": "chemistry.acids-bases.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Amphoteric Oxides",
+          "topicId": "chemistry.acids-bases.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Blood pH Regulation",
+          "topicId": "chemistry.acids-bases.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ocean Acidification",
+          "topicId": "chemistry.acids-bases.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Soil Chemistry",
+          "topicId": "chemistry.acids-bases.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pharmaceuticals",
+          "topicId": "chemistry.acids-bases.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Food Chemistry",
+          "topicId": "chemistry.acids-bases.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Water Treatment",
+          "topicId": "chemistry.acids-bases.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Industrial Neutralization",
+          "topicId": "chemistry.acids-bases.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Lewis Acid-Base Catalysis",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Superacids",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Superbases",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Acid-Base Chemistry in Non-Aqueous Solvents",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Acid-Base Behavior in Coordination Chemistry",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "*Course 9: Electrochemistry**",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Oxidation & Reduction",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Oxidation Numbers",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Redox Reactions",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Galvanic Cells",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Electrolytic Cells",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Standard Electrode Potentials",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Nernst Equation",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Batteries",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Fuel Cells",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Electrolysis",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Corrosion",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Electroplating",
+          "topicId": "chemistry.acids-bases.chapter-12.topic-18"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "chemistry",

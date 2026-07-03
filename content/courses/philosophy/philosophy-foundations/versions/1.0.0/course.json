@@ -4,10 +4,574 @@
   "description": "This course introduces **the study of fundamental questions about reality, knowledge, morality, reasoning, and human existence**. It provides the conceptual foundation for all later philosophy courses.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Philosophy?",
+          "topicId": "philosophy.philosophy-foundations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Branches of Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Philosophical Questions",
+          "topicId": "philosophy.philosophy-foundations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Methods of Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Critical Thinking",
+          "topicId": "philosophy.philosophy-foundations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Why Study Philosophy?",
+          "topicId": "philosophy.philosophy-foundations.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "History of Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ancient Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Medieval Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Modern Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Contemporary Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Eastern Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Western Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Arguments & Reasoning",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arguments",
+          "topicId": "philosophy.philosophy-foundations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Premises",
+          "topicId": "philosophy.philosophy-foundations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conclusions",
+          "topicId": "philosophy.philosophy-foundations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Validity",
+          "topicId": "philosophy.philosophy-foundations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Soundness",
+          "topicId": "philosophy.philosophy-foundations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logical Fallacies",
+          "topicId": "philosophy.philosophy-foundations.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Rational Inquiry",
+          "topicId": "philosophy.philosophy-foundations.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Reality & Existence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Reality",
+          "topicId": "philosophy.philosophy-foundations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Existence",
+          "topicId": "philosophy.philosophy-foundations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Being",
+          "topicId": "philosophy.philosophy-foundations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Identity",
+          "topicId": "philosophy.philosophy-foundations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Change",
+          "topicId": "philosophy.philosophy-foundations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Space & Time",
+          "topicId": "philosophy.philosophy-foundations.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Causality",
+          "topicId": "philosophy.philosophy-foundations.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Knowledge",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Belief",
+          "topicId": "philosophy.philosophy-foundations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Truth",
+          "topicId": "philosophy.philosophy-foundations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Justification",
+          "topicId": "philosophy.philosophy-foundations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Skepticism",
+          "topicId": "philosophy.philosophy-foundations.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sources of Knowledge",
+          "topicId": "philosophy.philosophy-foundations.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Rationalism",
+          "topicId": "philosophy.philosophy-foundations.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Empiricism",
+          "topicId": "philosophy.philosophy-foundations.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Ethics & Morality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Morality",
+          "topicId": "philosophy.philosophy-foundations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ethical Reasoning",
+          "topicId": "philosophy.philosophy-foundations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Values",
+          "topicId": "philosophy.philosophy-foundations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Virtue",
+          "topicId": "philosophy.philosophy-foundations.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Duty",
+          "topicId": "philosophy.philosophy-foundations.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Consequences",
+          "topicId": "philosophy.philosophy-foundations.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Moral Responsibility",
+          "topicId": "philosophy.philosophy-foundations.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Mind & Consciousness",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mind",
+          "topicId": "philosophy.philosophy-foundations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Consciousness",
+          "topicId": "philosophy.philosophy-foundations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Free Will",
+          "topicId": "philosophy.philosophy-foundations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Personal Identity",
+          "topicId": "philosophy.philosophy-foundations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Emotion",
+          "topicId": "philosophy.philosophy-foundations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Artificial Intelligence",
+          "topicId": "philosophy.philosophy-foundations.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Mind-Body Problem",
+          "topicId": "philosophy.philosophy-foundations.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Society & Politics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Justice",
+          "topicId": "philosophy.philosophy-foundations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Rights",
+          "topicId": "philosophy.philosophy-foundations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equality",
+          "topicId": "philosophy.philosophy-foundations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Liberty",
+          "topicId": "philosophy.philosophy-foundations.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Democracy",
+          "topicId": "philosophy.philosophy-foundations.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Authority",
+          "topicId": "philosophy.philosophy-foundations.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Social Contract",
+          "topicId": "philosophy.philosophy-foundations.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Beauty & Art",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Aesthetics",
+          "topicId": "philosophy.philosophy-foundations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Beauty",
+          "topicId": "philosophy.philosophy-foundations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Art",
+          "topicId": "philosophy.philosophy-foundations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Creativity",
+          "topicId": "philosophy.philosophy-foundations.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artistic Value",
+          "topicId": "philosophy.philosophy-foundations.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interpretation",
+          "topicId": "philosophy.philosophy-foundations.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Science & Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Scientific Method",
+          "topicId": "philosophy.philosophy-foundations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scientific Explanation",
+          "topicId": "philosophy.philosophy-foundations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Evidence",
+          "topicId": "philosophy.philosophy-foundations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Theory",
+          "topicId": "philosophy.philosophy-foundations.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Objectivity",
+          "topicId": "philosophy.philosophy-foundations.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Philosophy of Science",
+          "topicId": "philosophy.philosophy-foundations.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Philosophy in Everyday Life",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Decision Making",
+          "topicId": "philosophy.philosophy-foundations.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Critical Thinking",
+          "topicId": "philosophy.philosophy-foundations.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ethics in Technology",
+          "topicId": "philosophy.philosophy-foundations.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Ethics",
+          "topicId": "philosophy.philosophy-foundations.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Business Ethics",
+          "topicId": "philosophy.philosophy-foundations.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Medical Ethics",
+          "topicId": "philosophy.philosophy-foundations.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Major Philosophical Traditions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Analytic Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Continental Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Indian Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chinese Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Islamic Philosophy",
+          "topicId": "philosophy.philosophy-foundations.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pragmatism",
+          "topicId": "philosophy.philosophy-foundations.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Future of Philosophy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Philosophy & Artificial Intelligence",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Philosophy of Information",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Digital Ethics",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Transhumanism",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Existential Risks",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future Philosophical Questions",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 2: Logic**",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Propositions",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Arguments",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Deductive Logic",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Inductive Logic",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Truth Tables",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Predicate Logic",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Quantifiers",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Proof Techniques",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Informal Logic",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Logical Fallacies",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Modal Logic",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Computational Logic",
+          "topicId": "philosophy.philosophy-foundations.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

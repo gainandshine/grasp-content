@@ -4,10 +4,549 @@
   "description": "This course studies **how strategies evolve over time within populations**, rather than assuming perfectly rational players. It explains how cooperation, competition, and adaptation emerge in biology, economics, sociology, and artificial intelligence.",
   "version": "1.0.0",
   "domain": "game-theory",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Evolutionary Game Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Evolutionary Game Theory?",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Classical vs Evolutionary Game Theory",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Populations",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Strategies",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Evolution",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Fitness & Natural Selection",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Biological Fitness",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reproductive Success",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Natural Selection",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Adaptation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Selection Pressure",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Population Dynamics",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Evolutionarily Stable Strategies (ESS)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Evolutionarily Stable Strategy (ESS)",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stability",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mutant Strategies",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Invasion",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nash Equilibrium vs ESS",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stability Analysis",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Replicator Dynamics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Replicator Equation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Population Shares",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Growth of Strategies",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dynamic Equilibrium",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Evolution Over Time",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Stability of Populations",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Cooperation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Evolution of Cooperation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reciprocity",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Kin Selection",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reciprocal Altruism",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Group Selection",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cooperation in Nature",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Conflict & Competition",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hawk-Dove Game",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Resource Competition",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Territorial Behavior",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Evolutionary Arms Races",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Predator-Prey Dynamics",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Competitive Adaptation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Signaling Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Honest Signaling",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Costly Signals",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Communication",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Signaling Equilibrium",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Information Transfer",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evolution of Communication",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Population Games",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Population Games",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Random Matching",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Large Populations",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mean Dynamics",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Norms",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Behavioral Evolution",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Cultural Evolution",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cultural Transmission",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Social Learning",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Norm Formation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Imitation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Innovation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Memetics",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Evolutionary Computation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Genetic Algorithms",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Evolutionary Algorithms",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Selection",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mutation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Crossover",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Optimization",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Biology",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Economics",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Artificial Intelligence",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Ecology",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Epidemiology",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Social Networks",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Robotics",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Computational Models",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Agent-Based Models",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Evolutionary Simulation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multi-Agent Evolution",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Adaptive Systems",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Swarm Intelligence",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Evolutionary Robotics",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Level Selection",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Coevolution",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Network Evolution",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Evolutionary Machine Learning",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Open-Ended Evolution",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Evolutionary Systems",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 11: Mechanism Design**",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Mechanism Design Fundamentals",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Incentive Compatibility",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Truthful Mechanisms",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Social Choice Mechanisms",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Matching Markets",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Market Design",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Contract Theory",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Public Goods",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Resource Allocation",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Platform Design",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Algorithmic Mechanism Design",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "AI Mechanisms",
+          "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "game-theory",

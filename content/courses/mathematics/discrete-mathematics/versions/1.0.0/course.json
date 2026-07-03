@@ -4,10 +4,596 @@
   "description": "Discrete Mathematics",
   "version": "1.0.0",
   "domain": "mathematics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Propositions",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logical Connectives",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Truth Tables",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Logical Equivalence",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Tautologies",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Contradictions",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Quantifiers",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Predicate Logic",
+          "topicId": "mathematics.discrete-mathematics.chapter-01.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Proof Techniques",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Direct Proof",
+          "topicId": "mathematics.discrete-mathematics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Proof by Contradiction",
+          "topicId": "mathematics.discrete-mathematics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proof by Contrapositive",
+          "topicId": "mathematics.discrete-mathematics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mathematical Induction",
+          "topicId": "mathematics.discrete-mathematics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strong Induction",
+          "topicId": "mathematics.discrete-mathematics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Counterexamples",
+          "topicId": "mathematics.discrete-mathematics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Sets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sets",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Subsets",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Power Sets",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Union",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Intersection",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Difference",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Complement",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Cartesian Product",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Venn Diagrams",
+          "topicId": "mathematics.discrete-mathematics.chapter-03.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Relations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Binary Relations",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reflexive Relations",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Symmetric Relations",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Antisymmetric Relations",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transitive Relations",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Equivalence Relations",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Partial Orders",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Hasse Diagrams",
+          "topicId": "mathematics.discrete-mathematics.chapter-04.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Functions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Functions",
+          "topicId": "mathematics.discrete-mathematics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Injective Functions",
+          "topicId": "mathematics.discrete-mathematics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Surjective Functions",
+          "topicId": "mathematics.discrete-mathematics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bijective Functions",
+          "topicId": "mathematics.discrete-mathematics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Composition",
+          "topicId": "mathematics.discrete-mathematics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Inverse Functions",
+          "topicId": "mathematics.discrete-mathematics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Recursive Functions",
+          "topicId": "mathematics.discrete-mathematics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Counting",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Addition Principle",
+          "topicId": "mathematics.discrete-mathematics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Multiplication Principle",
+          "topicId": "mathematics.discrete-mathematics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Inclusion-Exclusion Principle",
+          "topicId": "mathematics.discrete-mathematics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pigeonhole Principle",
+          "topicId": "mathematics.discrete-mathematics.chapter-06.topic-04"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Combinatorics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Permutations",
+          "topicId": "mathematics.discrete-mathematics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Combinations",
+          "topicId": "mathematics.discrete-mathematics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Binomial Theorem",
+          "topicId": "mathematics.discrete-mathematics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pascal's Triangle",
+          "topicId": "mathematics.discrete-mathematics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Multinomial Coefficients",
+          "topicId": "mathematics.discrete-mathematics.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Recurrence Relations",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Recursive Sequences",
+          "topicId": "mathematics.discrete-mathematics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Linear Recurrence Relations",
+          "topicId": "mathematics.discrete-mathematics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Solving Recurrences",
+          "topicId": "mathematics.discrete-mathematics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Characteristic Equations",
+          "topicId": "mathematics.discrete-mathematics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fibonacci Sequence",
+          "topicId": "mathematics.discrete-mathematics.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Graph Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Graph Basics",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Types of Graphs",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Degree",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Paths",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cycles",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Trees",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Connectivity",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Bipartite Graphs",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Graph Coloring",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Euler Paths",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Hamiltonian Paths",
+          "topicId": "mathematics.discrete-mathematics.chapter-09.topic-11"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Trees",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Rooted Trees",
+          "topicId": "mathematics.discrete-mathematics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Binary Trees",
+          "topicId": "mathematics.discrete-mathematics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Tree Traversal",
+          "topicId": "mathematics.discrete-mathematics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spanning Trees",
+          "topicId": "mathematics.discrete-mathematics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Minimum Spanning Trees",
+          "topicId": "mathematics.discrete-mathematics.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Boolean Algebra",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Boolean Expressions",
+          "topicId": "mathematics.discrete-mathematics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Boolean Identities",
+          "topicId": "mathematics.discrete-mathematics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Logic Gates",
+          "topicId": "mathematics.discrete-mathematics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Karnaugh Maps",
+          "topicId": "mathematics.discrete-mathematics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Logic Basics",
+          "topicId": "mathematics.discrete-mathematics.chapter-11.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Algorithms",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Algorithm Analysis",
+          "topicId": "mathematics.discrete-mathematics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Big O Notation",
+          "topicId": "mathematics.discrete-mathematics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Big Ω",
+          "topicId": "mathematics.discrete-mathematics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Big Θ",
+          "topicId": "mathematics.discrete-mathematics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Divide and Conquer",
+          "topicId": "mathematics.discrete-mathematics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Greedy Algorithms",
+          "topicId": "mathematics.discrete-mathematics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Dynamic Programming (Introduction)",
+          "topicId": "mathematics.discrete-mathematics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Number Theory",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Divisibility",
+          "topicId": "mathematics.discrete-mathematics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Prime Numbers",
+          "topicId": "mathematics.discrete-mathematics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Greatest Common Divisor",
+          "topicId": "mathematics.discrete-mathematics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Modular Arithmetic",
+          "topicId": "mathematics.discrete-mathematics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Congruence",
+          "topicId": "mathematics.discrete-mathematics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Euclidean Algorithm",
+          "topicId": "mathematics.discrete-mathematics.chapter-13.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "name": "Discrete Probability",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Sample Space",
+          "topicId": "mathematics.discrete-mathematics.chapter-14.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Events",
+          "topicId": "mathematics.discrete-mathematics.chapter-14.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Conditional Probability",
+          "topicId": "mathematics.discrete-mathematics.chapter-14.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bayes' Theorem",
+          "topicId": "mathematics.discrete-mathematics.chapter-14.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Random Variables",
+          "topicId": "mathematics.discrete-mathematics.chapter-14.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Expected Value",
+          "topicId": "mathematics.discrete-mathematics.chapter-14.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-15",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cryptography",
+          "topicId": "mathematics.discrete-mathematics.chapter-15.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Computer Networks",
+          "topicId": "mathematics.discrete-mathematics.chapter-15.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Databases",
+          "topicId": "mathematics.discrete-mathematics.chapter-15.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Compiler Design",
+          "topicId": "mathematics.discrete-mathematics.chapter-15.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Intelligence",
+          "topicId": "mathematics.discrete-mathematics.chapter-15.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Software Engineering",
+          "topicId": "mathematics.discrete-mathematics.chapter-15.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Optimization",
+          "topicId": "mathematics.discrete-mathematics.chapter-15.topic-07"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 30,
     "prerequisites": [],
     "tags": [
       "mathematics",

@@ -4,10 +4,549 @@
   "description": "This course studies **how economies grow and develop over time**, focusing on poverty reduction, inequality, industrialization, human development, and sustainable economic progress.",
   "version": "1.0.0",
   "domain": "economics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Development Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Economic Development?",
+          "topicId": "economics.development-economics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Economic Growth vs Development",
+          "topicId": "economics.development-economics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Developing Economies",
+          "topicId": "economics.development-economics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human Development",
+          "topicId": "economics.development-economics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Development Indicators",
+          "topicId": "economics.development-economics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Development",
+          "topicId": "economics.development-economics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Measuring Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gross Domestic Product (GDP)",
+          "topicId": "economics.development-economics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "GDP per Capita",
+          "topicId": "economics.development-economics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Human Development Index (HDI)",
+          "topicId": "economics.development-economics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multidimensional Poverty Index (MPI)",
+          "topicId": "economics.development-economics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Gini Coefficient",
+          "topicId": "economics.development-economics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Development Goals (SDGs)",
+          "topicId": "economics.development-economics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Poverty",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Absolute Poverty",
+          "topicId": "economics.development-economics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Relative Poverty",
+          "topicId": "economics.development-economics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Poverty Trap",
+          "topicId": "economics.development-economics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Causes of Poverty",
+          "topicId": "economics.development-economics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Poverty Measurement",
+          "topicId": "economics.development-economics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Poverty Reduction Strategies",
+          "topicId": "economics.development-economics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Inequality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Income Inequality",
+          "topicId": "economics.development-economics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Wealth Inequality",
+          "topicId": "economics.development-economics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Social Mobility",
+          "topicId": "economics.development-economics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Inclusive Growth",
+          "topicId": "economics.development-economics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Redistribution",
+          "topicId": "economics.development-economics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Equality of Opportunity",
+          "topicId": "economics.development-economics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Economic Growth",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Capital Accumulation",
+          "topicId": "economics.development-economics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Productivity",
+          "topicId": "economics.development-economics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Technological Progress",
+          "topicId": "economics.development-economics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Human Capital",
+          "topicId": "economics.development-economics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Innovation",
+          "topicId": "economics.development-economics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Long-Term Growth",
+          "topicId": "economics.development-economics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Agriculture & Rural Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Agricultural Productivity",
+          "topicId": "economics.development-economics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Food Security",
+          "topicId": "economics.development-economics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rural Development",
+          "topicId": "economics.development-economics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Land Reform",
+          "topicId": "economics.development-economics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Agricultural Policy",
+          "topicId": "economics.development-economics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Agriculture",
+          "topicId": "economics.development-economics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Industrialization & Urbanization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Industrial Development",
+          "topicId": "economics.development-economics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Manufacturing",
+          "topicId": "economics.development-economics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Structural Transformation",
+          "topicId": "economics.development-economics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Urbanization",
+          "topicId": "economics.development-economics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Infrastructure",
+          "topicId": "economics.development-economics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Smart Cities",
+          "topicId": "economics.development-economics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Education & Health",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Human Capital",
+          "topicId": "economics.development-economics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Education Systems",
+          "topicId": "economics.development-economics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Healthcare",
+          "topicId": "economics.development-economics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Nutrition",
+          "topicId": "economics.development-economics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Labor Productivity",
+          "topicId": "economics.development-economics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Demographic Transition",
+          "topicId": "economics.development-economics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Institutions & Governance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Economic Institutions",
+          "topicId": "economics.development-economics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Property Rights",
+          "topicId": "economics.development-economics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rule of Law",
+          "topicId": "economics.development-economics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Corruption",
+          "topicId": "economics.development-economics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Governance",
+          "topicId": "economics.development-economics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Administration",
+          "topicId": "economics.development-economics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "International Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Foreign Aid",
+          "topicId": "economics.development-economics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Foreign Direct Investment (FDI)",
+          "topicId": "economics.development-economics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "International Trade",
+          "topicId": "economics.development-economics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Debt",
+          "topicId": "economics.development-economics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Globalization",
+          "topicId": "economics.development-economics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Development Finance",
+          "topicId": "economics.development-economics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Sustainable Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Environmental Economics",
+          "topicId": "economics.development-economics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Renewable Energy",
+          "topicId": "economics.development-economics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Climate Change",
+          "topicId": "economics.development-economics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Green Growth",
+          "topicId": "economics.development-economics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Circular Economy",
+          "topicId": "economics.development-economics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Resource Management",
+          "topicId": "economics.development-economics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Development Policy",
+          "topicId": "economics.development-economics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Microfinance",
+          "topicId": "economics.development-economics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Entrepreneurship",
+          "topicId": "economics.development-economics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Digital Economy",
+          "topicId": "economics.development-economics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Financial Inclusion",
+          "topicId": "economics.development-economics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Infrastructure",
+          "topicId": "economics.development-economics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Economic Planning",
+          "topicId": "economics.development-economics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Endogenous Growth Theory",
+          "topicId": "economics.development-economics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Behavioral Development Economics",
+          "topicId": "economics.development-economics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Digital Development",
+          "topicId": "economics.development-economics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Inclusive Innovation",
+          "topicId": "economics.development-economics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Resilient Economies",
+          "topicId": "economics.development-economics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Global Development",
+          "topicId": "economics.development-economics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 11: Behavioral Economics**",
+          "topicId": "economics.development-economics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Rational Choice Theory",
+          "topicId": "economics.development-economics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Cognitive Biases",
+          "topicId": "economics.development-economics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Heuristics",
+          "topicId": "economics.development-economics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Prospect Theory",
+          "topicId": "economics.development-economics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Decision Making Under Risk",
+          "topicId": "economics.development-economics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Time Preferences",
+          "topicId": "economics.development-economics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Nudging",
+          "topicId": "economics.development-economics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Behavioral Finance",
+          "topicId": "economics.development-economics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Consumer Behavior",
+          "topicId": "economics.development-economics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Public Policy",
+          "topicId": "economics.development-economics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Experimental Economics",
+          "topicId": "economics.development-economics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Applications of Behavioral Economics",
+          "topicId": "economics.development-economics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "economics",

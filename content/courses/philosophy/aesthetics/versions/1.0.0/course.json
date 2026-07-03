@@ -4,10 +4,549 @@
   "description": "This course studies **the philosophy of beauty, art, and aesthetic experience**. It explores what makes something beautiful, what distinguishes art, how creativity works, and how people interpret artistic works.",
   "version": "1.0.0",
   "domain": "philosophy",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Aesthetics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Aesthetics?",
+          "topicId": "philosophy.aesthetics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Beauty",
+          "topicId": "philosophy.aesthetics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Art",
+          "topicId": "philosophy.aesthetics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Aesthetic Experience",
+          "topicId": "philosophy.aesthetics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Taste",
+          "topicId": "philosophy.aesthetics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Philosophy of Art",
+          "topicId": "philosophy.aesthetics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Beauty",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Objective vs Subjective Beauty",
+          "topicId": "philosophy.aesthetics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Harmony",
+          "topicId": "philosophy.aesthetics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Symmetry",
+          "topicId": "philosophy.aesthetics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Proportion",
+          "topicId": "philosophy.aesthetics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sublime",
+          "topicId": "philosophy.aesthetics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Aesthetic Judgment",
+          "topicId": "philosophy.aesthetics.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "The Nature of Art",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Art?",
+          "topicId": "philosophy.aesthetics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Representation",
+          "topicId": "philosophy.aesthetics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Expression",
+          "topicId": "philosophy.aesthetics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Formalism",
+          "topicId": "philosophy.aesthetics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Institutional Theory of Art",
+          "topicId": "philosophy.aesthetics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Artistic Value",
+          "topicId": "philosophy.aesthetics.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Creativity",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Creativity",
+          "topicId": "philosophy.aesthetics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Imagination",
+          "topicId": "philosophy.aesthetics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Inspiration",
+          "topicId": "philosophy.aesthetics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Innovation",
+          "topicId": "philosophy.aesthetics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Creative Process",
+          "topicId": "philosophy.aesthetics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Originality",
+          "topicId": "philosophy.aesthetics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Interpretation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Meaning in Art",
+          "topicId": "philosophy.aesthetics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Artist's Intention",
+          "topicId": "philosophy.aesthetics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Audience Interpretation",
+          "topicId": "philosophy.aesthetics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Symbolism",
+          "topicId": "philosophy.aesthetics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Context",
+          "topicId": "philosophy.aesthetics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Criticism",
+          "topicId": "philosophy.aesthetics.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Literature",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Narrative",
+          "topicId": "philosophy.aesthetics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Poetry",
+          "topicId": "philosophy.aesthetics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fiction",
+          "topicId": "philosophy.aesthetics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Drama",
+          "topicId": "philosophy.aesthetics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Literary Themes",
+          "topicId": "philosophy.aesthetics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Literary Interpretation",
+          "topicId": "philosophy.aesthetics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Music",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Musical Aesthetics",
+          "topicId": "philosophy.aesthetics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Melody",
+          "topicId": "philosophy.aesthetics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Harmony",
+          "topicId": "philosophy.aesthetics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Rhythm",
+          "topicId": "philosophy.aesthetics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Emotional Expression",
+          "topicId": "philosophy.aesthetics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Musical Meaning",
+          "topicId": "philosophy.aesthetics.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Visual Arts",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Painting",
+          "topicId": "philosophy.aesthetics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Sculpture",
+          "topicId": "philosophy.aesthetics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Photography",
+          "topicId": "philosophy.aesthetics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Design",
+          "topicId": "philosophy.aesthetics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Color Theory",
+          "topicId": "philosophy.aesthetics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Visual Composition",
+          "topicId": "philosophy.aesthetics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Film & Digital Media",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cinema",
+          "topicId": "philosophy.aesthetics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Storytelling",
+          "topicId": "philosophy.aesthetics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cinematography",
+          "topicId": "philosophy.aesthetics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Animation",
+          "topicId": "philosophy.aesthetics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Video Games",
+          "topicId": "philosophy.aesthetics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Interactive Media",
+          "topicId": "philosophy.aesthetics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Architecture & Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Architecture",
+          "topicId": "philosophy.aesthetics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Urban Design",
+          "topicId": "philosophy.aesthetics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Functional Design",
+          "topicId": "philosophy.aesthetics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Industrial Design",
+          "topicId": "philosophy.aesthetics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Interior Design",
+          "topicId": "philosophy.aesthetics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Sustainable Design",
+          "topicId": "philosophy.aesthetics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Aesthetics in Everyday Life",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fashion",
+          "topicId": "philosophy.aesthetics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Food",
+          "topicId": "philosophy.aesthetics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Nature",
+          "topicId": "philosophy.aesthetics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Consumer Products",
+          "topicId": "philosophy.aesthetics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Digital Interfaces",
+          "topicId": "philosophy.aesthetics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "User Experience (UX)",
+          "topicId": "philosophy.aesthetics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Art Criticism",
+          "topicId": "philosophy.aesthetics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Design Thinking",
+          "topicId": "philosophy.aesthetics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Advertising",
+          "topicId": "philosophy.aesthetics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Product Design",
+          "topicId": "philosophy.aesthetics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Entertainment",
+          "topicId": "philosophy.aesthetics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Education",
+          "topicId": "philosophy.aesthetics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Artificial Intelligence & Creativity",
+          "topicId": "philosophy.aesthetics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Environmental Aesthetics",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Everyday Aesthetics",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Computational Creativity",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "AI-Generated Art",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cross-Cultural Aesthetics",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Future of Art & Beauty",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 11: History of Philosophy**",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Pre-Socratic Philosophy",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Socrates",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Plato",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Aristotle",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Hellenistic Philosophy",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Medieval Philosophy",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Renaissance Philosophy",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Early Modern Philosophy",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Enlightenment",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "19th Century Philosophy",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "20th Century Philosophy",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Eastern Philosophical Traditions",
+          "topicId": "philosophy.aesthetics.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "philosophy",

@@ -4,10 +4,443 @@
   "description": "Particle Physics",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Particle Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Particle Physics?",
+          "topicId": "physics.particle-physics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fundamental Particles",
+          "topicId": "physics.particle-physics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Composite Particles",
+          "topicId": "physics.particle-physics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Standard Model Overview",
+          "topicId": "physics.particle-physics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "History of Particle Physics",
+          "topicId": "physics.particle-physics.chapter-01.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Elementary Particles",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Quarks",
+          "topicId": "physics.particle-physics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Leptons",
+          "topicId": "physics.particle-physics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Generations of Particles",
+          "topicId": "physics.particle-physics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Particle Properties",
+          "topicId": "physics.particle-physics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Antiparticles",
+          "topicId": "physics.particle-physics.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Fundamental Forces",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Gravitational Force",
+          "topicId": "physics.particle-physics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electromagnetic Force",
+          "topicId": "physics.particle-physics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Weak Nuclear Force",
+          "topicId": "physics.particle-physics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Strong Nuclear Force",
+          "topicId": "physics.particle-physics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Force Carriers",
+          "topicId": "physics.particle-physics.chapter-03.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Gauge Bosons",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Photon",
+          "topicId": "physics.particle-physics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Gluon",
+          "topicId": "physics.particle-physics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "W Boson",
+          "topicId": "physics.particle-physics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Z Boson",
+          "topicId": "physics.particle-physics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Graviton (Theoretical)",
+          "topicId": "physics.particle-physics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Higgs Boson",
+          "topicId": "physics.particle-physics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Quark Model",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Up Quark",
+          "topicId": "physics.particle-physics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Down Quark",
+          "topicId": "physics.particle-physics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Strange Quark",
+          "topicId": "physics.particle-physics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Charm Quark",
+          "topicId": "physics.particle-physics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Top Quark",
+          "topicId": "physics.particle-physics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bottom Quark",
+          "topicId": "physics.particle-physics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Color Charge",
+          "topicId": "physics.particle-physics.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Quark Confinement",
+          "topicId": "physics.particle-physics.chapter-05.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Hadrons",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Baryons",
+          "topicId": "physics.particle-physics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mesons",
+          "topicId": "physics.particle-physics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Proton",
+          "topicId": "physics.particle-physics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Neutron",
+          "topicId": "physics.particle-physics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Exotic Hadrons",
+          "topicId": "physics.particle-physics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Hadron Classification",
+          "topicId": "physics.particle-physics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Particle Interactions",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Feynman Diagrams",
+          "topicId": "physics.particle-physics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Particle Scattering",
+          "topicId": "physics.particle-physics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Particle Decay",
+          "topicId": "physics.particle-physics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conservation Laws",
+          "topicId": "physics.particle-physics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cross Sections",
+          "topicId": "physics.particle-physics.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Symmetry in Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Symmetry Principles",
+          "topicId": "physics.particle-physics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "CPT Symmetry",
+          "topicId": "physics.particle-physics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Parity",
+          "topicId": "physics.particle-physics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Charge Conjugation",
+          "topicId": "physics.particle-physics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Time Reversal",
+          "topicId": "physics.particle-physics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Symmetry Breaking",
+          "topicId": "physics.particle-physics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Accelerators & Detectors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linear Accelerators",
+          "topicId": "physics.particle-physics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Synchrotrons",
+          "topicId": "physics.particle-physics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Cyclotrons",
+          "topicId": "physics.particle-physics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Large Hadron Collider",
+          "topicId": "physics.particle-physics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Particle Detectors",
+          "topicId": "physics.particle-physics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Tracking Systems",
+          "topicId": "physics.particle-physics.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Calorimeters",
+          "topicId": "physics.particle-physics.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Standard Model",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Standard Model Structure",
+          "topicId": "physics.particle-physics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Fermions",
+          "topicId": "physics.particle-physics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Bosons",
+          "topicId": "physics.particle-physics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Higgs Mechanism",
+          "topicId": "physics.particle-physics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electroweak Theory",
+          "topicId": "physics.particle-physics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Quantum Chromodynamics (Introduction)",
+          "topicId": "physics.particle-physics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Beyond the Standard Model",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Neutrino Oscillations",
+          "topicId": "physics.particle-physics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dark Matter",
+          "topicId": "physics.particle-physics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dark Energy",
+          "topicId": "physics.particle-physics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Supersymmetry (Introduction)",
+          "topicId": "physics.particle-physics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "String Theory (Overview)",
+          "topicId": "physics.particle-physics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Grand Unified Theories",
+          "topicId": "physics.particle-physics.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Quantum Gravity (Introduction)",
+          "topicId": "physics.particle-physics.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Medical Particle Therapy",
+          "topicId": "physics.particle-physics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "PET Scanners",
+          "topicId": "physics.particle-physics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Synchrotron Radiation",
+          "topicId": "physics.particle-physics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Materials Research",
+          "topicId": "physics.particle-physics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Nuclear Research",
+          "topicId": "physics.particle-physics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Cosmology Connections",
+          "topicId": "physics.particle-physics.chapter-12.topic-06"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 24,
     "prerequisites": [],
     "tags": [
       "physics",

@@ -4,10 +4,559 @@
   "description": "This course studies **how programming languages are translated into executable programs**. It covers the complete compiler pipeline, from source code to optimized machine code.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Compiler Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Compiler?",
+          "topicId": "computer-science.compiler-design.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Compiler vs Interpreter",
+          "topicId": "computer-science.compiler-design.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Language Translation",
+          "topicId": "computer-science.compiler-design.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Compiler Phases",
+          "topicId": "computer-science.compiler-design.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bootstrapping",
+          "topicId": "computer-science.compiler-design.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Compiler Architecture",
+          "topicId": "computer-science.compiler-design.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Lexical Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Lexical Analysis",
+          "topicId": "computer-science.compiler-design.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Tokens",
+          "topicId": "computer-science.compiler-design.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Lexemes",
+          "topicId": "computer-science.compiler-design.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Regular Expressions",
+          "topicId": "computer-science.compiler-design.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Finite Automata",
+          "topicId": "computer-science.compiler-design.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lexical Errors",
+          "topicId": "computer-science.compiler-design.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Lexer Generators",
+          "topicId": "computer-science.compiler-design.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Syntax Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Context-Free Grammars",
+          "topicId": "computer-science.compiler-design.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Parsing",
+          "topicId": "computer-science.compiler-design.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Parse Trees",
+          "topicId": "computer-science.compiler-design.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Abstract Syntax Trees (ASTs)",
+          "topicId": "computer-science.compiler-design.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Top-Down Parsing",
+          "topicId": "computer-science.compiler-design.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Bottom-Up Parsing",
+          "topicId": "computer-science.compiler-design.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Parser Generators",
+          "topicId": "computer-science.compiler-design.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Semantic Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Semantic Rules",
+          "topicId": "computer-science.compiler-design.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Symbol Tables",
+          "topicId": "computer-science.compiler-design.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Scope Resolution",
+          "topicId": "computer-science.compiler-design.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Type Checking",
+          "topicId": "computer-science.compiler-design.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Type Inference",
+          "topicId": "computer-science.compiler-design.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Semantic Errors",
+          "topicId": "computer-science.compiler-design.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Intermediate Representation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Intermediate Code",
+          "topicId": "computer-science.compiler-design.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Three-Address Code",
+          "topicId": "computer-science.compiler-design.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Control Flow Graphs",
+          "topicId": "computer-science.compiler-design.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Static Single Assignment (SSA)",
+          "topicId": "computer-science.compiler-design.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Intermediate Representations (IR)",
+          "topicId": "computer-science.compiler-design.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Code Optimization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Constant Folding",
+          "topicId": "computer-science.compiler-design.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Constant Propagation",
+          "topicId": "computer-science.compiler-design.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Dead Code Elimination",
+          "topicId": "computer-science.compiler-design.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Common Subexpression Elimination",
+          "topicId": "computer-science.compiler-design.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Loop Optimization",
+          "topicId": "computer-science.compiler-design.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Function Inlining",
+          "topicId": "computer-science.compiler-design.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Peephole Optimization",
+          "topicId": "computer-science.compiler-design.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Code Generation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Instruction Selection",
+          "topicId": "computer-science.compiler-design.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Register Allocation",
+          "topicId": "computer-science.compiler-design.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Instruction Scheduling",
+          "topicId": "computer-science.compiler-design.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Calling Conventions",
+          "topicId": "computer-science.compiler-design.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Machine Code Generation",
+          "topicId": "computer-science.compiler-design.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Target Architectures",
+          "topicId": "computer-science.compiler-design.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Runtime Systems",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Runtime Environment",
+          "topicId": "computer-science.compiler-design.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stack Frames",
+          "topicId": "computer-science.compiler-design.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Heap Memory",
+          "topicId": "computer-science.compiler-design.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Garbage Collection",
+          "topicId": "computer-science.compiler-design.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Memory Allocation",
+          "topicId": "computer-science.compiler-design.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Exception Handling",
+          "topicId": "computer-science.compiler-design.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Language Features",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Functions",
+          "topicId": "computer-science.compiler-design.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Closures",
+          "topicId": "computer-science.compiler-design.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Objects",
+          "topicId": "computer-science.compiler-design.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Generics",
+          "topicId": "computer-science.compiler-design.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Modules",
+          "topicId": "computer-science.compiler-design.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Exception Handling Implementation",
+          "topicId": "computer-science.compiler-design.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Interpreters & Virtual Machines",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Interpreter Design",
+          "topicId": "computer-science.compiler-design.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Bytecode",
+          "topicId": "computer-science.compiler-design.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Virtual Machines",
+          "topicId": "computer-science.compiler-design.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stack-Based VMs",
+          "topicId": "computer-science.compiler-design.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Register-Based VMs",
+          "topicId": "computer-science.compiler-design.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Just-In-Time (JIT) Compilation",
+          "topicId": "computer-science.compiler-design.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Modern Compiler Technologies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "LLVM",
+          "topicId": "computer-science.compiler-design.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "GCC",
+          "topicId": "computer-science.compiler-design.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "JVM",
+          "topicId": "computer-science.compiler-design.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": ".NET CLR",
+          "topicId": "computer-science.compiler-design.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "WebAssembly",
+          "topicId": "computer-science.compiler-design.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Incremental Compilation",
+          "topicId": "computer-science.compiler-design.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Compiler Construction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Building a Simple Compiler",
+          "topicId": "computer-science.compiler-design.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Error Recovery",
+          "topicId": "computer-science.compiler-design.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Testing Compilers",
+          "topicId": "computer-science.compiler-design.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Debugging Compilers",
+          "topicId": "computer-science.compiler-design.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Performance Measurement",
+          "topicId": "computer-science.compiler-design.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Compiler Toolchains",
+          "topicId": "computer-science.compiler-design.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Programming Languages",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "IDEs",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Static Analysis Tools",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Code Formatters",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Transpilers",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Domain-Specific Languages (DSLs)",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Language Server Protocol (LSP)",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 16: Computer Graphics**",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Graphics Fundamentals",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "2D Graphics",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "3D Graphics",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Linear Transformations",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Rendering Pipeline",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Lighting & Shading",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Texturing",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Animation",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Cameras",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "GPU Programming",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Ray Tracing",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Real-Time Rendering",
+          "topicId": "computer-science.compiler-design.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

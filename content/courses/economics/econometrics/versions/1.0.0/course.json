@@ -4,10 +4,504 @@
   "description": "This course studies **how statistical and mathematical methods are used to analyze economic data**, test economic theories, estimate relationships, and make forecasts.",
   "version": "1.0.0",
   "domain": "economics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Econometrics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Econometrics?",
+          "topicId": "economics.econometrics.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Economic Data",
+          "topicId": "economics.econometrics.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Econometric Models",
+          "topicId": "economics.econometrics.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Causation vs Correlation",
+          "topicId": "economics.econometrics.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Model Building",
+          "topicId": "economics.econometrics.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications of Econometrics",
+          "topicId": "economics.econometrics.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Probability & Statistics Review",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Random Variables",
+          "topicId": "economics.econometrics.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Probability Distributions",
+          "topicId": "economics.econometrics.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Expected Value",
+          "topicId": "economics.econometrics.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Variance",
+          "topicId": "economics.econometrics.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sampling",
+          "topicId": "economics.econometrics.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Descriptive Statistics",
+          "topicId": "economics.econometrics.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Statistical Inference",
+          "topicId": "economics.econometrics.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Simple Linear Regression",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Linear Regression",
+          "topicId": "economics.econometrics.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Regression Line",
+          "topicId": "economics.econometrics.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ordinary Least Squares (OLS)",
+          "topicId": "economics.econometrics.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Goodness of Fit",
+          "topicId": "economics.econometrics.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Residuals",
+          "topicId": "economics.econometrics.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Coefficient Interpretation",
+          "topicId": "economics.econometrics.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Prediction",
+          "topicId": "economics.econometrics.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Multiple Regression",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multiple Linear Regression",
+          "topicId": "economics.econometrics.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dummy Variables",
+          "topicId": "economics.econometrics.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Interaction Terms",
+          "topicId": "economics.econometrics.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Multicollinearity",
+          "topicId": "economics.econometrics.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Model Selection",
+          "topicId": "economics.econometrics.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Variable Transformation",
+          "topicId": "economics.econometrics.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Hypothesis Testing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Null Hypothesis",
+          "topicId": "economics.econometrics.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Alternative Hypothesis",
+          "topicId": "economics.econometrics.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "t-Test",
+          "topicId": "economics.econometrics.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "F-Test",
+          "topicId": "economics.econometrics.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Confidence Intervals",
+          "topicId": "economics.econometrics.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Statistical Significance",
+          "topicId": "economics.econometrics.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "p-Values",
+          "topicId": "economics.econometrics.chapter-05.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Regression Diagnostics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Heteroscedasticity",
+          "topicId": "economics.econometrics.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Autocorrelation",
+          "topicId": "economics.econometrics.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Endogeneity",
+          "topicId": "economics.econometrics.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Omitted Variable Bias",
+          "topicId": "economics.econometrics.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Model Assumptions",
+          "topicId": "economics.econometrics.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Diagnostic Tests",
+          "topicId": "economics.econometrics.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Time Series Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Time Series Data",
+          "topicId": "economics.econometrics.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Trend",
+          "topicId": "economics.econometrics.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Seasonality",
+          "topicId": "economics.econometrics.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Stationarity",
+          "topicId": "economics.econometrics.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Autoregressive Models",
+          "topicId": "economics.econometrics.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Forecasting",
+          "topicId": "economics.econometrics.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Time Series Evaluation",
+          "topicId": "economics.econometrics.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Panel Data",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Cross-Sectional Data",
+          "topicId": "economics.econometrics.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Panel Data",
+          "topicId": "economics.econometrics.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fixed Effects Models",
+          "topicId": "economics.econometrics.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Random Effects Models",
+          "topicId": "economics.econometrics.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Longitudinal Analysis",
+          "topicId": "economics.econometrics.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Panel Data Applications",
+          "topicId": "economics.econometrics.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Causal Inference",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Correlation vs Causation",
+          "topicId": "economics.econometrics.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Instrumental Variables",
+          "topicId": "economics.econometrics.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Difference-in-Differences",
+          "topicId": "economics.econometrics.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Regression Discontinuity",
+          "topicId": "economics.econometrics.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Natural Experiments",
+          "topicId": "economics.econometrics.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Randomized Controlled Trials",
+          "topicId": "economics.econometrics.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Forecasting & Prediction",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Forecasting Models",
+          "topicId": "economics.econometrics.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Economic Forecasting",
+          "topicId": "economics.econometrics.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Model Validation",
+          "topicId": "economics.econometrics.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Forecast Accuracy",
+          "topicId": "economics.econometrics.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Scenario Analysis",
+          "topicId": "economics.econometrics.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Risk Assessment",
+          "topicId": "economics.econometrics.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Modern Econometrics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Machine Learning in Econometrics",
+          "topicId": "economics.econometrics.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Regularization",
+          "topicId": "economics.econometrics.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Classification Models",
+          "topicId": "economics.econometrics.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Causal Machine Learning",
+          "topicId": "economics.econometrics.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Big Data",
+          "topicId": "economics.econometrics.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Computational Econometrics",
+          "topicId": "economics.econometrics.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Labor Economics",
+          "topicId": "economics.econometrics.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Finance",
+          "topicId": "economics.econometrics.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Public Policy",
+          "topicId": "economics.econometrics.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Healthcare Economics",
+          "topicId": "economics.econometrics.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Marketing Analytics",
+          "topicId": "economics.econometrics.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Business Forecasting",
+          "topicId": "economics.econometrics.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Development Economics",
+          "topicId": "economics.econometrics.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bayesian Econometrics",
+          "topicId": "economics.econometrics.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Nonlinear Models",
+          "topicId": "economics.econometrics.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Survival Analysis",
+          "topicId": "economics.econometrics.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spatial Econometrics",
+          "topicId": "economics.econometrics.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "High-Dimensional Data",
+          "topicId": "economics.econometrics.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Reproducible Research",
+          "topicId": "economics.econometrics.chapter-13.topic-06"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "economics",

@@ -4,10 +4,594 @@
   "description": "This course introduces **the fundamental ideas of computer science**, including how computers represent information, solve problems, execute programs, and impact society. It prepares students for programming and all later CS courses.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Computer Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Computer Science?",
+          "topicId": "computer-science.computer-science-foundations.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "History of Computing",
+          "topicId": "computer-science.computer-science-foundations.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fields of Computer Science",
+          "topicId": "computer-science.computer-science-foundations.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Hardware vs Software",
+          "topicId": "computer-science.computer-science-foundations.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Computer Systems",
+          "topicId": "computer-science.computer-science-foundations.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications of Computing",
+          "topicId": "computer-science.computer-science-foundations.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Computational Thinking",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Problem Solving",
+          "topicId": "computer-science.computer-science-foundations.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Abstraction",
+          "topicId": "computer-science.computer-science-foundations.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Decomposition",
+          "topicId": "computer-science.computer-science-foundations.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Pattern Recognition",
+          "topicId": "computer-science.computer-science-foundations.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Algorithmic Thinking",
+          "topicId": "computer-science.computer-science-foundations.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Logical Reasoning",
+          "topicId": "computer-science.computer-science-foundations.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Information & Data",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Data",
+          "topicId": "computer-science.computer-science-foundations.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Information",
+          "topicId": "computer-science.computer-science-foundations.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Data Representation",
+          "topicId": "computer-science.computer-science-foundations.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Binary Number System",
+          "topicId": "computer-science.computer-science-foundations.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Decimal, Binary & Hexadecimal",
+          "topicId": "computer-science.computer-science-foundations.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Character Encoding (ASCII, Unicode)",
+          "topicId": "computer-science.computer-science-foundations.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Data Storage Units",
+          "topicId": "computer-science.computer-science-foundations.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Computer Hardware",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Central Processing Unit (CPU)",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Memory (RAM)",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Storage Devices",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Input Devices",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Output Devices",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Motherboard",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Buses",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Peripherals",
+          "topicId": "computer-science.computer-science-foundations.chapter-04.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Computer Software",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "System Software",
+          "topicId": "computer-science.computer-science-foundations.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Application Software",
+          "topicId": "computer-science.computer-science-foundations.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Operating Systems",
+          "topicId": "computer-science.computer-science-foundations.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Device Drivers",
+          "topicId": "computer-science.computer-science-foundations.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Utility Software",
+          "topicId": "computer-science.computer-science-foundations.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Software Categories",
+          "topicId": "computer-science.computer-science-foundations.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Programming Concepts",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Programming?",
+          "topicId": "computer-science.computer-science-foundations.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Programming Languages",
+          "topicId": "computer-science.computer-science-foundations.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Compilers",
+          "topicId": "computer-science.computer-science-foundations.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Interpreters",
+          "topicId": "computer-science.computer-science-foundations.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Source Code",
+          "topicId": "computer-science.computer-science-foundations.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Executables",
+          "topicId": "computer-science.computer-science-foundations.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Development Environments",
+          "topicId": "computer-science.computer-science-foundations.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Algorithms & Logic",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Algorithms",
+          "topicId": "computer-science.computer-science-foundations.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Flowcharts",
+          "topicId": "computer-science.computer-science-foundations.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pseudocode",
+          "topicId": "computer-science.computer-science-foundations.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Variables",
+          "topicId": "computer-science.computer-science-foundations.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Conditions",
+          "topicId": "computer-science.computer-science-foundations.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Loops",
+          "topicId": "computer-science.computer-science-foundations.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Functions (Introduction)",
+          "topicId": "computer-science.computer-science-foundations.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Data Organization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Files",
+          "topicId": "computer-science.computer-science-foundations.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Directories",
+          "topicId": "computer-science.computer-science-foundations.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Databases (Introduction)",
+          "topicId": "computer-science.computer-science-foundations.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Structures (Overview)",
+          "topicId": "computer-science.computer-science-foundations.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Data Compression",
+          "topicId": "computer-science.computer-science-foundations.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Data Backup",
+          "topicId": "computer-science.computer-science-foundations.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Computer Networks & Internet",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Computer Networks",
+          "topicId": "computer-science.computer-science-foundations.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Internet",
+          "topicId": "computer-science.computer-science-foundations.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "World Wide Web",
+          "topicId": "computer-science.computer-science-foundations.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Clients & Servers",
+          "topicId": "computer-science.computer-science-foundations.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "IP Addresses",
+          "topicId": "computer-science.computer-science-foundations.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Domain Names",
+          "topicId": "computer-science.computer-science-foundations.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Cloud Computing (Overview)",
+          "topicId": "computer-science.computer-science-foundations.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Cybersecurity Fundamentals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Information Security",
+          "topicId": "computer-science.computer-science-foundations.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Authentication",
+          "topicId": "computer-science.computer-science-foundations.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Authorization",
+          "topicId": "computer-science.computer-science-foundations.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Encryption",
+          "topicId": "computer-science.computer-science-foundations.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Malware",
+          "topicId": "computer-science.computer-science-foundations.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Phishing",
+          "topicId": "computer-science.computer-science-foundations.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Safe Computing Practices",
+          "topicId": "computer-science.computer-science-foundations.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Ethics & Computing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Digital Ethics",
+          "topicId": "computer-science.computer-science-foundations.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Privacy",
+          "topicId": "computer-science.computer-science-foundations.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Intellectual Property",
+          "topicId": "computer-science.computer-science-foundations.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Open Source Software",
+          "topicId": "computer-science.computer-science-foundations.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Artificial Intelligence Ethics",
+          "topicId": "computer-science.computer-science-foundations.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Responsible Computing",
+          "topicId": "computer-science.computer-science-foundations.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Emerging Technologies",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Artificial Intelligence",
+          "topicId": "computer-science.computer-science-foundations.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Machine Learning",
+          "topicId": "computer-science.computer-science-foundations.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Robotics",
+          "topicId": "computer-science.computer-science-foundations.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Internet of Things (IoT)",
+          "topicId": "computer-science.computer-science-foundations.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Quantum Computing",
+          "topicId": "computer-science.computer-science-foundations.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Blockchain (Overview)",
+          "topicId": "computer-science.computer-science-foundations.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Edge Computing",
+          "topicId": "computer-science.computer-science-foundations.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications of Computer Science",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Software Development",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Web Applications",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mobile Applications",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Data Science",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cybersecurity",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Game Development",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scientific Computing",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Career Paths",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "*Course 2: Programming Fundamentals**",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Variables",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Data Types",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Operators",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Input & Output",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Conditional Statements",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Loops",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Functions",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Arrays",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Strings",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Basic Algorithms",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Debugging",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-20"
+        },
+        {
+          "id": "topic-21",
+          "name": "Problem Solving",
+          "topicId": "computer-science.computer-science-foundations.chapter-13.topic-21"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

@@ -4,10 +4,569 @@
   "description": "This course studies the **d-block and f-block elements**, their unique properties, variable oxidation states, colored compounds, magnetic behavior, catalytic activity, and industrial importance.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Transition Metals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Transition Elements",
+          "topicId": "chemistry.transition-metals.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "d-Block Elements",
+          "topicId": "chemistry.transition-metals.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "f-Block Elements (Overview)",
+          "topicId": "chemistry.transition-metals.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Position in the Periodic Table",
+          "topicId": "chemistry.transition-metals.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "General Characteristics",
+          "topicId": "chemistry.transition-metals.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electronic Configuration",
+          "topicId": "chemistry.transition-metals.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Electronic Structure",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electron Configurations",
+          "topicId": "chemistry.transition-metals.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "d-Orbitals",
+          "topicId": "chemistry.transition-metals.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electron Filling",
+          "topicId": "chemistry.transition-metals.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Exceptions in Electron Configuration",
+          "topicId": "chemistry.transition-metals.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Valence Electrons",
+          "topicId": "chemistry.transition-metals.chapter-02.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Physical Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Atomic Radius",
+          "topicId": "chemistry.transition-metals.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ionic Radius",
+          "topicId": "chemistry.transition-metals.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Density",
+          "topicId": "chemistry.transition-metals.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Melting & Boiling Points",
+          "topicId": "chemistry.transition-metals.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hardness",
+          "topicId": "chemistry.transition-metals.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Electrical Conductivity",
+          "topicId": "chemistry.transition-metals.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Thermal Conductivity",
+          "topicId": "chemistry.transition-metals.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Chemical Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Variable Oxidation States",
+          "topicId": "chemistry.transition-metals.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Redox Behavior",
+          "topicId": "chemistry.transition-metals.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Reactivity",
+          "topicId": "chemistry.transition-metals.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Complex Formation",
+          "topicId": "chemistry.transition-metals.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Catalytic Activity",
+          "topicId": "chemistry.transition-metals.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Alloy Formation",
+          "topicId": "chemistry.transition-metals.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Colored Compounds",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Origin of Color",
+          "topicId": "chemistry.transition-metals.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "d-d Transitions",
+          "topicId": "chemistry.transition-metals.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Charge Transfer Transitions",
+          "topicId": "chemistry.transition-metals.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Factors Affecting Color",
+          "topicId": "chemistry.transition-metals.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Spectrochemical Series (Introduction)",
+          "topicId": "chemistry.transition-metals.chapter-05.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Magnetic Properties",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Paramagnetism",
+          "topicId": "chemistry.transition-metals.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Diamagnetism",
+          "topicId": "chemistry.transition-metals.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ferromagnetism",
+          "topicId": "chemistry.transition-metals.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Magnetic Moment",
+          "topicId": "chemistry.transition-metals.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Unpaired Electrons",
+          "topicId": "chemistry.transition-metals.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Crystal Field Effects (Introduction)",
+          "topicId": "chemistry.transition-metals.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Catalysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Homogeneous Catalysis",
+          "topicId": "chemistry.transition-metals.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Heterogeneous Catalysis",
+          "topicId": "chemistry.transition-metals.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Transition Metal Catalysts",
+          "topicId": "chemistry.transition-metals.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Industrial Catalysts",
+          "topicId": "chemistry.transition-metals.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Biological Catalysts",
+          "topicId": "chemistry.transition-metals.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Metallurgy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Occurrence of Metals",
+          "topicId": "chemistry.transition-metals.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ore Concentration",
+          "topicId": "chemistry.transition-metals.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Extraction Methods",
+          "topicId": "chemistry.transition-metals.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reduction Processes",
+          "topicId": "chemistry.transition-metals.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electrolytic Extraction",
+          "topicId": "chemistry.transition-metals.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Refining",
+          "topicId": "chemistry.transition-metals.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Purification",
+          "topicId": "chemistry.transition-metals.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Individual Transition Metals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Titanium",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Chromium",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Manganese",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Iron",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cobalt",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nickel",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Copper",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Zinc",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Silver",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Gold",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Platinum",
+          "topicId": "chemistry.transition-metals.chapter-09.topic-11"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Lanthanides & Actinides",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Lanthanides",
+          "topicId": "chemistry.transition-metals.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lanthanide Contraction",
+          "topicId": "chemistry.transition-metals.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Rare Earth Elements",
+          "topicId": "chemistry.transition-metals.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Actinides",
+          "topicId": "chemistry.transition-metals.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Radioactive Elements",
+          "topicId": "chemistry.transition-metals.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Nuclear Applications",
+          "topicId": "chemistry.transition-metals.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Steel Production",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stainless Steel",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Aerospace Alloys",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Coinage Metals",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Batteries",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Catalytic Converters",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Pigments",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Magnets",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Medical Applications",
+          "topicId": "chemistry.transition-metals.chapter-11.topic-09"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Bioinorganic Chemistry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Iron in Hemoglobin",
+          "topicId": "chemistry.transition-metals.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Copper in Enzymes",
+          "topicId": "chemistry.transition-metals.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Zinc in Biology",
+          "topicId": "chemistry.transition-metals.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Cobalt in Vitamin B12",
+          "topicId": "chemistry.transition-metals.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Metal Ions in Living Systems",
+          "topicId": "chemistry.transition-metals.chapter-12.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Crystal Field Theory (Introduction)",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Ligand Field Theory (Introduction)",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Organometallic Compounds (Introduction)",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Transition Metal Nanomaterials",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Sustainable Metallurgy",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "*Course 13: Coordination Chemistry**",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Coordination Compounds",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Ligands",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Coordination Number",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Nomenclature",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Isomerism",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Crystal Field Theory",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Ligand Field Theory",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Chelation",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Stability Constants",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Organometallic Chemistry",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Bioinorganic Complexes",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Industrial & Medical Applications",
+          "topicId": "chemistry.transition-metals.chapter-13.topic-18"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

@@ -4,10 +4,569 @@
   "description": "This course studies **how data is organized, stored, and manipulated efficiently**. Choosing the right data structure is fundamental to writing fast, scalable software.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Data Structures",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is a Data Structure?",
+          "topicId": "computer-science.data-structures.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Abstract Data Types (ADTs)",
+          "topicId": "computer-science.data-structures.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Static vs Dynamic Data Structures",
+          "topicId": "computer-science.data-structures.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Time Complexity",
+          "topicId": "computer-science.data-structures.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Space Complexity",
+          "topicId": "computer-science.data-structures.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Choosing the Right Data Structure",
+          "topicId": "computer-science.data-structures.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Arrays",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Arrays",
+          "topicId": "computer-science.data-structures.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dynamic Arrays",
+          "topicId": "computer-science.data-structures.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Multidimensional Arrays",
+          "topicId": "computer-science.data-structures.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Array Operations",
+          "topicId": "computer-science.data-structures.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Array Traversal",
+          "topicId": "computer-science.data-structures.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Array Applications",
+          "topicId": "computer-science.data-structures.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Linked Lists",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Singly Linked Lists",
+          "topicId": "computer-science.data-structures.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Doubly Linked Lists",
+          "topicId": "computer-science.data-structures.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Circular Linked Lists",
+          "topicId": "computer-science.data-structures.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "List Operations",
+          "topicId": "computer-science.data-structures.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Advantages & Disadvantages",
+          "topicId": "computer-science.data-structures.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "computer-science.data-structures.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Stacks",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Stack ADT",
+          "topicId": "computer-science.data-structures.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Stack Operations",
+          "topicId": "computer-science.data-structures.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Array Implementation",
+          "topicId": "computer-science.data-structures.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Linked List Implementation",
+          "topicId": "computer-science.data-structures.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Expression Evaluation",
+          "topicId": "computer-science.data-structures.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Function Call Stack",
+          "topicId": "computer-science.data-structures.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Queues",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Queue ADT",
+          "topicId": "computer-science.data-structures.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Queue Operations",
+          "topicId": "computer-science.data-structures.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Circular Queue",
+          "topicId": "computer-science.data-structures.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Double-Ended Queue (Deque)",
+          "topicId": "computer-science.data-structures.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Priority Queue (Introduction)",
+          "topicId": "computer-science.data-structures.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "computer-science.data-structures.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Hash Tables",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Hash Functions",
+          "topicId": "computer-science.data-structures.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Hash Tables",
+          "topicId": "computer-science.data-structures.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Collision Resolution",
+          "topicId": "computer-science.data-structures.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Chaining",
+          "topicId": "computer-science.data-structures.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Open Addressing",
+          "topicId": "computer-science.data-structures.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Load Factor",
+          "topicId": "computer-science.data-structures.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Hash Map Applications",
+          "topicId": "computer-science.data-structures.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Trees",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Tree Terminology",
+          "topicId": "computer-science.data-structures.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Binary Trees",
+          "topicId": "computer-science.data-structures.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Binary Search Trees (BST)",
+          "topicId": "computer-science.data-structures.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Tree Traversals",
+          "topicId": "computer-science.data-structures.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Balanced Trees (Introduction)",
+          "topicId": "computer-science.data-structures.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Tree Applications",
+          "topicId": "computer-science.data-structures.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Heaps & Priority Queues",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Binary Heap",
+          "topicId": "computer-science.data-structures.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Min Heap",
+          "topicId": "computer-science.data-structures.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Max Heap",
+          "topicId": "computer-science.data-structures.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Heap Operations",
+          "topicId": "computer-science.data-structures.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Priority Queue",
+          "topicId": "computer-science.data-structures.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Heap Applications",
+          "topicId": "computer-science.data-structures.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Heap Sort",
+          "topicId": "computer-science.data-structures.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Tries",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Trie Structure",
+          "topicId": "computer-science.data-structures.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Prefix Trees",
+          "topicId": "computer-science.data-structures.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Insert & Search",
+          "topicId": "computer-science.data-structures.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Auto-Complete",
+          "topicId": "computer-science.data-structures.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Dictionary Applications",
+          "topicId": "computer-science.data-structures.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "String Matching",
+          "topicId": "computer-science.data-structures.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Graphs",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Graph Terminology",
+          "topicId": "computer-science.data-structures.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Directed Graphs",
+          "topicId": "computer-science.data-structures.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Undirected Graphs",
+          "topicId": "computer-science.data-structures.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Weighted Graphs",
+          "topicId": "computer-science.data-structures.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Graph Representations",
+          "topicId": "computer-science.data-structures.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Graph Traversals (BFS & DFS)",
+          "topicId": "computer-science.data-structures.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Graph Applications",
+          "topicId": "computer-science.data-structures.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Disjoint Sets",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Union-Find",
+          "topicId": "computer-science.data-structures.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Make Set",
+          "topicId": "computer-science.data-structures.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Find",
+          "topicId": "computer-science.data-structures.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Union",
+          "topicId": "computer-science.data-structures.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Path Compression",
+          "topicId": "computer-science.data-structures.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Union by Rank",
+          "topicId": "computer-science.data-structures.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "topicId": "computer-science.data-structures.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Complexity Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Big O Notation",
+          "topicId": "computer-science.data-structures.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Big Ω Notation",
+          "topicId": "computer-science.data-structures.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Big Θ Notation",
+          "topicId": "computer-science.data-structures.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Best, Average & Worst Case",
+          "topicId": "computer-science.data-structures.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Amortized Analysis",
+          "topicId": "computer-science.data-structures.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Comparing Data Structures",
+          "topicId": "computer-science.data-structures.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Practical Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Caching",
+          "topicId": "computer-science.data-structures.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Memory Management",
+          "topicId": "computer-science.data-structures.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Search Engines",
+          "topicId": "computer-science.data-structures.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "File Systems",
+          "topicId": "computer-science.data-structures.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Database Indexing (Introduction)",
+          "topicId": "computer-science.data-structures.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Social Networks",
+          "topicId": "computer-science.data-structures.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Game Development",
+          "topicId": "computer-science.data-structures.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 5: Algorithms**",
+          "topicId": "computer-science.data-structures.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Algorithm Analysis",
+          "topicId": "computer-science.data-structures.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Recursion",
+          "topicId": "computer-science.data-structures.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Divide & Conquer",
+          "topicId": "computer-science.data-structures.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Greedy Algorithms",
+          "topicId": "computer-science.data-structures.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Dynamic Programming",
+          "topicId": "computer-science.data-structures.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Backtracking",
+          "topicId": "computer-science.data-structures.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Branch & Bound",
+          "topicId": "computer-science.data-structures.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Graph Algorithms",
+          "topicId": "computer-science.data-structures.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "String Algorithms",
+          "topicId": "computer-science.data-structures.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Randomized Algorithms",
+          "topicId": "computer-science.data-structures.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Approximation Algorithms",
+          "topicId": "computer-science.data-structures.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Algorithm Design Techniques",
+          "topicId": "computer-science.data-structures.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",

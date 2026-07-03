@@ -4,10 +4,559 @@
   "description": "This course studies **how light and electromagnetic radiation interact with matter** to identify atoms, molecules, and materials. It is one of the most important tools in chemistry, biology, medicine, and materials science.",
   "version": "1.0.0",
   "domain": "chemistry",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Spectroscopy?",
+          "topicId": "chemistry.spectroscopy.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Electromagnetic Radiation",
+          "topicId": "chemistry.spectroscopy.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electromagnetic Spectrum",
+          "topicId": "chemistry.spectroscopy.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Absorption",
+          "topicId": "chemistry.spectroscopy.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Emission",
+          "topicId": "chemistry.spectroscopy.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Scattering",
+          "topicId": "chemistry.spectroscopy.chapter-01.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Energy Transitions",
+          "topicId": "chemistry.spectroscopy.chapter-01.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Atomic Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Atomic Spectra",
+          "topicId": "chemistry.spectroscopy.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Line Spectra",
+          "topicId": "chemistry.spectroscopy.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electronic Transitions",
+          "topicId": "chemistry.spectroscopy.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Flame Emission Spectroscopy",
+          "topicId": "chemistry.spectroscopy.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Atomic Absorption Spectroscopy (AAS)",
+          "topicId": "chemistry.spectroscopy.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Atomic Emission Spectroscopy (AES)",
+          "topicId": "chemistry.spectroscopy.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "UV-Visible Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "UV Radiation",
+          "topicId": "chemistry.spectroscopy.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Visible Radiation",
+          "topicId": "chemistry.spectroscopy.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Electronic Excitation",
+          "topicId": "chemistry.spectroscopy.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Beer-Lambert Law",
+          "topicId": "chemistry.spectroscopy.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Absorption Spectrum",
+          "topicId": "chemistry.spectroscopy.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Chromophores",
+          "topicId": "chemistry.spectroscopy.chapter-03.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Applications",
+          "topicId": "chemistry.spectroscopy.chapter-03.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Infrared (IR) Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Infrared Radiation",
+          "topicId": "chemistry.spectroscopy.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Molecular Vibrations",
+          "topicId": "chemistry.spectroscopy.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stretching Vibrations",
+          "topicId": "chemistry.spectroscopy.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Bending Vibrations",
+          "topicId": "chemistry.spectroscopy.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Functional Group Identification",
+          "topicId": "chemistry.spectroscopy.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "IR Spectrum Interpretation",
+          "topicId": "chemistry.spectroscopy.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Raman Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Raman Effect",
+          "topicId": "chemistry.spectroscopy.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Raman Scattering",
+          "topicId": "chemistry.spectroscopy.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Stokes Shift",
+          "topicId": "chemistry.spectroscopy.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Anti-Stokes Shift",
+          "topicId": "chemistry.spectroscopy.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Raman Spectra",
+          "topicId": "chemistry.spectroscopy.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "chemistry.spectroscopy.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Nuclear Magnetic Resonance (NMR)",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nuclear Spin",
+          "topicId": "chemistry.spectroscopy.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnetic Resonance",
+          "topicId": "chemistry.spectroscopy.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Chemical Shift",
+          "topicId": "chemistry.spectroscopy.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spin-Spin Coupling",
+          "topicId": "chemistry.spectroscopy.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Proton NMR (¹H NMR)",
+          "topicId": "chemistry.spectroscopy.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Carbon NMR (¹³C NMR)",
+          "topicId": "chemistry.spectroscopy.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Spectrum Interpretation",
+          "topicId": "chemistry.spectroscopy.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Mass Spectrometry",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Ionization Methods",
+          "topicId": "chemistry.spectroscopy.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mass Analyzer",
+          "topicId": "chemistry.spectroscopy.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mass-to-Charge Ratio (m/z)",
+          "topicId": "chemistry.spectroscopy.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Fragmentation",
+          "topicId": "chemistry.spectroscopy.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Molecular Ion Peak",
+          "topicId": "chemistry.spectroscopy.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Isotope Patterns",
+          "topicId": "chemistry.spectroscopy.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Spectrum Interpretation",
+          "topicId": "chemistry.spectroscopy.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "X-Ray Spectroscopy",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "X-Ray Fluorescence (XRF)",
+          "topicId": "chemistry.spectroscopy.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "X-Ray Diffraction (XRD)",
+          "topicId": "chemistry.spectroscopy.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "X-Ray Photoelectron Spectroscopy (XPS)",
+          "topicId": "chemistry.spectroscopy.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Crystal Structure Analysis",
+          "topicId": "chemistry.spectroscopy.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Surface Analysis",
+          "topicId": "chemistry.spectroscopy.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Fluorescence & Luminescence",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Fluorescence",
+          "topicId": "chemistry.spectroscopy.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Phosphorescence",
+          "topicId": "chemistry.spectroscopy.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fluorescence Lifetime",
+          "topicId": "chemistry.spectroscopy.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Quantum Yield",
+          "topicId": "chemistry.spectroscopy.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Fluorescent Probes",
+          "topicId": "chemistry.spectroscopy.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "chemistry.spectroscopy.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Combined Spectroscopic Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Technique Analysis",
+          "topicId": "chemistry.spectroscopy.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Structure Elucidation",
+          "topicId": "chemistry.spectroscopy.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Unknown Compound Identification",
+          "topicId": "chemistry.spectroscopy.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Purity Determination",
+          "topicId": "chemistry.spectroscopy.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Spectral Databases",
+          "topicId": "chemistry.spectroscopy.chapter-10.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Instrumentation",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Light Sources",
+          "topicId": "chemistry.spectroscopy.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Monochromators",
+          "topicId": "chemistry.spectroscopy.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Detectors",
+          "topicId": "chemistry.spectroscopy.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Spectrometers",
+          "topicId": "chemistry.spectroscopy.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Calibration",
+          "topicId": "chemistry.spectroscopy.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Instrument Maintenance",
+          "topicId": "chemistry.spectroscopy.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Drug Discovery",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Protein Analysis",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Environmental Monitoring",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Forensic Science",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Food Quality Control",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Materials Characterization",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Medical Diagnostics",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Astronomy",
+          "topicId": "chemistry.spectroscopy.chapter-12.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "FTIR Spectroscopy",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "LC-MS",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "GC-MS",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "2D NMR",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Time-Resolved Spectroscopy",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Synchrotron Spectroscopy",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Spectroscopy in Nanotechnology",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 20: Environmental Chemistry**",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Atmospheric Chemistry",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Water Chemistry",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Soil Chemistry",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Pollution",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Green Chemistry",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Climate Chemistry",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Waste Treatment",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Environmental Toxicology",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Biogeochemical Cycles",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Sustainable Chemical Processes",
+          "topicId": "chemistry.spectroscopy.chapter-13.topic-18"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "chemistry",

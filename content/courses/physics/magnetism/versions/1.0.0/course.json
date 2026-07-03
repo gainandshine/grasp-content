@@ -4,10 +4,376 @@
   "description": "This course studies **magnetic fields, magnetic forces, and magnetic materials**. It builds directly on electrostatics and prepares students for electromagnetism.",
   "version": "1.0.0",
   "domain": "physics",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Fundamentals of Magnetism",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnets",
+          "topicId": "physics.magnetism.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnetic Poles",
+          "topicId": "physics.magnetism.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Fields",
+          "topicId": "physics.magnetism.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Magnetic Field Lines",
+          "topicId": "physics.magnetism.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Earth's Magnetic Field",
+          "topicId": "physics.magnetism.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Magnetic Dipoles",
+          "topicId": "physics.magnetism.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Magnetic Force",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnetic Force on a Charge",
+          "topicId": "physics.magnetism.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Lorentz Force",
+          "topicId": "physics.magnetism.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Right-Hand Rule",
+          "topicId": "physics.magnetism.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Motion of Charged Particles",
+          "topicId": "physics.magnetism.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cyclotron Motion",
+          "topicId": "physics.magnetism.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Helical Motion",
+          "topicId": "physics.magnetism.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Magnetic Field Due to Electric Current",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnetic Field Around a Wire",
+          "topicId": "physics.magnetism.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Biot–Savart Law",
+          "topicId": "physics.magnetism.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ampère's Law",
+          "topicId": "physics.magnetism.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Magnetic Field of a Circular Loop",
+          "topicId": "physics.magnetism.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Solenoids",
+          "topicId": "physics.magnetism.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Toroids",
+          "topicId": "physics.magnetism.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Force on Current-Carrying Conductors",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Force on a Straight Conductor",
+          "topicId": "physics.magnetism.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Force Between Parallel Conductors",
+          "topicId": "physics.magnetism.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Torque",
+          "topicId": "physics.magnetism.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Current Loops",
+          "topicId": "physics.magnetism.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Galvanometer Principle",
+          "topicId": "physics.magnetism.chapter-04.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Magnetic Materials",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Diamagnetic Materials",
+          "topicId": "physics.magnetism.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Paramagnetic Materials",
+          "topicId": "physics.magnetism.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Ferromagnetic Materials",
+          "topicId": "physics.magnetism.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Magnetic Domains",
+          "topicId": "physics.magnetism.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Hysteresis",
+          "topicId": "physics.magnetism.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Permanent Magnets",
+          "topicId": "physics.magnetism.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Magnetization",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnetization",
+          "topicId": "physics.magnetism.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Magnetic Intensity",
+          "topicId": "physics.magnetism.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Permeability",
+          "topicId": "physics.magnetism.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Magnetic Susceptibility",
+          "topicId": "physics.magnetism.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "B-H Curve",
+          "topicId": "physics.magnetism.chapter-06.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Magnetic Flux",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnetic Flux",
+          "topicId": "physics.magnetism.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Flux Density",
+          "topicId": "physics.magnetism.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Circuits",
+          "topicId": "physics.magnetism.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Reluctance",
+          "topicId": "physics.magnetism.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Magnetic Energy",
+          "topicId": "physics.magnetism.chapter-07.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Motion in Magnetic Fields",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Circular Motion",
+          "topicId": "physics.magnetism.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Helical Motion",
+          "topicId": "physics.magnetism.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Velocity Selector",
+          "topicId": "physics.magnetism.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mass Spectrometer",
+          "topicId": "physics.magnetism.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Cyclotron",
+          "topicId": "physics.magnetism.chapter-08.topic-05"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Electric Motors (Introduction)",
+          "topicId": "physics.magnetism.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Loudspeakers",
+          "topicId": "physics.magnetism.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Storage",
+          "topicId": "physics.magnetism.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "MRI (Introduction)",
+          "topicId": "physics.magnetism.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electromagnets",
+          "topicId": "physics.magnetism.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Compass Navigation",
+          "topicId": "physics.magnetism.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Particle Accelerators",
+          "topicId": "physics.magnetism.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Advanced Concepts",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Magnetic Vector Potential (Introduction)",
+          "topicId": "physics.magnetism.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Maxwell's View of Magnetism (Introduction)",
+          "topicId": "physics.magnetism.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Magnetic Monopoles (Theory)",
+          "topicId": "physics.magnetism.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Faraday's Law",
+          "topicId": "physics.magnetism.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Electromagnetic Induction",
+          "topicId": "physics.magnetism.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Lenz's Law",
+          "topicId": "physics.magnetism.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Self & Mutual Inductance",
+          "topicId": "physics.magnetism.chapter-10.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "AC Generation",
+          "topicId": "physics.magnetism.chapter-10.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Maxwell's Equations",
+          "topicId": "physics.magnetism.chapter-10.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Electromagnetic Waves",
+          "topicId": "physics.magnetism.chapter-10.topic-10"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 20,
     "prerequisites": [],
     "tags": [
       "physics",

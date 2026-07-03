@@ -4,10 +4,544 @@
   "description": "This course studies **Nash Equilibrium**, the central concept of game theory. It explains how stable outcomes emerge when every player chooses the best strategy given the choices of everyone else.",
   "version": "1.0.0",
   "domain": "game-theory",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Nash Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Nash Equilibrium?",
+          "topicId": "game-theory.nash-equilibrium.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategic Stability",
+          "topicId": "game-theory.nash-equilibrium.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Best Response Principle",
+          "topicId": "game-theory.nash-equilibrium.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mutual Best Responses",
+          "topicId": "game-theory.nash-equilibrium.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Equilibrium Intuition",
+          "topicId": "game-theory.nash-equilibrium.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Historical Background",
+          "topicId": "game-theory.nash-equilibrium.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Best Response Analysis",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Best Response Functions",
+          "topicId": "game-theory.nash-equilibrium.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Strategy Profiles",
+          "topicId": "game-theory.nash-equilibrium.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Best Response Dynamics",
+          "topicId": "game-theory.nash-equilibrium.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mutual Optimization",
+          "topicId": "game-theory.nash-equilibrium.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Response Curves",
+          "topicId": "game-theory.nash-equilibrium.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Strategic Stability",
+          "topicId": "game-theory.nash-equilibrium.chapter-02.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Finding Nash Equilibria",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Matrix Analysis",
+          "topicId": "game-theory.nash-equilibrium.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Pure Strategy Equilibria",
+          "topicId": "game-theory.nash-equilibrium.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Best Response Method",
+          "topicId": "game-theory.nash-equilibrium.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Dominance Method",
+          "topicId": "game-theory.nash-equilibrium.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Graphical Methods",
+          "topicId": "game-theory.nash-equilibrium.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Verification Techniques",
+          "topicId": "game-theory.nash-equilibrium.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Multiple Equilibria",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multiple Nash Equilibria",
+          "topicId": "game-theory.nash-equilibrium.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Coordination Problems",
+          "topicId": "game-theory.nash-equilibrium.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Equilibrium Selection",
+          "topicId": "game-theory.nash-equilibrium.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Risk Dominance",
+          "topicId": "game-theory.nash-equilibrium.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Payoff Dominance",
+          "topicId": "game-theory.nash-equilibrium.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Focal Points",
+          "topicId": "game-theory.nash-equilibrium.chapter-04.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Mixed Strategy Nash Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Mixed Strategies",
+          "topicId": "game-theory.nash-equilibrium.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Randomization",
+          "topicId": "game-theory.nash-equilibrium.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Expected Payoffs",
+          "topicId": "game-theory.nash-equilibrium.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Probability Distributions",
+          "topicId": "game-theory.nash-equilibrium.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Solving Mixed Equilibria",
+          "topicId": "game-theory.nash-equilibrium.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Applications",
+          "topicId": "game-theory.nash-equilibrium.chapter-05.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Existence of Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Nash's Existence Theorem",
+          "topicId": "game-theory.nash-equilibrium.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Finite Games",
+          "topicId": "game-theory.nash-equilibrium.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Fixed Point Intuition",
+          "topicId": "game-theory.nash-equilibrium.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Conditions for Existence",
+          "topicId": "game-theory.nash-equilibrium.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Strategy Spaces",
+          "topicId": "game-theory.nash-equilibrium.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "General Results",
+          "topicId": "game-theory.nash-equilibrium.chapter-06.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Equilibrium Refinements",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Subgame Perfect Equilibrium",
+          "topicId": "game-theory.nash-equilibrium.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Trembling-Hand Perfect Equilibrium",
+          "topicId": "game-theory.nash-equilibrium.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sequential Equilibrium",
+          "topicId": "game-theory.nash-equilibrium.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Perfect Bayesian Equilibrium",
+          "topicId": "game-theory.nash-equilibrium.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Refinement Concepts",
+          "topicId": "game-theory.nash-equilibrium.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Dynamic Consistency",
+          "topicId": "game-theory.nash-equilibrium.chapter-07.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Correlated Equilibrium",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Correlated Strategies",
+          "topicId": "game-theory.nash-equilibrium.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Mediators",
+          "topicId": "game-theory.nash-equilibrium.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coordination Signals",
+          "topicId": "game-theory.nash-equilibrium.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Correlated Equilibrium",
+          "topicId": "game-theory.nash-equilibrium.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Comparison with Nash Equilibrium",
+          "topicId": "game-theory.nash-equilibrium.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Practical Examples",
+          "topicId": "game-theory.nash-equilibrium.chapter-08.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Equilibrium in Economics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Market Competition",
+          "topicId": "game-theory.nash-equilibrium.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Oligopoly",
+          "topicId": "game-theory.nash-equilibrium.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Pricing",
+          "topicId": "game-theory.nash-equilibrium.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Auctions",
+          "topicId": "game-theory.nash-equilibrium.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Bargaining",
+          "topicId": "game-theory.nash-equilibrium.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Market Design",
+          "topicId": "game-theory.nash-equilibrium.chapter-09.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "Equilibrium in Computer Science & AI",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Multi-Agent Systems",
+          "topicId": "game-theory.nash-equilibrium.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Reinforcement Learning",
+          "topicId": "game-theory.nash-equilibrium.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Algorithmic Game Theory",
+          "topicId": "game-theory.nash-equilibrium.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Network Routing",
+          "topicId": "game-theory.nash-equilibrium.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Distributed Systems",
+          "topicId": "game-theory.nash-equilibrium.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "AI Strategy",
+          "topicId": "game-theory.nash-equilibrium.chapter-10.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Equilibrium in Society",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Voting",
+          "topicId": "game-theory.nash-equilibrium.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "International Relations",
+          "topicId": "game-theory.nash-equilibrium.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Arms Races",
+          "topicId": "game-theory.nash-equilibrium.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Environmental Agreements",
+          "topicId": "game-theory.nash-equilibrium.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Social Networks",
+          "topicId": "game-theory.nash-equilibrium.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Public Policy",
+          "topicId": "game-theory.nash-equilibrium.chapter-11.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Computational Methods",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Computing Nash Equilibria",
+          "topicId": "game-theory.nash-equilibrium.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Complexity",
+          "topicId": "game-theory.nash-equilibrium.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Numerical Algorithms",
+          "topicId": "game-theory.nash-equilibrium.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Simulation",
+          "topicId": "game-theory.nash-equilibrium.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Software Tools",
+          "topicId": "game-theory.nash-equilibrium.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Large Strategic Games",
+          "topicId": "game-theory.nash-equilibrium.chapter-12.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Advanced Topics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Evolutionary Stability",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Dynamic Equilibria",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Learning in Games",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Mean Field Games",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Network Equilibria",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Frontiers of Equilibrium Theory",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "*Course 6: Repeated Games**",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Finite Repeated Games",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "Infinite Repeated Games",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "Cooperation",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "Reputation",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Trigger Strategies",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Tit-for-Tat",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Folk Theorem",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Long-Term Incentives",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "Strategic Trust",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Dynamic Cooperation",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Evolution of Cooperation",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Real-World Applications",
+          "topicId": "game-theory.nash-equilibrium.chapter-13.topic-19"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "game-theory",

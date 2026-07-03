@@ -4,10 +4,604 @@
   "description": "This course studies **how to design, build, test, deploy, and maintain software systems** using engineering principles and industry best practices.",
   "version": "1.0.0",
   "domain": "computer-science",
-  "chapters": [],
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Software Engineering",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Software Engineering?",
+          "topicId": "computer-science.software-engineering.chapter-01.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Software Development Life Cycle (SDLC)",
+          "topicId": "computer-science.software-engineering.chapter-01.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Software Process Models",
+          "topicId": "computer-science.software-engineering.chapter-01.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Software Quality",
+          "topicId": "computer-science.software-engineering.chapter-01.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Software Engineering Principles",
+          "topicId": "computer-science.software-engineering.chapter-01.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Roles in Software Development",
+          "topicId": "computer-science.software-engineering.chapter-01.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-02",
+      "name": "Requirements Engineering",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Functional Requirements",
+          "topicId": "computer-science.software-engineering.chapter-02.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Non-Functional Requirements",
+          "topicId": "computer-science.software-engineering.chapter-02.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Requirements Gathering",
+          "topicId": "computer-science.software-engineering.chapter-02.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Use Cases",
+          "topicId": "computer-science.software-engineering.chapter-02.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "User Stories",
+          "topicId": "computer-science.software-engineering.chapter-02.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Requirements Specification",
+          "topicId": "computer-science.software-engineering.chapter-02.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Requirements Validation",
+          "topicId": "computer-science.software-engineering.chapter-02.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-03",
+      "name": "Software Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Software Architecture",
+          "topicId": "computer-science.software-engineering.chapter-03.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Modular Design",
+          "topicId": "computer-science.software-engineering.chapter-03.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Coupling & Cohesion",
+          "topicId": "computer-science.software-engineering.chapter-03.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "SOLID Principles",
+          "topicId": "computer-science.software-engineering.chapter-03.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Separation of Concerns",
+          "topicId": "computer-science.software-engineering.chapter-03.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Design Documentation",
+          "topicId": "computer-science.software-engineering.chapter-03.topic-06"
+        }
+      ]
+    },
+    {
+      "id": "chapter-04",
+      "name": "Object-Oriented Design",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "UML Diagrams",
+          "topicId": "computer-science.software-engineering.chapter-04.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Class Diagrams",
+          "topicId": "computer-science.software-engineering.chapter-04.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Sequence Diagrams",
+          "topicId": "computer-science.software-engineering.chapter-04.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Activity Diagrams",
+          "topicId": "computer-science.software-engineering.chapter-04.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "State Diagrams",
+          "topicId": "computer-science.software-engineering.chapter-04.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Object-Oriented Analysis",
+          "topicId": "computer-science.software-engineering.chapter-04.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Design Patterns (Introduction)",
+          "topicId": "computer-science.software-engineering.chapter-04.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-05",
+      "name": "Design Patterns",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Creational Patterns",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Structural Patterns",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Behavioral Patterns",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Singleton",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Factory",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Observer",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Strategy",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "Dependency Injection (Introduction)",
+          "topicId": "computer-science.software-engineering.chapter-05.topic-08"
+        }
+      ]
+    },
+    {
+      "id": "chapter-06",
+      "name": "Version Control",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Version Control Systems",
+          "topicId": "computer-science.software-engineering.chapter-06.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Git Basics",
+          "topicId": "computer-science.software-engineering.chapter-06.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Repositories",
+          "topicId": "computer-science.software-engineering.chapter-06.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Branching",
+          "topicId": "computer-science.software-engineering.chapter-06.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Merging",
+          "topicId": "computer-science.software-engineering.chapter-06.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Pull Requests",
+          "topicId": "computer-science.software-engineering.chapter-06.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Code Reviews",
+          "topicId": "computer-science.software-engineering.chapter-06.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-07",
+      "name": "Software Testing",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Unit Testing",
+          "topicId": "computer-science.software-engineering.chapter-07.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Integration Testing",
+          "topicId": "computer-science.software-engineering.chapter-07.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "System Testing",
+          "topicId": "computer-science.software-engineering.chapter-07.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Acceptance Testing",
+          "topicId": "computer-science.software-engineering.chapter-07.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Test-Driven Development (TDD)",
+          "topicId": "computer-science.software-engineering.chapter-07.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Mocking",
+          "topicId": "computer-science.software-engineering.chapter-07.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Test Automation",
+          "topicId": "computer-science.software-engineering.chapter-07.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-08",
+      "name": "Debugging & Code Quality",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Debugging Techniques",
+          "topicId": "computer-science.software-engineering.chapter-08.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Logging",
+          "topicId": "computer-science.software-engineering.chapter-08.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Static Analysis",
+          "topicId": "computer-science.software-engineering.chapter-08.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Refactoring",
+          "topicId": "computer-science.software-engineering.chapter-08.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Code Smells",
+          "topicId": "computer-science.software-engineering.chapter-08.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Clean Code",
+          "topicId": "computer-science.software-engineering.chapter-08.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Documentation",
+          "topicId": "computer-science.software-engineering.chapter-08.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-09",
+      "name": "Agile Development",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Agile Manifesto",
+          "topicId": "computer-science.software-engineering.chapter-09.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Scrum",
+          "topicId": "computer-science.software-engineering.chapter-09.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Kanban",
+          "topicId": "computer-science.software-engineering.chapter-09.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Sprint Planning",
+          "topicId": "computer-science.software-engineering.chapter-09.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Daily Standups",
+          "topicId": "computer-science.software-engineering.chapter-09.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Retrospectives",
+          "topicId": "computer-science.software-engineering.chapter-09.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Continuous Improvement",
+          "topicId": "computer-science.software-engineering.chapter-09.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "name": "DevOps Fundamentals",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Continuous Integration (CI)",
+          "topicId": "computer-science.software-engineering.chapter-10.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Continuous Deployment (CD)",
+          "topicId": "computer-science.software-engineering.chapter-10.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Build Pipelines",
+          "topicId": "computer-science.software-engineering.chapter-10.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Automation",
+          "topicId": "computer-science.software-engineering.chapter-10.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Docker (Introduction)",
+          "topicId": "computer-science.software-engineering.chapter-10.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Infrastructure as Code (Overview)",
+          "topicId": "computer-science.software-engineering.chapter-10.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Monitoring",
+          "topicId": "computer-science.software-engineering.chapter-10.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "name": "Software Architecture",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Monolithic Architecture",
+          "topicId": "computer-science.software-engineering.chapter-11.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Layered Architecture",
+          "topicId": "computer-science.software-engineering.chapter-11.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Microservices (Introduction)",
+          "topicId": "computer-science.software-engineering.chapter-11.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Event-Driven Architecture",
+          "topicId": "computer-science.software-engineering.chapter-11.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "REST APIs",
+          "topicId": "computer-science.software-engineering.chapter-11.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "API Design",
+          "topicId": "computer-science.software-engineering.chapter-11.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Scalability Basics",
+          "topicId": "computer-science.software-engineering.chapter-11.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-12",
+      "name": "Software Maintenance",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Bug Fixing",
+          "topicId": "computer-science.software-engineering.chapter-12.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Feature Development",
+          "topicId": "computer-science.software-engineering.chapter-12.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Legacy Systems",
+          "topicId": "computer-science.software-engineering.chapter-12.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Technical Debt",
+          "topicId": "computer-science.software-engineering.chapter-12.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Performance Optimization",
+          "topicId": "computer-science.software-engineering.chapter-12.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Software Evolution",
+          "topicId": "computer-science.software-engineering.chapter-12.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Documentation Maintenance",
+          "topicId": "computer-science.software-engineering.chapter-12.topic-07"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "name": "Applications",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "Enterprise Software",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-01"
+        },
+        {
+          "id": "topic-02",
+          "name": "Web Applications",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-02"
+        },
+        {
+          "id": "topic-03",
+          "name": "Mobile Applications",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-03"
+        },
+        {
+          "id": "topic-04",
+          "name": "Game Development",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-04"
+        },
+        {
+          "id": "topic-05",
+          "name": "Embedded Software",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-05"
+        },
+        {
+          "id": "topic-06",
+          "name": "Open Source Projects",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-06"
+        },
+        {
+          "id": "topic-07",
+          "name": "Team Collaboration",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-07"
+        },
+        {
+          "id": "topic-08",
+          "name": "*Course 11: Web Development**",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-08"
+        },
+        {
+          "id": "topic-09",
+          "name": "HTML",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-09"
+        },
+        {
+          "id": "topic-10",
+          "name": "CSS",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-10"
+        },
+        {
+          "id": "topic-11",
+          "name": "JavaScript",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-11"
+        },
+        {
+          "id": "topic-12",
+          "name": "Responsive Design",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-12"
+        },
+        {
+          "id": "topic-13",
+          "name": "Browser APIs",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-13"
+        },
+        {
+          "id": "topic-14",
+          "name": "Frontend Frameworks",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-14"
+        },
+        {
+          "id": "topic-15",
+          "name": "Backend Development",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-15"
+        },
+        {
+          "id": "topic-16",
+          "name": "REST APIs",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-16"
+        },
+        {
+          "id": "topic-17",
+          "name": "Authentication",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-17"
+        },
+        {
+          "id": "topic-18",
+          "name": "Databases for Web Apps",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-18"
+        },
+        {
+          "id": "topic-19",
+          "name": "Deployment",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-19"
+        },
+        {
+          "id": "topic-20",
+          "name": "Full-Stack Development",
+          "topicId": "computer-science.software-engineering.chapter-13.topic-20"
+        }
+      ]
+    }
+  ],
   "metadata": {
     "difficulty": "beginner",
-    "estimatedHours": 0,
+    "estimatedHours": 26,
     "prerequisites": [],
     "tags": [
       "computer-science",
