@@ -1,6 +1,7 @@
 {
   "id": "data-structures",
   "title": "Data Structures",
+  "description": "This course studies **how data is organized, stored, and manipulated efficiently**. Choosing the right data structure is fundamental to writing fast, scalable software.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

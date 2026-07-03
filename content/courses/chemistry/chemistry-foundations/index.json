@@ -1,6 +1,7 @@
 {
   "id": "chemistry-foundations",
   "title": "Chemistry Foundations",
+  "description": "This course teaches the language, measurements, and core principles of chemistry before students study atoms, molecules, and reactions.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 22,

@@ -1,6 +1,7 @@
 {
   "id": "electrochemistry",
   "title": "Electrochemistry",
+  "description": "This course studies **the relationship between chemical reactions and electricity**. It forms the foundation of batteries, fuel cells, electrolysis, corrosion, and modern energy storage.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

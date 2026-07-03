@@ -1,6 +1,7 @@
 {
   "id": "geometry",
   "title": "Geometry",
+  "description": "---  # Chapter 1: Foundations of Geometry  * Points * Lines * Line Segments * Rays * Planes * Collinear Points * Coplanar Points * Distance * Midpoint",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 32,

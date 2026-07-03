@@ -1,6 +1,7 @@
 {
   "id": "physics-foundations",
   "title": "Physics Foundations",
+  "description": "This course teaches the language of physics before students learn mechanics.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 20,

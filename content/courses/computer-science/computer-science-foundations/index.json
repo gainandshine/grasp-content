@@ -1,6 +1,7 @@
 {
   "id": "computer-science-foundations",
   "title": "Computer Science Foundations",
+  "description": "This course introduces **the fundamental ideas of computer science**, including how computers represent information, solve problems, execute programs, and impact society. It prepares students for programming and all later CS courses.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

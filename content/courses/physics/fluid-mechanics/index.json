@@ -1,6 +1,7 @@
 {
   "id": "fluid-mechanics",
   "title": "Fluid Mechanics",
+  "description": "This course studies **liquids and gases at rest and in motion**. It is fundamental to civil engineering, mechanical engineering, aerospace, medicine, and environmental science.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 20,

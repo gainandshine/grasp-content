@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 const NOTES_DIR = 'D:\\Projects\\Grasp\\notes';
-const OUT = 'D:\\Projects\\Grasp\\grasp-content\\content';
+const CONTENT_OUT = 'D:\\Projects\\Grasp\\grasp-content\\content';
+const MOBILE_OUT = 'D:\\Projects\\Grasp\\mobile\\assets\\courses';
 
 // ─── Helpers ───────────────────────────────────────────────────────────
 function slugify(s) {
@@ -34,7 +35,7 @@ function parseNotes(content) {
 // ─── Build a single course ─────────────────────────────────────────────
 function buildCourse(domain, course) {
   const courseId = slugify(course.title);
-  const base = path.join(OUT, 'courses', domain, courseId);
+  const base = path.join(CONTENT_OUT, 'courses', domain, courseId);
   const ver  = path.join(base, 'versions', '1.0.0');
   const chDir = path.join(ver, 'chapters');
 
@@ -42,6 +43,9 @@ function buildCourse(domain, course) {
   fs.mkdirSync(chDir, { recursive: true });
 
   const chapters = [];
+  const allMaterials = []; // For mobile bundle
+  let materialIndex = 0;
+
   course.chapters.forEach((ch, ci) => {
     const chId = `chapter-${pad(ci + 1)}`;
     const topicsDir = path.join(chDir, chId, 'topics');
@@ -49,44 +53,297 @@ function buildCourse(domain, course) {
 
     const topics = ch.topics.map((name, ti) => {
       const tId = `topic-${pad(ti + 1)}`;
-      const conceptId = `${domain}.${courseId}.${chId}.${tId}`;
+      const topicId = `${domain}.${courseId}.${chId}.${tId}`;
       const topicDir = path.join(topicsDir, tId);
       fs.mkdirSync(topicDir, { recursive: true });
 
-      // concept.json — inside topic folder
-      writeJson(path.join(topicDir, 'concept.json'), {
-        id: conceptId,
-        name,
-        subject: domain,
-        summary: `${name} is a fundamental concept in ${domain}.`,
-        definition: `${name} is a fundamental concept in ${domain}.`,
-        explanation: `Learn about ${name} and its applications.`,
-        prerequisites: [],
-        relatedConcepts: [],
-        visualizationIds: [],
-        quizIds: [],
-        flashcardIds: [],
-        exampleIds: [],
-        exerciseIds: [],
-        difficulty: 'beginner',
-        estimatedMinutes: 10,
-        tags: [domain, slugify(name)],
-        learningType: 'conceptual',
-        whyItMatters: '',
-        memoryHook: '',
+      // topic.json - Topic metadata with content and inline viz references
+      writeJson(path.join(topicDir, 'topic.json'), {
+        id: tId,
+        name: name,
+        topicId: topicId,
+        description: `Learn about ${name} and its applications in ${domain}.`,
+        content: {
+          // Text with INLINE visualization references
+          overview: `${name} is a fundamental concept in ${domain}. {{viz:diagram-01}}`,
+          
+          explanation: `This topic covers the essential aspects of ${name}. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. 
+          
+As you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.
+
+Understanding ${name} requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.`,
+          
+          keyPoints: [
+            `Understanding the basics {{viz:diagram-02}}`,
+            `Practical applications {{viz:example-01}}`,
+            `Common misconceptions`
+          ],
+          
+          whyItMatters: `${name} is essential for mastering ${course.title}. The Lottie animation {{viz:lottie-01}} illustrates its importance.`
+        }
       });
 
-      // topic.json
-      writeJson(path.join(topicDir, 'topic.json'), { id: tId, name, description: `Learn about ${name}`, conceptId });
+      // lesson.json - NOT USED (removed, inline refs in topic.json instead)
 
-      return { id: tId, name, conceptId };
+      // examples.json - Practical examples
+      writeJson(path.join(topicDir, 'examples.json'), {
+        examples: [
+          {
+            id: 'example-01',
+            title: `Example: ${name}`,
+            content: `A practical example demonstrating ${name}`,
+            source: 'Generated',
+            difficulty: 'beginner',
+            estimatedMinutes: 5,
+            tags: [domain, slugify(name)]
+          }
+        ]
+      });
+
+      // flashcards.json - Study flashcards
+      writeJson(path.join(topicDir, 'flashcards.json'), {
+        flashcards: [
+          {
+            id: 'card-01',
+            front: `What is ${name}?`,
+            back: `${name} is a fundamental concept in ${domain}.`,
+            difficulty: 'easy'
+          },
+          {
+            id: 'card-02',
+            front: `Why is ${name} important?`,
+            back: `${name} is essential for understanding ${course.title}.`,
+            difficulty: 'medium'
+          }
+        ]
+      });
+
+      // quiz.json - Assessment questions
+      writeJson(path.join(topicDir, 'quiz.json'), {
+        questions: [
+          {
+            id: 'q-01',
+            type: 'multiple-choice',
+            question: `Which statement best describes ${name}?`,
+            options: ['Option A', 'Option B', 'Option C', 'Option D'],
+            correctIndex: 0,
+            explanation: 'Explanation of the correct answer',
+            difficulty: 'medium'
+          },
+          {
+            id: 'q-02',
+            type: 'true-false',
+            question: `${name} is only applicable in theoretical contexts.`,
+            options: ['True', 'False'],
+            correctIndex: 1,
+            explanation: `${name} has many practical applications.`,
+            difficulty: 'easy'
+          }
+        ]
+      });
+
+      // exercises.json - Practice problems
+      writeJson(path.join(topicDir, 'exercises.json'), {
+        exercises: [
+          {
+            id: 'ex-01',
+            prompt: `Solve a problem related to ${name}.`,
+            solution: `Step-by-step solution for ${name} problem.`,
+            hints: [
+              'Start by understanding the core concept',
+              'Apply the formula or principle',
+              'Check your answer'
+            ],
+            difficulty: 'intermediate',
+            estimatedMinutes: 10,
+            tags: [domain, slugify(name)]
+          },
+          {
+            id: 'ex-02',
+            prompt: `Advanced problem: Apply ${name} to a real-world scenario.`,
+            solution: `Detailed solution with explanation.`,
+            hints: [
+              'Consider the practical constraints',
+              'Break down the problem into steps'
+            ],
+            difficulty: 'advanced',
+            estimatedMinutes: 15,
+            tags: [domain, slugify(name)]
+          }
+        ]
+      });
+
+      // visualizations.json - Visualization library (referenced inline in text)
+      writeJson(path.join(topicDir, 'visualizations.json'), {
+        visualizations: [
+          {
+            id: 'diagram-01',
+            type: 'diagram',
+            title: `${name} Flowchart`,
+            description: `Flowchart showing ${name} process`,
+            spec: {
+              diagramType: 'flowchart',
+              nodes: [
+                { id: 'start', label: 'Start', type: 'ellipse' },
+                { id: 'process', label: name, type: 'rect' },
+                { id: 'end', label: 'End', type: 'ellipse' }
+              ],
+              edges: [
+                { from: 'start', to: 'process' },
+                { from: 'process', to: 'end' }
+              ]
+            }
+          },
+          {
+            id: 'formula-01',
+            type: 'formula',
+            title: `${name} Formula`,
+            description: `Mathematical definition`,
+            spec: {
+              main_latex: 'f(x) = ax^2 + bx + c',
+              steps: [
+                { latex: 'a \\\\neq 0', explanation: 'Leading coefficient' }
+              ]
+            }
+          },
+          {
+            id: '3d-01',
+            type: '3d',
+            title: `${name} 3D Model`,
+            description: `Interactive 3D visualization`,
+            spec: {
+              setup_code: `
+                var geometry = new api.THREE.BoxGeometry(1, 1, 1);
+                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });
+                var cube = new api.THREE.Mesh(geometry, material);
+                api.group.add(cube);
+                return {
+                  update: function(t) {
+                    cube.rotation.x = t * 0.02;
+                    cube.rotation.y = t * 0.03;
+                  }
+                };
+              `.trim()
+            }
+          },
+          {
+            id: 'anim-01',
+            type: '2d-anim',
+            title: `${name} Animation`,
+            description: `Canvas animation`,
+            spec: {
+              setup_code: `
+                return {
+                  draw: function(ctx, W, H, t, dt) {
+                    ctx.fillStyle = '#F5F0E8';
+                    ctx.fillRect(0, 0, W, H);
+                    var x = W/2 + Math.sin(t * 0.05) * 100;
+                    var y = H/2 + Math.cos(t * 0.05) * 100;
+                    ctx.fillStyle = '#E8593C';
+                    ctx.beginPath();
+                    ctx.arc(x, y, 20, 0, Math.PI * 2);
+                    ctx.fill();
+                  }
+                };
+              `.trim()
+            }
+          },
+          {
+            id: 'chart-01',
+            type: 'd3',
+            title: `${name} Chart`,
+            description: `Data visualization`,
+            spec: {
+              chart_type: 'function',
+              x_label: 'x',
+              y_label: 'f(x)',
+              data_json: JSON.stringify({
+                fn: 'Math.sin(x)',
+                x_min: -Math.PI * 2,
+                x_max: Math.PI * 2,
+                samples: 200
+              })
+            }
+          },
+          {
+            id: 'text-01',
+            type: '2d-text',
+            title: 'Theoretical Background',
+            description: 'Detailed text explanation',
+            spec: {
+              body_markdown: `## Background\\n\\nDetailed theoretical explanation of ${name}.`,
+              citations: []
+            }
+          },
+          {
+            id: 'simulation-01',
+            type: 'simulation',
+            title: `${name} Simulation`,
+            description: `Interactive simulation`,
+            spec: {
+              simulationType: 'physics',
+              config: { gravity: 9.8, friction: 0.1 }
+            }
+          },
+          {
+            id: 'lottie-01',
+            type: 'lottie',
+            title: `${name} Icon`,
+            description: `Animated icon`,
+            spec: {
+              lottieUrl: 'https://assets.lottiefiles.com/packages/lf20_example.json',
+              autoplay: true,
+              loop: true
+            }
+          },
+          {
+            id: 'diagram-02',
+            type: 'diagram',
+            title: 'Concept Map',
+            description: 'Visual concept relationships',
+            spec: {
+              diagramType: 'mindmap',
+              nodes: [
+                { id: 'center', label: name, type: 'circle' },
+                { id: 'prop1', label: 'Property 1', type: 'rect' },
+                { id: 'prop2', label: 'Property 2', type: 'rect' }
+              ],
+              edges: [
+                { from: 'center', to: 'prop1' },
+                { from: 'center', to: 'prop2' }
+              ]
+            }
+          }
+        ]
+      });
+
+      // Add to mobile materials array
+      allMaterials.push({
+        id: tId,
+        concept_label: name,
+        concept_description: `${name} is a fundamental concept in ${domain}. Learn about ${name} and its applications.`,
+        order_index: materialIndex++,
+        topicId: topicId
+      });
+
+      return { id: tId, name, topicId };
     });
 
-    writeJson(path.join(chDir, chId, 'chapter.json'), { id: chId, name: ch.title, description: ch.title, topics });
+    // Chapter metadata
+    writeJson(path.join(chDir, chId, 'chapter.json'), {
+      id: chId,
+      name: ch.title,
+      description: ch.title,
+      overview: `This chapter covers the fundamental concepts of ${ch.title}.`,
+      topics
+    });
+
     chapters.push({ id: chId, name: ch.title, topics });
   });
 
-  // course.json
+  // ─── Write grasp-content structure ─────────────────────────────────────
+  
+  // course.json - Main course metadata
   writeJson(path.join(ver, 'course.json'), {
     id: courseId,
     name: course.title,
@@ -94,20 +351,53 @@ function buildCourse(domain, course) {
     version: '1.0.0',
     domain,
     chapters: chapters.map(c => ({
-      id: c.id, name: c.name,
-      topics: c.topics.map(t => ({ id: t.id, name: t.name, conceptId: t.conceptId }))
+      id: c.id,
+      name: c.name,
+      topics: c.topics.map(t => ({ id: t.id, name: t.name, topicId: t.topicId }))
     })),
-    metadata: { difficulty: 'beginner', estimatedHours: chapters.length * 2, prerequisites: [], tags: [domain, slugify(course.title)] }
+    metadata: {
+      difficulty: 'beginner',
+      estimatedHours: chapters.length * 2,
+      prerequisites: [],
+      tags: [domain, slugify(course.title)],
+      learningOutcomes: []
+    }
   });
 
-  // latest.json
-  writeJson(path.join(base, 'latest.json'), { latest: '1.0.0', minimumSupported: '1.0.0', schemaVersion: '1.0.0', releasedAt: new Date().toISOString() });
+  // latest.json - Version tracking
+  writeJson(path.join(base, 'latest.json'), {
+    latest: '1.0.0',
+    minimumSupported: '1.0.0',
+    schemaVersion: '1.0.0',
+    releasedAt: new Date().toISOString()
+  });
 
-  // index.json
-  writeJson(path.join(base, 'index.json'), { id: courseId, title: course.title, version: '1.0.0', difficulty: 'beginner', estimatedHours: chapters.length * 2, chapters: chapters.length, updatedAt: new Date().toISOString() });
+  // index.json - Course index for discovery
+  writeJson(path.join(base, 'index.json'), {
+    id: courseId,
+    title: course.title,
+    version: '1.0.0',
+    domain,
+    difficulty: 'beginner',
+    estimatedHours: chapters.length * 2,
+    chapters: chapters.length,
+    topics: allMaterials.length,
+    updatedAt: new Date().toISOString()
+  });
 
-  const conceptCount = chapters.reduce((s, c) => s + c.topics.length, 0);
-  return { courseId, chapters: chapters.length, concepts: conceptCount };
+  // ─── Write mobile bundle ───────────────────────────────────────────────
+  
+  fs.mkdirSync(MOBILE_OUT, { recursive: true });
+  writeJson(path.join(MOBILE_OUT, `${courseId}.json`), {
+    id: courseId,
+    title: course.title,
+    description: course.description || `Learn ${course.title} from fundamentals to advanced concepts.`,
+    domain,
+    materials: allMaterials
+  });
+
+  const topicCount = chapters.reduce((s, c) => s + c.topics.length, 0);
+  return { courseId, chapters: chapters.length, topics: topicCount };
 }
 
 // ─── Main ──────────────────────────────────────────────────────────────
@@ -123,13 +413,22 @@ const files = [
   { file: 'gamethoery.txt', domain: 'game-theory' }
 ];
 
-let totalConcepts = 0, totalCourses = 0;
+let totalTopics = 0, totalCourses = 0;
 files.forEach(({ file, domain }) => {
   const fp = path.join(NOTES_DIR, file);
   if (!fs.existsSync(fp)) { console.log(`SKIP ${file}`); return; }
   const courses = parseNotes(fs.readFileSync(fp, 'utf-8'));
   console.log(`\n${domain}: ${courses.length} courses`);
-  courses.forEach(c => { const r = buildCourse(domain, c); totalConcepts += r.concepts; totalCourses++; console.log(`  ${r.courseId}: ${r.chapters} ch, ${r.concepts} concepts`); });
+  courses.forEach(c => {
+    const r = buildCourse(domain, c);
+    totalTopics += r.topics;
+    totalCourses++;
+    console.log(`  ${r.courseId}: ${r.chapters} ch, ${r.topics} topics`);
+  });
 });
-console.log(`\n✅ ${totalCourses} courses, ${totalConcepts} concepts`);
+console.log(`\n✅ Generated:`);
+console.log(`   - ${totalCourses} courses`);
+console.log(`   - ${totalTopics} topics`);
+console.log(`   - grasp-content: ${CONTENT_OUT}/courses/`);
+console.log(`   - mobile bundles: ${MOBILE_OUT}/`);
 

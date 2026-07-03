@@ -1,6 +1,7 @@
 {
   "id": "plasma-physics",
   "title": "Plasma Physics",
+  "description": "Plasma Physics studies the **fourth state of matter**—ionized gases. It underpins fusion energy, space physics, astrophysics, and many industrial technologies.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

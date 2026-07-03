@@ -1,6 +1,7 @@
 {
   "id": "newtonian-mechanics",
   "title": "Newtonian Mechanics",
+  "description": "This course explains **why objects move** by introducing forces and Newton's Laws.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 22,

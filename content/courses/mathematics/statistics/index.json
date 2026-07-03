@@ -1,6 +1,7 @@
 {
   "id": "statistics",
   "title": "Statistics",
+  "description": "This is the standard university-level Statistics course and follows naturally after Probability.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 30,

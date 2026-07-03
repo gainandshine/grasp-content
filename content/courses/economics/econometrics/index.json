@@ -1,6 +1,7 @@
 {
   "id": "econometrics",
   "title": "Econometrics",
+  "description": "This course studies **how statistical and mathematical methods are used to analyze economic data**, test economic theories, estimate relationships, and make forecasts.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

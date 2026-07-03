@@ -1,6 +1,7 @@
 {
   "id": "number-theory",
   "title": "Number Theory",
+  "description": "Number Theory is the study of **integers**. It is fundamental to **cryptography**, **computer science**, and **pure mathematics**.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 28,

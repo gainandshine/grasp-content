@@ -1,6 +1,7 @@
 {
   "id": "data-science",
   "title": "Data Science",
+  "description": "This course studies **how to extract knowledge, insights, and predictions from data** using statistics, programming, machine learning, and visualization.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

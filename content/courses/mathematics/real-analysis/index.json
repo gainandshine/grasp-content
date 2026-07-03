@@ -1,6 +1,7 @@
 {
   "id": "real-analysis",
   "title": "Real Analysis",
+  "description": "This is the course where mathematics becomes **rigorous**. Instead of just calculating derivatives and integrals, students prove *why* calculus works.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 28,

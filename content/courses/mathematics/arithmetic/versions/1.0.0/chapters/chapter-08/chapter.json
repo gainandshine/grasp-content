@@ -1,0 +1,47 @@
+{
+  "id": "chapter-08",
+  "name": "Ratios & Proportions",
+  "description": "Understanding and applying ratios and proportions",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Ratio",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Equivalent Ratios",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Simplifying Ratios",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Proportion",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Direct Proportion",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Inverse Proportion",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Unit Rate",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Scale",
+      "conceptId": "mathematics.arithmetic.chapter-08.topic-08"
+    }
+  ]
+}

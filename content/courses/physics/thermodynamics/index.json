@@ -1,6 +1,7 @@
 {
   "id": "thermodynamics",
   "title": "Thermodynamics",
+  "description": "This course studies **heat, temperature, energy transfer, and the behavior of matter**. It is fundamental to physics, chemistry, mechanical engineering, and aerospace engineering.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

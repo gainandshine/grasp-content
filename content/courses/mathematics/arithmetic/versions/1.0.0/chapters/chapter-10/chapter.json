@@ -1,0 +1,32 @@
+{
+  "id": "chapter-10",
+  "name": "Integers",
+  "description": "Working with positive and negative integers",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Positive & Negative Numbers",
+      "conceptId": "mathematics.arithmetic.chapter-10.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Integer Operations",
+      "conceptId": "mathematics.arithmetic.chapter-10.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Absolute Value",
+      "conceptId": "mathematics.arithmetic.chapter-10.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Opposite Numbers",
+      "conceptId": "mathematics.arithmetic.chapter-10.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Integer Applications",
+      "conceptId": "mathematics.arithmetic.chapter-10.topic-05"
+    }
+  ]
+}

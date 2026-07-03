@@ -1,6 +1,7 @@
 {
   "id": "calculus-iii-multivariable-calculus",
   "title": "Calculus III (Multivariable Calculus)",
+  "description": "This course extends calculus from **one variable** to **multiple variables**.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 30,

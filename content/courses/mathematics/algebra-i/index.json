@@ -1,6 +1,7 @@
 {
   "id": "algebra-i",
   "title": "Algebra I",
+  "description": "## Chapter 1: Algebra Foundations  * Variables * Expressions * Terms * Coefficients * Simplifying Expressions * Evaluating Expressions",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 30,

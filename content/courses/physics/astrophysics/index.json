@@ -1,6 +1,7 @@
 {
   "id": "astrophysics",
   "title": "Astrophysics",
+  "description": "Astrophysics applies the laws of physics to understand **stars, planets, galaxies, black holes, and the large-scale universe**. It combines mechanics, electromagnetism, thermodynamics, relativity, quantum mechanics, and nuclear physics.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

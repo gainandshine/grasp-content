@@ -1,0 +1,47 @@
+{
+  "id": "chapter-04",
+  "name": "Factors & Multiples",
+  "description": "Understanding factors, multiples, primes, and divisibility",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "Factors",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-01"
+    },
+    {
+      "id": "topic-02",
+      "name": "Multiples",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-02"
+    },
+    {
+      "id": "topic-03",
+      "name": "Prime Numbers",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-03"
+    },
+    {
+      "id": "topic-04",
+      "name": "Composite Numbers",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-04"
+    },
+    {
+      "id": "topic-05",
+      "name": "Prime Factorization",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-05"
+    },
+    {
+      "id": "topic-06",
+      "name": "Greatest Common Divisor (GCD/HCF)",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-06"
+    },
+    {
+      "id": "topic-07",
+      "name": "Least Common Multiple (LCM)",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-07"
+    },
+    {
+      "id": "topic-08",
+      "name": "Divisibility Rules",
+      "conceptId": "mathematics.arithmetic.chapter-04.topic-08"
+    }
+  ]
+}

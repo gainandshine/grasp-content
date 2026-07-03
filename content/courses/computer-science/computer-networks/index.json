@@ -1,6 +1,7 @@
 {
   "id": "computer-networks",
   "title": "Computer Networks",
+  "description": "This course studies **how computers communicate over networks**, from small local networks to the global Internet. It covers network architecture, protocols, routing, switching, wireless communication, and network security.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

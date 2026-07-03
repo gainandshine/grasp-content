@@ -1,6 +1,7 @@
 {
   "id": "calculus-ii",
   "title": "Calculus II",
+  "description": "Calculus II focuses on **advanced integration, sequences & series, and parametric/polar calculus**.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

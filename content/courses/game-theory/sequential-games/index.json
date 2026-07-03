@@ -1,6 +1,7 @@
 {
   "id": "sequential-games",
   "title": "Sequential Games",
+  "description": "This course studies **games in which players make decisions over time**, observing previous actions before making their own choices. It introduces game trees, backward induction, and dynamic strategic reasoning.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

@@ -1,6 +1,7 @@
 {
   "id": "computer-organization",
   "title": "Computer Organization",
+  "description": "This course studies **how a computer is built and how it executes programs**, bridging the gap between software and hardware.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

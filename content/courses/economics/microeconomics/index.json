@@ -1,6 +1,7 @@
 {
   "id": "microeconomics",
   "title": "Microeconomics",
+  "description": "This course studies **how individuals, households, and firms make decisions** and how these decisions determine prices, production, and resource allocation in markets.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

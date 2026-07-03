@@ -1,6 +1,7 @@
 {
   "id": "chemical-kinetics",
   "title": "Chemical Kinetics",
+  "description": "This course studies **how fast chemical reactions occur, what controls their speed, and how reactions proceed step by step**. It is fundamental to chemistry, biology, pharmaceuticals, and chemical engineering.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

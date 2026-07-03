@@ -1,6 +1,7 @@
 {
   "id": "mechanism-design",
   "title": "Mechanism Design",
+  "description": "This course studies **how to design rules, incentives, and institutions that produce desirable outcomes when individuals act in their own self-interest**. Unlike game theory, which analyzes existing games, mechanism design **creates the game**.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

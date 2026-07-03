@@ -1,6 +1,7 @@
 {
   "id": "biochemistry",
   "title": "Biochemistry",
+  "description": "This course studies **the chemical processes of living organisms**. It explains how biomolecules are built, how cells obtain and use energy, and how biochemical pathways regulate life.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

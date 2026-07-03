@@ -1,6 +1,7 @@
 {
   "id": "repeated-games",
   "title": "Repeated Games",
+  "description": "This course studies **games that are played multiple times**, showing how repeated interactions can lead to cooperation, trust, reputation, and long-term strategic behavior.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 26,

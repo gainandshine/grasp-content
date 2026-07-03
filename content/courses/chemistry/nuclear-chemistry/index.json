@@ -1,6 +1,7 @@
 {
   "id": "nuclear-chemistry",
   "title": "Nuclear Chemistry",
+  "description": "This course studies **the chemistry of atomic nuclei**, radioactive materials, nuclear reactions, and their applications in medicine, energy, industry, and scientific research.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

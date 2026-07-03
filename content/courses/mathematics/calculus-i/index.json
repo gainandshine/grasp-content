@@ -1,6 +1,7 @@
 {
   "id": "calculus-i",
   "title": "Calculus I",
+  "description": "This is the first true calculus course.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 24,

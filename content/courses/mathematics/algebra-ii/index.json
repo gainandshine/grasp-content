@@ -1,6 +1,7 @@
 {
   "id": "algebra-ii",
   "title": "Algebra II",
+  "description": "This builds on Algebra I and prepares students for Precalculus and Calculus.",
   "version": "1.0.0",
   "difficulty": "beginner",
   "estimatedHours": 30,
