@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kelvin–Helmholtz Instability",
+      "content": "A practical example demonstrating Kelvin–Helmholtz Instability",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "kelvinhelmholtz-instability"
+      ]
+    }
+  ]
+}

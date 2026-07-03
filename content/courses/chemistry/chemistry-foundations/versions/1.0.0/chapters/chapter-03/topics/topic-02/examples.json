@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Volume",
+      "content": "A practical example demonstrating Volume",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "volume"
+      ]
+    }
+  ]
+}

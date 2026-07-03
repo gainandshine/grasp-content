@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Distributed File Systems",
+      "content": "A practical example demonstrating Distributed File Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "distributed-file-systems"
+      ]
+    }
+  ]
+}

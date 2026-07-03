@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Divide vs Recursive Solutions",
+      "content": "A practical example demonstrating Divide vs Recursive Solutions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "divide-vs-recursive-solutions"
+      ]
+    }
+  ]
+}

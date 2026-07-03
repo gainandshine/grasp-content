@@ -1,10 +1,11 @@
 {
   "id": "periodic-table",
   "title": "Periodic Table",
-  "description": "This course explains **why the Periodic Table is organized the way it is** and how it predicts the physical and chemical behavior of every element.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:15.270Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.249Z"
 }

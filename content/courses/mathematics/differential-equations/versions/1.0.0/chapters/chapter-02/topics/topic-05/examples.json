@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bernoulli Equations",
+      "content": "A practical example demonstrating Bernoulli Equations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "bernoulli-equations"
+      ]
+    }
+  ]
+}

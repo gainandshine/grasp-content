@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Class Diagrams",
+      "content": "A practical example demonstrating Class Diagrams",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "class-diagrams"
+      ]
+    }
+  ]
+}

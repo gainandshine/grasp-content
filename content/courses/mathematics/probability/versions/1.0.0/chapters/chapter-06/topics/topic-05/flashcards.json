@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hypergeometric Distribution?",
+      "back": "Hypergeometric Distribution is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hypergeometric Distribution important?",
+      "back": "Hypergeometric Distribution is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vertical Springs",
+      "content": "A practical example demonstrating Vertical Springs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "vertical-springs"
+      ]
+    }
+  ]
+}

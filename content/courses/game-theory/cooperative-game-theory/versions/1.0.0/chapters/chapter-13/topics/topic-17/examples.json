@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Online Advertising Auctions",
+      "content": "A practical example demonstrating Online Advertising Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "online-advertising-auctions"
+      ]
+    }
+  ]
+}

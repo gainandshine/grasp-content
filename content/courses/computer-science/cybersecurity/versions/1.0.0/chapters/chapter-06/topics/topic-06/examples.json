@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Zero Trust",
+      "content": "A practical example demonstrating Zero Trust",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "zero-trust"
+      ]
+    }
+  ]
+}

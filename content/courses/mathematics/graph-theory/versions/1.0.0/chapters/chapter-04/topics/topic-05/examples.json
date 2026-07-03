@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Connected Graphs",
+      "content": "A practical example demonstrating Connected Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "connected-graphs"
+      ]
+    }
+  ]
+}

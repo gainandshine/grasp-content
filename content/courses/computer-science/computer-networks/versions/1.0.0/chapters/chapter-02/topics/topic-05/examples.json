@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Decapsulation",
+      "content": "A practical example demonstrating Decapsulation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "decapsulation"
+      ]
+    }
+  ]
+}

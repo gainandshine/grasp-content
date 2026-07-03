@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fitness Apps",
+      "content": "A practical example demonstrating Fitness Apps",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "fitness-apps"
+      ]
+    }
+  ]
+}

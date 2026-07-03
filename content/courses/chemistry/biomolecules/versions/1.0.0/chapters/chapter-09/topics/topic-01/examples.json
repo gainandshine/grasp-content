@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Peptide Hormones",
+      "content": "A practical example demonstrating Peptide Hormones",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "peptide-hormones"
+      ]
+    }
+  ]
+}

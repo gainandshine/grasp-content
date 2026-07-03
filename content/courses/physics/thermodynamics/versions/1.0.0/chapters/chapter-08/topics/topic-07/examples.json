@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heat Pump",
+      "content": "A practical example demonstrating Heat Pump",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "heat-pump"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Quantitative Genetics?",
+      "back": "Quantitative Genetics is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Quantitative Genetics important?",
+      "back": "Quantitative Genetics is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

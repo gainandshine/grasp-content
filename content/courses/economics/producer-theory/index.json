@@ -1,10 +1,11 @@
 {
   "id": "producer-theory",
   "title": "Producer Theory",
-  "description": "This course studies **how firms make production decisions**, combining labor, capital, and technology to produce goods and services while minimizing costs and maximizing profits.",
   "version": "1.0.0",
+  "domain": "economics",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:20.343Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.364Z"
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Reactivity?",
+      "back": "Reactivity is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Reactivity important?",
+      "back": "Reactivity is essential for understanding Transition Metals.",
+      "difficulty": "medium"
+    }
+  ]
+}

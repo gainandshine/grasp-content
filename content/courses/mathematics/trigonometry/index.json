@@ -1,10 +1,11 @@
 {
   "id": "trigonometry",
   "title": "Trigonometry",
-  "description": "---  # Chapter 1: Angle Measurement  * Angles * Degrees * Radians * Degree–Radian Conversion * Coterminal Angles * Reference Angles",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 28,
-  "chapters": 14,
-  "updatedAt": "2026-07-02T10:38:14.034Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.214Z"
 }

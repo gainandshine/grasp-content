@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pythagorean Tradition",
+      "content": "A practical example demonstrating Pythagorean Tradition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "pythagorean-tradition"
+      ]
+    }
+  ]
+}

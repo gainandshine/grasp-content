@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Equilibrium in Repeated Games?",
+      "back": "Equilibrium in Repeated Games is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Equilibrium in Repeated Games important?",
+      "back": "Equilibrium in Repeated Games is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

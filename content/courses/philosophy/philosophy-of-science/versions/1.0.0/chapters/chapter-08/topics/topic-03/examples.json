@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Statistical Inference",
+      "content": "A practical example demonstrating Statistical Inference",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "statistical-inference"
+      ]
+    }
+  ]
+}

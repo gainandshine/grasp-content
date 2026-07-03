@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Perfect Information?",
+      "back": "Perfect Information is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Perfect Information important?",
+      "back": "Perfect Information is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

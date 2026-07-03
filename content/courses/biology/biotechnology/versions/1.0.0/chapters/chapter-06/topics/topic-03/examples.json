@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Induced Pluripotent Stem Cells (iPSCs)",
+      "content": "A practical example demonstrating Induced Pluripotent Stem Cells (iPSCs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "induced-pluripotent-stem-cells-ipscs"
+      ]
+    }
+  ]
+}

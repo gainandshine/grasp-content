@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electrochemical CO₂ Reduction?",
+      "back": "Electrochemical CO₂ Reduction is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electrochemical CO₂ Reduction important?",
+      "back": "Electrochemical CO₂ Reduction is essential for understanding Electrochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

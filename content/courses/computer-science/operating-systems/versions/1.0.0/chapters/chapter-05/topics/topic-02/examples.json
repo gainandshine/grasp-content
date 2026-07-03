@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Resource Allocation Graph",
+      "content": "A practical example demonstrating Resource Allocation Graph",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "resource-allocation-graph"
+      ]
+    }
+  ]
+}

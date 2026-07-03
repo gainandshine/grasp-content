@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parenthood",
+      "content": "A practical example demonstrating Parenthood",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "parenthood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Zero Matrix?",
+      "back": "Zero Matrix is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Zero Matrix important?",
+      "back": "Zero Matrix is essential for understanding Linear Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

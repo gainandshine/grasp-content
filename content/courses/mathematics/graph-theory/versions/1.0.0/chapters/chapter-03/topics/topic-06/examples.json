@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pendant Vertices",
+      "content": "A practical example demonstrating Pendant Vertices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "pendant-vertices"
+      ]
+    }
+  ]
+}

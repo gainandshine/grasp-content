@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Smog",
+      "content": "A practical example demonstrating Smog",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "smog"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Approximation Algorithms",
+      "content": "A practical example demonstrating Approximation Algorithms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "approximation-algorithms"
+      ]
+    }
+  ]
+}

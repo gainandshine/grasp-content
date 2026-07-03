@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multiplexers",
+      "content": "A practical example demonstrating Multiplexers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "multiplexers"
+      ]
+    }
+  ]
+}

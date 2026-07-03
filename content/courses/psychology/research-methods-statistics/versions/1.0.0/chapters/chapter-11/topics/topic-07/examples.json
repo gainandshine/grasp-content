@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Open Science",
+      "content": "A practical example demonstrating Open Science",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "open-science"
+      ]
+    }
+  ]
+}

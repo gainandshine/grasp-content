@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Complex Formation?",
+      "back": "Complex Formation is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Complex Formation important?",
+      "back": "Complex Formation is essential for understanding Transition Metals.",
+      "difficulty": "medium"
+    }
+  ]
+}

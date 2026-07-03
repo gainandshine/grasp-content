@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Distributed Locks?",
+      "back": "Distributed Locks is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Distributed Locks important?",
+      "back": "Distributed Locks is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Laser Materials",
+      "content": "A practical example demonstrating Laser Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "laser-materials"
+      ]
+    }
+  ]
+}

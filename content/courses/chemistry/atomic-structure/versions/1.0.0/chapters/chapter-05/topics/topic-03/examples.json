@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: de Broglie Hypothesis",
+      "content": "A practical example demonstrating de Broglie Hypothesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "de-broglie-hypothesis"
+      ]
+    }
+  ]
+}

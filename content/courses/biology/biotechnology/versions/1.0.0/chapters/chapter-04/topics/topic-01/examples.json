@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sanger Sequencing",
+      "content": "A practical example demonstrating Sanger Sequencing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "sanger-sequencing"
+      ]
+    }
+  ]
+}

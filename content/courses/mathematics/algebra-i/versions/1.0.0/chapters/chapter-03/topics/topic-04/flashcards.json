@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Interval Notation?",
+      "back": "Interval Notation is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Interval Notation important?",
+      "back": "Interval Notation is essential for understanding Algebra I.",
+      "difficulty": "medium"
+    }
+  ]
+}

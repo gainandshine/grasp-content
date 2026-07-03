@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trie Structure",
+      "content": "A practical example demonstrating Trie Structure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "trie-structure"
+      ]
+    }
+  ]
+}

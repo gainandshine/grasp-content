@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Frontend Frameworks (Introduction)?",
+      "back": "Frontend Frameworks (Introduction) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Frontend Frameworks (Introduction) important?",
+      "back": "Frontend Frameworks (Introduction) is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

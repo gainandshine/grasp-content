@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Foreign Exchange Markets",
+      "content": "A practical example demonstrating Foreign Exchange Markets",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "foreign-exchange-markets"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kites",
+      "content": "A practical example demonstrating Kites",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "kites"
+      ]
+    }
+  ]
+}

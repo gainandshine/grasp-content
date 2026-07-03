@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Diffusion Current",
+      "content": "A practical example demonstrating Diffusion Current",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "diffusion-current"
+      ]
+    }
+  ]
+}

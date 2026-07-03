@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trie-Based Searching",
+      "content": "A practical example demonstrating Trie-Based Searching",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "trie-based-searching"
+      ]
+    }
+  ]
+}

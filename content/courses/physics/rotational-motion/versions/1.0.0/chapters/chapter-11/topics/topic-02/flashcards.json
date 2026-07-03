@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gears?",
+      "back": "Gears is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gears important?",
+      "back": "Gears is essential for understanding Rotational Motion.",
+      "difficulty": "medium"
+    }
+  ]
+}

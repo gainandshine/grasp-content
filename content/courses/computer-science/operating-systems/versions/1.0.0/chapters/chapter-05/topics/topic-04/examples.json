@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deadlock Avoidance",
+      "content": "A practical example demonstrating Deadlock Avoidance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "deadlock-avoidance"
+      ]
+    }
+  ]
+}

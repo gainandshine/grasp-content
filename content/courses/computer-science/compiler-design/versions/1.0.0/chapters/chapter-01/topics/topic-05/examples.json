@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bootstrapping",
+      "content": "A practical example demonstrating Bootstrapping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "bootstrapping"
+      ]
+    }
+  ]
+}

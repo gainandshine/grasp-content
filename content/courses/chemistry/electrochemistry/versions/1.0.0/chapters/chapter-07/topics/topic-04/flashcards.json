@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electrolysis of Molten Salts?",
+      "back": "Electrolysis of Molten Salts is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electrolysis of Molten Salts important?",
+      "back": "Electrolysis of Molten Salts is essential for understanding Electrochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

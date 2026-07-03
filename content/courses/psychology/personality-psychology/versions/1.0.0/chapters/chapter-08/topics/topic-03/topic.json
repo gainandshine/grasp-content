@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Projective Tests",
-  "description": "Learn about Projective Tests",
-  "conceptId": "psychology.personality-psychology.chapter-08.topic-03"
+  "topicId": "psychology.personality-psychology.chapter-08.topic-03",
+  "description": "Learn about Projective Tests and its applications in psychology.",
+  "content": {
+    "overview": "Projective Tests is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Projective Tests. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Projective Tests requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Projective Tests is essential for mastering Personality Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

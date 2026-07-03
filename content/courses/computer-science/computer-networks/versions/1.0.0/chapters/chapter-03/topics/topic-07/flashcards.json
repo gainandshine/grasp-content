@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Data Transmission Modes?",
+      "back": "Data Transmission Modes is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Data Transmission Modes important?",
+      "back": "Data Transmission Modes is essential for understanding Computer Networks.",
+      "difficulty": "medium"
+    }
+  ]
+}

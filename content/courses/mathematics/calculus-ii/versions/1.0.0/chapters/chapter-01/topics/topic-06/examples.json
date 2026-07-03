@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Partial Fraction Decomposition",
+      "content": "A practical example demonstrating Partial Fraction Decomposition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "partial-fraction-decomposition"
+      ]
+    }
+  ]
+}

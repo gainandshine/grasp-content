@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Traumatic Brain Injury",
+      "content": "A practical example demonstrating Traumatic Brain Injury",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "traumatic-brain-injury"
+      ]
+    }
+  ]
+}

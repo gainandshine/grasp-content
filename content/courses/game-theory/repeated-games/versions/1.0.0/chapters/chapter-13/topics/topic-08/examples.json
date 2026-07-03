@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cooperative Games",
+      "content": "A practical example demonstrating Cooperative Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "cooperative-games"
+      ]
+    }
+  ]
+}

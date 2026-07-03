@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Quasi-Static Process?",
+      "back": "Quasi-Static Process is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Quasi-Static Process important?",
+      "back": "Quasi-Static Process is essential for understanding Thermodynamics.",
+      "difficulty": "medium"
+    }
+  ]
+}

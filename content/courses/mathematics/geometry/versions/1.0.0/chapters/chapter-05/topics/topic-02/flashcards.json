@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is SAS?",
+      "back": "SAS is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is SAS important?",
+      "back": "SAS is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

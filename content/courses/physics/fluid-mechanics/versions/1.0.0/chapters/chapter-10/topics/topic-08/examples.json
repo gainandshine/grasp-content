@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fluid Machines",
+      "content": "A practical example demonstrating Fluid Machines",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "fluid-machines"
+      ]
+    }
+  ]
+}

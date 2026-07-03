@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Object Serialization",
+      "content": "A practical example demonstrating Object Serialization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "object-serialization"
+      ]
+    }
+  ]
+}

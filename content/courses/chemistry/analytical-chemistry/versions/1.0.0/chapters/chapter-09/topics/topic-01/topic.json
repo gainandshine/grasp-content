@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Thermogravimetric Analysis (TGA)",
-  "description": "Learn about Thermogravimetric Analysis (TGA)",
-  "conceptId": "chemistry.analytical-chemistry.chapter-09.topic-01"
+  "topicId": "chemistry.analytical-chemistry.chapter-09.topic-01",
+  "description": "Learn about Thermogravimetric Analysis (TGA) and its applications in chemistry.",
+  "content": {
+    "overview": "Thermogravimetric Analysis (TGA) is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Thermogravimetric Analysis (TGA). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Thermogravimetric Analysis (TGA) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Thermogravimetric Analysis (TGA) is essential for mastering Analytical Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

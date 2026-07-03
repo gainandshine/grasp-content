@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Predicting Bond Types",
+      "content": "A practical example demonstrating Predicting Bond Types",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "predicting-bond-types"
+      ]
+    }
+  ]
+}

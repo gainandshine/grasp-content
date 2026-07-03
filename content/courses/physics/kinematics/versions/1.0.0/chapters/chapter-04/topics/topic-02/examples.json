@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Constant Acceleration",
+      "content": "A practical example demonstrating Constant Acceleration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "constant-acceleration"
+      ]
+    }
+  ]
+}

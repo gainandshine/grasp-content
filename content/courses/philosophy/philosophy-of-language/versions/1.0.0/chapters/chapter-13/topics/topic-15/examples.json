@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Literature",
+      "content": "A practical example demonstrating Literature",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "literature"
+      ]
+    }
+  ]
+}

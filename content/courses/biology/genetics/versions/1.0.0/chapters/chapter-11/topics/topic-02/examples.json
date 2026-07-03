@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Prenatal Screening",
+      "content": "A practical example demonstrating Prenatal Screening",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "prenatal-screening"
+      ]
+    }
+  ]
+}

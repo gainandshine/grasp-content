@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: UML Diagrams",
+      "content": "A practical example demonstrating UML Diagrams",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "uml-diagrams"
+      ]
+    }
+  ]
+}

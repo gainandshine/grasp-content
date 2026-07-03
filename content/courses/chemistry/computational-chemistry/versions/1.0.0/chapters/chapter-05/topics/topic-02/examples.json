@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wave Functions",
+      "content": "A practical example demonstrating Wave Functions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "wave-functions"
+      ]
+    }
+  ]
+}

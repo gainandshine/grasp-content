@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Rabin-Karp?",
+      "back": "Rabin-Karp is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Rabin-Karp important?",
+      "back": "Rabin-Karp is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

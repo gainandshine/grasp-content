@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Monte Carlo Simulation",
+      "content": "A practical example demonstrating Monte Carlo Simulation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "monte-carlo-simulation"
+      ]
+    }
+  ]
+}

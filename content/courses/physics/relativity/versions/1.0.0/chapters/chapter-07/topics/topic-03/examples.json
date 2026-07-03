@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Curvature of Spacetime",
+      "content": "A practical example demonstrating Curvature of Spacetime",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "curvature-of-spacetime"
+      ]
+    }
+  ]
+}

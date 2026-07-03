@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Privilege Levels",
+      "content": "A practical example demonstrating Privilege Levels",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "privilege-levels"
+      ]
+    }
+  ]
+}

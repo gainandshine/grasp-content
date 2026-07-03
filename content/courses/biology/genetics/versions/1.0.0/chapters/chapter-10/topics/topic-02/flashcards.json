@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Genome-Wide Association Studies (GWAS)?",
+      "back": "Genome-Wide Association Studies (GWAS) is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Genome-Wide Association Studies (GWAS) important?",
+      "back": "Genome-Wide Association Studies (GWAS) is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

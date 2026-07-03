@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Polymorphism",
+      "content": "A practical example demonstrating Polymorphism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "polymorphism"
+      ]
+    }
+  ]
+}

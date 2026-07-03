@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Binary Relations",
+      "content": "A practical example demonstrating Binary Relations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "binary-relations"
+      ]
+    }
+  ]
+}

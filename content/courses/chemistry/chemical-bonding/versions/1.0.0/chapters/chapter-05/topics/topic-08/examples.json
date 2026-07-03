@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trigonal Bipyramidal",
+      "content": "A practical example demonstrating Trigonal Bipyramidal",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "trigonal-bipyramidal"
+      ]
+    }
+  ]
+}

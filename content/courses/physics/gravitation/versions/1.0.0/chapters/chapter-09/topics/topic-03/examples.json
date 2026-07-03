@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Tidal Forces",
+      "content": "A practical example demonstrating Tidal Forces",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "tidal-forces"
+      ]
+    }
+  ]
+}

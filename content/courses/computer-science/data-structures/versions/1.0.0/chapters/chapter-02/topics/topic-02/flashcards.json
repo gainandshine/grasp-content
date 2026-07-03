@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Dynamic Arrays?",
+      "back": "Dynamic Arrays is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Dynamic Arrays important?",
+      "back": "Dynamic Arrays is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

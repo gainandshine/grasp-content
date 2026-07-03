@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gene Regulation?",
+      "back": "Gene Regulation is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gene Regulation important?",
+      "back": "Gene Regulation is essential for understanding Biochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

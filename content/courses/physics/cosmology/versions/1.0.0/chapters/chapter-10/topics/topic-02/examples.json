@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Big Crunch",
+      "content": "A practical example demonstrating Big Crunch",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "big-crunch"
+      ]
+    }
+  ]
+}

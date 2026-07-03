@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Inertial Confinement Fusion?",
+      "back": "Inertial Confinement Fusion is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Inertial Confinement Fusion important?",
+      "back": "Inertial Confinement Fusion is essential for understanding Plasma Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

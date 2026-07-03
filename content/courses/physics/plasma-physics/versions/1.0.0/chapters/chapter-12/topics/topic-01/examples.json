@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nonlinear Plasma Dynamics",
+      "content": "A practical example demonstrating Nonlinear Plasma Dynamics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "nonlinear-plasma-dynamics"
+      ]
+    }
+  ]
+}

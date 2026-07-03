@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quick Sort",
+      "content": "A practical example demonstrating Quick Sort",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "quick-sort"
+      ]
+    }
+  ]
+}

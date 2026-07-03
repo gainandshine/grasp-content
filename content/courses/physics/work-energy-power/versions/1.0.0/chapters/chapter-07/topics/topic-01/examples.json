@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hooke's Law",
+      "content": "A practical example demonstrating Hooke's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hookes-law"
+      ]
+    }
+  ]
+}

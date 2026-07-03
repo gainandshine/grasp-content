@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mean Free Path",
+      "content": "A practical example demonstrating Mean Free Path",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "mean-free-path"
+      ]
+    }
+  ]
+}

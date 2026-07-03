@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genetic Algorithms",
+      "content": "A practical example demonstrating Genetic Algorithms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "genetic-algorithms"
+      ]
+    }
+  ]
+}

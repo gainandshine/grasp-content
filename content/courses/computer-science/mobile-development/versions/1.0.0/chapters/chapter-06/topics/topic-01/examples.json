@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: HTTP Requests",
+      "content": "A practical example demonstrating HTTP Requests",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "http-requests"
+      ]
+    }
+  ]
+}

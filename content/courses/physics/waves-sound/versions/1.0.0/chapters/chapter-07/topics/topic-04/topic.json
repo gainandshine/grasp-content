@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Combined Motion",
-  "description": "Learn about Combined Motion",
-  "conceptId": "physics.waves-sound.chapter-07.topic-04"
+  "topicId": "physics.waves-sound.chapter-07.topic-04",
+  "description": "Learn about Combined Motion and its applications in physics.",
+  "content": {
+    "overview": "Combined Motion is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Combined Motion. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Combined Motion requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Combined Motion is essential for mastering Waves & Sound. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

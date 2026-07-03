@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Laboratory Equipment",
+      "content": "A practical example demonstrating Laboratory Equipment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "laboratory-equipment"
+      ]
+    }
+  ]
+}

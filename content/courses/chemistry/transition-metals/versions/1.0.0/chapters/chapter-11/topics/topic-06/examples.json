@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Catalytic Converters",
+      "content": "A practical example demonstrating Catalytic Converters",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "catalytic-converters"
+      ]
+    }
+  ]
+}

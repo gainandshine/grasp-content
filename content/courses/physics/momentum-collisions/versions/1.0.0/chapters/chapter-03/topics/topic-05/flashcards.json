@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is One-Dimensional Collisions?",
+      "back": "One-Dimensional Collisions is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is One-Dimensional Collisions important?",
+      "back": "One-Dimensional Collisions is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Supply",
+      "content": "A practical example demonstrating Supply",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "supply"
+      ]
+    }
+  ]
+}

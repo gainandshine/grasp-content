@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Creative Process",
+      "content": "A practical example demonstrating Creative Process",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "creative-process"
+      ]
+    }
+  ]
+}

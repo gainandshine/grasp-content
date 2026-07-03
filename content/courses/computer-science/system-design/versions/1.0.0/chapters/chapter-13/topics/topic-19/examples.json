@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cloud-Native Systems",
+      "content": "A practical example demonstrating Cloud-Native Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "cloud-native-systems"
+      ]
+    }
+  ]
+}

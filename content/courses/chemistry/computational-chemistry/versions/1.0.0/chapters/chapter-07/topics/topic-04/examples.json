@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pressure Control",
+      "content": "A practical example demonstrating Pressure Control",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "pressure-control"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Real-Time Ray Tracing",
+      "content": "A practical example demonstrating Real-Time Ray Tracing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "real-time-ray-tracing"
+      ]
+    }
+  ]
+}

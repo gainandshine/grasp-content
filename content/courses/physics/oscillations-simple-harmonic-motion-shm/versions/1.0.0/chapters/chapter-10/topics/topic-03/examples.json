@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Buildings & Earthquakes",
+      "content": "A practical example demonstrating Buildings & Earthquakes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "buildings-earthquakes"
+      ]
+    }
+  ]
+}

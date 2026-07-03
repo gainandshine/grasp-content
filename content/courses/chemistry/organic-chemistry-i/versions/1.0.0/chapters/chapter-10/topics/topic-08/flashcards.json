@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Friedel-Crafts Reactions?",
+      "back": "Friedel-Crafts Reactions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Friedel-Crafts Reactions important?",
+      "back": "Friedel-Crafts Reactions is essential for understanding Organic Chemistry I.",
+      "difficulty": "medium"
+    }
+  ]
+}

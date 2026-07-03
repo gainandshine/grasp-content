@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: App Configuration",
+      "content": "A practical example demonstrating App Configuration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "app-configuration"
+      ]
+    }
+  ]
+}

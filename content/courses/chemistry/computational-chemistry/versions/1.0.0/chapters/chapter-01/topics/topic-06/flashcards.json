@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Limitations?",
+      "back": "Limitations is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Limitations important?",
+      "back": "Limitations is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

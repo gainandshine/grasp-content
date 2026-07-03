@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Computational Econometrics?",
+      "back": "Computational Econometrics is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Computational Econometrics important?",
+      "back": "Computational Econometrics is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

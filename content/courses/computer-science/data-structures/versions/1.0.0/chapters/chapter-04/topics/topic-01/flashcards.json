@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stack ADT?",
+      "back": "Stack ADT is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stack ADT important?",
+      "back": "Stack ADT is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

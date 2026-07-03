@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Radial Velocity Method?",
+      "back": "Radial Velocity Method is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Radial Velocity Method important?",
+      "back": "Radial Velocity Method is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Distributed Data Processing?",
+      "back": "Distributed Data Processing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Distributed Data Processing important?",
+      "back": "Distributed Data Processing is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

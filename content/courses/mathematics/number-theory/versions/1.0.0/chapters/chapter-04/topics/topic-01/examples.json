@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Solving Linear Congruences",
+      "content": "A practical example demonstrating Solving Linear Congruences",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "solving-linear-congruences"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Divide and Conquer",
+      "content": "A practical example demonstrating Divide and Conquer",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "divide-and-conquer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Power Distribution",
+      "content": "A practical example demonstrating Power Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "power-distribution"
+      ]
+    }
+  ]
+}

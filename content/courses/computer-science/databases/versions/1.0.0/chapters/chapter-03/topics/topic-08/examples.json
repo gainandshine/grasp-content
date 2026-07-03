@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: GROUP BY",
+      "content": "A practical example demonstrating GROUP BY",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "group-by"
+      ]
+    }
+  ]
+}

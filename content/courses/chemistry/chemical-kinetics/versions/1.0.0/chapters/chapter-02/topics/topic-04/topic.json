@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Concentration Dependence",
-  "description": "Learn about Concentration Dependence",
-  "conceptId": "chemistry.chemical-kinetics.chapter-02.topic-04"
+  "topicId": "chemistry.chemical-kinetics.chapter-02.topic-04",
+  "description": "Learn about Concentration Dependence and its applications in chemistry.",
+  "content": {
+    "overview": "Concentration Dependence is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Concentration Dependence. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Concentration Dependence requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Concentration Dependence is essential for mastering Chemical Kinetics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

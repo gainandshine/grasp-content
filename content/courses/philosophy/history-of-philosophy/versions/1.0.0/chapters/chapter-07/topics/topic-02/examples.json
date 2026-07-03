@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: George Berkeley",
+      "content": "A practical example demonstrating George Berkeley",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "george-berkeley"
+      ]
+    }
+  ]
+}

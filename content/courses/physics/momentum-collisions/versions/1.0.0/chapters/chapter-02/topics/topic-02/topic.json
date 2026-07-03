@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Internal Forces",
-  "description": "Learn about Internal Forces",
-  "conceptId": "physics.momentum-collisions.chapter-02.topic-02"
+  "topicId": "physics.momentum-collisions.chapter-02.topic-02",
+  "description": "Learn about Internal Forces and its applications in physics.",
+  "content": {
+    "overview": "Internal Forces is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Internal Forces. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Internal Forces requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Internal Forces is essential for mastering Momentum & Collisions. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

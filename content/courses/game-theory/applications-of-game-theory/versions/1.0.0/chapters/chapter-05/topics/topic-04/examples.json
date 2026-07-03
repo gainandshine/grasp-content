@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Economic Sanctions",
+      "content": "A practical example demonstrating Economic Sanctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "economic-sanctions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Public-Key Cryptography",
+      "content": "A practical example demonstrating Public-Key Cryptography",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "public-key-cryptography"
+      ]
+    }
+  ]
+}

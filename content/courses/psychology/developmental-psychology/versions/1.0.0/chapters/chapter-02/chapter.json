@@ -2,36 +2,37 @@
   "id": "chapter-02",
   "name": "Prenatal Development",
   "description": "Prenatal Development",
+  "overview": "This chapter covers the fundamental concepts of Prenatal Development.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Fertilization",
-      "conceptId": "psychology.developmental-psychology.chapter-02.topic-01"
+      "topicId": "psychology.developmental-psychology.chapter-02.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Embryonic Development",
-      "conceptId": "psychology.developmental-psychology.chapter-02.topic-02"
+      "topicId": "psychology.developmental-psychology.chapter-02.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Fetal Development",
-      "conceptId": "psychology.developmental-psychology.chapter-02.topic-03"
+      "topicId": "psychology.developmental-psychology.chapter-02.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Genetics",
-      "conceptId": "psychology.developmental-psychology.chapter-02.topic-04"
+      "topicId": "psychology.developmental-psychology.chapter-02.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Prenatal Environment",
-      "conceptId": "psychology.developmental-psychology.chapter-02.topic-05"
+      "topicId": "psychology.developmental-psychology.chapter-02.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Birth Process",
-      "conceptId": "psychology.developmental-psychology.chapter-02.topic-06"
+      "topicId": "psychology.developmental-psychology.chapter-02.topic-06"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Inertial Frames",
+      "content": "A practical example demonstrating Inertial Frames",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "inertial-frames"
+      ]
+    }
+  ]
+}

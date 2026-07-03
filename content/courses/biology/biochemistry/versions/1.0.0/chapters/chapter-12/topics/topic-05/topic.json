@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Nutrition",
-  "description": "Learn about Nutrition",
-  "conceptId": "biology.biochemistry.chapter-12.topic-05"
+  "topicId": "biology.biochemistry.chapter-12.topic-05",
+  "description": "Learn about Nutrition and its applications in biology.",
+  "content": {
+    "overview": "Nutrition is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Nutrition. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Nutrition requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Nutrition is essential for mastering Biochemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

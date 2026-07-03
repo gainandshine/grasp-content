@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI Agent Decisions",
+      "content": "A practical example demonstrating AI Agent Decisions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "ai-agent-decisions"
+      ]
+    }
+  ]
+}

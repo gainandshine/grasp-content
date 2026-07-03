@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is System Hardening?",
+      "back": "System Hardening is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is System Hardening important?",
+      "back": "System Hardening is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

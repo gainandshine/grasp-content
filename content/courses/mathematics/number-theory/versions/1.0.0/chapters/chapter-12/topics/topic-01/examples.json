@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Primitive Roots",
+      "content": "A practical example demonstrating Primitive Roots",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "primitive-roots"
+      ]
+    }
+  ]
+}

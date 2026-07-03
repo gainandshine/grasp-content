@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Zeroth Law of Thermodynamics.",
+      "solution": "Step-by-step solution for Zeroth Law of Thermodynamics problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "zeroth-law-of-thermodynamics"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Zeroth Law of Thermodynamics to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "zeroth-law-of-thermodynamics"
+      ]
+    }
+  ]
+}

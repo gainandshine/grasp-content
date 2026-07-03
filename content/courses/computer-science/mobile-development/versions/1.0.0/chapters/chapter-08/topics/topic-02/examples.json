@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Local Notifications",
+      "content": "A practical example demonstrating Local Notifications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "local-notifications"
+      ]
+    }
+  ]
+}

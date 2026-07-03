@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: x86 Architecture",
+      "content": "A practical example demonstrating x86 Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "x86-architecture"
+      ]
+    }
+  ]
+}

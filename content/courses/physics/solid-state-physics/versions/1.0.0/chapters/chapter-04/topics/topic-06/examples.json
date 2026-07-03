@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Crystal Structure Determination",
+      "content": "A practical example demonstrating Crystal Structure Determination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "crystal-structure-determination"
+      ]
+    }
+  ]
+}

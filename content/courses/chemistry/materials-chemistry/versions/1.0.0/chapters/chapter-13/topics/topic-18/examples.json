@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nanomedicine",
+      "content": "A practical example demonstrating Nanomedicine",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nanomedicine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trembling-Hand Perfect Equilibrium",
+      "content": "A practical example demonstrating Trembling-Hand Perfect Equilibrium",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "trembling-hand-perfect-equilibrium"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Column-Family Databases?",
+      "back": "Column-Family Databases is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Column-Family Databases important?",
+      "back": "Column-Family Databases is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

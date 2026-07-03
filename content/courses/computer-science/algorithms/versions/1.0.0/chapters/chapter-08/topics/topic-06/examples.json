@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: State Space Trees",
+      "content": "A practical example demonstrating State Space Trees",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "state-space-trees"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Function Inlining",
+      "content": "A practical example demonstrating Function Inlining",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "function-inlining"
+      ]
+    }
+  ]
+}

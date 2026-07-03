@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Derived Units",
-  "description": "Learn about Derived Units",
-  "conceptId": "physics.physics-foundations.chapter-02.topic-02"
+  "topicId": "physics.physics-foundations.chapter-02.topic-02",
+  "description": "Learn about Derived Units and its applications in physics.",
+  "content": {
+    "overview": "Derived Units is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Derived Units. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Derived Units requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Derived Units is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

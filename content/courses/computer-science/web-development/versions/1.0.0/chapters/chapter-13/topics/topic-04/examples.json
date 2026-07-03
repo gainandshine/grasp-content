@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Content Management Systems",
+      "content": "A practical example demonstrating Content Management Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "content-management-systems"
+      ]
+    }
+  ]
+}

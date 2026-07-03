@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Adjoint Method",
+      "content": "A practical example demonstrating Adjoint Method",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "adjoint-method"
+      ]
+    }
+  ]
+}

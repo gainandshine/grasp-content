@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Compton Scattering",
+      "content": "A practical example demonstrating Compton Scattering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "compton-scattering"
+      ]
+    }
+  ]
+}

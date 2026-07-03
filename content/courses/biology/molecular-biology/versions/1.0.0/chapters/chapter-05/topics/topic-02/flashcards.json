@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is 5' Capping?",
+      "back": "5' Capping is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is 5' Capping important?",
+      "back": "5' Capping is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

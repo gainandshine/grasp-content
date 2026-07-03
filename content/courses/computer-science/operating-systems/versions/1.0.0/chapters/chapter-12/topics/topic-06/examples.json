@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Real-Time Operating Systems (RTOS)",
+      "content": "A practical example demonstrating Real-Time Operating Systems (RTOS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "real-time-operating-systems-rtos"
+      ]
+    }
+  ]
+}

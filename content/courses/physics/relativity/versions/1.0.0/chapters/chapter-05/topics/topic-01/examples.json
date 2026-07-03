@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Minkowski Space",
+      "content": "A practical example demonstrating Minkowski Space",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "minkowski-space"
+      ]
+    }
+  ]
+}

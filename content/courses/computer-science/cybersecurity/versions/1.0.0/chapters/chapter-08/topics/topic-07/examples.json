@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Advanced Persistent Threats (APTs)",
+      "content": "A practical example demonstrating Advanced Persistent Threats (APTs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "advanced-persistent-threats-apts"
+      ]
+    }
+  ]
+}

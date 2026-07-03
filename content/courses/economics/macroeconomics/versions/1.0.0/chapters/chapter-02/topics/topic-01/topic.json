@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Gross Domestic Product (GDP)",
-  "description": "Learn about Gross Domestic Product (GDP)",
-  "conceptId": "economics.macroeconomics.chapter-02.topic-01"
+  "topicId": "economics.macroeconomics.chapter-02.topic-01",
+  "description": "Learn about Gross Domestic Product (GDP) and its applications in economics.",
+  "content": {
+    "overview": "Gross Domestic Product (GDP) is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Gross Domestic Product (GDP). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Gross Domestic Product (GDP) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Gross Domestic Product (GDP) is essential for mastering Macroeconomics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

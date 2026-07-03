@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radioactivity",
+      "content": "A practical example demonstrating Radioactivity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "radioactivity"
+      ]
+    }
+  ]
+}

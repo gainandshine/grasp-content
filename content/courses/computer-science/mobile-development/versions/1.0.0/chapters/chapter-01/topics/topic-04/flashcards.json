@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mobile App Architecture?",
+      "back": "Mobile App Architecture is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mobile App Architecture important?",
+      "back": "Mobile App Architecture is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

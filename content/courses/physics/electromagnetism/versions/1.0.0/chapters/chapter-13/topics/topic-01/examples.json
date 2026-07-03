@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrodynamics",
+      "content": "A practical example demonstrating Electrodynamics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "electrodynamics"
+      ]
+    }
+  ]
+}

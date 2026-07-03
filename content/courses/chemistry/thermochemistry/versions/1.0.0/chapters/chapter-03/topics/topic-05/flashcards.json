@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Standard Enthalpy?",
+      "back": "Standard Enthalpy is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Standard Enthalpy important?",
+      "back": "Standard Enthalpy is essential for understanding Thermochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

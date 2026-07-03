@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aufbau Principle",
+      "content": "A practical example demonstrating Aufbau Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "aufbau-principle"
+      ]
+    }
+  ]
+}

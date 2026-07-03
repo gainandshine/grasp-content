@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chinese Remainder Theorem",
+      "content": "A practical example demonstrating Chinese Remainder Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "chinese-remainder-theorem"
+      ]
+    }
+  ]
+}

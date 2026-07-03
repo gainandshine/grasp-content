@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to End-to-End Data Science Projects.",
+      "solution": "Step-by-step solution for End-to-End Data Science Projects problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "computer-science",
+        "end-to-end-data-science-projects"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply End-to-End Data Science Projects to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "computer-science",
+        "end-to-end-data-science-projects"
+      ]
+    }
+  ]
+}

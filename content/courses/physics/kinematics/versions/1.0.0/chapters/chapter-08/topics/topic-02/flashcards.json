@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Vector Components?",
+      "back": "Vector Components is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Vector Components important?",
+      "back": "Vector Components is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Euler Paths",
+      "content": "A practical example demonstrating Euler Paths",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "euler-paths"
+      ]
+    }
+  ]
+}

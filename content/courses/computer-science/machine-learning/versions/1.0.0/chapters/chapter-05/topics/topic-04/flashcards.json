@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is DBSCAN?",
+      "back": "DBSCAN is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is DBSCAN important?",
+      "back": "DBSCAN is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

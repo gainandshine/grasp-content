@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cyclic Preferences",
+      "content": "A practical example demonstrating Cyclic Preferences",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "cyclic-preferences"
+      ]
+    }
+  ]
+}

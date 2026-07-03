@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Measure Theory",
+      "content": "A practical example demonstrating Measure Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "measure-theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Energy Balance",
+      "content": "A practical example demonstrating Energy Balance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "energy-balance"
+      ]
+    }
+  ]
+}

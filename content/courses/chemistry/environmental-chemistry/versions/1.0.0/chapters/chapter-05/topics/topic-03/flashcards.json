@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Dissolved Oxygen?",
+      "back": "Dissolved Oxygen is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Dissolved Oxygen important?",
+      "back": "Dissolved Oxygen is essential for understanding Environmental Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

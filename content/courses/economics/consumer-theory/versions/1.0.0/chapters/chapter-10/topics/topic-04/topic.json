@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Risk Neutrality",
-  "description": "Learn about Risk Neutrality",
-  "conceptId": "economics.consumer-theory.chapter-10.topic-04"
+  "topicId": "economics.consumer-theory.chapter-10.topic-04",
+  "description": "Learn about Risk Neutrality and its applications in economics.",
+  "content": {
+    "overview": "Risk Neutrality is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Risk Neutrality. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Risk Neutrality requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Risk Neutrality is essential for mastering Consumer Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

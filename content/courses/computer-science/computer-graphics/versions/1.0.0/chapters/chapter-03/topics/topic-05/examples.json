@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Homogeneous Coordinates",
+      "content": "A practical example demonstrating Homogeneous Coordinates",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "homogeneous-coordinates"
+      ]
+    }
+  ]
+}

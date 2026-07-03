@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enterprise Networks",
+      "content": "A practical example demonstrating Enterprise Networks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "enterprise-networks"
+      ]
+    }
+  ]
+}

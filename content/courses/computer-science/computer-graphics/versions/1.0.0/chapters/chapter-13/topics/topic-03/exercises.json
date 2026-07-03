@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Physically Based Rendering (PBR).",
+      "solution": "Step-by-step solution for Physically Based Rendering (PBR) problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "computer-science",
+        "physically-based-rendering-pbr"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Physically Based Rendering (PBR) to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "computer-science",
+        "physically-based-rendering-pbr"
+      ]
+    }
+  ]
+}

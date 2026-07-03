@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aggregate Functions",
+      "content": "A practical example demonstrating Aggregate Functions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "aggregate-functions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "id": "q-01",
+      "type": "multiple-choice",
+      "question": "Which statement best describes Bioinorganic Chemistry?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-02",
+      "type": "true-false",
+      "question": "Bioinorganic Chemistry is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bioinorganic Chemistry has many practical applications.",
+      "difficulty": "easy"
+    }
+  ]
+}

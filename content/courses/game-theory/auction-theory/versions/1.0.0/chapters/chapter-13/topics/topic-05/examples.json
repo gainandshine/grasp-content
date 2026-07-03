@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI Bidding Agents",
+      "content": "A practical example demonstrating AI Bidding Agents",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "ai-bidding-agents"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Charged Particle Motion?",
+      "back": "Charged Particle Motion is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Charged Particle Motion important?",
+      "back": "Charged Particle Motion is essential for understanding Plasma Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

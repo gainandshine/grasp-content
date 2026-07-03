@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bayesian Networks (Introduction)",
+      "content": "A practical example demonstrating Bayesian Networks (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "bayesian-networks-introduction"
+      ]
+    }
+  ]
+}

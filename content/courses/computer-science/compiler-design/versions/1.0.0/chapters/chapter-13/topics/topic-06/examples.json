@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Domain-Specific Languages (DSLs)",
+      "content": "A practical example demonstrating Domain-Specific Languages (DSLs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "domain-specific-languages-dsls"
+      ]
+    }
+  ]
+}

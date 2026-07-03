@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Collective Rationality",
+      "content": "A practical example demonstrating Collective Rationality",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "collective-rationality"
+      ]
+    }
+  ]
+}

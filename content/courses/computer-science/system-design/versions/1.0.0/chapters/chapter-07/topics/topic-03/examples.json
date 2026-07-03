@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Event Streaming",
+      "content": "A practical example demonstrating Event Streaming",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "event-streaming"
+      ]
+    }
+  ]
+}

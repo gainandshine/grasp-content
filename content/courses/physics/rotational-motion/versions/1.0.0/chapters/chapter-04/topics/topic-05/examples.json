@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Standard Moments of Inertia",
+      "content": "A practical example demonstrating Standard Moments of Inertia",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "standard-moments-of-inertia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Translation",
+      "content": "A practical example demonstrating Translation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "translation"
+      ]
+    }
+  ]
+}

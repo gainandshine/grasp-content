@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hindsight Bias",
+      "content": "A practical example demonstrating Hindsight Bias",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "hindsight-bias"
+      ]
+    }
+  ]
+}

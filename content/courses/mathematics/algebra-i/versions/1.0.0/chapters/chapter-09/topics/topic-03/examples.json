@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Difference of Squares",
+      "content": "A practical example demonstrating Difference of Squares",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "difference-of-squares"
+      ]
+    }
+  ]
+}

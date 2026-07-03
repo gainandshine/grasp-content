@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Protein Analysis",
+      "content": "A practical example demonstrating Protein Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "protein-analysis"
+      ]
+    }
+  ]
+}

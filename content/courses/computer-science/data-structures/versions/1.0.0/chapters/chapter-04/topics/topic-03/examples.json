@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Array Implementation",
+      "content": "A practical example demonstrating Array Implementation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "array-implementation"
+      ]
+    }
+  ]
+}

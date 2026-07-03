@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Order of Operations (BODMAS/PEMDAS)",
+      "content": "A practical example demonstrating Order of Operations (BODMAS/PEMDAS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "order-of-operations-bodmaspemdas"
+      ]
+    }
+  ]
+}

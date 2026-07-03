@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Language Server Protocol (LSP)?",
+      "back": "Language Server Protocol (LSP) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Language Server Protocol (LSP) important?",
+      "back": "Language Server Protocol (LSP) is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

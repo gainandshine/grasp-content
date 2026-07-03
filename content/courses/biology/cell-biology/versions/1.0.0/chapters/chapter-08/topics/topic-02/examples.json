@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cytokinesis",
+      "content": "A practical example demonstrating Cytokinesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cytokinesis"
+      ]
+    }
+  ]
+}

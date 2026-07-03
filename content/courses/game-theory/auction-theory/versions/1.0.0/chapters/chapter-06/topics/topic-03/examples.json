@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Information Advantage",
+      "content": "A practical example demonstrating Information Advantage",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "information-advantage"
+      ]
+    }
+  ]
+}

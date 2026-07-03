@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Open Source Software",
+      "content": "A practical example demonstrating Open Source Software",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "open-source-software"
+      ]
+    }
+  ]
+}

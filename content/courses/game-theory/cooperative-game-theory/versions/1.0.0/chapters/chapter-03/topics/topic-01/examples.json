@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Characteristic Function",
+      "content": "A practical example demonstrating Characteristic Function",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "characteristic-function"
+      ]
+    }
+  ]
+}

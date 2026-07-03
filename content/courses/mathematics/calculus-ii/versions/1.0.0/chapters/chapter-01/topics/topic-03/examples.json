@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Integration by Parts",
+      "content": "A practical example demonstrating Integration by Parts",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "integration-by-parts"
+      ]
+    }
+  ]
+}

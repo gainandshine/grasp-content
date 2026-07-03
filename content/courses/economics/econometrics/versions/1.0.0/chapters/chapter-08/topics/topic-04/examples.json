@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Random Effects Models",
+      "content": "A practical example demonstrating Random Effects Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "random-effects-models"
+      ]
+    }
+  ]
+}

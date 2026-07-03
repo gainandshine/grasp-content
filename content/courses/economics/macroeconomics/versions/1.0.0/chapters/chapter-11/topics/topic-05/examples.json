@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Recessions",
+      "content": "A practical example demonstrating Recessions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "recessions"
+      ]
+    }
+  ]
+}

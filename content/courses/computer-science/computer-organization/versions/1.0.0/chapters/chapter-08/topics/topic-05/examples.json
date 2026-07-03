@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Character Encoding",
+      "content": "A practical example demonstrating Character Encoding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "character-encoding"
+      ]
+    }
+  ]
+}

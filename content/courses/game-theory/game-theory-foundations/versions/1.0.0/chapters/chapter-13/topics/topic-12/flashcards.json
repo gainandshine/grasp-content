@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Risk?",
+      "back": "Risk is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Risk important?",
+      "back": "Risk is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

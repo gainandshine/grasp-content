@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lexer Generators",
+      "content": "A practical example demonstrating Lexer Generators",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "lexer-generators"
+      ]
+    }
+  ]
+}

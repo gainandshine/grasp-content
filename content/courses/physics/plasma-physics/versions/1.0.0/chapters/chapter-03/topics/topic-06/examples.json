@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: E×B Drift",
+      "content": "A practical example demonstrating E×B Drift",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "eb-drift"
+      ]
+    }
+  ]
+}

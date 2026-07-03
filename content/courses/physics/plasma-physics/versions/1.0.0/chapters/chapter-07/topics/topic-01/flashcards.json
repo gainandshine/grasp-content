@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Magnetic Confinement?",
+      "back": "Magnetic Confinement is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Magnetic Confinement important?",
+      "back": "Magnetic Confinement is essential for understanding Plasma Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

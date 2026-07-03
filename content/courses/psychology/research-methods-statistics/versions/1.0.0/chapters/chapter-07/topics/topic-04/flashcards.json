@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hypothesis Testing?",
+      "back": "Hypothesis Testing is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hypothesis Testing important?",
+      "back": "Hypothesis Testing is essential for understanding Research Methods & Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

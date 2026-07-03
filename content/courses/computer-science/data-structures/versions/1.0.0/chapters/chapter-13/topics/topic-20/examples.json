@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Algorithm Design Techniques",
+      "content": "A practical example demonstrating Algorithm Design Techniques",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "algorithm-design-techniques"
+      ]
+    }
+  ]
+}

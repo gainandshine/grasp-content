@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hydrogels",
+      "content": "A practical example demonstrating Hydrogels",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "hydrogels"
+      ]
+    }
+  ]
+}

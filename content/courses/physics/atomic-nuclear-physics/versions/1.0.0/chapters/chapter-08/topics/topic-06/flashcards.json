@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Nuclear Cross Section?",
+      "back": "Nuclear Cross Section is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Nuclear Cross Section important?",
+      "back": "Nuclear Cross Section is essential for understanding Atomic & Nuclear Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

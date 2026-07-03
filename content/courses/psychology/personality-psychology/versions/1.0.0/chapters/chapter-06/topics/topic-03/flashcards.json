@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Brain & Personality?",
+      "back": "Brain & Personality is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Brain & Personality important?",
+      "back": "Brain & Personality is essential for understanding Personality Psychology.",
+      "difficulty": "medium"
+    }
+  ]
+}

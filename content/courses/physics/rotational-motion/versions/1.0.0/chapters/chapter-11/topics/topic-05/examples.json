@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rotating Machinery",
+      "content": "A practical example demonstrating Rotating Machinery",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rotating-machinery"
+      ]
+    }
+  ]
+}

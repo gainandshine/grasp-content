@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Applications?",
+      "back": "Applications is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Applications important?",
+      "back": "Applications is essential for understanding Cooperative Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

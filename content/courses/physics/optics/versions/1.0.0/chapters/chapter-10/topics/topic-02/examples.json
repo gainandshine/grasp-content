@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Laser Principle",
+      "content": "A practical example demonstrating Laser Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "laser-principle"
+      ]
+    }
+  ]
+}

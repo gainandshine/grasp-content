@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: X-Ray Photoelectron Spectroscopy (XPS)",
+      "content": "A practical example demonstrating X-Ray Photoelectron Spectroscopy (XPS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "x-ray-photoelectron-spectroscopy-xps"
+      ]
+    }
+  ]
+}

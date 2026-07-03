@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Meshes?",
+      "back": "Meshes is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Meshes important?",
+      "back": "Meshes is essential for understanding Computer Graphics.",
+      "difficulty": "medium"
+    }
+  ]
+}

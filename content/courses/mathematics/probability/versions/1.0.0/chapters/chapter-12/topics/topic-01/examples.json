@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bayesian Inference",
+      "content": "A practical example demonstrating Bayesian Inference",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "bayesian-inference"
+      ]
+    }
+  ]
+}

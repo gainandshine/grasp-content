@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Consumer Price Index (CPI)",
+      "content": "A practical example demonstrating Consumer Price Index (CPI)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "consumer-price-index-cpi"
+      ]
+    }
+  ]
+}

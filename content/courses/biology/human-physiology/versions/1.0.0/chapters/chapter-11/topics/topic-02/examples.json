@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Red Blood Cells",
+      "content": "A practical example demonstrating Red Blood Cells",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "red-blood-cells"
+      ]
+    }
+  ]
+}

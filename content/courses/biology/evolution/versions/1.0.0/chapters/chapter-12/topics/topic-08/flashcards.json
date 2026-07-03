@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Anatomical Terminology?",
+      "back": "Anatomical Terminology is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Anatomical Terminology important?",
+      "back": "Anatomical Terminology is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

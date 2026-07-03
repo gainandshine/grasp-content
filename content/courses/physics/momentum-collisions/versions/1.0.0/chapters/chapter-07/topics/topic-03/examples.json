@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rocket Propulsion (Introduction)",
+      "content": "A practical example demonstrating Rocket Propulsion (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rocket-propulsion-introduction"
+      ]
+    }
+  ]
+}

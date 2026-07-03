@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Proper Interval",
+      "content": "A practical example demonstrating Proper Interval",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "proper-interval"
+      ]
+    }
+  ]
+}

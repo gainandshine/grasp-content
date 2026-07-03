@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Lithium-Ion Battery",
-  "description": "Learn about Lithium-Ion Battery",
-  "conceptId": "chemistry.electrochemistry.chapter-08.topic-04"
+  "topicId": "chemistry.electrochemistry.chapter-08.topic-04",
+  "description": "Learn about Lithium-Ion Battery and its applications in chemistry.",
+  "content": {
+    "overview": "Lithium-Ion Battery is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Lithium-Ion Battery. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Lithium-Ion Battery requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Lithium-Ion Battery is essential for mastering Electrochemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

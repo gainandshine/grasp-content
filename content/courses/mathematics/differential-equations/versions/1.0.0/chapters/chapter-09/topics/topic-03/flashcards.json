@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ordinary Points?",
+      "back": "Ordinary Points is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ordinary Points important?",
+      "back": "Ordinary Points is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

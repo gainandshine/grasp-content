@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Moving Average?",
+      "back": "Moving Average is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Moving Average important?",
+      "back": "Moving Average is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

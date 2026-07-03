@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stability & In-Place Sorting",
+      "content": "A practical example demonstrating Stability & In-Place Sorting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "stability-in-place-sorting"
+      ]
+    }
+  ]
+}

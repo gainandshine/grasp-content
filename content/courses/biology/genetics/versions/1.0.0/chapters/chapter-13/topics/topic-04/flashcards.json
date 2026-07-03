@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Functional Genomics?",
+      "back": "Functional Genomics is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Functional Genomics important?",
+      "back": "Functional Genomics is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

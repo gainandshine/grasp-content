@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Nernst Equation?",
+      "back": "Nernst Equation is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Nernst Equation important?",
+      "back": "Nernst Equation is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

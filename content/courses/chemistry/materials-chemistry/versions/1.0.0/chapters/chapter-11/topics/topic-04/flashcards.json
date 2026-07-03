@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Atomic Force Microscopy (AFM)?",
+      "back": "Atomic Force Microscopy (AFM) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Atomic Force Microscopy (AFM) important?",
+      "back": "Atomic Force Microscopy (AFM) is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

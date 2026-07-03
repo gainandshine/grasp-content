@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Congestion Control",
+      "content": "A practical example demonstrating Congestion Control",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "congestion-control"
+      ]
+    }
+  ]
+}

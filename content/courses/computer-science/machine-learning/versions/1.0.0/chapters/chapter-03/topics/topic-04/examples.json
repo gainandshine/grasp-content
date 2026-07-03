@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Logistic Regression",
+      "content": "A practical example demonstrating Logistic Regression",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "logistic-regression"
+      ]
+    }
+  ]
+}

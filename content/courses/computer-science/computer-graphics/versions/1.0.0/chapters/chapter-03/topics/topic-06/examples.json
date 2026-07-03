@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Transformation Matrices",
+      "content": "A practical example demonstrating Transformation Matrices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "transformation-matrices"
+      ]
+    }
+  ]
+}

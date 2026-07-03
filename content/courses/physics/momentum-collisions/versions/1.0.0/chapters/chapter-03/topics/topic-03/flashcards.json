@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Inelastic Collisions?",
+      "back": "Inelastic Collisions is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Inelastic Collisions important?",
+      "back": "Inelastic Collisions is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Industry 4.0",
+      "content": "A practical example demonstrating Industry 4.0",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "industry-40"
+      ]
+    }
+  ]
+}

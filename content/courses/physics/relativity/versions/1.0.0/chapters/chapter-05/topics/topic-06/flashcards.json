@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Spacetime Diagrams?",
+      "back": "Spacetime Diagrams is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Spacetime Diagrams important?",
+      "back": "Spacetime Diagrams is essential for understanding Relativity.",
+      "difficulty": "medium"
+    }
+  ]
+}

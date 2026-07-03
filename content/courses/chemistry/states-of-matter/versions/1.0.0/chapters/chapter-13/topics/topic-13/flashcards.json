@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gibbs Free Energy?",
+      "back": "Gibbs Free Energy is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gibbs Free Energy important?",
+      "back": "Gibbs Free Energy is essential for understanding States of Matter.",
+      "difficulty": "medium"
+    }
+  ]
+}

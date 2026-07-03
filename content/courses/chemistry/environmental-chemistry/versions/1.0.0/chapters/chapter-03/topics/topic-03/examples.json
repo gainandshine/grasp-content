@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon Monoxide",
+      "content": "A practical example demonstrating Carbon Monoxide",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "carbon-monoxide"
+      ]
+    }
+  ]
+}

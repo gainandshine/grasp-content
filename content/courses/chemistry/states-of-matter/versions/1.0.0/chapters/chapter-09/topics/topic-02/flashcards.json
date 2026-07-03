@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Triple Point?",
+      "back": "Triple Point is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Triple Point important?",
+      "back": "Triple Point is essential for understanding States of Matter.",
+      "difficulty": "medium"
+    }
+  ]
+}

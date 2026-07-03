@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Primary Structure?",
+      "back": "Primary Structure is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Primary Structure important?",
+      "back": "Primary Structure is essential for understanding Biomolecules.",
+      "difficulty": "medium"
+    }
+  ]
+}

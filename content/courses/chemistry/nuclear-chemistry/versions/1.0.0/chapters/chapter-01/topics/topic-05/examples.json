@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: History of Nuclear Chemistry",
+      "content": "A practical example demonstrating History of Nuclear Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "history-of-nuclear-chemistry"
+      ]
+    }
+  ]
+}

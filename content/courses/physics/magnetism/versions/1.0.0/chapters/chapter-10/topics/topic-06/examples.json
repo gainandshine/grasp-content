@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lenz's Law",
+      "content": "A practical example demonstrating Lenz's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "lenzs-law"
+      ]
+    }
+  ]
+}

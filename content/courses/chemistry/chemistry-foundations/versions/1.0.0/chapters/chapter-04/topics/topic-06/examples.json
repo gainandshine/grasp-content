@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Measurement Uncertainty",
+      "content": "A practical example demonstrating Measurement Uncertainty",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "measurement-uncertainty"
+      ]
+    }
+  ]
+}

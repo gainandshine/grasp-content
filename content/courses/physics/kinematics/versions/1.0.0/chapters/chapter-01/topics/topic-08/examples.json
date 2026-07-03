@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Average Velocity",
+      "content": "A practical example demonstrating Average Velocity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "average-velocity"
+      ]
+    }
+  ]
+}

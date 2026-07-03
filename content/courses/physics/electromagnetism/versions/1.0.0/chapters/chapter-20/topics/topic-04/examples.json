@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time Constant",
+      "content": "A practical example demonstrating Time Constant",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "time-constant"
+      ]
+    }
+  ]
+}

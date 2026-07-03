@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Merge Sort",
+      "content": "A practical example demonstrating Merge Sort",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "merge-sort"
+      ]
+    }
+  ]
+}

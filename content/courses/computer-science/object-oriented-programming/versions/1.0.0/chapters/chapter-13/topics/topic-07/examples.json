@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mini OOP Project",
+      "content": "A practical example demonstrating Mini OOP Project",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "mini-oop-project"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Data Acquisition",
+      "content": "A practical example demonstrating Data Acquisition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "data-acquisition"
+      ]
+    }
+  ]
+}

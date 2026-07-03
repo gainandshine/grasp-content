@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Proton NMR?",
+      "back": "Proton NMR is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Proton NMR important?",
+      "back": "Proton NMR is essential for understanding Organic Chemistry II.",
+      "difficulty": "medium"
+    }
+  ]
+}

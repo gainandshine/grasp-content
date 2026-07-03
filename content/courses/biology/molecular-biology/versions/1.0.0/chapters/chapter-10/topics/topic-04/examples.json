@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gene Editing",
+      "content": "A practical example demonstrating Gene Editing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "gene-editing"
+      ]
+    }
+  ]
+}

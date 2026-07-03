@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bit Manipulation",
+      "content": "A practical example demonstrating Bit Manipulation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "bit-manipulation"
+      ]
+    }
+  ]
+}

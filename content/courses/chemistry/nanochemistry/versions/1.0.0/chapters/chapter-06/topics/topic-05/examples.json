@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dynamic Light Scattering (DLS)",
+      "content": "A practical example demonstrating Dynamic Light Scattering (DLS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "dynamic-light-scattering-dls"
+      ]
+    }
+  ]
+}

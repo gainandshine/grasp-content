@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Liquid Drop Model",
+      "content": "A practical example demonstrating Liquid Drop Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "liquid-drop-model"
+      ]
+    }
+  ]
+}

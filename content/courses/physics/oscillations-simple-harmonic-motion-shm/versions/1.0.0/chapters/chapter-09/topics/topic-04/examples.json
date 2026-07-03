@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Energy Transfer",
+      "content": "A practical example demonstrating Energy Transfer",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "energy-transfer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aircraft Wings",
+      "content": "A practical example demonstrating Aircraft Wings",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "aircraft-wings"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Disaster Mental Health",
-  "description": "Learn about Disaster Mental Health",
-  "conceptId": "psychology.clinical-psychology.chapter-08.topic-06"
+  "topicId": "psychology.clinical-psychology.chapter-08.topic-06",
+  "description": "Learn about Disaster Mental Health and its applications in psychology.",
+  "content": {
+    "overview": "Disaster Mental Health is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Disaster Mental Health. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Disaster Mental Health requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Disaster Mental Health is essential for mastering Clinical Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

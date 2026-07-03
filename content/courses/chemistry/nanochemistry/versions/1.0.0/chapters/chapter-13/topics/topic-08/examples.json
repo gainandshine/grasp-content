@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 23: Nuclear Chemistry**",
+      "content": "A practical example demonstrating *Course 23: Nuclear Chemistry**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "course-23-nuclear-chemistry"
+      ]
+    }
+  ]
+}

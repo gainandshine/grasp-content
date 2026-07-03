@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Cell Differentiation.",
+      "solution": "Step-by-step solution for Cell Differentiation problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "biology",
+        "cell-differentiation"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Cell Differentiation to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "biology",
+        "cell-differentiation"
+      ]
+    }
+  ]
+}

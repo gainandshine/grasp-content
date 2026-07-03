@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Proportional Allocation?",
+      "back": "Proportional Allocation is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Proportional Allocation important?",
+      "back": "Proportional Allocation is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

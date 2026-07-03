@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Psychological Disorders",
+      "content": "A practical example demonstrating Psychological Disorders",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "psychological-disorders"
+      ]
+    }
+  ]
+}

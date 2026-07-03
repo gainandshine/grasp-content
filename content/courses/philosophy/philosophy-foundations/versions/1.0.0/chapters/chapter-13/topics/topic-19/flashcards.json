@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Computational Logic?",
+      "back": "Computational Logic is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Computational Logic important?",
+      "back": "Computational Logic is essential for understanding Philosophy Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

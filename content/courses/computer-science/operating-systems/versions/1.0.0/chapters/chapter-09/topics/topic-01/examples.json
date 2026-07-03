@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Disk Scheduling",
+      "content": "A practical example demonstrating Disk Scheduling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "disk-scheduling"
+      ]
+    }
+  ]
+}

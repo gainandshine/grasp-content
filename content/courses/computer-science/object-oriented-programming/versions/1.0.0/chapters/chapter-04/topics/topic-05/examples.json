@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Data Hiding",
+      "content": "A practical example demonstrating Data Hiding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "data-hiding"
+      ]
+    }
+  ]
+}

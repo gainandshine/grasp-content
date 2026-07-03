@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reliable Data Transfer",
+      "content": "A practical example demonstrating Reliable Data Transfer",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "reliable-data-transfer"
+      ]
+    }
+  ]
+}

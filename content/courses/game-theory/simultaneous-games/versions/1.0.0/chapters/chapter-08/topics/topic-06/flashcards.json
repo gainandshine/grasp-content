@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Strategic Conflict?",
+      "back": "Strategic Conflict is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Strategic Conflict important?",
+      "back": "Strategic Conflict is essential for understanding Simultaneous Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rare Earth Elements",
+      "content": "A practical example demonstrating Rare Earth Elements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "rare-earth-elements"
+      ]
+    }
+  ]
+}

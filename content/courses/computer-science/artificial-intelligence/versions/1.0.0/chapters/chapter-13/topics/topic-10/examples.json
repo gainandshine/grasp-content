@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Data Preprocessing",
+      "content": "A practical example demonstrating Data Preprocessing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "data-preprocessing"
+      ]
+    }
+  ]
+}

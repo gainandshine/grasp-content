@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Health Psychology",
+      "content": "A practical example demonstrating Health Psychology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "health-psychology"
+      ]
+    }
+  ]
+}

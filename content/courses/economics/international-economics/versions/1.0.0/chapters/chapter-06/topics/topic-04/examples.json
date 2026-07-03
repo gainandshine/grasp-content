@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Foreign Exchange Reserves",
+      "content": "A practical example demonstrating Foreign Exchange Reserves",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "foreign-exchange-reserves"
+      ]
+    }
+  ]
+}

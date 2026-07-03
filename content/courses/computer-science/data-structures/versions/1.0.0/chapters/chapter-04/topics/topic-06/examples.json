@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Function Call Stack",
+      "content": "A practical example demonstrating Function Call Stack",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "function-call-stack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Steroid Hormones",
+      "content": "A practical example demonstrating Steroid Hormones",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "steroid-hormones"
+      ]
+    }
+  ]
+}

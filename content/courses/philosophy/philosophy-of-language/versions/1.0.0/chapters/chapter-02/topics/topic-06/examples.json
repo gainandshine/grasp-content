@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ambiguity",
+      "content": "A practical example demonstrating Ambiguity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "ambiguity"
+      ]
+    }
+  ]
+}

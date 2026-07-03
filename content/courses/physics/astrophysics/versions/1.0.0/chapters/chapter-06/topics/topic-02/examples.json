@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chandrasekhar Limit",
+      "content": "A practical example demonstrating Chandrasekhar Limit",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "chandrasekhar-limit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ecotourism?",
+      "back": "Ecotourism is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ecotourism important?",
+      "back": "Ecotourism is essential for understanding Ecology.",
+      "difficulty": "medium"
+    }
+  ]
+}

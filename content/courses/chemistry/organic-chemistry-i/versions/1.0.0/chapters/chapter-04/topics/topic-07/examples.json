@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aromatic Compounds",
+      "content": "A practical example demonstrating Aromatic Compounds",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "aromatic-compounds"
+      ]
+    }
+  ]
+}

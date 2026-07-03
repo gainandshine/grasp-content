@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: RL Circuits",
+      "content": "A practical example demonstrating RL Circuits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rl-circuits"
+      ]
+    }
+  ]
+}

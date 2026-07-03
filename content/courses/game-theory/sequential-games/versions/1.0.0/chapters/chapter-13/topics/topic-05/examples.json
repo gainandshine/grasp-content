@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Stage Games",
+      "content": "A practical example demonstrating Multi-Stage Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "multi-stage-games"
+      ]
+    }
+  ]
+}

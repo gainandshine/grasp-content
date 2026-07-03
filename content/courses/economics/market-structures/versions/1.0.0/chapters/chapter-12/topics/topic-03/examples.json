@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pharmaceuticals",
+      "content": "A practical example demonstrating Pharmaceuticals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "pharmaceuticals"
+      ]
+    }
+  ]
+}

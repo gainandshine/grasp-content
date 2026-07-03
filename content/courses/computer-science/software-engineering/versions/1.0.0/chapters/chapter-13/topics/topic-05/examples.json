@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Embedded Software",
+      "content": "A practical example demonstrating Embedded Software",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "embedded-software"
+      ]
+    }
+  ]
+}

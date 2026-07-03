@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reaction Mechanisms",
+      "content": "A practical example demonstrating Reaction Mechanisms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "reaction-mechanisms"
+      ]
+    }
+  ]
+}

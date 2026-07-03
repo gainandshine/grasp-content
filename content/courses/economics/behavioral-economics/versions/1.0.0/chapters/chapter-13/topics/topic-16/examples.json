@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Panel Data",
+      "content": "A practical example demonstrating Panel Data",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "panel-data"
+      ]
+    }
+  ]
+}

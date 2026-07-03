@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Unsupervised Learning",
+      "content": "A practical example demonstrating Unsupervised Learning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "unsupervised-learning"
+      ]
+    }
+  ]
+}

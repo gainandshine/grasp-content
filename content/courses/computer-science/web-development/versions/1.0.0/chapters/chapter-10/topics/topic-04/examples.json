@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Password Hashing",
+      "content": "A practical example demonstrating Password Hashing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "password-hashing"
+      ]
+    }
+  ]
+}

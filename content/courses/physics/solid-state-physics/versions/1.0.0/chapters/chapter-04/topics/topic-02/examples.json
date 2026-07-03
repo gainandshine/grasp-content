@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bragg's Law",
+      "content": "A practical example demonstrating Bragg's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "braggs-law"
+      ]
+    }
+  ]
+}

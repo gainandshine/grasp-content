@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Path Independence",
+      "content": "A practical example demonstrating Path Independence",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "path-independence"
+      ]
+    }
+  ]
+}

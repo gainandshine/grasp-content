@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genetic Engineering",
+      "content": "A practical example demonstrating Genetic Engineering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "genetic-engineering"
+      ]
+    }
+  ]
+}

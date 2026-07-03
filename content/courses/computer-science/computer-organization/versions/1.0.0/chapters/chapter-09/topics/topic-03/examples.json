@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Superscalar Processors",
+      "content": "A practical example demonstrating Superscalar Processors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "superscalar-processors"
+      ]
+    }
+  ]
+}

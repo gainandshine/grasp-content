@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Metalloenzymes",
+      "content": "A practical example demonstrating Metalloenzymes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "metalloenzymes"
+      ]
+    }
+  ]
+}

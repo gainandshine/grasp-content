@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radix Sort",
+      "content": "A practical example demonstrating Radix Sort",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "radix-sort"
+      ]
+    }
+  ]
+}

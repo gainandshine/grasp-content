@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Operator Precedence",
+      "content": "A practical example demonstrating Operator Precedence",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "operator-precedence"
+      ]
+    }
+  ]
+}

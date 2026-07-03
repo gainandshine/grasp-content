@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Yield Optimization?",
+      "back": "Yield Optimization is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Yield Optimization important?",
+      "back": "Yield Optimization is essential for understanding Organic Chemistry II.",
+      "difficulty": "medium"
+    }
+  ]
+}

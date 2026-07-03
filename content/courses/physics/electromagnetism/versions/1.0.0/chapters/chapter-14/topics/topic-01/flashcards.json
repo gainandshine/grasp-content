@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electric Current?",
+      "back": "Electric Current is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electric Current important?",
+      "back": "Electric Current is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

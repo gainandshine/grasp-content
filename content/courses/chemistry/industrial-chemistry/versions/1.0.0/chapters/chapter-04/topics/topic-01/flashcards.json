@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Crude Oil?",
+      "back": "Crude Oil is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Crude Oil important?",
+      "back": "Crude Oil is essential for understanding Industrial Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

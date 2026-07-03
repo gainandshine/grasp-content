@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electron Microscopy",
+      "content": "A practical example demonstrating Electron Microscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electron-microscopy"
+      ]
+    }
+  ]
+}

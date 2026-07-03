@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Discovery of the CMB?",
+      "back": "Discovery of the CMB is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Discovery of the CMB important?",
+      "back": "Discovery of the CMB is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

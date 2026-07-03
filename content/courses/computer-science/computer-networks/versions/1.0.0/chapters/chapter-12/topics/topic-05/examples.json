@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wireshark (Introduction)",
+      "content": "A practical example demonstrating Wireshark (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "wireshark-introduction"
+      ]
+    }
+  ]
+}

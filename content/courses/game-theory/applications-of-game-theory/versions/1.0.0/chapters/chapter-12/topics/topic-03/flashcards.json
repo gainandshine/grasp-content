@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Smart Cities?",
+      "back": "Smart Cities is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Smart Cities important?",
+      "back": "Smart Cities is essential for understanding Applications of Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Light Microscopy?",
+      "back": "Light Microscopy is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Light Microscopy important?",
+      "back": "Light Microscopy is essential for understanding Cell Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

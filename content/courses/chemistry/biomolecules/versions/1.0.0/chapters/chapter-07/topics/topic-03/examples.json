@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: RNA Structure",
+      "content": "A practical example demonstrating RNA Structure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "rna-structure"
+      ]
+    }
+  ]
+}

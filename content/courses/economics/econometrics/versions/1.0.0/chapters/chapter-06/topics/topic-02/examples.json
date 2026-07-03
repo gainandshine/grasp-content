@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Autocorrelation",
+      "content": "A practical example demonstrating Autocorrelation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "autocorrelation"
+      ]
+    }
+  ]
+}

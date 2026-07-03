@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Asymmetric Encryption",
+      "content": "A practical example demonstrating Asymmetric Encryption",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "asymmetric-encryption"
+      ]
+    }
+  ]
+}

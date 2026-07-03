@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Future of Learning Science.",
+      "solution": "Step-by-step solution for Future of Learning Science problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "psychology",
+        "future-of-learning-science"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Future of Learning Science to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "psychology",
+        "future-of-learning-science"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "id": "q-01",
+      "type": "multiple-choice",
+      "question": "Which statement best describes Fatty Acid Oxidation?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-02",
+      "type": "true-false",
+      "question": "Fatty Acid Oxidation is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Fatty Acid Oxidation has many practical applications.",
+      "difficulty": "easy"
+    }
+  ]
+}

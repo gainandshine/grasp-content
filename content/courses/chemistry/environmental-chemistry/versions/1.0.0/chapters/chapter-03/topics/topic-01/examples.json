@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Air Pollutants",
+      "content": "A practical example demonstrating Air Pollutants",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "air-pollutants"
+      ]
+    }
+  ]
+}

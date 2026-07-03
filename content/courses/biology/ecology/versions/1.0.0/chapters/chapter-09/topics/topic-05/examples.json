@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ocean Acidification",
+      "content": "A practical example demonstrating Ocean Acidification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "ocean-acidification"
+      ]
+    }
+  ]
+}

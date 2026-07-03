@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Supramolecular Chemistry?",
+      "back": "Supramolecular Chemistry is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Supramolecular Chemistry important?",
+      "back": "Supramolecular Chemistry is essential for understanding Coordination Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

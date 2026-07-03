@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nuclear Energy",
+      "content": "A practical example demonstrating Nuclear Energy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "nuclear-energy"
+      ]
+    }
+  ]
+}

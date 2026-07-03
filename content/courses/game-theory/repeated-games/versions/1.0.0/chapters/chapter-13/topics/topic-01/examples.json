@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stochastic Repeated Games",
+      "content": "A practical example demonstrating Stochastic Repeated Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "stochastic-repeated-games"
+      ]
+    }
+  ]
+}

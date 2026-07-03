@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Subgame Perfect Equilibrium (SPE)?",
+      "back": "Subgame Perfect Equilibrium (SPE) is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Subgame Perfect Equilibrium (SPE) important?",
+      "back": "Subgame Perfect Equilibrium (SPE) is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

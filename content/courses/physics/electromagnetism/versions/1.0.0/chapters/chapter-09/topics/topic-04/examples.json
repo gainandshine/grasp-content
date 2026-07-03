@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: RLC Circuits",
+      "content": "A practical example demonstrating RLC Circuits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rlc-circuits"
+      ]
+    }
+  ]
+}

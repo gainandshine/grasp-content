@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Language Server Protocol (LSP)",
+      "content": "A practical example demonstrating Language Server Protocol (LSP)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "language-server-protocol-lsp"
+      ]
+    }
+  ]
+}

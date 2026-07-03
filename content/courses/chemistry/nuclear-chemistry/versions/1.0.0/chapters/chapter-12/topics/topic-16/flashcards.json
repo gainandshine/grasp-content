@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ceramics?",
+      "back": "Ceramics is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ceramics important?",
+      "back": "Ceramics is essential for understanding Nuclear Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

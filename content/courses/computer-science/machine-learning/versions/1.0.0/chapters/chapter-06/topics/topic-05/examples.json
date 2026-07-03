@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: F1 Score",
+      "content": "A practical example demonstrating F1 Score",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "f1-score"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genetic Counseling",
+      "content": "A practical example demonstrating Genetic Counseling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "genetic-counseling"
+      ]
+    }
+  ]
+}

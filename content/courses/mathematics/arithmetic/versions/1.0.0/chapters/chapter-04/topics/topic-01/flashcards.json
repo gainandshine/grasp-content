@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Factors?",
+      "back": "Factors is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Factors important?",
+      "back": "Factors is essential for understanding Arithmetic.",
+      "difficulty": "medium"
+    }
+  ]
+}

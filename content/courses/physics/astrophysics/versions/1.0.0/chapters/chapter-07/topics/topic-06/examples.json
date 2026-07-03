@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Black Hole Mergers",
+      "content": "A practical example demonstrating Black Hole Mergers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "black-hole-mergers"
+      ]
+    }
+  ]
+}

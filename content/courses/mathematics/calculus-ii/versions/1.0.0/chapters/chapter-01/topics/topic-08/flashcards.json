@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Improper Integrals?",
+      "back": "Improper Integrals is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Improper Integrals important?",
+      "back": "Improper Integrals is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ohmmeter",
+      "content": "A practical example demonstrating Ohmmeter",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ohmmeter"
+      ]
+    }
+  ]
+}

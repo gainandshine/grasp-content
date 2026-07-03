@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Transcriptomics",
+      "content": "A practical example demonstrating Transcriptomics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "transcriptomics"
+      ]
+    }
+  ]
+}

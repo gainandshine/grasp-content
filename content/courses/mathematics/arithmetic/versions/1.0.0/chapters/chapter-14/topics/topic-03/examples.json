@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Everyday Arithmetic",
+      "content": "A practical example demonstrating Everyday Arithmetic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "everyday-arithmetic"
+      ]
+    }
+  ]
+}

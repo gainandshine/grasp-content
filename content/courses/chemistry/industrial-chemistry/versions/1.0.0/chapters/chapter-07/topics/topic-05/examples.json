@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Construction Chemicals",
+      "content": "A practical example demonstrating Construction Chemicals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "construction-chemicals"
+      ]
+    }
+  ]
+}

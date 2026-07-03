@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medical Expert Systems",
+      "content": "A practical example demonstrating Medical Expert Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "medical-expert-systems"
+      ]
+    }
+  ]
+}

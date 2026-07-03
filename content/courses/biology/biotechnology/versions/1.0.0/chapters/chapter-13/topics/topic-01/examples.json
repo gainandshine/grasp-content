@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Synthetic Biology",
+      "content": "A practical example demonstrating Synthetic Biology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "synthetic-biology"
+      ]
+    }
+  ]
+}

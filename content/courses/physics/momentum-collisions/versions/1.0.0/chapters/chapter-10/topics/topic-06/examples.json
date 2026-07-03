@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aerospace Applications",
+      "content": "A practical example demonstrating Aerospace Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "aerospace-applications"
+      ]
+    }
+  ]
+}

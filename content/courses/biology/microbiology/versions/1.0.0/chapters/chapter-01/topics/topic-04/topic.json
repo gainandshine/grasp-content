@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Importance of Microorganisms",
-  "description": "Learn about Importance of Microorganisms",
-  "conceptId": "biology.microbiology.chapter-01.topic-04"
+  "topicId": "biology.microbiology.chapter-01.topic-04",
+  "description": "Learn about Importance of Microorganisms and its applications in biology.",
+  "content": {
+    "overview": "Importance of Microorganisms is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Importance of Microorganisms. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Importance of Microorganisms requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Importance of Microorganisms is essential for mastering Microbiology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

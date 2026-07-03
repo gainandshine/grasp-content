@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Core Applications?",
+      "back": "Core Applications is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Core Applications important?",
+      "back": "Core Applications is essential for understanding Cooperative Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

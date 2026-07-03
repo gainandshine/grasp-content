@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Double Helix",
+      "content": "A practical example demonstrating Double Helix",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "double-helix"
+      ]
+    }
+  ]
+}

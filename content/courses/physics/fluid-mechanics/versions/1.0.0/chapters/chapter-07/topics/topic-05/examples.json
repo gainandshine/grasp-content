@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pumps (Introduction)",
+      "content": "A practical example demonstrating Pumps (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "pumps-introduction"
+      ]
+    }
+  ]
+}

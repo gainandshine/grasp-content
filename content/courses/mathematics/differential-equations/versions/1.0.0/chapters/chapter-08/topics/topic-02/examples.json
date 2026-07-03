@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Matrix Form",
+      "content": "A practical example demonstrating Matrix Form",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "matrix-form"
+      ]
+    }
+  ]
+}

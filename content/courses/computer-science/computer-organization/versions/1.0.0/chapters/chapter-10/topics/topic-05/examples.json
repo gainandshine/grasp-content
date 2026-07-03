@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shared Memory",
+      "content": "A practical example demonstrating Shared Memory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "shared-memory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Selection Rules",
+      "content": "A practical example demonstrating Selection Rules",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "selection-rules"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Second-Price (Vickrey) Auctions?",
+      "back": "Second-Price (Vickrey) Auctions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Second-Price (Vickrey) Auctions important?",
+      "back": "Second-Price (Vickrey) Auctions is essential for understanding Cooperative Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

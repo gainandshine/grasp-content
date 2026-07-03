@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Population vs Sample",
+      "content": "A practical example demonstrating Population vs Sample",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "population-vs-sample"
+      ]
+    }
+  ]
+}

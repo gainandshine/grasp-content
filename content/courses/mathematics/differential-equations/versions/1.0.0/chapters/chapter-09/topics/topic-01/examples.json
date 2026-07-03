@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Power Series Method",
+      "content": "A practical example demonstrating Power Series Method",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "power-series-method"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gene Pool?",
+      "back": "Gene Pool is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gene Pool important?",
+      "back": "Gene Pool is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

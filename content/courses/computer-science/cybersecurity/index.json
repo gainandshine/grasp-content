@@ -1,10 +1,11 @@
 {
   "id": "cybersecurity",
   "title": "Cybersecurity",
-  "description": "This course studies **how to protect computers, networks, applications, and data from cyber threats**. It covers defensive security, secure system design, incident response, and ethical security practices.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:19.939Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.353Z"
 }

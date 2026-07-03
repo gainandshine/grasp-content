@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "*Course 7: Chemical Equilibrium**",
-  "description": "Learn about *Course 7: Chemical Equilibrium**",
-  "conceptId": "chemistry.thermochemistry.chapter-12.topic-06"
+  "topicId": "chemistry.thermochemistry.chapter-12.topic-06",
+  "description": "Learn about *Course 7: Chemical Equilibrium** and its applications in chemistry.",
+  "content": {
+    "overview": "*Course 7: Chemical Equilibrium** is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of *Course 7: Chemical Equilibrium**. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding *Course 7: Chemical Equilibrium** requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "*Course 7: Chemical Equilibrium** is essential for mastering Thermochemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Clinical Decision Making",
+      "content": "A practical example demonstrating Clinical Decision Making",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "clinical-decision-making"
+      ]
+    }
+  ]
+}

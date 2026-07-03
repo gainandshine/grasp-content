@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Geodesics",
+      "content": "A practical example demonstrating Geodesics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "geodesics"
+      ]
+    }
+  ]
+}

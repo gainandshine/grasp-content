@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Variable Inputs",
-  "description": "Learn about Variable Inputs",
-  "conceptId": "economics.producer-theory.chapter-03.topic-02"
+  "topicId": "economics.producer-theory.chapter-03.topic-02",
+  "description": "Learn about Variable Inputs and its applications in economics.",
+  "content": {
+    "overview": "Variable Inputs is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Variable Inputs. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Variable Inputs requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Variable Inputs is essential for mastering Producer Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

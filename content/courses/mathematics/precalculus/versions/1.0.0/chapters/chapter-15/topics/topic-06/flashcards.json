@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Introduction to Derivatives?",
+      "back": "Introduction to Derivatives is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Introduction to Derivatives important?",
+      "back": "Introduction to Derivatives is essential for understanding Precalculus.",
+      "difficulty": "medium"
+    }
+  ]
+}

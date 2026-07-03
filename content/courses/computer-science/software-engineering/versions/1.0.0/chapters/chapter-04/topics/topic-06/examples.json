@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Object-Oriented Analysis",
+      "content": "A practical example demonstrating Object-Oriented Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "object-oriented-analysis"
+      ]
+    }
+  ]
+}

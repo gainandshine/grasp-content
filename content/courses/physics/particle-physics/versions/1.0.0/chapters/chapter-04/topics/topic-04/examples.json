@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Z Boson",
+      "content": "A practical example demonstrating Z Boson",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "z-boson"
+      ]
+    }
+  ]
+}

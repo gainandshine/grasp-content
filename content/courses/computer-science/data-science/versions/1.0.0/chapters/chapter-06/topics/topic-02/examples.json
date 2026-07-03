@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bar Charts",
+      "content": "A practical example demonstrating Bar Charts",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "bar-charts"
+      ]
+    }
+  ]
+}

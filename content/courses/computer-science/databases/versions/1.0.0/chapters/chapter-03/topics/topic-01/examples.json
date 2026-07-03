@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: SQL Basics",
+      "content": "A practical example demonstrating SQL Basics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "sql-basics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Career Decisions",
+      "content": "A practical example demonstrating Career Decisions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "career-decisions"
+      ]
+    }
+  ]
+}

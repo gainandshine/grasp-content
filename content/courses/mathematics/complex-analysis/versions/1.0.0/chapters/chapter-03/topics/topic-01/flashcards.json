@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Complex Derivative?",
+      "back": "Complex Derivative is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Complex Derivative important?",
+      "back": "Complex Derivative is essential for understanding Complex Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

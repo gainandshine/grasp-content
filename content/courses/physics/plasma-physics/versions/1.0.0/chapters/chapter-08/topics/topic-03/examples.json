@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lawson Criterion",
+      "content": "A practical example demonstrating Lawson Criterion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "lawson-criterion"
+      ]
+    }
+  ]
+}

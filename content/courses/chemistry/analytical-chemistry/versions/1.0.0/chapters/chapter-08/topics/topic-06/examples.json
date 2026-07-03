@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: pH Meter",
+      "content": "A practical example demonstrating pH Meter",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ph-meter"
+      ]
+    }
+  ]
+}

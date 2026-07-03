@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hormone Receptors",
+      "content": "A practical example demonstrating Hormone Receptors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "hormone-receptors"
+      ]
+    }
+  ]
+}

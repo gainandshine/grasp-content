@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Attack Surface?",
+      "back": "Attack Surface is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Attack Surface important?",
+      "back": "Attack Surface is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

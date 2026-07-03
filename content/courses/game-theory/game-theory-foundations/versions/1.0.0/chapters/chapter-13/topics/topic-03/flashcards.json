@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Algorithmic Game Theory?",
+      "back": "Algorithmic Game Theory is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Algorithmic Game Theory important?",
+      "back": "Algorithmic Game Theory is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Amortized Analysis",
+      "content": "A practical example demonstrating Amortized Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "amortized-analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Moments of Inertia",
+      "content": "A practical example demonstrating Moments of Inertia",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "moments-of-inertia"
+      ]
+    }
+  ]
+}

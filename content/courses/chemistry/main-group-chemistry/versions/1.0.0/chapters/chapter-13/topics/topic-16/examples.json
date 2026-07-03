@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bioinorganic Chemistry",
+      "content": "A practical example demonstrating Bioinorganic Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "bioinorganic-chemistry"
+      ]
+    }
+  ]
+}

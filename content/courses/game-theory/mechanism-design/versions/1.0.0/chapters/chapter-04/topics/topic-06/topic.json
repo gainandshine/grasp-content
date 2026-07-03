@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Public Decision Making",
-  "description": "Learn about Public Decision Making",
-  "conceptId": "game-theory.mechanism-design.chapter-04.topic-06"
+  "topicId": "game-theory.mechanism-design.chapter-04.topic-06",
+  "description": "Learn about Public Decision Making and its applications in game-theory.",
+  "content": {
+    "overview": "Public Decision Making is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Public Decision Making. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Public Decision Making requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Public Decision Making is essential for mastering Mechanism Design. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,42 +1,43 @@
 {
   "id": "chapter-07",
   "name": "Percentages",
-  "description": "Understanding and calculating with percentages",
+  "description": "Percentages",
+  "overview": "This chapter covers the fundamental concepts of Percentages.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Percentage Basics",
-      "conceptId": "mathematics.arithmetic.chapter-07.topic-01"
+      "topicId": "mathematics.arithmetic.chapter-07.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Percentage of a Number",
-      "conceptId": "mathematics.arithmetic.chapter-07.topic-02"
+      "topicId": "mathematics.arithmetic.chapter-07.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Increase Percentage",
-      "conceptId": "mathematics.arithmetic.chapter-07.topic-03"
+      "topicId": "mathematics.arithmetic.chapter-07.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Decrease Percentage",
-      "conceptId": "mathematics.arithmetic.chapter-07.topic-04"
+      "topicId": "mathematics.arithmetic.chapter-07.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Percentage Change",
-      "conceptId": "mathematics.arithmetic.chapter-07.topic-05"
+      "topicId": "mathematics.arithmetic.chapter-07.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Fractions ↔ Percentages",
-      "conceptId": "mathematics.arithmetic.chapter-07.topic-06"
+      "topicId": "mathematics.arithmetic.chapter-07.topic-06"
     },
     {
       "id": "topic-07",
       "name": "Decimals ↔ Percentages",
-      "conceptId": "mathematics.arithmetic.chapter-07.topic-07"
+      "topicId": "mathematics.arithmetic.chapter-07.topic-07"
     }
   ]
 }

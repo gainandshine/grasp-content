@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Replicator Equation",
+      "content": "A practical example demonstrating Replicator Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "replicator-equation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Climate Agreements",
+      "content": "A practical example demonstrating Climate Agreements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "climate-agreements"
+      ]
+    }
+  ]
+}

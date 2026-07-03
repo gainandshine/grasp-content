@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pleiotropy?",
+      "back": "Pleiotropy is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pleiotropy important?",
+      "back": "Pleiotropy is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

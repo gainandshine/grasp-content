@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Statistical Quality Control",
+      "content": "A practical example demonstrating Statistical Quality Control",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "statistical-quality-control"
+      ]
+    }
+  ]
+}

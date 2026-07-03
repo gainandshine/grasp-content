@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Adaptive Strategies",
+      "content": "A practical example demonstrating Adaptive Strategies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "adaptive-strategies"
+      ]
+    }
+  ]
+}

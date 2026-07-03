@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Responsible Disclosure",
+      "content": "A practical example demonstrating Responsible Disclosure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "responsible-disclosure"
+      ]
+    }
+  ]
+}

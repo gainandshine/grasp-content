@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Schwarz Lemma?",
+      "back": "Schwarz Lemma is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Schwarz Lemma important?",
+      "back": "Schwarz Lemma is essential for understanding Complex Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

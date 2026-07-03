@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Apoptosis",
+      "content": "A practical example demonstrating Apoptosis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "apoptosis"
+      ]
+    }
+  ]
+}

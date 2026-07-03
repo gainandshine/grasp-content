@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrolytic Cells",
+      "content": "A practical example demonstrating Electrolytic Cells",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electrolytic-cells"
+      ]
+    }
+  ]
+}

@@ -2,36 +2,37 @@
   "id": "chapter-06",
   "name": "Greedy Algorithms",
   "description": "Greedy Algorithms",
+  "overview": "This chapter covers the fundamental concepts of Greedy Algorithms.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Greedy Strategy",
-      "conceptId": "computer-science.algorithms.chapter-06.topic-01"
+      "topicId": "computer-science.algorithms.chapter-06.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Activity Selection",
-      "conceptId": "computer-science.algorithms.chapter-06.topic-02"
+      "topicId": "computer-science.algorithms.chapter-06.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Huffman Coding",
-      "conceptId": "computer-science.algorithms.chapter-06.topic-03"
+      "topicId": "computer-science.algorithms.chapter-06.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Fractional Knapsack",
-      "conceptId": "computer-science.algorithms.chapter-06.topic-04"
+      "topicId": "computer-science.algorithms.chapter-06.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Minimum Spanning Tree (Greedy View)",
-      "conceptId": "computer-science.algorithms.chapter-06.topic-05"
+      "topicId": "computer-science.algorithms.chapter-06.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Greedy Proofs",
-      "conceptId": "computer-science.algorithms.chapter-06.topic-06"
+      "topicId": "computer-science.algorithms.chapter-06.topic-06"
     }
   ]
 }

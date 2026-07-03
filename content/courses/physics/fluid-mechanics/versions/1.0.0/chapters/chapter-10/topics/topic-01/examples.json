@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hydraulics",
+      "content": "A practical example demonstrating Hydraulics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hydraulics"
+      ]
+    }
+  ]
+}

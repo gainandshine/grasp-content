@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rehabilitation",
+      "content": "A practical example demonstrating Rehabilitation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "rehabilitation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Object Collaboration",
+      "content": "A practical example demonstrating Object Collaboration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "object-collaboration"
+      ]
+    }
+  ]
+}

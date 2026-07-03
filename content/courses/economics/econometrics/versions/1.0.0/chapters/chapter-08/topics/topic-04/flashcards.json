@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Random Effects Models?",
+      "back": "Random Effects Models is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Random Effects Models important?",
+      "back": "Random Effects Models is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Artificial Intelligence & Reinforcement Learning",
-  "description": "Learn about Artificial Intelligence & Reinforcement Learning",
-  "conceptId": "psychology.learning-behavior.chapter-12.topic-06"
+  "topicId": "psychology.learning-behavior.chapter-12.topic-06",
+  "description": "Learn about Artificial Intelligence & Reinforcement Learning and its applications in psychology.",
+  "content": {
+    "overview": "Artificial Intelligence & Reinforcement Learning is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Artificial Intelligence & Reinforcement Learning. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Artificial Intelligence & Reinforcement Learning requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Artificial Intelligence & Reinforcement Learning is essential for mastering Learning & Behavior. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

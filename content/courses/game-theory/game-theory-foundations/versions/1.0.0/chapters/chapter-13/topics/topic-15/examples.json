@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Backward Induction",
+      "content": "A practical example demonstrating Backward Induction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "backward-induction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sports Analytics",
+      "content": "A practical example demonstrating Sports Analytics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "sports-analytics"
+      ]
+    }
+  ]
+}

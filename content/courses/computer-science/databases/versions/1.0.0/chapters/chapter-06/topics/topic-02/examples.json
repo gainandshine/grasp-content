@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: First Normal Form (1NF)",
+      "content": "A practical example demonstrating First Normal Form (1NF)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "first-normal-form-1nf"
+      ]
+    }
+  ]
+}

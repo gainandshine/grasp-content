@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Compass Navigation?",
+      "back": "Compass Navigation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Compass Navigation important?",
+      "back": "Compass Navigation is essential for understanding Magnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

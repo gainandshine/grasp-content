@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Optical Glass?",
+      "back": "Optical Glass is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Optical Glass important?",
+      "back": "Optical Glass is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

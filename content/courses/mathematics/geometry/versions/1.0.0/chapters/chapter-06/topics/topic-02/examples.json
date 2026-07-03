@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AA Similarity",
+      "content": "A practical example demonstrating AA Similarity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "aa-similarity"
+      ]
+    }
+  ]
+}

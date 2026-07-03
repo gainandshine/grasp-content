@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Anatomical Terminology",
+      "content": "A practical example demonstrating Anatomical Terminology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "anatomical-terminology"
+      ]
+    }
+  ]
+}

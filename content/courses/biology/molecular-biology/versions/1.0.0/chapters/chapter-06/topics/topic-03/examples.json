@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ribosomes",
+      "content": "A practical example demonstrating Ribosomes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "ribosomes"
+      ]
+    }
+  ]
+}

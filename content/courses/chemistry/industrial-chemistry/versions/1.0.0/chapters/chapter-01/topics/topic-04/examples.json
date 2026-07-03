@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Raw Materials",
+      "content": "A practical example demonstrating Raw Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "raw-materials"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Normal Modes",
+      "content": "A practical example demonstrating Normal Modes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "normal-modes"
+      ]
+    }
+  ]
+}

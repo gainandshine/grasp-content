@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Radioactive Waste Disposal?",
+      "back": "Radioactive Waste Disposal is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Radioactive Waste Disposal important?",
+      "back": "Radioactive Waste Disposal is essential for understanding Nuclear Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

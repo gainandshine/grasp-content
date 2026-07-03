@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reciprocal Lattice",
+      "content": "A practical example demonstrating Reciprocal Lattice",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "reciprocal-lattice"
+      ]
+    }
+  ]
+}

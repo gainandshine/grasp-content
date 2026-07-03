@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fair Trade",
+      "content": "A practical example demonstrating Fair Trade",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "fair-trade"
+      ]
+    }
+  ]
+}

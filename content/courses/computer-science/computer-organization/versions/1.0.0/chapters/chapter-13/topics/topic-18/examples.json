@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Input/Output Management",
+      "content": "A practical example demonstrating Input/Output Management",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "inputoutput-management"
+      ]
+    }
+  ]
+}

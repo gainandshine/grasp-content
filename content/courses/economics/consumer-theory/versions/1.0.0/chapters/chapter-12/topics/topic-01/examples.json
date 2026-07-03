@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Household Spending",
+      "content": "A practical example demonstrating Household Spending",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "household-spending"
+      ]
+    }
+  ]
+}

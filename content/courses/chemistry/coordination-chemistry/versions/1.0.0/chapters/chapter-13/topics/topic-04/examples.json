@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coordination Polymers",
+      "content": "A practical example demonstrating Coordination Polymers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "coordination-polymers"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Okazaki Fragments",
+      "content": "A practical example demonstrating Okazaki Fragments",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "okazaki-fragments"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Self Inductance",
+      "content": "A practical example demonstrating Self Inductance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "self-inductance"
+      ]
+    }
+  ]
+}

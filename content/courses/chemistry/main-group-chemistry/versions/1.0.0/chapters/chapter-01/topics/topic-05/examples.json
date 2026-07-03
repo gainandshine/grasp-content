@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hydrogen Compounds",
+      "content": "A practical example demonstrating Hydrogen Compounds",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "hydrogen-compounds"
+      ]
+    }
+  ]
+}

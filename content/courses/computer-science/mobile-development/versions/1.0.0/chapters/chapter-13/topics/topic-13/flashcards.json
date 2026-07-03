@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Databases at Scale?",
+      "back": "Databases at Scale is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Databases at Scale important?",
+      "back": "Databases at Scale is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

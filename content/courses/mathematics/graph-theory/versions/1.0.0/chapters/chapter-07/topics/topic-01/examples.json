@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shortest Path Problem",
+      "content": "A practical example demonstrating Shortest Path Problem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "shortest-path-problem"
+      ]
+    }
+  ]
+}

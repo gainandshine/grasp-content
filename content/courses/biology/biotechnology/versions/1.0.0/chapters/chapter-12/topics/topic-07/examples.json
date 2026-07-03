@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Personalized Medicine",
+      "content": "A practical example demonstrating Personalized Medicine",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "personalized-medicine"
+      ]
+    }
+  ]
+}

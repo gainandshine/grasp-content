@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fields of Computer Science",
+      "content": "A practical example demonstrating Fields of Computer Science",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "fields-of-computer-science"
+      ]
+    }
+  ]
+}

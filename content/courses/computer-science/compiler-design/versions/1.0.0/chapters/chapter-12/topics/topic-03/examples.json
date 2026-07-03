@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Testing Compilers",
+      "content": "A practical example demonstrating Testing Compilers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "testing-compilers"
+      ]
+    }
+  ]
+}

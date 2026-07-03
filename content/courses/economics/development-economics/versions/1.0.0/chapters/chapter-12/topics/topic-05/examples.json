@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Financial Inclusion",
+      "content": "A practical example demonstrating Financial Inclusion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "financial-inclusion"
+      ]
+    }
+  ]
+}

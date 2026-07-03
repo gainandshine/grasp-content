@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pedigree Analysis",
+      "content": "A practical example demonstrating Pedigree Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "pedigree-analysis"
+      ]
+    }
+  ]
+}

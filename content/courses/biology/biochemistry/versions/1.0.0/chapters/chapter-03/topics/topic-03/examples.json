@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enzyme Catalysis",
+      "content": "A practical example demonstrating Enzyme Catalysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "enzyme-catalysis"
+      ]
+    }
+  ]
+}

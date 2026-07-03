@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Control Groups (cgroups)",
+      "content": "A practical example demonstrating Control Groups (cgroups)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "control-groups-cgroups"
+      ]
+    }
+  ]
+}

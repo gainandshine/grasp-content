@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trapezoidal Rule",
+      "content": "A practical example demonstrating Trapezoidal Rule",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "trapezoidal-rule"
+      ]
+    }
+  ]
+}

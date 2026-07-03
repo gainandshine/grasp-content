@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stability of Populations",
+      "content": "A practical example demonstrating Stability of Populations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "stability-of-populations"
+      ]
+    }
+  ]
+}

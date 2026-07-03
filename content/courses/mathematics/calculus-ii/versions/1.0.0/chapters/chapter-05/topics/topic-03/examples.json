@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Telescoping Series",
+      "content": "A practical example demonstrating Telescoping Series",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "telescoping-series"
+      ]
+    }
+  ]
+}

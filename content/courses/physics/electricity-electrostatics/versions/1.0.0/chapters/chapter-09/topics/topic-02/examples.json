@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Energy Density",
+      "content": "A practical example demonstrating Energy Density",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "energy-density"
+      ]
+    }
+  ]
+}

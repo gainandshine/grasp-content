@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Longest Common Subsequence",
+      "content": "A practical example demonstrating Longest Common Subsequence",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "longest-common-subsequence"
+      ]
+    }
+  ]
+}

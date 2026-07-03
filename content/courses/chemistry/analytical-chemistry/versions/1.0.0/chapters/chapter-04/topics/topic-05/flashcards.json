@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Primary Standards?",
+      "back": "Primary Standards is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Primary Standards important?",
+      "back": "Primary Standards is essential for understanding Analytical Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

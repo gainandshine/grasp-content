@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Social Insurance",
+      "content": "A practical example demonstrating Social Insurance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "social-insurance"
+      ]
+    }
+  ]
+}

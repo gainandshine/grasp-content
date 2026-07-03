@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Database Management Systems (DBMS)",
+      "content": "A practical example demonstrating Database Management Systems (DBMS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "database-management-systems-dbms"
+      ]
+    }
+  ]
+}

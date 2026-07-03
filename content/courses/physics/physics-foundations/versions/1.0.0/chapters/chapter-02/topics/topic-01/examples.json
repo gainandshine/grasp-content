@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: SI Base Units",
+      "content": "A practical example demonstrating SI Base Units",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "si-base-units"
+      ]
+    }
+  ]
+}

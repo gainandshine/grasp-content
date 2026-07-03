@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Degree–Radian Conversion",
+      "content": "A practical example demonstrating Degree–Radian Conversion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "degreeradian-conversion"
+      ]
+    }
+  ]
+}

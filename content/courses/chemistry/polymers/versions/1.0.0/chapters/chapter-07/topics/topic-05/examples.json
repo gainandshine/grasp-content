@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: 3D Printing",
+      "content": "A practical example demonstrating 3D Printing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "3d-printing"
+      ]
+    }
+  ]
+}

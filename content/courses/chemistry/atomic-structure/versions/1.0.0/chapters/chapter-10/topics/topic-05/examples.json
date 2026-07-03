@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: X-Ray Spectroscopy",
+      "content": "A practical example demonstrating X-Ray Spectroscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "x-ray-spectroscopy"
+      ]
+    }
+  ]
+}

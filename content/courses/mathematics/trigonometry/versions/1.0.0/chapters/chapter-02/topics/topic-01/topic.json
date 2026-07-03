@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Sine",
-  "description": "Learn about Sine",
-  "conceptId": "mathematics.trigonometry.chapter-02.topic-01"
+  "topicId": "mathematics.trigonometry.chapter-02.topic-01",
+  "description": "Learn about Sine and its applications in mathematics.",
+  "content": {
+    "overview": "Sine is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Sine. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Sine requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Sine is essential for mastering Trigonometry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

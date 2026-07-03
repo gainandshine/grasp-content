@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Secant?",
+      "back": "Secant is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Secant important?",
+      "back": "Secant is essential for understanding Trigonometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

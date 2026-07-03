@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Distributed Memory (Introduction)",
+      "content": "A practical example demonstrating Distributed Memory (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "distributed-memory-introduction"
+      ]
+    }
+  ]
+}

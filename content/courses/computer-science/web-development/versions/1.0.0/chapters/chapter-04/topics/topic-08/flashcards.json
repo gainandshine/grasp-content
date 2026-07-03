@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Events?",
+      "back": "Events is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Events important?",
+      "back": "Events is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

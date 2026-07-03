@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Natural Numbers",
+      "content": "A practical example demonstrating Natural Numbers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "natural-numbers"
+      ]
+    }
+  ]
+}

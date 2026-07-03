@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molecular Orbitals",
+      "content": "A practical example demonstrating Molecular Orbitals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "molecular-orbitals"
+      ]
+    }
+  ]
+}

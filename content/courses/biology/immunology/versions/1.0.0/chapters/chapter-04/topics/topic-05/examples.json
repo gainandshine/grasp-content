@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Antigen-Antibody Binding",
+      "content": "A practical example demonstrating Antigen-Antibody Binding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "antigen-antibody-binding"
+      ]
+    }
+  ]
+}

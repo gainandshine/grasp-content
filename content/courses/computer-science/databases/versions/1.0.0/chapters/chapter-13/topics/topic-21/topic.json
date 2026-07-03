@@ -1,6 +1,16 @@
 {
   "id": "topic-21",
   "name": "Software Maintenance",
-  "description": "Learn about Software Maintenance",
-  "conceptId": "computer-science.databases.chapter-13.topic-21"
+  "topicId": "computer-science.databases.chapter-13.topic-21",
+  "description": "Learn about Software Maintenance and its applications in computer-science.",
+  "content": {
+    "overview": "Software Maintenance is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Software Maintenance. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Software Maintenance requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Software Maintenance is essential for mastering Databases. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

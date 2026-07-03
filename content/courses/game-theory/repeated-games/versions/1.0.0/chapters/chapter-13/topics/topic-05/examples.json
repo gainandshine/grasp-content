@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Online Learning in Games",
+      "content": "A practical example demonstrating Online Learning in Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "online-learning-in-games"
+      ]
+    }
+  ]
+}

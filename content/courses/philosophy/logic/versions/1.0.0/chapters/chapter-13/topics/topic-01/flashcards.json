@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Set Theory (Introduction)?",
+      "back": "Set Theory (Introduction) is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Set Theory (Introduction) important?",
+      "back": "Set Theory (Introduction) is essential for understanding Logic.",
+      "difficulty": "medium"
+    }
+  ]
+}

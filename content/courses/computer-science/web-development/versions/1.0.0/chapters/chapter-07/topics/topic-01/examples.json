@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Server-Side Programming",
+      "content": "A practical example demonstrating Server-Side Programming",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "server-side-programming"
+      ]
+    }
+  ]
+}

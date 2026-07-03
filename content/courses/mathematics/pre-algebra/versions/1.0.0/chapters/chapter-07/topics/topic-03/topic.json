@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Cube Roots",
-  "description": "Learn about Cube Roots",
-  "conceptId": "mathematics.pre-algebra.chapter-07.topic-03"
+  "topicId": "mathematics.pre-algebra.chapter-07.topic-03",
+  "description": "Learn about Cube Roots and its applications in mathematics.",
+  "content": {
+    "overview": "Cube Roots is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Cube Roots. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Cube Roots requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Cube Roots is essential for mastering Pre-Algebra. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

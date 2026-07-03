@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Agile & Scrum",
+      "content": "A practical example demonstrating Agile & Scrum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "agile-scrum"
+      ]
+    }
+  ]
+}

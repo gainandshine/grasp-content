@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Healthcare Systems?",
+      "back": "Healthcare Systems is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Healthcare Systems important?",
+      "back": "Healthcare Systems is essential for understanding Applications of Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

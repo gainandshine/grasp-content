@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Superconductors",
+      "content": "A practical example demonstrating Superconductors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "superconductors"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cyclic Preferences?",
+      "back": "Cyclic Preferences is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cyclic Preferences important?",
+      "back": "Cyclic Preferences is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

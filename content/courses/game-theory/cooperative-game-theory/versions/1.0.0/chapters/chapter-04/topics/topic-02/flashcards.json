@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Feasible Allocations?",
+      "back": "Feasible Allocations is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Feasible Allocations important?",
+      "back": "Feasible Allocations is essential for understanding Cooperative Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

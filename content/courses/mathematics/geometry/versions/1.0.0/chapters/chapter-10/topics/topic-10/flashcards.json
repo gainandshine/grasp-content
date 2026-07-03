@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Sector Area?",
+      "back": "Sector Area is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Sector Area important?",
+      "back": "Sector Area is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

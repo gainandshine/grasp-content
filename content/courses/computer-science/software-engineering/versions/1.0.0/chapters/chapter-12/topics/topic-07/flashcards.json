@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Documentation Maintenance?",
+      "back": "Documentation Maintenance is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Documentation Maintenance important?",
+      "back": "Documentation Maintenance is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

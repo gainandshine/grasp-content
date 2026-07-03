@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dimensional Formula",
+      "content": "A practical example demonstrating Dimensional Formula",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dimensional-formula"
+      ]
+    }
+  ]
+}

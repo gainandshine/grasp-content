@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrochemical Impedance Spectroscopy",
+      "content": "A practical example demonstrating Electrochemical Impedance Spectroscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electrochemical-impedance-spectroscopy"
+      ]
+    }
+  ]
+}

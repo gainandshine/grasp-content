@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Transmission Electron Microscopy (TEM)",
+      "content": "A practical example demonstrating Transmission Electron Microscopy (TEM)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "transmission-electron-microscopy-tem"
+      ]
+    }
+  ]
+}

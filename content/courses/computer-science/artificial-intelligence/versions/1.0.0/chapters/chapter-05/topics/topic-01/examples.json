@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Logical Inference",
+      "content": "A practical example demonstrating Logical Inference",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "logical-inference"
+      ]
+    }
+  ]
+}

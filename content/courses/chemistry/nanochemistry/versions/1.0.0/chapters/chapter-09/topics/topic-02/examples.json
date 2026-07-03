@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Targeted Drug Delivery",
+      "content": "A practical example demonstrating Targeted Drug Delivery",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "targeted-drug-delivery"
+      ]
+    }
+  ]
+}

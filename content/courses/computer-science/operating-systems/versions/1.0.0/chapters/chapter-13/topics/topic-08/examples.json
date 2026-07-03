@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 8: Computer Networks**",
+      "content": "A practical example demonstrating *Course 8: Computer Networks**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-8-computer-networks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Data Modeling",
+      "content": "A practical example demonstrating Data Modeling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "data-modeling"
+      ]
+    }
+  ]
+}

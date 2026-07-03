@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Tree Terminology",
+      "content": "A practical example demonstrating Tree Terminology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "tree-terminology"
+      ]
+    }
+  ]
+}

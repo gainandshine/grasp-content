@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Arms Races",
+      "content": "A practical example demonstrating Evolutionary Arms Races",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "evolutionary-arms-races"
+      ]
+    }
+  ]
+}

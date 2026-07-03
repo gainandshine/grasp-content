@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enzyme Kinetics",
+      "content": "A practical example demonstrating Enzyme Kinetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "enzyme-kinetics"
+      ]
+    }
+  ]
+}

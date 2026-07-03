@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Goal Planning",
+      "content": "A practical example demonstrating Goal Planning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "goal-planning"
+      ]
+    }
+  ]
+}

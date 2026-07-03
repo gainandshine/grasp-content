@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Estimation?",
+      "back": "Estimation is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Estimation important?",
+      "back": "Estimation is essential for understanding Arithmetic.",
+      "difficulty": "medium"
+    }
+  ]
+}

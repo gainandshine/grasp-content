@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Natural Language Processing?",
+      "back": "Natural Language Processing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Natural Language Processing important?",
+      "back": "Natural Language Processing is essential for understanding Computer Graphics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: LC-MS",
+      "content": "A practical example demonstrating LC-MS",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "lc-ms"
+      ]
+    }
+  ]
+}

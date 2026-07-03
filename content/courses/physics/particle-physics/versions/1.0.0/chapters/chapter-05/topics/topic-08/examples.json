@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quark Confinement",
+      "content": "A practical example demonstrating Quark Confinement",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "quark-confinement"
+      ]
+    }
+  ]
+}

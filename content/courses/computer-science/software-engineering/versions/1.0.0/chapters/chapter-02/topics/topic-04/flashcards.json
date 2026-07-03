@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Use Cases?",
+      "back": "Use Cases is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Use Cases important?",
+      "back": "Use Cases is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

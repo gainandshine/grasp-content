@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Density Functional Theory (DFT)",
+      "content": "A practical example demonstrating Density Functional Theory (DFT)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "density-functional-theory-dft"
+      ]
+    }
+  ]
+}

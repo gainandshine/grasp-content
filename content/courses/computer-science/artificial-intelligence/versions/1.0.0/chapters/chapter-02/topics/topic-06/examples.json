@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Utility-Based Agents",
+      "content": "A practical example demonstrating Utility-Based Agents",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "utility-based-agents"
+      ]
+    }
+  ]
+}

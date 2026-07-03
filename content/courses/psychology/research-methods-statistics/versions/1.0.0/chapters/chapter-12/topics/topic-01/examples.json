@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Clinical Research",
+      "content": "A practical example demonstrating Clinical Research",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "clinical-research"
+      ]
+    }
+  ]
+}

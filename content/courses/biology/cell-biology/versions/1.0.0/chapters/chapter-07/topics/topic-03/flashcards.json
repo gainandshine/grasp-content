@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is S Phase?",
+      "back": "S Phase is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is S Phase important?",
+      "back": "S Phase is essential for understanding Cell Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

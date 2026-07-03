@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spherical Coordinates",
+      "content": "A practical example demonstrating Spherical Coordinates",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "spherical-coordinates"
+      ]
+    }
+  ]
+}

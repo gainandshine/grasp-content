@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Metal Matrix Composites",
+      "content": "A practical example demonstrating Metal Matrix Composites",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "metal-matrix-composites"
+      ]
+    }
+  ]
+}

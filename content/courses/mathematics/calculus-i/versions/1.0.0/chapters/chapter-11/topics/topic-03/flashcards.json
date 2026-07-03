@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Midpoint Rule?",
+      "back": "Midpoint Rule is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Midpoint Rule important?",
+      "back": "Midpoint Rule is essential for understanding Calculus I.",
+      "difficulty": "medium"
+    }
+  ]
+}

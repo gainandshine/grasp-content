@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rational Future Decisions",
+      "content": "A practical example demonstrating Rational Future Decisions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "rational-future-decisions"
+      ]
+    }
+  ]
+}

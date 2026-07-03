@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is URLs?",
+      "back": "URLs is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is URLs important?",
+      "back": "URLs is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

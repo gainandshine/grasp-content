@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Common Distributions?",
+      "back": "Common Distributions is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Common Distributions important?",
+      "back": "Common Distributions is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

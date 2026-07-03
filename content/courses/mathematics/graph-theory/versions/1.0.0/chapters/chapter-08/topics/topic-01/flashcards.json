@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Flow Networks?",
+      "back": "Flow Networks is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Flow Networks important?",
+      "back": "Flow Networks is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

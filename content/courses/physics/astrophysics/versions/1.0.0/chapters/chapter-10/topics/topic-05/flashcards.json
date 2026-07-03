@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Habitable Zone?",
+      "back": "Habitable Zone is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Habitable Zone important?",
+      "back": "Habitable Zone is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI & Natural Language",
+      "content": "A practical example demonstrating AI & Natural Language",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "ai-natural-language"
+      ]
+    }
+  ]
+}

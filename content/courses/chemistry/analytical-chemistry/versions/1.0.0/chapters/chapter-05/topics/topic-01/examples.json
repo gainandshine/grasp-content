@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Acid-Base Titration",
+      "content": "A practical example demonstrating Acid-Base Titration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "acid-base-titration"
+      ]
+    }
+  ]
+}

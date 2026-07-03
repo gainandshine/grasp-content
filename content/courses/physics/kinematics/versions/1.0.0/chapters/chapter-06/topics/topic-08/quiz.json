@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "id": "q-01",
+      "type": "multiple-choice",
+      "question": "Which statement best describes Projectile on Inclined Plane?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-02",
+      "type": "true-false",
+      "question": "Projectile on Inclined Plane is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Projectile on Inclined Plane has many practical applications.",
+      "difficulty": "easy"
+    }
+  ]
+}

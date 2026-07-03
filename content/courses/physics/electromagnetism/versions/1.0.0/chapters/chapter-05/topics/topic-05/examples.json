@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Internal Resistance",
+      "content": "A practical example demonstrating Internal Resistance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "internal-resistance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Viral Evolution",
+      "content": "A practical example demonstrating Viral Evolution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "viral-evolution"
+      ]
+    }
+  ]
+}

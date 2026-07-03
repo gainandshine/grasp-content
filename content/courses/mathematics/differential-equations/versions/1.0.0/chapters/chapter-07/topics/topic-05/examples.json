@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Unit Step Function",
+      "content": "A practical example demonstrating Unit Step Function",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "unit-step-function"
+      ]
+    }
+  ]
+}

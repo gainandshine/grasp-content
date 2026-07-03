@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gauss's Law (Electric)?",
+      "back": "Gauss's Law (Electric) is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gauss's Law (Electric) important?",
+      "back": "Gauss's Law (Electric) is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

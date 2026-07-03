@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Folk Theorem",
+      "content": "A practical example demonstrating Folk Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "folk-theorem"
+      ]
+    }
+  ]
+}

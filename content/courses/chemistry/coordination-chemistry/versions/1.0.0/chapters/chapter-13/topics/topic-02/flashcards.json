@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Molecular Orbital Analysis?",
+      "back": "Molecular Orbital Analysis is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Molecular Orbital Analysis important?",
+      "back": "Molecular Orbital Analysis is essential for understanding Coordination Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

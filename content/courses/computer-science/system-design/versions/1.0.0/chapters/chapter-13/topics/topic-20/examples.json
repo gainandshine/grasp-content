@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Large-Scale Distributed Architectures",
+      "content": "A practical example demonstrating Large-Scale Distributed Architectures",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "large-scale-distributed-architectures"
+      ]
+    }
+  ]
+}

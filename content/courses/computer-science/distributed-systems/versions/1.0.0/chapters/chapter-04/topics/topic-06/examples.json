@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quorum Systems",
+      "content": "A practical example demonstrating Quorum Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "quorum-systems"
+      ]
+    }
+  ]
+}

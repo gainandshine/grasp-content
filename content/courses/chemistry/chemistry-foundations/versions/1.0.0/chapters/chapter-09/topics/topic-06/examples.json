@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Good Laboratory Practices",
+      "content": "A practical example demonstrating Good Laboratory Practices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "good-laboratory-practices"
+      ]
+    }
+  ]
+}

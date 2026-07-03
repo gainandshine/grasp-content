@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Velocity from Position",
+      "content": "A practical example demonstrating Velocity from Position",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "velocity-from-position"
+      ]
+    }
+  ]
+}

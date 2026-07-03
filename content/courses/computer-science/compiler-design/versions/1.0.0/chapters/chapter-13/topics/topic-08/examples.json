@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 16: Computer Graphics**",
+      "content": "A practical example demonstrating *Course 16: Computer Graphics**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-16-computer-graphics"
+      ]
+    }
+  ]
+}

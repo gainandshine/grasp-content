@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vehicle Suspension",
+      "content": "A practical example demonstrating Vehicle Suspension",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "vehicle-suspension"
+      ]
+    }
+  ]
+}

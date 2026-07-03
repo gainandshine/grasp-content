@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Irreducible Polynomials",
+      "content": "A practical example demonstrating Irreducible Polynomials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "irreducible-polynomials"
+      ]
+    }
+  ]
+}

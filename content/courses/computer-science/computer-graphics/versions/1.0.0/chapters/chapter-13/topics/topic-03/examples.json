@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Physically Based Rendering (PBR)",
+      "content": "A practical example demonstrating Physically Based Rendering (PBR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "physically-based-rendering-pbr"
+      ]
+    }
+  ]
+}

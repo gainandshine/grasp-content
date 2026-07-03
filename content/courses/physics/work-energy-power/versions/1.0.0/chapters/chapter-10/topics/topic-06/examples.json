@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Engineering Systems",
+      "content": "A practical example demonstrating Engineering Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "engineering-systems"
+      ]
+    }
+  ]
+}

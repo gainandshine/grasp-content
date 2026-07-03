@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Elliptical Orbits",
+      "content": "A practical example demonstrating Elliptical Orbits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "elliptical-orbits"
+      ]
+    }
+  ]
+}

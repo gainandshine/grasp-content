@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Case History?",
+      "back": "Case History is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Case History important?",
+      "back": "Case History is essential for understanding Clinical Psychology.",
+      "difficulty": "medium"
+    }
+  ]
+}

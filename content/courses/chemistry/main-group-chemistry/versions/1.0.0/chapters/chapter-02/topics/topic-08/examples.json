@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Important Compounds",
+      "content": "A practical example demonstrating Important Compounds",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "important-compounds"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Williamson Ether Synthesis",
+      "content": "A practical example demonstrating Williamson Ether Synthesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "williamson-ether-synthesis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Alpha Decay",
+      "content": "A practical example demonstrating Alpha Decay",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "alpha-decay"
+      ]
+    }
+  ]
+}

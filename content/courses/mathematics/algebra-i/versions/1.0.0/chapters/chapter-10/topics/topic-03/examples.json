@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Completing the Square",
+      "content": "A practical example demonstrating Completing the Square",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "completing-the-square"
+      ]
+    }
+  ]
+}

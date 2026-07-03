@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Semantic Analysis",
+      "content": "A practical example demonstrating Semantic Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "semantic-analysis"
+      ]
+    }
+  ]
+}

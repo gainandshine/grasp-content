@@ -1,10 +1,11 @@
 {
   "id": "epistemology",
   "title": "Epistemology",
-  "description": "This course studies **the nature, sources, limits, and justification of knowledge**. It explores questions about truth, belief, evidence, skepticism, and how humans acquire reliable knowledge.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.193Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.386Z"
 }

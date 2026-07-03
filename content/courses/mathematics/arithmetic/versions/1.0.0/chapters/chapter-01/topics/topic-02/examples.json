@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Whole Numbers",
+      "content": "A practical example demonstrating Whole Numbers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "whole-numbers"
+      ]
+    }
+  ]
+}

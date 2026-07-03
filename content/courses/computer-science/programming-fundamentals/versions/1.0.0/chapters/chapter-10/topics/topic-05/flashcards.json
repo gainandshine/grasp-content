@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Assertions?",
+      "back": "Assertions is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Assertions important?",
+      "back": "Assertions is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

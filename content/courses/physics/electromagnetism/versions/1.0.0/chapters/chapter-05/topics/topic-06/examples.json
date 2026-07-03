@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Power Dissipation",
+      "content": "A practical example demonstrating Power Dissipation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "power-dissipation"
+      ]
+    }
+  ]
+}

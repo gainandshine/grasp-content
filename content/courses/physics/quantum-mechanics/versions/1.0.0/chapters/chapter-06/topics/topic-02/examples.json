@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Infinite Potential Well",
+      "content": "A practical example demonstrating Infinite Potential Well",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "infinite-potential-well"
+      ]
+    }
+  ]
+}

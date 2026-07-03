@@ -1,6 +1,16 @@
 {
   "id": "topic-12",
   "name": "Carbon Nanotubes",
-  "description": "Learn about Carbon Nanotubes",
-  "conceptId": "chemistry.materials-chemistry.chapter-13.topic-12"
+  "topicId": "chemistry.materials-chemistry.chapter-13.topic-12",
+  "description": "Learn about Carbon Nanotubes and its applications in chemistry.",
+  "content": {
+    "overview": "Carbon Nanotubes is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Carbon Nanotubes. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Carbon Nanotubes requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Carbon Nanotubes is essential for mastering Materials Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Magnetic Mirror Effect?",
+      "back": "Magnetic Mirror Effect is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Magnetic Mirror Effect important?",
+      "back": "Magnetic Mirror Effect is essential for understanding Plasma Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

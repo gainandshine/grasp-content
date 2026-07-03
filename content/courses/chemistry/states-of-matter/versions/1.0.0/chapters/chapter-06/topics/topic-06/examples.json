@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Maxwell-Boltzmann Distribution",
+      "content": "A practical example demonstrating Maxwell-Boltzmann Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "maxwell-boltzmann-distribution"
+      ]
+    }
+  ]
+}

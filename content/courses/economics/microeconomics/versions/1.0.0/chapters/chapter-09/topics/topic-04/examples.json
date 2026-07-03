@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Prisoner's Dilemma",
+      "content": "A practical example demonstrating Prisoner's Dilemma",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "prisoners-dilemma"
+      ]
+    }
+  ]
+}

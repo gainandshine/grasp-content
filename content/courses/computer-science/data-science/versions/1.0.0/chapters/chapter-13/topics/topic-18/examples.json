@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ethical Hacking",
+      "content": "A practical example demonstrating Ethical Hacking",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ethical-hacking"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bargaining Solutions?",
+      "back": "Bargaining Solutions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bargaining Solutions important?",
+      "back": "Bargaining Solutions is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Apparent Depth",
+      "content": "A practical example demonstrating Apparent Depth",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "apparent-depth"
+      ]
+    }
+  ]
+}

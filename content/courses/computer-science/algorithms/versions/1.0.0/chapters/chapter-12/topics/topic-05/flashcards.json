@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Average Case?",
+      "back": "Average Case is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Average Case important?",
+      "back": "Average Case is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

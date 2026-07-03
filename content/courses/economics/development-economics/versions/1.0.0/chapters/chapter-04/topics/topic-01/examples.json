@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Income Inequality",
+      "content": "A practical example demonstrating Income Inequality",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "income-inequality"
+      ]
+    }
+  ]
+}

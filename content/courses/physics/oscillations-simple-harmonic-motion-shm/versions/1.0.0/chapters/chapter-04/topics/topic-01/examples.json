@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Simple Pendulum",
+      "content": "A practical example demonstrating Simple Pendulum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "simple-pendulum"
+      ]
+    }
+  ]
+}

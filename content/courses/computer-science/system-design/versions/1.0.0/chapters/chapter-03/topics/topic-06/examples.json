@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Capacity Planning",
+      "content": "A practical example demonstrating Capacity Planning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "capacity-planning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Normal Vectors",
+      "content": "A practical example demonstrating Normal Vectors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "normal-vectors"
+      ]
+    }
+  ]
+}

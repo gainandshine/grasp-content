@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: View Transformation",
+      "content": "A practical example demonstrating View Transformation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "view-transformation"
+      ]
+    }
+  ]
+}

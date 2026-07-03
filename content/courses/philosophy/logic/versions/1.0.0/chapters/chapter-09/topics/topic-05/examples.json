@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Temporal Logic",
+      "content": "A practical example demonstrating Temporal Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "temporal-logic"
+      ]
+    }
+  ]
+}

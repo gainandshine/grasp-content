@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Read Replicas?",
+      "back": "Read Replicas is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Read Replicas important?",
+      "back": "Read Replicas is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

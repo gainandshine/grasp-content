@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nuclear Stability",
+      "content": "A practical example demonstrating Nuclear Stability",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "nuclear-stability"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Attacker vs Defender Games",
+      "content": "A practical example demonstrating Attacker vs Defender Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "attacker-vs-defender-games"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Soil Composition",
+      "content": "A practical example demonstrating Soil Composition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "soil-composition"
+      ]
+    }
+  ]
+}

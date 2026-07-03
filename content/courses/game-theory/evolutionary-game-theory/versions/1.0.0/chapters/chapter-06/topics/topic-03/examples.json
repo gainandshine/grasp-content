@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Territorial Behavior",
+      "content": "A practical example demonstrating Territorial Behavior",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "territorial-behavior"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Weierstrass M-Test",
+      "content": "A practical example demonstrating Weierstrass M-Test",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "weierstrass-m-test"
+      ]
+    }
+  ]
+}

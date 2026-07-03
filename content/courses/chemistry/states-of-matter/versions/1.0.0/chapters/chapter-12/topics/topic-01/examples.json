@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Refrigeration",
+      "content": "A practical example demonstrating Refrigeration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "refrigeration"
+      ]
+    }
+  ]
+}

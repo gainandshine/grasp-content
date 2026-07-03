@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Biomedical Waste?",
+      "back": "Biomedical Waste is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Biomedical Waste important?",
+      "back": "Biomedical Waste is essential for understanding Environmental Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

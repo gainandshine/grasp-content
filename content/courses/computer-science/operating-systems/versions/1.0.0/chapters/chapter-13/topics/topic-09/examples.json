@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Network Fundamentals",
+      "content": "A practical example demonstrating Network Fundamentals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "network-fundamentals"
+      ]
+    }
+  ]
+}

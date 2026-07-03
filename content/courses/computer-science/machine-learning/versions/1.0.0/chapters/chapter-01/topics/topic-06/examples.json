@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Applications of ML",
+      "content": "A practical example demonstrating Applications of ML",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "applications-of-ml"
+      ]
+    }
+  ]
+}

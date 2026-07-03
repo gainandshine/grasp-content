@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Albert Bandura's Theory",
-  "description": "Learn about Albert Bandura's Theory",
-  "conceptId": "psychology.personality-psychology.chapter-05.topic-01"
+  "topicId": "psychology.personality-psychology.chapter-05.topic-01",
+  "description": "Learn about Albert Bandura's Theory and its applications in psychology.",
+  "content": {
+    "overview": "Albert Bandura's Theory is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Albert Bandura's Theory. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Albert Bandura's Theory requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Albert Bandura's Theory is essential for mastering Personality Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

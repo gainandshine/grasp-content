@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Systems Biochemistry?",
+      "back": "Systems Biochemistry is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Systems Biochemistry important?",
+      "back": "Systems Biochemistry is essential for understanding Biochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

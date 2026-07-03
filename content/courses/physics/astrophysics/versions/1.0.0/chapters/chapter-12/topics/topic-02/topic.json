@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Satellite Astronomy",
-  "description": "Learn about Satellite Astronomy",
-  "conceptId": "physics.astrophysics.chapter-12.topic-02"
+  "topicId": "physics.astrophysics.chapter-12.topic-02",
+  "description": "Learn about Satellite Astronomy and its applications in physics.",
+  "content": {
+    "overview": "Satellite Astronomy is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Satellite Astronomy. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Satellite Astronomy requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Satellite Astronomy is essential for mastering Astrophysics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

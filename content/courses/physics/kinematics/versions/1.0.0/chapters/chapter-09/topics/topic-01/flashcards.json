@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Position Function?",
+      "back": "Position Function is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Position Function important?",
+      "back": "Position Function is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Spin Statistics?",
+      "back": "Spin Statistics is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Spin Statistics important?",
+      "back": "Spin Statistics is essential for understanding Quantum Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

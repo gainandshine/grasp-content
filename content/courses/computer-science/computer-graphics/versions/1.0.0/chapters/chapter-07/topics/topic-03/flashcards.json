@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Diffuse Lighting?",
+      "back": "Diffuse Lighting is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Diffuse Lighting important?",
+      "back": "Diffuse Lighting is essential for understanding Computer Graphics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Philosophy of Mathematics",
+      "content": "A practical example demonstrating Philosophy of Mathematics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "philosophy-of-mathematics"
+      ]
+    }
+  ]
+}

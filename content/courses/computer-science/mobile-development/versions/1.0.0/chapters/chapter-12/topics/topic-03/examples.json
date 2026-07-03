@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Platform-Specific Features",
+      "content": "A practical example demonstrating Platform-Specific Features",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "platform-specific-features"
+      ]
+    }
+  ]
+}

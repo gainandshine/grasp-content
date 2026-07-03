@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Acceleration from Velocity",
+      "content": "A practical example demonstrating Acceleration from Velocity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "acceleration-from-velocity"
+      ]
+    }
+  ]
+}

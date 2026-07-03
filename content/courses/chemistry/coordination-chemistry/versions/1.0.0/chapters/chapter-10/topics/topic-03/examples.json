@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ferrocene",
+      "content": "A practical example demonstrating Ferrocene",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ferrocene"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Online Marketplaces?",
+      "back": "Online Marketplaces is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Online Marketplaces important?",
+      "back": "Online Marketplaces is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Laboratory Safety",
+      "content": "A practical example demonstrating Laboratory Safety",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "laboratory-safety"
+      ]
+    }
+  ]
+}

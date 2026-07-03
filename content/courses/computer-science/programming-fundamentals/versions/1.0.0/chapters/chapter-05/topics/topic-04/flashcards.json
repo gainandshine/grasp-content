@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Nested Conditions?",
+      "back": "Nested Conditions is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Nested Conditions important?",
+      "back": "Nested Conditions is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

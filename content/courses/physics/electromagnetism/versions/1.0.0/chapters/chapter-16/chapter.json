@@ -2,36 +2,37 @@
   "id": "chapter-16",
   "name": "Series & Parallel Circuits",
   "description": "Series & Parallel Circuits",
+  "overview": "This chapter covers the fundamental concepts of Series & Parallel Circuits.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Series Circuits",
-      "conceptId": "physics.electromagnetism.chapter-16.topic-01"
+      "topicId": "physics.electromagnetism.chapter-16.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Parallel Circuits",
-      "conceptId": "physics.electromagnetism.chapter-16.topic-02"
+      "topicId": "physics.electromagnetism.chapter-16.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Series-Parallel Networks",
-      "conceptId": "physics.electromagnetism.chapter-16.topic-03"
+      "topicId": "physics.electromagnetism.chapter-16.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Equivalent Resistance",
-      "conceptId": "physics.electromagnetism.chapter-16.topic-04"
+      "topicId": "physics.electromagnetism.chapter-16.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Voltage Division",
-      "conceptId": "physics.electromagnetism.chapter-16.topic-05"
+      "topicId": "physics.electromagnetism.chapter-16.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Current Division",
-      "conceptId": "physics.electromagnetism.chapter-16.topic-06"
+      "topicId": "physics.electromagnetism.chapter-16.topic-06"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Motion Capture",
+      "content": "A practical example demonstrating Motion Capture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "motion-capture"
+      ]
+    }
+  ]
+}

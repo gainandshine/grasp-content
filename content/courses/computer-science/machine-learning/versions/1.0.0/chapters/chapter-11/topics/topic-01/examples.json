@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: ML Pipelines",
+      "content": "A practical example demonstrating ML Pipelines",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ml-pipelines"
+      ]
+    }
+  ]
+}

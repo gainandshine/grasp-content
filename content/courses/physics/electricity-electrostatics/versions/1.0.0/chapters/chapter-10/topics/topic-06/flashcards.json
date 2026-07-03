@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Particle Accelerators (Introduction)?",
+      "back": "Particle Accelerators (Introduction) is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Particle Accelerators (Introduction) important?",
+      "back": "Particle Accelerators (Introduction) is essential for understanding Electricity (Electrostatics).",
+      "difficulty": "medium"
+    }
+  ]
+}

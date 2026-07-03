@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Child Welfare",
+      "content": "A practical example demonstrating Child Welfare",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "child-welfare"
+      ]
+    }
+  ]
+}

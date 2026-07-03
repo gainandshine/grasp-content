@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Space Weather",
-  "description": "Learn about Space Weather",
-  "conceptId": "physics.plasma-physics.chapter-12.topic-05"
+  "topicId": "physics.plasma-physics.chapter-12.topic-05",
+  "description": "Learn about Space Weather and its applications in physics.",
+  "content": {
+    "overview": "Space Weather is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Space Weather. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Space Weather requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Space Weather is essential for mastering Plasma Physics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

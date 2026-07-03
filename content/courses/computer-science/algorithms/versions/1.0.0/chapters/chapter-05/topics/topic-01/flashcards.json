@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Divide & Conquer Strategy?",
+      "back": "Divide & Conquer Strategy is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Divide & Conquer Strategy important?",
+      "back": "Divide & Conquer Strategy is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

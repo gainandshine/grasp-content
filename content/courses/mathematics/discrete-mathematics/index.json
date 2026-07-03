@@ -1,10 +1,11 @@
 {
   "id": "discrete-mathematics",
   "title": "Discrete Mathematics",
-  "description": "This is the foundation of **Computer Science**, **Algorithms**, **Cryptography**, and **Logic**.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 30,
-  "chapters": 15,
-  "updatedAt": "2026-07-02T10:38:14.565Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.227Z"
 }

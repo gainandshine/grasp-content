@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Communication Systems?",
+      "back": "Communication Systems is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Communication Systems important?",
+      "back": "Communication Systems is essential for understanding Waves & Sound.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Column-Family Databases",
+      "content": "A practical example demonstrating Column-Family Databases",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "column-family-databases"
+      ]
+    }
+  ]
+}

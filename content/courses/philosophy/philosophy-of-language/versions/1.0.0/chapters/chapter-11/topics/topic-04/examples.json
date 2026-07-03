@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Conversational AI",
+      "content": "A practical example demonstrating Conversational AI",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "conversational-ai"
+      ]
+    }
+  ]
+}

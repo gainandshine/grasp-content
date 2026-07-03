@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Spectroscopic Series",
-  "description": "Learn about Spectroscopic Series",
-  "conceptId": "physics.atomic-nuclear-physics.chapter-02.topic-06"
+  "topicId": "physics.atomic-nuclear-physics.chapter-02.topic-06",
+  "description": "Learn about Spectroscopic Series and its applications in physics.",
+  "content": {
+    "overview": "Spectroscopic Series is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Spectroscopic Series. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Spectroscopic Series requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Spectroscopic Series is essential for mastering Atomic & Nuclear Physics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

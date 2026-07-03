@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Strategic Deterrence",
-  "description": "Learn about Strategic Deterrence",
-  "conceptId": "game-theory.repeated-games.chapter-06.topic-06"
+  "topicId": "game-theory.repeated-games.chapter-06.topic-06",
+  "description": "Learn about Strategic Deterrence and its applications in game-theory.",
+  "content": {
+    "overview": "Strategic Deterrence is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Strategic Deterrence. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Strategic Deterrence requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Strategic Deterrence is essential for mastering Repeated Games. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

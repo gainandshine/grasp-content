@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Copper Cables?",
+      "back": "Copper Cables is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Copper Cables important?",
+      "back": "Copper Cables is essential for understanding Computer Networks.",
+      "difficulty": "medium"
+    }
+  ]
+}

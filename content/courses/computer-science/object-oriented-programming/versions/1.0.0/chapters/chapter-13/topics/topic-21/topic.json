@@ -1,6 +1,16 @@
 {
   "id": "topic-21",
   "name": "Complexity Analysis",
-  "description": "Learn about Complexity Analysis",
-  "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-21"
+  "topicId": "computer-science.object-oriented-programming.chapter-13.topic-21",
+  "description": "Learn about Complexity Analysis and its applications in computer-science.",
+  "content": {
+    "overview": "Complexity Analysis is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Complexity Analysis. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Complexity Analysis requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Complexity Analysis is essential for mastering Object-Oriented Programming. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

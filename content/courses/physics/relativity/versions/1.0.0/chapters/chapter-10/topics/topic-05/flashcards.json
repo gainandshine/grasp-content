@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Virgo?",
+      "back": "Virgo is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Virgo important?",
+      "back": "Virgo is essential for understanding Relativity.",
+      "difficulty": "medium"
+    }
+  ]
+}

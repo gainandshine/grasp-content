@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Waveguides",
+      "content": "A practical example demonstrating Waveguides",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "waveguides"
+      ]
+    }
+  ]
+}

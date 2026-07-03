@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scientific Research",
+      "content": "A practical example demonstrating Scientific Research",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "scientific-research"
+      ]
+    }
+  ]
+}

@@ -2,26 +2,27 @@
   "id": "chapter-06",
   "name": "Rotational Work & Energy",
   "description": "Rotational Work & Energy",
+  "overview": "This chapter covers the fundamental concepts of Rotational Work & Energy.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Rotational Work",
-      "conceptId": "physics.rotational-motion.chapter-06.topic-01"
+      "topicId": "physics.rotational-motion.chapter-06.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Rotational Kinetic Energy",
-      "conceptId": "physics.rotational-motion.chapter-06.topic-02"
+      "topicId": "physics.rotational-motion.chapter-06.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Rotational Power",
-      "conceptId": "physics.rotational-motion.chapter-06.topic-03"
+      "topicId": "physics.rotational-motion.chapter-06.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Conservation of Rotational Energy",
-      "conceptId": "physics.rotational-motion.chapter-06.topic-04"
+      "topicId": "physics.rotational-motion.chapter-06.topic-04"
     }
   ]
 }

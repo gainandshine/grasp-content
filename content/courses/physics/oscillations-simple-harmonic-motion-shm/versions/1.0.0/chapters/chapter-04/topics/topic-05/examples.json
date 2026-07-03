@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Small Angle Approximation",
+      "content": "A practical example demonstrating Small Angle Approximation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "small-angle-approximation"
+      ]
+    }
+  ]
+}

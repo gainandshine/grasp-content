@@ -1,10 +1,11 @@
 {
   "id": "evolutionary-game-theory",
   "title": "Evolutionary Game Theory",
-  "description": "This course studies **how strategies evolve over time within populations**, rather than assuming perfectly rational players. It explains how cooperation, competition, and adaptation emerge in biology, economics, sociology, and artificial intelligence.",
   "version": "1.0.0",
+  "domain": "game-theory",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:23.996Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.453Z"
 }

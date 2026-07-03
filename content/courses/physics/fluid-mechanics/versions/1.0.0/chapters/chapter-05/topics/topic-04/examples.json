@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pitot Tube",
+      "content": "A practical example demonstrating Pitot Tube",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "pitot-tube"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hardware-Aware Programming",
+      "content": "A practical example demonstrating Hardware-Aware Programming",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "hardware-aware-programming"
+      ]
+    }
+  ]
+}

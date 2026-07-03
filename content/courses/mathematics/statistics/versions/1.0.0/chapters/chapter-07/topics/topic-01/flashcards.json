@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Point Estimation?",
+      "back": "Point Estimation is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Point Estimation important?",
+      "back": "Point Estimation is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

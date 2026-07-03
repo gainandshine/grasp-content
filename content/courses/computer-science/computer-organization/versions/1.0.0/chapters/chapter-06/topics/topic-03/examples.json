@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cache Memory",
+      "content": "A practical example demonstrating Cache Memory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "cache-memory"
+      ]
+    }
+  ]
+}

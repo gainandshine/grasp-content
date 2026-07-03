@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sprint Planning",
+      "content": "A practical example demonstrating Sprint Planning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "sprint-planning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Foreign Aid",
+      "content": "A practical example demonstrating Foreign Aid",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "foreign-aid"
+      ]
+    }
+  ]
+}

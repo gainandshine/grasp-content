@@ -1,10 +1,11 @@
 {
   "id": "biomolecules",
   "title": "Biomolecules",
-  "description": "This course studies the **chemical molecules of life**. It bridges chemistry and biology, explaining the structure, function, and interactions of carbohydrates, proteins, lipids, nucleic acids, enzymes, vitamins, and biomolecular metabolism.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:16.324Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.276Z"
 }

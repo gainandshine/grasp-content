@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dead Code Elimination",
+      "content": "A practical example demonstrating Dead Code Elimination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "dead-code-elimination"
+      ]
+    }
+  ]
+}

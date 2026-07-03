@@ -1,10 +1,11 @@
 {
   "id": "kinematics",
   "title": "Kinematics",
-  "description": "Kinematics is the study of **motion without considering the forces that cause it**.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 20,
-  "chapters": 10,
-  "updatedAt": "2026-07-02T10:38:12.116Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.711Z"
 }

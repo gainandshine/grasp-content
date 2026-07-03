@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Phase Diagrams",
+      "content": "A practical example demonstrating Phase Diagrams",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "phase-diagrams"
+      ]
+    }
+  ]
+}

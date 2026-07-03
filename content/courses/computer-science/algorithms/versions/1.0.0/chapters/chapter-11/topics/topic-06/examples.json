@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: NP-Complete Problems (Introduction)",
+      "content": "A practical example demonstrating NP-Complete Problems (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "np-complete-problems-introduction"
+      ]
+    }
+  ]
+}

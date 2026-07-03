@@ -1,10 +1,11 @@
 {
   "id": "newtonian-mechanics",
   "title": "Newtonian Mechanics",
-  "description": "This course explains **why objects move** by introducing forces and Newton's Laws.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 22,
-  "chapters": 11,
-  "updatedAt": "2026-07-02T10:38:12.172Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.713Z"
 }

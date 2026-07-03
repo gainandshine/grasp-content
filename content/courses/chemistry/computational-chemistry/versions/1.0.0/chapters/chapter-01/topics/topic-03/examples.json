@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Modeling",
+      "content": "A practical example demonstrating Chemical Modeling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "chemical-modeling"
+      ]
+    }
+  ]
+}

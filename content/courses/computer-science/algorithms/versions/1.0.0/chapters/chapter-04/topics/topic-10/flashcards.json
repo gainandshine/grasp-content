@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stability & In-Place Sorting?",
+      "back": "Stability & In-Place Sorting is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stability & In-Place Sorting important?",
+      "back": "Stability & In-Place Sorting is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

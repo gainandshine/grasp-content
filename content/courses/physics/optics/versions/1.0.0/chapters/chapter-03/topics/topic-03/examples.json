@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Snell's Law",
+      "content": "A practical example demonstrating Snell's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "snells-law"
+      ]
+    }
+  ]
+}

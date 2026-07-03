@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 5: Algorithms**",
+      "content": "A practical example demonstrating *Course 5: Algorithms**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-5-algorithms"
+      ]
+    }
+  ]
+}

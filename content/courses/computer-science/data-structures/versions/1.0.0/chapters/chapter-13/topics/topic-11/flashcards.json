@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Divide & Conquer?",
+      "back": "Divide & Conquer is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Divide & Conquer important?",
+      "back": "Divide & Conquer is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

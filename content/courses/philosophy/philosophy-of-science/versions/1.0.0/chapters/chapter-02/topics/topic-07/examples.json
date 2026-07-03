@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scientific Communication",
+      "content": "A practical example demonstrating Scientific Communication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "scientific-communication"
+      ]
+    }
+  ]
+}

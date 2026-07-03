@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Black Hole Cosmology",
+      "content": "A practical example demonstrating Black Hole Cosmology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "black-hole-cosmology"
+      ]
+    }
+  ]
+}

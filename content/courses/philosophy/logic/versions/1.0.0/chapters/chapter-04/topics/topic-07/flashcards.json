@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Logical Consequence?",
+      "back": "Logical Consequence is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Logical Consequence important?",
+      "back": "Logical Consequence is essential for understanding Logic.",
+      "difficulty": "medium"
+    }
+  ]
+}

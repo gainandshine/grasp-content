@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Advanced Ceramics",
+      "content": "A practical example demonstrating Advanced Ceramics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "advanced-ceramics"
+      ]
+    }
+  ]
+}

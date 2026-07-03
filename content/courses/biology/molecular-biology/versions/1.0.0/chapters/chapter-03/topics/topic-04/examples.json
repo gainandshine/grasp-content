@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DNA Polymerase",
+      "content": "A practical example demonstrating DNA Polymerase",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "dna-polymerase"
+      ]
+    }
+  ]
+}

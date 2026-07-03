@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Single-Cell Biology",
+      "content": "A practical example demonstrating Single-Cell Biology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "single-cell-biology"
+      ]
+    }
+  ]
+}

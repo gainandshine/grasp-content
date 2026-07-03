@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dummy Player Property",
+      "content": "A practical example demonstrating Dummy Player Property",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "dummy-player-property"
+      ]
+    }
+  ]
+}

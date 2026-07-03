@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Relative Error",
+      "content": "A practical example demonstrating Relative Error",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "relative-error"
+      ]
+    }
+  ]
+}

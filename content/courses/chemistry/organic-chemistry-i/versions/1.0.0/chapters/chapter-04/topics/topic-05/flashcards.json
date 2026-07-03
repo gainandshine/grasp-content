@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Branched Chains?",
+      "back": "Branched Chains is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Branched Chains important?",
+      "back": "Branched Chains is essential for understanding Organic Chemistry I.",
+      "difficulty": "medium"
+    }
+  ]
+}

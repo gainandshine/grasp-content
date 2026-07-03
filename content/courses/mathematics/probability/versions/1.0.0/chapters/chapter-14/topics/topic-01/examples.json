@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Decision Trees",
+      "content": "A practical example demonstrating Decision Trees",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "decision-trees"
+      ]
+    }
+  ]
+}

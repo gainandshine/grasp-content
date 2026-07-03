@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Preference Profiles",
+      "content": "A practical example demonstrating Preference Profiles",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "preference-profiles"
+      ]
+    }
+  ]
+}

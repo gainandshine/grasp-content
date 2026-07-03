@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Loop Patterns?",
+      "back": "Loop Patterns is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Loop Patterns important?",
+      "back": "Loop Patterns is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

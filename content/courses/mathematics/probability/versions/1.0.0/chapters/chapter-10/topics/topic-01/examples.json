@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Markov Chains",
+      "content": "A practical example demonstrating Markov Chains",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "markov-chains"
+      ]
+    }
+  ]
+}

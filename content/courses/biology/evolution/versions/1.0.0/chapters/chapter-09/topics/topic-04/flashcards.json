@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Homo habilis?",
+      "back": "Homo habilis is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Homo habilis important?",
+      "back": "Homo habilis is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

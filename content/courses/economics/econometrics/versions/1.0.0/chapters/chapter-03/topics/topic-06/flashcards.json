@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Coefficient Interpretation?",
+      "back": "Coefficient Interpretation is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Coefficient Interpretation important?",
+      "back": "Coefficient Interpretation is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

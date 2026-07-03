@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Retrieval?",
+      "back": "Retrieval is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Retrieval important?",
+      "back": "Retrieval is essential for understanding Learning & Behavior.",
+      "difficulty": "medium"
+    }
+  ]
+}

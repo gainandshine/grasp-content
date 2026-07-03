@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: War & Peace",
+      "content": "A practical example demonstrating War & Peace",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "war-peace"
+      ]
+    }
+  ]
+}

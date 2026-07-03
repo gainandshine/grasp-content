@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pressure Variation with Depth?",
+      "back": "Pressure Variation with Depth is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pressure Variation with Depth important?",
+      "back": "Pressure Variation with Depth is essential for understanding Fluid Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

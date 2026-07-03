@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Edge Coloring",
+      "content": "A practical example demonstrating Edge Coloring",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "edge-coloring"
+      ]
+    }
+  ]
+}

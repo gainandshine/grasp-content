@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Acid-Base Chemistry in Non-Aqueous Solvents.",
+      "solution": "Step-by-step solution for Acid-Base Chemistry in Non-Aqueous Solvents problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "chemistry",
+        "acid-base-chemistry-in-non-aqueous-solvents"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Acid-Base Chemistry in Non-Aqueous Solvents to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "chemistry",
+        "acid-base-chemistry-in-non-aqueous-solvents"
+      ]
+    }
+  ]
+}

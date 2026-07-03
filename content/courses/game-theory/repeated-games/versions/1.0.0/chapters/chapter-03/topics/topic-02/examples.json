@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Discounting the Future",
+      "content": "A practical example demonstrating Discounting the Future",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "discounting-the-future"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Capital Markets",
+      "content": "A practical example demonstrating Capital Markets",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "capital-markets"
+      ]
+    }
+  ]
+}

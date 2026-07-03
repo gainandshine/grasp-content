@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Active Immunity",
+      "content": "A practical example demonstrating Active Immunity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "active-immunity"
+      ]
+    }
+  ]
+}

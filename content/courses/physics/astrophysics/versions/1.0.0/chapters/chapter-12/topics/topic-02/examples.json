@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Satellite Astronomy",
+      "content": "A practical example demonstrating Satellite Astronomy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "satellite-astronomy"
+      ]
+    }
+  ]
+}

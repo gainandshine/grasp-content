@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multidimensional Arrays",
+      "content": "A practical example demonstrating Multidimensional Arrays",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "multidimensional-arrays"
+      ]
+    }
+  ]
+}

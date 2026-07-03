@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Damping Coefficient",
+      "content": "A practical example demonstrating Damping Coefficient",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "damping-coefficient"
+      ]
+    }
+  ]
+}

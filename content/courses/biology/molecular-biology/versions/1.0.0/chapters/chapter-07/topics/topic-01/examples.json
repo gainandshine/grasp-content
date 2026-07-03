@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gene Expression",
+      "content": "A practical example demonstrating Gene Expression",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "gene-expression"
+      ]
+    }
+  ]
+}

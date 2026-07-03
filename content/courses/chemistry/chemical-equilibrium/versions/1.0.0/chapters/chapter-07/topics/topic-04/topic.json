@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Degree of Ionization",
-  "description": "Learn about Degree of Ionization",
-  "conceptId": "chemistry.chemical-equilibrium.chapter-07.topic-04"
+  "topicId": "chemistry.chemical-equilibrium.chapter-07.topic-04",
+  "description": "Learn about Degree of Ionization and its applications in chemistry.",
+  "content": {
+    "overview": "Degree of Ionization is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Degree of Ionization. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Degree of Ionization requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Degree of Ionization is essential for mastering Chemical Equilibrium. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

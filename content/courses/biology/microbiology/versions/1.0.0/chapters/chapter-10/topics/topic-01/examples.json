@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Antibiotics",
+      "content": "A practical example demonstrating Antibiotics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "antibiotics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Progressive Web Apps (PWA)",
+      "content": "A practical example demonstrating Progressive Web Apps (PWA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "progressive-web-apps-pwa"
+      ]
+    }
+  ]
+}

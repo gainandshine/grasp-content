@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Blow Molding",
+      "content": "A practical example demonstrating Blow Molding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "blow-molding"
+      ]
+    }
+  ]
+}

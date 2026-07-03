@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Agent Evolution",
+      "content": "A practical example demonstrating Multi-Agent Evolution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "multi-agent-evolution"
+      ]
+    }
+  ]
+}

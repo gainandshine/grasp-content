@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Survey Analysis?",
+      "back": "Survey Analysis is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Survey Analysis important?",
+      "back": "Survey Analysis is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

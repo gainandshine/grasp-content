@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Amino Acids & Proteins",
+      "content": "A practical example demonstrating Amino Acids & Proteins",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "amino-acids-proteins"
+      ]
+    }
+  ]
+}

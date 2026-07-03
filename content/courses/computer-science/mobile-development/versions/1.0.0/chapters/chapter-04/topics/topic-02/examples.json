@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Navigation Stack",
+      "content": "A practical example demonstrating Navigation Stack",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "navigation-stack"
+      ]
+    }
+  ]
+}

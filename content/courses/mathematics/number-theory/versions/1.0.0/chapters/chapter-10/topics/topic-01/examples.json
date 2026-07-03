@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: RSA Algorithm",
+      "content": "A practical example demonstrating RSA Algorithm",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "rsa-algorithm"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Inflection Points",
+      "content": "A practical example demonstrating Inflection Points",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "inflection-points"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Diagnosis",
+      "content": "A practical example demonstrating Diagnosis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "diagnosis"
+      ]
+    }
+  ]
+}

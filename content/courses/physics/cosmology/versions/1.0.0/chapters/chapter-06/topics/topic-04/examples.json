@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bullet Cluster",
+      "content": "A practical example demonstrating Bullet Cluster",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "bullet-cluster"
+      ]
+    }
+  ]
+}

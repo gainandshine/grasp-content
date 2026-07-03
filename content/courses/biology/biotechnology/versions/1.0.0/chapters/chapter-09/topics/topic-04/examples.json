@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bioplastics",
+      "content": "A practical example demonstrating Bioplastics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "bioplastics"
+      ]
+    }
+  ]
+}

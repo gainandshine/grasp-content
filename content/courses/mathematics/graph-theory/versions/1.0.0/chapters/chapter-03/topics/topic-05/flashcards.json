@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Isolated Vertices?",
+      "back": "Isolated Vertices is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Isolated Vertices important?",
+      "back": "Isolated Vertices is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

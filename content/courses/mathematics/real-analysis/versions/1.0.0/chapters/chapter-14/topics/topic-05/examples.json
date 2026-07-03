@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mathematical Physics",
+      "content": "A practical example demonstrating Mathematical Physics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "mathematical-physics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Decision Making?",
+      "back": "Decision Making is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Decision Making important?",
+      "back": "Decision Making is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

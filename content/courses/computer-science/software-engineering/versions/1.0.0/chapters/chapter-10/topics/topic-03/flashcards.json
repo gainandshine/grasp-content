@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Build Pipelines?",
+      "back": "Build Pipelines is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Build Pipelines important?",
+      "back": "Build Pipelines is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

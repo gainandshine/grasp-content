@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Crude Oil",
+      "content": "A practical example demonstrating Crude Oil",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "crude-oil"
+      ]
+    }
+  ]
+}

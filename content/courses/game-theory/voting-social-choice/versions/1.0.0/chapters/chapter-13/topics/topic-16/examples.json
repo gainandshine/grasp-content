@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Biological Competition",
+      "content": "A practical example demonstrating Biological Competition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "biological-competition"
+      ]
+    }
+  ]
+}

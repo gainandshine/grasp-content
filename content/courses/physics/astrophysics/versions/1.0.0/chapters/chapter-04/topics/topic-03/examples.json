@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Red Giants",
+      "content": "A practical example demonstrating Red Giants",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "red-giants"
+      ]
+    }
+  ]
+}

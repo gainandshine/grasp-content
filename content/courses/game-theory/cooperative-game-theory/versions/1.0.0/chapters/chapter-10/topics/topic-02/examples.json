@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Communication Graphs",
+      "content": "A practical example demonstrating Communication Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "communication-graphs"
+      ]
+    }
+  ]
+}

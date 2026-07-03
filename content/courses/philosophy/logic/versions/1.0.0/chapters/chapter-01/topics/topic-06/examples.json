@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Validity & Soundness",
+      "content": "A practical example demonstrating Validity & Soundness",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "validity-soundness"
+      ]
+    }
+  ]
+}

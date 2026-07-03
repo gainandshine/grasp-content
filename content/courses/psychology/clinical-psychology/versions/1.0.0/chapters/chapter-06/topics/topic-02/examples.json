@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Humanistic Therapy",
+      "content": "A practical example demonstrating Humanistic Therapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "humanistic-therapy"
+      ]
+    }
+  ]
+}

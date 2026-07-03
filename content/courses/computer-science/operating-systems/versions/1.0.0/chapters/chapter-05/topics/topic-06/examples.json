@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deadlock Detection",
+      "content": "A practical example demonstrating Deadlock Detection",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "deadlock-detection"
+      ]
+    }
+  ]
+}

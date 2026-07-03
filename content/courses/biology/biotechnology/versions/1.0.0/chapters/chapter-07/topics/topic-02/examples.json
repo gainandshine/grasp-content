@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Monoclonal Antibodies",
+      "content": "A practical example demonstrating Monoclonal Antibodies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "monoclonal-antibodies"
+      ]
+    }
+  ]
+}

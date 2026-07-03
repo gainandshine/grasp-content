@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Equivalent Resistance",
+      "content": "A practical example demonstrating Equivalent Resistance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "equivalent-resistance"
+      ]
+    }
+  ]
+}

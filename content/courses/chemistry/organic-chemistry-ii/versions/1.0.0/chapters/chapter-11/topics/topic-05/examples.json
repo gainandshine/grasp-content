@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon-13 NMR",
+      "content": "A practical example demonstrating Carbon-13 NMR",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "carbon-13-nmr"
+      ]
+    }
+  ]
+}

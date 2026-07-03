@@ -1,10 +1,11 @@
 {
   "id": "magnetism",
   "title": "Magnetism",
-  "description": "This course studies **magnetic fields, magnetic forces, and magnetic materials**. It builds directly on electrostatics and prepares students for electromagnetism.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 20,
-  "chapters": 10,
-  "updatedAt": "2026-07-02T10:38:12.809Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.736Z"
 }

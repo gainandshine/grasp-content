@@ -2,41 +2,42 @@
   "id": "chapter-06",
   "name": "Consciousness",
   "description": "Consciousness",
+  "overview": "This chapter covers the fundamental concepts of Consciousness.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Consciousness",
-      "conceptId": "psychology.psychology-foundations.chapter-06.topic-01"
+      "topicId": "psychology.psychology-foundations.chapter-06.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Sleep",
-      "conceptId": "psychology.psychology-foundations.chapter-06.topic-02"
+      "topicId": "psychology.psychology-foundations.chapter-06.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Dreams",
-      "conceptId": "psychology.psychology-foundations.chapter-06.topic-03"
+      "topicId": "psychology.psychology-foundations.chapter-06.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Circadian Rhythms",
-      "conceptId": "psychology.psychology-foundations.chapter-06.topic-04"
+      "topicId": "psychology.psychology-foundations.chapter-06.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Attention",
-      "conceptId": "psychology.psychology-foundations.chapter-06.topic-05"
+      "topicId": "psychology.psychology-foundations.chapter-06.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Meditation",
-      "conceptId": "psychology.psychology-foundations.chapter-06.topic-06"
+      "topicId": "psychology.psychology-foundations.chapter-06.topic-06"
     },
     {
       "id": "topic-07",
       "name": "Altered States of Consciousness",
-      "conceptId": "psychology.psychology-foundations.chapter-06.topic-07"
+      "topicId": "psychology.psychology-foundations.chapter-06.topic-07"
     }
   ]
 }

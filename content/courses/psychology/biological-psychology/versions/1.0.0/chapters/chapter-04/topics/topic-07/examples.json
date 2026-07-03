@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cerebellum",
+      "content": "A practical example demonstrating Cerebellum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "cerebellum"
+      ]
+    }
+  ]
+}

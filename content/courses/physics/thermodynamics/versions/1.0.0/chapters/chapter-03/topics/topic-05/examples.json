@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: RMS Speed",
+      "content": "A practical example demonstrating RMS Speed",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rms-speed"
+      ]
+    }
+  ]
+}

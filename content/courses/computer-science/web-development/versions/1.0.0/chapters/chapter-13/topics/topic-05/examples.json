@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Real-Time Applications",
+      "content": "A practical example demonstrating Real-Time Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "real-time-applications"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electric Vehicles",
+      "content": "A practical example demonstrating Electric Vehicles",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electric-vehicles"
+      ]
+    }
+  ]
+}

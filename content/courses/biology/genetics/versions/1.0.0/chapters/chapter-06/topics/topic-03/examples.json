@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Blood Groups",
+      "content": "A practical example demonstrating Blood Groups",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "blood-groups"
+      ]
+    }
+  ]
+}

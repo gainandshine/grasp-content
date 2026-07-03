@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Optimal Substructure",
+      "content": "A practical example demonstrating Optimal Substructure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "optimal-substructure"
+      ]
+    }
+  ]
+}

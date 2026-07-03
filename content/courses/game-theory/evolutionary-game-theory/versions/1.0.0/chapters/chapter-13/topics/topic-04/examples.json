@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Machine Learning",
+      "content": "A practical example demonstrating Evolutionary Machine Learning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "evolutionary-machine-learning"
+      ]
+    }
+  ]
+}

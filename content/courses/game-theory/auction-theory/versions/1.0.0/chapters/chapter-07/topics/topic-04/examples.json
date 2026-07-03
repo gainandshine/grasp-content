@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bidder Utility",
+      "content": "A practical example demonstrating Bidder Utility",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "bidder-utility"
+      ]
+    }
+  ]
+}

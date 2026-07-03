@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is MHC Class II?",
+      "back": "MHC Class II is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is MHC Class II important?",
+      "back": "MHC Class II is essential for understanding Immunology.",
+      "difficulty": "medium"
+    }
+  ]
+}

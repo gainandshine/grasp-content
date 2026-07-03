@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Liquid Democracy",
+      "content": "A practical example demonstrating Liquid Democracy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "liquid-democracy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parameterized Constructors",
+      "content": "A practical example demonstrating Parameterized Constructors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "parameterized-constructors"
+      ]
+    }
+  ]
+}

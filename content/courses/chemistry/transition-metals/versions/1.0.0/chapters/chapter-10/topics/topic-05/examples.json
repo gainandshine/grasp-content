@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radioactive Elements",
+      "content": "A practical example demonstrating Radioactive Elements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radioactive-elements"
+      ]
+    }
+  ]
+}

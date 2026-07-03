@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Zinc?",
+      "back": "Zinc is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Zinc important?",
+      "back": "Zinc is essential for understanding Transition Metals.",
+      "difficulty": "medium"
+    }
+  ]
+}

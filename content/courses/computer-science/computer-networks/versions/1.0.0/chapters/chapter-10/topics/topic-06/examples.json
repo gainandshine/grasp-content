@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Intrusion Prevention Systems (IPS)",
+      "content": "A practical example demonstrating Intrusion Prevention Systems (IPS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "intrusion-prevention-systems-ips"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Functions of a Complex Variable?",
+      "back": "Functions of a Complex Variable is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Functions of a Complex Variable important?",
+      "back": "Functions of a Complex Variable is essential for understanding Complex Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

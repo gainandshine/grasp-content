@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Capillary Action",
+      "content": "A practical example demonstrating Capillary Action",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "capillary-action"
+      ]
+    }
+  ]
+}

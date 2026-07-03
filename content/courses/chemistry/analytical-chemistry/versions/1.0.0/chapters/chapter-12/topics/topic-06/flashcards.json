@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Industrial Process Control?",
+      "back": "Industrial Process Control is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Industrial Process Control important?",
+      "back": "Industrial Process Control is essential for understanding Analytical Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

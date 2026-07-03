@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Biology?",
+      "back": "Biology is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Biology important?",
+      "back": "Biology is essential for understanding Evolutionary Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

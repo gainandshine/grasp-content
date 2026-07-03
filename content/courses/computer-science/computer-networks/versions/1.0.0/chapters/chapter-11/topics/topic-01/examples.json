@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Internet Architecture",
+      "content": "A practical example demonstrating Internet Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "internet-architecture"
+      ]
+    }
+  ]
+}

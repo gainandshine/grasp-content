@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Secure Storage",
+      "content": "A practical example demonstrating Secure Storage",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "secure-storage"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rydberg Formula",
+      "content": "A practical example demonstrating Rydberg Formula",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rydberg-formula"
+      ]
+    }
+  ]
+}

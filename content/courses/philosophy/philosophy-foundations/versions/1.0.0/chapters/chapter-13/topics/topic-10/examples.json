@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deductive Logic",
+      "content": "A practical example demonstrating Deductive Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "deductive-logic"
+      ]
+    }
+  ]
+}

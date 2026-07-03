@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Agent AI",
+      "content": "A practical example demonstrating Multi-Agent AI",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "multi-agent-ai"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is XSS?",
+      "back": "XSS is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is XSS important?",
+      "back": "XSS is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Perfect Square Trinomials",
+      "content": "A practical example demonstrating Perfect Square Trinomials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "perfect-square-trinomials"
+      ]
+    }
+  ]
+}

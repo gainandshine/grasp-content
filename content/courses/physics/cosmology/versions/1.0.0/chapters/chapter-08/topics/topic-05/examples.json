@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Open Universe",
+      "content": "A practical example demonstrating Open Universe",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "open-universe"
+      ]
+    }
+  ]
+}

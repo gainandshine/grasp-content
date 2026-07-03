@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 10: Software Engineering**?",
+      "back": "*Course 10: Software Engineering** is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 10: Software Engineering** important?",
+      "back": "*Course 10: Software Engineering** is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

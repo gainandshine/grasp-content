@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Feedforward Networks",
+      "content": "A practical example demonstrating Feedforward Networks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "feedforward-networks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Code Reviews",
+      "content": "A practical example demonstrating Code Reviews",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "code-reviews"
+      ]
+    }
+  ]
+}

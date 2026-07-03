@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trigonal Planar",
+      "content": "A practical example demonstrating Trigonal Planar",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "trigonal-planar"
+      ]
+    }
+  ]
+}

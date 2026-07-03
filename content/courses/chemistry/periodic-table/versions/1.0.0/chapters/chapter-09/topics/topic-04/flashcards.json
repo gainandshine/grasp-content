@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Carbon Group?",
+      "back": "Carbon Group is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Carbon Group important?",
+      "back": "Carbon Group is essential for understanding Periodic Table.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Metabolomics",
+      "content": "A practical example demonstrating Metabolomics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "metabolomics"
+      ]
+    }
+  ]
+}

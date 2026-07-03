@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wave Speed",
+      "content": "A practical example demonstrating Wave Speed",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "wave-speed"
+      ]
+    }
+  ]
+}

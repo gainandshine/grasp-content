@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Titanium?",
+      "back": "Titanium is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Titanium important?",
+      "back": "Titanium is essential for understanding Transition Metals.",
+      "difficulty": "medium"
+    }
+  ]
+}

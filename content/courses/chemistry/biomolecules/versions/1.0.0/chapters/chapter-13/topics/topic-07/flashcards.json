@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 17: Polymers**?",
+      "back": "*Course 17: Polymers** is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 17: Polymers** important?",
+      "back": "*Course 17: Polymers** is essential for understanding Biomolecules.",
+      "difficulty": "medium"
+    }
+  ]
+}

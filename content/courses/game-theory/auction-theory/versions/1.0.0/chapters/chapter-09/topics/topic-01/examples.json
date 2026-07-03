@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: E-Commerce Auctions",
+      "content": "A practical example demonstrating E-Commerce Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "e-commerce-auctions"
+      ]
+    }
+  ]
+}

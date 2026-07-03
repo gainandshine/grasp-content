@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Collinear Points",
+      "content": "A practical example demonstrating Collinear Points",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "collinear-points"
+      ]
+    }
+  ]
+}

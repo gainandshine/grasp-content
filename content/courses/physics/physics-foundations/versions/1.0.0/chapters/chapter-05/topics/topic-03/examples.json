@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Triangle Law",
+      "content": "A practical example demonstrating Triangle Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "triangle-law"
+      ]
+    }
+  ]
+}

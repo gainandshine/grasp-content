@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kalai-Smorodinsky Solution",
+      "content": "A practical example demonstrating Kalai-Smorodinsky Solution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "kalai-smorodinsky-solution"
+      ]
+    }
+  ]
+}

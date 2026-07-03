@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strong Consistency",
+      "content": "A practical example demonstrating Strong Consistency",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "strong-consistency"
+      ]
+    }
+  ]
+}

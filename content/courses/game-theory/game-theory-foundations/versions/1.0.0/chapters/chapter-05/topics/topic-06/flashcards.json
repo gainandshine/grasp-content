@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Outcome Analysis?",
+      "back": "Outcome Analysis is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Outcome Analysis important?",
+      "back": "Outcome Analysis is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

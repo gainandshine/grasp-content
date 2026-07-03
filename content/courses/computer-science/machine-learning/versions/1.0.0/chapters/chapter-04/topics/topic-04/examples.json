@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AdaBoost",
+      "content": "A practical example demonstrating AdaBoost",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "adaboost"
+      ]
+    }
+  ]
+}

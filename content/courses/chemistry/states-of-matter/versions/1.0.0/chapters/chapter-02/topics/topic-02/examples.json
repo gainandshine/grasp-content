@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Crystalline Solids",
+      "content": "A practical example demonstrating Crystalline Solids",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "crystalline-solids"
+      ]
+    }
+  ]
+}

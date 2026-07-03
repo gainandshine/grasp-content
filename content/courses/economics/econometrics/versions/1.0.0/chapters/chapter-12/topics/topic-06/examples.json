@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Business Forecasting",
+      "content": "A practical example demonstrating Business Forecasting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "business-forecasting"
+      ]
+    }
+  ]
+}

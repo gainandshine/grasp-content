@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Modular Inverses?",
+      "back": "Modular Inverses is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Modular Inverses important?",
+      "back": "Modular Inverses is essential for understanding Number Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

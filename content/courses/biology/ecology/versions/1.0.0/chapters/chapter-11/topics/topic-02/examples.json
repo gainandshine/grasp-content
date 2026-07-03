@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ecological Restoration",
+      "content": "A practical example demonstrating Ecological Restoration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "ecological-restoration"
+      ]
+    }
+  ]
+}

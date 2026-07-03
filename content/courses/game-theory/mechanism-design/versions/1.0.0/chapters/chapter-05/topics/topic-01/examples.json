@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vickrey Auctions",
+      "content": "A practical example demonstrating Vickrey Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "vickrey-auctions"
+      ]
+    }
+  ]
+}

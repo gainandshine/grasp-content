@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Process Control Block (PCB)",
+      "content": "A practical example demonstrating Process Control Block (PCB)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "process-control-block-pcb"
+      ]
+    }
+  ]
+}

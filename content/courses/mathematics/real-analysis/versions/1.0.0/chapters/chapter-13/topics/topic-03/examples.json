@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lebesgue Integral (Overview)",
+      "content": "A practical example demonstrating Lebesgue Integral (Overview)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "lebesgue-integral-overview"
+      ]
+    }
+  ]
+}

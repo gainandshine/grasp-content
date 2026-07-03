@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Biot–Savart Law",
+      "content": "A practical example demonstrating Biot–Savart Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "biotsavart-law"
+      ]
+    }
+  ]
+}

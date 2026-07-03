@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Direct vs Indirect Realism",
-  "description": "Learn about Direct vs Indirect Realism",
-  "conceptId": "philosophy.philosophy-of-mind.chapter-06.topic-06"
+  "topicId": "philosophy.philosophy-of-mind.chapter-06.topic-06",
+  "description": "Learn about Direct vs Indirect Realism and its applications in philosophy.",
+  "content": {
+    "overview": "Direct vs Indirect Realism is a fundamental concept in philosophy. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Direct vs Indirect Realism. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Direct vs Indirect Realism requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Direct vs Indirect Realism is essential for mastering Philosophy of Mind. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

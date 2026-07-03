@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Instance Variables",
+      "content": "A practical example demonstrating Instance Variables",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "instance-variables"
+      ]
+    }
+  ]
+}

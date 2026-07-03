@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Debye Shielding",
+      "content": "A practical example demonstrating Debye Shielding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "debye-shielding"
+      ]
+    }
+  ]
+}

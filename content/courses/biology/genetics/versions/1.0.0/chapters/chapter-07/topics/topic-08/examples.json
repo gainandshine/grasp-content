@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Huntington's Disease",
+      "content": "A practical example demonstrating Huntington's Disease",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "huntingtons-disease"
+      ]
+    }
+  ]
+}

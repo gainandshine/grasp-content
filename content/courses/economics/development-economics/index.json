@@ -1,10 +1,11 @@
 {
   "id": "development-economics",
   "title": "Development Economics",
-  "description": "This course studies **how economies grow and develop over time**, focusing on poverty reduction, inequality, industrialization, human development, and sustainable economic progress.",
   "version": "1.0.0",
+  "domain": "economics",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:20.768Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.374Z"
 }

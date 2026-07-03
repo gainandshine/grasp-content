@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Particulate Matter",
+      "content": "A practical example demonstrating Particulate Matter",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "particulate-matter"
+      ]
+    }
+  ]
+}

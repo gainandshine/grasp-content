@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Histone Modification",
+      "content": "A practical example demonstrating Histone Modification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "histone-modification"
+      ]
+    }
+  ]
+}

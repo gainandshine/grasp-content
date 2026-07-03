@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Consumer Finance",
+      "content": "A practical example demonstrating Consumer Finance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "consumer-finance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Dominated Strategy?",
+      "back": "Dominated Strategy is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Dominated Strategy important?",
+      "back": "Dominated Strategy is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

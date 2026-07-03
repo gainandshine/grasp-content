@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Particle Properties",
+      "content": "A practical example demonstrating Particle Properties",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "particle-properties"
+      ]
+    }
+  ]
+}

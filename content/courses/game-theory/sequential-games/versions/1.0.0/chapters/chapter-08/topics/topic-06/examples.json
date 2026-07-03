@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Agreement Strategies",
+      "content": "A practical example demonstrating Agreement Strategies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "agreement-strategies"
+      ]
+    }
+  ]
+}

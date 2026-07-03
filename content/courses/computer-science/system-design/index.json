@@ -1,10 +1,11 @@
 {
   "id": "system-design",
   "title": "System Design",
-  "description": "This course studies **how to design scalable, reliable, and maintainable software systems**. It focuses on architecture rather than implementation and prepares students to build applications that can serve thousands or millions of users.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:19.272Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.339Z"
 }

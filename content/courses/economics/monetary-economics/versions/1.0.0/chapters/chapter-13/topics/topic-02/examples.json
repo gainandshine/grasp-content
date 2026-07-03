@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shadow Banking",
+      "content": "A practical example demonstrating Shadow Banking",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "shadow-banking"
+      ]
+    }
+  ]
+}

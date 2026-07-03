@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medical Diagnostics",
+      "content": "A practical example demonstrating Medical Diagnostics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "medical-diagnostics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strategy Comparison",
+      "content": "A practical example demonstrating Strategy Comparison",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "strategy-comparison"
+      ]
+    }
+  ]
+}

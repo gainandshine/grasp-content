@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Systems of Inequalities",
-  "description": "Learn about Systems of Inequalities",
-  "conceptId": "mathematics.algebra-i.chapter-06.topic-05"
+  "topicId": "mathematics.algebra-i.chapter-06.topic-05",
+  "description": "Learn about Systems of Inequalities and its applications in mathematics.",
+  "content": {
+    "overview": "Systems of Inequalities is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Systems of Inequalities. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Systems of Inequalities requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Systems of Inequalities is essential for mastering Algebra I. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

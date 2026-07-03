@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Beta Distribution",
+      "content": "A practical example demonstrating Beta Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "beta-distribution"
+      ]
+    }
+  ]
+}

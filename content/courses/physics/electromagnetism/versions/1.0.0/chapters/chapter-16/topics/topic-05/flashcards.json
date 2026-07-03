@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Voltage Division?",
+      "back": "Voltage Division is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Voltage Division important?",
+      "back": "Voltage Division is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

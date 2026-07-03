@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Policy Design?",
+      "back": "Policy Design is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Policy Design important?",
+      "back": "Policy Design is essential for understanding Applications of Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

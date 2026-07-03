@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Tit-for-Tat Strategy?",
+      "back": "Tit-for-Tat Strategy is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Tit-for-Tat Strategy important?",
+      "back": "Tit-for-Tat Strategy is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Computer Networks",
+      "content": "A practical example demonstrating Computer Networks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "computer-networks"
+      ]
+    }
+  ]
+}

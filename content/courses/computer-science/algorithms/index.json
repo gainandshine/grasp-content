@@ -1,10 +1,11 @@
 {
   "id": "algorithms",
   "title": "Algorithms",
-  "description": "This course studies **how to design, analyze, and optimize algorithms** for solving computational problems efficiently. It builds directly on Data Structures.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:18.495Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.322Z"
 }

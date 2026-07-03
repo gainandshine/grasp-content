@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Contingency Tables",
+      "content": "A practical example demonstrating Contingency Tables",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "contingency-tables"
+      ]
+    }
+  ]
+}

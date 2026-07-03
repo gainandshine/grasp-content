@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Azimuthal Quantum Number",
+      "content": "A practical example demonstrating Azimuthal Quantum Number",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "azimuthal-quantum-number"
+      ]
+    }
+  ]
+}

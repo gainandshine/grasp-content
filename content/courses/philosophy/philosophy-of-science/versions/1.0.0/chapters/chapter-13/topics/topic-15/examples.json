@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Logic & Language",
+      "content": "A practical example demonstrating Logic & Language",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "logic-language"
+      ]
+    }
+  ]
+}

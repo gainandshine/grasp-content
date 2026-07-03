@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Simultaneous-Move Games?",
+      "back": "Simultaneous-Move Games is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Simultaneous-Move Games important?",
+      "back": "Simultaneous-Move Games is essential for understanding Strategic Decision Making.",
+      "difficulty": "medium"
+    }
+  ]
+}

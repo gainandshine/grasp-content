@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gradient Boosting",
+      "content": "A practical example demonstrating Gradient Boosting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "gradient-boosting"
+      ]
+    }
+  ]
+}

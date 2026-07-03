@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fuzzy Logic",
+      "content": "A practical example demonstrating Fuzzy Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "fuzzy-logic"
+      ]
+    }
+  ]
+}

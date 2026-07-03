@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Organic Electronics",
+      "content": "A practical example demonstrating Organic Electronics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "organic-electronics"
+      ]
+    }
+  ]
+}

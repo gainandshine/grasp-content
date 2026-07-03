@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Georg Wilhelm Friedrich Hegel.",
+      "solution": "Step-by-step solution for Georg Wilhelm Friedrich Hegel problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "philosophy",
+        "georg-wilhelm-friedrich-hegel"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Georg Wilhelm Friedrich Hegel to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "philosophy",
+        "georg-wilhelm-friedrich-hegel"
+      ]
+    }
+  ]
+}

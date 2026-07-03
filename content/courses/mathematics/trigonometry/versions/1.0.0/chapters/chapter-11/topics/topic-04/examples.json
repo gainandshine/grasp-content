@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Converting Polar ↔ Cartesian",
+      "content": "A practical example demonstrating Converting Polar ↔ Cartesian",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "converting-polar-cartesian"
+      ]
+    }
+  ]
+}

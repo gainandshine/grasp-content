@@ -1,10 +1,11 @@
 {
   "id": "spectroscopy",
   "title": "Spectroscopy",
-  "description": "This course studies **how light and electromagnetic radiation interact with matter** to identify atoms, molecules, and materials. It is one of the most important tools in chemistry, biology, medicine, and materials science.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:16.571Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.282Z"
 }

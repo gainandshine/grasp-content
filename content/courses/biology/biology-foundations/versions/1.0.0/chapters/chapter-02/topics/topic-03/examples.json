@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Bonds",
+      "content": "A practical example demonstrating Chemical Bonds",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "chemical-bonds"
+      ]
+    }
+  ]
+}

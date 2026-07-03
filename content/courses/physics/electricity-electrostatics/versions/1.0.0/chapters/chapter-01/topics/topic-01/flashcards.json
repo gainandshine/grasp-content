@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electric Charge?",
+      "back": "Electric Charge is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electric Charge important?",
+      "back": "Electric Charge is essential for understanding Electricity (Electrostatics).",
+      "difficulty": "medium"
+    }
+  ]
+}

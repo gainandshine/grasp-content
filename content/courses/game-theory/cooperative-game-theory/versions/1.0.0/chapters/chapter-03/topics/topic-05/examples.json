@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coalition Worth",
+      "content": "A practical example demonstrating Coalition Worth",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "coalition-worth"
+      ]
+    }
+  ]
+}

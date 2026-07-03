@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Climate Engineering",
+      "content": "A practical example demonstrating Climate Engineering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "climate-engineering"
+      ]
+    }
+  ]
+}

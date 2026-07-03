@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Master Theorem (Introduction)",
+      "content": "A practical example demonstrating Master Theorem (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "master-theorem-introduction"
+      ]
+    }
+  ]
+}

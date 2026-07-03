@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Golden Mean",
+      "content": "A practical example demonstrating Golden Mean",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "golden-mean"
+      ]
+    }
+  ]
+}

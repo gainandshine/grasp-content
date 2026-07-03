@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Composition vs Inheritance",
+      "content": "A practical example demonstrating Composition vs Inheritance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "composition-vs-inheritance"
+      ]
+    }
+  ]
+}

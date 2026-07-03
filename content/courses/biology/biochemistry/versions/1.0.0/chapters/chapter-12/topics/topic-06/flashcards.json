@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Drug Metabolism?",
+      "back": "Drug Metabolism is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Drug Metabolism important?",
+      "back": "Drug Metabolism is essential for understanding Biochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

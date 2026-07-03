@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is DNA Methylation?",
+      "back": "DNA Methylation is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is DNA Methylation important?",
+      "back": "DNA Methylation is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

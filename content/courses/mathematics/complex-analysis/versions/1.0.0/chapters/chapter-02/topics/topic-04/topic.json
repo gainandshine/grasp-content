@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Complex Mappings",
-  "description": "Learn about Complex Mappings",
-  "conceptId": "mathematics.complex-analysis.chapter-02.topic-04"
+  "topicId": "mathematics.complex-analysis.chapter-02.topic-04",
+  "description": "Learn about Complex Mappings and its applications in mathematics.",
+  "content": {
+    "overview": "Complex Mappings is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Complex Mappings. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Complex Mappings requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Complex Mappings is essential for mastering Complex Analysis. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

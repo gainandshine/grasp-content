@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Naive String Search",
+      "content": "A practical example demonstrating Naive String Search",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "naive-string-search"
+      ]
+    }
+  ]
+}

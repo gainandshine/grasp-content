@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thermoplastics",
+      "content": "A practical example demonstrating Thermoplastics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "thermoplastics"
+      ]
+    }
+  ]
+}

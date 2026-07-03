@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sommerfeld Model",
+      "content": "A practical example demonstrating Sommerfeld Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "sommerfeld-model"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Commutative Rings?",
+      "back": "Commutative Rings is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Commutative Rings important?",
+      "back": "Commutative Rings is essential for understanding Abstract Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

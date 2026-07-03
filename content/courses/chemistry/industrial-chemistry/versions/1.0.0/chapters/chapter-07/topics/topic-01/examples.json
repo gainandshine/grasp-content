@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cement Manufacturing",
+      "content": "A practical example demonstrating Cement Manufacturing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "cement-manufacturing"
+      ]
+    }
+  ]
+}

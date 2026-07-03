@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radioactive Tracers",
+      "content": "A practical example demonstrating Radioactive Tracers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radioactive-tracers"
+      ]
+    }
+  ]
+}

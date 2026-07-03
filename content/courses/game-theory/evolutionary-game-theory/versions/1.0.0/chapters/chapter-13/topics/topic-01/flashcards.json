@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multi-Level Selection?",
+      "back": "Multi-Level Selection is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multi-Level Selection important?",
+      "back": "Multi-Level Selection is essential for understanding Evolutionary Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

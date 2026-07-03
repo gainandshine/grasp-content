@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Human-Computer Interaction",
+      "content": "A practical example demonstrating Human-Computer Interaction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "human-computer-interaction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Beta Distribution?",
+      "back": "Beta Distribution is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Beta Distribution important?",
+      "back": "Beta Distribution is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

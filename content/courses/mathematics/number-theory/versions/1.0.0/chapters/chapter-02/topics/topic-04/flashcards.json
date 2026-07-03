@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fundamental Theorem of Arithmetic?",
+      "back": "Fundamental Theorem of Arithmetic is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fundamental Theorem of Arithmetic important?",
+      "back": "Fundamental Theorem of Arithmetic is essential for understanding Number Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

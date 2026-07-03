@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Drift Current",
+      "content": "A practical example demonstrating Drift Current",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "drift-current"
+      ]
+    }
+  ]
+}

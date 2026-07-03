@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Three-Phase Commit (3PC)",
+      "content": "A practical example demonstrating Three-Phase Commit (3PC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "three-phase-commit-3pc"
+      ]
+    }
+  ]
+}

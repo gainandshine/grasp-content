@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Similar Triangles?",
+      "back": "Similar Triangles is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Similar Triangles important?",
+      "back": "Similar Triangles is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

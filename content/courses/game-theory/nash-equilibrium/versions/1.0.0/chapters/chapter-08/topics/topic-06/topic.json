@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Practical Examples",
-  "description": "Learn about Practical Examples",
-  "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-06"
+  "topicId": "game-theory.nash-equilibrium.chapter-08.topic-06",
+  "description": "Learn about Practical Examples and its applications in game-theory.",
+  "content": {
+    "overview": "Practical Examples is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Practical Examples. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Practical Examples requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Practical Examples is essential for mastering Nash Equilibrium. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

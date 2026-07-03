@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stellar Fusion",
+      "content": "A practical example demonstrating Stellar Fusion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "stellar-fusion"
+      ]
+    }
+  ]
+}

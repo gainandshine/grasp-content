@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Tumor Immunology?",
+      "back": "Tumor Immunology is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Tumor Immunology important?",
+      "back": "Tumor Immunology is essential for understanding Immunology.",
+      "difficulty": "medium"
+    }
+  ]
+}

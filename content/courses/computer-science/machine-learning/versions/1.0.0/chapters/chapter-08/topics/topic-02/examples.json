@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Convolutional Neural Networks (CNNs)",
+      "content": "A practical example demonstrating Convolutional Neural Networks (CNNs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "convolutional-neural-networks-cnns"
+      ]
+    }
+  ]
+}

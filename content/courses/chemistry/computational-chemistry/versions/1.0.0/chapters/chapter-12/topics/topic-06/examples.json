@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Automated Molecular Design",
+      "content": "A practical example demonstrating Automated Molecular Design",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "automated-molecular-design"
+      ]
+    }
+  ]
+}

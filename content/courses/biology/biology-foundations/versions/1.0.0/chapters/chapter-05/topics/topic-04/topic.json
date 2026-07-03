@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Tissues",
-  "description": "Learn about Tissues",
-  "conceptId": "biology.biology-foundations.chapter-05.topic-04"
+  "topicId": "biology.biology-foundations.chapter-05.topic-04",
+  "description": "Learn about Tissues and its applications in biology.",
+  "content": {
+    "overview": "Tissues is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Tissues. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Tissues requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Tissues is essential for mastering Biology Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Energy of a Pendulum?",
+      "back": "Energy of a Pendulum is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Energy of a Pendulum important?",
+      "back": "Energy of a Pendulum is essential for understanding Oscillations & Simple Harmonic Motion (SHM).",
+      "difficulty": "medium"
+    }
+  ]
+}

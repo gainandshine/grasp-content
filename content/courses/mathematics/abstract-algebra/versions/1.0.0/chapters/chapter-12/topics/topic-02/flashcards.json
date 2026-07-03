@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Error-Correcting Codes?",
+      "back": "Error-Correcting Codes is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Error-Correcting Codes important?",
+      "back": "Error-Correcting Codes is essential for understanding Abstract Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

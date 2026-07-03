@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Green Growth",
-  "description": "Learn about Green Growth",
-  "conceptId": "economics.development-economics.chapter-11.topic-04"
+  "topicId": "economics.development-economics.chapter-11.topic-04",
+  "description": "Learn about Green Growth and its applications in economics.",
+  "content": {
+    "overview": "Green Growth is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Green Growth. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Green Growth requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Green Growth is essential for mastering Development Economics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

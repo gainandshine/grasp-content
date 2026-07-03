@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is try-catch?",
+      "back": "try-catch is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is try-catch important?",
+      "back": "try-catch is essential for understanding Object-Oriented Programming.",
+      "difficulty": "medium"
+    }
+  ]
+}

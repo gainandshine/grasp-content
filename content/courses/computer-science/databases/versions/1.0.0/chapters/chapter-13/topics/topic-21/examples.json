@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Software Maintenance",
+      "content": "A practical example demonstrating Software Maintenance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "software-maintenance"
+      ]
+    }
+  ]
+}

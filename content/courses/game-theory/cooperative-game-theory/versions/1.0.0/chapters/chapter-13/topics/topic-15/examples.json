@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Revenue Equivalence",
+      "content": "A practical example demonstrating Revenue Equivalence",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "revenue-equivalence"
+      ]
+    }
+  ]
+}

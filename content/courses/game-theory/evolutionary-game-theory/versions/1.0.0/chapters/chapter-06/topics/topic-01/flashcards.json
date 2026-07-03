@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hawk-Dove Game?",
+      "back": "Hawk-Dove Game is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hawk-Dove Game important?",
+      "back": "Hawk-Dove Game is essential for understanding Evolutionary Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

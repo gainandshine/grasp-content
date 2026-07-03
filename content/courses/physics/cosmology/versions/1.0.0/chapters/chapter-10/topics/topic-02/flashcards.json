@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Big Crunch?",
+      "back": "Big Crunch is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Big Crunch important?",
+      "back": "Big Crunch is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

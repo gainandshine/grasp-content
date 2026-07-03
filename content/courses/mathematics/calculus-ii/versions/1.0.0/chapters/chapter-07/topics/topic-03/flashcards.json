@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Interval of Convergence?",
+      "back": "Interval of Convergence is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Interval of Convergence important?",
+      "back": "Interval of Convergence is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

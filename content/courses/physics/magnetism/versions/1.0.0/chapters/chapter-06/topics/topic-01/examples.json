@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnetization",
+      "content": "A practical example demonstrating Magnetization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "magnetization"
+      ]
+    }
+  ]
+}

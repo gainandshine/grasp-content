@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pigouvian Taxes",
+      "content": "A practical example demonstrating Pigouvian Taxes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "pigouvian-taxes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Conservation of Mass",
+      "content": "A practical example demonstrating Conservation of Mass",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "conservation-of-mass"
+      ]
+    }
+  ]
+}

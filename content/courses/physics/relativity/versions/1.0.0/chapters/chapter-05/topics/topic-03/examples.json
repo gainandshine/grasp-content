@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Light Cones",
+      "content": "A practical example demonstrating Light Cones",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "light-cones"
+      ]
+    }
+  ]
+}

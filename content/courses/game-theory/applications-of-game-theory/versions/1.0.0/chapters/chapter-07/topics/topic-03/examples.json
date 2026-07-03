@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Blockchain Consensus",
+      "content": "A practical example demonstrating Blockchain Consensus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "blockchain-consensus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sports Psychology",
+      "content": "A practical example demonstrating Sports Psychology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "sports-psychology"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 5: Ethics**",
+      "content": "A practical example demonstrating *Course 5: Ethics**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "course-5-ethics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Forecast Evaluation",
+      "content": "A practical example demonstrating Forecast Evaluation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "forecast-evaluation"
+      ]
+    }
+  ]
+}

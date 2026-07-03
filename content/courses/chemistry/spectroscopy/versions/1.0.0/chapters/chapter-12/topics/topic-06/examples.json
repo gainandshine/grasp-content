@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Materials Characterization",
+      "content": "A practical example demonstrating Materials Characterization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "materials-characterization"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Price Discovery",
+      "content": "A practical example demonstrating Price Discovery",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "price-discovery"
+      ]
+    }
+  ]
+}

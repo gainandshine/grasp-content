@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Protein Function",
+      "content": "A practical example demonstrating Protein Function",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "protein-function"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dynamic Programming",
+      "content": "A practical example demonstrating Dynamic Programming",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "dynamic-programming"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Persistent Objects?",
+      "back": "Persistent Objects is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Persistent Objects important?",
+      "back": "Persistent Objects is essential for understanding Object-Oriented Programming.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Language & Thought",
+      "content": "A practical example demonstrating Language & Thought",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "language-thought"
+      ]
+    }
+  ]
+}

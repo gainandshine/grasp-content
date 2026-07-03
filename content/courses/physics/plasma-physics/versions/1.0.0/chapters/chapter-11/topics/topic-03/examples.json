@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plasma Coating",
+      "content": "A practical example demonstrating Plasma Coating",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "plasma-coating"
+      ]
+    }
+  ]
+}

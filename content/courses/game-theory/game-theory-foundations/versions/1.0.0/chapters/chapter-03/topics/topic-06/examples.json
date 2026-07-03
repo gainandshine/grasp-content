@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Symmetric vs Asymmetric Games",
+      "content": "A practical example demonstrating Symmetric vs Asymmetric Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "symmetric-vs-asymmetric-games"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scanning Electron Microscopy (SEM)",
+      "content": "A practical example demonstrating Scanning Electron Microscopy (SEM)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "scanning-electron-microscopy-sem"
+      ]
+    }
+  ]
+}

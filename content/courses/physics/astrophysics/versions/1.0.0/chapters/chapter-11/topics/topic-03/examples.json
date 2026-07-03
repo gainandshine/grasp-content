@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cosmic Rays",
+      "content": "A practical example demonstrating Cosmic Rays",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "cosmic-rays"
+      ]
+    }
+  ]
+}

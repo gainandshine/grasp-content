@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Minimum Cut",
+      "content": "A practical example demonstrating Minimum Cut",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "minimum-cut"
+      ]
+    }
+  ]
+}

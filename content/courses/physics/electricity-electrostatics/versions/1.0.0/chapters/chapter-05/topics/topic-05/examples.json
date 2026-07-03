@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Infinite Plane Sheet",
+      "content": "A practical example demonstrating Infinite Plane Sheet",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "infinite-plane-sheet"
+      ]
+    }
+  ]
+}

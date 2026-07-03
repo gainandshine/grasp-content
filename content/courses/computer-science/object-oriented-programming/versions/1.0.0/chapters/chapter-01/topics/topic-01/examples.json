@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Procedural vs Object-Oriented Programming",
+      "content": "A practical example demonstrating Procedural vs Object-Oriented Programming",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "procedural-vs-object-oriented-programming"
+      ]
+    }
+  ]
+}

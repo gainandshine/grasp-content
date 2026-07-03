@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Functional Requirements",
+      "content": "A practical example demonstrating Functional Requirements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "functional-requirements"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Soil pH",
+      "content": "A practical example demonstrating Soil pH",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "soil-ph"
+      ]
+    }
+  ]
+}

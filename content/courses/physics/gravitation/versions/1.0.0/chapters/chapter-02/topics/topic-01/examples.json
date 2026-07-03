@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gravitational Field",
+      "content": "A practical example demonstrating Gravitational Field",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "gravitational-field"
+      ]
+    }
+  ]
+}

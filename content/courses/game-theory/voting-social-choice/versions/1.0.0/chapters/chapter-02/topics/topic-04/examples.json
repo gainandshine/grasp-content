@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Social Choice Functions",
+      "content": "A practical example demonstrating Social Choice Functions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "social-choice-functions"
+      ]
+    }
+  ]
+}

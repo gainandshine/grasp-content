@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Area of a Triangle?",
+      "back": "Area of a Triangle is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Area of a Triangle important?",
+      "back": "Area of a Triangle is essential for understanding Trigonometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

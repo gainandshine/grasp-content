@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Principal Component Analysis (PCA)",
+      "content": "A practical example demonstrating Principal Component Analysis (PCA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "principal-component-analysis-pca"
+      ]
+    }
+  ]
+}

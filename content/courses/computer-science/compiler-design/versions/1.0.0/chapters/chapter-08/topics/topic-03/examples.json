@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heap Memory",
+      "content": "A practical example demonstrating Heap Memory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "heap-memory"
+      ]
+    }
+  ]
+}

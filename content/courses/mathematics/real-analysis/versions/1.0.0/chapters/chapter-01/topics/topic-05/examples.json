@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Archimedean Property",
+      "content": "A practical example demonstrating Archimedean Property",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "archimedean-property"
+      ]
+    }
+  ]
+}

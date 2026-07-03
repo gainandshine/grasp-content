@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multicore Processors",
+      "content": "A practical example demonstrating Multicore Processors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "multicore-processors"
+      ]
+    }
+  ]
+}

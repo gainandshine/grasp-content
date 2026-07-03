@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI Accelerators",
+      "content": "A practical example demonstrating AI Accelerators",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ai-accelerators"
+      ]
+    }
+  ]
+}

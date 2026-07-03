@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: **Discrete Mathematics**",
+      "content": "A practical example demonstrating **Discrete Mathematics**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "discrete-mathematics"
+      ]
+    }
+  ]
+}

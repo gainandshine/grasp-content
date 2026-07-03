@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coffee Cup Calorimeter",
+      "content": "A practical example demonstrating Coffee Cup Calorimeter",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "coffee-cup-calorimeter"
+      ]
+    }
+  ]
+}

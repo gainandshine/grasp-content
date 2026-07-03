@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cambrian Explosion?",
+      "back": "Cambrian Explosion is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cambrian Explosion important?",
+      "back": "Cambrian Explosion is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

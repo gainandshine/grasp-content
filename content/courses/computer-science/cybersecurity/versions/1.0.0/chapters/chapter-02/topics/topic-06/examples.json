@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Public Key Infrastructure (PKI)",
+      "content": "A practical example demonstrating Public Key Infrastructure (PKI)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "public-key-infrastructure-pki"
+      ]
+    }
+  ]
+}

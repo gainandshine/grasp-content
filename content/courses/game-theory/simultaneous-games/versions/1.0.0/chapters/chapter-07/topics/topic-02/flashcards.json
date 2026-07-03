@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multiple Equilibria?",
+      "back": "Multiple Equilibria is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multiple Equilibria important?",
+      "back": "Multiple Equilibria is essential for understanding Simultaneous Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dielectric Constant",
+      "content": "A practical example demonstrating Dielectric Constant",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dielectric-constant"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-13",
   "name": "Schizophrenia Spectrum Disorders",
-  "description": "Learn about Schizophrenia Spectrum Disorders",
-  "conceptId": "psychology.learning-behavior.chapter-13.topic-13"
+  "topicId": "psychology.learning-behavior.chapter-13.topic-13",
+  "description": "Learn about Schizophrenia Spectrum Disorders and its applications in psychology.",
+  "content": {
+    "overview": "Schizophrenia Spectrum Disorders is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Schizophrenia Spectrum Disorders. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Schizophrenia Spectrum Disorders requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Schizophrenia Spectrum Disorders is essential for mastering Learning & Behavior. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

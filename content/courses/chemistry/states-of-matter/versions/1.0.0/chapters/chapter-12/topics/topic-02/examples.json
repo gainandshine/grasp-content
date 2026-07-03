@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Air Conditioning",
+      "content": "A practical example demonstrating Air Conditioning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "air-conditioning"
+      ]
+    }
+  ]
+}

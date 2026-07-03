@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Exchange Rate Models",
+      "content": "A practical example demonstrating Exchange Rate Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "exchange-rate-models"
+      ]
+    }
+  ]
+}

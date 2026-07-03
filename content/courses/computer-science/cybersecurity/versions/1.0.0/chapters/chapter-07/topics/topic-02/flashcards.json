@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Shared Responsibility Model?",
+      "back": "Shared Responsibility Model is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Shared Responsibility Model important?",
+      "back": "Shared Responsibility Model is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

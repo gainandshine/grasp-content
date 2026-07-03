@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Growth & Decay Models?",
+      "back": "Growth & Decay Models is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Growth & Decay Models important?",
+      "back": "Growth & Decay Models is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

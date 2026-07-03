@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Repeated Decision Algorithms?",
+      "back": "Repeated Decision Algorithms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Repeated Decision Algorithms important?",
+      "back": "Repeated Decision Algorithms is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

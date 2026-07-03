@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Semiconductor Materials",
+      "content": "A practical example demonstrating Semiconductor Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "semiconductor-materials"
+      ]
+    }
+  ]
+}

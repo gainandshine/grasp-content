@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Serverless Computing",
+      "content": "A practical example demonstrating Serverless Computing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "serverless-computing"
+      ]
+    }
+  ]
+}

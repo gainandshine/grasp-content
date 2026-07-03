@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bootstrapping?",
+      "back": "Bootstrapping is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bootstrapping important?",
+      "back": "Bootstrapping is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

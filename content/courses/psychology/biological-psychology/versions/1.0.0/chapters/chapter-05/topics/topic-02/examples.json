@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pituitary Gland",
+      "content": "A practical example demonstrating Pituitary Gland",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "pituitary-gland"
+      ]
+    }
+  ]
+}

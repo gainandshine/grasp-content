@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Boundary?",
+      "back": "Boundary is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Boundary important?",
+      "back": "Boundary is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

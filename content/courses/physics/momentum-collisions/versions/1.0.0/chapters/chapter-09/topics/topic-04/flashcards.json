@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Crash Analysis?",
+      "back": "Crash Analysis is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Crash Analysis important?",
+      "back": "Crash Analysis is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

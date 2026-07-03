@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Biomedical Implants?",
+      "back": "Biomedical Implants is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Biomedical Implants important?",
+      "back": "Biomedical Implants is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

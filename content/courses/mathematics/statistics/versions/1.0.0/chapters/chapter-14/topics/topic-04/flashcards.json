@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Outlier Detection?",
+      "back": "Outlier Detection is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Outlier Detection important?",
+      "back": "Outlier Detection is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

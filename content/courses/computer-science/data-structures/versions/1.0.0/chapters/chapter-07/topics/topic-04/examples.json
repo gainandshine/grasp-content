@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Tree Traversals",
+      "content": "A practical example demonstrating Tree Traversals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "tree-traversals"
+      ]
+    }
+  ]
+}

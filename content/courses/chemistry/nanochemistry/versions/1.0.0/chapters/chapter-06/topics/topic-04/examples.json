@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scanning Tunneling Microscopy (STM)",
+      "content": "A practical example demonstrating Scanning Tunneling Microscopy (STM)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "scanning-tunneling-microscopy-stm"
+      ]
+    }
+  ]
+}

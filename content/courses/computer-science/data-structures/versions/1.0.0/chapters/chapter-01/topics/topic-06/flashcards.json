@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Choosing the Right Data Structure?",
+      "back": "Choosing the Right Data Structure is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Choosing the Right Data Structure important?",
+      "back": "Choosing the Right Data Structure is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

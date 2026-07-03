@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Battery Optimization?",
+      "back": "Battery Optimization is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Battery Optimization important?",
+      "back": "Battery Optimization is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

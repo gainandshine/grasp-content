@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Control Flow Graphs",
+      "content": "A practical example demonstrating Control Flow Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "control-flow-graphs"
+      ]
+    }
+  ]
+}

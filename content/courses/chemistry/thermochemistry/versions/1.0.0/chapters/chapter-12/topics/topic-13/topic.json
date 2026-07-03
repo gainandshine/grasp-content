@@ -1,6 +1,16 @@
 {
   "id": "topic-13",
   "name": "Solubility Equilibria",
-  "description": "Learn about Solubility Equilibria",
-  "conceptId": "chemistry.thermochemistry.chapter-12.topic-13"
+  "topicId": "chemistry.thermochemistry.chapter-12.topic-13",
+  "description": "Learn about Solubility Equilibria and its applications in chemistry.",
+  "content": {
+    "overview": "Solubility Equilibria is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Solubility Equilibria. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Solubility Equilibria requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Solubility Equilibria is essential for mastering Thermochemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

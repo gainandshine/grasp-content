@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Transfer RNA (tRNA)?",
+      "back": "Transfer RNA (tRNA) is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Transfer RNA (tRNA) important?",
+      "back": "Transfer RNA (tRNA) is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

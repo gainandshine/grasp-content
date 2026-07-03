@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon Atom",
+      "content": "A practical example demonstrating Carbon Atom",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "carbon-atom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Incentives?",
+      "back": "Incentives is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Incentives important?",
+      "back": "Incentives is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

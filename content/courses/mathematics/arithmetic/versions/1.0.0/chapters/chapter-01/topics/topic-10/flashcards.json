@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ordering Numbers?",
+      "back": "Ordering Numbers is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ordering Numbers important?",
+      "back": "Ordering Numbers is essential for understanding Arithmetic.",
+      "difficulty": "medium"
+    }
+  ]
+}

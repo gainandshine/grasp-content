@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Test Cross",
+      "content": "A practical example demonstrating Test Cross",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "test-cross"
+      ]
+    }
+  ]
+}

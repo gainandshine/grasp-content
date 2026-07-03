@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Plasmonics?",
+      "back": "Plasmonics is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Plasmonics important?",
+      "back": "Plasmonics is essential for understanding Nanochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

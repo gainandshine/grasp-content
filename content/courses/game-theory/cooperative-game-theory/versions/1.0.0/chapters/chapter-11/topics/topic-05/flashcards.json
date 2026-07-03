@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multi-Robot Systems?",
+      "back": "Multi-Robot Systems is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multi-Robot Systems important?",
+      "back": "Multi-Robot Systems is essential for understanding Cooperative Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

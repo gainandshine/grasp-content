@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is What is Mechanism Design??",
+      "back": "What is Mechanism Design? is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is What is Mechanism Design? important?",
+      "back": "What is Mechanism Design? is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time-Dependent Schrödinger Equation",
+      "content": "A practical example demonstrating Time-Dependent Schrödinger Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "time-dependent-schrdinger-equation"
+      ]
+    }
+  ]
+}

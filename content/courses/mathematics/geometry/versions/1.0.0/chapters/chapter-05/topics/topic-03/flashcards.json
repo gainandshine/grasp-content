@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is ASA?",
+      "back": "ASA is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is ASA important?",
+      "back": "ASA is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

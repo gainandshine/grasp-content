@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Elimination of Dominated Strategies",
+      "content": "A practical example demonstrating Elimination of Dominated Strategies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "elimination-of-dominated-strategies"
+      ]
+    }
+  ]
+}

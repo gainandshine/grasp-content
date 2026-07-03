@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Van der Waals Forces?",
+      "back": "Van der Waals Forces is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Van der Waals Forces important?",
+      "back": "Van der Waals Forces is essential for understanding Chemical Bonding.",
+      "difficulty": "medium"
+    }
+  ]
+}

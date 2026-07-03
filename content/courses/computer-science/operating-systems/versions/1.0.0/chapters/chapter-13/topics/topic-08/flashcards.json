@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 8: Computer Networks**?",
+      "back": "*Course 8: Computer Networks** is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 8: Computer Networks** important?",
+      "back": "*Course 8: Computer Networks** is essential for understanding Operating Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

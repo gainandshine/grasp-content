@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cement?",
+      "back": "Cement is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cement important?",
+      "back": "Cement is essential for understanding Nuclear Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

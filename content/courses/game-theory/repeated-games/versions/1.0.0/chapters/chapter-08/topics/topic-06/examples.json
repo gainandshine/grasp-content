@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Long-Term Stability",
+      "content": "A practical example demonstrating Long-Term Stability",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "long-term-stability"
+      ]
+    }
+  ]
+}

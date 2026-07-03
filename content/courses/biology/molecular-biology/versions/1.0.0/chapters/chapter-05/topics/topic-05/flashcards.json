@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Introns?",
+      "back": "Introns is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Introns important?",
+      "back": "Introns is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

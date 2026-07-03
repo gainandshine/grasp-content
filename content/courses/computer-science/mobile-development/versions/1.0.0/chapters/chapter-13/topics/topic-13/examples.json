@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Databases at Scale",
+      "content": "A practical example demonstrating Databases at Scale",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "databases-at-scale"
+      ]
+    }
+  ]
+}

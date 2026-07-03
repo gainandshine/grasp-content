@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Credible Threats?",
+      "back": "Credible Threats is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Credible Threats important?",
+      "back": "Credible Threats is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

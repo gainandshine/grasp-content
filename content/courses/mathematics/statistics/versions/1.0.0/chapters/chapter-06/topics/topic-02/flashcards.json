@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Central Limit Theorem?",
+      "back": "Central Limit Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Central Limit Theorem important?",
+      "back": "Central Limit Theorem is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

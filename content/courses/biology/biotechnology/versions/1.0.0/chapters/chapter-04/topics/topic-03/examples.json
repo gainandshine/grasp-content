@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Whole Genome Sequencing",
+      "content": "A practical example demonstrating Whole Genome Sequencing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "whole-genome-sequencing"
+      ]
+    }
+  ]
+}

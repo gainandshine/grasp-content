@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Catalyst Regeneration",
-  "description": "Learn about Catalyst Regeneration",
-  "conceptId": "chemistry.industrial-chemistry.chapter-03.topic-06"
+  "topicId": "chemistry.industrial-chemistry.chapter-03.topic-06",
+  "description": "Learn about Catalyst Regeneration and its applications in chemistry.",
+  "content": {
+    "overview": "Catalyst Regeneration is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Catalyst Regeneration. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Catalyst Regeneration requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Catalyst Regeneration is essential for mastering Industrial Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

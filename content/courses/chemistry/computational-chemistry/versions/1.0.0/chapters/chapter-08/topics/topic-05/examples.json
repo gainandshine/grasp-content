@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Free Energy Calculations",
+      "content": "A practical example demonstrating Free Energy Calculations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "free-energy-calculations"
+      ]
+    }
+  ]
+}

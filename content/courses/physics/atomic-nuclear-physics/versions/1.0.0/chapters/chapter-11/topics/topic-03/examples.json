@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radiation Therapy",
+      "content": "A practical example demonstrating Radiation Therapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "radiation-therapy"
+      ]
+    }
+  ]
+}

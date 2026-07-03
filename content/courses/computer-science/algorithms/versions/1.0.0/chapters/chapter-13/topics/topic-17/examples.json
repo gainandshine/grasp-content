@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Memory Hierarchy",
+      "content": "A practical example demonstrating Memory Hierarchy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "memory-hierarchy"
+      ]
+    }
+  ]
+}

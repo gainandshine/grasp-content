@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Phase Diagram",
+      "content": "A practical example demonstrating Phase Diagram",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "phase-diagram"
+      ]
+    }
+  ]
+}

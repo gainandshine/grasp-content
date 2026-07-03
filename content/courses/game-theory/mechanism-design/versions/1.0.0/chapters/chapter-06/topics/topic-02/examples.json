@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Matching Algorithms",
+      "content": "A practical example demonstrating Matching Algorithms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "matching-algorithms"
+      ]
+    }
+  ]
+}

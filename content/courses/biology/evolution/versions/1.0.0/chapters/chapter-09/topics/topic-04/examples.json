@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Homo habilis",
+      "content": "A practical example demonstrating Homo habilis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "homo-habilis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dalton's Atomic Theory",
+      "content": "A practical example demonstrating Dalton's Atomic Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "daltons-atomic-theory"
+      ]
+    }
+  ]
+}

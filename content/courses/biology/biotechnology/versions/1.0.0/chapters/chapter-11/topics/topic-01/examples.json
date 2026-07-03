@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Biological Databases",
+      "content": "A practical example demonstrating Biological Databases",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "biological-databases"
+      ]
+    }
+  ]
+}

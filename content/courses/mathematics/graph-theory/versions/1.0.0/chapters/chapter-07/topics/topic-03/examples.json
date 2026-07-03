@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bellman-Ford Algorithm",
+      "content": "A practical example demonstrating Bellman-Ford Algorithm",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "bellman-ford-algorithm"
+      ]
+    }
+  ]
+}

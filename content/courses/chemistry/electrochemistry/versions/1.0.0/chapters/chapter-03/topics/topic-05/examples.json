@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Salt Bridge",
+      "content": "A practical example demonstrating Salt Bridge",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "salt-bridge"
+      ]
+    }
+  ]
+}

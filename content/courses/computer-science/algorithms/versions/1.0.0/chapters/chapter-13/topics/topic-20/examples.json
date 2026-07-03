@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parallel Processing",
+      "content": "A practical example demonstrating Parallel Processing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "parallel-processing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mixed Strategy Equilibrium",
+      "content": "A practical example demonstrating Mixed Strategy Equilibrium",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "mixed-strategy-equilibrium"
+      ]
+    }
+  ]
+}

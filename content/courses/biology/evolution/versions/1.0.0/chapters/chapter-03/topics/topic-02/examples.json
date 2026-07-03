@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genetic Recombination",
+      "content": "A practical example demonstrating Genetic Recombination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "genetic-recombination"
+      ]
+    }
+  ]
+}

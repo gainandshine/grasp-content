@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cancer Therapy",
+      "content": "A practical example demonstrating Cancer Therapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cancer-therapy"
+      ]
+    }
+  ]
+}

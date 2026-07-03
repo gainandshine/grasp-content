@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quantum Chromodynamics (Introduction)",
+      "content": "A practical example demonstrating Quantum Chromodynamics (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "quantum-chromodynamics-introduction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Springs in Parallel",
+      "content": "A practical example demonstrating Springs in Parallel",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "springs-in-parallel"
+      ]
+    }
+  ]
+}

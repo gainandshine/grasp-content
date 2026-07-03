@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Majority Rule",
+      "content": "A practical example demonstrating Majority Rule",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "majority-rule"
+      ]
+    }
+  ]
+}

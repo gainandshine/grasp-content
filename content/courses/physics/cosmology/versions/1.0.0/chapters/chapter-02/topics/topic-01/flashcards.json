@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hubble's Discovery?",
+      "back": "Hubble's Discovery is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hubble's Discovery important?",
+      "back": "Hubble's Discovery is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

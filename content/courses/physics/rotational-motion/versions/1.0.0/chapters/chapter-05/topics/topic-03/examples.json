@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Torque & Angular Acceleration",
+      "content": "A practical example demonstrating Torque & Angular Acceleration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "torque-angular-acceleration"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Polarized Light",
+      "content": "A practical example demonstrating Polarized Light",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "polarized-light"
+      ]
+    }
+  ]
+}

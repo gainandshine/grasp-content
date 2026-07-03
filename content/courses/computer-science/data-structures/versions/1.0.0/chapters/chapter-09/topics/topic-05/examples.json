@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dictionary Applications",
+      "content": "A practical example demonstrating Dictionary Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "dictionary-applications"
+      ]
+    }
+  ]
+}

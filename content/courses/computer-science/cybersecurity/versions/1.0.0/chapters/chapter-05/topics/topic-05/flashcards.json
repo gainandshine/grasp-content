@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Session Management?",
+      "back": "Session Management is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Session Management important?",
+      "back": "Session Management is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

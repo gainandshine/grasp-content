@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Selection Sort",
+      "content": "A practical example demonstrating Selection Sort",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "selection-sort"
+      ]
+    }
+  ]
+}

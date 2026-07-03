@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Isochoric Process",
+      "content": "A practical example demonstrating Isochoric Process",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "isochoric-process"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Heap Sort?",
+      "back": "Heap Sort is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Heap Sort important?",
+      "back": "Heap Sort is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

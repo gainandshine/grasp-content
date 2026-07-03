@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Unit Auctions",
+      "content": "A practical example demonstrating Multi-Unit Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "multi-unit-auctions"
+      ]
+    }
+  ]
+}

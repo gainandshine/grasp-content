@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Remote Method Invocation (RMI)",
-  "description": "Learn about Remote Method Invocation (RMI)",
-  "conceptId": "computer-science.distributed-systems.chapter-02.topic-02"
+  "topicId": "computer-science.distributed-systems.chapter-02.topic-02",
+  "description": "Learn about Remote Method Invocation (RMI) and its applications in computer-science.",
+  "content": {
+    "overview": "Remote Method Invocation (RMI) is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Remote Method Invocation (RMI). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Remote Method Invocation (RMI) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Remote Method Invocation (RMI) is essential for mastering Distributed Systems. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Optical Sensors",
+      "content": "A practical example demonstrating Optical Sensors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "optical-sensors"
+      ]
+    }
+  ]
+}

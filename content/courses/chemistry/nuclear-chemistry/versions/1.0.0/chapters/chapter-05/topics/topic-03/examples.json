@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Critical Mass",
+      "content": "A practical example demonstrating Critical Mass",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "critical-mass"
+      ]
+    }
+  ]
+}

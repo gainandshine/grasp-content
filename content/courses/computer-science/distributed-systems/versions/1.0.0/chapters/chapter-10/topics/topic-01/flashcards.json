@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Batch Processing?",
+      "back": "Batch Processing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Batch Processing important?",
+      "back": "Batch Processing is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

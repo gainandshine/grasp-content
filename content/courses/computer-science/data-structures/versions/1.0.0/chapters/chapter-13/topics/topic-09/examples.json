@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Algorithm Analysis",
+      "content": "A practical example demonstrating Algorithm Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "algorithm-analysis"
+      ]
+    }
+  ]
+}

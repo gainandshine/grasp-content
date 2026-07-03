@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Urban Development",
+      "content": "A practical example demonstrating Urban Development",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "urban-development"
+      ]
+    }
+  ]
+}

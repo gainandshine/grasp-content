@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Physics-Based Animation",
+      "content": "A practical example demonstrating Physics-Based Animation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "physics-based-animation"
+      ]
+    }
+  ]
+}

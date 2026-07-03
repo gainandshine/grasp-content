@@ -1,10 +1,11 @@
 {
   "id": "states-of-matter",
   "title": "States of Matter",
-  "description": "This course explains **why matter exists as solids, liquids, gases, and plasma**, and how temperature, pressure, and intermolecular forces determine their behavior.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:15.421Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.253Z"
 }

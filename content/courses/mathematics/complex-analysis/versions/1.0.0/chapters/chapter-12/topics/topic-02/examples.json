@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Liouville's Theorem",
+      "content": "A practical example demonstrating Liouville's Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "liouvilles-theorem"
+      ]
+    }
+  ]
+}

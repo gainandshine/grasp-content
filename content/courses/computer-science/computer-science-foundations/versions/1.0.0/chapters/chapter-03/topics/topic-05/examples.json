@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Decimal, Binary & Hexadecimal",
+      "content": "A practical example demonstrating Decimal, Binary & Hexadecimal",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "decimal-binary-hexadecimal"
+      ]
+    }
+  ]
+}

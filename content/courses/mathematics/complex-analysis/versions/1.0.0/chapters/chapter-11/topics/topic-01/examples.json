@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fourier Transform",
+      "content": "A practical example demonstrating Fourier Transform",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "fourier-transform"
+      ]
+    }
+  ]
+}

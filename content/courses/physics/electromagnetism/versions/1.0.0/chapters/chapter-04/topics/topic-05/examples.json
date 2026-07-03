@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrical Resistance",
+      "content": "A practical example demonstrating Electrical Resistance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "electrical-resistance"
+      ]
+    }
+  ]
+}

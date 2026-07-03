@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Brownian Motion",
+      "content": "A practical example demonstrating Brownian Motion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "brownian-motion"
+      ]
+    }
+  ]
+}

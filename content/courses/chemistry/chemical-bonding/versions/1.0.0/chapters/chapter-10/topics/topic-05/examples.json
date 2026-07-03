@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Predicting Molecular Polarity",
+      "content": "A practical example demonstrating Predicting Molecular Polarity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "predicting-molecular-polarity"
+      ]
+    }
+  ]
+}

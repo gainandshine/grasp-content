@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Flexible Electronics?",
+      "back": "Flexible Electronics is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Flexible Electronics important?",
+      "back": "Flexible Electronics is essential for understanding Nanochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

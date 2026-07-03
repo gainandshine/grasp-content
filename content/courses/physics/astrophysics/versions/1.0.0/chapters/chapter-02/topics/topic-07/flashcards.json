@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Adaptive Optics?",
+      "back": "Adaptive Optics is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Adaptive Optics important?",
+      "back": "Adaptive Optics is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

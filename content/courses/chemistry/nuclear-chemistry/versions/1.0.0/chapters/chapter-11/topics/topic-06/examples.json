@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radiation Protection",
+      "content": "A practical example demonstrating Radiation Protection",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radiation-protection"
+      ]
+    }
+  ]
+}

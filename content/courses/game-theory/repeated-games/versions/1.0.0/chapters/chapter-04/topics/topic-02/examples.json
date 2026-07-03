@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mutual Benefit",
+      "content": "A practical example demonstrating Mutual Benefit",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "mutual-benefit"
+      ]
+    }
+  ]
+}

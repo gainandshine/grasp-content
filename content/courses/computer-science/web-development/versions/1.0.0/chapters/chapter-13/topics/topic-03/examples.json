@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Social Media Applications",
+      "content": "A practical example demonstrating Social Media Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "social-media-applications"
+      ]
+    }
+  ]
+}

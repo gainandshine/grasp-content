@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Sorting (Introduction)?",
+      "back": "Sorting (Introduction) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Sorting (Introduction) important?",
+      "back": "Sorting (Introduction) is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

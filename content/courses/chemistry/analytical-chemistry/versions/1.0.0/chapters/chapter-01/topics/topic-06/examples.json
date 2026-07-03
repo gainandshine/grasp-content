@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Accuracy & Precision",
+      "content": "A practical example demonstrating Accuracy & Precision",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "accuracy-precision"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Directed Graphs",
+      "content": "A practical example demonstrating Directed Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "directed-graphs"
+      ]
+    }
+  ]
+}

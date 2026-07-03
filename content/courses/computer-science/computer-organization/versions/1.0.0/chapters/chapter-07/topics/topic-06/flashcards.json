@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Memory-Mapped I/O?",
+      "back": "Memory-Mapped I/O is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Memory-Mapped I/O important?",
+      "back": "Memory-Mapped I/O is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

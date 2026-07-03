@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Undirected Graphs",
+      "content": "A practical example demonstrating Undirected Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "undirected-graphs"
+      ]
+    }
+  ]
+}

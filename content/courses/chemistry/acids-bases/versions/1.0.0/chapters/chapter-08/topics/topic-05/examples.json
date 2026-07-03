@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Methyl Orange",
+      "content": "A practical example demonstrating Methyl Orange",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "methyl-orange"
+      ]
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "id": "voting-social-choice",
   "title": "Voting & Social Choice",
-  "description": "This course studies **how groups combine individual preferences into collective decisions**. It explores voting systems, fairness, strategic voting, and the mathematical limits of collective decision-making.",
   "version": "1.0.0",
+  "domain": "game-theory",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:23.903Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.451Z"
 }

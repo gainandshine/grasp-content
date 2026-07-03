@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ideal Gas Equation",
+      "content": "A practical example demonstrating Ideal Gas Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ideal-gas-equation"
+      ]
+    }
+  ]
+}

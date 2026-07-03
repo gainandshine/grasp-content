@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ionic Crystals",
+      "content": "A practical example demonstrating Ionic Crystals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ionic-crystals"
+      ]
+    }
+  ]
+}

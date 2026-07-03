@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Honest Signaling",
+      "content": "A practical example demonstrating Honest Signaling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "honest-signaling"
+      ]
+    }
+  ]
+}

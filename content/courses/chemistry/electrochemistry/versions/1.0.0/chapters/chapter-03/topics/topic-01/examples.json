@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrochemical Cell",
+      "content": "A practical example demonstrating Electrochemical Cell",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electrochemical-cell"
+      ]
+    }
+  ]
+}

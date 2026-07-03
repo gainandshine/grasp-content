@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Performance Optimization",
+      "content": "A practical example demonstrating Performance Optimization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "performance-optimization"
+      ]
+    }
+  ]
+}

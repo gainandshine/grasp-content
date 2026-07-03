@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Tree Search Algorithms?",
+      "back": "Tree Search Algorithms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Tree Search Algorithms important?",
+      "back": "Tree Search Algorithms is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

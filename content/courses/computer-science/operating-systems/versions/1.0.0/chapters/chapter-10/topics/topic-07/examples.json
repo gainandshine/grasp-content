@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Operating System Hardening",
+      "content": "A practical example demonstrating Operating System Hardening",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "operating-system-hardening"
+      ]
+    }
+  ]
+}

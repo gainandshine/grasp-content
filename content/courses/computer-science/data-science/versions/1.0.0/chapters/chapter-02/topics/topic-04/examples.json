@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Web Scraping",
+      "content": "A practical example demonstrating Web Scraping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "web-scraping"
+      ]
+    }
+  ]
+}

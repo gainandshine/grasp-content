@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Engineering Applications",
+      "content": "A practical example demonstrating Chemical Engineering Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "chemical-engineering-applications"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Antiderivatives",
+      "content": "A practical example demonstrating Antiderivatives",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "antiderivatives"
+      ]
+    }
+  ]
+}

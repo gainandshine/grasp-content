@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Remote Sensing",
+      "content": "A practical example demonstrating Remote Sensing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "remote-sensing"
+      ]
+    }
+  ]
+}

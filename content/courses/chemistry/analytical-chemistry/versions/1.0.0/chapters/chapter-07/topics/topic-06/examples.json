@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: High-Performance Liquid Chromatography (HPLC)",
+      "content": "A practical example demonstrating High-Performance Liquid Chromatography (HPLC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "high-performance-liquid-chromatography-hplc"
+      ]
+    }
+  ]
+}

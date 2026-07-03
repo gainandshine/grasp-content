@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Interferometry",
+      "content": "A practical example demonstrating Interferometry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "interferometry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medieval Philosophy",
+      "content": "A practical example demonstrating Medieval Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "medieval-philosophy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Intrusion Detection Systems (IDS)",
+      "content": "A practical example demonstrating Intrusion Detection Systems (IDS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "intrusion-detection-systems-ids"
+      ]
+    }
+  ]
+}

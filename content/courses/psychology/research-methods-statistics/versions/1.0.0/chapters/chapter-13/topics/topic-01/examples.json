@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Meta-Analysis",
+      "content": "A practical example demonstrating Meta-Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "meta-analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: State Vectors",
+      "content": "A practical example demonstrating State Vectors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "state-vectors"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Observable Quantities",
+      "content": "A practical example demonstrating Observable Quantities",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "observable-quantities"
+      ]
+    }
+  ]
+}

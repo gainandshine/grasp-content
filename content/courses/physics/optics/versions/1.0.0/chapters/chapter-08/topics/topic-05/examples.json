@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rayleigh Criterion",
+      "content": "A practical example demonstrating Rayleigh Criterion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rayleigh-criterion"
+      ]
+    }
+  ]
+}

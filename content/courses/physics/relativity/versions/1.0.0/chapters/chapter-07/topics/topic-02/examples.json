@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stress-Energy Tensor",
+      "content": "A practical example demonstrating Stress-Energy Tensor",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "stress-energy-tensor"
+      ]
+    }
+  ]
+}

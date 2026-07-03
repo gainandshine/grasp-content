@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Measuring pH?",
+      "back": "Measuring pH is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Measuring pH important?",
+      "back": "Measuring pH is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

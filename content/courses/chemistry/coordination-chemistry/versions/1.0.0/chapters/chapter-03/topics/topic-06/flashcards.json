@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Geometry Prediction?",
+      "back": "Geometry Prediction is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Geometry Prediction important?",
+      "back": "Geometry Prediction is essential for understanding Coordination Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

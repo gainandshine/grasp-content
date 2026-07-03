@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "id": "q-01",
+      "type": "multiple-choice",
+      "question": "Which statement best describes Condorcet Paradox?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q-02",
+      "type": "true-false",
+      "question": "Condorcet Paradox is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Condorcet Paradox has many practical applications.",
+      "difficulty": "easy"
+    }
+  ]
+}

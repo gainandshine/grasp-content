@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Type II Superconductors",
+      "content": "A practical example demonstrating Type II Superconductors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "type-ii-superconductors"
+      ]
+    }
+  ]
+}

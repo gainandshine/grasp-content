@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Horizontal Range?",
+      "back": "Horizontal Range is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Horizontal Range important?",
+      "back": "Horizontal Range is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

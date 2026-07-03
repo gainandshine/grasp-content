@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 6: Computer Organization**",
+      "content": "A practical example demonstrating *Course 6: Computer Organization**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-6-computer-organization"
+      ]
+    }
+  ]
+}

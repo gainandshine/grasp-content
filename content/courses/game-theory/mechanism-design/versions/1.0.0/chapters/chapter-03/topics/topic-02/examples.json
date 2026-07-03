@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dominant Strategy Incentive Compatibility (DSIC)",
+      "content": "A practical example demonstrating Dominant Strategy Incentive Compatibility (DSIC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "dominant-strategy-incentive-compatibility-dsic"
+      ]
+    }
+  ]
+}

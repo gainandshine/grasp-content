@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Economics?",
+      "back": "Economics is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Economics important?",
+      "back": "Economics is essential for understanding Philosophy of Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

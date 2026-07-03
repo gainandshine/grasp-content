@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reduced Row Echelon Form",
+      "content": "A practical example demonstrating Reduced Row Echelon Form",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "reduced-row-echelon-form"
+      ]
+    }
+  ]
+}

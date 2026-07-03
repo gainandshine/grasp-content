@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Initial Value Problems",
+      "content": "A practical example demonstrating Initial Value Problems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "initial-value-problems"
+      ]
+    }
+  ]
+}

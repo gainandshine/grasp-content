@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Laplace Equation",
+      "content": "A practical example demonstrating Laplace Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "laplace-equation"
+      ]
+    }
+  ]
+}

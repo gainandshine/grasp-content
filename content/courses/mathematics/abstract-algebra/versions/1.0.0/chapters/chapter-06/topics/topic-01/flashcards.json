@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Definition of a Ring?",
+      "back": "Definition of a Ring is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Definition of a Ring important?",
+      "back": "Definition of a Ring is essential for understanding Abstract Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

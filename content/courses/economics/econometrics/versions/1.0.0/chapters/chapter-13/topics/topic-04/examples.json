@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spatial Econometrics",
+      "content": "A practical example demonstrating Spatial Econometrics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "spatial-econometrics"
+      ]
+    }
+  ]
+}

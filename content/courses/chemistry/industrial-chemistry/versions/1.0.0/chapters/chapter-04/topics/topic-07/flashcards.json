@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fuels?",
+      "back": "Fuels is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fuels important?",
+      "back": "Fuels is essential for understanding Industrial Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

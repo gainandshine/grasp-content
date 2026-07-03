@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is DNA Fingerprinting?",
+      "back": "DNA Fingerprinting is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is DNA Fingerprinting important?",
+      "back": "DNA Fingerprinting is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

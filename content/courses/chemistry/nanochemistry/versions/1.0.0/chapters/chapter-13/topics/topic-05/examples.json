@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nanorobotics",
+      "content": "A practical example demonstrating Nanorobotics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nanorobotics"
+      ]
+    }
+  ]
+}

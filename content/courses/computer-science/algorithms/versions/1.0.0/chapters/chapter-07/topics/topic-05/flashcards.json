@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fibonacci?",
+      "back": "Fibonacci is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fibonacci important?",
+      "back": "Fibonacci is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

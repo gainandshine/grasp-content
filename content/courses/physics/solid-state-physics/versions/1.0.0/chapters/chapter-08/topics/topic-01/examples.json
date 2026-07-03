@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: PN Junction",
+      "content": "A practical example demonstrating PN Junction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "pn-junction"
+      ]
+    }
+  ]
+}

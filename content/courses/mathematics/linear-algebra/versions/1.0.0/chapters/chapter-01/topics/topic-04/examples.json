@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gauss-Jordan Elimination",
+      "content": "A practical example demonstrating Gauss-Jordan Elimination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "gauss-jordan-elimination"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kinetic Molecular Theory",
+      "content": "A practical example demonstrating Kinetic Molecular Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "kinetic-molecular-theory"
+      ]
+    }
+  ]
+}

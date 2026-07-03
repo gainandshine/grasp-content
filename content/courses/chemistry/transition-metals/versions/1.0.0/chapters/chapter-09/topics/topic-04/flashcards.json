@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Iron?",
+      "back": "Iron is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Iron important?",
+      "back": "Iron is essential for understanding Transition Metals.",
+      "difficulty": "medium"
+    }
+  ]
+}

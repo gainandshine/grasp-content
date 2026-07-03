@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Big Freeze",
+      "content": "A practical example demonstrating Big Freeze",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "big-freeze"
+      ]
+    }
+  ]
+}

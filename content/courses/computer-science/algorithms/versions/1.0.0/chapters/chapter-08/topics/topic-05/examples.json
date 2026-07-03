@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Branch and Bound",
+      "content": "A practical example demonstrating Branch and Bound",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "branch-and-bound"
+      ]
+    }
+  ]
+}

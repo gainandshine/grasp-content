@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Immune Responses?",
+      "back": "Immune Responses is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Immune Responses important?",
+      "back": "Immune Responses is essential for understanding Immunology.",
+      "difficulty": "medium"
+    }
+  ]
+}

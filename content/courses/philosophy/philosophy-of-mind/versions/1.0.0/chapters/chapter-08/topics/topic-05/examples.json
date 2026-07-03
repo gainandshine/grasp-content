@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cognitive Architecture",
+      "content": "A practical example demonstrating Cognitive Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "cognitive-architecture"
+      ]
+    }
+  ]
+}

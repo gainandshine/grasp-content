@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stag Hunt",
+      "content": "A practical example demonstrating Stag Hunt",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "stag-hunt"
+      ]
+    }
+  ]
+}

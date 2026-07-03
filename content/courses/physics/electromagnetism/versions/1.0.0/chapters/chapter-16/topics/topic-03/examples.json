@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Series-Parallel Networks",
+      "content": "A practical example demonstrating Series-Parallel Networks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "series-parallel-networks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fluorescent Probes?",
+      "back": "Fluorescent Probes is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fluorescent Probes important?",
+      "back": "Fluorescent Probes is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

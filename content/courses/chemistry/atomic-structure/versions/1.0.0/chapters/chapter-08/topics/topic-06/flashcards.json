@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Noble Gas Configuration?",
+      "back": "Noble Gas Configuration is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Noble Gas Configuration important?",
+      "back": "Noble Gas Configuration is essential for understanding Atomic Structure.",
+      "difficulty": "medium"
+    }
+  ]
+}

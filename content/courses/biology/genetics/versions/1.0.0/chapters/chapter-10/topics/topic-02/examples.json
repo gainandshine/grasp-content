@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genome-Wide Association Studies (GWAS)",
+      "content": "A practical example demonstrating Genome-Wide Association Studies (GWAS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "genome-wide-association-studies-gwas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sound Intensity",
+      "content": "A practical example demonstrating Sound Intensity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "sound-intensity"
+      ]
+    }
+  ]
+}

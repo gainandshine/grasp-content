@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Semantic Networks",
+      "content": "A practical example demonstrating Semantic Networks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "semantic-networks"
+      ]
+    }
+  ]
+}

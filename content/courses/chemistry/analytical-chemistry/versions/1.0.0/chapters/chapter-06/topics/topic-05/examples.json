@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Centrifugation",
+      "content": "A practical example demonstrating Centrifugation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "centrifugation"
+      ]
+    }
+  ]
+}

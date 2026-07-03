@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Arrow's Axioms?",
+      "back": "Arrow's Axioms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Arrow's Axioms important?",
+      "back": "Arrow's Axioms is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

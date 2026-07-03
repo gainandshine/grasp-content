@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Insertion Sort",
+      "content": "A practical example demonstrating Insertion Sort",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "insertion-sort"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Database Cache?",
+      "back": "Database Cache is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Database Cache important?",
+      "back": "Database Cache is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

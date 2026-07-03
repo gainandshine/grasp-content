@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Isolated Vertices",
+      "content": "A practical example demonstrating Isolated Vertices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "isolated-vertices"
+      ]
+    }
+  ]
+}

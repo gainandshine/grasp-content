@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Band Gap",
+      "content": "A practical example demonstrating Band Gap",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "band-gap"
+      ]
+    }
+  ]
+}

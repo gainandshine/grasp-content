@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Internet of Things (IoT)",
+      "content": "A practical example demonstrating Internet of Things (IoT)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "internet-of-things-iot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: HIV/AIDS",
+      "content": "A practical example demonstrating HIV/AIDS",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "hivaids"
+      ]
+    }
+  ]
+}

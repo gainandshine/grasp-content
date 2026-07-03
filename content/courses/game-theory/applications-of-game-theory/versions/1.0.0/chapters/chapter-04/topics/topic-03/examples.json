@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Legislative Bargaining",
+      "content": "A practical example demonstrating Legislative Bargaining",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "legislative-bargaining"
+      ]
+    }
+  ]
+}

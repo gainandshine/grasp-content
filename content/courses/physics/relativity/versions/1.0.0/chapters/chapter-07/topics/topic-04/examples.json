@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Schwarzschild Solution (Overview)",
+      "content": "A practical example demonstrating Schwarzschild Solution (Overview)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "schwarzschild-solution-overview"
+      ]
+    }
+  ]
+}

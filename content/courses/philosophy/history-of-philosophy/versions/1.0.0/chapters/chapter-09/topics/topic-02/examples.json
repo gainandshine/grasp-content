@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Søren Kierkegaard",
+      "content": "A practical example demonstrating Søren Kierkegaard",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "sren-kierkegaard"
+      ]
+    }
+  ]
+}

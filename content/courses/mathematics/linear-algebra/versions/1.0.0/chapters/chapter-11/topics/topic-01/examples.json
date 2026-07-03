@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: LU Decomposition",
+      "content": "A practical example demonstrating LU Decomposition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "lu-decomposition"
+      ]
+    }
+  ]
+}

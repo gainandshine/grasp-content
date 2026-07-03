@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Data Preprocessing?",
+      "back": "Data Preprocessing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Data Preprocessing important?",
+      "back": "Data Preprocessing is essential for understanding Artificial Intelligence.",
+      "difficulty": "medium"
+    }
+  ]
+}

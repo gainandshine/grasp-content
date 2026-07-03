@@ -1,10 +1,11 @@
 {
   "id": "cell-biology",
   "title": "Cell Biology",
-  "description": "This course studies the **cell**, the fundamental unit of life. Students learn how cells are structured, how they function, how they communicate, and how they divide to support growth, repair, and reproduction.",
   "version": "1.0.0",
+  "domain": "biology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:17.258Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.298Z"
 }

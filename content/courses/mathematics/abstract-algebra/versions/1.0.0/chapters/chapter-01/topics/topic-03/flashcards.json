@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Binary Operations?",
+      "back": "Binary Operations is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Binary Operations important?",
+      "back": "Binary Operations is essential for understanding Abstract Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

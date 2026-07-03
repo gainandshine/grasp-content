@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Neuroimaging",
+      "content": "A practical example demonstrating Neuroimaging",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "neuroimaging"
+      ]
+    }
+  ]
+}

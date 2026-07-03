@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Perfect Information",
+      "content": "A practical example demonstrating Perfect Information",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "perfect-information"
+      ]
+    }
+  ]
+}

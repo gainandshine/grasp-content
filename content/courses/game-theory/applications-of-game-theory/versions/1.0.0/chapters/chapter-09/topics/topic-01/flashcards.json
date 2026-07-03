@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Attacker vs Defender Games?",
+      "back": "Attacker vs Defender Games is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Attacker vs Defender Games important?",
+      "back": "Attacker vs Defender Games is essential for understanding Applications of Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

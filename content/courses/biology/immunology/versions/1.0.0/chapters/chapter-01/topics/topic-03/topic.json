@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Immune Organs",
-  "description": "Learn about Immune Organs",
-  "conceptId": "biology.immunology.chapter-01.topic-03"
+  "topicId": "biology.immunology.chapter-01.topic-03",
+  "description": "Learn about Immune Organs and its applications in biology.",
+  "content": {
+    "overview": "Immune Organs is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Immune Organs. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Immune Organs requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Immune Organs is essential for mastering Immunology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

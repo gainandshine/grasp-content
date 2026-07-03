@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arrhenius Plot",
+      "content": "A practical example demonstrating Arrhenius Plot",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "arrhenius-plot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Rolling Objects on Inclines?",
+      "back": "Rolling Objects on Inclines is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Rolling Objects on Inclines important?",
+      "back": "Rolling Objects on Inclines is essential for understanding Rotational Motion.",
+      "difficulty": "medium"
+    }
+  ]
+}

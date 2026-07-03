@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Compiler Phases",
+      "content": "A practical example demonstrating Compiler Phases",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "compiler-phases"
+      ]
+    }
+  ]
+}

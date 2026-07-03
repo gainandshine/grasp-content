@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI Mechanisms",
+      "content": "A practical example demonstrating AI Mechanisms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "ai-mechanisms"
+      ]
+    }
+  ]
+}

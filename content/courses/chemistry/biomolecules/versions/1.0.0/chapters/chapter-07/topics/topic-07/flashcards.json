@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Genetic Code?",
+      "back": "Genetic Code is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Genetic Code important?",
+      "back": "Genetic Code is essential for understanding Biomolecules.",
+      "difficulty": "medium"
+    }
+  ]
+}

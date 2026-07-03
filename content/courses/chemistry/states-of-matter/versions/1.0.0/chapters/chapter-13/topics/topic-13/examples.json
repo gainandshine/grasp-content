@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gibbs Free Energy",
+      "content": "A practical example demonstrating Gibbs Free Energy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "gibbs-free-energy"
+      ]
+    }
+  ]
+}

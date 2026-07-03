@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Karnaugh Maps (Introduction)?",
+      "back": "Karnaugh Maps (Introduction) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Karnaugh Maps (Introduction) important?",
+      "back": "Karnaugh Maps (Introduction) is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

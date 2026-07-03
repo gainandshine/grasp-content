@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lamport Timestamps",
+      "content": "A practical example demonstrating Lamport Timestamps",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "lamport-timestamps"
+      ]
+    }
+  ]
+}

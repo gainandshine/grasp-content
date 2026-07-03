@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 5: Producer Theory**?",
+      "back": "*Course 5: Producer Theory** is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 5: Producer Theory** important?",
+      "back": "*Course 5: Producer Theory** is essential for understanding Consumer Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

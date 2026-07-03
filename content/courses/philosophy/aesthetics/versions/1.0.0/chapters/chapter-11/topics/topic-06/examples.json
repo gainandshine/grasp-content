@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: User Experience (UX)",
+      "content": "A practical example demonstrating User Experience (UX)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "user-experience-ux"
+      ]
+    }
+  ]
+}

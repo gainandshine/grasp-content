@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Relative Position",
+      "content": "A practical example demonstrating Relative Position",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "relative-position"
+      ]
+    }
+  ]
+}

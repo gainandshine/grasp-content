@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Code Reuse",
+      "content": "A practical example demonstrating Code Reuse",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "code-reuse"
+      ]
+    }
+  ]
+}

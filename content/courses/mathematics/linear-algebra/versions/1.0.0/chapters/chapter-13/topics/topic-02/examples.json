@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Numerical Stability",
+      "content": "A practical example demonstrating Numerical Stability",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "numerical-stability"
+      ]
+    }
+  ]
+}

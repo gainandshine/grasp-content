@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Parse Trees?",
+      "back": "Parse Trees is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Parse Trees important?",
+      "back": "Parse Trees is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

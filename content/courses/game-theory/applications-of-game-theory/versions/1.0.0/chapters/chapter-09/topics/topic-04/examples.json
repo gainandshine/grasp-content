@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Information Warfare",
+      "content": "A practical example demonstrating Information Warfare",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "information-warfare"
+      ]
+    }
+  ]
+}

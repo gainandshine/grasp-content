@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Synchrotrons",
+      "content": "A practical example demonstrating Synchrotrons",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "synchrotrons"
+      ]
+    }
+  ]
+}

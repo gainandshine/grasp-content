@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medical Microbiology",
+      "content": "A practical example demonstrating Medical Microbiology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "medical-microbiology"
+      ]
+    }
+  ]
+}

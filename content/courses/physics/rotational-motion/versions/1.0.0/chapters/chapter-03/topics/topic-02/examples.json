@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lever Arm",
+      "content": "A practical example demonstrating Lever Arm",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "lever-arm"
+      ]
+    }
+  ]
+}

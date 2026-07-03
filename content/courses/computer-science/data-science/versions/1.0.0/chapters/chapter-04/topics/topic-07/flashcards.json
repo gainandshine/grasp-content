@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hypothesis Generation?",
+      "back": "Hypothesis Generation is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hypothesis Generation important?",
+      "back": "Hypothesis Generation is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

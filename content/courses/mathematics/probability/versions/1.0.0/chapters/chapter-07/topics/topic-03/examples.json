@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Exponential Distribution",
+      "content": "A practical example demonstrating Exponential Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "exponential-distribution"
+      ]
+    }
+  ]
+}

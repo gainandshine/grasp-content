@@ -1,10 +1,11 @@
 {
   "id": "simultaneous-games",
   "title": "Simultaneous Games",
-  "description": "This course studies **games in which all players choose their strategies at the same time**, without knowing the decisions of the other players. It introduces the core analytical tools of classical game theory.",
   "version": "1.0.0",
+  "domain": "game-theory",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:23.341Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.438Z"
 }

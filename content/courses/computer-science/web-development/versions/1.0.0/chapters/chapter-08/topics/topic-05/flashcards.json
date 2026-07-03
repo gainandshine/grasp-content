@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is CRUD Operations?",
+      "back": "CRUD Operations is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is CRUD Operations important?",
+      "back": "CRUD Operations is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

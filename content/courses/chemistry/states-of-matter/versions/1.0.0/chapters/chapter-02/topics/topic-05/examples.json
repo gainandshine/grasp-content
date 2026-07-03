@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Unit Cells",
+      "content": "A practical example demonstrating Unit Cells",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "unit-cells"
+      ]
+    }
+  ]
+}

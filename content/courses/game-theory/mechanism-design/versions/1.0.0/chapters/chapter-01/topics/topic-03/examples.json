@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Social Objectives",
+      "content": "A practical example demonstrating Social Objectives",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "social-objectives"
+      ]
+    }
+  ]
+}

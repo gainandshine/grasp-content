@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Hydrogen Storage Materials",
-  "description": "Learn about Hydrogen Storage Materials",
-  "conceptId": "chemistry.materials-chemistry.chapter-09.topic-05"
+  "topicId": "chemistry.materials-chemistry.chapter-09.topic-05",
+  "description": "Learn about Hydrogen Storage Materials and its applications in chemistry.",
+  "content": {
+    "overview": "Hydrogen Storage Materials is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Hydrogen Storage Materials. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Hydrogen Storage Materials requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Hydrogen Storage Materials is essential for mastering Materials Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

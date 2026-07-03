@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dynamic Equilibria",
+      "content": "A practical example demonstrating Dynamic Equilibria",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "dynamic-equilibria"
+      ]
+    }
+  ]
+}

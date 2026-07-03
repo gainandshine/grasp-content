@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Standard Enthalpy",
+      "content": "A practical example demonstrating Standard Enthalpy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "standard-enthalpy"
+      ]
+    }
+  ]
+}

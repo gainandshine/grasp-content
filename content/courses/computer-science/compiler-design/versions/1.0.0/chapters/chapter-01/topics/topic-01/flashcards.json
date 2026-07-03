@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is What is a Compiler??",
+      "back": "What is a Compiler? is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is What is a Compiler? important?",
+      "back": "What is a Compiler? is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multilevel Queue Scheduling",
+      "content": "A practical example demonstrating Multilevel Queue Scheduling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "multilevel-queue-scheduling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mobile Devices?",
+      "back": "Mobile Devices is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mobile Devices important?",
+      "back": "Mobile Devices is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

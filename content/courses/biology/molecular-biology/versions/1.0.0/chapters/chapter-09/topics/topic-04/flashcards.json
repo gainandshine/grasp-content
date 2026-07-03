@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cloning Vectors?",
+      "back": "Cloning Vectors is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cloning Vectors important?",
+      "back": "Cloning Vectors is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

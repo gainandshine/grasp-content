@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cell EMF",
+      "content": "A practical example demonstrating Cell EMF",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "cell-emf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Capacitors in Parallel?",
+      "back": "Capacitors in Parallel is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Capacitors in Parallel important?",
+      "back": "Capacitors in Parallel is essential for understanding Electricity (Electrostatics).",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Least Common Multiple (LCM)",
+      "content": "A practical example demonstrating Least Common Multiple (LCM)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "least-common-multiple-lcm"
+      ]
+    }
+  ]
+}

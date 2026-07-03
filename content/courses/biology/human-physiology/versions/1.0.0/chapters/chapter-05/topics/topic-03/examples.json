@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gas Exchange",
+      "content": "A practical example demonstrating Gas Exchange",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "gas-exchange"
+      ]
+    }
+  ]
+}

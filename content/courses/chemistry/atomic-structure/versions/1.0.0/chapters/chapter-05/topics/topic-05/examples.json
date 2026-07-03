@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heisenberg Uncertainty Principle",
+      "content": "A practical example demonstrating Heisenberg Uncertainty Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "heisenberg-uncertainty-principle"
+      ]
+    }
+  ]
+}

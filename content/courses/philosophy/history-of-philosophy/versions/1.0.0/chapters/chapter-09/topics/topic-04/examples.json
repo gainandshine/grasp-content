@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Friedrich Nietzsche",
+      "content": "A practical example demonstrating Friedrich Nietzsche",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "friedrich-nietzsche"
+      ]
+    }
+  ]
+}

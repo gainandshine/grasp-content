@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Young's Double Slit Experiment",
+      "content": "A practical example demonstrating Young's Double Slit Experiment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "youngs-double-slit-experiment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cooperative Games?",
+      "back": "Cooperative Games is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cooperative Games important?",
+      "back": "Cooperative Games is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Truthful Mechanisms?",
+      "back": "Truthful Mechanisms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Truthful Mechanisms important?",
+      "back": "Truthful Mechanisms is essential for understanding Evolutionary Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

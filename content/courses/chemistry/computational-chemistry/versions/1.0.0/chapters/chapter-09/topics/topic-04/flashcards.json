@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is NMR Prediction?",
+      "back": "NMR Prediction is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is NMR Prediction important?",
+      "back": "NMR Prediction is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Catalyst Design",
+      "content": "A practical example demonstrating Catalyst Design",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "catalyst-design"
+      ]
+    }
+  ]
+}

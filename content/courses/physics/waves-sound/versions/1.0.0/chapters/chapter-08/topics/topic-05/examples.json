@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Acoustic Shadow",
+      "content": "A practical example demonstrating Acoustic Shadow",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "acoustic-shadow"
+      ]
+    }
+  ]
+}

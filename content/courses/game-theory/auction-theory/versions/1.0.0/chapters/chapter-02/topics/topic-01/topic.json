@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Private Value Auctions",
-  "description": "Learn about Private Value Auctions",
-  "conceptId": "game-theory.auction-theory.chapter-02.topic-01"
+  "topicId": "game-theory.auction-theory.chapter-02.topic-01",
+  "description": "Learn about Private Value Auctions and its applications in game-theory.",
+  "content": {
+    "overview": "Private Value Auctions is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Private Value Auctions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Private Value Auctions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Private Value Auctions is essential for mastering Auction Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

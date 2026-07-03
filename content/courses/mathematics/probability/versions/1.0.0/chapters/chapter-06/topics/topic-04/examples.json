@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Negative Binomial Distribution",
+      "content": "A practical example demonstrating Negative Binomial Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "negative-binomial-distribution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Static Equilibrium",
+      "content": "A practical example demonstrating Static Equilibrium",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "static-equilibrium"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 5: Evolution**?",
+      "back": "*Course 5: Evolution** is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 5: Evolution** important?",
+      "back": "*Course 5: Evolution** is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cell Signaling",
+      "content": "A practical example demonstrating Cell Signaling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cell-signaling"
+      ]
+    }
+  ]
+}

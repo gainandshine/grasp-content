@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: SAS Similarity",
+      "content": "A practical example demonstrating SAS Similarity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "sas-similarity"
+      ]
+    }
+  ]
+}

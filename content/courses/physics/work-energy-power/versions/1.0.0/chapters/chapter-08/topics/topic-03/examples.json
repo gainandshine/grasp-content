@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Work by Integration",
+      "content": "A practical example demonstrating Work by Integration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "work-by-integration"
+      ]
+    }
+  ]
+}

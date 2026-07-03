@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Suicide Risk Assessment",
+      "content": "A practical example demonstrating Suicide Risk Assessment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "suicide-risk-assessment"
+      ]
+    }
+  ]
+}

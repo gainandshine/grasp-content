@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Agent-Based Models",
+      "content": "A practical example demonstrating Agent-Based Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "agent-based-models"
+      ]
+    }
+  ]
+}

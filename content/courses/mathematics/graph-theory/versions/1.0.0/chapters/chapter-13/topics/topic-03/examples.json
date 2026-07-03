@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Small-World Networks",
+      "content": "A practical example demonstrating Small-World Networks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "small-world-networks"
+      ]
+    }
+  ]
+}

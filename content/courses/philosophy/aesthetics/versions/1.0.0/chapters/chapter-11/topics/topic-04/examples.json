@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Consumer Products",
+      "content": "A practical example demonstrating Consumer Products",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "consumer-products"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Vertical Springs?",
+      "back": "Vertical Springs is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Vertical Springs important?",
+      "back": "Vertical Springs is essential for understanding Oscillations & Simple Harmonic Motion (SHM).",
+      "difficulty": "medium"
+    }
+  ]
+}

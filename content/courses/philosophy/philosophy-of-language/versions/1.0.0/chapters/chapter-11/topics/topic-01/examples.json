@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Natural Language Processing (NLP)",
+      "content": "A practical example demonstrating Natural Language Processing (NLP)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "natural-language-processing-nlp"
+      ]
+    }
+  ]
+}

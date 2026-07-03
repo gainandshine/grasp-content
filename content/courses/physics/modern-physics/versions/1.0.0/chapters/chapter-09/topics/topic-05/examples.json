@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Standard Model",
+      "content": "A practical example demonstrating Standard Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "standard-model"
+      ]
+    }
+  ]
+}

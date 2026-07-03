@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Simultaneous vs Sequential Games",
+      "content": "A practical example demonstrating Simultaneous vs Sequential Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "simultaneous-vs-sequential-games"
+      ]
+    }
+  ]
+}

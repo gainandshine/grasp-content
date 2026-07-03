@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cancer Nanotherapy",
+      "content": "A practical example demonstrating Cancer Nanotherapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "cancer-nanotherapy"
+      ]
+    }
+  ]
+}

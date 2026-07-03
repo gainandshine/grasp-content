@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cryptocurrencies",
+      "content": "A practical example demonstrating Cryptocurrencies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "cryptocurrencies"
+      ]
+    }
+  ]
+}

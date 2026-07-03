@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Greatest Common Factor",
+      "content": "A practical example demonstrating Greatest Common Factor",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "greatest-common-factor"
+      ]
+    }
+  ]
+}

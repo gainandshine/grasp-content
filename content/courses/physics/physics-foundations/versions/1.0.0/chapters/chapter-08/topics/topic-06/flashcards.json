@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Data Interpretation?",
+      "back": "Data Interpretation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Data Interpretation important?",
+      "back": "Data Interpretation is essential for understanding Physics Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

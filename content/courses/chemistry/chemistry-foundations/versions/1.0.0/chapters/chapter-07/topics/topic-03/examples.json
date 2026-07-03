@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molar Mass",
+      "content": "A practical example demonstrating Molar Mass",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "molar-mass"
+      ]
+    }
+  ]
+}

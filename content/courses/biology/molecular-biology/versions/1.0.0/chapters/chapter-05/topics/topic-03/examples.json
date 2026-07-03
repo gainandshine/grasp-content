@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Poly-A Tail",
+      "content": "A practical example demonstrating Poly-A Tail",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "poly-a-tail"
+      ]
+    }
+  ]
+}

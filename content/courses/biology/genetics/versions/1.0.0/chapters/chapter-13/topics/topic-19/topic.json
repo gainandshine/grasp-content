@@ -1,6 +1,16 @@
 {
   "id": "topic-19",
   "name": "Modern Evolutionary Theory",
-  "description": "Learn about Modern Evolutionary Theory",
-  "conceptId": "biology.genetics.chapter-13.topic-19"
+  "topicId": "biology.genetics.chapter-13.topic-19",
+  "description": "Learn about Modern Evolutionary Theory and its applications in biology.",
+  "content": {
+    "overview": "Modern Evolutionary Theory is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Modern Evolutionary Theory. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Modern Evolutionary Theory requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Modern Evolutionary Theory is essential for mastering Genetics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Intermediate Value Theorem?",
+      "back": "Intermediate Value Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Intermediate Value Theorem important?",
+      "back": "Intermediate Value Theorem is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

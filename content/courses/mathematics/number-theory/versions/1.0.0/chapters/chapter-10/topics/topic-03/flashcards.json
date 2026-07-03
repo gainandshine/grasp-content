@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Public-Key Cryptography?",
+      "back": "Public-Key Cryptography is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Public-Key Cryptography important?",
+      "back": "Public-Key Cryptography is essential for understanding Number Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

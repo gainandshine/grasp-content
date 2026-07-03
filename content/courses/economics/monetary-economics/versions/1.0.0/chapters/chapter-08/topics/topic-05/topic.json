@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Financial Regulation",
-  "description": "Learn about Financial Regulation",
-  "conceptId": "economics.monetary-economics.chapter-08.topic-05"
+  "topicId": "economics.monetary-economics.chapter-08.topic-05",
+  "description": "Learn about Financial Regulation and its applications in economics.",
+  "content": {
+    "overview": "Financial Regulation is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Financial Regulation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Financial Regulation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Financial Regulation is essential for mastering Monetary Economics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

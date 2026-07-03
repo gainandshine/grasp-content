@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sine Sum Formula",
+      "content": "A practical example demonstrating Sine Sum Formula",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "sine-sum-formula"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pre-mRNA?",
+      "back": "Pre-mRNA is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pre-mRNA important?",
+      "back": "Pre-mRNA is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

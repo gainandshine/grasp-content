@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Open Mapping Theorem",
+      "content": "A practical example demonstrating Open Mapping Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "open-mapping-theorem"
+      ]
+    }
+  ]
+}

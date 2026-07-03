@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Creating Objects",
+      "content": "A practical example demonstrating Creating Objects",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "creating-objects"
+      ]
+    }
+  ]
+}

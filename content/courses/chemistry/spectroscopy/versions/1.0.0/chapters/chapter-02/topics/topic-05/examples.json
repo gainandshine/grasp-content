@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Atomic Absorption Spectroscopy (AAS)",
+      "content": "A practical example demonstrating Atomic Absorption Spectroscopy (AAS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "atomic-absorption-spectroscopy-aas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Agrochemicals?",
+      "back": "Agrochemicals is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Agrochemicals important?",
+      "back": "Agrochemicals is essential for understanding Organic Chemistry II.",
+      "difficulty": "medium"
+    }
+  ]
+}

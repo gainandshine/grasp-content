@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stokes Shift",
+      "content": "A practical example demonstrating Stokes Shift",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "stokes-shift"
+      ]
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "id": "precalculus",
   "title": "Precalculus",
-  "description": "This course bridges **Algebra II + Trigonometry → Calculus I**.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 30,
-  "chapters": 15,
-  "updatedAt": "2026-07-02T10:38:14.116Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.216Z"
 }

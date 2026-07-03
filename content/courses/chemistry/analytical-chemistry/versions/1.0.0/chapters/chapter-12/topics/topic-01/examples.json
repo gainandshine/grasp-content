@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pharmaceutical Analysis",
+      "content": "A practical example demonstrating Pharmaceutical Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "pharmaceutical-analysis"
+      ]
+    }
+  ]
+}

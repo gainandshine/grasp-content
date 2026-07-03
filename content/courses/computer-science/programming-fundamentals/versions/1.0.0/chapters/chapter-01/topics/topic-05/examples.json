@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Compilation vs Interpretation",
+      "content": "A practical example demonstrating Compilation vs Interpretation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "compilation-vs-interpretation"
+      ]
+    }
+  ]
+}

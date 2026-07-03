@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rules of the Game",
+      "content": "A practical example demonstrating Rules of the Game",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "rules-of-the-game"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hexadecimal & Octal",
+      "content": "A practical example demonstrating Hexadecimal & Octal",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "hexadecimal-octal"
+      ]
+    }
+  ]
+}

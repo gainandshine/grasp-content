@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Proportional Representation",
+      "content": "A practical example demonstrating Proportional Representation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "proportional-representation"
+      ]
+    }
+  ]
+}

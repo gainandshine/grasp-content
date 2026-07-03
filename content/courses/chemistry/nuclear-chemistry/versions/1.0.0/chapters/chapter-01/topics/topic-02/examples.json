@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Atomic Nucleus",
+      "content": "A practical example demonstrating Atomic Nucleus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "atomic-nucleus"
+      ]
+    }
+  ]
+}

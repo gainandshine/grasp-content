@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Win-Stay Lose-Shift",
+      "content": "A practical example demonstrating Win-Stay Lose-Shift",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "win-stay-lose-shift"
+      ]
+    }
+  ]
+}

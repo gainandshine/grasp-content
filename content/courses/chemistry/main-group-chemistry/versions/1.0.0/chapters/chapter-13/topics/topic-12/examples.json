@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Colored Compounds",
+      "content": "A practical example demonstrating Colored Compounds",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "colored-compounds"
+      ]
+    }
+  ]
+}

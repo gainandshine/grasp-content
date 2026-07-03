@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Coefficient of Friction?",
+      "back": "Coefficient of Friction is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Coefficient of Friction important?",
+      "back": "Coefficient of Friction is essential for understanding Newtonian Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

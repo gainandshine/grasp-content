@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: CIA Triad",
+      "content": "A practical example demonstrating CIA Triad",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "cia-triad"
+      ]
+    }
+  ]
+}

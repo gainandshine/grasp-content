@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is AI Planning?",
+      "back": "AI Planning is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is AI Planning important?",
+      "back": "AI Planning is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

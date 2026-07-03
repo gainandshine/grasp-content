@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Position-Time Graph",
+      "content": "A practical example demonstrating Position-Time Graph",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "position-time-graph"
+      ]
+    }
+  ]
+}

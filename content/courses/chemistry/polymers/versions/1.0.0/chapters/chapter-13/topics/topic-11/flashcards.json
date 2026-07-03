@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 18: Analytical Chemistry**?",
+      "back": "*Course 18: Analytical Chemistry** is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 18: Analytical Chemistry** important?",
+      "back": "*Course 18: Analytical Chemistry** is essential for understanding Polymers.",
+      "difficulty": "medium"
+    }
+  ]
+}

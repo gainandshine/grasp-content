@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Relativistic Jets",
+      "content": "A practical example demonstrating Relativistic Jets",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "relativistic-jets"
+      ]
+    }
+  ]
+}

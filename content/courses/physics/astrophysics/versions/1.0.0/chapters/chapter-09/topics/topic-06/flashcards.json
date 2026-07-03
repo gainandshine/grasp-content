@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cosmic Rays?",
+      "back": "Cosmic Rays is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cosmic Rays important?",
+      "back": "Cosmic Rays is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

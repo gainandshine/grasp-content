@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Criminal Justice",
+      "content": "A practical example demonstrating Criminal Justice",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "criminal-justice"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Symmetric Matrices",
+      "content": "A practical example demonstrating Symmetric Matrices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "symmetric-matrices"
+      ]
+    }
+  ]
+}

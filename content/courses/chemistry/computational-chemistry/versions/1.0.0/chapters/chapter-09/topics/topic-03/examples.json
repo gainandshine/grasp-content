@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: UV-Visible Spectrum Prediction",
+      "content": "A practical example demonstrating UV-Visible Spectrum Prediction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "uv-visible-spectrum-prediction"
+      ]
+    }
+  ]
+}

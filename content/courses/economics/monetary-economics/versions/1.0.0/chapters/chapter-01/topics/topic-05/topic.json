@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Financial System",
-  "description": "Learn about Financial System",
-  "conceptId": "economics.monetary-economics.chapter-01.topic-05"
+  "topicId": "economics.monetary-economics.chapter-01.topic-05",
+  "description": "Learn about Financial System and its applications in economics.",
+  "content": {
+    "overview": "Financial System is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Financial System. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Financial System requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Financial System is essential for mastering Monetary Economics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

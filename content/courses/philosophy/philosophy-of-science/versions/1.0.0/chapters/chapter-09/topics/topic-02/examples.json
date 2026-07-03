@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Philosophy of Chemistry",
+      "content": "A practical example demonstrating Philosophy of Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "philosophy-of-chemistry"
+      ]
+    }
+  ]
+}

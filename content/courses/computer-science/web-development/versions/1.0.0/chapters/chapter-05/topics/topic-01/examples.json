@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: ES6+ Features",
+      "content": "A practical example demonstrating ES6+ Features",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "es6-features"
+      ]
+    }
+  ]
+}

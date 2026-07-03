@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Transformers (Concept)",
+      "content": "A practical example demonstrating Transformers (Concept)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "transformers-concept"
+      ]
+    }
+  ]
+}

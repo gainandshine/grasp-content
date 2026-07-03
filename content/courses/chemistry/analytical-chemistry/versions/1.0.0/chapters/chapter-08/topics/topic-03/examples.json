@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Voltammetry",
+      "content": "A practical example demonstrating Voltammetry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "voltammetry"
+      ]
+    }
+  ]
+}

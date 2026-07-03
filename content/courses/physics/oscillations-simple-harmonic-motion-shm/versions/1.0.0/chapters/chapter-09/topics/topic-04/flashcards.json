@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Energy Transfer?",
+      "back": "Energy Transfer is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Energy Transfer important?",
+      "back": "Energy Transfer is essential for understanding Oscillations & Simple Harmonic Motion (SHM).",
+      "difficulty": "medium"
+    }
+  ]
+}

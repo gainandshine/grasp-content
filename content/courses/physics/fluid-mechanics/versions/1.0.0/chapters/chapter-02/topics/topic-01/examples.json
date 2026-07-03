@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hydrostatic Pressure",
+      "content": "A practical example demonstrating Hydrostatic Pressure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hydrostatic-pressure"
+      ]
+    }
+  ]
+}

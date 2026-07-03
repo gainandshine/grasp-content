@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hadron Epoch",
+      "content": "A practical example demonstrating Hadron Epoch",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hadron-epoch"
+      ]
+    }
+  ]
+}

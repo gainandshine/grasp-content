@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Game Objects",
-  "description": "Learn about Game Objects",
-  "conceptId": "computer-science.object-oriented-programming.chapter-13.topic-06"
+  "topicId": "computer-science.object-oriented-programming.chapter-13.topic-06",
+  "description": "Learn about Game Objects and its applications in computer-science.",
+  "content": {
+    "overview": "Game Objects is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Game Objects. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Game Objects requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Game Objects is essential for mastering Object-Oriented Programming. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

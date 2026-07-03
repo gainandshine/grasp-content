@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cell Adhesion",
+      "content": "A practical example demonstrating Cell Adhesion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cell-adhesion"
+      ]
+    }
+  ]
+}

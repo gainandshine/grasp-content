@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Heisenberg Uncertainty Principle?",
+      "back": "Heisenberg Uncertainty Principle is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Heisenberg Uncertainty Principle important?",
+      "back": "Heisenberg Uncertainty Principle is essential for understanding Quantum Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

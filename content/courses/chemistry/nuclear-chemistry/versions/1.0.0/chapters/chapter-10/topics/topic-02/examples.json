@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: SPECT Imaging",
+      "content": "A practical example demonstrating SPECT Imaging",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "spect-imaging"
+      ]
+    }
+  ]
+}

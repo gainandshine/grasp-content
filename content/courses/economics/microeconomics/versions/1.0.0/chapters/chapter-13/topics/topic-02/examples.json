@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Auction Theory",
+      "content": "A practical example demonstrating Auction Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "auction-theory"
+      ]
+    }
+  ]
+}

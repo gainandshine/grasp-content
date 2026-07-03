@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Oxygen Cycle",
+      "content": "A practical example demonstrating Oxygen Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "oxygen-cycle"
+      ]
+    }
+  ]
+}

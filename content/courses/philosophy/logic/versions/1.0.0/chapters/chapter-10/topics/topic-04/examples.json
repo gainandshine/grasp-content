@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Automated Reasoning",
+      "content": "A practical example demonstrating Automated Reasoning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "automated-reasoning"
+      ]
+    }
+  ]
+}

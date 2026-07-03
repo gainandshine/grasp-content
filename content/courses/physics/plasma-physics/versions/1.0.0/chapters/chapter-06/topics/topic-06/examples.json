@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Turbulence (Introduction)",
+      "content": "A practical example demonstrating Turbulence (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "turbulence-introduction"
+      ]
+    }
+  ]
+}

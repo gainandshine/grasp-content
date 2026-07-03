@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Biochemical Reactions",
-  "description": "Learn about Biochemical Reactions",
-  "conceptId": "chemistry.chemical-kinetics.chapter-11.topic-06"
+  "topicId": "chemistry.chemical-kinetics.chapter-11.topic-06",
+  "description": "Learn about Biochemical Reactions and its applications in chemistry.",
+  "content": {
+    "overview": "Biochemical Reactions is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Biochemical Reactions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Biochemical Reactions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Biochemical Reactions is essential for mastering Chemical Kinetics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

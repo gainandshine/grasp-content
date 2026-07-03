@@ -1,10 +1,11 @@
 {
   "id": "acids-bases",
   "title": "Acids & Bases",
-  "description": "This course studies **acid-base chemistry**, one of the most important areas of chemistry. It explains pH, neutralization, buffers, titrations, and the behavior of acids and bases in biological, environmental, and industrial systems.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:15.668Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.259Z"
 }

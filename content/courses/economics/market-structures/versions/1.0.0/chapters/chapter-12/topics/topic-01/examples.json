@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Telecommunications",
+      "content": "A practical example demonstrating Telecommunications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "telecommunications"
+      ]
+    }
+  ]
+}

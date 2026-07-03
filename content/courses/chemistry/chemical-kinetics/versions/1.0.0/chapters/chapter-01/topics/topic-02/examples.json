@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reaction Rate",
+      "content": "A practical example demonstrating Reaction Rate",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "reaction-rate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Allele Frequencies",
+      "content": "A practical example demonstrating Allele Frequencies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "allele-frequencies"
+      ]
+    }
+  ]
+}

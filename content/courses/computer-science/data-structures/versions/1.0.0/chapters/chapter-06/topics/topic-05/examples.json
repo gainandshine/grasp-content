@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Open Addressing",
+      "content": "A practical example demonstrating Open Addressing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "open-addressing"
+      ]
+    }
+  ]
+}

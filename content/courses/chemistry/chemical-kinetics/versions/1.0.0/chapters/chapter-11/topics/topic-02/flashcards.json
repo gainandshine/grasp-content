@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pharmaceutical Manufacturing?",
+      "back": "Pharmaceutical Manufacturing is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pharmaceutical Manufacturing important?",
+      "back": "Pharmaceutical Manufacturing is essential for understanding Chemical Kinetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

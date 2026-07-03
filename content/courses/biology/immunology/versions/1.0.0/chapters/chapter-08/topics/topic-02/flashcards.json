@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Passive Immunity?",
+      "back": "Passive Immunity is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Passive Immunity important?",
+      "back": "Passive Immunity is essential for understanding Immunology.",
+      "difficulty": "medium"
+    }
+  ]
+}

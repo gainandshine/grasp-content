@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parallel Axis Theorem",
+      "content": "A practical example demonstrating Parallel Axis Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "parallel-axis-theorem"
+      ]
+    }
+  ]
+}

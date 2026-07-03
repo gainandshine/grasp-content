@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Moving Source",
+      "content": "A practical example demonstrating Moving Source",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "moving-source"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coulomb's Law",
+      "content": "A practical example demonstrating Coulomb's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "coulombs-law"
+      ]
+    }
+  ]
+}

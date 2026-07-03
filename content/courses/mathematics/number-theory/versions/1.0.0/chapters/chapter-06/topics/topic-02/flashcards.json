@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Möbius Function?",
+      "back": "Möbius Function is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Möbius Function important?",
+      "back": "Möbius Function is essential for understanding Number Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

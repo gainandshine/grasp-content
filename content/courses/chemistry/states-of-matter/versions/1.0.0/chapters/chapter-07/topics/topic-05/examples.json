@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Critical Pressure",
+      "content": "A practical example demonstrating Critical Pressure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "critical-pressure"
+      ]
+    }
+  ]
+}

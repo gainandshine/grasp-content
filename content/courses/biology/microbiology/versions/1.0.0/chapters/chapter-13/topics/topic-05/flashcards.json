@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is CRISPR in Microbes?",
+      "back": "CRISPR in Microbes is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is CRISPR in Microbes important?",
+      "back": "CRISPR in Microbes is essential for understanding Microbiology.",
+      "difficulty": "medium"
+    }
+  ]
+}

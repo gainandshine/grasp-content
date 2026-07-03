@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Meaning of Life?",
+      "back": "Meaning of Life is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Meaning of Life important?",
+      "back": "Meaning of Life is essential for understanding Contemporary Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

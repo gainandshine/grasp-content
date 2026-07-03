@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electric Dipole",
+      "content": "A practical example demonstrating Electric Dipole",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "electric-dipole"
+      ]
+    }
+  ]
+}

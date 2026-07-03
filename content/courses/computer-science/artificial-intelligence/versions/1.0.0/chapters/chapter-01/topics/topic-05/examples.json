@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rational Agents",
+      "content": "A practical example demonstrating Rational Agents",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "rational-agents"
+      ]
+    }
+  ]
+}

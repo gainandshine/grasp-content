@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Antibiotic Resistance?",
+      "back": "Antibiotic Resistance is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Antibiotic Resistance important?",
+      "back": "Antibiotic Resistance is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Process Validation?",
+      "back": "Process Validation is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Process Validation important?",
+      "back": "Process Validation is essential for understanding Industrial Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

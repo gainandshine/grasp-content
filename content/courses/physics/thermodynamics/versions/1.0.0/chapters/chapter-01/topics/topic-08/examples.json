@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Latent Heat",
+      "content": "A practical example demonstrating Latent Heat",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "latent-heat"
+      ]
+    }
+  ]
+}

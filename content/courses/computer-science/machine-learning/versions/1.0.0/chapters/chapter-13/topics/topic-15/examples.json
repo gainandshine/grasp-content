@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Feature Engineering",
+      "content": "A practical example demonstrating Feature Engineering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "feature-engineering"
+      ]
+    }
+  ]
+}

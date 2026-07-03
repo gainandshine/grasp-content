@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Frame Dragging (Introduction)",
+      "content": "A practical example demonstrating Frame Dragging (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "frame-dragging-introduction"
+      ]
+    }
+  ]
+}

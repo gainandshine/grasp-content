@@ -1,10 +1,11 @@
 {
   "id": "pre-algebra",
   "title": "Pre-Algebra",
-  "description": "## Chapter 1: Algebra Foundations  * Variables * Constants * Expressions * Terms * Coefficients * Like & Unlike Terms * Simplifying Expressions * Evaluating Expressions",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
   "estimatedHours": 32,
   "chapters": 16,
-  "updatedAt": "2026-07-02T10:38:13.727Z"
+  "topics": 86,
+  "updatedAt": "2026-07-03T13:16:10.075Z"
 }

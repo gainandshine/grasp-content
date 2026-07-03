@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Metabolic Pathways",
+      "content": "A practical example demonstrating Metabolic Pathways",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "metabolic-pathways"
+      ]
+    }
+  ]
+}

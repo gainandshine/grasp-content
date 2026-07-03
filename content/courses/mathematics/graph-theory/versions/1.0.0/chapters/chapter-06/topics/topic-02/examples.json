@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Breadth First Search (BFS)",
+      "content": "A practical example demonstrating Breadth First Search (BFS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "breadth-first-search-bfs"
+      ]
+    }
+  ]
+}

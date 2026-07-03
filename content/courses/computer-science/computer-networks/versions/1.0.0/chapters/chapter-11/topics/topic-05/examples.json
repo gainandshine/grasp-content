@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Software-Defined Networking (SDN)",
+      "content": "A practical example demonstrating Software-Defined Networking (SDN)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "software-defined-networking-sdn"
+      ]
+    }
+  ]
+}

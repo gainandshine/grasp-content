@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Properties of Materials?",
+      "back": "Properties of Materials is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Properties of Materials important?",
+      "back": "Properties of Materials is essential for understanding Chemical Bonding.",
+      "difficulty": "medium"
+    }
+  ]
+}

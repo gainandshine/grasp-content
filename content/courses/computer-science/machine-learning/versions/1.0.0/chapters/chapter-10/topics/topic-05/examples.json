@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Edge Deployment",
+      "content": "A practical example demonstrating Edge Deployment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "edge-deployment"
+      ]
+    }
+  ]
+}

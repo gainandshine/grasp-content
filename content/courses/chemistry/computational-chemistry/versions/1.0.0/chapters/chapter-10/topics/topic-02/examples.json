@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Protein Structure Prediction",
+      "content": "A practical example demonstrating Protein Structure Prediction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "protein-structure-prediction"
+      ]
+    }
+  ]
+}

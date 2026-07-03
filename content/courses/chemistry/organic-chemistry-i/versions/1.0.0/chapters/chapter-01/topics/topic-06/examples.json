@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Classification of Organic Compounds",
+      "content": "A practical example demonstrating Classification of Organic Compounds",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "classification-of-organic-compounds"
+      ]
+    }
+  ]
+}

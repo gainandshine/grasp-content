@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Student Management Systems",
+      "content": "A practical example demonstrating Student Management Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "student-management-systems"
+      ]
+    }
+  ]
+}

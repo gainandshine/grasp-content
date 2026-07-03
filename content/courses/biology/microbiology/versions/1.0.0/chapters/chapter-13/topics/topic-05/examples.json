@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: CRISPR in Microbes",
+      "content": "A practical example demonstrating CRISPR in Microbes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "crispr-in-microbes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Musical Instruments",
+      "content": "A practical example demonstrating Musical Instruments",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "musical-instruments"
+      ]
+    }
+  ]
+}

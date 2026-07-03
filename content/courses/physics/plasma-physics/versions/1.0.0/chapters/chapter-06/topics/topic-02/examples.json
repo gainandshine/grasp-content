@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rayleigh–Taylor Instability",
+      "content": "A practical example demonstrating Rayleigh–Taylor Instability",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rayleightaylor-instability"
+      ]
+    }
+  ]
+}

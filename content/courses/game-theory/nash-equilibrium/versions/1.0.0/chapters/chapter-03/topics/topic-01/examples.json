@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Matrix Analysis",
+      "content": "A practical example demonstrating Matrix Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "matrix-analysis"
+      ]
+    }
+  ]
+}

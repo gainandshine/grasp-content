@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Matrix Chain Multiplication?",
+      "back": "Matrix Chain Multiplication is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Matrix Chain Multiplication important?",
+      "back": "Matrix Chain Multiplication is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

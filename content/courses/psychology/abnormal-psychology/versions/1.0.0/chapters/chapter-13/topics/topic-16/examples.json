@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Crisis Intervention",
+      "content": "A practical example demonstrating Crisis Intervention",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "crisis-intervention"
+      ]
+    }
+  ]
+}

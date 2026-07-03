@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DNA Structure",
+      "content": "A practical example demonstrating DNA Structure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "dna-structure"
+      ]
+    }
+  ]
+}

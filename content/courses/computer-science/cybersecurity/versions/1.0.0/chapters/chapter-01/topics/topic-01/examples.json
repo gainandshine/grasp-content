@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: What is Cybersecurity?",
+      "content": "A practical example demonstrating What is Cybersecurity?",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "what-is-cybersecurity"
+      ]
+    }
+  ]
+}

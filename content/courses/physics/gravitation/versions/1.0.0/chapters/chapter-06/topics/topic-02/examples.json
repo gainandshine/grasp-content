@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Natural Satellites",
+      "content": "A practical example demonstrating Natural Satellites",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "natural-satellites"
+      ]
+    }
+  ]
+}

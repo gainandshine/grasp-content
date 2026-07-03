@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Molecular Machines?",
+      "back": "Molecular Machines is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Molecular Machines important?",
+      "back": "Molecular Machines is essential for understanding Nanochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

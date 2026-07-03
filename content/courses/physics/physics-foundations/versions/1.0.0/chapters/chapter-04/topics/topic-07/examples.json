@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Position Vector",
+      "content": "A practical example demonstrating Position Vector",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "position-vector"
+      ]
+    }
+  ]
+}

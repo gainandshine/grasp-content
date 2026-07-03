@@ -1,6 +1,16 @@
 {
   "id": "topic-16",
   "name": "Incident Response",
-  "description": "Learn about Incident Response",
-  "conceptId": "computer-science.data-science.chapter-13.topic-16"
+  "topicId": "computer-science.data-science.chapter-13.topic-16",
+  "description": "Learn about Incident Response and its applications in computer-science.",
+  "content": {
+    "overview": "Incident Response is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Incident Response. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Incident Response requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Incident Response is essential for mastering Data Science. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

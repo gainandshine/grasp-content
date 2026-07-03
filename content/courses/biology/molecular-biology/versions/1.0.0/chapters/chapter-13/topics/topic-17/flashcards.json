@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Evolutionary Genetics?",
+      "back": "Evolutionary Genetics is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Evolutionary Genetics important?",
+      "back": "Evolutionary Genetics is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

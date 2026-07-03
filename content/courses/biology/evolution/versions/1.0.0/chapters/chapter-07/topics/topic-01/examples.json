@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Trees",
+      "content": "A practical example demonstrating Evolutionary Trees",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "evolutionary-trees"
+      ]
+    }
+  ]
+}

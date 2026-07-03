@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Artificial Neurons?",
+      "back": "Artificial Neurons is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Artificial Neurons important?",
+      "back": "Artificial Neurons is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

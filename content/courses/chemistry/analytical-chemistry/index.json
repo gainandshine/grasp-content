@@ -1,10 +1,11 @@
 {
   "id": "analytical-chemistry",
   "title": "Analytical Chemistry",
-  "description": "This course studies **how chemists identify, separate, and quantify chemical substances**. It is the foundation of laboratory science, pharmaceuticals, environmental testing, forensic science, and quality control.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:16.491Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.280Z"
 }

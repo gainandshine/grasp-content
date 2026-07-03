@@ -1,6 +1,16 @@
 {
   "id": "topic-07",
   "name": "Asymptotic Analysis",
-  "description": "Learn about Asymptotic Analysis",
-  "conceptId": "computer-science.algorithms.chapter-01.topic-07"
+  "topicId": "computer-science.algorithms.chapter-01.topic-07",
+  "description": "Learn about Asymptotic Analysis and its applications in computer-science.",
+  "content": {
+    "overview": "Asymptotic Analysis is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Asymptotic Analysis. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Asymptotic Analysis requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Asymptotic Analysis is essential for mastering Algorithms. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

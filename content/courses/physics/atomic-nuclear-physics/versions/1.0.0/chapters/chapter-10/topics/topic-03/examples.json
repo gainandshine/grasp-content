@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cloud Chamber",
+      "content": "A practical example demonstrating Cloud Chamber",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "cloud-chamber"
+      ]
+    }
+  ]
+}

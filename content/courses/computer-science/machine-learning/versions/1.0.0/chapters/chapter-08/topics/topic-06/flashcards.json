@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Transfer Learning?",
+      "back": "Transfer Learning is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Transfer Learning important?",
+      "back": "Transfer Learning is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

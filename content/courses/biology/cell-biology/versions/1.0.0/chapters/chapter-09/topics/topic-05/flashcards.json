@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Tissue Repair?",
+      "back": "Tissue Repair is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Tissue Repair important?",
+      "back": "Tissue Repair is essential for understanding Cell Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

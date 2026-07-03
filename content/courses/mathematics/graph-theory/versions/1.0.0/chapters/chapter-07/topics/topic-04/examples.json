@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Floyd-Warshall Algorithm",
+      "content": "A practical example demonstrating Floyd-Warshall Algorithm",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "floyd-warshall-algorithm"
+      ]
+    }
+  ]
+}

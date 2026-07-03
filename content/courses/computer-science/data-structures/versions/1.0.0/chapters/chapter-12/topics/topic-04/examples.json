@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Best, Average & Worst Case",
+      "content": "A practical example demonstrating Best, Average & Worst Case",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "best-average-worst-case"
+      ]
+    }
+  ]
+}

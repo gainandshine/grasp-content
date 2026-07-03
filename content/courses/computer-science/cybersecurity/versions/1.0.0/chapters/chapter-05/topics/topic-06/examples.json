@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: OWASP Top 10",
+      "content": "A practical example demonstrating OWASP Top 10",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "owasp-top-10"
+      ]
+    }
+  ]
+}

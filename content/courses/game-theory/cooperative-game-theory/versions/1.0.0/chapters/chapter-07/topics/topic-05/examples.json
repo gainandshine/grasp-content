@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cake-Cutting Problems",
+      "content": "A practical example demonstrating Cake-Cutting Problems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "cake-cutting-problems"
+      ]
+    }
+  ]
+}

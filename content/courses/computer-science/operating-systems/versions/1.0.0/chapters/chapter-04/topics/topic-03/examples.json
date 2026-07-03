@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mutex Locks",
+      "content": "A practical example demonstrating Mutex Locks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "mutex-locks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Exposure Therapy",
+      "content": "A practical example demonstrating Exposure Therapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "exposure-therapy"
+      ]
+    }
+  ]
+}

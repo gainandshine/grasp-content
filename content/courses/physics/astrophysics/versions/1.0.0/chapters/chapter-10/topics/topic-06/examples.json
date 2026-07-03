@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Planetary Atmospheres",
+      "content": "A practical example demonstrating Planetary Atmospheres",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "planetary-atmospheres"
+      ]
+    }
+  ]
+}

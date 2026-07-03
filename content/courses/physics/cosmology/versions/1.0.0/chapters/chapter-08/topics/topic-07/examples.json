@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Flat Universe",
+      "content": "A practical example demonstrating Flat Universe",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "flat-universe"
+      ]
+    }
+  ]
+}

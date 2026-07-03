@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Household Wiring",
+      "content": "A practical example demonstrating Household Wiring",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "household-wiring"
+      ]
+    }
+  ]
+}

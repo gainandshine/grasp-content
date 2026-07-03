@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Perfect Numbers?",
+      "back": "Perfect Numbers is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Perfect Numbers important?",
+      "back": "Perfect Numbers is essential for understanding Number Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

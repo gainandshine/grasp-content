@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Indefinite Integrals",
+      "content": "A practical example demonstrating Indefinite Integrals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "indefinite-integrals"
+      ]
+    }
+  ]
+}

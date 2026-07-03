@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Possibility?",
+      "back": "Possibility is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Possibility important?",
+      "back": "Possibility is essential for understanding Logic.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Higgs Mechanism?",
+      "back": "Higgs Mechanism is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Higgs Mechanism important?",
+      "back": "Higgs Mechanism is essential for understanding Particle Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

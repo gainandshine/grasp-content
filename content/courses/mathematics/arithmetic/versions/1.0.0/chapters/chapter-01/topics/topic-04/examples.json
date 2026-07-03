@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rational Numbers",
+      "content": "A practical example demonstrating Rational Numbers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "rational-numbers"
+      ]
+    }
+  ]
+}

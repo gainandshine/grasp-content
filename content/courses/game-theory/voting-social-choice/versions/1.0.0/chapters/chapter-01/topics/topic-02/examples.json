@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Individual Preferences",
+      "content": "A practical example demonstrating Individual Preferences",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "individual-preferences"
+      ]
+    }
+  ]
+}

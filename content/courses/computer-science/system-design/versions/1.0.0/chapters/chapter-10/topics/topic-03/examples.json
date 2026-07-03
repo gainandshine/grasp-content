@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rate Limiting",
+      "content": "A practical example demonstrating Rate Limiting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "rate-limiting"
+      ]
+    }
+  ]
+}

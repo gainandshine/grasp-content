@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Priority Queue (Introduction)",
+      "content": "A practical example demonstrating Priority Queue (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "priority-queue-introduction"
+      ]
+    }
+  ]
+}

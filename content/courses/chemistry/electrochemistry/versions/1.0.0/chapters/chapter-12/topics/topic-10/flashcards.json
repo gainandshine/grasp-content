@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Rate Constants?",
+      "back": "Rate Constants is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Rate Constants important?",
+      "back": "Rate Constants is essential for understanding Electrochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

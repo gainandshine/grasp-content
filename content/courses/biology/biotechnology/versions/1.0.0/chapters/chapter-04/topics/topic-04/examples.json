@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genome Annotation",
+      "content": "A practical example demonstrating Genome Annotation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "genome-annotation"
+      ]
+    }
+  ]
+}

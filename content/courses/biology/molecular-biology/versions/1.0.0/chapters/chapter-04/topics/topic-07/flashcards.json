@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Promoters?",
+      "back": "Promoters is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Promoters important?",
+      "back": "Promoters is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

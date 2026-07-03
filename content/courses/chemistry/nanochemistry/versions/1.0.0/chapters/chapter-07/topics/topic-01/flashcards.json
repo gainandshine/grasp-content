@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Surface Area?",
+      "back": "Surface Area is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Surface Area important?",
+      "back": "Surface Area is essential for understanding Nanochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

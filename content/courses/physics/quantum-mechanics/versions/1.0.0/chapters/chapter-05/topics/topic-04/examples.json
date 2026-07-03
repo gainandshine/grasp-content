@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Measurement Limits",
+      "content": "A practical example demonstrating Measurement Limits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "measurement-limits"
+      ]
+    }
+  ]
+}

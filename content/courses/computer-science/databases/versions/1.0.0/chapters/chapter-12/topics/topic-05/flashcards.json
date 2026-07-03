@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Backup & Recovery?",
+      "back": "Backup & Recovery is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Backup & Recovery important?",
+      "back": "Backup & Recovery is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

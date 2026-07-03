@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Differential Scanning Calorimetry (DSC)?",
+      "back": "Differential Scanning Calorimetry (DSC) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Differential Scanning Calorimetry (DSC) important?",
+      "back": "Differential Scanning Calorimetry (DSC) is essential for understanding Polymers.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Urban Ecology",
+      "content": "A practical example demonstrating Urban Ecology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "urban-ecology"
+      ]
+    }
+  ]
+}

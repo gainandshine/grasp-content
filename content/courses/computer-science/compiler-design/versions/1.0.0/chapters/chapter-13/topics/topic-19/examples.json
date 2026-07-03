@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ray Tracing",
+      "content": "A practical example demonstrating Ray Tracing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ray-tracing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Materials Research",
+      "content": "A practical example demonstrating Materials Research",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "materials-research"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sign Conventions",
+      "content": "A practical example demonstrating Sign Conventions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "sign-conventions"
+      ]
+    }
+  ]
+}

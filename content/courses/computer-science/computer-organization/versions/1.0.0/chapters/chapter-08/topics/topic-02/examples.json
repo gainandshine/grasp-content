@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Two's Complement",
+      "content": "A practical example demonstrating Two's Complement",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "twos-complement"
+      ]
+    }
+  ]
+}

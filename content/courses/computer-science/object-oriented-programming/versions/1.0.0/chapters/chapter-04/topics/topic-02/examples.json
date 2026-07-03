@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Access Modifiers",
+      "content": "A practical example demonstrating Access Modifiers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "access-modifiers"
+      ]
+    }
+  ]
+}

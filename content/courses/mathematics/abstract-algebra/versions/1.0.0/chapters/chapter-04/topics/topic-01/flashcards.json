@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Left Cosets?",
+      "back": "Left Cosets is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Left Cosets important?",
+      "back": "Left Cosets is essential for understanding Abstract Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

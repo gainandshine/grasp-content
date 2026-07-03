@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lorentz Force",
+      "content": "A practical example demonstrating Lorentz Force",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "lorentz-force"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Debugging Techniques",
+      "content": "A practical example demonstrating Debugging Techniques",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "debugging-techniques"
+      ]
+    }
+  ]
+}

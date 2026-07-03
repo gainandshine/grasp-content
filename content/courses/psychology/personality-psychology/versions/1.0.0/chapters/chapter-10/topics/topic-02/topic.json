@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Career Choice",
-  "description": "Learn about Career Choice",
-  "conceptId": "psychology.personality-psychology.chapter-10.topic-02"
+  "topicId": "psychology.personality-psychology.chapter-10.topic-02",
+  "description": "Learn about Career Choice and its applications in psychology.",
+  "content": {
+    "overview": "Career Choice is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Career Choice. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Career Choice requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Career Choice is essential for mastering Personality Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

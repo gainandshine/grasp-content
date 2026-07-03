@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stack ADT",
+      "content": "A practical example demonstrating Stack ADT",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "stack-adt"
+      ]
+    }
+  ]
+}

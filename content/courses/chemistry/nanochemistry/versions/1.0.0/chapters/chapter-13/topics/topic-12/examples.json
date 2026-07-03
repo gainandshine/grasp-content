@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radioactive Decay",
+      "content": "A practical example demonstrating Radioactive Decay",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radioactive-decay"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Maclaurin Series",
+      "content": "A practical example demonstrating Maclaurin Series",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "maclaurin-series"
+      ]
+    }
+  ]
+}

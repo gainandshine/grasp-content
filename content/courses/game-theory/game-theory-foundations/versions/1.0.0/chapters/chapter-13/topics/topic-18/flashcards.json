@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Strategic Planning?",
+      "back": "Strategic Planning is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Strategic Planning important?",
+      "back": "Strategic Planning is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

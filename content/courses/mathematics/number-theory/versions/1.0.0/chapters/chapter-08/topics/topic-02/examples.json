@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Legendre Symbol",
+      "content": "A practical example demonstrating Legendre Symbol",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "legendre-symbol"
+      ]
+    }
+  ]
+}

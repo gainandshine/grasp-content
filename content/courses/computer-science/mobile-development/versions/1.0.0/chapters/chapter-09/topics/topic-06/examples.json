@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: App Permissions",
+      "content": "A practical example demonstrating App Permissions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "app-permissions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Semiconductor Modeling?",
+      "back": "Semiconductor Modeling is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Semiconductor Modeling important?",
+      "back": "Semiconductor Modeling is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

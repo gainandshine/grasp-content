@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Injection Molding",
+      "content": "A practical example demonstrating Injection Molding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "injection-molding"
+      ]
+    }
+  ]
+}

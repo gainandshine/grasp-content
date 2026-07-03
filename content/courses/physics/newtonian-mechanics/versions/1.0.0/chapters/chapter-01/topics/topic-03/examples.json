@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Contact Forces",
+      "content": "A practical example demonstrating Contact Forces",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "contact-forces"
+      ]
+    }
+  ]
+}

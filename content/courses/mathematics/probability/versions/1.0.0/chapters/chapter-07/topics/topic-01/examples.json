@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Uniform Distribution",
+      "content": "A practical example demonstrating Uniform Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "uniform-distribution"
+      ]
+    }
+  ]
+}

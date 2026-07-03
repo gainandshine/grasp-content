@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Piezoelectric Materials",
+      "content": "A practical example demonstrating Piezoelectric Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "piezoelectric-materials"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Induced EMF",
+      "content": "A practical example demonstrating Induced EMF",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "induced-emf"
+      ]
+    }
+  ]
+}

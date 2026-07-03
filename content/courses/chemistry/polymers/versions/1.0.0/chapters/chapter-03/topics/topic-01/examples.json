@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linear Polymers",
+      "content": "A practical example demonstrating Linear Polymers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "linear-polymers"
+      ]
+    }
+  ]
+}

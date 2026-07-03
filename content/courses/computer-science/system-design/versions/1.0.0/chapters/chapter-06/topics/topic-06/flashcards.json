@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is SQL vs NoSQL in System Design?",
+      "back": "SQL vs NoSQL in System Design is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is SQL vs NoSQL in System Design important?",
+      "back": "SQL vs NoSQL in System Design is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

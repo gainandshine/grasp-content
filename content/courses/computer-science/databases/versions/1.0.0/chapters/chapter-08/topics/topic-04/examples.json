@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Query Execution Plans",
+      "content": "A practical example demonstrating Query Execution Plans",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "query-execution-plans"
+      ]
+    }
+  ]
+}

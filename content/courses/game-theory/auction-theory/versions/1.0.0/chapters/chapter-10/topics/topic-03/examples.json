@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Treasury Auctions",
+      "content": "A practical example demonstrating Treasury Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "treasury-auctions"
+      ]
+    }
+  ]
+}

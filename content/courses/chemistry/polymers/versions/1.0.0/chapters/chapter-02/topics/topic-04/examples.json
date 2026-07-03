@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Step-Growth Polymerization",
+      "content": "A practical example demonstrating Step-Growth Polymerization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "step-growth-polymerization"
+      ]
+    }
+  ]
+}

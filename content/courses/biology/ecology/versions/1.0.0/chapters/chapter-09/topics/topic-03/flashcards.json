@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Greenhouse Effect?",
+      "back": "Greenhouse Effect is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Greenhouse Effect important?",
+      "back": "Greenhouse Effect is essential for understanding Ecology.",
+      "difficulty": "medium"
+    }
+  ]
+}

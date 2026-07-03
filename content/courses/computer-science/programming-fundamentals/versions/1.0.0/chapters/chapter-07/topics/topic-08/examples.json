@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Recursion (Introduction)",
+      "content": "A practical example demonstrating Recursion (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "recursion-introduction"
+      ]
+    }
+  ]
+}

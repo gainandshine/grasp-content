@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Boolean Logic",
+      "content": "A practical example demonstrating Boolean Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "boolean-logic"
+      ]
+    }
+  ]
+}

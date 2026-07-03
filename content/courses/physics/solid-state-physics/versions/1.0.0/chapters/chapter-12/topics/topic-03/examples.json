@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quantum Wires",
+      "content": "A practical example demonstrating Quantum Wires",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "quantum-wires"
+      ]
+    }
+  ]
+}

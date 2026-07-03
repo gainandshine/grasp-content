@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: IP Addressing",
+      "content": "A practical example demonstrating IP Addressing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ip-addressing"
+      ]
+    }
+  ]
+}

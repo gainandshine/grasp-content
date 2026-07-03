@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thin Film Interference",
+      "content": "A practical example demonstrating Thin Film Interference",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "thin-film-interference"
+      ]
+    }
+  ]
+}

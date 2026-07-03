@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: High-Throughput Screening",
+      "content": "A practical example demonstrating High-Throughput Screening",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "high-throughput-screening"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Biomaterials",
+      "content": "A practical example demonstrating Biomaterials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "biomaterials"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gene Silencing",
+      "content": "A practical example demonstrating Gene Silencing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "gene-silencing"
+      ]
+    }
+  ]
+}

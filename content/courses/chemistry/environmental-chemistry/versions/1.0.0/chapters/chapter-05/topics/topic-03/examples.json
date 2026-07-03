@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dissolved Oxygen",
+      "content": "A practical example demonstrating Dissolved Oxygen",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "dissolved-oxygen"
+      ]
+    }
+  ]
+}

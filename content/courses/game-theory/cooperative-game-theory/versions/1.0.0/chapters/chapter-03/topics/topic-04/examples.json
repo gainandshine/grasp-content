@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Non-Transferable Utility (NTU)",
+      "content": "A practical example demonstrating Non-Transferable Utility (NTU)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "non-transferable-utility-ntu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scale Drawings",
+      "content": "A practical example demonstrating Scale Drawings",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "scale-drawings"
+      ]
+    }
+  ]
+}

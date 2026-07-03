@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Primary Batteries?",
+      "back": "Primary Batteries is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Primary Batteries important?",
+      "back": "Primary Batteries is essential for understanding Electrochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

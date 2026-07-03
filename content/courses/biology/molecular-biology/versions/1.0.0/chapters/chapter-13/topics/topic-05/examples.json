@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Systems Biology",
+      "content": "A practical example demonstrating Systems Biology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "systems-biology"
+      ]
+    }
+  ]
+}

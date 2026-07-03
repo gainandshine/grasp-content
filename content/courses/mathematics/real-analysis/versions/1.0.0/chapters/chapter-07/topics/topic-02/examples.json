@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mean Value Theorem",
+      "content": "A practical example demonstrating Mean Value Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "mean-value-theorem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Robust Mechanism Design",
+      "content": "A practical example demonstrating Robust Mechanism Design",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "robust-mechanism-design"
+      ]
+    }
+  ]
+}

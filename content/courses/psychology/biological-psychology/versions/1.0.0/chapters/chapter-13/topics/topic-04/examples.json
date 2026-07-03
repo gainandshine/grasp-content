@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Computational Neuroscience",
+      "content": "A practical example demonstrating Computational Neuroscience",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "computational-neuroscience"
+      ]
+    }
+  ]
+}

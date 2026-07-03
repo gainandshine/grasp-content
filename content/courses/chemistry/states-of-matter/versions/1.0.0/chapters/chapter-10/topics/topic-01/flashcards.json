@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Solutions?",
+      "back": "Solutions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Solutions important?",
+      "back": "Solutions is essential for understanding States of Matter.",
+      "difficulty": "medium"
+    }
+  ]
+}

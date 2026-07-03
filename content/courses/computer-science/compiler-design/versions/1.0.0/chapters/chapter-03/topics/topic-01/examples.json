@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Context-Free Grammars",
+      "content": "A practical example demonstrating Context-Free Grammars",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "context-free-grammars"
+      ]
+    }
+  ]
+}

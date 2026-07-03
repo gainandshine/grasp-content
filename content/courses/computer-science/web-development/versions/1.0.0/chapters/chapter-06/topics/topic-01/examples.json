@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Component-Based Architecture",
+      "content": "A practical example demonstrating Component-Based Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "component-based-architecture"
+      ]
+    }
+  ]
+}

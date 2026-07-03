@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Consensus Problem",
+      "content": "A practical example demonstrating Consensus Problem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "consensus-problem"
+      ]
+    }
+  ]
+}

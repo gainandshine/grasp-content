@@ -1,10 +1,11 @@
 {
   "id": "evolution",
   "title": "Evolution",
-  "description": "This course studies **how life changes over time**, explaining the origin of biological diversity through natural selection, genetic variation, speciation, and evolutionary processes.",
   "version": "1.0.0",
+  "domain": "biology",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:17.503Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.303Z"
 }

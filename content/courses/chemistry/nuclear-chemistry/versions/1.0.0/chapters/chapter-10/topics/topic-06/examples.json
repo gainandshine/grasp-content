@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medical Safety",
+      "content": "A practical example demonstrating Medical Safety",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "medical-safety"
+      ]
+    }
+  ]
+}

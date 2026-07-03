@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Herfindahl-Hirschman Index (HHI)",
+      "content": "A practical example demonstrating Herfindahl-Hirschman Index (HHI)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "herfindahl-hirschman-index-hhi"
+      ]
+    }
+  ]
+}

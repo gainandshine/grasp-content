@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Space Biotechnology",
+      "content": "A practical example demonstrating Space Biotechnology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "space-biotechnology"
+      ]
+    }
+  ]
+}

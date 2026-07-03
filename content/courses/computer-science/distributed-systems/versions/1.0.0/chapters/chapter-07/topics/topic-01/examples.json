@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Two-Phase Commit (2PC)",
+      "content": "A practical example demonstrating Two-Phase Commit (2PC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "two-phase-commit-2pc"
+      ]
+    }
+  ]
+}

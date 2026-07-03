@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Sulfur?",
+      "back": "Sulfur is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Sulfur important?",
+      "back": "Sulfur is essential for understanding Main Group Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Normalization?",
+      "back": "Normalization is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Normalization important?",
+      "back": "Normalization is essential for understanding Quantum Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

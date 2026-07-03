@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Cooperation",
+      "content": "A practical example demonstrating Evolutionary Cooperation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "evolutionary-cooperation"
+      ]
+    }
+  ]
+}

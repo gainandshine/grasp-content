@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Parity?",
+      "back": "Parity is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Parity important?",
+      "back": "Parity is essential for understanding Particle Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

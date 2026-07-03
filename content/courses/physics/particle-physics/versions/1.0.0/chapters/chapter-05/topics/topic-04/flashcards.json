@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Charm Quark?",
+      "back": "Charm Quark is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Charm Quark important?",
+      "back": "Charm Quark is essential for understanding Particle Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

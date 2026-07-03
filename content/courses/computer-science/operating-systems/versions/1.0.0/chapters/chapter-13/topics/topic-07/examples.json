@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: System Monitoring & Diagnostics",
+      "content": "A practical example demonstrating System Monitoring & Diagnostics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "system-monitoring-diagnostics"
+      ]
+    }
+  ]
+}

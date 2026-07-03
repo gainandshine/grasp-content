@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Interactive Media?",
+      "back": "Interactive Media is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Interactive Media important?",
+      "back": "Interactive Media is essential for understanding Aesthetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

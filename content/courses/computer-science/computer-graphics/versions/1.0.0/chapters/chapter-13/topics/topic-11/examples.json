@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Search Algorithms",
+      "content": "A practical example demonstrating Search Algorithms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "search-algorithms"
+      ]
+    }
+  ]
+}

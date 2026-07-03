@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Corporate Finance",
+      "content": "A practical example demonstrating Corporate Finance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "corporate-finance"
+      ]
+    }
+  ]
+}

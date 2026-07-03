@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stablecoins",
+      "content": "A practical example demonstrating Stablecoins",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "stablecoins"
+      ]
+    }
+  ]
+}

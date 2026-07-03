@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is René Descartes?",
+      "back": "René Descartes is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is René Descartes important?",
+      "back": "René Descartes is essential for understanding History of Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

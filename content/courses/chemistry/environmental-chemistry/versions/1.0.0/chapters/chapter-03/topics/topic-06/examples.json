@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Volatile Organic Compounds (VOCs)",
+      "content": "A practical example demonstrating Volatile Organic Compounds (VOCs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "volatile-organic-compounds-vocs"
+      ]
+    }
+  ]
+}

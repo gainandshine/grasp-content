@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrolytic Extraction",
+      "content": "A practical example demonstrating Electrolytic Extraction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electrolytic-extraction"
+      ]
+    }
+  ]
+}

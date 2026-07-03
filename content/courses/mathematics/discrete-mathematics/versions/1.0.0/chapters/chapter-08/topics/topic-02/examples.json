@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linear Recurrence Relations",
+      "content": "A practical example demonstrating Linear Recurrence Relations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "linear-recurrence-relations"
+      ]
+    }
+  ]
+}

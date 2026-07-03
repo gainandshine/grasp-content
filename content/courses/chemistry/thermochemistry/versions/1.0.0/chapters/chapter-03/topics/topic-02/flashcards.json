@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Enthalpy Change (ΔH)?",
+      "back": "Enthalpy Change (ΔH) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Enthalpy Change (ΔH) important?",
+      "back": "Enthalpy Change (ΔH) is essential for understanding Thermochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

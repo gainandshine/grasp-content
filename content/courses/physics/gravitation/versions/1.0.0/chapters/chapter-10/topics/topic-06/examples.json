@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Astrodynamics (Introduction)",
+      "content": "A practical example demonstrating Astrodynamics (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "astrodynamics-introduction"
+      ]
+    }
+  ]
+}

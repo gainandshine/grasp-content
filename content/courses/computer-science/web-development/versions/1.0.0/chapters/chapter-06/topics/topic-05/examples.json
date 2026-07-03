@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Client-Side Rendering",
+      "content": "A practical example demonstrating Client-Side Rendering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "client-side-rendering"
+      ]
+    }
+  ]
+}

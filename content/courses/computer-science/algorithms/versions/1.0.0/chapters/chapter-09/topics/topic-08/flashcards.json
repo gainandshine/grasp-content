@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Kruskal's Algorithm?",
+      "back": "Kruskal's Algorithm is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Kruskal's Algorithm important?",
+      "back": "Kruskal's Algorithm is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Beat Phenomenon?",
+      "back": "Beat Phenomenon is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Beat Phenomenon important?",
+      "back": "Beat Phenomenon is essential for understanding Oscillations & Simple Harmonic Motion (SHM).",
+      "difficulty": "medium"
+    }
+  ]
+}

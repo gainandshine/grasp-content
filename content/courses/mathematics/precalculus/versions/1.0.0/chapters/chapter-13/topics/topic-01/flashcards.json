@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Intuitive Limits?",
+      "back": "Intuitive Limits is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Intuitive Limits important?",
+      "back": "Intuitive Limits is essential for understanding Precalculus.",
+      "difficulty": "medium"
+    }
+  ]
+}

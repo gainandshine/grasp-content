@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Land Reform",
+      "content": "A practical example demonstrating Land Reform",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "land-reform"
+      ]
+    }
+  ]
+}

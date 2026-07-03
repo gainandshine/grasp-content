@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Feature Scaling?",
+      "back": "Feature Scaling is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Feature Scaling important?",
+      "back": "Feature Scaling is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

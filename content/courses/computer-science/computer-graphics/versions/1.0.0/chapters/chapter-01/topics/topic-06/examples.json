@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graphics Applications",
+      "content": "A practical example demonstrating Graphics Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "graphics-applications"
+      ]
+    }
+  ]
+}

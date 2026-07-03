@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: De Moivre's Theorem",
+      "content": "A practical example demonstrating De Moivre's Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "de-moivres-theorem"
+      ]
+    }
+  ]
+}

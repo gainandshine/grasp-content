@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: N-Type Semiconductors",
+      "content": "A practical example demonstrating N-Type Semiconductors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "n-type-semiconductors"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fertilizer Industry",
+      "content": "A practical example demonstrating Fertilizer Industry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "fertilizer-industry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arrow's Axioms",
+      "content": "A practical example demonstrating Arrow's Axioms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "arrows-axioms"
+      ]
+    }
+  ]
+}

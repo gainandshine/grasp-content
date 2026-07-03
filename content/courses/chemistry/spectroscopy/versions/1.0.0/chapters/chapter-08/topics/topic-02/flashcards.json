@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is X-Ray Diffraction (XRD)?",
+      "back": "X-Ray Diffraction (XRD) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is X-Ray Diffraction (XRD) important?",
+      "back": "X-Ray Diffraction (XRD) is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

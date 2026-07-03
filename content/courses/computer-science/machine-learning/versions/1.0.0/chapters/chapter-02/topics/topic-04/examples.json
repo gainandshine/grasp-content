@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Feature Scaling",
+      "content": "A practical example demonstrating Feature Scaling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "feature-scaling"
+      ]
+    }
+  ]
+}

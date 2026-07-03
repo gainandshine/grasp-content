@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Divide & Conquer Strategy",
+      "content": "A practical example demonstrating Divide & Conquer Strategy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "divide-conquer-strategy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lie Groups & Lie Algebras",
+      "content": "A practical example demonstrating Lie Groups & Lie Algebras",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "lie-groups-lie-algebras"
+      ]
+    }
+  ]
+}

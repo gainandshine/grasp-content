@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Learning Agents",
+      "content": "A practical example demonstrating Learning Agents",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "learning-agents"
+      ]
+    }
+  ]
+}

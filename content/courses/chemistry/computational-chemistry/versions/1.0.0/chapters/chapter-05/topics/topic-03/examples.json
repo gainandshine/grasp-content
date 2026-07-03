@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hartree-Fock Theory",
+      "content": "A practical example demonstrating Hartree-Fock Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "hartree-fock-theory"
+      ]
+    }
+  ]
+}

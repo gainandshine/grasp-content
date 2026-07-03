@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Psychoeducation",
+      "content": "A practical example demonstrating Psychoeducation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "psychoeducation"
+      ]
+    }
+  ]
+}

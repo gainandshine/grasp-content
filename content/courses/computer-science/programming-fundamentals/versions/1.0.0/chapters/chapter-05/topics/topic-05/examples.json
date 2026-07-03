@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: switch / match Statements",
+      "content": "A practical example demonstrating switch / match Statements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "switch-match-statements"
+      ]
+    }
+  ]
+}

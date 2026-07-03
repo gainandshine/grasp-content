@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Business Analytics",
+      "content": "A practical example demonstrating Business Analytics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "business-analytics"
+      ]
+    }
+  ]
+}

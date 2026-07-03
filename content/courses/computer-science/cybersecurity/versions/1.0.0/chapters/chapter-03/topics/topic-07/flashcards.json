@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Wireless Security?",
+      "back": "Wireless Security is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Wireless Security important?",
+      "back": "Wireless Security is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Resource Scheduling",
+      "content": "A practical example demonstrating Resource Scheduling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "resource-scheduling"
+      ]
+    }
+  ]
+}

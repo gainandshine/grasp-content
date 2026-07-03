@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Commercial Banks",
+      "content": "A practical example demonstrating Commercial Banks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "commercial-banks"
+      ]
+    }
+  ]
+}

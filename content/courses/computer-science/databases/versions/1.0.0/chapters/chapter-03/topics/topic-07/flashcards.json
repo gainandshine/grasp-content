@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is ORDER BY?",
+      "back": "ORDER BY is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is ORDER BY important?",
+      "back": "ORDER BY is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

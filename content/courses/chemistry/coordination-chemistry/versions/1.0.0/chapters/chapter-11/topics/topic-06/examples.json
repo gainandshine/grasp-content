@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Metal Ion Transport",
+      "content": "A practical example demonstrating Metal Ion Transport",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "metal-ion-transport"
+      ]
+    }
+  ]
+}

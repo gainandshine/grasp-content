@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dummy Variables",
+      "content": "A practical example demonstrating Dummy Variables",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "dummy-variables"
+      ]
+    }
+  ]
+}

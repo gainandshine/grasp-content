@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Weighted Mean",
+      "content": "A practical example demonstrating Weighted Mean",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "weighted-mean"
+      ]
+    }
+  ]
+}

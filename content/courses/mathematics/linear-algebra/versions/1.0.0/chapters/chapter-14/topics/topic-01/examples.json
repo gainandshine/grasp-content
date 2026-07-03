@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Computer Graphics",
+      "content": "A practical example demonstrating Computer Graphics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "computer-graphics"
+      ]
+    }
+  ]
+}

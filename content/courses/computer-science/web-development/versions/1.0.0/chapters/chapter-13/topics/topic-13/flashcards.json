@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is UI/UX for Mobile?",
+      "back": "UI/UX for Mobile is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is UI/UX for Mobile important?",
+      "back": "UI/UX for Mobile is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

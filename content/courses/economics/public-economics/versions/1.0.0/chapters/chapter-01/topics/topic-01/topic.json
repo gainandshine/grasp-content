@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "What is Public Economics?",
-  "description": "Learn about What is Public Economics?",
-  "conceptId": "economics.public-economics.chapter-01.topic-01"
+  "topicId": "economics.public-economics.chapter-01.topic-01",
+  "description": "Learn about What is Public Economics? and its applications in economics.",
+  "content": {
+    "overview": "What is Public Economics? is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of What is Public Economics?. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding What is Public Economics? requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "What is Public Economics? is essential for mastering Public Economics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

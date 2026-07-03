@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cooperative AI",
+      "content": "A practical example demonstrating Cooperative AI",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "cooperative-ai"
+      ]
+    }
+  ]
+}

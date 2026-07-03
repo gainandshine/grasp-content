@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Crystal Systems",
+      "content": "A practical example demonstrating Crystal Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "crystal-systems"
+      ]
+    }
+  ]
+}

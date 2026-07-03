@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Data Hiding?",
+      "back": "Data Hiding is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Data Hiding important?",
+      "back": "Data Hiding is essential for understanding Object-Oriented Programming.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nuclear Power Plants",
+      "content": "A practical example demonstrating Nuclear Power Plants",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "nuclear-power-plants"
+      ]
+    }
+  ]
+}

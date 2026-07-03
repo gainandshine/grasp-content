@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Speed of Sound",
+      "content": "A practical example demonstrating Speed of Sound",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "speed-of-sound"
+      ]
+    }
+  ]
+}

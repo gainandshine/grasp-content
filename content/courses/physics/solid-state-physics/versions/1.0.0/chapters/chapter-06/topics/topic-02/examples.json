@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Valence Band",
+      "content": "A practical example demonstrating Valence Band",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "valence-band"
+      ]
+    }
+  ]
+}

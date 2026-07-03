@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thermogravimetric Analysis (TGA)",
+      "content": "A practical example demonstrating Thermogravimetric Analysis (TGA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "thermogravimetric-analysis-tga"
+      ]
+    }
+  ]
+}

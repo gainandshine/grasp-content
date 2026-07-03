@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Shell Method?",
+      "back": "Shell Method is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Shell Method important?",
+      "back": "Shell Method is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

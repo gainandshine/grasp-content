@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Basic Trigonometric Equations?",
+      "back": "Basic Trigonometric Equations is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Basic Trigonometric Equations important?",
+      "back": "Basic Trigonometric Equations is essential for understanding Trigonometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

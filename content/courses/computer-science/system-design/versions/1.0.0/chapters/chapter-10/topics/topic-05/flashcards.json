@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Disaster Recovery?",
+      "back": "Disaster Recovery is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Disaster Recovery important?",
+      "back": "Disaster Recovery is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

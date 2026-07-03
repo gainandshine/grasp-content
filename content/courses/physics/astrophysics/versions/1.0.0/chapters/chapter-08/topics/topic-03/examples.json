@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Irregular Galaxies",
+      "content": "A practical example demonstrating Irregular Galaxies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "irregular-galaxies"
+      ]
+    }
+  ]
+}

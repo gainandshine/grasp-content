@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Decision Support Systems",
+      "content": "A practical example demonstrating Decision Support Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "decision-support-systems"
+      ]
+    }
+  ]
+}

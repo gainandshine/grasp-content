@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: One-Dimensional Collisions",
+      "content": "A practical example demonstrating One-Dimensional Collisions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "one-dimensional-collisions"
+      ]
+    }
+  ]
+}

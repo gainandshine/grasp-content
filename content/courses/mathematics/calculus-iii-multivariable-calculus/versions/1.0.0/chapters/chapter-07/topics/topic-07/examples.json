@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lagrange Multipliers",
+      "content": "A practical example demonstrating Lagrange Multipliers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "lagrange-multipliers"
+      ]
+    }
+  ]
+}

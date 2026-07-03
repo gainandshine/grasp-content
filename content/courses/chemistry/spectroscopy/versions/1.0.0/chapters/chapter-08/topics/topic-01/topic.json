@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "X-Ray Fluorescence (XRF)",
-  "description": "Learn about X-Ray Fluorescence (XRF)",
-  "conceptId": "chemistry.spectroscopy.chapter-08.topic-01"
+  "topicId": "chemistry.spectroscopy.chapter-08.topic-01",
+  "description": "Learn about X-Ray Fluorescence (XRF) and its applications in chemistry.",
+  "content": {
+    "overview": "X-Ray Fluorescence (XRF) is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of X-Ray Fluorescence (XRF). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding X-Ray Fluorescence (XRF) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "X-Ray Fluorescence (XRF) is essential for mastering Spectroscopy. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

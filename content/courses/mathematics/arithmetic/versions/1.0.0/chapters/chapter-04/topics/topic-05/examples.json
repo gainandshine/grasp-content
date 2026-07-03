@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Prime Factorization",
+      "content": "A practical example demonstrating Prime Factorization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "prime-factorization"
+      ]
+    }
+  ]
+}

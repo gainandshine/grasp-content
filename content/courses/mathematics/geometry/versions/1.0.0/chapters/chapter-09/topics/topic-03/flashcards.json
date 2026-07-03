@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Regular Polygons?",
+      "back": "Regular Polygons is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Regular Polygons important?",
+      "back": "Regular Polygons is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

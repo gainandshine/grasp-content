@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Normal Form Games",
+      "content": "A practical example demonstrating Normal Form Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "normal-form-games"
+      ]
+    }
+  ]
+}

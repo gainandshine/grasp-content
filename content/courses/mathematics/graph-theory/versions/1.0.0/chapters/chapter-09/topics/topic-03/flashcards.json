@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Chromatic Number?",
+      "back": "Chromatic Number is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Chromatic Number important?",
+      "back": "Chromatic Number is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

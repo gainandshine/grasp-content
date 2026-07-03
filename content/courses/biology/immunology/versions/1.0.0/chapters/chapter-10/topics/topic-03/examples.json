@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Immunotherapy",
+      "content": "A practical example demonstrating Immunotherapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "immunotherapy"
+      ]
+    }
+  ]
+}

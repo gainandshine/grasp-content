@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Van der Waals Equation",
+      "content": "A practical example demonstrating Van der Waals Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "van-der-waals-equation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Coinage Metals?",
+      "back": "Coinage Metals is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Coinage Metals important?",
+      "back": "Coinage Metals is essential for understanding Transition Metals.",
+      "difficulty": "medium"
+    }
+  ]
+}

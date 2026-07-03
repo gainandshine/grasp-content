@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Weierstrass M-Test?",
+      "back": "Weierstrass M-Test is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Weierstrass M-Test important?",
+      "back": "Weierstrass M-Test is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

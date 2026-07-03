@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Critical Density",
+      "content": "A practical example demonstrating Critical Density",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "critical-density"
+      ]
+    }
+  ]
+}

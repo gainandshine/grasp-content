@@ -1,32 +1,33 @@
 {
   "id": "chapter-03",
   "name": "Basic Operations",
-  "description": "Fundamental arithmetic operations and order of operations",
+  "description": "Basic Operations",
+  "overview": "This chapter covers the fundamental concepts of Basic Operations.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Addition",
-      "conceptId": "mathematics.arithmetic.chapter-03.topic-01"
+      "topicId": "mathematics.arithmetic.chapter-03.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Subtraction",
-      "conceptId": "mathematics.arithmetic.chapter-03.topic-02"
+      "topicId": "mathematics.arithmetic.chapter-03.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Multiplication",
-      "conceptId": "mathematics.arithmetic.chapter-03.topic-03"
+      "topicId": "mathematics.arithmetic.chapter-03.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Division",
-      "conceptId": "mathematics.arithmetic.chapter-03.topic-04"
+      "topicId": "mathematics.arithmetic.chapter-03.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Order of Operations (BODMAS/PEMDAS)",
-      "conceptId": "mathematics.arithmetic.chapter-03.topic-05"
+      "topicId": "mathematics.arithmetic.chapter-03.topic-05"
     }
   ]
 }

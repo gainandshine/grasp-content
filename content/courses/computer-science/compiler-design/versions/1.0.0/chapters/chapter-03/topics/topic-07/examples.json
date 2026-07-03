@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parser Generators",
+      "content": "A practical example demonstrating Parser Generators",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "parser-generators"
+      ]
+    }
+  ]
+}

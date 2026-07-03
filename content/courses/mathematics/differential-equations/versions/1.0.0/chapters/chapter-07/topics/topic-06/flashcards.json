@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Dirac Delta Function?",
+      "back": "Dirac Delta Function is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Dirac Delta Function important?",
+      "back": "Dirac Delta Function is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Complex Plane",
+      "content": "A practical example demonstrating Complex Plane",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "complex-plane"
+      ]
+    }
+  ]
+}

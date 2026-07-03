@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Static Analysis Tools",
+      "content": "A practical example demonstrating Static Analysis Tools",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "static-analysis-tools"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Green Nanotechnology",
+      "content": "A practical example demonstrating Green Nanotechnology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "green-nanotechnology"
+      ]
+    }
+  ]
+}

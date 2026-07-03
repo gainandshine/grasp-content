@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Generic Classes",
+      "content": "A practical example demonstrating Generic Classes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "generic-classes"
+      ]
+    }
+  ]
+}

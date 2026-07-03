@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Messaging Apps",
+      "content": "A practical example demonstrating Messaging Apps",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "messaging-apps"
+      ]
+    }
+  ]
+}

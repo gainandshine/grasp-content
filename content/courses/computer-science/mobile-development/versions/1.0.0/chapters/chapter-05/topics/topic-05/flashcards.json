@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is File Storage?",
+      "back": "File Storage is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is File Storage important?",
+      "back": "File Storage is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

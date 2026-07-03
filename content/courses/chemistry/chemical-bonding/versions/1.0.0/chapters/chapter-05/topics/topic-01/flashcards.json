@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is VSEPR Theory?",
+      "back": "VSEPR Theory is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is VSEPR Theory important?",
+      "back": "VSEPR Theory is essential for understanding Chemical Bonding.",
+      "difficulty": "medium"
+    }
+  ]
+}

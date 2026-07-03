@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Homo sapiens",
+      "content": "A practical example demonstrating Homo sapiens",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "homo-sapiens"
+      ]
+    }
+  ]
+}

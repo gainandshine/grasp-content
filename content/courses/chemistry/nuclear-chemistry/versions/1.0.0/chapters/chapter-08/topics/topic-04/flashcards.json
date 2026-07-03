@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Control Rods?",
+      "back": "Control Rods is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Control Rods important?",
+      "back": "Control Rods is essential for understanding Nuclear Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

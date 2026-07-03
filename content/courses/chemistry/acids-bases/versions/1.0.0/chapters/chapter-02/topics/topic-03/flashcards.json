@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Lewis Theory?",
+      "back": "Lewis Theory is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Lewis Theory important?",
+      "back": "Lewis Theory is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Profiling?",
+      "back": "Profiling is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Profiling important?",
+      "back": "Profiling is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

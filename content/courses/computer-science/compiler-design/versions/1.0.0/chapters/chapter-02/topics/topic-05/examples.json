@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Finite Automata",
+      "content": "A practical example demonstrating Finite Automata",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "finite-automata"
+      ]
+    }
+  ]
+}

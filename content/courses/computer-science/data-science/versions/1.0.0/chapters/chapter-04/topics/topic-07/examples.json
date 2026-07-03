@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hypothesis Generation",
+      "content": "A practical example demonstrating Hypothesis Generation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "hypothesis-generation"
+      ]
+    }
+  ]
+}

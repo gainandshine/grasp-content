@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "G₁ Phase",
-  "description": "Learn about G₁ Phase",
-  "conceptId": "biology.cell-biology.chapter-07.topic-02"
+  "topicId": "biology.cell-biology.chapter-07.topic-02",
+  "description": "Learn about G₁ Phase and its applications in biology.",
+  "content": {
+    "overview": "G₁ Phase is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of G₁ Phase. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding G₁ Phase requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "G₁ Phase is essential for mastering Cell Biology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

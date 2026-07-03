@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Expectation?",
+      "back": "Expectation is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Expectation important?",
+      "back": "Expectation is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

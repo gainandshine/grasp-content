@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Trigonometric Substitution?",
+      "back": "Trigonometric Substitution is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Trigonometric Substitution important?",
+      "back": "Trigonometric Substitution is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

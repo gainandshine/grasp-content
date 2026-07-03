@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shared Responsibility Model",
+      "content": "A practical example demonstrating Shared Responsibility Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "shared-responsibility-model"
+      ]
+    }
+  ]
+}

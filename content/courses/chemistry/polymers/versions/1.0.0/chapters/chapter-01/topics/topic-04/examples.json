@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molecular Weight",
+      "content": "A practical example demonstrating Molecular Weight",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "molecular-weight"
+      ]
+    }
+  ]
+}

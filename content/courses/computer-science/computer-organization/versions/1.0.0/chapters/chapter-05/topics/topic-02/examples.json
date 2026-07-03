@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arithmetic Logic Unit (ALU)",
+      "content": "A practical example demonstrating Arithmetic Logic Unit (ALU)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "arithmetic-logic-unit-alu"
+      ]
+    }
+  ]
+}

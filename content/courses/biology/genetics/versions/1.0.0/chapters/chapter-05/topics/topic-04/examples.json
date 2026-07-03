@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genetic Mapping",
+      "content": "A practical example demonstrating Genetic Mapping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "genetic-mapping"
+      ]
+    }
+  ]
+}

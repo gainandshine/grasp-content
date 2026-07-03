@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: MHC Class II",
+      "content": "A practical example demonstrating MHC Class II",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "mhc-class-ii"
+      ]
+    }
+  ]
+}

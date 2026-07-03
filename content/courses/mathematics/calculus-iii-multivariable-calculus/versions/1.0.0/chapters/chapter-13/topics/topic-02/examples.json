@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stokes' Theorem",
+      "content": "A practical example demonstrating Stokes' Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "stokes-theorem"
+      ]
+    }
+  ]
+}

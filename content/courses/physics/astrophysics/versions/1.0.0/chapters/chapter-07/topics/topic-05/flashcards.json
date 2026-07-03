@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hawking Radiation?",
+      "back": "Hawking Radiation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hawking Radiation important?",
+      "back": "Hawking Radiation is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

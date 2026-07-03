@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Protein Denaturation",
+      "content": "A practical example demonstrating Protein Denaturation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "protein-denaturation"
+      ]
+    }
+  ]
+}

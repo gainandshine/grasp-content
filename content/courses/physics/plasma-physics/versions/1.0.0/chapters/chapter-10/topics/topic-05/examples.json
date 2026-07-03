@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Microwave Plasma",
+      "content": "A practical example demonstrating Microwave Plasma",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "microwave-plasma"
+      ]
+    }
+  ]
+}

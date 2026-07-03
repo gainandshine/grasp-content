@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Guide RNA",
+      "content": "A practical example demonstrating Guide RNA",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "guide-rna"
+      ]
+    }
+  ]
+}

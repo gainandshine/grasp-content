@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Elevator Problems?",
+      "back": "Elevator Problems is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Elevator Problems important?",
+      "back": "Elevator Problems is essential for understanding Newtonian Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

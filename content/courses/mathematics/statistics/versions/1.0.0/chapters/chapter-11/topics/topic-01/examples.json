@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Simple Linear Regression",
+      "content": "A practical example demonstrating Simple Linear Regression",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "simple-linear-regression"
+      ]
+    }
+  ]
+}

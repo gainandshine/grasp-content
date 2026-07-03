@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Position in the Periodic Table?",
+      "back": "Position in the Periodic Table is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Position in the Periodic Table important?",
+      "back": "Position in the Periodic Table is essential for understanding Transition Metals.",
+      "difficulty": "medium"
+    }
+  ]
+}

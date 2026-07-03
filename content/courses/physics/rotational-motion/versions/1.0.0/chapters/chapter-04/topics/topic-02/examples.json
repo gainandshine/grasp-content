@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radius of Gyration",
+      "content": "A practical example demonstrating Radius of Gyration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "radius-of-gyration"
+      ]
+    }
+  ]
+}

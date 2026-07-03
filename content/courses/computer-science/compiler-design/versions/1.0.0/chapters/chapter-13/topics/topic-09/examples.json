@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graphics Fundamentals",
+      "content": "A practical example demonstrating Graphics Fundamentals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "graphics-fundamentals"
+      ]
+    }
+  ]
+}

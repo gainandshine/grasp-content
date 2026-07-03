@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Agent Economies",
+      "content": "A practical example demonstrating Multi-Agent Economies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "multi-agent-economies"
+      ]
+    }
+  ]
+}

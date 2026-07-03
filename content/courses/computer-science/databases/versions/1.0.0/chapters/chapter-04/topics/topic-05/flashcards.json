@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stored Procedures?",
+      "back": "Stored Procedures is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stored Procedures important?",
+      "back": "Stored Procedures is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

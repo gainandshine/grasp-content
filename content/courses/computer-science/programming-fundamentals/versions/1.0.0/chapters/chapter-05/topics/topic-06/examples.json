@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Conditional Expressions",
+      "content": "A practical example demonstrating Conditional Expressions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "conditional-expressions"
+      ]
+    }
+  ]
+}

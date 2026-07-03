@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Branches of Physics",
+      "content": "A practical example demonstrating Branches of Physics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "branches-of-physics"
+      ]
+    }
+  ]
+}

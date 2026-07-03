@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Applications of First Law",
-  "description": "Learn about Applications of First Law",
-  "conceptId": "physics.newtonian-mechanics.chapter-02.topic-05"
+  "topicId": "physics.newtonian-mechanics.chapter-02.topic-05",
+  "description": "Learn about Applications of First Law and its applications in physics.",
+  "content": {
+    "overview": "Applications of First Law is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Applications of First Law. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Applications of First Law requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Applications of First Law is essential for mastering Newtonian Mechanics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

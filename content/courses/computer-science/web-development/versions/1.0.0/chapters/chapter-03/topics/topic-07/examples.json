@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: CSS Grid",
+      "content": "A practical example demonstrating CSS Grid",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "css-grid"
+      ]
+    }
+  ]
+}

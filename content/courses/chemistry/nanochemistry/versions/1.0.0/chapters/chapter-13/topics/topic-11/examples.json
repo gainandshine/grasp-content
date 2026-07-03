@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nuclear Reactions",
+      "content": "A practical example demonstrating Nuclear Reactions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nuclear-reactions"
+      ]
+    }
+  ]
+}

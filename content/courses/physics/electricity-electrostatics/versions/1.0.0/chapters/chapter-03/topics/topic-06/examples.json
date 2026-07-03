@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dipole Field",
+      "content": "A practical example demonstrating Dipole Field",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dipole-field"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bidding Strategies?",
+      "back": "Bidding Strategies is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bidding Strategies important?",
+      "back": "Bidding Strategies is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

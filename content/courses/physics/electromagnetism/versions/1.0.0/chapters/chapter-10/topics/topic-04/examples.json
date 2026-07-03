@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ampère-Maxwell Law",
+      "content": "A practical example demonstrating Ampère-Maxwell Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ampre-maxwell-law"
+      ]
+    }
+  ]
+}

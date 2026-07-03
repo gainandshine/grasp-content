@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Event Sourcing (Introduction)",
+      "content": "A practical example demonstrating Event Sourcing (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "event-sourcing-introduction"
+      ]
+    }
+  ]
+}

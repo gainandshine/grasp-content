@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Financial Innovation",
+      "content": "A practical example demonstrating Financial Innovation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "financial-innovation"
+      ]
+    }
+  ]
+}

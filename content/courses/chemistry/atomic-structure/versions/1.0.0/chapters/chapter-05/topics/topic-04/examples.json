@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wave-Particle Duality",
+      "content": "A practical example demonstrating Wave-Particle Duality",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "wave-particle-duality"
+      ]
+    }
+  ]
+}

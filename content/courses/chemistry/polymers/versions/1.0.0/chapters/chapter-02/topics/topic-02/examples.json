@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Condensation Polymerization",
+      "content": "A practical example demonstrating Condensation Polymerization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "condensation-polymerization"
+      ]
+    }
+  ]
+}

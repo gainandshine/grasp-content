@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Modular Design?",
+      "back": "Modular Design is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Modular Design important?",
+      "back": "Modular Design is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

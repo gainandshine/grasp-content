@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strategy-Proof Mechanisms",
+      "content": "A practical example demonstrating Strategy-Proof Mechanisms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "strategy-proof-mechanisms"
+      ]
+    }
+  ]
+}

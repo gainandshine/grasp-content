@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Thiophene?",
+      "back": "Thiophene is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Thiophene important?",
+      "back": "Thiophene is essential for understanding Organic Chemistry II.",
+      "difficulty": "medium"
+    }
+  ]
+}

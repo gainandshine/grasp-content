@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Non-Bonded Interactions?",
+      "back": "Non-Bonded Interactions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Non-Bonded Interactions important?",
+      "back": "Non-Bonded Interactions is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

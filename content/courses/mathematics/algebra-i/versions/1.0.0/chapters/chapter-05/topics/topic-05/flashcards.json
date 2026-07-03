@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Point-Slope Form?",
+      "back": "Point-Slope Form is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Point-Slope Form important?",
+      "back": "Point-Slope Form is essential for understanding Algebra I.",
+      "difficulty": "medium"
+    }
+  ]
+}

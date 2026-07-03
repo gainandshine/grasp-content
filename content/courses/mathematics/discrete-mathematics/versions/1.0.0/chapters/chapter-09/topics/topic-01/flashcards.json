@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Graph Basics?",
+      "back": "Graph Basics is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Graph Basics important?",
+      "back": "Graph Basics is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is AI Mechanisms?",
+      "back": "AI Mechanisms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is AI Mechanisms important?",
+      "back": "AI Mechanisms is essential for understanding Evolutionary Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

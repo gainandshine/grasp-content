@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Calibration Curves",
+      "content": "A practical example demonstrating Calibration Curves",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "calibration-curves"
+      ]
+    }
+  ]
+}

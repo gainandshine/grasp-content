@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Consensus Applications",
+      "content": "A practical example demonstrating Consensus Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "consensus-applications"
+      ]
+    }
+  ]
+}

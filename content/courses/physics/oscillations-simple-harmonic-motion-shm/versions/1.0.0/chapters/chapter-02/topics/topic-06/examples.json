@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: SHM Equations",
+      "content": "A practical example demonstrating SHM Equations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "shm-equations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Isotope Labeling",
+      "content": "A practical example demonstrating Isotope Labeling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "isotope-labeling"
+      ]
+    }
+  ]
+}

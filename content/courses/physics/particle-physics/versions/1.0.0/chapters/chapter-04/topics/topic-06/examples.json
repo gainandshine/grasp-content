@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Higgs Boson",
+      "content": "A practical example demonstrating Higgs Boson",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "higgs-boson"
+      ]
+    }
+  ]
+}

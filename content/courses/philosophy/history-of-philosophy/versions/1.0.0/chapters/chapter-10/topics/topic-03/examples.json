@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ludwig Wittgenstein",
+      "content": "A practical example demonstrating Ludwig Wittgenstein",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "ludwig-wittgenstein"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bioinorganic Chemistry?",
+      "back": "Bioinorganic Chemistry is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bioinorganic Chemistry important?",
+      "back": "Bioinorganic Chemistry is essential for understanding Main Group Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

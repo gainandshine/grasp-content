@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cosmic Timeline",
+      "content": "A practical example demonstrating Cosmic Timeline",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "cosmic-timeline"
+      ]
+    }
+  ]
+}

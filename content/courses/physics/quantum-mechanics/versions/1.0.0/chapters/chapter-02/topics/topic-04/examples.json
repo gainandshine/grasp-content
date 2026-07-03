@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Expectation Values",
+      "content": "A practical example demonstrating Expectation Values",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "expectation-values"
+      ]
+    }
+  ]
+}

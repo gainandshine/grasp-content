@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Turing Test?",
+      "back": "Turing Test is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Turing Test important?",
+      "back": "Turing Test is essential for understanding Philosophy of Mind.",
+      "difficulty": "medium"
+    }
+  ]
+}

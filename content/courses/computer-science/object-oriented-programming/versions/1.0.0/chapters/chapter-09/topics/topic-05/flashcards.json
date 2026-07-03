@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Custom Exceptions?",
+      "back": "Custom Exceptions is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Custom Exceptions important?",
+      "back": "Custom Exceptions is essential for understanding Object-Oriented Programming.",
+      "difficulty": "medium"
+    }
+  ]
+}

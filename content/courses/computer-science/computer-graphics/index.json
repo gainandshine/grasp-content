@@ -1,10 +1,11 @@
 {
   "id": "computer-graphics",
   "title": "Computer Graphics",
-  "description": "This course studies **how computers create, manipulate, and render images and 3D scenes**. It covers the mathematics, algorithms, and GPU techniques behind games, simulations, CAD software, and visual effects.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:19.545Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.345Z"
 }

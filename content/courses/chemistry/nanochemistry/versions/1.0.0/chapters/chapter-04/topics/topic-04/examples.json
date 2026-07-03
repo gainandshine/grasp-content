@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nanophotonics",
+      "content": "A practical example demonstrating Nanophotonics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nanophotonics"
+      ]
+    }
+  ]
+}

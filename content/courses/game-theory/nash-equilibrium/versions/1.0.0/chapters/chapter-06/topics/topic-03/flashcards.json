@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fixed Point Intuition?",
+      "back": "Fixed Point Intuition is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fixed Point Intuition important?",
+      "back": "Fixed Point Intuition is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enzyme Classification",
+      "content": "A practical example demonstrating Enzyme Classification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "enzyme-classification"
+      ]
+    }
+  ]
+}

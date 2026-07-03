@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Complete Graphs?",
+      "back": "Complete Graphs is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Complete Graphs important?",
+      "back": "Complete Graphs is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

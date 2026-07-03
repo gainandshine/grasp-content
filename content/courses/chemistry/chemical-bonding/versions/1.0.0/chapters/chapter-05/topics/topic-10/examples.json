@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molecular Shape Prediction",
+      "content": "A practical example demonstrating Molecular Shape Prediction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "molecular-shape-prediction"
+      ]
+    }
+  ]
+}

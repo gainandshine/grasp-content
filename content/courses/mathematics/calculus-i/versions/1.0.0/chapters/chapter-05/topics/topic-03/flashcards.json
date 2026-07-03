@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Related Rates?",
+      "back": "Related Rates is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Related Rates important?",
+      "back": "Related Rates is essential for understanding Calculus I.",
+      "difficulty": "medium"
+    }
+  ]
+}

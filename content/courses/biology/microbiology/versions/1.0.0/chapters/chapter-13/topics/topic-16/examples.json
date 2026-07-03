@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Autoimmune Diseases",
+      "content": "A practical example demonstrating Autoimmune Diseases",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "autoimmune-diseases"
+      ]
+    }
+  ]
+}

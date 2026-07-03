@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bottom-Up Parsing?",
+      "back": "Bottom-Up Parsing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bottom-Up Parsing important?",
+      "back": "Bottom-Up Parsing is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

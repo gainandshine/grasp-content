@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mixing Problems?",
+      "back": "Mixing Problems is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mixing Problems important?",
+      "back": "Mixing Problems is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

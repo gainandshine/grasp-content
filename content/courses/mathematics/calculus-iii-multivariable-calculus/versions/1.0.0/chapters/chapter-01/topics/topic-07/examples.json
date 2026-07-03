@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quadric Surfaces",
+      "content": "A practical example demonstrating Quadric Surfaces",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "quadric-surfaces"
+      ]
+    }
+  ]
+}

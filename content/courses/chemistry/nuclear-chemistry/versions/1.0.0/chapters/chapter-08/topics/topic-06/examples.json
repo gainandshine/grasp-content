@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nuclear Safety",
+      "content": "A practical example demonstrating Nuclear Safety",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nuclear-safety"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Normal Vectors?",
+      "back": "Normal Vectors is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Normal Vectors important?",
+      "back": "Normal Vectors is essential for understanding Computer Graphics.",
+      "difficulty": "medium"
+    }
+  ]
+}

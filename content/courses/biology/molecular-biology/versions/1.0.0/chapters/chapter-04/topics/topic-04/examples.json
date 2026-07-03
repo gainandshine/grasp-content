@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ribosomal RNA (rRNA)",
+      "content": "A practical example demonstrating Ribosomal RNA (rRNA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "ribosomal-rna-rrna"
+      ]
+    }
+  ]
+}

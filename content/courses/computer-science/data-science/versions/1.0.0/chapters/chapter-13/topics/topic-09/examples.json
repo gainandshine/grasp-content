@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cybersecurity Fundamentals",
+      "content": "A practical example demonstrating Cybersecurity Fundamentals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "cybersecurity-fundamentals"
+      ]
+    }
+  ]
+}

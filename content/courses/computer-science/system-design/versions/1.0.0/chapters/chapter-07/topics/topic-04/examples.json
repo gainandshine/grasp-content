@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Asynchronous Communication",
+      "content": "A practical example demonstrating Asynchronous Communication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "asynchronous-communication"
+      ]
+    }
+  ]
+}

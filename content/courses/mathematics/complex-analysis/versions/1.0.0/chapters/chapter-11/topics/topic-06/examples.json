@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Signal Processing",
+      "content": "A practical example demonstrating Signal Processing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "signal-processing"
+      ]
+    }
+  ]
+}

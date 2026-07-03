@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pharmacophore Modeling",
+      "content": "A practical example demonstrating Pharmacophore Modeling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "pharmacophore-modeling"
+      ]
+    }
+  ]
+}

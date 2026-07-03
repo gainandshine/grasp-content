@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Machine Translation",
+      "content": "A practical example demonstrating Machine Translation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "machine-translation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Auto Scaling?",
+      "back": "Auto Scaling is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Auto Scaling important?",
+      "back": "Auto Scaling is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

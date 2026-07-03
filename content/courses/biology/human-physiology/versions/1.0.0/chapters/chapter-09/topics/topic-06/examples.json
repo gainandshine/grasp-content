@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pregnancy",
+      "content": "A practical example demonstrating Pregnancy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "pregnancy"
+      ]
+    }
+  ]
+}

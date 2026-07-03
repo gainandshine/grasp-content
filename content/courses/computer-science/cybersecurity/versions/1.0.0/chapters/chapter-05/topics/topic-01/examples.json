@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Secure Coding",
+      "content": "A practical example demonstrating Secure Coding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "secure-coding"
+      ]
+    }
+  ]
+}

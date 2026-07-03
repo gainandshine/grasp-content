@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Rouché's Theorem?",
+      "back": "Rouché's Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Rouché's Theorem important?",
+      "back": "Rouché's Theorem is essential for understanding Complex Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

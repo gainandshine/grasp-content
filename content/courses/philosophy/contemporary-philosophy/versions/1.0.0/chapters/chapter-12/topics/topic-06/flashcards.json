@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Education?",
+      "back": "Education is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Education important?",
+      "back": "Education is essential for understanding Contemporary Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

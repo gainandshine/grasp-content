@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radio Telescopes",
+      "content": "A practical example demonstrating Radio Telescopes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "radio-telescopes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Finite Fields (Introduction)",
+      "content": "A practical example demonstrating Finite Fields (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "finite-fields-introduction"
+      ]
+    }
+  ]
+}

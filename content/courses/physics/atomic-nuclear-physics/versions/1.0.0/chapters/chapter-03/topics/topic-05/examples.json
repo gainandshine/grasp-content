@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Atomic Orbitals",
+      "content": "A practical example demonstrating Atomic Orbitals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "atomic-orbitals"
+      ]
+    }
+  ]
+}

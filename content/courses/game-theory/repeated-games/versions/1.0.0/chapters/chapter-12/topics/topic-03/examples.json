@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Repeated Decision Algorithms",
+      "content": "A practical example demonstrating Repeated Decision Algorithms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "repeated-decision-algorithms"
+      ]
+    }
+  ]
+}

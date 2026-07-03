@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Iterated Elimination",
+      "content": "A practical example demonstrating Iterated Elimination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "iterated-elimination"
+      ]
+    }
+  ]
+}

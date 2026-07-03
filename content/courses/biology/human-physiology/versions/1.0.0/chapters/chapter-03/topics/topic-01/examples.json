@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Muscle Contraction",
+      "content": "A practical example demonstrating Muscle Contraction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "muscle-contraction"
+      ]
+    }
+  ]
+}

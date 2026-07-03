@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Files (CSV, JSON, Excel)",
+      "content": "A practical example demonstrating Files (CSV, JSON, Excel)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "files-csv-json-excel"
+      ]
+    }
+  ]
+}

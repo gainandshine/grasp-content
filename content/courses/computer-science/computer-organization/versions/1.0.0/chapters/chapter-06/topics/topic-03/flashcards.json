@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cache Memory?",
+      "back": "Cache Memory is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cache Memory important?",
+      "back": "Cache Memory is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

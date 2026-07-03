@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Basic File Input & Output",
+      "content": "A practical example demonstrating Basic File Input & Output",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "basic-file-input-output"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Functions of an Operating System",
+      "content": "A practical example demonstrating Functions of an Operating System",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "functions-of-an-operating-system"
+      ]
+    }
+  ]
+}

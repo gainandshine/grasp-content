@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Truthfulness",
+      "content": "A practical example demonstrating Truthfulness",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "truthfulness"
+      ]
+    }
+  ]
+}

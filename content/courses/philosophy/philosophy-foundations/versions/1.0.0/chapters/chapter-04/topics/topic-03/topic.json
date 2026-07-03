@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Being",
-  "description": "Learn about Being",
-  "conceptId": "philosophy.philosophy-foundations.chapter-04.topic-03"
+  "topicId": "philosophy.philosophy-foundations.chapter-04.topic-03",
+  "description": "Learn about Being and its applications in philosophy.",
+  "content": {
+    "overview": "Being is a fundamental concept in philosophy. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Being. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Being requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Being is essential for mastering Philosophy Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

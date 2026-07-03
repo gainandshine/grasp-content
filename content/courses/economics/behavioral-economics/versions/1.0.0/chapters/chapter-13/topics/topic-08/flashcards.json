@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Statistical Foundations?",
+      "back": "Statistical Foundations is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Statistical Foundations important?",
+      "back": "Statistical Foundations is essential for understanding Behavioral Economics.",
+      "difficulty": "medium"
+    }
+  ]
+}

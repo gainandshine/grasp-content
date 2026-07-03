@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnetic Intensity",
+      "content": "A practical example demonstrating Magnetic Intensity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "magnetic-intensity"
+      ]
+    }
+  ]
+}

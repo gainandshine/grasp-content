@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Urea Cycle",
+      "content": "A practical example demonstrating Urea Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "urea-cycle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Absolute vs Conditional Convergence?",
+      "back": "Absolute vs Conditional Convergence is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Absolute vs Conditional Convergence important?",
+      "back": "Absolute vs Conditional Convergence is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

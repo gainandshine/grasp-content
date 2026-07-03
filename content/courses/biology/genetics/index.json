@@ -1,10 +1,11 @@
 {
   "id": "genetics",
   "title": "Genetics",
-  "description": "This course studies **how traits are inherited, how genes are passed between generations, and how genetic variation shapes living organisms**. It forms the bridge between molecular biology and evolution.",
   "version": "1.0.0",
+  "domain": "biology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:17.427Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.301Z"
 }

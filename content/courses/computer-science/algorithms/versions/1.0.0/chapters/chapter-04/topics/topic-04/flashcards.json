@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Merge Sort?",
+      "back": "Merge Sort is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Merge Sort important?",
+      "back": "Merge Sort is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

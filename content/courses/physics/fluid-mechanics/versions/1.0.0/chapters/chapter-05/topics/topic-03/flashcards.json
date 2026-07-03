@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Venturi Effect?",
+      "back": "Venturi Effect is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Venturi Effect important?",
+      "back": "Venturi Effect is essential for understanding Fluid Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

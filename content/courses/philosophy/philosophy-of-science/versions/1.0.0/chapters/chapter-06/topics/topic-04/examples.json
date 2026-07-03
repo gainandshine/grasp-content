@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Observable vs Unobservable Entities",
+      "content": "A practical example demonstrating Observable vs Unobservable Entities",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "observable-vs-unobservable-entities"
+      ]
+    }
+  ]
+}

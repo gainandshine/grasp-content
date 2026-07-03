@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Modern Compiler Architecture",
+      "content": "A practical example demonstrating Modern Compiler Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "modern-compiler-architecture"
+      ]
+    }
+  ]
+}

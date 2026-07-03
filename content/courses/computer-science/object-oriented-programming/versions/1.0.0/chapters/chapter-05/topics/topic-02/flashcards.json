@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Base Class?",
+      "back": "Base Class is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Base Class important?",
+      "back": "Base Class is essential for understanding Object-Oriented Programming.",
+      "difficulty": "medium"
+    }
+  ]
+}

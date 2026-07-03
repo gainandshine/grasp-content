@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Common Subexpression Elimination",
+      "content": "A practical example demonstrating Common Subexpression Elimination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "common-subexpression-elimination"
+      ]
+    }
+  ]
+}

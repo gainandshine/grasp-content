@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Triangle Inequality",
+      "content": "A practical example demonstrating Triangle Inequality",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "triangle-inequality"
+      ]
+    }
+  ]
+}

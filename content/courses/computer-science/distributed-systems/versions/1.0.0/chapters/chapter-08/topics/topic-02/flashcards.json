@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Redundancy?",
+      "back": "Redundancy is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Redundancy important?",
+      "back": "Redundancy is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

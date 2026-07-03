@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Continuous Random Variables",
+      "content": "A practical example demonstrating Continuous Random Variables",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "continuous-random-variables"
+      ]
+    }
+  ]
+}

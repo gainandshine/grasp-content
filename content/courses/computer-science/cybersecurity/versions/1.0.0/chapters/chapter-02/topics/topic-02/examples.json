@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Symmetric Encryption",
+      "content": "A practical example demonstrating Symmetric Encryption",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "symmetric-encryption"
+      ]
+    }
+  ]
+}

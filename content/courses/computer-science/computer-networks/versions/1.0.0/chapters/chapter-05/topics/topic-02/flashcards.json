@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is IPv4?",
+      "back": "IPv4 is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is IPv4 important?",
+      "back": "IPv4 is essential for understanding Computer Networks.",
+      "difficulty": "medium"
+    }
+  ]
+}

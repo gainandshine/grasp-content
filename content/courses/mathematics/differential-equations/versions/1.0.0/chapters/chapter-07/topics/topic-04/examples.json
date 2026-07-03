@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Solving Differential Equations",
+      "content": "A practical example demonstrating Solving Differential Equations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "solving-differential-equations"
+      ]
+    }
+  ]
+}

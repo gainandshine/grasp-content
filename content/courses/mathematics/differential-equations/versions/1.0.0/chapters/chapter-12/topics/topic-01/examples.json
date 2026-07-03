@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Euler's Method",
+      "content": "A practical example demonstrating Euler's Method",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "eulers-method"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Regulatory Compliance",
+      "content": "A practical example demonstrating Regulatory Compliance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "regulatory-compliance"
+      ]
+    }
+  ]
+}

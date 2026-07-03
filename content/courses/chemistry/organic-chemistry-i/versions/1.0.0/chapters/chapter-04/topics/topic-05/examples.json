@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Branched Chains",
+      "content": "A practical example demonstrating Branched Chains",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "branched-chains"
+      ]
+    }
+  ]
+}

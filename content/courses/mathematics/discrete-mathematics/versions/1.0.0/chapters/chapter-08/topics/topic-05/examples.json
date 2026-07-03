@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fibonacci Sequence",
+      "content": "A practical example demonstrating Fibonacci Sequence",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "fibonacci-sequence"
+      ]
+    }
+  ]
+}

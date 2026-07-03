@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Naming Conventions",
+      "content": "A practical example demonstrating Naming Conventions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "naming-conventions"
+      ]
+    }
+  ]
+}

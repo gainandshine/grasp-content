@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: App Lifecycle Management",
+      "content": "A practical example demonstrating App Lifecycle Management",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "app-lifecycle-management"
+      ]
+    }
+  ]
+}

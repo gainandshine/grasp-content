@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Event Streaming?",
+      "back": "Event Streaming is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Event Streaming important?",
+      "back": "Event Streaming is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

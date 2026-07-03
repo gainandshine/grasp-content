@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Area of Quadrilaterals?",
+      "back": "Area of Quadrilaterals is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Area of Quadrilaterals important?",
+      "back": "Area of Quadrilaterals is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

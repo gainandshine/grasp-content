@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Big Θ Notation?",
+      "back": "Big Θ Notation is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Big Θ Notation important?",
+      "back": "Big Θ Notation is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

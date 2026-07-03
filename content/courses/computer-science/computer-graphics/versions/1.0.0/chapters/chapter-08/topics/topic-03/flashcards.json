@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Texture Filtering?",
+      "back": "Texture Filtering is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Texture Filtering important?",
+      "back": "Texture Filtering is essential for understanding Computer Graphics.",
+      "difficulty": "medium"
+    }
+  ]
+}

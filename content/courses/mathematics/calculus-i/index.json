@@ -1,10 +1,11 @@
 {
   "id": "calculus-i",
   "title": "Calculus I",
-  "description": "This is the first true calculus course.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:14.177Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.218Z"
 }

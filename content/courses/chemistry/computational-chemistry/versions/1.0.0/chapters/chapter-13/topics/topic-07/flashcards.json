@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Quantum Computing for Chemistry?",
+      "back": "Quantum Computing for Chemistry is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Quantum Computing for Chemistry important?",
+      "back": "Quantum Computing for Chemistry is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

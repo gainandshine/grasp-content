@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Improper Integrals",
+      "content": "A practical example demonstrating Improper Integrals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "improper-integrals"
+      ]
+    }
+  ]
+}

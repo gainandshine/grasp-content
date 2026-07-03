@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI-Generated Art",
+      "content": "A practical example demonstrating AI-Generated Art",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "ai-generated-art"
+      ]
+    }
+  ]
+}

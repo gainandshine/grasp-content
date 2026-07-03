@@ -1,6 +1,16 @@
 {
   "id": "topic-18",
   "name": "Immunodeficiency",
-  "description": "Learn about Immunodeficiency",
-  "conceptId": "biology.microbiology.chapter-13.topic-18"
+  "topicId": "biology.microbiology.chapter-13.topic-18",
+  "description": "Learn about Immunodeficiency and its applications in biology.",
+  "content": {
+    "overview": "Immunodeficiency is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Immunodeficiency. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Immunodeficiency requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Immunodeficiency is essential for mastering Microbiology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

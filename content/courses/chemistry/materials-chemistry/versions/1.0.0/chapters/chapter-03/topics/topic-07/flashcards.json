@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Shape Memory Alloys?",
+      "back": "Shape Memory Alloys is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Shape Memory Alloys important?",
+      "back": "Shape Memory Alloys is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

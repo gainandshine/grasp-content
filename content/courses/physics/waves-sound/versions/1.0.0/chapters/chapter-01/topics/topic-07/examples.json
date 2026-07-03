@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wave Pulse",
+      "content": "A practical example demonstrating Wave Pulse",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "wave-pulse"
+      ]
+    }
+  ]
+}

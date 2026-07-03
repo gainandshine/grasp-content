@@ -1,10 +1,11 @@
 {
   "id": "thermochemistry",
   "title": "Thermochemistry",
-  "description": "This course studies **how energy changes during chemical reactions**. It is one of the core subjects of physical chemistry and explains why reactions release or absorb heat.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:15.489Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.255Z"
 }

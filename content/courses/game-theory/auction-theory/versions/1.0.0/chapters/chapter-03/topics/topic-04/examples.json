@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bidding Strategies",
+      "content": "A practical example demonstrating Bidding Strategies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "bidding-strategies"
+      ]
+    }
+  ]
+}

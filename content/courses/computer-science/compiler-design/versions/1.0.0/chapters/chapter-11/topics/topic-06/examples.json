@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Incremental Compilation",
+      "content": "A practical example demonstrating Incremental Compilation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "incremental-compilation"
+      ]
+    }
+  ]
+}

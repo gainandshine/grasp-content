@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bohr Model",
+      "content": "A practical example demonstrating Bohr Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "bohr-model"
+      ]
+    }
+  ]
+}

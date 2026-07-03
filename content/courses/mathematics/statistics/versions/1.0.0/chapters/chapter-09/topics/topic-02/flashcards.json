@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is T-Test?",
+      "back": "T-Test is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is T-Test important?",
+      "back": "T-Test is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

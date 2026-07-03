@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Blockchain Consensus?",
+      "back": "Blockchain Consensus is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Blockchain Consensus important?",
+      "back": "Blockchain Consensus is essential for understanding Applications of Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

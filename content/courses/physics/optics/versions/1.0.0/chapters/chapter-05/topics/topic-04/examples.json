@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnifying Glass",
+      "content": "A practical example demonstrating Magnifying Glass",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "magnifying-glass"
+      ]
+    }
+  ]
+}

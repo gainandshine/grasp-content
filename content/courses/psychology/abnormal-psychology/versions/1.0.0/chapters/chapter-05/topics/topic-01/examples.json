@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Major Depressive Disorder",
+      "content": "A practical example demonstrating Major Depressive Disorder",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "major-depressive-disorder"
+      ]
+    }
+  ]
+}

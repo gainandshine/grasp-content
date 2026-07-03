@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Torque Direction",
+      "content": "A practical example demonstrating Torque Direction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "torque-direction"
+      ]
+    }
+  ]
+}

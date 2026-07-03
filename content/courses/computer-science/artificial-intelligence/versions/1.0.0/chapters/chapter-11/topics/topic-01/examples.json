@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Generative AI",
+      "content": "A practical example demonstrating Generative AI",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "generative-ai"
+      ]
+    }
+  ]
+}

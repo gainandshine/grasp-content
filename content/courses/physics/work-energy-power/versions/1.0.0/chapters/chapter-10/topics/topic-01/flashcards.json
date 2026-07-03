@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Roller Coasters?",
+      "back": "Roller Coasters is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Roller Coasters important?",
+      "back": "Roller Coasters is essential for understanding Work, Energy & Power.",
+      "difficulty": "medium"
+    }
+  ]
+}

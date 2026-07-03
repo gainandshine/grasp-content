@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Runtime Systems?",
+      "back": "Runtime Systems is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Runtime Systems important?",
+      "back": "Runtime Systems is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

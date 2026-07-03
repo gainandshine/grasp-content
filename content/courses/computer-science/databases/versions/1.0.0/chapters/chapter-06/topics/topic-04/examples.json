@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Third Normal Form (3NF)",
+      "content": "A practical example demonstrating Third Normal Form (3NF)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "third-normal-form-3nf"
+      ]
+    }
+  ]
+}

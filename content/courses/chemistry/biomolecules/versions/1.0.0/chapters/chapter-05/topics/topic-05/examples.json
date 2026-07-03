@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Tertiary Structure",
+      "content": "A practical example demonstrating Tertiary Structure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "tertiary-structure"
+      ]
+    }
+  ]
+}

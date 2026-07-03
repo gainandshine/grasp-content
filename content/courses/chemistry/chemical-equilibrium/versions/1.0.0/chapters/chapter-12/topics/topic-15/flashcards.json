@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Titrations?",
+      "back": "Titrations is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Titrations important?",
+      "back": "Titrations is essential for understanding Chemical Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI Strategy",
+      "content": "A practical example demonstrating AI Strategy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "ai-strategy"
+      ]
+    }
+  ]
+}

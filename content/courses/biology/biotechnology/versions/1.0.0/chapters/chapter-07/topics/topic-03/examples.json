@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Recombinant Proteins",
+      "content": "A practical example demonstrating Recombinant Proteins",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "recombinant-proteins"
+      ]
+    }
+  ]
+}

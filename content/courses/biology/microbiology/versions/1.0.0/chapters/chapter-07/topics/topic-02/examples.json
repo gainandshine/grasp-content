@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Binary Fission",
+      "content": "A practical example demonstrating Binary Fission",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "binary-fission"
+      ]
+    }
+  ]
+}

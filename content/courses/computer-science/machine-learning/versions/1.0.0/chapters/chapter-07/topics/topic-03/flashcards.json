@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Feedforward Networks?",
+      "back": "Feedforward Networks is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Feedforward Networks important?",
+      "back": "Feedforward Networks is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

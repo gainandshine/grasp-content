@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chlorophyll",
+      "content": "A practical example demonstrating Chlorophyll",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "chlorophyll"
+      ]
+    }
+  ]
+}

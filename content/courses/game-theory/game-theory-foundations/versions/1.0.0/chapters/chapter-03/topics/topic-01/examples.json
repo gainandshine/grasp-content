@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cooperative vs Non-Cooperative Games",
+      "content": "A practical example demonstrating Cooperative vs Non-Cooperative Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "cooperative-vs-non-cooperative-games"
+      ]
+    }
+  ]
+}

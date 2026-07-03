@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Natural Experiments?",
+      "back": "Natural Experiments is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Natural Experiments important?",
+      "back": "Natural Experiments is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

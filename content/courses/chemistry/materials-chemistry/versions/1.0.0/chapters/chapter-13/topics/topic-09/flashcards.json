@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fundamentals of Nanoscience?",
+      "back": "Fundamentals of Nanoscience is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fundamentals of Nanoscience important?",
+      "back": "Fundamentals of Nanoscience is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

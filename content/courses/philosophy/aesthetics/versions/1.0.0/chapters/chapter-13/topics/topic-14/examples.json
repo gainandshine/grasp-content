@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Renaissance Philosophy",
+      "content": "A practical example demonstrating Renaissance Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "renaissance-philosophy"
+      ]
+    }
+  ]
+}

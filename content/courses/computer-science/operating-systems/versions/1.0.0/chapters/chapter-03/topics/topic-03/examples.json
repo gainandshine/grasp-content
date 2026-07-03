@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: First-Come, First-Served (FCFS)",
+      "content": "A practical example demonstrating First-Come, First-Served (FCFS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "first-come-first-served-fcfs"
+      ]
+    }
+  ]
+}

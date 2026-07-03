@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Compilation vs Interpretation?",
+      "back": "Compilation vs Interpretation is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Compilation vs Interpretation important?",
+      "back": "Compilation vs Interpretation is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

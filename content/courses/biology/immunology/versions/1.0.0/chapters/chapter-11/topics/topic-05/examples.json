@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Serological Tests",
+      "content": "A practical example demonstrating Serological Tests",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "serological-tests"
+      ]
+    }
+  ]
+}

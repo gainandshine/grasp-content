@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Atomic Force Microscopy (AFM)",
+      "content": "A practical example demonstrating Atomic Force Microscopy (AFM)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "atomic-force-microscopy-afm"
+      ]
+    }
+  ]
+}

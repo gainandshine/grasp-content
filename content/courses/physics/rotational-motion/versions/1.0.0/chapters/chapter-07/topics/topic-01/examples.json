@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rolling Without Slipping",
+      "content": "A practical example demonstrating Rolling Without Slipping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rolling-without-slipping"
+      ]
+    }
+  ]
+}

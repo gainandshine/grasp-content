@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deep Neural Networks",
+      "content": "A practical example demonstrating Deep Neural Networks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "deep-neural-networks"
+      ]
+    }
+  ]
+}

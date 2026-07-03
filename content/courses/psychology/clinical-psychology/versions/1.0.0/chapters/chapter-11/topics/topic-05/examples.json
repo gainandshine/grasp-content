@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Telepsychology",
+      "content": "A practical example demonstrating Telepsychology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "telepsychology"
+      ]
+    }
+  ]
+}

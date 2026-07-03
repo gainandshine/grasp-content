@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Technical Debt",
+      "content": "A practical example demonstrating Technical Debt",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "technical-debt"
+      ]
+    }
+  ]
+}

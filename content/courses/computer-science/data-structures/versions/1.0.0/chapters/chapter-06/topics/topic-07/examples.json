@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hash Map Applications",
+      "content": "A practical example demonstrating Hash Map Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "hash-map-applications"
+      ]
+    }
+  ]
+}

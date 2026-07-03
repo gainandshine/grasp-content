@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Uncertainty Analysis",
+      "content": "A practical example demonstrating Uncertainty Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "uncertainty-analysis"
+      ]
+    }
+  ]
+}

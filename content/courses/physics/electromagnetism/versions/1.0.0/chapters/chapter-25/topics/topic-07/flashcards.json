@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Industrial Electrical Systems?",
+      "back": "Industrial Electrical Systems is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Industrial Electrical Systems important?",
+      "back": "Industrial Electrical Systems is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

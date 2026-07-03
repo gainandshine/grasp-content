@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Maximal Ideals",
+      "content": "A practical example demonstrating Maximal Ideals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "maximal-ideals"
+      ]
+    }
+  ]
+}

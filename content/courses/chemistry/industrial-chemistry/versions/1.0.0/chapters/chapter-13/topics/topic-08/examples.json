@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 25: Computational Chemistry**",
+      "content": "A practical example demonstrating *Course 25: Computational Chemistry**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "course-25-computational-chemistry"
+      ]
+    }
+  ]
+}

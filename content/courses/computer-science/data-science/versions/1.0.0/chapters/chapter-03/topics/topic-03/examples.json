@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Duplicate Data",
+      "content": "A practical example demonstrating Duplicate Data",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "duplicate-data"
+      ]
+    }
+  ]
+}

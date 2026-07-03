@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Monitoring Models",
+      "content": "A practical example demonstrating Monitoring Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "monitoring-models"
+      ]
+    }
+  ]
+}

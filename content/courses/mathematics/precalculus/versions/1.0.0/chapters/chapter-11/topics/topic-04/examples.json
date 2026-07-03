@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Geometric Series",
+      "content": "A practical example demonstrating Geometric Series",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "geometric-series"
+      ]
+    }
+  ]
+}

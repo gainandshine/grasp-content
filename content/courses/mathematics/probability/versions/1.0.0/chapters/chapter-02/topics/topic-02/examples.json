@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multiplication Rule",
+      "content": "A practical example demonstrating Multiplication Rule",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "multiplication-rule"
+      ]
+    }
+  ]
+}

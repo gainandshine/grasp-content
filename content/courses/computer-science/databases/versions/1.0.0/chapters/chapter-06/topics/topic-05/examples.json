@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Boyce-Codd Normal Form (BCNF)",
+      "content": "A practical example demonstrating Boyce-Codd Normal Form (BCNF)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "boyce-codd-normal-form-bcnf"
+      ]
+    }
+  ]
+}

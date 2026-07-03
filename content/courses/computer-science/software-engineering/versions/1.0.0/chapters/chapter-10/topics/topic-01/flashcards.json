@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Continuous Integration (CI)?",
+      "back": "Continuous Integration (CI) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Continuous Integration (CI) important?",
+      "back": "Continuous Integration (CI) is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

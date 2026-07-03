@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Block Matrices",
+      "content": "A practical example demonstrating Block Matrices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "block-matrices"
+      ]
+    }
+  ]
+}

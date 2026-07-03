@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Supercritical Fluids",
+      "content": "A practical example demonstrating Supercritical Fluids",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "supercritical-fluids"
+      ]
+    }
+  ]
+}

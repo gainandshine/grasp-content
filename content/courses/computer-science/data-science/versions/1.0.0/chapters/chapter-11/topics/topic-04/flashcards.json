@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fairness?",
+      "back": "Fairness is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fairness important?",
+      "back": "Fairness is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

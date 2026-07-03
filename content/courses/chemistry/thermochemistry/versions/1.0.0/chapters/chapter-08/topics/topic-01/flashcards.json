@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Entropy (S)?",
+      "back": "Entropy (S) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Entropy (S) important?",
+      "back": "Entropy (S) is essential for understanding Thermochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

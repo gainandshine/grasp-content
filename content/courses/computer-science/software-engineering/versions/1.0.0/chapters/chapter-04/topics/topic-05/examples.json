@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: State Diagrams",
+      "content": "A practical example demonstrating State Diagrams",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "state-diagrams"
+      ]
+    }
+  ]
+}

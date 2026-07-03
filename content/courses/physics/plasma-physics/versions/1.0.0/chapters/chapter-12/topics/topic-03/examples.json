@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Relativistic Plasma",
+      "content": "A practical example demonstrating Relativistic Plasma",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "relativistic-plasma"
+      ]
+    }
+  ]
+}

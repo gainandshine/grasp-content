@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multiset Counting",
+      "content": "A practical example demonstrating Multiset Counting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "multiset-counting"
+      ]
+    }
+  ]
+}

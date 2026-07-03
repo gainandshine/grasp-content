@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Functions of Random Variables",
-  "description": "Learn about Functions of Random Variables",
-  "conceptId": "mathematics.probability.chapter-09.topic-02"
+  "topicId": "mathematics.probability.chapter-09.topic-02",
+  "description": "Learn about Functions of Random Variables and its applications in mathematics.",
+  "content": {
+    "overview": "Functions of Random Variables is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Functions of Random Variables. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Functions of Random Variables requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Functions of Random Variables is essential for mastering Probability. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

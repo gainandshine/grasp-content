@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Force Carriers",
+      "content": "A practical example demonstrating Force Carriers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "force-carriers"
+      ]
+    }
+  ]
+}

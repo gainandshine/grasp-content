@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bertrand Russell?",
+      "back": "Bertrand Russell is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bertrand Russell important?",
+      "back": "Bertrand Russell is essential for understanding History of Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

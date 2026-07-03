@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Software Maintenance?",
+      "back": "Software Maintenance is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Software Maintenance important?",
+      "back": "Software Maintenance is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

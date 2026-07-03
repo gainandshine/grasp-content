@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Auction Dynamics",
+      "content": "A practical example demonstrating Auction Dynamics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "auction-dynamics"
+      ]
+    }
+  ]
+}

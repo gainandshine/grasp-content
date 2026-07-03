@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Industrial Production",
+      "content": "A practical example demonstrating Industrial Production",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "industrial-production"
+      ]
+    }
+  ]
+}

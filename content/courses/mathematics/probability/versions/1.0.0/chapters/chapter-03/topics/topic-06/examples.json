@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bayes' Theorem",
+      "content": "A practical example demonstrating Bayes' Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "bayes-theorem"
+      ]
+    }
+  ]
+}

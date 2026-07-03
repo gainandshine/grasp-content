@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Perturbation Theory",
+      "content": "A practical example demonstrating Perturbation Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "perturbation-theory"
+      ]
+    }
+  ]
+}

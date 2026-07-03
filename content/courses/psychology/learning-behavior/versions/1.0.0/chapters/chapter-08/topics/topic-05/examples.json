@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spaced Repetition",
+      "content": "A practical example demonstrating Spaced Repetition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "spaced-repetition"
+      ]
+    }
+  ]
+}

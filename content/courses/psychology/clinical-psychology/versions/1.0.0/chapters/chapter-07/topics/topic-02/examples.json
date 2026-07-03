@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Couples Therapy",
+      "content": "A practical example demonstrating Couples Therapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "couples-therapy"
+      ]
+    }
+  ]
+}

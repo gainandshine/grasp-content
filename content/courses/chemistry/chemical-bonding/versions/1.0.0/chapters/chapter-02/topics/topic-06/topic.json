@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Properties of Ionic Compounds",
-  "description": "Learn about Properties of Ionic Compounds",
-  "conceptId": "chemistry.chemical-bonding.chapter-02.topic-06"
+  "topicId": "chemistry.chemical-bonding.chapter-02.topic-06",
+  "description": "Learn about Properties of Ionic Compounds and its applications in chemistry.",
+  "content": {
+    "overview": "Properties of Ionic Compounds is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Properties of Ionic Compounds. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Properties of Ionic Compounds requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Properties of Ionic Compounds is essential for mastering Chemical Bonding. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

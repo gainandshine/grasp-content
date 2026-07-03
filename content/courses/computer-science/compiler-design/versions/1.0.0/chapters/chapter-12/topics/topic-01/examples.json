@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Building a Simple Compiler",
+      "content": "A practical example demonstrating Building a Simple Compiler",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "building-a-simple-compiler"
+      ]
+    }
+  ]
+}

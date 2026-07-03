@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Constrained Optimization",
+      "content": "A practical example demonstrating Constrained Optimization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "constrained-optimization"
+      ]
+    }
+  ]
+}

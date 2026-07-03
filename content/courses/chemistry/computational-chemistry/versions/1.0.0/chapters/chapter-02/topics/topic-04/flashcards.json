@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Numerical Methods?",
+      "back": "Numerical Methods is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Numerical Methods important?",
+      "back": "Numerical Methods is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

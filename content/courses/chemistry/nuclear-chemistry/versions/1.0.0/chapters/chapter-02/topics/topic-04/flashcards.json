@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mass Defect?",
+      "back": "Mass Defect is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mass Defect important?",
+      "back": "Mass Defect is essential for understanding Nuclear Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

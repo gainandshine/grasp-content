@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ultrasound Imaging",
+      "content": "A practical example demonstrating Ultrasound Imaging",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ultrasound-imaging"
+      ]
+    }
+  ]
+}

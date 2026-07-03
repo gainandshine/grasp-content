@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Magnetic Susceptibility?",
+      "back": "Magnetic Susceptibility is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Magnetic Susceptibility important?",
+      "back": "Magnetic Susceptibility is essential for understanding Magnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

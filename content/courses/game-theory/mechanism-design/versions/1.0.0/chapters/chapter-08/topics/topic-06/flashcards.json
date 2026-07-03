@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Performance-Based Compensation?",
+      "back": "Performance-Based Compensation is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Performance-Based Compensation important?",
+      "back": "Performance-Based Compensation is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

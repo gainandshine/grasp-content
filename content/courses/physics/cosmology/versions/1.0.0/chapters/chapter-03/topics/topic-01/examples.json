@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Big Bang Theory",
+      "content": "A practical example demonstrating Big Bang Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "big-bang-theory"
+      ]
+    }
+  ]
+}

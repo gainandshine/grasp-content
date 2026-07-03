@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Instrument Calibration",
+      "content": "A practical example demonstrating Instrument Calibration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "instrument-calibration"
+      ]
+    }
+  ]
+}

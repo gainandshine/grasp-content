@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Eigenvectors",
+      "content": "A practical example demonstrating Eigenvectors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "eigenvectors"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Circular Motion?",
+      "back": "Circular Motion is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Circular Motion important?",
+      "back": "Circular Motion is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

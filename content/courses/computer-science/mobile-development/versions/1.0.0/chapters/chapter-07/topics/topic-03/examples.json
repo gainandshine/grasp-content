@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: GPS & Location",
+      "content": "A practical example demonstrating GPS & Location",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "gps-location"
+      ]
+    }
+  ]
+}

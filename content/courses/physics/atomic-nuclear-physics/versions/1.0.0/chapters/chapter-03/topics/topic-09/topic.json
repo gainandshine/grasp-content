@@ -1,6 +1,16 @@
 {
   "id": "topic-09",
   "name": "Pauli Exclusion Principle",
-  "description": "Learn about Pauli Exclusion Principle",
-  "conceptId": "physics.atomic-nuclear-physics.chapter-03.topic-09"
+  "topicId": "physics.atomic-nuclear-physics.chapter-03.topic-09",
+  "description": "Learn about Pauli Exclusion Principle and its applications in physics.",
+  "content": {
+    "overview": "Pauli Exclusion Principle is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Pauli Exclusion Principle. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Pauli Exclusion Principle requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Pauli Exclusion Principle is essential for mastering Atomic & Nuclear Physics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

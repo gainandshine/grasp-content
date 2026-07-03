@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aerospace Materials",
+      "content": "A practical example demonstrating Aerospace Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "aerospace-materials"
+      ]
+    }
+  ]
+}

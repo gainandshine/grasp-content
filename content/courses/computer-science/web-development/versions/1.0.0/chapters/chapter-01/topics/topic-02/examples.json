@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Client-Server Architecture",
+      "content": "A practical example demonstrating Client-Server Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "client-server-architecture"
+      ]
+    }
+  ]
+}

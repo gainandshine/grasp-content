@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Game Balancing",
+      "content": "A practical example demonstrating Game Balancing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "game-balancing"
+      ]
+    }
+  ]
+}

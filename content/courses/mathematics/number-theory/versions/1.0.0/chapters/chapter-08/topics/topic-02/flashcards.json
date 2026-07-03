@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Legendre Symbol?",
+      "back": "Legendre Symbol is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Legendre Symbol important?",
+      "back": "Legendre Symbol is essential for understanding Number Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Brain-Computer Interfaces",
+      "content": "A practical example demonstrating Brain-Computer Interfaces",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "brain-computer-interfaces"
+      ]
+    }
+  ]
+}

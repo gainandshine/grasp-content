@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Adiabatic Process",
+      "content": "A practical example demonstrating Adiabatic Process",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "adiabatic-process"
+      ]
+    }
+  ]
+}

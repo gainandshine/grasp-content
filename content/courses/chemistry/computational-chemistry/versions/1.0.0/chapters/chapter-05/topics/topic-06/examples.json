@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electronic Structure Calculations",
+      "content": "A practical example demonstrating Electronic Structure Calculations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electronic-structure-calculations"
+      ]
+    }
+  ]
+}

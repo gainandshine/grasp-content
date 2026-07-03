@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Newton's Law of Cooling",
+      "content": "A practical example demonstrating Newton's Law of Cooling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "newtons-law-of-cooling"
+      ]
+    }
+  ]
+}

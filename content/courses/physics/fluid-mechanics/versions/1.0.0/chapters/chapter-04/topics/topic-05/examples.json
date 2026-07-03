@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Turbulent Flow",
+      "content": "A practical example demonstrating Turbulent Flow",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "turbulent-flow"
+      ]
+    }
+  ]
+}

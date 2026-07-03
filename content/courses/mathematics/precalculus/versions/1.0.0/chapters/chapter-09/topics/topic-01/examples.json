@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vector Basics",
+      "content": "A practical example demonstrating Vector Basics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "vector-basics"
+      ]
+    }
+  ]
+}

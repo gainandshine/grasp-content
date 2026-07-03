@@ -1,10 +1,11 @@
 {
   "id": "electromagnetism",
   "title": "Electromagnetism",
-  "description": "This course studies **electric and magnetic fields, their interactions, and the unified theory of electromagnetism**. Students learn the principles governing electric charges, magnetic fields, electromagnetic induction, and electromagnetic waves.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 50,
-  "chapters": 25,
-  "updatedAt": "2026-07-02T10:38:12.947Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.737Z"
 }

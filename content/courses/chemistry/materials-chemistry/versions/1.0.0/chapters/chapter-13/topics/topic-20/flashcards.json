@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Environmental Nanotechnology?",
+      "back": "Environmental Nanotechnology is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Environmental Nanotechnology important?",
+      "back": "Environmental Nanotechnology is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

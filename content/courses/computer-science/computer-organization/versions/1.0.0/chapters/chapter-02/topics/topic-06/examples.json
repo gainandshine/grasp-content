@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Logic Simplification",
+      "content": "A practical example demonstrating Logic Simplification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "logic-simplification"
+      ]
+    }
+  ]
+}

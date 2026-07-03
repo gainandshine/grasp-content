@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fast vs Slow Reactions?",
+      "back": "Fast vs Slow Reactions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fast vs Slow Reactions important?",
+      "back": "Fast vs Slow Reactions is essential for understanding Chemical Kinetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

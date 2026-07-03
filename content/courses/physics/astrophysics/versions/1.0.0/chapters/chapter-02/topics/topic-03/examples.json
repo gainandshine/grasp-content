@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Space Telescopes",
+      "content": "A practical example demonstrating Space Telescopes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "space-telescopes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Band Theory (Introduction)",
+      "content": "A practical example demonstrating Band Theory (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "band-theory-introduction"
+      ]
+    }
+  ]
+}

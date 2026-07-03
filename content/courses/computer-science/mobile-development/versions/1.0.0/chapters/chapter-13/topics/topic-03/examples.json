@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Productivity Apps",
+      "content": "A practical example demonstrating Productivity Apps",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "productivity-apps"
+      ]
+    }
+  ]
+}

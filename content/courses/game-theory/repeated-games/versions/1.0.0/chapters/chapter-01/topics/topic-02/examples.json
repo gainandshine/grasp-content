@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: One-Shot vs Repeated Games",
+      "content": "A practical example demonstrating One-Shot vs Repeated Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "one-shot-vs-repeated-games"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gradient Descent",
+      "content": "A practical example demonstrating Gradient Descent",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "gradient-descent"
+      ]
+    }
+  ]
+}

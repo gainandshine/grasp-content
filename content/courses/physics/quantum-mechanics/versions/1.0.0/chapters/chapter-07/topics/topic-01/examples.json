@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quantum Harmonic Oscillator",
+      "content": "A practical example demonstrating Quantum Harmonic Oscillator",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "quantum-harmonic-oscillator"
+      ]
+    }
+  ]
+}

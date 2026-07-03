@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Alternating Current",
+      "content": "A practical example demonstrating Alternating Current",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "alternating-current"
+      ]
+    }
+  ]
+}

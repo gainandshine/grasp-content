@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Synchrotron Radiation?",
+      "back": "Synchrotron Radiation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Synchrotron Radiation important?",
+      "back": "Synchrotron Radiation is essential for understanding Particle Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

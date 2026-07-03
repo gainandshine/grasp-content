@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 2: Logic**?",
+      "back": "*Course 2: Logic** is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 2: Logic** important?",
+      "back": "*Course 2: Logic** is essential for understanding Philosophy Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Weak Nuclear Force",
-  "description": "Learn about Weak Nuclear Force",
-  "conceptId": "physics.particle-physics.chapter-03.topic-03"
+  "topicId": "physics.particle-physics.chapter-03.topic-03",
+  "description": "Learn about Weak Nuclear Force and its applications in physics.",
+  "content": {
+    "overview": "Weak Nuclear Force is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Weak Nuclear Force. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Weak Nuclear Force requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Weak Nuclear Force is essential for mastering Particle Physics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

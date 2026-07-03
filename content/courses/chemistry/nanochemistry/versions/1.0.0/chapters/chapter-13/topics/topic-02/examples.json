@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DNA Nanotechnology",
+      "content": "A practical example demonstrating DNA Nanotechnology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "dna-nanotechnology"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Large Hadron Collider",
+      "content": "A practical example demonstrating Large Hadron Collider",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "large-hadron-collider"
+      ]
+    }
+  ]
+}

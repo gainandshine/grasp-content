@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Neutrino Decoupling",
+      "content": "A practical example demonstrating Neutrino Decoupling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "neutrino-decoupling"
+      ]
+    }
+  ]
+}

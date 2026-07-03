@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Semantic Rules",
+      "content": "A practical example demonstrating Semantic Rules",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "semantic-rules"
+      ]
+    }
+  ]
+}

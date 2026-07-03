@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: PFAS (\"Forever Chemicals\")",
+      "content": "A practical example demonstrating PFAS (\"Forever Chemicals\")",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "pfas-forever-chemicals"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nucleolus",
+      "content": "A practical example demonstrating Nucleolus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "nucleolus"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Real-Time Operating Systems (RTOS)?",
+      "back": "Real-Time Operating Systems (RTOS) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Real-Time Operating Systems (RTOS) important?",
+      "back": "Real-Time Operating Systems (RTOS) is essential for understanding Operating Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

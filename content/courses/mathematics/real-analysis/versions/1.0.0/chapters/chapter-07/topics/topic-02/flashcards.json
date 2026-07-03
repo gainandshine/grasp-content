@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mean Value Theorem?",
+      "back": "Mean Value Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mean Value Theorem important?",
+      "back": "Mean Value Theorem is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Isobaric Process",
+      "content": "A practical example demonstrating Isobaric Process",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "isobaric-process"
+      ]
+    }
+  ]
+}

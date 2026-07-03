@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Left Riemann Sum",
+      "content": "A practical example demonstrating Left Riemann Sum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "left-riemann-sum"
+      ]
+    }
+  ]
+}

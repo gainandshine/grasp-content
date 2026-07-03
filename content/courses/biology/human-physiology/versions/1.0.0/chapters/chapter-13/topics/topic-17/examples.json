@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Microbial Genetics",
+      "content": "A practical example demonstrating Microbial Genetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "microbial-genetics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Decision Nodes?",
+      "back": "Decision Nodes is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Decision Nodes important?",
+      "back": "Decision Nodes is essential for understanding Strategic Decision Making.",
+      "difficulty": "medium"
+    }
+  ]
+}

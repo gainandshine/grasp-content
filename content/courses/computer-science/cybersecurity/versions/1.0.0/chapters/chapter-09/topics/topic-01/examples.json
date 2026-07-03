@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Security Operations Center (SOC)",
+      "content": "A practical example demonstrating Security Operations Center (SOC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "security-operations-center-soc"
+      ]
+    }
+  ]
+}

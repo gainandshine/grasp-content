@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Deposition?",
+      "back": "Deposition is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Deposition important?",
+      "back": "Deposition is essential for understanding States of Matter.",
+      "difficulty": "medium"
+    }
+  ]
+}

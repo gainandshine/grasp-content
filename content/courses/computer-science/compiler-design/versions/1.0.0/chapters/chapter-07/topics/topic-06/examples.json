@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Target Architectures",
+      "content": "A practical example demonstrating Target Architectures",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "target-architectures"
+      ]
+    }
+  ]
+}

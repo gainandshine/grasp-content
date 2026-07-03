@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Coalition Value",
-  "description": "Learn about Coalition Value",
-  "conceptId": "game-theory.cooperative-game-theory.chapter-03.topic-02"
+  "topicId": "game-theory.cooperative-game-theory.chapter-03.topic-02",
+  "description": "Learn about Coalition Value and its applications in game-theory.",
+  "content": {
+    "overview": "Coalition Value is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Coalition Value. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Coalition Value requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Coalition Value is essential for mastering Cooperative Game Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

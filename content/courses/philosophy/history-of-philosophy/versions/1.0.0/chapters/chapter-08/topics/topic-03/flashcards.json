@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Friedrich Schelling?",
+      "back": "Friedrich Schelling is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Friedrich Schelling important?",
+      "back": "Friedrich Schelling is essential for understanding History of Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

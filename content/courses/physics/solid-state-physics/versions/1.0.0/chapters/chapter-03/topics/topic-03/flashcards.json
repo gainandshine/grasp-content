@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Interstitial Defects?",
+      "back": "Interstitial Defects is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Interstitial Defects important?",
+      "back": "Interstitial Defects is essential for understanding Solid State Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

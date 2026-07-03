@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Gas Chromatography (GC)",
-  "description": "Learn about Gas Chromatography (GC)",
-  "conceptId": "chemistry.analytical-chemistry.chapter-07.topic-05"
+  "topicId": "chemistry.analytical-chemistry.chapter-07.topic-05",
+  "description": "Learn about Gas Chromatography (GC) and its applications in chemistry.",
+  "content": {
+    "overview": "Gas Chromatography (GC) is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Gas Chromatography (GC). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Gas Chromatography (GC) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Gas Chromatography (GC) is essential for mastering Analytical Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

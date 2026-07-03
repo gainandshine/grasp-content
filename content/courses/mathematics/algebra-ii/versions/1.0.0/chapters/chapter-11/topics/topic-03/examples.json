@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Matrix Multiplication",
+      "content": "A practical example demonstrating Matrix Multiplication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "matrix-multiplication"
+      ]
+    }
+  ]
+}

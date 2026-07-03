@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Maxwell's Equations",
+      "content": "A practical example demonstrating Maxwell's Equations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "maxwells-equations"
+      ]
+    }
+  ]
+}

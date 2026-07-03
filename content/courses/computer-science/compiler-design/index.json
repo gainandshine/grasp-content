@@ -1,10 +1,11 @@
 {
   "id": "compiler-design",
   "title": "Compiler Design",
-  "description": "This course studies **how programming languages are translated into executable programs**. It covers the complete compiler pipeline, from source code to optimized machine code.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:19.455Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.343Z"
 }

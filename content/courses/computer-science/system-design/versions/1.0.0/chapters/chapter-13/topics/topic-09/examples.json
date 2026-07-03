@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Distributed System Fundamentals",
+      "content": "A practical example demonstrating Distributed System Fundamentals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "distributed-system-fundamentals"
+      ]
+    }
+  ]
+}

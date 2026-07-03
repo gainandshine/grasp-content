@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Differential Thermal Analysis (DTA)",
+      "content": "A practical example demonstrating Differential Thermal Analysis (DTA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "differential-thermal-analysis-dta"
+      ]
+    }
+  ]
+}

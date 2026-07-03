@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: GPS Satellites",
+      "content": "A practical example demonstrating GPS Satellites",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "gps-satellites"
+      ]
+    }
+  ]
+}

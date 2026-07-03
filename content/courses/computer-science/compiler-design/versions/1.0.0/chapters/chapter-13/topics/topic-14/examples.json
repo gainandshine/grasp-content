@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lighting & Shading",
+      "content": "A practical example demonstrating Lighting & Shading",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "lighting-shading"
+      ]
+    }
+  ]
+}

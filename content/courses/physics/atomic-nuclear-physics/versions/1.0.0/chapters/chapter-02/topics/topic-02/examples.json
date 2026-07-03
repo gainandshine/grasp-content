@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Absorption Spectra",
+      "content": "A practical example demonstrating Absorption Spectra",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "absorption-spectra"
+      ]
+    }
+  ]
+}

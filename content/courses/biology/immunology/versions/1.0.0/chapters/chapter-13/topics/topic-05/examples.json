@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Systems Immunology",
+      "content": "A practical example demonstrating Systems Immunology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "systems-immunology"
+      ]
+    }
+  ]
+}

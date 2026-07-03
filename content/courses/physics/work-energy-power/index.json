@@ -1,10 +1,11 @@
 {
   "id": "work-energy-power",
   "title": "Work, Energy & Power",
-  "description": "This course teaches how to analyze motion using **energy**, often making problems much simpler than using Newton's laws alone.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 20,
-  "chapters": 10,
-  "updatedAt": "2026-07-02T10:38:12.225Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.715Z"
 }

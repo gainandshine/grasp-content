@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rain-Man Problems",
+      "content": "A practical example demonstrating Rain-Man Problems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rain-man-problems"
+      ]
+    }
+  ]
+}

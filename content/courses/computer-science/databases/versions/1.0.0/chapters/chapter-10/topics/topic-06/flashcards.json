@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is High Availability?",
+      "back": "High Availability is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is High Availability important?",
+      "back": "High Availability is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

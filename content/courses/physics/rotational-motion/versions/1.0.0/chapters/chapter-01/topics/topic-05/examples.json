@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Angular Position-Time Graphs",
+      "content": "A practical example demonstrating Angular Position-Time Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "angular-position-time-graphs"
+      ]
+    }
+  ]
+}

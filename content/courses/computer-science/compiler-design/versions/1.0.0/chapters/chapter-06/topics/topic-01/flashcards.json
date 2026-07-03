@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Constant Folding?",
+      "back": "Constant Folding is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Constant Folding important?",
+      "back": "Constant Folding is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lung Volumes",
+      "content": "A practical example demonstrating Lung Volumes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "lung-volumes"
+      ]
+    }
+  ]
+}

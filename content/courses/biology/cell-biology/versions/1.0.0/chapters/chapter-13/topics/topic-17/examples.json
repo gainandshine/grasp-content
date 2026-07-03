@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: CRISPR",
+      "content": "A practical example demonstrating CRISPR",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "crispr"
+      ]
+    }
+  ]
+}

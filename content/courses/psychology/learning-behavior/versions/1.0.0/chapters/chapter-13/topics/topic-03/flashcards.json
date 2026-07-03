@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Learning Analytics?",
+      "back": "Learning Analytics is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Learning Analytics important?",
+      "back": "Learning Analytics is essential for understanding Learning & Behavior.",
+      "difficulty": "medium"
+    }
+  ]
+}

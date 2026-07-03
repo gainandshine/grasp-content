@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Center of Gravity",
+      "content": "A practical example demonstrating Center of Gravity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "center-of-gravity"
+      ]
+    }
+  ]
+}

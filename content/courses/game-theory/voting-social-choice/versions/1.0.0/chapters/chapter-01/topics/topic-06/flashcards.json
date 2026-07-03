@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fairness in Decision Making?",
+      "back": "Fairness in Decision Making is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fairness in Decision Making important?",
+      "back": "Fairness in Decision Making is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

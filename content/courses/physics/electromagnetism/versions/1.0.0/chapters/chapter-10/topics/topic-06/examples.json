@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electromagnetic Field Theory",
+      "content": "A practical example demonstrating Electromagnetic Field Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "electromagnetic-field-theory"
+      ]
+    }
+  ]
+}

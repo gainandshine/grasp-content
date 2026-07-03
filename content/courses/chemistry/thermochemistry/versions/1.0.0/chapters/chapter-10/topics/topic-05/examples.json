@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reversible Process",
+      "content": "A practical example demonstrating Reversible Process",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "reversible-process"
+      ]
+    }
+  ]
+}

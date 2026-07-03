@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ultrasonic Waves",
+      "content": "A practical example demonstrating Ultrasonic Waves",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ultrasonic-waves"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnetosphere",
+      "content": "A practical example demonstrating Magnetosphere",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "magnetosphere"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spectrometers",
+      "content": "A practical example demonstrating Spectrometers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "spectrometers"
+      ]
+    }
+  ]
+}

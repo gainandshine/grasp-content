@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cylindrical Coordinates",
+      "content": "A practical example demonstrating Cylindrical Coordinates",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "cylindrical-coordinates"
+      ]
+    }
+  ]
+}

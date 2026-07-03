@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Distributed Analytics",
+      "content": "A practical example demonstrating Distributed Analytics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "distributed-analytics"
+      ]
+    }
+  ]
+}

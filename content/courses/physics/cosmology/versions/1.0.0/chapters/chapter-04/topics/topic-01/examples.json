@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Discovery of the CMB",
+      "content": "A practical example demonstrating Discovery of the CMB",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "discovery-of-the-cmb"
+      ]
+    }
+  ]
+}

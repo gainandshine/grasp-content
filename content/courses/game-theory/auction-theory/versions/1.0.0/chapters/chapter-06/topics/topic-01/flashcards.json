@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Optimal Bidding?",
+      "back": "Optimal Bidding is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Optimal Bidding important?",
+      "back": "Optimal Bidding is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

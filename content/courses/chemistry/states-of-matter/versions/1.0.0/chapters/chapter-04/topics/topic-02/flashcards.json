@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gas Pressure?",
+      "back": "Gas Pressure is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gas Pressure important?",
+      "back": "Gas Pressure is essential for understanding States of Matter.",
+      "difficulty": "medium"
+    }
+  ]
+}

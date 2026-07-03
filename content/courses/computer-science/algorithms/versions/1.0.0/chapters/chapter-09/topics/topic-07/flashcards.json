@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Prim's Algorithm?",
+      "back": "Prim's Algorithm is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Prim's Algorithm important?",
+      "back": "Prim's Algorithm is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

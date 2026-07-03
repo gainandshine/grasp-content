@@ -1,10 +1,11 @@
 {
   "id": "differential-equations",
   "title": "Differential Equations",
-  "description": "This course studies equations involving derivatives and models real-world systems such as population growth, circuits, mechanics, and control systems.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 28,
-  "chapters": 14,
-  "updatedAt": "2026-07-02T10:38:14.477Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.226Z"
 }

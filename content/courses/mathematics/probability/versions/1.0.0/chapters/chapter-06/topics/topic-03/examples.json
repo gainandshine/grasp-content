@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Geometric Distribution",
+      "content": "A practical example demonstrating Geometric Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "geometric-distribution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Load Balancing?",
+      "back": "Load Balancing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Load Balancing important?",
+      "back": "Load Balancing is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

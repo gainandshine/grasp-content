@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Infrared Radiation?",
+      "back": "Infrared Radiation is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Infrared Radiation important?",
+      "back": "Infrared Radiation is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

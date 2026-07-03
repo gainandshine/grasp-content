@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Rational Expressions?",
+      "back": "Rational Expressions is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Rational Expressions important?",
+      "back": "Rational Expressions is essential for understanding Precalculus.",
+      "difficulty": "medium"
+    }
+  ]
+}

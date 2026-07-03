@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Sovereign Debt",
-  "description": "Learn about Sovereign Debt",
-  "conceptId": "economics.international-economics.chapter-07.topic-04"
+  "topicId": "economics.international-economics.chapter-07.topic-04",
+  "description": "Learn about Sovereign Debt and its applications in economics.",
+  "content": {
+    "overview": "Sovereign Debt is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Sovereign Debt. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Sovereign Debt requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Sovereign Debt is essential for mastering International Economics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

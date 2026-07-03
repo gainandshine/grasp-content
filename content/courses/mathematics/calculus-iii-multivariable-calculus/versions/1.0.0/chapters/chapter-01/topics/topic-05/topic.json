@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Spheres",
-  "description": "Learn about Spheres",
-  "conceptId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-05"
+  "topicId": "mathematics.calculus-iii-multivariable-calculus.chapter-01.topic-05",
+  "description": "Learn about Spheres and its applications in mathematics.",
+  "content": {
+    "overview": "Spheres is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Spheres. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Spheres requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Spheres is essential for mastering Calculus III (Multivariable Calculus). The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Homolytic Cleavage?",
+      "back": "Homolytic Cleavage is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Homolytic Cleavage important?",
+      "back": "Homolytic Cleavage is essential for understanding Organic Chemistry I.",
+      "difficulty": "medium"
+    }
+  ]
+}

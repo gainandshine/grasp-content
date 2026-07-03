@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Double-Ended Queue (Deque)",
+      "content": "A practical example demonstrating Double-Ended Queue (Deque)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "double-ended-queue-deque"
+      ]
+    }
+  ]
+}

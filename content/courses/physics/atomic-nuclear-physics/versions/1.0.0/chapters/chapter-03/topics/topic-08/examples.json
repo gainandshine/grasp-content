@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hund's Rule",
+      "content": "A practical example demonstrating Hund's Rule",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hunds-rule"
+      ]
+    }
+  ]
+}

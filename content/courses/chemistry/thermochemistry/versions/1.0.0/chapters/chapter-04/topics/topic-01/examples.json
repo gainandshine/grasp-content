@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Calorimeter",
+      "content": "A practical example demonstrating Calorimeter",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "calorimeter"
+      ]
+    }
+  ]
+}

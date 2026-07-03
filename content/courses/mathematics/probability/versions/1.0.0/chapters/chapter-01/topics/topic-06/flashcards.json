@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Classical Probability?",
+      "back": "Classical Probability is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Classical Probability important?",
+      "back": "Classical Probability is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Line Spectra",
+      "content": "A practical example demonstrating Line Spectra",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "line-spectra"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Kirchhoff's Voltage Law (KVL)?",
+      "back": "Kirchhoff's Voltage Law (KVL) is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Kirchhoff's Voltage Law (KVL) important?",
+      "back": "Kirchhoff's Voltage Law (KVL) is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

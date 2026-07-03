@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electronic Waste",
+      "content": "A practical example demonstrating Electronic Waste",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electronic-waste"
+      ]
+    }
+  ]
+}

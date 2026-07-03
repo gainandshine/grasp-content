@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Corporate Finance?",
+      "back": "Corporate Finance is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Corporate Finance important?",
+      "back": "Corporate Finance is essential for understanding Monetary Economics.",
+      "difficulty": "medium"
+    }
+  ]
+}

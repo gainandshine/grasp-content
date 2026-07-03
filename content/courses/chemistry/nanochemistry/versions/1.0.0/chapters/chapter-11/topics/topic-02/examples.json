@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Air Filtration",
+      "content": "A practical example demonstrating Air Filtration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "air-filtration"
+      ]
+    }
+  ]
+}

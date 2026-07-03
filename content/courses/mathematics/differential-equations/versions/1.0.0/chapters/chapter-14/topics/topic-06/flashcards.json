@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Control Systems?",
+      "back": "Control Systems is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Control Systems important?",
+      "back": "Control Systems is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

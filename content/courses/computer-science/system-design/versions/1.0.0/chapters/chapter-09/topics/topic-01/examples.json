@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: REST APIs",
+      "content": "A practical example demonstrating REST APIs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "rest-apis"
+      ]
+    }
+  ]
+}

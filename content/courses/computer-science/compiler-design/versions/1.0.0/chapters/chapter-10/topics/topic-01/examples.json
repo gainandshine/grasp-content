@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Interpreter Design",
+      "content": "A practical example demonstrating Interpreter Design",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "interpreter-design"
+      ]
+    }
+  ]
+}

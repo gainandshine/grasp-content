@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pipe Flow",
+      "content": "A practical example demonstrating Pipe Flow",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "pipe-flow"
+      ]
+    }
+  ]
+}

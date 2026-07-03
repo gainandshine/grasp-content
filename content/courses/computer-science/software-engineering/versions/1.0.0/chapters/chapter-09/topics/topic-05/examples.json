@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Daily Standups",
+      "content": "A practical example demonstrating Daily Standups",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "daily-standups"
+      ]
+    }
+  ]
+}

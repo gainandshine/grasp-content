@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Array Traversal",
+      "content": "A practical example demonstrating Array Traversal",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "array-traversal"
+      ]
+    }
+  ]
+}

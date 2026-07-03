@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hawk-Dove Game",
+      "content": "A practical example demonstrating Hawk-Dove Game",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "hawk-dove-game"
+      ]
+    }
+  ]
+}

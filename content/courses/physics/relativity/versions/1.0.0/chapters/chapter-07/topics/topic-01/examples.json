@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Einstein Field Equations",
+      "content": "A practical example demonstrating Einstein Field Equations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "einstein-field-equations"
+      ]
+    }
+  ]
+}

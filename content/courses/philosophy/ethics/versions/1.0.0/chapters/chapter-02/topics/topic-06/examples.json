@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Human Flourishing",
+      "content": "A practical example demonstrating Human Flourishing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "human-flourishing"
+      ]
+    }
+  ]
+}

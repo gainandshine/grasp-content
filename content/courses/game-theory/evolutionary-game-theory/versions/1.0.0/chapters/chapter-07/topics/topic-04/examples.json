@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Signaling Equilibrium",
+      "content": "A practical example demonstrating Signaling Equilibrium",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "signaling-equilibrium"
+      ]
+    }
+  ]
+}

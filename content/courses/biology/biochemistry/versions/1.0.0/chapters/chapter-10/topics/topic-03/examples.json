@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Calvin Cycle",
+      "content": "A practical example demonstrating Calvin Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "calvin-cycle"
+      ]
+    }
+  ]
+}

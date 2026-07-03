@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Glycoproteins",
+      "content": "A practical example demonstrating Glycoproteins",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "glycoproteins"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Linear Equations?",
+      "back": "Linear Equations is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Linear Equations important?",
+      "back": "Linear Equations is essential for understanding Algebra II.",
+      "difficulty": "medium"
+    }
+  ]
+}

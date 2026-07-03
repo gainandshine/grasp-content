@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fringe Width",
+      "content": "A practical example demonstrating Fringe Width",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "fringe-width"
+      ]
+    }
+  ]
+}

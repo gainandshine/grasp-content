@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linear Regression",
+      "content": "A practical example demonstrating Linear Regression",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "linear-regression"
+      ]
+    }
+  ]
+}

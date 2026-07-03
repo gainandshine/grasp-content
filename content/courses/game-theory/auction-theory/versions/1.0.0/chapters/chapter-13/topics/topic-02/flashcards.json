@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Double Auctions?",
+      "back": "Double Auctions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Double Auctions important?",
+      "back": "Double Auctions is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

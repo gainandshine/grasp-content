@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hadron Classification",
+      "content": "A practical example demonstrating Hadron Classification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hadron-classification"
+      ]
+    }
+  ]
+}

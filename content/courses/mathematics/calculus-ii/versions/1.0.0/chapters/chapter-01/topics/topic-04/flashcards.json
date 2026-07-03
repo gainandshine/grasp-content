@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Trigonometric Integrals?",
+      "back": "Trigonometric Integrals is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Trigonometric Integrals important?",
+      "back": "Trigonometric Integrals is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

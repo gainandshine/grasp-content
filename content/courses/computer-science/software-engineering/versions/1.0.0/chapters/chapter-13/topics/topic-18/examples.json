@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Databases for Web Apps",
+      "content": "A practical example demonstrating Databases for Web Apps",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "databases-for-web-apps"
+      ]
+    }
+  ]
+}

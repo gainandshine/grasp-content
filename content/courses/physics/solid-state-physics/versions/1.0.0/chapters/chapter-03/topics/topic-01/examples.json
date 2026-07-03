@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Point Defects",
+      "content": "A practical example demonstrating Point Defects",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "point-defects"
+      ]
+    }
+  ]
+}

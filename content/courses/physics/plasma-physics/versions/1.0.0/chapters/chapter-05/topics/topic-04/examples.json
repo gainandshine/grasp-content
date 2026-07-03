@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ion Acoustic Waves",
+      "content": "A practical example demonstrating Ion Acoustic Waves",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ion-acoustic-waves"
+      ]
+    }
+  ]
+}

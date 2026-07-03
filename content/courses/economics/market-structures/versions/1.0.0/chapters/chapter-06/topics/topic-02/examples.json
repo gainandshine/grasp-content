@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nash Equilibrium",
+      "content": "A practical example demonstrating Nash Equilibrium",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "nash-equilibrium"
+      ]
+    }
+  ]
+}

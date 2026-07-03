@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Raman Effect",
+      "content": "A practical example demonstrating Raman Effect",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "raman-effect"
+      ]
+    }
+  ]
+}

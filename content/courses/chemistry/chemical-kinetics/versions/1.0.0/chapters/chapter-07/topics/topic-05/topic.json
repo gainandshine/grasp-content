@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Activation Energy Calculation",
-  "description": "Learn about Activation Energy Calculation",
-  "conceptId": "chemistry.chemical-kinetics.chapter-07.topic-05"
+  "topicId": "chemistry.chemical-kinetics.chapter-07.topic-05",
+  "description": "Learn about Activation Energy Calculation and its applications in chemistry.",
+  "content": {
+    "overview": "Activation Energy Calculation is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Activation Energy Calculation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Activation Energy Calculation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Activation Energy Calculation is essential for mastering Chemical Kinetics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

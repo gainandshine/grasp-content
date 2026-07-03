@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plasma Density",
+      "content": "A practical example demonstrating Plasma Density",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "plasma-density"
+      ]
+    }
+  ]
+}

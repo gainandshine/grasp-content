@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 2: Cell Biology**",
+      "content": "A practical example demonstrating *Course 2: Cell Biology**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "course-2-cell-biology"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reactor Operation",
+      "content": "A practical example demonstrating Reactor Operation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "reactor-operation"
+      ]
+    }
+  ]
+}

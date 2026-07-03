@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Existence of Equilibria",
+      "content": "A practical example demonstrating Existence of Equilibria",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "existence-of-equilibria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Brain Regions",
+      "content": "A practical example demonstrating Brain Regions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "brain-regions"
+      ]
+    }
+  ]
+}

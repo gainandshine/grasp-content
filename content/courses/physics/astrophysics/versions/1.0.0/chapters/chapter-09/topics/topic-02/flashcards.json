@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Dust Clouds?",
+      "back": "Dust Clouds is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Dust Clouds important?",
+      "back": "Dust Clouds is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

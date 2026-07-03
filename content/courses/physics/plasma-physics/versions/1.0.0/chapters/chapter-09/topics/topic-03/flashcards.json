@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Aurora?",
+      "back": "Aurora is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Aurora important?",
+      "back": "Aurora is essential for understanding Plasma Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

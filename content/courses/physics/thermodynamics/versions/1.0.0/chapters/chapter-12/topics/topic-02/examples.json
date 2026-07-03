@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Steam Engines",
+      "content": "A practical example demonstrating Steam Engines",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "steam-engines"
+      ]
+    }
+  ]
+}

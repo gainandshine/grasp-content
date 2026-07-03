@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Composite Figures",
+      "content": "A practical example demonstrating Composite Figures",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "composite-figures"
+      ]
+    }
+  ]
+}

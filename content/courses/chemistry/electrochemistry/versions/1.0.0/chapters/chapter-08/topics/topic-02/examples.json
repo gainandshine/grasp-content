@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Secondary Batteries",
+      "content": "A practical example demonstrating Secondary Batteries",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "secondary-batteries"
+      ]
+    }
+  ]
+}

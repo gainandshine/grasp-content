@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bioinformatics",
+      "content": "A practical example demonstrating Bioinformatics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "bioinformatics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: CAR-T Cell Therapy",
+      "content": "A practical example demonstrating CAR-T Cell Therapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "car-t-cell-therapy"
+      ]
+    }
+  ]
+}

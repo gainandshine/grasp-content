@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Faraday's Laws of Electrolysis",
+      "content": "A practical example demonstrating Faraday's Laws of Electrolysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "faradays-laws-of-electrolysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Register-Based VMs",
+      "content": "A practical example demonstrating Register-Based VMs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "register-based-vms"
+      ]
+    }
+  ]
+}

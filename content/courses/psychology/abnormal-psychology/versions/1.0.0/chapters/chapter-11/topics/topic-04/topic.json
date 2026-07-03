@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Early Intervention",
-  "description": "Learn about Early Intervention",
-  "conceptId": "psychology.abnormal-psychology.chapter-11.topic-04"
+  "topicId": "psychology.abnormal-psychology.chapter-11.topic-04",
+  "description": "Learn about Early Intervention and its applications in psychology.",
+  "content": {
+    "overview": "Early Intervention is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Early Intervention. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Early Intervention requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Early Intervention is essential for mastering Abnormal Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

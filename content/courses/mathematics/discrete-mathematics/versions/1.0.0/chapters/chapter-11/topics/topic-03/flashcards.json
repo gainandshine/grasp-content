@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Logic Gates?",
+      "back": "Logic Gates is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Logic Gates important?",
+      "back": "Logic Gates is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

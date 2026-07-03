@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Human Microbiome",
+      "content": "A practical example demonstrating Human Microbiome",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "human-microbiome"
+      ]
+    }
+  ]
+}

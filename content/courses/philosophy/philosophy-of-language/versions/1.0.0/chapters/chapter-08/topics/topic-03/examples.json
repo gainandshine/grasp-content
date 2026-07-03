@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Natural Languages",
+      "content": "A practical example demonstrating Natural Languages",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "natural-languages"
+      ]
+    }
+  ]
+}

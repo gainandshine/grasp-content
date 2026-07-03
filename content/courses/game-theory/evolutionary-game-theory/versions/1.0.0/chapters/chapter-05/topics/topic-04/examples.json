@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reciprocal Altruism",
+      "content": "A practical example demonstrating Reciprocal Altruism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "reciprocal-altruism"
+      ]
+    }
+  ]
+}

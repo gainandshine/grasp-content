@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linked List Implementation",
+      "content": "A practical example demonstrating Linked List Implementation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "linked-list-implementation"
+      ]
+    }
+  ]
+}

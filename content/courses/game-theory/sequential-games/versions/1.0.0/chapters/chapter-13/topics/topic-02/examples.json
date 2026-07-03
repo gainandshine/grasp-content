@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sequential Learning",
+      "content": "A practical example demonstrating Sequential Learning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "sequential-learning"
+      ]
+    }
+  ]
+}

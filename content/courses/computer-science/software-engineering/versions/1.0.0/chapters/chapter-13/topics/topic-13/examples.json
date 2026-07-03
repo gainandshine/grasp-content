@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Browser APIs",
+      "content": "A practical example demonstrating Browser APIs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "browser-apis"
+      ]
+    }
+  ]
+}

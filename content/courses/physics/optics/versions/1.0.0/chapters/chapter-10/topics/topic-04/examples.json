@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Optical Fibers",
+      "content": "A practical example demonstrating Optical Fibers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "optical-fibers"
+      ]
+    }
+  ]
+}

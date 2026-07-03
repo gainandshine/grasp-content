@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Addition Polymerization",
+      "content": "A practical example demonstrating Addition Polymerization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "addition-polymerization"
+      ]
+    }
+  ]
+}

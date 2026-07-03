@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Larmor Radius",
+      "content": "A practical example demonstrating Larmor Radius",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "larmor-radius"
+      ]
+    }
+  ]
+}

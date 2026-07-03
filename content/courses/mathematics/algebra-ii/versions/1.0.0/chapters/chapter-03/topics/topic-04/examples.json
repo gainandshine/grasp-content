@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Remainder Theorem",
+      "content": "A practical example demonstrating Remainder Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "remainder-theorem"
+      ]
+    }
+  ]
+}

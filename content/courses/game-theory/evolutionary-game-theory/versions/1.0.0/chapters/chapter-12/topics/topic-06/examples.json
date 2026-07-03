@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Robotics",
+      "content": "A practical example demonstrating Evolutionary Robotics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "evolutionary-robotics"
+      ]
+    }
+  ]
+}

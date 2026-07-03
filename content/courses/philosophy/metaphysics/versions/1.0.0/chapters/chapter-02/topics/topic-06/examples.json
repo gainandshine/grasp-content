@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ship of Theseus",
+      "content": "A practical example demonstrating Ship of Theseus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "ship-of-theseus"
+      ]
+    }
+  ]
+}

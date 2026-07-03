@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Inverse Matrices?",
+      "back": "Inverse Matrices is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Inverse Matrices important?",
+      "back": "Inverse Matrices is essential for understanding Algebra II.",
+      "difficulty": "medium"
+    }
+  ]
+}

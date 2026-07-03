@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Loop Optimization",
+      "content": "A practical example demonstrating Loop Optimization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "loop-optimization"
+      ]
+    }
+  ]
+}

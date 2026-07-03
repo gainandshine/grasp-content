@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Planetary Escape",
+      "content": "A practical example demonstrating Planetary Escape",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "planetary-escape"
+      ]
+    }
+  ]
+}

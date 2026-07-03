@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bidder Behavior",
+      "content": "A practical example demonstrating Bidder Behavior",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "bidder-behavior"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Service Discovery",
+      "content": "A practical example demonstrating Service Discovery",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "service-discovery"
+      ]
+    }
+  ]
+}

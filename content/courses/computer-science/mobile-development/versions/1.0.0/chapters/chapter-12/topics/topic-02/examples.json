@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shared Codebases",
+      "content": "A practical example demonstrating Shared Codebases",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "shared-codebases"
+      ]
+    }
+  ]
+}

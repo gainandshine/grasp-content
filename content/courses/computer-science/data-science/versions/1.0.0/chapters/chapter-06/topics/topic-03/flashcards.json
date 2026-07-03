@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Line Charts?",
+      "back": "Line Charts is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Line Charts important?",
+      "back": "Line Charts is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Instrumental Variables",
+      "content": "A practical example demonstrating Instrumental Variables",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "instrumental-variables"
+      ]
+    }
+  ]
+}

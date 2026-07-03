@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Nanomaterials?",
+      "back": "Nanomaterials is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Nanomaterials important?",
+      "back": "Nanomaterials is essential for understanding Chemical Bonding.",
+      "difficulty": "medium"
+    }
+  ]
+}

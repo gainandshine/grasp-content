@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lagrange Points (Introduction)",
+      "content": "A practical example demonstrating Lagrange Points (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "lagrange-points-introduction"
+      ]
+    }
+  ]
+}

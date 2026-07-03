@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bond Prediction?",
+      "back": "Bond Prediction is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bond Prediction important?",
+      "back": "Bond Prediction is essential for understanding Periodic Table.",
+      "difficulty": "medium"
+    }
+  ]
+}

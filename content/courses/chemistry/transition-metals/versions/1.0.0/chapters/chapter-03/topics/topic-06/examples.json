@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrical Conductivity",
+      "content": "A practical example demonstrating Electrical Conductivity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electrical-conductivity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DAGs (Directed Acyclic Graphs)",
+      "content": "A practical example demonstrating DAGs (Directed Acyclic Graphs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "dags-directed-acyclic-graphs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genetic Disorders",
+      "content": "A practical example demonstrating Genetic Disorders",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "genetic-disorders"
+      ]
+    }
+  ]
+}

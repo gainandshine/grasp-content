@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Amino Acid Metabolism",
+      "content": "A practical example demonstrating Amino Acid Metabolism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "amino-acid-metabolism"
+      ]
+    }
+  ]
+}

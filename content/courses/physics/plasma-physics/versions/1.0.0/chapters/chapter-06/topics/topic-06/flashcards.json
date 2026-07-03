@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Turbulence (Introduction)?",
+      "back": "Turbulence (Introduction) is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Turbulence (Introduction) important?",
+      "back": "Turbulence (Introduction) is essential for understanding Plasma Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

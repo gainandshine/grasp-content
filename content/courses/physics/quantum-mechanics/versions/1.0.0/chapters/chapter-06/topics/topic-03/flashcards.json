@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Finite Potential Well?",
+      "back": "Finite Potential Well is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Finite Potential Well important?",
+      "back": "Finite Potential Well is essential for understanding Quantum Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

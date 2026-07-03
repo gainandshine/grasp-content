@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Boundary Value Problems (BVP)?",
+      "back": "Boundary Value Problems (BVP) is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Boundary Value Problems (BVP) important?",
+      "back": "Boundary Value Problems (BVP) is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

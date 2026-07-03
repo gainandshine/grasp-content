@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Citric Acid Cycle",
+      "content": "A practical example demonstrating Citric Acid Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "citric-acid-cycle"
+      ]
+    }
+  ]
+}

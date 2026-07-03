@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Autonomous Organizations",
+      "content": "A practical example demonstrating Autonomous Organizations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "autonomous-organizations"
+      ]
+    }
+  ]
+}

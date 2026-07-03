@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Non-Newtonian Fluids",
+      "content": "A practical example demonstrating Non-Newtonian Fluids",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "non-newtonian-fluids"
+      ]
+    }
+  ]
+}

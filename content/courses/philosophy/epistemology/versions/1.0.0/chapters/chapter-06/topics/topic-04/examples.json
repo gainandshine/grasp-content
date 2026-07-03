@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Collective Knowledge",
+      "content": "A practical example demonstrating Collective Knowledge",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "collective-knowledge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fourier Coefficients",
+      "content": "A practical example demonstrating Fourier Coefficients",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "fourier-coefficients"
+      ]
+    }
+  ]
+}

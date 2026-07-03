@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Secondary Storage",
+      "content": "A practical example demonstrating Secondary Storage",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "secondary-storage"
+      ]
+    }
+  ]
+}

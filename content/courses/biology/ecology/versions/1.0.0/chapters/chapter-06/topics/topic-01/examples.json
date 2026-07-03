@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Species Diversity",
+      "content": "A practical example demonstrating Species Diversity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "species-diversity"
+      ]
+    }
+  ]
+}

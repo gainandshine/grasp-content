@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Insulin & Glucagon",
+      "content": "A practical example demonstrating Insulin & Glucagon",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "insulin-glucagon"
+      ]
+    }
+  ]
+}

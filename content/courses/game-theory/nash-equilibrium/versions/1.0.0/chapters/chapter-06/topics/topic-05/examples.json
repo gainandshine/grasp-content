@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strategy Spaces",
+      "content": "A practical example demonstrating Strategy Spaces",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "strategy-spaces"
+      ]
+    }
+  ]
+}

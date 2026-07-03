@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Moments of Inertia?",
+      "back": "Moments of Inertia is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Moments of Inertia important?",
+      "back": "Moments of Inertia is essential for understanding Calculus III (Multivariable Calculus).",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dark Matter Halos",
+      "content": "A practical example demonstrating Dark Matter Halos",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dark-matter-halos"
+      ]
+    }
+  ]
+}

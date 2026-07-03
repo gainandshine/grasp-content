@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Prefixes (Milli, Kilo, Mega...)",
+      "content": "A practical example demonstrating Prefixes (Milli, Kilo, Mega...)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "prefixes-milli-kilo-mega"
+      ]
+    }
+  ]
+}

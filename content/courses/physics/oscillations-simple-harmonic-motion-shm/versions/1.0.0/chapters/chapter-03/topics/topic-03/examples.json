@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Restoring Force",
+      "content": "A practical example demonstrating Restoring Force",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "restoring-force"
+      ]
+    }
+  ]
+}

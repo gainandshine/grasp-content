@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Top Quark",
+      "content": "A practical example demonstrating Top Quark",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "top-quark"
+      ]
+    }
+  ]
+}

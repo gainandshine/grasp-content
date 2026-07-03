@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Astronomical Units",
+      "content": "A practical example demonstrating Astronomical Units",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "astronomical-units"
+      ]
+    }
+  ]
+}

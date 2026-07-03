@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Maximum Height",
+      "content": "A practical example demonstrating Maximum Height",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "maximum-height"
+      ]
+    }
+  ]
+}

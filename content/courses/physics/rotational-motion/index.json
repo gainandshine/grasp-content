@@ -1,10 +1,11 @@
 {
   "id": "rotational-motion",
   "title": "Rotational Motion",
-  "description": "This course extends linear mechanics to rotating objects. It's one of the most important courses in classical physics and engineering.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 22,
-  "chapters": 11,
-  "updatedAt": "2026-07-02T10:38:12.332Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.720Z"
 }

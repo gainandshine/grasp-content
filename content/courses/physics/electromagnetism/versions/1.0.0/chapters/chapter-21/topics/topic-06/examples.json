@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Frequency Response",
+      "content": "A practical example demonstrating Frequency Response",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "frequency-response"
+      ]
+    }
+  ]
+}

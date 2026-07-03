@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Majority Cycles",
-  "description": "Learn about Majority Cycles",
-  "conceptId": "game-theory.voting-social-choice.chapter-04.topic-02"
+  "topicId": "game-theory.voting-social-choice.chapter-04.topic-02",
+  "description": "Learn about Majority Cycles and its applications in game-theory.",
+  "content": {
+    "overview": "Majority Cycles is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Majority Cycles. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Majority Cycles requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Majority Cycles is essential for mastering Voting & Social Choice. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

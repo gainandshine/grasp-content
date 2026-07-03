@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Earth's Magnetic Field?",
+      "back": "Earth's Magnetic Field is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Earth's Magnetic Field important?",
+      "back": "Earth's Magnetic Field is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Quadratic Voting?",
+      "back": "Quadratic Voting is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Quadratic Voting important?",
+      "back": "Quadratic Voting is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

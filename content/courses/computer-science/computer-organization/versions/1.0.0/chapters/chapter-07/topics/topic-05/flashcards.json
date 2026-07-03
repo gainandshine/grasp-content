@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Direct Memory Access (DMA)?",
+      "back": "Direct Memory Access (DMA) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Direct Memory Access (DMA) important?",
+      "back": "Direct Memory Access (DMA) is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

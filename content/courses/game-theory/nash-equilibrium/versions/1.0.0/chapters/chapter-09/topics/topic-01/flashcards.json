@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Market Competition?",
+      "back": "Market Competition is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Market Competition important?",
+      "back": "Market Competition is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

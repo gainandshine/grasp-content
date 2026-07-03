@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Method Validation?",
+      "back": "Method Validation is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Method Validation important?",
+      "back": "Method Validation is essential for understanding Analytical Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Instrument Maintenance",
+      "content": "A practical example demonstrating Instrument Maintenance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "instrument-maintenance"
+      ]
+    }
+  ]
+}

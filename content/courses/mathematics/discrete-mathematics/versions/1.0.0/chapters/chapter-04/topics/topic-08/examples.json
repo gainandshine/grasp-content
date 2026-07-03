@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hasse Diagrams",
+      "content": "A practical example demonstrating Hasse Diagrams",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "hasse-diagrams"
+      ]
+    }
+  ]
+}

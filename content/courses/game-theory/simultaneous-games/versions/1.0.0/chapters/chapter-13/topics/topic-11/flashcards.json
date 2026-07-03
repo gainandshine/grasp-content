@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Information Sets?",
+      "back": "Information Sets is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Information Sets important?",
+      "back": "Information Sets is essential for understanding Simultaneous Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

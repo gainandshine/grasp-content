@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Composition of Blood",
-  "description": "Learn about Composition of Blood",
-  "conceptId": "biology.human-physiology.chapter-11.topic-01"
+  "topicId": "biology.human-physiology.chapter-11.topic-01",
+  "description": "Learn about Composition of Blood and its applications in biology.",
+  "content": {
+    "overview": "Composition of Blood is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Composition of Blood. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Composition of Blood requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Composition of Blood is essential for mastering Human Physiology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Performance Tradeoffs",
+      "content": "A practical example demonstrating Performance Tradeoffs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "performance-tradeoffs"
+      ]
+    }
+  ]
+}

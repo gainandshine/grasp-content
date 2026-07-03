@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Growth of Strategies",
+      "content": "A practical example demonstrating Growth of Strategies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "growth-of-strategies"
+      ]
+    }
+  ]
+}

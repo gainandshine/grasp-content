@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coinage Metals",
+      "content": "A practical example demonstrating Coinage Metals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "coinage-metals"
+      ]
+    }
+  ]
+}

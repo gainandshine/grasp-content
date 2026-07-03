@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strategy Profiles",
+      "content": "A practical example demonstrating Strategy Profiles",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "strategy-profiles"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quark Epoch",
+      "content": "A practical example demonstrating Quark Epoch",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "quark-epoch"
+      ]
+    }
+  ]
+}

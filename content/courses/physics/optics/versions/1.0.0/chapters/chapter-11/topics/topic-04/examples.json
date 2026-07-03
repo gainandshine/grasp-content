@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Optical Communication",
+      "content": "A practical example demonstrating Optical Communication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "optical-communication"
+      ]
+    }
+  ]
+}

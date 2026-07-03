@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Velocity-Time Graph",
+      "content": "A practical example demonstrating Velocity-Time Graph",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "velocity-time-graph"
+      ]
+    }
+  ]
+}

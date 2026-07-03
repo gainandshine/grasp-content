@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: UML Class Diagrams (Introduction)",
+      "content": "A practical example demonstrating UML Class Diagrams (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "uml-class-diagrams-introduction"
+      ]
+    }
+  ]
+}

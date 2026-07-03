@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time-Resolved Spectroscopy",
+      "content": "A practical example demonstrating Time-Resolved Spectroscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "time-resolved-spectroscopy"
+      ]
+    }
+  ]
+}

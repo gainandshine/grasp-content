@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Chromosomal Inheritance?",
+      "back": "Chromosomal Inheritance is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Chromosomal Inheritance important?",
+      "back": "Chromosomal Inheritance is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

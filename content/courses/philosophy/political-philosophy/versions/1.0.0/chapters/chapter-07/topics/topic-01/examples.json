@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thomas Hobbes",
+      "content": "A practical example demonstrating Thomas Hobbes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "thomas-hobbes"
+      ]
+    }
+  ]
+}

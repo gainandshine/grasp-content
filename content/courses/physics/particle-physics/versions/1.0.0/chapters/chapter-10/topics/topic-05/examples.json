@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electroweak Theory",
+      "content": "A practical example demonstrating Electroweak Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "electroweak-theory"
+      ]
+    }
+  ]
+}

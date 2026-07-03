@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Duet Rule",
+      "content": "A practical example demonstrating Duet Rule",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "duet-rule"
+      ]
+    }
+  ]
+}

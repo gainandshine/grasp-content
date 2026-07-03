@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Darwin's Theory",
+      "content": "A practical example demonstrating Darwin's Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "darwins-theory"
+      ]
+    }
+  ]
+}

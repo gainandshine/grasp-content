@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Avogadro's Number",
+      "content": "A practical example demonstrating Avogadro's Number",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "avogadros-number"
+      ]
+    }
+  ]
+}

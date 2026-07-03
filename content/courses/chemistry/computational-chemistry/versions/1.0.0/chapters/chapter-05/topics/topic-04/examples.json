@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Basis Sets",
+      "content": "A practical example demonstrating Basis Sets",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "basis-sets"
+      ]
+    }
+  ]
+}

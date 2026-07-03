@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Forensic Biotechnology",
+      "content": "A practical example demonstrating Forensic Biotechnology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "forensic-biotechnology"
+      ]
+    }
+  ]
+}

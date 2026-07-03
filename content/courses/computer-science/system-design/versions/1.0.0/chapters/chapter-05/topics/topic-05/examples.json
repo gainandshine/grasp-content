@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cache Eviction Policies",
+      "content": "A practical example demonstrating Cache Eviction Policies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "cache-eviction-policies"
+      ]
+    }
+  ]
+}

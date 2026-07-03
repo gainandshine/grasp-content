@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Everyday Chemistry",
+      "content": "A practical example demonstrating Everyday Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "everyday-chemistry"
+      ]
+    }
+  ]
+}

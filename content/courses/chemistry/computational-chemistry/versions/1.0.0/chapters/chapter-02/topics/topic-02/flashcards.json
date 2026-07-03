@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Vector Mathematics?",
+      "back": "Vector Mathematics is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Vector Mathematics important?",
+      "back": "Vector Mathematics is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

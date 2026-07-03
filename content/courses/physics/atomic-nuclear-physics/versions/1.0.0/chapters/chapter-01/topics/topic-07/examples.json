@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Atomic Mass",
+      "content": "A practical example demonstrating Atomic Mass",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "atomic-mass"
+      ]
+    }
+  ]
+}

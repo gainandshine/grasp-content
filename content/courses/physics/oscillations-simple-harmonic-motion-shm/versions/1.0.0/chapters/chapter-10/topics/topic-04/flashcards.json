@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Musical Instruments?",
+      "back": "Musical Instruments is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Musical Instruments important?",
+      "back": "Musical Instruments is essential for understanding Oscillations & Simple Harmonic Motion (SHM).",
+      "difficulty": "medium"
+    }
+  ]
+}

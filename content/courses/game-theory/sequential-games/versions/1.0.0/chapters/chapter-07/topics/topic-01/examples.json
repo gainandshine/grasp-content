@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Credible Threats",
+      "content": "A practical example demonstrating Credible Threats",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "credible-threats"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Experimental Verification",
+      "content": "A practical example demonstrating Experimental Verification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "experimental-verification"
+      ]
+    }
+  ]
+}

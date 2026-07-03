@@ -1,10 +1,11 @@
 {
   "id": "aesthetics",
   "title": "Aesthetics",
-  "description": "This course studies **the philosophy of beauty, art, and aesthetic experience**. It explores what makes something beautiful, what distinguishes art, how creativity works, and how people interpret artistic works.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.753Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.400Z"
 }

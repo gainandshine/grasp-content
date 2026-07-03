@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Color Charge?",
+      "back": "Color Charge is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Color Charge important?",
+      "back": "Color Charge is essential for understanding Particle Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

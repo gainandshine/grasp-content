@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heap Operations",
+      "content": "A practical example demonstrating Heap Operations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "heap-operations"
+      ]
+    }
+  ]
+}

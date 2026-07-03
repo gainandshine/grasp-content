@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Basicity?",
+      "back": "Basicity is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Basicity important?",
+      "back": "Basicity is essential for understanding Organic Chemistry II.",
+      "difficulty": "medium"
+    }
+  ]
+}

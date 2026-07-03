@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Raman Spectroscopy",
+      "content": "A practical example demonstrating Raman Spectroscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "raman-spectroscopy"
+      ]
+    }
+  ]
+}

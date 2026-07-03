@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Texture Mapping",
+      "content": "A practical example demonstrating Texture Mapping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "texture-mapping"
+      ]
+    }
+  ]
+}

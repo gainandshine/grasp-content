@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Instruction Set Architecture (ISA)",
+      "content": "A practical example demonstrating Instruction Set Architecture (ISA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "instruction-set-architecture-isa"
+      ]
+    }
+  ]
+}

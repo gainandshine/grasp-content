@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reading Payoff Tables",
+      "content": "A practical example demonstrating Reading Payoff Tables",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "reading-payoff-tables"
+      ]
+    }
+  ]
+}

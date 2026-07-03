@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hash Functions?",
+      "back": "Hash Functions is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hash Functions important?",
+      "back": "Hash Functions is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

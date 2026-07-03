@@ -1,10 +1,11 @@
 {
   "id": "machine-learning",
   "title": "Machine Learning",
-  "description": "This course studies **how computers learn patterns from data** to make predictions, classifications, recommendations, and decisions. It covers both classical machine learning and modern deep learning.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:19.735Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.350Z"
 }

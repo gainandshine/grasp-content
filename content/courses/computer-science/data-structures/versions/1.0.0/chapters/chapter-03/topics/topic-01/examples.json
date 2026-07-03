@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Singly Linked Lists",
+      "content": "A practical example demonstrating Singly Linked Lists",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "singly-linked-lists"
+      ]
+    }
+  ]
+}

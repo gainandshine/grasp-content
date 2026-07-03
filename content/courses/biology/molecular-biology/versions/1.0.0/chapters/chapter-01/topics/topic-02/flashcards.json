@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Central Dogma of Molecular Biology?",
+      "back": "Central Dogma of Molecular Biology is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Central Dogma of Molecular Biology important?",
+      "back": "Central Dogma of Molecular Biology is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

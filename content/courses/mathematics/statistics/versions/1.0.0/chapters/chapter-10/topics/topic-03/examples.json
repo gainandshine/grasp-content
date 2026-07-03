@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spearman Rank Correlation",
+      "content": "A practical example demonstrating Spearman Rank Correlation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "spearman-rank-correlation"
+      ]
+    }
+  ]
+}

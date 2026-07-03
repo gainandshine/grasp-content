@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Newton's Law of Universal Gravitation",
+      "content": "A practical example demonstrating Newton's Law of Universal Gravitation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "newtons-law-of-universal-gravitation"
+      ]
+    }
+  ]
+}

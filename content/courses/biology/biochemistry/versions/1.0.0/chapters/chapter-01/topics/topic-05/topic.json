@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "pH in Living Systems",
-  "description": "Learn about pH in Living Systems",
-  "conceptId": "biology.biochemistry.chapter-01.topic-05"
+  "topicId": "biology.biochemistry.chapter-01.topic-05",
+  "description": "Learn about pH in Living Systems and its applications in biology.",
+  "content": {
+    "overview": "pH in Living Systems is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of pH in Living Systems. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding pH in Living Systems requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "pH in Living Systems is essential for mastering Biochemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

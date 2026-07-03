@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hardy-Weinberg Principle",
+      "content": "A practical example demonstrating Hardy-Weinberg Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "hardy-weinberg-principle"
+      ]
+    }
+  ]
+}

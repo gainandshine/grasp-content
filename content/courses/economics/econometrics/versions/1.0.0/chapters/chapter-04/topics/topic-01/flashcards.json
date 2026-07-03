@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multiple Linear Regression?",
+      "back": "Multiple Linear Regression is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multiple Linear Regression important?",
+      "back": "Multiple Linear Regression is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is AI Negotiation?",
+      "back": "AI Negotiation is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is AI Negotiation important?",
+      "back": "AI Negotiation is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

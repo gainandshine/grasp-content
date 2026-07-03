@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Async/Await",
+      "content": "A practical example demonstrating Async/Await",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "asyncawait"
+      ]
+    }
+  ]
+}

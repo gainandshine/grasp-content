@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ion Acoustic Waves?",
+      "back": "Ion Acoustic Waves is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ion Acoustic Waves important?",
+      "back": "Ion Acoustic Waves is essential for understanding Plasma Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

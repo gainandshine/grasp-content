@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Participatory Decision Systems?",
+      "back": "Participatory Decision Systems is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Participatory Decision Systems important?",
+      "back": "Participatory Decision Systems is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

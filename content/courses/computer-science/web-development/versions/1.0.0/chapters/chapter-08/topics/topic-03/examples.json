@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: NoSQL Databases",
+      "content": "A practical example demonstrating NoSQL Databases",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "nosql-databases"
+      ]
+    }
+  ]
+}

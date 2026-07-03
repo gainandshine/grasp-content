@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Soft Matter",
+      "content": "A practical example demonstrating Soft Matter",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "soft-matter"
+      ]
+    }
+  ]
+}

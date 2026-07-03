@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wireless Security",
+      "content": "A practical example demonstrating Wireless Security",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "wireless-security"
+      ]
+    }
+  ]
+}

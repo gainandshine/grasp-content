@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Islamic Philosophy",
+      "content": "A practical example demonstrating Islamic Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "islamic-philosophy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Irrational Numbers",
+      "content": "A practical example demonstrating Irrational Numbers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "irrational-numbers"
+      ]
+    }
+  ]
+}

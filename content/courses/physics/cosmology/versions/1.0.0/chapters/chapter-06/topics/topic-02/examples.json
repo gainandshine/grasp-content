@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Galaxy Rotation Curves",
+      "content": "A practical example demonstrating Galaxy Rotation Curves",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "galaxy-rotation-curves"
+      ]
+    }
+  ]
+}

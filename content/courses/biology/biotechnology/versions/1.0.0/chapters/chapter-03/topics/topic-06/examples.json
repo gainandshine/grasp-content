@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Real-Time PCR (qPCR)",
+      "content": "A practical example demonstrating Real-Time PCR (qPCR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "real-time-pcr-qpcr"
+      ]
+    }
+  ]
+}

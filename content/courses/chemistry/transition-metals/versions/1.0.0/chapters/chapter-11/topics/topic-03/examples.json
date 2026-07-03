@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aerospace Alloys",
+      "content": "A practical example demonstrating Aerospace Alloys",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "aerospace-alloys"
+      ]
+    }
+  ]
+}

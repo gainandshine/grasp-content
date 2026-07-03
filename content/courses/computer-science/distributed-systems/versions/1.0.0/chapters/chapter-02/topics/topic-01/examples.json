@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Remote Procedure Call (RPC)",
+      "content": "A practical example demonstrating Remote Procedure Call (RPC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "remote-procedure-call-rpc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: High-Energy Physics",
+      "content": "A practical example demonstrating High-Energy Physics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "high-energy-physics"
+      ]
+    }
+  ]
+}

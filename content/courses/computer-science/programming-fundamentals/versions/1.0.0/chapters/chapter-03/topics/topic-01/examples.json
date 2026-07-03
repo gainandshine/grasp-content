@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arithmetic Operators",
+      "content": "A practical example demonstrating Arithmetic Operators",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "arithmetic-operators"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stored Procedures",
+      "content": "A practical example demonstrating Stored Procedures",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "stored-procedures"
+      ]
+    }
+  ]
+}

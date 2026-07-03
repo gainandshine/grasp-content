@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Personalized Mental Healthcare",
-  "description": "Learn about Personalized Mental Healthcare",
-  "conceptId": "psychology.clinical-psychology.chapter-13.topic-04"
+  "topicId": "psychology.clinical-psychology.chapter-13.topic-04",
+  "description": "Learn about Personalized Mental Healthcare and its applications in psychology.",
+  "content": {
+    "overview": "Personalized Mental Healthcare is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Personalized Mental Healthcare. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Personalized Mental Healthcare requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Personalized Mental Healthcare is essential for mastering Clinical Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

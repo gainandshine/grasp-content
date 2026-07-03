@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Minimum Spanning Tree (Greedy View)?",
+      "back": "Minimum Spanning Tree (Greedy View) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Minimum Spanning Tree (Greedy View) important?",
+      "back": "Minimum Spanning Tree (Greedy View) is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

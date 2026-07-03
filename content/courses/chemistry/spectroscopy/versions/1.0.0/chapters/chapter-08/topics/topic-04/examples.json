@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Crystal Structure Analysis",
+      "content": "A practical example demonstrating Crystal Structure Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "crystal-structure-analysis"
+      ]
+    }
+  ]
+}

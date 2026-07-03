@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Auction Objectives",
+      "content": "A practical example demonstrating Auction Objectives",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "auction-objectives"
+      ]
+    }
+  ]
+}

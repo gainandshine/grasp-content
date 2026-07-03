@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medical Biotechnology",
+      "content": "A practical example demonstrating Medical Biotechnology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "medical-biotechnology"
+      ]
+    }
+  ]
+}

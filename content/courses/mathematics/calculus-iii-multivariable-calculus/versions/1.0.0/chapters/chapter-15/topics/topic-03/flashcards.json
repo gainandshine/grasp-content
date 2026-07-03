@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Heat Transfer?",
+      "back": "Heat Transfer is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Heat Transfer important?",
+      "back": "Heat Transfer is essential for understanding Calculus III (Multivariable Calculus).",
+      "difficulty": "medium"
+    }
+  ]
+}

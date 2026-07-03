@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parse Trees",
+      "content": "A practical example demonstrating Parse Trees",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "parse-trees"
+      ]
+    }
+  ]
+}

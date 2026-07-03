@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 15: Compiler Design**",
+      "content": "A practical example demonstrating *Course 15: Compiler Design**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-15-compiler-design"
+      ]
+    }
+  ]
+}

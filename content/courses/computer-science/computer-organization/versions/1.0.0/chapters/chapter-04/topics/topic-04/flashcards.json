@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Operands?",
+      "back": "Operands is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Operands important?",
+      "back": "Operands is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

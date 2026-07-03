@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trade Wars",
+      "content": "A practical example demonstrating Trade Wars",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "trade-wars"
+      ]
+    }
+  ]
+}

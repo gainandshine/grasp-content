@@ -1,10 +1,11 @@
 {
   "id": "philosophy-foundations",
   "title": "Philosophy Foundations",
-  "description": "This course introduces **the study of fundamental questions about reality, knowledge, morality, reasoning, and human existence**. It provides the conceptual foundation for all later philosophy courses.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.039Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.382Z"
 }

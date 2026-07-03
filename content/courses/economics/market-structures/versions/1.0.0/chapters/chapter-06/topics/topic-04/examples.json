@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Repeated Games",
+      "content": "A practical example demonstrating Repeated Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "repeated-games"
+      ]
+    }
+  ]
+}

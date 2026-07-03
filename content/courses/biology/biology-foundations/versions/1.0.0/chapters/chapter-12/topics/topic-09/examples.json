@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cell Membrane",
+      "content": "A practical example demonstrating Cell Membrane",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cell-membrane"
+      ]
+    }
+  ]
+}

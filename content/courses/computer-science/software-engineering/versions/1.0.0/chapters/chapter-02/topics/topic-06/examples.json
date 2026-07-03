@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Requirements Specification",
+      "content": "A practical example demonstrating Requirements Specification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "requirements-specification"
+      ]
+    }
+  ]
+}

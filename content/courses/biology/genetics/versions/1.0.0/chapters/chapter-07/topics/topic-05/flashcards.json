@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Klinefelter Syndrome?",
+      "back": "Klinefelter Syndrome is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Klinefelter Syndrome important?",
+      "back": "Klinefelter Syndrome is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

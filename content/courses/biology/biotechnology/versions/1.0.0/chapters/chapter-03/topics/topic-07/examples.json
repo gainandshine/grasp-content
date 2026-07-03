@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: PCR Applications",
+      "content": "A practical example demonstrating PCR Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "pcr-applications"
+      ]
+    }
+  ]
+}

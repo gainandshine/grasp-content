@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ozone Pollution",
+      "content": "A practical example demonstrating Ozone Pollution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ozone-pollution"
+      ]
+    }
+  ]
+}

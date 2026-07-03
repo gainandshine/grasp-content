@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Everyday Applications",
+      "content": "A practical example demonstrating Everyday Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "everyday-applications"
+      ]
+    }
+  ]
+}

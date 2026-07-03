@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Predicting Reaction Spontaneity",
+      "content": "A practical example demonstrating Predicting Reaction Spontaneity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "predicting-reaction-spontaneity"
+      ]
+    }
+  ]
+}

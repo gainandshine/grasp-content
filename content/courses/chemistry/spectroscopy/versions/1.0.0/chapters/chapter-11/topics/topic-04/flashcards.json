@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Spectrometers?",
+      "back": "Spectrometers is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Spectrometers important?",
+      "back": "Spectrometers is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

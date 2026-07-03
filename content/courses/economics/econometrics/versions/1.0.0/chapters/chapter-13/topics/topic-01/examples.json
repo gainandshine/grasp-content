@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bayesian Econometrics",
+      "content": "A practical example demonstrating Bayesian Econometrics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "bayesian-econometrics"
+      ]
+    }
+  ]
+}

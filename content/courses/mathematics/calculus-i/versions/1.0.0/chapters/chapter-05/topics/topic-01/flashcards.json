@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Implicit Functions?",
+      "back": "Implicit Functions is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Implicit Functions important?",
+      "back": "Implicit Functions is essential for understanding Calculus I.",
+      "difficulty": "medium"
+    }
+  ]
+}

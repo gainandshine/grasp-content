@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strange Quark",
+      "content": "A practical example demonstrating Strange Quark",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "strange-quark"
+      ]
+    }
+  ]
+}

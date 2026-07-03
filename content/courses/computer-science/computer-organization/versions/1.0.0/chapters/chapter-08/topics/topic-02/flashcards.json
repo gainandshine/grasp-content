@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Two's Complement?",
+      "back": "Two's Complement is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Two's Complement important?",
+      "back": "Two's Complement is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

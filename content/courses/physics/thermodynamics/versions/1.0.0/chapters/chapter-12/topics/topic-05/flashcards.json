@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Power Plants?",
+      "back": "Power Plants is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Power Plants important?",
+      "back": "Power Plants is essential for understanding Thermodynamics.",
+      "difficulty": "medium"
+    }
+  ]
+}

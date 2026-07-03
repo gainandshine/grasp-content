@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Loop Analysis",
+      "content": "A practical example demonstrating Loop Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "loop-analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Backward Chaining",
+      "content": "A practical example demonstrating Backward Chaining",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "backward-chaining"
+      ]
+    }
+  ]
+}

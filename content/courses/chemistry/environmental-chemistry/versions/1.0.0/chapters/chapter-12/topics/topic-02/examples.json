@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Environmental Remediation",
+      "content": "A practical example demonstrating Environmental Remediation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "environmental-remediation"
+      ]
+    }
+  ]
+}

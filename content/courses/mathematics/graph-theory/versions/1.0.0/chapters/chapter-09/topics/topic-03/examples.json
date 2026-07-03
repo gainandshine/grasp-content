@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chromatic Number",
+      "content": "A practical example demonstrating Chromatic Number",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "chromatic-number"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Driving Frequency",
+      "content": "A practical example demonstrating Driving Frequency",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "driving-frequency"
+      ]
+    }
+  ]
+}

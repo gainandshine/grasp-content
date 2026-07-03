@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Epigenetics",
+      "content": "A practical example demonstrating Epigenetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "epigenetics"
+      ]
+    }
+  ]
+}

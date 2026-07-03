@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cell-to-Cell Communication?",
+      "back": "Cell-to-Cell Communication is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cell-to-Cell Communication important?",
+      "back": "Cell-to-Cell Communication is essential for understanding Cell Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

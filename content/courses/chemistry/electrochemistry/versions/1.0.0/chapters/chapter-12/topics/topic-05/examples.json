@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Artificial Photosynthesis",
+      "content": "A practical example demonstrating Artificial Photosynthesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "artificial-photosynthesis"
+      ]
+    }
+  ]
+}

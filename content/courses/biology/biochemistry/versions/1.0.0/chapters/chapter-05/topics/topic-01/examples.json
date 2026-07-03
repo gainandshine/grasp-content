@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fatty Acids",
+      "content": "A practical example demonstrating Fatty Acids",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "fatty-acids"
+      ]
+    }
+  ]
+}

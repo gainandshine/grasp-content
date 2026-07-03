@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Matrix Chain Multiplication",
+      "content": "A practical example demonstrating Matrix Chain Multiplication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "matrix-chain-multiplication"
+      ]
+    }
+  ]
+}

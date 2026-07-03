@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnetic Permeability",
+      "content": "A practical example demonstrating Magnetic Permeability",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "magnetic-permeability"
+      ]
+    }
+  ]
+}

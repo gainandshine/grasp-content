@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Relativistic Effects in Heavy Elements (Introduction)",
-  "description": "Learn about Relativistic Effects in Heavy Elements (Introduction)",
-  "conceptId": "chemistry.atomic-structure.chapter-11.topic-04"
+  "topicId": "chemistry.atomic-structure.chapter-11.topic-04",
+  "description": "Learn about Relativistic Effects in Heavy Elements (Introduction) and its applications in chemistry.",
+  "content": {
+    "overview": "Relativistic Effects in Heavy Elements (Introduction) is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Relativistic Effects in Heavy Elements (Introduction). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Relativistic Effects in Heavy Elements (Introduction) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Relativistic Effects in Heavy Elements (Introduction) is essential for mastering Atomic Structure. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Paxos (Concept)",
+      "content": "A practical example demonstrating Paxos (Concept)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "paxos-concept"
+      ]
+    }
+  ]
+}

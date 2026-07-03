@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Depth Buffer",
+      "content": "A practical example demonstrating Depth Buffer",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "depth-buffer"
+      ]
+    }
+  ]
+}

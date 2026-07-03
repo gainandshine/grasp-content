@@ -1,10 +1,11 @@
 {
   "id": "chemical-equilibrium",
   "title": "Chemical Equilibrium",
-  "description": "Chemical Equilibrium explains **why most chemical reactions never go to completion** and how reaction conditions affect the balance between reactants and products.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:15.564Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.257Z"
 }

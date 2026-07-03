@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ambiguous Case (SSA)",
+      "content": "A practical example demonstrating Ambiguous Case (SSA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "ambiguous-case-ssa"
+      ]
+    }
+  ]
+}

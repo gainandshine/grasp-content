@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Non-Uniform Acceleration",
+      "content": "A practical example demonstrating Non-Uniform Acceleration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "non-uniform-acceleration"
+      ]
+    }
+  ]
+}

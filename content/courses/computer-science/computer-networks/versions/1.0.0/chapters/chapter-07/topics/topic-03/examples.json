@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: HTTP & HTTPS",
+      "content": "A practical example demonstrating HTTP & HTTPS",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "http-https"
+      ]
+    }
+  ]
+}

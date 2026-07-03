@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Treatment Planning",
+      "content": "A practical example demonstrating Treatment Planning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "treatment-planning"
+      ]
+    }
+  ]
+}

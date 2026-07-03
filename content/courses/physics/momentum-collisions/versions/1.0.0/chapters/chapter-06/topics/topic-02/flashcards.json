@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Internal Interactions?",
+      "back": "Internal Interactions is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Internal Interactions important?",
+      "back": "Internal Interactions is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

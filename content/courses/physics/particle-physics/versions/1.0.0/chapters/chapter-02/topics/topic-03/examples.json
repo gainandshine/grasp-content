@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Generations of Particles",
+      "content": "A practical example demonstrating Generations of Particles",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "generations-of-particles"
+      ]
+    }
+  ]
+}

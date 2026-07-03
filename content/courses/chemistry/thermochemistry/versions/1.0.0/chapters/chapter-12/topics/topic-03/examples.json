@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Phase Equilibria",
+      "content": "A practical example demonstrating Phase Equilibria",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "phase-equilibria"
+      ]
+    }
+  ]
+}

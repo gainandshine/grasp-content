@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bioleaching",
+      "content": "A practical example demonstrating Bioleaching",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "bioleaching"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kirchhoff's Laws",
+      "content": "A practical example demonstrating Kirchhoff's Laws",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "kirchhoffs-laws"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molecular Crystals",
+      "content": "A practical example demonstrating Molecular Crystals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "molecular-crystals"
+      ]
+    }
+  ]
+}

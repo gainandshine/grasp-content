@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: In-Degree",
+      "content": "A practical example demonstrating In-Degree",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "in-degree"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Bandwidth",
-  "description": "Learn about Bandwidth",
-  "conceptId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-04"
+  "topicId": "physics.oscillations-simple-harmonic-motion-shm.chapter-08.topic-04",
+  "description": "Learn about Bandwidth and its applications in physics.",
+  "content": {
+    "overview": "Bandwidth is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Bandwidth. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Bandwidth requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Bandwidth is essential for mastering Oscillations & Simple Harmonic Motion (SHM). The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

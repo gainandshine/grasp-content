@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Verifying Identities?",
+      "back": "Verifying Identities is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Verifying Identities important?",
+      "back": "Verifying Identities is essential for understanding Trigonometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

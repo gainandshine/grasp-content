@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mendeleev's Periodic Table?",
+      "back": "Mendeleev's Periodic Table is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mendeleev's Periodic Table important?",
+      "back": "Mendeleev's Periodic Table is essential for understanding Periodic Table.",
+      "difficulty": "medium"
+    }
+  ]
+}

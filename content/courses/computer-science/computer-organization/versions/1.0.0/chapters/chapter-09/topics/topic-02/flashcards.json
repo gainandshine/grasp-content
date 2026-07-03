@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pipeline Hazards?",
+      "back": "Pipeline Hazards is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pipeline Hazards important?",
+      "back": "Pipeline Hazards is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

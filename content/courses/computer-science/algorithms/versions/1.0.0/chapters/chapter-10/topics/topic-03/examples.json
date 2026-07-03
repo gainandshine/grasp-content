@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Knuth-Morris-Pratt (KMP)",
+      "content": "A practical example demonstrating Knuth-Morris-Pratt (KMP)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "knuth-morris-pratt-kmp"
+      ]
+    }
+  ]
+}

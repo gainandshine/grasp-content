@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Internet Advertising?",
+      "back": "Internet Advertising is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Internet Advertising important?",
+      "back": "Internet Advertising is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

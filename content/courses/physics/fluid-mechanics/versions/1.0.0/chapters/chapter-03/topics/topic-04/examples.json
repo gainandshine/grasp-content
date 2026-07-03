@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sinking Bodies",
+      "content": "A practical example demonstrating Sinking Bodies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "sinking-bodies"
+      ]
+    }
+  ]
+}

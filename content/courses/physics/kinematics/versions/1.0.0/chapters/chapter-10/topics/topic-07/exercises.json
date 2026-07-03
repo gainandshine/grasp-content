@@ -1,0 +1,35 @@
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to *Course 3 (Newtonian Mechanics)** will answer **why objects move** by introducing forces, Newton's laws, free-body diagrams, friction, tension, and equilibrium..",
+      "solution": "Step-by-step solution for *Course 3 (Newtonian Mechanics)** will answer **why objects move** by introducing forces, Newton's laws, free-body diagrams, friction, tension, and equilibrium. problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "course-3-newtonian-mechanics-will-answer-why-objects-move-by-introducing-forces-newtons-laws-free-body-diagrams-friction-tension-and-equilibrium"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply *Course 3 (Newtonian Mechanics)** will answer **why objects move** by introducing forces, Newton's laws, free-body diagrams, friction, tension, and equilibrium. to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "course-3-newtonian-mechanics-will-answer-why-objects-move-by-introducing-forces-newtons-laws-free-body-diagrams-friction-tension-and-equilibrium"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Predictive Analytics?",
+      "back": "Predictive Analytics is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Predictive Analytics important?",
+      "back": "Predictive Analytics is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

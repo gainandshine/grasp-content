@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Tactical Voting",
+      "content": "A practical example demonstrating Tactical Voting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "tactical-voting"
+      ]
+    }
+  ]
+}

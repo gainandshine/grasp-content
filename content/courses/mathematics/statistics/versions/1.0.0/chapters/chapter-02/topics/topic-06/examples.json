@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stem-and-Leaf Plots",
+      "content": "A practical example demonstrating Stem-and-Leaf Plots",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "stem-and-leaf-plots"
+      ]
+    }
+  ]
+}

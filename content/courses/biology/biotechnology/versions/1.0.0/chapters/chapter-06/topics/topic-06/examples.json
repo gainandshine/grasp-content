@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Regenerative Medicine",
+      "content": "A practical example demonstrating Regenerative Medicine",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "regenerative-medicine"
+      ]
+    }
+  ]
+}

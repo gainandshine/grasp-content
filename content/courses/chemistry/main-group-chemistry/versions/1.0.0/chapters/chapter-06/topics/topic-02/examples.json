@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Phosphorus",
+      "content": "A practical example demonstrating Phosphorus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "phosphorus"
+      ]
+    }
+  ]
+}

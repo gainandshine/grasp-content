@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bureaucracy",
+      "content": "A practical example demonstrating Bureaucracy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "bureaucracy"
+      ]
+    }
+  ]
+}

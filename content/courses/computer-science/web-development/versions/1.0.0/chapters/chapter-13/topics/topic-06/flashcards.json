@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is WebSockets?",
+      "back": "WebSockets is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is WebSockets important?",
+      "back": "WebSockets is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

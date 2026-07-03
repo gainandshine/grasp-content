@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Recursive Thinking",
+      "content": "A practical example demonstrating Recursive Thinking",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "recursive-thinking"
+      ]
+    }
+  ]
+}

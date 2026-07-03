@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dosimetry",
+      "content": "A practical example demonstrating Dosimetry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dosimetry"
+      ]
+    }
+  ]
+}

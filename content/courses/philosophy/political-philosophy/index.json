@@ -1,10 +1,11 @@
 {
   "id": "political-philosophy",
   "title": "Political Philosophy",
-  "description": "This course studies **the philosophical foundations of politics, government, law, and society**. It explores questions about justice, liberty, equality, rights, authority, and the ideal political order.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.424Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.392Z"
 }

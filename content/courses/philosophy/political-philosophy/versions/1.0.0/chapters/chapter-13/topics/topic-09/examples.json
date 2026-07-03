@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mind-Body Problem",
+      "content": "A practical example demonstrating Mind-Body Problem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "mind-body-problem"
+      ]
+    }
+  ]
+}

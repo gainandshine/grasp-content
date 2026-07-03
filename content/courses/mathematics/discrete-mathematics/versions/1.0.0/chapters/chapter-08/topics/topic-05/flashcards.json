@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fibonacci Sequence?",
+      "back": "Fibonacci Sequence is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fibonacci Sequence important?",
+      "back": "Fibonacci Sequence is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

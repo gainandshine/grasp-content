@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Calling Conventions",
-  "description": "Learn about Calling Conventions",
-  "conceptId": "computer-science.compiler-design.chapter-07.topic-04"
+  "topicId": "computer-science.compiler-design.chapter-07.topic-04",
+  "description": "Learn about Calling Conventions and its applications in computer-science.",
+  "content": {
+    "overview": "Calling Conventions is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Calling Conventions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Calling Conventions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Calling Conventions is essential for mastering Compiler Design. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Synthetic Rubber",
+      "content": "A practical example demonstrating Synthetic Rubber",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "synthetic-rubber"
+      ]
+    }
+  ]
+}

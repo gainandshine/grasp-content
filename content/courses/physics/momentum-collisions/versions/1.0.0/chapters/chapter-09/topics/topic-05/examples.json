@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spacecraft Docking",
+      "content": "A practical example demonstrating Spacecraft Docking",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "spacecraft-docking"
+      ]
+    }
+  ]
+}

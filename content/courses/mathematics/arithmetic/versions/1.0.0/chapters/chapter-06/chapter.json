@@ -1,47 +1,48 @@
 {
   "id": "chapter-06",
   "name": "Decimals",
-  "description": "Understanding and working with decimal numbers",
+  "description": "Decimals",
+  "overview": "This chapter covers the fundamental concepts of Decimals.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Decimal Place Value",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-01"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Comparing Decimals",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-02"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Rounding Decimals",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-03"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Adding Decimals",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-04"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Subtracting Decimals",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-05"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Multiplying Decimals",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-06"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-06"
     },
     {
       "id": "topic-07",
       "name": "Dividing Decimals",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-07"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-07"
     },
     {
       "id": "topic-08",
       "name": "Converting Fractions ↔ Decimals",
-      "conceptId": "mathematics.arithmetic.chapter-06.topic-08"
+      "topicId": "mathematics.arithmetic.chapter-06.topic-08"
     }
   ]
 }

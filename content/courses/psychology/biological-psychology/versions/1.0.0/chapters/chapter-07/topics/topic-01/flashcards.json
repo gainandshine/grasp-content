@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Neural Basis of Learning?",
+      "back": "Neural Basis of Learning is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Neural Basis of Learning important?",
+      "back": "Neural Basis of Learning is essential for understanding Biological Psychology.",
+      "difficulty": "medium"
+    }
+  ]
+}

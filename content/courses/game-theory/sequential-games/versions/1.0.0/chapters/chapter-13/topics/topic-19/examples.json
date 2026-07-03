@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Computational Equilibrium",
+      "content": "A practical example demonstrating Computational Equilibrium",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "computational-equilibrium"
+      ]
+    }
+  ]
+}

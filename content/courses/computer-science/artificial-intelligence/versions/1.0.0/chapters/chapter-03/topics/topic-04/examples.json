@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Depth-First Search (DFS)",
+      "content": "A practical example demonstrating Depth-First Search (DFS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "depth-first-search-dfs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quantum Nanotechnology",
+      "content": "A practical example demonstrating Quantum Nanotechnology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "quantum-nanotechnology"
+      ]
+    }
+  ]
+}

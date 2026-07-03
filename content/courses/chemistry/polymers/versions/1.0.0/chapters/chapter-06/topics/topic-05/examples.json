@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Resistance",
+      "content": "A practical example demonstrating Chemical Resistance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "chemical-resistance"
+      ]
+    }
+  ]
+}

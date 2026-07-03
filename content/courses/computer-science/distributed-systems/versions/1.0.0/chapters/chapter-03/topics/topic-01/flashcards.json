@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Physical Clocks?",
+      "back": "Physical Clocks is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Physical Clocks important?",
+      "back": "Physical Clocks is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

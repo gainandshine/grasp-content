@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Philosophy of Logic",
-  "description": "Learn about Philosophy of Logic",
-  "conceptId": "philosophy.contemporary-philosophy.chapter-02.topic-04"
+  "topicId": "philosophy.contemporary-philosophy.chapter-02.topic-04",
+  "description": "Learn about Philosophy of Logic and its applications in philosophy.",
+  "content": {
+    "overview": "Philosophy of Logic is a fundamental concept in philosophy. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Philosophy of Logic. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Philosophy of Logic requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Philosophy of Logic is essential for mastering Contemporary Philosophy. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

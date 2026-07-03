@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Carbon Chemistry?",
+      "back": "Carbon Chemistry is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Carbon Chemistry important?",
+      "back": "Carbon Chemistry is essential for understanding Coordination Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

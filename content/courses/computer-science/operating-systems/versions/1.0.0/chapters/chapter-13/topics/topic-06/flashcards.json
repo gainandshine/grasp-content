@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Operating System Performance Tuning?",
+      "back": "Operating System Performance Tuning is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Operating System Performance Tuning important?",
+      "back": "Operating System Performance Tuning is essential for understanding Operating Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

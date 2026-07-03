@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thévenin's Theorem",
+      "content": "A practical example demonstrating Thévenin's Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "thvenins-theorem"
+      ]
+    }
+  ]
+}

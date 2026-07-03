@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: pH & pOH",
+      "content": "A practical example demonstrating pH & pOH",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ph-poh"
+      ]
+    }
+  ]
+}

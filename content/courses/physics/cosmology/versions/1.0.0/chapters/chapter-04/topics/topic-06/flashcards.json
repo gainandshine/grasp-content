@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Planck Mission?",
+      "back": "Planck Mission is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Planck Mission important?",
+      "back": "Planck Mission is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

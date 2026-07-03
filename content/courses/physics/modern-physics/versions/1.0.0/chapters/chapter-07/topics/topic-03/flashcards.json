@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Quantum Numbers?",
+      "back": "Quantum Numbers is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Quantum Numbers important?",
+      "back": "Quantum Numbers is essential for understanding Modern Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

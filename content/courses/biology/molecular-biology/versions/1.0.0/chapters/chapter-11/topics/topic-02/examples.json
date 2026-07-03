@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DNA Methylation",
+      "content": "A practical example demonstrating DNA Methylation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "dna-methylation"
+      ]
+    }
+  ]
+}

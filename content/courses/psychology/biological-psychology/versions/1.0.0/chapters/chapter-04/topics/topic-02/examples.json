@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cerebral Cortex",
+      "content": "A practical example demonstrating Cerebral Cortex",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "cerebral-cortex"
+      ]
+    }
+  ]
+}

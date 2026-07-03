@@ -1,10 +1,11 @@
 {
   "id": "contemporary-philosophy",
   "title": "Contemporary Philosophy",
-  "description": "This course studies **the major philosophical movements, ideas, and debates from the late 19th century to the present**. It examines how philosophy addresses modern issues in science, technology, society, politics, and human existence.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.901Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.404Z"
 }

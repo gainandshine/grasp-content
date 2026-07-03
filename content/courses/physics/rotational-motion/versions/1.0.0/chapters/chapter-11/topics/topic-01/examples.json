@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Flywheels",
+      "content": "A practical example demonstrating Flywheels",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "flywheels"
+      ]
+    }
+  ]
+}

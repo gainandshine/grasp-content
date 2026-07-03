@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Descending-Bid Auctions",
+      "content": "A practical example demonstrating Descending-Bid Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "descending-bid-auctions"
+      ]
+    }
+  ]
+}

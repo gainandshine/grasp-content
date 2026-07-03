@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dendritic Cells",
+      "content": "A practical example demonstrating Dendritic Cells",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "dendritic-cells"
+      ]
+    }
+  ]
+}

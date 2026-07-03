@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molecular Phylogenetics",
+      "content": "A practical example demonstrating Molecular Phylogenetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "molecular-phylogenetics"
+      ]
+    }
+  ]
+}

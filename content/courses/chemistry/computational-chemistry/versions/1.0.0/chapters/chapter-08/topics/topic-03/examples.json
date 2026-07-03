@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Statistical Mechanics",
+      "content": "A practical example demonstrating Statistical Mechanics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "statistical-mechanics"
+      ]
+    }
+  ]
+}

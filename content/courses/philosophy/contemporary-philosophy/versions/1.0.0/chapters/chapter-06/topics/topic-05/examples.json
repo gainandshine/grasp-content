@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Care Ethics",
+      "content": "A practical example demonstrating Care Ethics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "care-ethics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Metallic Bond",
+      "content": "A practical example demonstrating Metallic Bond",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "metallic-bond"
+      ]
+    }
+  ]
+}

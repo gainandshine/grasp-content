@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "WMAP",
-  "description": "Learn about WMAP",
-  "conceptId": "physics.cosmology.chapter-04.topic-05"
+  "topicId": "physics.cosmology.chapter-04.topic-05",
+  "description": "Learn about WMAP and its applications in physics.",
+  "content": {
+    "overview": "WMAP is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of WMAP. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding WMAP requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "WMAP is essential for mastering Cosmology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

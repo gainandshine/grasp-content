@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Behavioral Game Theory",
+      "content": "A practical example demonstrating Behavioral Game Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "behavioral-game-theory"
+      ]
+    }
+  ]
+}

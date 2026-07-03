@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Photodiodes",
+      "content": "A practical example demonstrating Photodiodes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "photodiodes"
+      ]
+    }
+  ]
+}

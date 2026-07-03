@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ride-Sharing System",
+      "content": "A practical example demonstrating Ride-Sharing System",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ride-sharing-system"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radioisotopes",
+      "content": "A practical example demonstrating Radioisotopes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radioisotopes"
+      ]
+    }
+  ]
+}

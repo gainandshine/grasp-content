@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Behavioral Public Economics",
-  "description": "Learn about Behavioral Public Economics",
-  "conceptId": "economics.behavioral-economics.chapter-13.topic-04"
+  "topicId": "economics.behavioral-economics.chapter-13.topic-04",
+  "description": "Learn about Behavioral Public Economics and its applications in economics.",
+  "content": {
+    "overview": "Behavioral Public Economics is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Behavioral Public Economics. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Behavioral Public Economics requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Behavioral Public Economics is essential for mastering Behavioral Economics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

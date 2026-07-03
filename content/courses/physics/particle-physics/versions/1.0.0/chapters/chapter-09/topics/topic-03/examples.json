@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cyclotrons",
+      "content": "A practical example demonstrating Cyclotrons",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "cyclotrons"
+      ]
+    }
+  ]
+}

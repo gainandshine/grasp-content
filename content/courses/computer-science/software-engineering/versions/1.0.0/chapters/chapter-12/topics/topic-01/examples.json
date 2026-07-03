@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bug Fixing",
+      "content": "A practical example demonstrating Bug Fixing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "bug-fixing"
+      ]
+    }
+  ]
+}

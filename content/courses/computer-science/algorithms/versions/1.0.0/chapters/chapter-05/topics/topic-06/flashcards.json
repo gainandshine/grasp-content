@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Master Theorem (Introduction)?",
+      "back": "Master Theorem (Introduction) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Master Theorem (Introduction) important?",
+      "back": "Master Theorem (Introduction) is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

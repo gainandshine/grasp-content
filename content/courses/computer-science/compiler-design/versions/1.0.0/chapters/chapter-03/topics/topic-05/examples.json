@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Top-Down Parsing",
+      "content": "A practical example demonstrating Top-Down Parsing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "top-down-parsing"
+      ]
+    }
+  ]
+}

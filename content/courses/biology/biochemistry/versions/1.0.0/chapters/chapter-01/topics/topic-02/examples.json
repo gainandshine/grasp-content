@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Basis of Life",
+      "content": "A practical example demonstrating Chemical Basis of Life",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "chemical-basis-of-life"
+      ]
+    }
+  ]
+}

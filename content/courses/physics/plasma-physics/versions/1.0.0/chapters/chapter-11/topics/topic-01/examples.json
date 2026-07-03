@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Semiconductor Fabrication",
+      "content": "A practical example demonstrating Semiconductor Fabrication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "semiconductor-fabrication"
+      ]
+    }
+  ]
+}

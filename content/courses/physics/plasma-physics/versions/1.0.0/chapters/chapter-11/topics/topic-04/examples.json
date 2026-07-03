@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plasma Cutting",
+      "content": "A practical example demonstrating Plasma Cutting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "plasma-cutting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Constructor Chaining",
+      "content": "A practical example demonstrating Constructor Chaining",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "constructor-chaining"
+      ]
+    }
+  ]
+}

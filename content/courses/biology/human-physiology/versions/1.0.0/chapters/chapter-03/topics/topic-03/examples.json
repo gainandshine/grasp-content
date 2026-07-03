@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sliding Filament Theory",
+      "content": "A practical example demonstrating Sliding Filament Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "sliding-filament-theory"
+      ]
+    }
+  ]
+}

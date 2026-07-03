@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Computational Plasma Physics",
+      "content": "A practical example demonstrating Computational Plasma Physics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "computational-plasma-physics"
+      ]
+    }
+  ]
+}

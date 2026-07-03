@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Packet Capture",
+      "content": "A practical example demonstrating Packet Capture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "packet-capture"
+      ]
+    }
+  ]
+}

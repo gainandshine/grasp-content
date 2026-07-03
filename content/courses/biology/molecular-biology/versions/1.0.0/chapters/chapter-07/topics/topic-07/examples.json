@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Regulatory RNA",
+      "content": "A practical example demonstrating Regulatory RNA",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "regulatory-rna"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Impulse?",
+      "back": "Impulse is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Impulse important?",
+      "back": "Impulse is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

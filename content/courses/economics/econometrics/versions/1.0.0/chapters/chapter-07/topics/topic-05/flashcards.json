@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Autoregressive Models?",
+      "back": "Autoregressive Models is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Autoregressive Models important?",
+      "back": "Autoregressive Models is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Alpha-Beta Pruning?",
+      "back": "Alpha-Beta Pruning is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Alpha-Beta Pruning important?",
+      "back": "Alpha-Beta Pruning is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

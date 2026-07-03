@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Geometry Prediction",
+      "content": "A practical example demonstrating Geometry Prediction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "geometry-prediction"
+      ]
+    }
+  ]
+}

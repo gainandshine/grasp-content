@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Observational Astronomy",
+      "content": "A practical example demonstrating Observational Astronomy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "observational-astronomy"
+      ]
+    }
+  ]
+}

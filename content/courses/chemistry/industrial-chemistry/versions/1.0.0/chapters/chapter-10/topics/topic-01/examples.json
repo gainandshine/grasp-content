@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Process Monitoring",
+      "content": "A practical example demonstrating Process Monitoring",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "process-monitoring"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is War & Peace?",
+      "back": "War & Peace is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is War & Peace important?",
+      "back": "War & Peace is essential for understanding Ethics.",
+      "difficulty": "medium"
+    }
+  ]
+}

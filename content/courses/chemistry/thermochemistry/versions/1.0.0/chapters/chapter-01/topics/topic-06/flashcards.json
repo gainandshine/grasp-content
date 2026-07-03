@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is State Functions?",
+      "back": "State Functions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is State Functions important?",
+      "back": "State Functions is essential for understanding Thermochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

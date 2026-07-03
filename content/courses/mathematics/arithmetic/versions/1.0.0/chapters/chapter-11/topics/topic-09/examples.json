@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Unit Conversion",
+      "content": "A practical example demonstrating Unit Conversion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "unit-conversion"
+      ]
+    }
+  ]
+}

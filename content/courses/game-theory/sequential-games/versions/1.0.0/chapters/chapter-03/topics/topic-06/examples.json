@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sequential Knowledge",
+      "content": "A practical example demonstrating Sequential Knowledge",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "sequential-knowledge"
+      ]
+    }
+  ]
+}

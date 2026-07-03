@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Network Diagnostics",
+      "content": "A practical example demonstrating Network Diagnostics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "network-diagnostics"
+      ]
+    }
+  ]
+}

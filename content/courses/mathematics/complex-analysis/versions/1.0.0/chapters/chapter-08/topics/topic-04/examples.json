@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Contour Integration",
+      "content": "A practical example demonstrating Contour Integration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "contour-integration"
+      ]
+    }
+  ]
+}

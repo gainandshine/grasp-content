@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coordination Signals",
+      "content": "A practical example demonstrating Coordination Signals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "coordination-signals"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Earthquake Waves",
+      "content": "A practical example demonstrating Earthquake Waves",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "earthquake-waves"
+      ]
+    }
+  ]
+}

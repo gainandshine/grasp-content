@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Inverse Square Law",
+      "content": "A practical example demonstrating Inverse Square Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "inverse-square-law"
+      ]
+    }
+  ]
+}

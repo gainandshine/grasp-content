@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fluid Balance",
+      "content": "A practical example demonstrating Fluid Balance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "fluid-balance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Elastic Infrastructure",
+      "content": "A practical example demonstrating Elastic Infrastructure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "elastic-infrastructure"
+      ]
+    }
+  ]
+}

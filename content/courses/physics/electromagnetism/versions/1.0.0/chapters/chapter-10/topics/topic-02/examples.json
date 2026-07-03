@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gauss's Law (Magnetism)",
+      "content": "A practical example demonstrating Gauss's Law (Magnetism)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "gausss-law-magnetism"
+      ]
+    }
+  ]
+}

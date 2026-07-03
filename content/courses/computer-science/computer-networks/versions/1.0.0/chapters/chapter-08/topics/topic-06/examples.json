@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Switching Concepts",
+      "content": "A practical example demonstrating Switching Concepts",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "switching-concepts"
+      ]
+    }
+  ]
+}

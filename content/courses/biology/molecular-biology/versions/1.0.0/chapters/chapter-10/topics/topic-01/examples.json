@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Polymerase Chain Reaction (PCR)",
+      "content": "A practical example demonstrating Polymerase Chain Reaction (PCR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "polymerase-chain-reaction-pcr"
+      ]
+    }
+  ]
+}

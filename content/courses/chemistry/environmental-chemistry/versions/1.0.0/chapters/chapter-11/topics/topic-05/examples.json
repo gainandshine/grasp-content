@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Environmental Sensors",
+      "content": "A practical example demonstrating Environmental Sensors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "environmental-sensors"
+      ]
+    }
+  ]
+}

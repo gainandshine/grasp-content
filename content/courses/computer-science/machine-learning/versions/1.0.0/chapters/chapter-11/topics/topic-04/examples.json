@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Continuous Training",
+      "content": "A practical example demonstrating Continuous Training",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "continuous-training"
+      ]
+    }
+  ]
+}

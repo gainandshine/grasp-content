@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pollution?",
+      "back": "Pollution is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pollution important?",
+      "back": "Pollution is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

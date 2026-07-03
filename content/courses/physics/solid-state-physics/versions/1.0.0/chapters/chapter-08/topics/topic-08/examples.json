@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: MOSFET (Introduction)",
+      "content": "A practical example demonstrating MOSFET (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "mosfet-introduction"
+      ]
+    }
+  ]
+}

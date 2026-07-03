@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Linear Approximation?",
+      "back": "Linear Approximation is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Linear Approximation important?",
+      "back": "Linear Approximation is essential for understanding Calculus III (Multivariable Calculus).",
+      "difficulty": "medium"
+    }
+  ]
+}

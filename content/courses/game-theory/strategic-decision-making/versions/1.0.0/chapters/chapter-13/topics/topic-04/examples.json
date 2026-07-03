@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Algorithmic Decision Making",
+      "content": "A practical example demonstrating Algorithmic Decision Making",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "algorithmic-decision-making"
+      ]
+    }
+  ]
+}

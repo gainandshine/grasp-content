@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Charge Carriers?",
+      "back": "Charge Carriers is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Charge Carriers important?",
+      "back": "Charge Carriers is essential for understanding Solid State Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DNA Sequencing (Introduction)",
+      "content": "A practical example demonstrating DNA Sequencing (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "dna-sequencing-introduction"
+      ]
+    }
+  ]
+}

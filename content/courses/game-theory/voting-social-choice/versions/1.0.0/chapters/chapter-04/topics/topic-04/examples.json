@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Condorcet Paradox",
+      "content": "A practical example demonstrating Condorcet Paradox",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "condorcet-paradox"
+      ]
+    }
+  ]
+}

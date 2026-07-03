@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Epilepsy",
+      "content": "A practical example demonstrating Epilepsy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "epilepsy"
+      ]
+    }
+  ]
+}

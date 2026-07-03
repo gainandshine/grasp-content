@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cumulative Distribution Function (CDF)",
+      "content": "A practical example demonstrating Cumulative Distribution Function (CDF)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "cumulative-distribution-function-cdf"
+      ]
+    }
+  ]
+}

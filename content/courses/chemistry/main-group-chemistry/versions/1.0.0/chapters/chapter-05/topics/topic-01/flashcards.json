@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Carbon?",
+      "back": "Carbon is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Carbon important?",
+      "back": "Carbon is essential for understanding Main Group Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

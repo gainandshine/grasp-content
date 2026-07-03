@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Developmental Biology",
+      "content": "A practical example demonstrating Evolutionary Developmental Biology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "evolutionary-developmental-biology"
+      ]
+    }
+  ]
+}

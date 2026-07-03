@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Online Shopping",
+      "content": "A practical example demonstrating Online Shopping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "online-shopping"
+      ]
+    }
+  ]
+}

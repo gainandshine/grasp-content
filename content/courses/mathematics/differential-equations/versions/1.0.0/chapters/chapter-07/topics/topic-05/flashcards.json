@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Unit Step Function?",
+      "back": "Unit Step Function is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Unit Step Function important?",
+      "back": "Unit Step Function is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

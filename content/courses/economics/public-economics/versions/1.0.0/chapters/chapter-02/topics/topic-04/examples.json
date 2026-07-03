@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Club Goods",
+      "content": "A practical example demonstrating Club Goods",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "club-goods"
+      ]
+    }
+  ]
+}

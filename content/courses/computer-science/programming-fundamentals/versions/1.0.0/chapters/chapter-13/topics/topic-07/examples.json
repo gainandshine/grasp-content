@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 3: Object-Oriented Programming**",
+      "content": "A practical example demonstrating *Course 3: Object-Oriented Programming**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-3-object-oriented-programming"
+      ]
+    }
+  ]
+}

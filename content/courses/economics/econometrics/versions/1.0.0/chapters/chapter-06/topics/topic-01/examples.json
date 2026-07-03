@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heteroscedasticity",
+      "content": "A practical example demonstrating Heteroscedasticity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "heteroscedasticity"
+      ]
+    }
+  ]
+}

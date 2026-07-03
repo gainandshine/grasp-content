@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Orbits?",
+      "back": "Orbits is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Orbits important?",
+      "back": "Orbits is essential for understanding Abstract Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

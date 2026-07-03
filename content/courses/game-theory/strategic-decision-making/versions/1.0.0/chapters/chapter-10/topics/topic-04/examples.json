@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Incomplete Information",
+      "content": "A practical example demonstrating Incomplete Information",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "incomplete-information"
+      ]
+    }
+  ]
+}

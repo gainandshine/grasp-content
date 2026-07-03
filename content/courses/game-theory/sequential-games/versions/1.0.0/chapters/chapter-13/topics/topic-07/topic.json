@@ -1,6 +1,16 @@
 {
   "id": "topic-07",
   "name": "*Course 5: Nash Equilibrium**",
-  "description": "Learn about *Course 5: Nash Equilibrium**",
-  "conceptId": "game-theory.sequential-games.chapter-13.topic-07"
+  "topicId": "game-theory.sequential-games.chapter-13.topic-07",
+  "description": "Learn about *Course 5: Nash Equilibrium** and its applications in game-theory.",
+  "content": {
+    "overview": "*Course 5: Nash Equilibrium** is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of *Course 5: Nash Equilibrium**. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding *Course 5: Nash Equilibrium** requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "*Course 5: Nash Equilibrium** is essential for mastering Sequential Games. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

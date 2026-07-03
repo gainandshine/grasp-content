@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electromagnetic Waves?",
+      "back": "Electromagnetic Waves is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electromagnetic Waves important?",
+      "back": "Electromagnetic Waves is essential for understanding Magnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Classical vs Quantum Physics",
+      "content": "A practical example demonstrating Classical vs Quantum Physics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "classical-vs-quantum-physics"
+      ]
+    }
+  ]
+}

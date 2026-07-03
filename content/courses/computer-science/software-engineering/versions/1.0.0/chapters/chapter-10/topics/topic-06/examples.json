@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Infrastructure as Code (Overview)",
+      "content": "A practical example demonstrating Infrastructure as Code (Overview)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "infrastructure-as-code-overview"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carnot Engine",
+      "content": "A practical example demonstrating Carnot Engine",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "carnot-engine"
+      ]
+    }
+  ]
+}

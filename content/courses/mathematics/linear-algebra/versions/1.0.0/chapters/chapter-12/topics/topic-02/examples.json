@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Positive Definite Matrices",
+      "content": "A practical example demonstrating Positive Definite Matrices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "positive-definite-matrices"
+      ]
+    }
+  ]
+}

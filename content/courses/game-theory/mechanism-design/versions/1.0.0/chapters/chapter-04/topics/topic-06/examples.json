@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Public Decision Making",
+      "content": "A practical example demonstrating Public Decision Making",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "public-decision-making"
+      ]
+    }
+  ]
+}

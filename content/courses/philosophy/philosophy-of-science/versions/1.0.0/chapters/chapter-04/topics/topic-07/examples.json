@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bayesian Reasoning",
+      "content": "A practical example demonstrating Bayesian Reasoning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "bayesian-reasoning"
+      ]
+    }
+  ]
+}

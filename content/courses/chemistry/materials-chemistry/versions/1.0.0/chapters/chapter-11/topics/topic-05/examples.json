@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thermal Analysis",
+      "content": "A practical example demonstrating Thermal Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "thermal-analysis"
+      ]
+    }
+  ]
+}

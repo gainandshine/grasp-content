@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Support Vector Machines (SVM)",
+      "content": "A practical example demonstrating Support Vector Machines (SVM)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "support-vector-machines-svm"
+      ]
+    }
+  ]
+}

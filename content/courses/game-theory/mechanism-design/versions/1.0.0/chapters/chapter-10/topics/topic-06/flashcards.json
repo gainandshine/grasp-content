@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Automated Decision Systems?",
+      "back": "Automated Decision Systems is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Automated Decision Systems important?",
+      "back": "Automated Decision Systems is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

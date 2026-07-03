@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Shapes of Bacteria",
-  "description": "Learn about Shapes of Bacteria",
-  "conceptId": "biology.microbiology.chapter-02.topic-02"
+  "topicId": "biology.microbiology.chapter-02.topic-02",
+  "description": "Learn about Shapes of Bacteria and its applications in biology.",
+  "content": {
+    "overview": "Shapes of Bacteria is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Shapes of Bacteria. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Shapes of Bacteria requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Shapes of Bacteria is essential for mastering Microbiology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

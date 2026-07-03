@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Partial Pressure",
+      "content": "A practical example demonstrating Partial Pressure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "partial-pressure"
+      ]
+    }
+  ]
+}

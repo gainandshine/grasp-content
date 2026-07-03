@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Abstract Syntax Trees (ASTs)?",
+      "back": "Abstract Syntax Trees (ASTs) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Abstract Syntax Trees (ASTs) important?",
+      "back": "Abstract Syntax Trees (ASTs) is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Reference Level?",
+      "back": "Reference Level is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Reference Level important?",
+      "back": "Reference Level is essential for understanding Work, Energy & Power.",
+      "difficulty": "medium"
+    }
+  ]
+}

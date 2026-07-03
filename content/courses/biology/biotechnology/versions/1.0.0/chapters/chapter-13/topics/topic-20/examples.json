@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Systems Biochemistry",
+      "content": "A practical example demonstrating Systems Biochemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "systems-biochemistry"
+      ]
+    }
+  ]
+}

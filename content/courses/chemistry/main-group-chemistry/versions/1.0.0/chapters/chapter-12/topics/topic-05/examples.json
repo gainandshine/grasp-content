@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sulfur Cycle",
+      "content": "A practical example demonstrating Sulfur Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "sulfur-cycle"
+      ]
+    }
+  ]
+}

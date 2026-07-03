@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hilbert Space (Introduction)",
+      "content": "A practical example demonstrating Hilbert Space (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hilbert-space-introduction"
+      ]
+    }
+  ]
+}

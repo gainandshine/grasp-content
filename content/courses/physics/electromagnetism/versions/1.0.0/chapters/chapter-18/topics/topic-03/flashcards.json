@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Norton's Theorem?",
+      "back": "Norton's Theorem is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Norton's Theorem important?",
+      "back": "Norton's Theorem is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

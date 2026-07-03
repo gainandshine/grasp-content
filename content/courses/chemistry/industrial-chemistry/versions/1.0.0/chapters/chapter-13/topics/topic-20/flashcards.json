@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is High-Performance Computing?",
+      "back": "High-Performance Computing is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is High-Performance Computing important?",
+      "back": "High-Performance Computing is essential for understanding Industrial Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

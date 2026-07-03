@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Apparent Depth?",
+      "back": "Apparent Depth is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Apparent Depth important?",
+      "back": "Apparent Depth is essential for understanding Optics.",
+      "difficulty": "medium"
+    }
+  ]
+}

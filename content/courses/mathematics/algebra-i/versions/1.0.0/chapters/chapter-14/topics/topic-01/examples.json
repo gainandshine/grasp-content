@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Counting Principle",
+      "content": "A practical example demonstrating Counting Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "counting-principle"
+      ]
+    }
+  ]
+}

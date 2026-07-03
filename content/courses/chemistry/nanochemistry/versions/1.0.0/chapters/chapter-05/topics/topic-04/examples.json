@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Vapor Deposition (CVD)",
+      "content": "A practical example demonstrating Chemical Vapor Deposition (CVD)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "chemical-vapor-deposition-cvd"
+      ]
+    }
+  ]
+}

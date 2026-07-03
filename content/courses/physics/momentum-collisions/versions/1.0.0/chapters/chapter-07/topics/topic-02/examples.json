@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Recoil Motion",
+      "content": "A practical example demonstrating Recoil Motion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "recoil-motion"
+      ]
+    }
+  ]
+}

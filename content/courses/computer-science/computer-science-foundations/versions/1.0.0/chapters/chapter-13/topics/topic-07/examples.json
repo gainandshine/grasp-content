@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scientific Computing",
+      "content": "A practical example demonstrating Scientific Computing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "scientific-computing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scheduling Tasks",
+      "content": "A practical example demonstrating Scheduling Tasks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "scheduling-tasks"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: White Dwarfs",
+      "content": "A practical example demonstrating White Dwarfs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "white-dwarfs"
+      ]
+    }
+  ]
+}

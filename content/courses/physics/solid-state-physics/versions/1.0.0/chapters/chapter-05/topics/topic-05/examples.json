@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fermi Surface",
+      "content": "A practical example demonstrating Fermi Surface",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "fermi-surface"
+      ]
+    }
+  ]
+}

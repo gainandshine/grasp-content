@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Code Reusability",
+      "content": "A practical example demonstrating Code Reusability",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "code-reusability"
+      ]
+    }
+  ]
+}

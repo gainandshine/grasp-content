@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ultimatum Game?",
+      "back": "Ultimatum Game is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ultimatum Game important?",
+      "back": "Ultimatum Game is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

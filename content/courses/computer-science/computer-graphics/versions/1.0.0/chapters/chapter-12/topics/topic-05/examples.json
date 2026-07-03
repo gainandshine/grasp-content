@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Augmented Reality (AR)",
+      "content": "A practical example demonstrating Augmented Reality (AR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "augmented-reality-ar"
+      ]
+    }
+  ]
+}

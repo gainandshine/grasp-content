@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multicore Processors?",
+      "back": "Multicore Processors is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multicore Processors important?",
+      "back": "Multicore Processors is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Null Hypothesis",
+      "content": "A practical example demonstrating Null Hypothesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "null-hypothesis"
+      ]
+    }
+  ]
+}

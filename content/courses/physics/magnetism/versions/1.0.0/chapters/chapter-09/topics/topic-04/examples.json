@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: MRI (Introduction)",
+      "content": "A practical example demonstrating MRI (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "mri-introduction"
+      ]
+    }
+  ]
+}

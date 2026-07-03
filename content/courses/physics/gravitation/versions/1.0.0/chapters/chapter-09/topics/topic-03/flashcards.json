@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Tidal Forces?",
+      "back": "Tidal Forces is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Tidal Forces important?",
+      "back": "Tidal Forces is essential for understanding Gravitation.",
+      "difficulty": "medium"
+    }
+  ]
+}

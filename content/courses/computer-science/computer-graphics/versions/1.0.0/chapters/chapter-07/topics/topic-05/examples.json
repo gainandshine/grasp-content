@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Phong Shading",
+      "content": "A practical example demonstrating Phong Shading",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "phong-shading"
+      ]
+    }
+  ]
+}

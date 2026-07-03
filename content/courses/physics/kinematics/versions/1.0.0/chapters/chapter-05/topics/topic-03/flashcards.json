@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Relative Acceleration?",
+      "back": "Relative Acceleration is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Relative Acceleration important?",
+      "back": "Relative Acceleration is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

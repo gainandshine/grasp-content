@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: River Boat Problems",
+      "content": "A practical example demonstrating River Boat Problems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "river-boat-problems"
+      ]
+    }
+  ]
+}

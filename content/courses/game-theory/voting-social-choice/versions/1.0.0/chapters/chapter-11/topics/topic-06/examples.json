@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Algorithmic Fairness",
+      "content": "A practical example demonstrating Algorithmic Fairness",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "algorithmic-fairness"
+      ]
+    }
+  ]
+}

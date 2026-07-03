@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wi-Fi",
+      "content": "A practical example demonstrating Wi-Fi",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "wi-fi"
+      ]
+    }
+  ]
+}

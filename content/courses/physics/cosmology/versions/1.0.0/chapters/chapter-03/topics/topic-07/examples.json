@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Photon Epoch",
+      "content": "A practical example demonstrating Photon Epoch",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "photon-epoch"
+      ]
+    }
+  ]
+}

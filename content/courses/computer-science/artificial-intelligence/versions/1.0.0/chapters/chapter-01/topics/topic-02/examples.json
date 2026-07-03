@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: History of AI",
+      "content": "A practical example demonstrating History of AI",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "history-of-ai"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Competitive Inhibition?",
+      "back": "Competitive Inhibition is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Competitive Inhibition important?",
+      "back": "Competitive Inhibition is essential for understanding Chemical Kinetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

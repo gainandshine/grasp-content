@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Harmonic Functions",
+      "content": "A practical example demonstrating Harmonic Functions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "harmonic-functions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nucleotides",
+      "content": "A practical example demonstrating Nucleotides",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "nucleotides"
+      ]
+    }
+  ]
+}

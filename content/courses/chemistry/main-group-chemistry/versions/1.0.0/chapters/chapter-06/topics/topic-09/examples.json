@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Industrial Processes",
+      "content": "A practical example demonstrating Industrial Processes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "industrial-processes"
+      ]
+    }
+  ]
+}

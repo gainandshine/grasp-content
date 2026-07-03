@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 12: Econometrics**",
+      "content": "A practical example demonstrating *Course 12: Econometrics**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "course-12-econometrics"
+      ]
+    }
+  ]
+}

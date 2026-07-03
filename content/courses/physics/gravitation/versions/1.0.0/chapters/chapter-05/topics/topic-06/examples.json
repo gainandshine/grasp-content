@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Geostationary Orbit",
+      "content": "A practical example demonstrating Geostationary Orbit",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "geostationary-orbit"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Propositional Logic",
+      "content": "A practical example demonstrating Propositional Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "propositional-logic"
+      ]
+    }
+  ]
+}

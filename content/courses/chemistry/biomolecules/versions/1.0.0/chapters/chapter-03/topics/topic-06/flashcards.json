@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Steroids?",
+      "back": "Steroids is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Steroids important?",
+      "back": "Steroids is essential for understanding Biomolecules.",
+      "difficulty": "medium"
+    }
+  ]
+}

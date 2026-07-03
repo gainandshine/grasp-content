@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linear Geometry",
+      "content": "A practical example demonstrating Linear Geometry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "linear-geometry"
+      ]
+    }
+  ]
+}

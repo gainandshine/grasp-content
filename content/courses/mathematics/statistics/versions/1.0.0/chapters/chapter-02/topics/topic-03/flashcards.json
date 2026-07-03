@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bar Charts?",
+      "back": "Bar Charts is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bar Charts important?",
+      "back": "Bar Charts is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

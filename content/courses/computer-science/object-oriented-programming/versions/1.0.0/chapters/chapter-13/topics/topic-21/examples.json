@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Complexity Analysis",
+      "content": "A practical example demonstrating Complexity Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "complexity-analysis"
+      ]
+    }
+  ]
+}

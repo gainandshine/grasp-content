@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Biomolecular Interactions?",
+      "back": "Biomolecular Interactions is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Biomolecular Interactions important?",
+      "back": "Biomolecular Interactions is essential for understanding Biochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

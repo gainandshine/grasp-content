@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Personal Finance",
+      "content": "A practical example demonstrating Personal Finance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "personal-finance"
+      ]
+    }
+  ]
+}

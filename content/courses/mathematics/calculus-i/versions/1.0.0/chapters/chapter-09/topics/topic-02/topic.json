@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Part II",
-  "description": "Learn about Part II",
-  "conceptId": "mathematics.calculus-i.chapter-09.topic-02"
+  "topicId": "mathematics.calculus-i.chapter-09.topic-02",
+  "description": "Learn about Part II and its applications in mathematics.",
+  "content": {
+    "overview": "Part II is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Part II. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Part II requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Part II is essential for mastering Calculus I. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

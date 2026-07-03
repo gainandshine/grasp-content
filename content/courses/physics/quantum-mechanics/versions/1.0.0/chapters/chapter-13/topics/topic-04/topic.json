@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Semiconductor Physics",
-  "description": "Learn about Semiconductor Physics",
-  "conceptId": "physics.quantum-mechanics.chapter-13.topic-04"
+  "topicId": "physics.quantum-mechanics.chapter-13.topic-04",
+  "description": "Learn about Semiconductor Physics and its applications in physics.",
+  "content": {
+    "overview": "Semiconductor Physics is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Semiconductor Physics. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Semiconductor Physics requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Semiconductor Physics is essential for mastering Quantum Mechanics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

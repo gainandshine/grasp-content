@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Interquartile Range (IQR)",
+      "content": "A practical example demonstrating Interquartile Range (IQR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "interquartile-range-iqr"
+      ]
+    }
+  ]
+}

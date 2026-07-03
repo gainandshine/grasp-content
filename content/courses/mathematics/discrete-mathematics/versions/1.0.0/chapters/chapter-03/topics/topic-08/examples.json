@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cartesian Product",
+      "content": "A practical example demonstrating Cartesian Product",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "cartesian-product"
+      ]
+    }
+  ]
+}

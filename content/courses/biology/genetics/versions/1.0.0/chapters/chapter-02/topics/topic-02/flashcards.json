@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Law of Segregation?",
+      "back": "Law of Segregation is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Law of Segregation important?",
+      "back": "Law of Segregation is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

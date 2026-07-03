@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Resonance Curve",
+      "content": "A practical example demonstrating Resonance Curve",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "resonance-curve"
+      ]
+    }
+  ]
+}

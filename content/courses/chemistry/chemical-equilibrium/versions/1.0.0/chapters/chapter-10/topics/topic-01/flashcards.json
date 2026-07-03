@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Haber Process?",
+      "back": "Haber Process is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Haber Process important?",
+      "back": "Haber Process is essential for understanding Chemical Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

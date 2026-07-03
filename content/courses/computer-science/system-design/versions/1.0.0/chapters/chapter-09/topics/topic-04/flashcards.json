@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is API Gateways?",
+      "back": "API Gateways is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is API Gateways important?",
+      "back": "API Gateways is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

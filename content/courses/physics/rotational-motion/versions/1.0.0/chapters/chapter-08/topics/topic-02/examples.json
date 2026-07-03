@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Conservation of Angular Momentum",
+      "content": "A practical example demonstrating Conservation of Angular Momentum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "conservation-of-angular-momentum"
+      ]
+    }
+  ]
+}

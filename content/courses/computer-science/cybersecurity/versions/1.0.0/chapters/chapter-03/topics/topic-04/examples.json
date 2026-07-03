@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Virtual Private Networks (VPNs)",
+      "content": "A practical example demonstrating Virtual Private Networks (VPNs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "virtual-private-networks-vpns"
+      ]
+    }
+  ]
+}

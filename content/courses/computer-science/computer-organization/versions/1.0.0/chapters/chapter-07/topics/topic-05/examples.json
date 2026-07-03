@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Direct Memory Access (DMA)",
+      "content": "A practical example demonstrating Direct Memory Access (DMA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "direct-memory-access-dma"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Antibiotic Stewardship",
+      "content": "A practical example demonstrating Antibiotic Stewardship",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "antibiotic-stewardship"
+      ]
+    }
+  ]
+}

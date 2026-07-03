@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pearson Correlation",
+      "content": "A practical example demonstrating Pearson Correlation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "pearson-correlation"
+      ]
+    }
+  ]
+}

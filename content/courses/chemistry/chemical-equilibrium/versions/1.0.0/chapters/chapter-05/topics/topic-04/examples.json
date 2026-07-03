@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Temperature Changes",
+      "content": "A practical example demonstrating Temperature Changes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "temperature-changes"
+      ]
+    }
+  ]
+}

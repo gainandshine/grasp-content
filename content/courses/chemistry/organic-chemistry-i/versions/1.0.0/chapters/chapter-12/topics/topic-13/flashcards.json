@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Carboxylic Acids?",
+      "back": "Carboxylic Acids is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Carboxylic Acids important?",
+      "back": "Carboxylic Acids is essential for understanding Organic Chemistry I.",
+      "difficulty": "medium"
+    }
+  ]
+}

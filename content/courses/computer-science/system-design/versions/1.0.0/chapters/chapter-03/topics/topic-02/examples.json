@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Horizontal Scaling",
+      "content": "A practical example demonstrating Horizontal Scaling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "horizontal-scaling"
+      ]
+    }
+  ]
+}

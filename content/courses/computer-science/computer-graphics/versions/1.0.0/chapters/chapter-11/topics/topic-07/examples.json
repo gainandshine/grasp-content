@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: High Dynamic Range (HDR)",
+      "content": "A practical example demonstrating High Dynamic Range (HDR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "high-dynamic-range-hdr"
+      ]
+    }
+  ]
+}

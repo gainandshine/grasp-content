@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Philosophy & Religion",
+      "content": "A practical example demonstrating Philosophy & Religion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "philosophy-religion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Initial Value Problems (IVP)?",
+      "back": "Initial Value Problems (IVP) is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Initial Value Problems (IVP) important?",
+      "back": "Initial Value Problems (IVP) is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

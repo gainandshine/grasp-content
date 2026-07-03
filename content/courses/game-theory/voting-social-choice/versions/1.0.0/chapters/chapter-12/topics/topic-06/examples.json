@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Participatory Budgeting",
+      "content": "A practical example demonstrating Participatory Budgeting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "participatory-budgeting"
+      ]
+    }
+  ]
+}

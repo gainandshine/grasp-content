@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Characteristic Polynomial",
+      "content": "A practical example demonstrating Characteristic Polynomial",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "characteristic-polynomial"
+      ]
+    }
+  ]
+}

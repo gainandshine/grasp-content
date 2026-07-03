@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Law of Conservation of Momentum?",
+      "back": "Law of Conservation of Momentum is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Law of Conservation of Momentum important?",
+      "back": "Law of Conservation of Momentum is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

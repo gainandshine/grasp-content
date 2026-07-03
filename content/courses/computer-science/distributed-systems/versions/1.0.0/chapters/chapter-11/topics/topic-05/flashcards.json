@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Serverless Computing?",
+      "back": "Serverless Computing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Serverless Computing important?",
+      "back": "Serverless Computing is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

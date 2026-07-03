@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Laser Principle?",
+      "back": "Laser Principle is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Laser Principle important?",
+      "back": "Laser Principle is essential for understanding Optics.",
+      "difficulty": "medium"
+    }
+  ]
+}

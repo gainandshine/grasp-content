@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reputation Loss",
+      "content": "A practical example demonstrating Reputation Loss",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "reputation-loss"
+      ]
+    }
+  ]
+}

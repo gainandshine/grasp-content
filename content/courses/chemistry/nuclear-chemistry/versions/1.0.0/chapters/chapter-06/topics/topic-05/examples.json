@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fusion Energy",
+      "content": "A practical example demonstrating Fusion Energy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "fusion-energy"
+      ]
+    }
+  ]
+}

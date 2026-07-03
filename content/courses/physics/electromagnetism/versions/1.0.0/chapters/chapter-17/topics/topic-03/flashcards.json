@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Loop Analysis?",
+      "back": "Loop Analysis is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Loop Analysis important?",
+      "back": "Loop Analysis is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

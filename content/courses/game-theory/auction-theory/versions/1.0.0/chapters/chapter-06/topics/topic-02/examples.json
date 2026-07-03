@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Risk Aversion",
+      "content": "A practical example demonstrating Risk Aversion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "risk-aversion"
+      ]
+    }
+  ]
+}

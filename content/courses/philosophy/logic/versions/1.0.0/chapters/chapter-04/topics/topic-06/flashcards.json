@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Logical Equivalence?",
+      "back": "Logical Equivalence is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Logical Equivalence important?",
+      "back": "Logical Equivalence is essential for understanding Logic.",
+      "difficulty": "medium"
+    }
+  ]
+}

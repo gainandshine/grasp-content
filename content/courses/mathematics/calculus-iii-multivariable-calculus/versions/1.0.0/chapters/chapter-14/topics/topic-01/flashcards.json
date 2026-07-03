@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gradient?",
+      "back": "Gradient is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gradient important?",
+      "back": "Gradient is essential for understanding Calculus III (Multivariable Calculus).",
+      "difficulty": "medium"
+    }
+  ]
+}

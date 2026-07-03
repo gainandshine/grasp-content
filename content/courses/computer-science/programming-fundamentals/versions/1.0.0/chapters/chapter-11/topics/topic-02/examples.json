@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pseudocode",
+      "content": "A practical example demonstrating Pseudocode",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "pseudocode"
+      ]
+    }
+  ]
+}

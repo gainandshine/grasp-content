@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linearity of Expectation",
+      "content": "A practical example demonstrating Linearity of Expectation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "linearity-of-expectation"
+      ]
+    }
+  ]
+}

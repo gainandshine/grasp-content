@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mixed Strategy Equilibrium?",
+      "back": "Mixed Strategy Equilibrium is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mixed Strategy Equilibrium important?",
+      "back": "Mixed Strategy Equilibrium is essential for understanding Strategic Decision Making.",
+      "difficulty": "medium"
+    }
+  ]
+}

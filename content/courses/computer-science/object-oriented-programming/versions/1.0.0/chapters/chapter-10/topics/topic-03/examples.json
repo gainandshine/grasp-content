@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Type Parameters",
+      "content": "A practical example demonstrating Type Parameters",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "type-parameters"
+      ]
+    }
+  ]
+}

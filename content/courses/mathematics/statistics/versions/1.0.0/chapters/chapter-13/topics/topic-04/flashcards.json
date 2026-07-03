@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Exponential Smoothing?",
+      "back": "Exponential Smoothing is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Exponential Smoothing important?",
+      "back": "Exponential Smoothing is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

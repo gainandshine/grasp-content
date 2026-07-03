@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Psychology",
+      "content": "A practical example demonstrating Evolutionary Psychology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "evolutionary-psychology"
+      ]
+    }
+  ]
+}

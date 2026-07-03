@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Expressions?",
+      "back": "Expressions is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Expressions important?",
+      "back": "Expressions is essential for understanding Pre-Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

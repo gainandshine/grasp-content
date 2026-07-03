@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Continuous Improvement?",
+      "back": "Continuous Improvement is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Continuous Improvement important?",
+      "back": "Continuous Improvement is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

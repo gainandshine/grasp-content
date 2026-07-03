@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Error Handling?",
+      "back": "Error Handling is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Error Handling important?",
+      "back": "Error Handling is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

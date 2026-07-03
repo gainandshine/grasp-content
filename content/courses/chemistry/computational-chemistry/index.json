@@ -1,10 +1,11 @@
 {
   "id": "computational-chemistry",
   "title": "Computational Chemistry",
-  "description": "This course studies **how computers are used to model, simulate, predict, and design chemical systems**. It combines chemistry, mathematics, physics, computer science, and artificial intelligence to solve problems that are difficult or impossible to study experimentally.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:17.095Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.293Z"
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Machine Learning in Econometrics",
+      "content": "A practical example demonstrating Machine Learning in Econometrics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "machine-learning-in-econometrics"
+      ]
+    }
+  ]
+}

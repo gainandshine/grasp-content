@@ -1,10 +1,11 @@
 {
   "id": "research-methods-statistics",
   "title": "Research Methods & Statistics",
-  "description": "This course studies **how psychological research is designed, conducted, analyzed, and interpreted**. It provides the scientific foundation for evaluating evidence and conducting psychological research.",
   "version": "1.0.0",
+  "domain": "psychology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:22.944Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.428Z"
 }

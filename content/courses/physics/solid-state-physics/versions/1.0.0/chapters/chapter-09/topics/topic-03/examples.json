@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ferromagnetism",
+      "content": "A practical example demonstrating Ferromagnetism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ferromagnetism"
+      ]
+    }
+  ]
+}

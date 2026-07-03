@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Recursion?",
+      "back": "Recursion is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Recursion important?",
+      "back": "Recursion is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

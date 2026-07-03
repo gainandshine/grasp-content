@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Power Dissipation?",
+      "back": "Power Dissipation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Power Dissipation important?",
+      "back": "Power Dissipation is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

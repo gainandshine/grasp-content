@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Redox Reactions?",
+      "back": "Redox Reactions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Redox Reactions important?",
+      "back": "Redox Reactions is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

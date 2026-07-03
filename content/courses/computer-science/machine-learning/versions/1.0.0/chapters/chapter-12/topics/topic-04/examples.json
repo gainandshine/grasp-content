@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fine-Tuning",
+      "content": "A practical example demonstrating Fine-Tuning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "fine-tuning"
+      ]
+    }
+  ]
+}

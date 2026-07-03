@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Normal Subgroups",
+      "content": "A practical example demonstrating Normal Subgroups",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "normal-subgroups"
+      ]
+    }
+  ]
+}

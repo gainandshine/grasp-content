@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Spheres?",
+      "back": "Spheres is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Spheres important?",
+      "back": "Spheres is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

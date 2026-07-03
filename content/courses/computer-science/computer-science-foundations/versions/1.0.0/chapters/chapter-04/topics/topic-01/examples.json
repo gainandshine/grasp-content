@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Central Processing Unit (CPU)",
+      "content": "A practical example demonstrating Central Processing Unit (CPU)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "central-processing-unit-cpu"
+      ]
+    }
+  ]
+}

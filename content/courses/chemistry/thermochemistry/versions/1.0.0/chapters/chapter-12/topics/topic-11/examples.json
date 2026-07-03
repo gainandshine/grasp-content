@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Le Chatelier's Principle",
+      "content": "A practical example demonstrating Le Chatelier's Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "le-chateliers-principle"
+      ]
+    }
+  ]
+}

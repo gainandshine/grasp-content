@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Antigen Presentation?",
+      "back": "Antigen Presentation is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Antigen Presentation important?",
+      "back": "Antigen Presentation is essential for understanding Immunology.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 18: Analytical Chemistry**",
+      "content": "A practical example demonstrating *Course 18: Analytical Chemistry**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "course-18-analytical-chemistry"
+      ]
+    }
+  ]
+}

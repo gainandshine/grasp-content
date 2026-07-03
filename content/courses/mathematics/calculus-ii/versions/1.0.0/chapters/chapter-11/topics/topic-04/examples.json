@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Motion in Space",
+      "content": "A practical example demonstrating Motion in Space",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "motion-in-space"
+      ]
+    }
+  ]
+}

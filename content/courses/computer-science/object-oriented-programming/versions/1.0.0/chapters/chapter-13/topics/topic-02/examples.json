@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Library Management Systems",
+      "content": "A practical example demonstrating Library Management Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "library-management-systems"
+      ]
+    }
+  ]
+}

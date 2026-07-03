@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plasma as a Fluid",
+      "content": "A practical example demonstrating Plasma as a Fluid",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "plasma-as-a-fluid"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Psychological Tests",
+      "content": "A practical example demonstrating Psychological Tests",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "psychological-tests"
+      ]
+    }
+  ]
+}

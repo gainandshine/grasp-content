@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: RNA Processing",
+      "content": "A practical example demonstrating RNA Processing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "rna-processing"
+      ]
+    }
+  ]
+}

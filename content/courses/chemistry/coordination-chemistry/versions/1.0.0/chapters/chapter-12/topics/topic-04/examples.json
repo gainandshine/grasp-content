@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cancer Drugs (Cisplatin)",
+      "content": "A practical example demonstrating Cancer Drugs (Cisplatin)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "cancer-drugs-cisplatin"
+      ]
+    }
+  ]
+}

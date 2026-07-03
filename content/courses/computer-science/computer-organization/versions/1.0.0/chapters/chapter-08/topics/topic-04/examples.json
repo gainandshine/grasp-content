@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: IEEE 754 Standard",
+      "content": "A practical example demonstrating IEEE 754 Standard",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ieee-754-standard"
+      ]
+    }
+  ]
+}

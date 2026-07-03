@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Irreversible Decisions?",
+      "back": "Irreversible Decisions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Irreversible Decisions important?",
+      "back": "Irreversible Decisions is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Foundation Models",
+      "content": "A practical example demonstrating Foundation Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "foundation-models"
+      ]
+    }
+  ]
+}

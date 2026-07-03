@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Algorithm Design?",
+      "back": "Algorithm Design is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Algorithm Design important?",
+      "back": "Algorithm Design is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

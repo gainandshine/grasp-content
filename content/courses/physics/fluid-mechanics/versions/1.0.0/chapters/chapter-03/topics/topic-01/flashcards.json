@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Buoyant Force?",
+      "back": "Buoyant Force is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Buoyant Force important?",
+      "back": "Buoyant Force is essential for understanding Fluid Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

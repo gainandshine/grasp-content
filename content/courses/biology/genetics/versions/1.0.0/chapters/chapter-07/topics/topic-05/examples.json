@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Klinefelter Syndrome",
+      "content": "A practical example demonstrating Klinefelter Syndrome",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "klinefelter-syndrome"
+      ]
+    }
+  ]
+}

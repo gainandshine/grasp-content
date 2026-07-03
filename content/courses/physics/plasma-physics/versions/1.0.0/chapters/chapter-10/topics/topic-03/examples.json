@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arc Plasma",
+      "content": "A practical example demonstrating Arc Plasma",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "arc-plasma"
+      ]
+    }
+  ]
+}

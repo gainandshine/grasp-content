@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 15: Organic Chemistry II**",
+      "content": "A practical example demonstrating *Course 15: Organic Chemistry II**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "course-15-organic-chemistry-ii"
+      ]
+    }
+  ]
+}

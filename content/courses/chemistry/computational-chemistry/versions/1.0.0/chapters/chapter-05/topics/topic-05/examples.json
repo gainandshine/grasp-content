@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Post-Hartree-Fock Methods",
+      "content": "A practical example demonstrating Post-Hartree-Fock Methods",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "post-hartree-fock-methods"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nanomaterial Simulation",
+      "content": "A practical example demonstrating Nanomaterial Simulation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nanomaterial-simulation"
+      ]
+    }
+  ]
+}

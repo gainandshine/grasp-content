@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Difference-in-Differences",
+      "content": "A practical example demonstrating Difference-in-Differences",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "difference-in-differences"
+      ]
+    }
+  ]
+}

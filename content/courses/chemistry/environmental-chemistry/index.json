@@ -1,10 +1,11 @@
 {
   "id": "environmental-chemistry",
   "title": "Environmental Chemistry",
-  "description": "This course studies **the chemistry of Earth's environment**, including the atmosphere, water, soil, pollution, climate change, and sustainable chemical practices. It connects chemistry with ecology, public health, and environmental engineering.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:16.688Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.284Z"
 }

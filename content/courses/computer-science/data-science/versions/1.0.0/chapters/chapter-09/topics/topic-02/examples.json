@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Distributed Data Processing",
+      "content": "A practical example demonstrating Distributed Data Processing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "distributed-data-processing"
+      ]
+    }
+  ]
+}

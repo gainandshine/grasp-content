@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Allergy Management",
+      "content": "A practical example demonstrating Allergy Management",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "allergy-management"
+      ]
+    }
+  ]
+}

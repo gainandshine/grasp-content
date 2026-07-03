@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Industrial Enzymes",
+      "content": "A practical example demonstrating Industrial Enzymes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "industrial-enzymes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enterprise Resource Planning (ERP)",
+      "content": "A practical example demonstrating Enterprise Resource Planning (ERP)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "enterprise-resource-planning-erp"
+      ]
+    }
+  ]
+}

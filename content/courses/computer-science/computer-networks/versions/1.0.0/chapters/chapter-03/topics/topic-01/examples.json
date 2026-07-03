@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Transmission Media",
+      "content": "A practical example demonstrating Transmission Media",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "transmission-media"
+      ]
+    }
+  ]
+}

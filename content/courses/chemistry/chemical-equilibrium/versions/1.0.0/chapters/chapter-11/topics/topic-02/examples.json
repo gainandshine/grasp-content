@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ocean Chemistry",
+      "content": "A practical example demonstrating Ocean Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ocean-chemistry"
+      ]
+    }
+  ]
+}

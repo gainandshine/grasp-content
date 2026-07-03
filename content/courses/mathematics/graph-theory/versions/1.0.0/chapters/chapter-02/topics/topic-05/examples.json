@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graph Storage",
+      "content": "A practical example demonstrating Graph Storage",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "graph-storage"
+      ]
+    }
+  ]
+}

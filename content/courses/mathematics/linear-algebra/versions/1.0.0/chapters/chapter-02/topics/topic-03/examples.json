@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Matrix Addition",
+      "content": "A practical example demonstrating Matrix Addition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "matrix-addition"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Non-Transferable Utility (NTU)?",
+      "back": "Non-Transferable Utility (NTU) is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Non-Transferable Utility (NTU) important?",
+      "back": "Non-Transferable Utility (NTU) is essential for understanding Cooperative Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

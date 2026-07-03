@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Condorcet Paradox?",
+      "back": "Condorcet Paradox is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Condorcet Paradox important?",
+      "back": "Condorcet Paradox is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

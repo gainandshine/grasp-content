@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Constant Folding",
+      "content": "A practical example demonstrating Constant Folding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "constant-folding"
+      ]
+    }
+  ]
+}

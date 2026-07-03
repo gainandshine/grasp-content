@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cotangent?",
+      "back": "Cotangent is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cotangent important?",
+      "back": "Cotangent is essential for understanding Trigonometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

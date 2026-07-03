@@ -1,10 +1,11 @@
 {
   "id": "particle-physics",
   "title": "Particle Physics",
-  "description": "Particle Physics studies the **fundamental particles and forces** that make up the universe. It is the foundation of modern high-energy physics.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:13.366Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.753Z"
 }

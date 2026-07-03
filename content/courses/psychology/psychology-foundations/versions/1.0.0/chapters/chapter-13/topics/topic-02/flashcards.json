@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cognitive Science?",
+      "back": "Cognitive Science is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cognitive Science important?",
+      "back": "Cognitive Science is essential for understanding Psychology Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

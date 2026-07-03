@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Adaptive Systems",
+      "content": "A practical example demonstrating Adaptive Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "adaptive-systems"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Build Pipelines",
+      "content": "A practical example demonstrating Build Pipelines",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "build-pipelines"
+      ]
+    }
+  ]
+}

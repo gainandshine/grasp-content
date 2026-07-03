@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Restriction Enzymes",
+      "content": "A practical example demonstrating Restriction Enzymes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "restriction-enzymes"
+      ]
+    }
+  ]
+}

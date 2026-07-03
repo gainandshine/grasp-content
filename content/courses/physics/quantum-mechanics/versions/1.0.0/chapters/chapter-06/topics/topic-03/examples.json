@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Finite Potential Well",
+      "content": "A practical example demonstrating Finite Potential Well",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "finite-potential-well"
+      ]
+    }
+  ]
+}

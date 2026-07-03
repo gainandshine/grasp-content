@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ocean Chemistry?",
+      "back": "Ocean Chemistry is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ocean Chemistry important?",
+      "back": "Ocean Chemistry is essential for understanding Chemical Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

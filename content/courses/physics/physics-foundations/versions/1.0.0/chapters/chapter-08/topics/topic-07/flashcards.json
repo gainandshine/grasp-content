@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Uncertainty Analysis?",
+      "back": "Uncertainty Analysis is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Uncertainty Analysis important?",
+      "back": "Uncertainty Analysis is essential for understanding Physics Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Entry Decisions?",
+      "back": "Entry Decisions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Entry Decisions important?",
+      "back": "Entry Decisions is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

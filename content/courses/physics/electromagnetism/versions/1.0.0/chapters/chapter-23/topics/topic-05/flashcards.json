@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Oscilloscope?",
+      "back": "Oscilloscope is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Oscilloscope important?",
+      "back": "Oscilloscope is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

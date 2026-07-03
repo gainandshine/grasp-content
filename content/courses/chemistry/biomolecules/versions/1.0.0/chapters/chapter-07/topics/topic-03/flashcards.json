@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is RNA Structure?",
+      "back": "RNA Structure is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is RNA Structure important?",
+      "back": "RNA Structure is essential for understanding Biomolecules.",
+      "difficulty": "medium"
+    }
+  ]
+}

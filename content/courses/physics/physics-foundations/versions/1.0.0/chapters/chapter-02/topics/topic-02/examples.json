@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Derived Units",
+      "content": "A practical example demonstrating Derived Units",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "derived-units"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Atomic Radius?",
+      "back": "Atomic Radius is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Atomic Radius important?",
+      "back": "Atomic Radius is essential for understanding Periodic Table.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Design Interviews",
+      "content": "A practical example demonstrating Design Interviews",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "design-interviews"
+      ]
+    }
+  ]
+}

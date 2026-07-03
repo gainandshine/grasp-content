@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Right Riemann Sum",
+      "content": "A practical example demonstrating Right Riemann Sum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "right-riemann-sum"
+      ]
+    }
+  ]
+}

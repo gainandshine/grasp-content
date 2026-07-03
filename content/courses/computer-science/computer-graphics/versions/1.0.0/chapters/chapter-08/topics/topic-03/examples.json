@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Texture Filtering",
+      "content": "A practical example demonstrating Texture Filtering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "texture-filtering"
+      ]
+    }
+  ]
+}

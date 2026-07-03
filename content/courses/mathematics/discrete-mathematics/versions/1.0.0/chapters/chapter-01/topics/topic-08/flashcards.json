@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Predicate Logic?",
+      "back": "Predicate Logic is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Predicate Logic important?",
+      "back": "Predicate Logic is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

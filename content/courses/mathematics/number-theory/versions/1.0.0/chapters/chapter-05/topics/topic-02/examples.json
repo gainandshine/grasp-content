@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bézout's Identity",
+      "content": "A practical example demonstrating Bézout's Identity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "bzouts-identity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon Footprint",
+      "content": "A practical example demonstrating Carbon Footprint",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "carbon-footprint"
+      ]
+    }
+  ]
+}

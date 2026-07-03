@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is End Point?",
+      "back": "End Point is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is End Point important?",
+      "back": "End Point is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thermal Conductivity",
+      "content": "A practical example demonstrating Thermal Conductivity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "thermal-conductivity"
+      ]
+    }
+  ]
+}

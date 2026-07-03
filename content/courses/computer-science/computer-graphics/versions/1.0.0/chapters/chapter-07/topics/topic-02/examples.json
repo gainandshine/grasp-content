@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ambient Lighting",
+      "content": "A practical example demonstrating Ambient Lighting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "ambient-lighting"
+      ]
+    }
+  ]
+}

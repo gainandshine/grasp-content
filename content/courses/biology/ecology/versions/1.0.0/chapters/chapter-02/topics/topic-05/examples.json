@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Birth Rate",
+      "content": "A practical example demonstrating Birth Rate",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "birth-rate"
+      ]
+    }
+  ]
+}

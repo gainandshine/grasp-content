@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Self-Enforcing Agreements",
+      "content": "A practical example demonstrating Self-Enforcing Agreements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "self-enforcing-agreements"
+      ]
+    }
+  ]
+}

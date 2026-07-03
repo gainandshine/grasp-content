@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bimolecular Reactions",
+      "content": "A practical example demonstrating Bimolecular Reactions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "bimolecular-reactions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Taylor's Theorem",
+      "content": "A practical example demonstrating Taylor's Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "taylors-theorem"
+      ]
+    }
+  ]
+}

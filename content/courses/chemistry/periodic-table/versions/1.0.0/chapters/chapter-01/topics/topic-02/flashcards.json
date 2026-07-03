@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Dobereiner's Triads?",
+      "back": "Dobereiner's Triads is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Dobereiner's Triads important?",
+      "back": "Dobereiner's Triads is essential for understanding Periodic Table.",
+      "difficulty": "medium"
+    }
+  ]
+}

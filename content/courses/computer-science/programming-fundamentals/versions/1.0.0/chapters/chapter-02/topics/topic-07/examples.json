@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Variable Scope (Introduction)",
+      "content": "A practical example demonstrating Variable Scope (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "variable-scope-introduction"
+      ]
+    }
+  ]
+}

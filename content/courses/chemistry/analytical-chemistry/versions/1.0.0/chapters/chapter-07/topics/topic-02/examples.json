@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Paper Chromatography",
+      "content": "A practical example demonstrating Paper Chromatography",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "paper-chromatography"
+      ]
+    }
+  ]
+}

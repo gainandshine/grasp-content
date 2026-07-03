@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is End Point vs Equivalence Point?",
+      "back": "End Point vs Equivalence Point is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is End Point vs Equivalence Point important?",
+      "back": "End Point vs Equivalence Point is essential for understanding Analytical Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

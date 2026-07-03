@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Human Capital",
+      "content": "A practical example demonstrating Human Capital",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "human-capital"
+      ]
+    }
+  ]
+}

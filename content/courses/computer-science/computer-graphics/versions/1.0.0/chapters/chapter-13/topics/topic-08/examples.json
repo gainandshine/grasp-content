@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Introduction to AI",
+      "content": "A practical example demonstrating Introduction to AI",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "introduction-to-ai"
+      ]
+    }
+  ]
+}

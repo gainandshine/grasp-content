@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gene Regulation",
+      "content": "A practical example demonstrating Gene Regulation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "gene-regulation"
+      ]
+    }
+  ]
+}

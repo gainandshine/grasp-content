@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: ARM Architecture",
+      "content": "A practical example demonstrating ARM Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "arm-architecture"
+      ]
+    }
+  ]
+}

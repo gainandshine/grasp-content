@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Euler's Method?",
+      "back": "Euler's Method is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Euler's Method important?",
+      "back": "Euler's Method is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Peer-to-Peer Systems",
+      "content": "A practical example demonstrating Peer-to-Peer Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "peer-to-peer-systems"
+      ]
+    }
+  ]
+}

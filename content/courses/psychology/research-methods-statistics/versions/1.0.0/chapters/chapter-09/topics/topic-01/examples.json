@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: t-Tests",
+      "content": "A practical example demonstrating t-Tests",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "t-tests"
+      ]
+    }
+  ]
+}

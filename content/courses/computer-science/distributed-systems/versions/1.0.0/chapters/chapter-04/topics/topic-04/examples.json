@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Leaderless Replication",
+      "content": "A practical example demonstrating Leaderless Replication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "leaderless-replication"
+      ]
+    }
+  ]
+}

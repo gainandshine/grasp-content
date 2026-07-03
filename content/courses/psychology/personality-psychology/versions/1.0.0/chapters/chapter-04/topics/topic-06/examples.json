@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Personal Growth",
+      "content": "A practical example demonstrating Personal Growth",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "personal-growth"
+      ]
+    }
+  ]
+}

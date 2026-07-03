@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Expression?",
+      "back": "Expression is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Expression important?",
+      "back": "Expression is essential for understanding Aesthetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

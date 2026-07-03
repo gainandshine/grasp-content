@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Nature of Gravitational Waves",
-  "description": "Learn about Nature of Gravitational Waves",
-  "conceptId": "physics.relativity.chapter-10.topic-01"
+  "topicId": "physics.relativity.chapter-10.topic-01",
+  "description": "Learn about Nature of Gravitational Waves and its applications in physics.",
+  "content": {
+    "overview": "Nature of Gravitational Waves is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Nature of Gravitational Waves. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Nature of Gravitational Waves requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Nature of Gravitational Waves is essential for mastering Relativity. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

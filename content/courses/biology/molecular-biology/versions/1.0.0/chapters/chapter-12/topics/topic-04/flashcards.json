@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Forensic DNA Analysis?",
+      "back": "Forensic DNA Analysis is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Forensic DNA Analysis important?",
+      "back": "Forensic DNA Analysis is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

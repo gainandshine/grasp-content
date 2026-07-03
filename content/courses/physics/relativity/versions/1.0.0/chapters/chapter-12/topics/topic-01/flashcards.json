@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is GPS Corrections?",
+      "back": "GPS Corrections is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is GPS Corrections important?",
+      "back": "GPS Corrections is essential for understanding Relativity.",
+      "difficulty": "medium"
+    }
+  ]
+}

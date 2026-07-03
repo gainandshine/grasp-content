@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dalton's Law of Partial Pressures",
+      "content": "A practical example demonstrating Dalton's Law of Partial Pressures",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "daltons-law-of-partial-pressures"
+      ]
+    }
+  ]
+}

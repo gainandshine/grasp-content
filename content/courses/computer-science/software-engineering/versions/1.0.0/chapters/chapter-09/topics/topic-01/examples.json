@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Agile Manifesto",
+      "content": "A practical example demonstrating Agile Manifesto",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "agile-manifesto"
+      ]
+    }
+  ]
+}

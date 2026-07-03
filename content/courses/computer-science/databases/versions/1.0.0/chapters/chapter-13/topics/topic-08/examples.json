@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 10: Software Engineering**",
+      "content": "A practical example demonstrating *Course 10: Software Engineering**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-10-software-engineering"
+      ]
+    }
+  ]
+}

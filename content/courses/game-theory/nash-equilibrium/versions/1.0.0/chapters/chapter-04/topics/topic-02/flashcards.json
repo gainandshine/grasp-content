@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Coordination Problems?",
+      "back": "Coordination Problems is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Coordination Problems important?",
+      "back": "Coordination Problems is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Digital Currencies",
+      "content": "A practical example demonstrating Digital Currencies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "digital-currencies"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quantum Cryptography (Introduction)",
+      "content": "A practical example demonstrating Quantum Cryptography (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "quantum-cryptography-introduction"
+      ]
+    }
+  ]
+}

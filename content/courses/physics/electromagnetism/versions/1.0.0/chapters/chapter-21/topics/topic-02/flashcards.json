@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Parallel RLC Circuits?",
+      "back": "Parallel RLC Circuits is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Parallel RLC Circuits important?",
+      "back": "Parallel RLC Circuits is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

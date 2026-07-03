@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 24: Industrial Chemistry**",
+      "content": "A practical example demonstrating *Course 24: Industrial Chemistry**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "course-24-industrial-chemistry"
+      ]
+    }
+  ]
+}

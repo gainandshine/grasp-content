@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Training, Validation & Test Sets",
+      "content": "A practical example demonstrating Training, Validation & Test Sets",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "training-validation-test-sets"
+      ]
+    }
+  ]
+}

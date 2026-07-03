@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Applied Philosophy",
+      "content": "A practical example demonstrating Applied Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "applied-philosophy"
+      ]
+    }
+  ]
+}

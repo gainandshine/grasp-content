@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Art Criticism",
+      "content": "A practical example demonstrating Art Criticism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "art-criticism"
+      ]
+    }
+  ]
+}

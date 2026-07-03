@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Creational Patterns",
+      "content": "A practical example demonstrating Creational Patterns",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "creational-patterns"
+      ]
+    }
+  ]
+}

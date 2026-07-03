@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Formal Charge?",
+      "back": "Formal Charge is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Formal Charge important?",
+      "back": "Formal Charge is essential for understanding Chemical Bonding.",
+      "difficulty": "medium"
+    }
+  ]
+}

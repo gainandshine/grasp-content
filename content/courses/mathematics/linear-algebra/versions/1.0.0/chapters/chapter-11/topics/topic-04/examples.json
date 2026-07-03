@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Singular Value Decomposition (SVD)",
+      "content": "A practical example demonstrating Singular Value Decomposition (SVD)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "singular-value-decomposition-svd"
+      ]
+    }
+  ]
+}

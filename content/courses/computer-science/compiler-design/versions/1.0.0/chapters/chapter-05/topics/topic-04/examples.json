@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Static Single Assignment (SSA)",
+      "content": "A practical example demonstrating Static Single Assignment (SSA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "static-single-assignment-ssa"
+      ]
+    }
+  ]
+}

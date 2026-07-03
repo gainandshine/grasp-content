@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is AA Similarity?",
+      "back": "AA Similarity is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is AA Similarity important?",
+      "back": "AA Similarity is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

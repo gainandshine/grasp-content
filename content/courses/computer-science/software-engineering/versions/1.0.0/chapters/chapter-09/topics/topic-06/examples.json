@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Retrospectives",
+      "content": "A practical example demonstrating Retrospectives",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "retrospectives"
+      ]
+    }
+  ]
+}

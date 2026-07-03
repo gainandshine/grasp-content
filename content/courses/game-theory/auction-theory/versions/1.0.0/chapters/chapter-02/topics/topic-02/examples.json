@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Common Value Auctions",
+      "content": "A practical example demonstrating Common Value Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "common-value-auctions"
+      ]
+    }
+  ]
+}

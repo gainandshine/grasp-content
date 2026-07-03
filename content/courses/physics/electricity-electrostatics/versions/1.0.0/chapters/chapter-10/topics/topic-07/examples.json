@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electrostatic Shielding",
+      "content": "A practical example demonstrating Electrostatic Shielding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "electrostatic-shielding"
+      ]
+    }
+  ]
+}

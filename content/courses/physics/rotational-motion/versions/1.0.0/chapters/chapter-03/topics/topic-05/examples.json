@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Net Torque",
+      "content": "A practical example demonstrating Net Torque",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "net-torque"
+      ]
+    }
+  ]
+}

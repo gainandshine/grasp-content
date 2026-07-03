@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Role-Based Access Control (RBAC)",
+      "content": "A practical example demonstrating Role-Based Access Control (RBAC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "role-based-access-control-rbac"
+      ]
+    }
+  ]
+}

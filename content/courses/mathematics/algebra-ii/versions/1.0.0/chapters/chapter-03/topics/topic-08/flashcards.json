@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Zeros of Polynomials?",
+      "back": "Zeros of Polynomials is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Zeros of Polynomials important?",
+      "back": "Zeros of Polynomials is essential for understanding Algebra II.",
+      "difficulty": "medium"
+    }
+  ]
+}

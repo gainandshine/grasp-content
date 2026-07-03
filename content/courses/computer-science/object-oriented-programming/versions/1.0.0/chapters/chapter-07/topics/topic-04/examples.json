@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Interface Implementation",
+      "content": "A practical example demonstrating Interface Implementation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "interface-implementation"
+      ]
+    }
+  ]
+}

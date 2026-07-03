@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Inverse Square Law?",
+      "back": "Inverse Square Law is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Inverse Square Law important?",
+      "back": "Inverse Square Law is essential for understanding Electricity (Electrostatics).",
+      "difficulty": "medium"
+    }
+  ]
+}

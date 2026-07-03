@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electronic Structure Calculations?",
+      "back": "Electronic Structure Calculations is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electronic Structure Calculations important?",
+      "back": "Electronic Structure Calculations is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

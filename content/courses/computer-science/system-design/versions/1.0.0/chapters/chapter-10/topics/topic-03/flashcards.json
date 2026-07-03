@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Rate Limiting?",
+      "back": "Rate Limiting is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Rate Limiting important?",
+      "back": "Rate Limiting is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

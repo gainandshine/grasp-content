@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Improved Euler Method",
+      "content": "A practical example demonstrating Improved Euler Method",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "improved-euler-method"
+      ]
+    }
+  ]
+}

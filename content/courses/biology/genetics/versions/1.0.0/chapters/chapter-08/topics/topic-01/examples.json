@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gene Pool",
+      "content": "A practical example demonstrating Gene Pool",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "gene-pool"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is What is a Data Structure??",
+      "back": "What is a Data Structure? is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is What is a Data Structure? important?",
+      "back": "What is a Data Structure? is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

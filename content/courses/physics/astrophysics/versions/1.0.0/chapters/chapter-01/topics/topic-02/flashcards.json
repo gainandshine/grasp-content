@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Scale of the Universe?",
+      "back": "Scale of the Universe is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Scale of the Universe important?",
+      "back": "Scale of the Universe is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

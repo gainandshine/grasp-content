@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stress Physiology",
+      "content": "A practical example demonstrating Stress Physiology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "stress-physiology"
+      ]
+    }
+  ]
+}

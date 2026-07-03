@@ -1,10 +1,11 @@
 {
   "id": "waves-sound",
   "title": "Waves & Sound",
-  "description": "This course studies how **disturbances propagate through matter and space**, covering everything from musical instruments to earthquakes and communication systems.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 20,
-  "chapters": 10,
-  "updatedAt": "2026-07-02T10:38:12.547Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.726Z"
 }

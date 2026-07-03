@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: L'Hôpital's Rule",
+      "content": "A practical example demonstrating L'Hôpital's Rule",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "lhpitals-rule"
+      ]
+    }
+  ]
+}

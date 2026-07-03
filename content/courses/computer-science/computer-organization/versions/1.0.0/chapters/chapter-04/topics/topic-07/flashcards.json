@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is RISC vs CISC?",
+      "back": "RISC vs CISC is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is RISC vs CISC important?",
+      "back": "RISC vs CISC is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

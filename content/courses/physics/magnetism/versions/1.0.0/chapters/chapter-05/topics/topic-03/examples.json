@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ferromagnetic Materials",
+      "content": "A practical example demonstrating Ferromagnetic Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ferromagnetic-materials"
+      ]
+    }
+  ]
+}

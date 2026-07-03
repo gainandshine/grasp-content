@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Order of Operations (BODMAS/PEMDAS)?",
+      "back": "Order of Operations (BODMAS/PEMDAS) is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Order of Operations (BODMAS/PEMDAS) important?",
+      "back": "Order of Operations (BODMAS/PEMDAS) is essential for understanding Arithmetic.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cancer Immunology",
+      "content": "A practical example demonstrating Cancer Immunology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cancer-immunology"
+      ]
+    }
+  ]
+}

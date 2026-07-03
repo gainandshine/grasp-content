@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Purity Determination?",
+      "back": "Purity Determination is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Purity Determination important?",
+      "back": "Purity Determination is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

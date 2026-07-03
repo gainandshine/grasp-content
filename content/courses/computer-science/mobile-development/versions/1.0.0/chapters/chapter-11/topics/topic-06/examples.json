@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Play Store Publishing",
+      "content": "A practical example demonstrating Play Store Publishing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "play-store-publishing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Scalable Analytics?",
+      "back": "Scalable Analytics is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Scalable Analytics important?",
+      "back": "Scalable Analytics is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

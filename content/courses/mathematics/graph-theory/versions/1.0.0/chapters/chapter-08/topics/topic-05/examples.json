@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Edmonds-Karp Algorithm",
+      "content": "A practical example demonstrating Edmonds-Karp Algorithm",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "edmonds-karp-algorithm"
+      ]
+    }
+  ]
+}

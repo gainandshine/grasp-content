@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 22: Nanochemistry**",
+      "content": "A practical example demonstrating *Course 22: Nanochemistry**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "course-22-nanochemistry"
+      ]
+    }
+  ]
+}

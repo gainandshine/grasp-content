@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cause & Effect",
+      "content": "A practical example demonstrating Cause & Effect",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "cause-effect"
+      ]
+    }
+  ]
+}

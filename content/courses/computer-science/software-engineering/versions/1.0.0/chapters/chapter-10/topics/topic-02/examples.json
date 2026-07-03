@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Continuous Deployment (CD)",
+      "content": "A practical example demonstrating Continuous Deployment (CD)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "continuous-deployment-cd"
+      ]
+    }
+  ]
+}

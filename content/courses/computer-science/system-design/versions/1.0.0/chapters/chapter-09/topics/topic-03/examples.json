@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: gRPC (Introduction)",
+      "content": "A practical example demonstrating gRPC (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "grpc-introduction"
+      ]
+    }
+  ]
+}

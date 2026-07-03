@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rational Approximations",
+      "content": "A practical example demonstrating Rational Approximations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "rational-approximations"
+      ]
+    }
+  ]
+}

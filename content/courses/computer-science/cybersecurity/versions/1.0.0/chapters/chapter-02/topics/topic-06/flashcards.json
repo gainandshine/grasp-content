@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Public Key Infrastructure (PKI)?",
+      "back": "Public Key Infrastructure (PKI) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Public Key Infrastructure (PKI) important?",
+      "back": "Public Key Infrastructure (PKI) is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

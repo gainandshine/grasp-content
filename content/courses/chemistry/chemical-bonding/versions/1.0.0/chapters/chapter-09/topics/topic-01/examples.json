@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Van der Waals Forces",
+      "content": "A practical example demonstrating Van der Waals Forces",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "van-der-waals-forces"
+      ]
+    }
+  ]
+}

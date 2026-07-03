@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Baryon Acoustic Oscillations?",
+      "back": "Baryon Acoustic Oscillations is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Baryon Acoustic Oscillations important?",
+      "back": "Baryon Acoustic Oscillations is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

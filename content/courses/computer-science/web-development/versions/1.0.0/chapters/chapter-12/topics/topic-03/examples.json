@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lazy Loading",
+      "content": "A practical example demonstrating Lazy Loading",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "lazy-loading"
+      ]
+    }
+  ]
+}

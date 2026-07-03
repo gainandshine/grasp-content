@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Heine–Borel Theorem?",
+      "back": "Heine–Borel Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Heine–Borel Theorem important?",
+      "back": "Heine–Borel Theorem is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

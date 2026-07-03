@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: TLS/SSL",
+      "content": "A practical example demonstrating TLS/SSL",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "tlsssl"
+      ]
+    }
+  ]
+}

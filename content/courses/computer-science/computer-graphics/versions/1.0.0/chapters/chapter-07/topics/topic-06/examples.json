@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gouraud Shading",
+      "content": "A practical example demonstrating Gouraud Shading",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "gouraud-shading"
+      ]
+    }
+  ]
+}

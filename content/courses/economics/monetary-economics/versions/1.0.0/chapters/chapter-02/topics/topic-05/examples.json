@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Money Multiplier",
+      "content": "A practical example demonstrating Money Multiplier",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "money-multiplier"
+      ]
+    }
+  ]
+}

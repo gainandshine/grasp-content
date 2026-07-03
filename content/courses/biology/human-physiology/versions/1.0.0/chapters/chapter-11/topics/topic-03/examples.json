@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: White Blood Cells",
+      "content": "A practical example demonstrating White Blood Cells",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "white-blood-cells"
+      ]
+    }
+  ]
+}

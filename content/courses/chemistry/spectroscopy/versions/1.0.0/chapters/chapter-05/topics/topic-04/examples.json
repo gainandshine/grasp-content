@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Anti-Stokes Shift",
+      "content": "A practical example demonstrating Anti-Stokes Shift",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "anti-stokes-shift"
+      ]
+    }
+  ]
+}

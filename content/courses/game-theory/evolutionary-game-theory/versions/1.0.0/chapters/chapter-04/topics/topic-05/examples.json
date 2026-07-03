@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolution Over Time",
+      "content": "A practical example demonstrating Evolution Over Time",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "evolution-over-time"
+      ]
+    }
+  ]
+}

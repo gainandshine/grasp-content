@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Posterior Distribution",
+      "content": "A practical example demonstrating Posterior Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "posterior-distribution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Polymer Chemistry",
+      "content": "A practical example demonstrating Polymer Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "polymer-chemistry"
+      ]
+    }
+  ]
+}

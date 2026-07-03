@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Short-Run Supply",
-  "description": "Learn about Short-Run Supply",
-  "conceptId": "economics.producer-theory.chapter-07.topic-04"
+  "topicId": "economics.producer-theory.chapter-07.topic-04",
+  "description": "Learn about Short-Run Supply and its applications in economics.",
+  "content": {
+    "overview": "Short-Run Supply is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Short-Run Supply. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Short-Run Supply requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Short-Run Supply is essential for mastering Producer Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

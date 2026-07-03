@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon-14 Dating",
+      "content": "A practical example demonstrating Carbon-14 Dating",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "carbon-14-dating"
+      ]
+    }
+  ]
+}

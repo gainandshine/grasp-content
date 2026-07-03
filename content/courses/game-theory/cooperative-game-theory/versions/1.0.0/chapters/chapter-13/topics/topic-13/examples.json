@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Second-Price (Vickrey) Auctions",
+      "content": "A practical example demonstrating Second-Price (Vickrey) Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "second-price-vickrey-auctions"
+      ]
+    }
+  ]
+}

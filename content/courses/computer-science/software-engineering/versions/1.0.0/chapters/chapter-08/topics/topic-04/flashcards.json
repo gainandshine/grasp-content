@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Refactoring?",
+      "back": "Refactoring is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Refactoring important?",
+      "back": "Refactoring is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

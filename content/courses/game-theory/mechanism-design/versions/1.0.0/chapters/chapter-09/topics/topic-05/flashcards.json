@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pricing Rules?",
+      "back": "Pricing Rules is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pricing Rules important?",
+      "back": "Pricing Rules is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

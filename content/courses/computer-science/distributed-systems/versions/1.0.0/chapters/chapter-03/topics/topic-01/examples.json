@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Physical Clocks",
+      "content": "A practical example demonstrating Physical Clocks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "physical-clocks"
+      ]
+    }
+  ]
+}

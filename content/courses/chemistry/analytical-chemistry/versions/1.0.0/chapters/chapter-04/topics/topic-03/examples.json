@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Volumetric Analysis",
+      "content": "A practical example demonstrating Volumetric Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "volumetric-analysis"
+      ]
+    }
+  ]
+}

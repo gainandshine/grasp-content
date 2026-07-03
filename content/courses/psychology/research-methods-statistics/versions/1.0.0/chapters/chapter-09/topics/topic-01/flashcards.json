@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is t-Tests?",
+      "back": "t-Tests is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is t-Tests important?",
+      "back": "t-Tests is essential for understanding Research Methods & Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

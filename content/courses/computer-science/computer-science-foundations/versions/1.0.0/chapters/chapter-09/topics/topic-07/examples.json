@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cloud Computing (Overview)",
+      "content": "A practical example demonstrating Cloud Computing (Overview)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "cloud-computing-overview"
+      ]
+    }
+  ]
+}

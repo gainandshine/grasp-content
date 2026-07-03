@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Organic Chemistry II",
+      "content": "A practical example demonstrating Organic Chemistry II",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "organic-chemistry-ii"
+      ]
+    }
+  ]
+}

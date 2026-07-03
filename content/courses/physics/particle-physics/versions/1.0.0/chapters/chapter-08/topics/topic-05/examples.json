@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time Reversal",
+      "content": "A practical example demonstrating Time Reversal",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "time-reversal"
+      ]
+    }
+  ]
+}

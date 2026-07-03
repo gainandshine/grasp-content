@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Drug Synthesis",
+      "content": "A practical example demonstrating Drug Synthesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "drug-synthesis"
+      ]
+    }
+  ]
+}

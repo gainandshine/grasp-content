@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Continuous Random Variables?",
+      "back": "Continuous Random Variables is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Continuous Random Variables important?",
+      "back": "Continuous Random Variables is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

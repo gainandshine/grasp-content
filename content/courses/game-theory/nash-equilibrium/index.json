@@ -1,10 +1,11 @@
 {
   "id": "nash-equilibrium",
   "title": "Nash Equilibrium",
-  "description": "This course studies **Nash Equilibrium**, the central concept of game theory. It explains how stable outcomes emerge when every player chooses the best strategy given the choices of everyone else.",
   "version": "1.0.0",
+  "domain": "game-theory",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:23.541Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.443Z"
 }

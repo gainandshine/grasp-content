@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hubble's Discovery",
+      "content": "A practical example demonstrating Hubble's Discovery",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hubbles-discovery"
+      ]
+    }
+  ]
+}

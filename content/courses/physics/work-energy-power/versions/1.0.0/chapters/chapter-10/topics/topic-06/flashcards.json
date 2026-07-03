@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Engineering Systems?",
+      "back": "Engineering Systems is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Engineering Systems important?",
+      "back": "Engineering Systems is essential for understanding Work, Energy & Power.",
+      "difficulty": "medium"
+    }
+  ]
+}

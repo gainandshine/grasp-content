@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Type I Error?",
+      "back": "Type I Error is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Type I Error important?",
+      "back": "Type I Error is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

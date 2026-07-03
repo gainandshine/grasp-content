@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Carbon Nanotubes (CNTs)?",
+      "back": "Carbon Nanotubes (CNTs) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Carbon Nanotubes (CNTs) important?",
+      "back": "Carbon Nanotubes (CNTs) is essential for understanding Nanochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

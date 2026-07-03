@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Base Dissociation Constant (Kb)?",
+      "back": "Base Dissociation Constant (Kb) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Base Dissociation Constant (Kb) important?",
+      "back": "Base Dissociation Constant (Kb) is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

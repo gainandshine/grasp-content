@@ -1,10 +1,11 @@
 {
   "id": "philosophy-of-mind",
   "title": "Philosophy of Mind",
-  "description": "This course studies **the nature of the mind, consciousness, and mental states**, exploring how thoughts, emotions, perception, and intelligence relate to the brain, the body, and artificial systems.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.509Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.394Z"
 }

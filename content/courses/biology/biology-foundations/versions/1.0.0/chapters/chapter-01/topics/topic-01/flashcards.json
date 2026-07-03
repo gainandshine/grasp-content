@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is What is Biology??",
+      "back": "What is Biology? is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is What is Biology? important?",
+      "back": "What is Biology? is essential for understanding Biology Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

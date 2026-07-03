@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Emerging Viruses",
+      "content": "A practical example demonstrating Emerging Viruses",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "emerging-viruses"
+      ]
+    }
+  ]
+}

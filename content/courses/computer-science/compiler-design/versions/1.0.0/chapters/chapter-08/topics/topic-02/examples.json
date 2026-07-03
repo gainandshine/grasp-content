@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stack Frames",
+      "content": "A practical example demonstrating Stack Frames",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "stack-frames"
+      ]
+    }
+  ]
+}

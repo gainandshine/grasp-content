@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Passive Components",
+      "content": "A practical example demonstrating Passive Components",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "passive-components"
+      ]
+    }
+  ]
+}

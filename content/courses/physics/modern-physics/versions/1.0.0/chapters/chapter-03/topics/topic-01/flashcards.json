@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Curved Spacetime?",
+      "back": "Curved Spacetime is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Curved Spacetime important?",
+      "back": "Curved Spacetime is essential for understanding Modern Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

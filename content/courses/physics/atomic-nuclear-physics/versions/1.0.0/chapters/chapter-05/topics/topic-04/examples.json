@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spin-Orbit Coupling",
+      "content": "A practical example demonstrating Spin-Orbit Coupling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "spin-orbit-coupling"
+      ]
+    }
+  ]
+}

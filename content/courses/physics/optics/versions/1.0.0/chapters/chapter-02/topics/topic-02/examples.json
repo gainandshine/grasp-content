@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plane Mirrors",
+      "content": "A practical example demonstrating Plane Mirrors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "plane-mirrors"
+      ]
+    }
+  ]
+}

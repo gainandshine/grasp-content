@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Protected Areas",
+      "content": "A practical example demonstrating Protected Areas",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "protected-areas"
+      ]
+    }
+  ]
+}

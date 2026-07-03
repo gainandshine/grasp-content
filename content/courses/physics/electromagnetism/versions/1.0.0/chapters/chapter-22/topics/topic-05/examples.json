@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Complex Power",
+      "content": "A practical example demonstrating Complex Power",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "complex-power"
+      ]
+    }
+  ]
+}

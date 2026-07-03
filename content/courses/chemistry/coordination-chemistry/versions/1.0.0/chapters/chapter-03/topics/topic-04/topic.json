@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Square Planar Complexes",
-  "description": "Learn about Square Planar Complexes",
-  "conceptId": "chemistry.coordination-chemistry.chapter-03.topic-04"
+  "topicId": "chemistry.coordination-chemistry.chapter-03.topic-04",
+  "description": "Learn about Square Planar Complexes and its applications in chemistry.",
+  "content": {
+    "overview": "Square Planar Complexes is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Square Planar Complexes. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Square Planar Complexes requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Square Planar Complexes is essential for mastering Coordination Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

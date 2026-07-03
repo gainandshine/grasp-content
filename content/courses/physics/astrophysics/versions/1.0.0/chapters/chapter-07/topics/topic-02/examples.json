@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kerr Black Holes",
+      "content": "A practical example demonstrating Kerr Black Holes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "kerr-black-holes"
+      ]
+    }
+  ]
+}

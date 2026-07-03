@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Motion Analysis",
+      "content": "A practical example demonstrating Motion Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "motion-analysis"
+      ]
+    }
+  ]
+}

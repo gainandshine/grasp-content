@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Double Slit Diffraction",
+      "content": "A practical example demonstrating Double Slit Diffraction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "double-slit-diffraction"
+      ]
+    }
+  ]
+}

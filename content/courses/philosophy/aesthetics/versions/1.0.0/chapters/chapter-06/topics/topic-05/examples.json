@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Literary Themes",
+      "content": "A practical example demonstrating Literary Themes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "literary-themes"
+      ]
+    }
+  ]
+}

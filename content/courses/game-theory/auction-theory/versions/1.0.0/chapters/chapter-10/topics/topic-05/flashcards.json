@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Carbon Credit Auctions?",
+      "back": "Carbon Credit Auctions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Carbon Credit Auctions important?",
+      "back": "Carbon Credit Auctions is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

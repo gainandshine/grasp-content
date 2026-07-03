@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Signed & Unsigned Numbers",
+      "content": "A practical example demonstrating Signed & Unsigned Numbers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "signed-unsigned-numbers"
+      ]
+    }
+  ]
+}

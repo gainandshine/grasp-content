@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: UV-Visible Spectroscopy",
+      "content": "A practical example demonstrating UV-Visible Spectroscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "uv-visible-spectroscopy"
+      ]
+    }
+  ]
+}

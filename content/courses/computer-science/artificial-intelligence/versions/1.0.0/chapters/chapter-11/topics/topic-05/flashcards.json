@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is AI Agents?",
+      "back": "AI Agents is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is AI Agents important?",
+      "back": "AI Agents is essential for understanding Artificial Intelligence.",
+      "difficulty": "medium"
+    }
+  ]
+}

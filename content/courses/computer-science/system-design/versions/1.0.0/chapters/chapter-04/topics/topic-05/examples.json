@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Traffic Routing",
+      "content": "A practical example demonstrating Traffic Routing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "traffic-routing"
+      ]
+    }
+  ]
+}

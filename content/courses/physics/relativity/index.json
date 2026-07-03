@@ -1,10 +1,11 @@
 {
   "id": "relativity",
   "title": "Relativity",
-  "description": "This course studies **Einstein's theories of Special and General Relativity**, explaining space, time, gravity, black holes, and the structure of spacetime.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:13.423Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.755Z"
 }

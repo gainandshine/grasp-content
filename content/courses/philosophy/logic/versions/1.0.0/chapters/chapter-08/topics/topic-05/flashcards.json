@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Circular Reasoning?",
+      "back": "Circular Reasoning is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Circular Reasoning important?",
+      "back": "Circular Reasoning is essential for understanding Logic.",
+      "difficulty": "medium"
+    }
+  ]
+}

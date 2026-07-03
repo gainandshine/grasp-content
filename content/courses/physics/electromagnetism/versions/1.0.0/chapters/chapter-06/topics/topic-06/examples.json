@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Earth's Magnetic Field",
+      "content": "A practical example demonstrating Earth's Magnetic Field",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "earths-magnetic-field"
+      ]
+    }
+  ]
+}

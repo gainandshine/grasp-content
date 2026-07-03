@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medical Residency Matching",
+      "content": "A practical example demonstrating Medical Residency Matching",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "medical-residency-matching"
+      ]
+    }
+  ]
+}

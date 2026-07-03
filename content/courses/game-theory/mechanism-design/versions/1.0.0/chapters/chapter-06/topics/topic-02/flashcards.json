@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Matching Algorithms?",
+      "back": "Matching Algorithms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Matching Algorithms important?",
+      "back": "Matching Algorithms is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

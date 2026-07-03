@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Static vs Dynamic Data Structures",
+      "content": "A practical example demonstrating Static vs Dynamic Data Structures",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "static-vs-dynamic-data-structures"
+      ]
+    }
+  ]
+}

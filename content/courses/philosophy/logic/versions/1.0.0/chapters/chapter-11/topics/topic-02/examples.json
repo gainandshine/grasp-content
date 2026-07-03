@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Paradoxes",
+      "content": "A practical example demonstrating Paradoxes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "paradoxes"
+      ]
+    }
+  ]
+}

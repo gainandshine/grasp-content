@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Software Quality?",
+      "back": "Software Quality is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Software Quality important?",
+      "back": "Software Quality is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Automation?",
+      "back": "Automation is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Automation important?",
+      "back": "Automation is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

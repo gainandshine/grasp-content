@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mobile Security",
+      "content": "A practical example demonstrating Mobile Security",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "mobile-security"
+      ]
+    }
+  ]
+}

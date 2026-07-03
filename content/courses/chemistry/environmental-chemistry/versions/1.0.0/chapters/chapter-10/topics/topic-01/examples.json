@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Principles of Green Chemistry",
+      "content": "A practical example demonstrating Principles of Green Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "principles-of-green-chemistry"
+      ]
+    }
+  ]
+}

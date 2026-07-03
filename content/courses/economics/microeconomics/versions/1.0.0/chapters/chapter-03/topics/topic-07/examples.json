@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Demand Forecasting",
+      "content": "A practical example demonstrating Demand Forecasting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "demand-forecasting"
+      ]
+    }
+  ]
+}

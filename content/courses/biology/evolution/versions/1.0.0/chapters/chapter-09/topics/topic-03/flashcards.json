@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Australopithecus?",
+      "back": "Australopithecus is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Australopithecus important?",
+      "back": "Australopithecus is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

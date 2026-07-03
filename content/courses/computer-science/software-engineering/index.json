@@ -1,10 +1,11 @@
 {
   "id": "software-engineering",
   "title": "Software Engineering",
-  "description": "This course studies **how to design, build, test, deploy, and maintain software systems** using engineering principles and industry best practices.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:19.000Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.334Z"
 }

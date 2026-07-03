@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molecular Mechanics",
+      "content": "A practical example demonstrating Molecular Mechanics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "molecular-mechanics"
+      ]
+    }
+  ]
+}

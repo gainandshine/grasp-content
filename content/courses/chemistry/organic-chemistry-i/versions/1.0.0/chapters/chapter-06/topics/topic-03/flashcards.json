@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Enantiomers?",
+      "back": "Enantiomers is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Enantiomers important?",
+      "back": "Enantiomers is essential for understanding Organic Chemistry I.",
+      "difficulty": "medium"
+    }
+  ]
+}

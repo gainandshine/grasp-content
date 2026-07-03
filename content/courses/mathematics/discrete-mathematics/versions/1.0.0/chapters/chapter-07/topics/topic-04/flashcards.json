@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pascal's Triangle?",
+      "back": "Pascal's Triangle is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pascal's Triangle important?",
+      "back": "Pascal's Triangle is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

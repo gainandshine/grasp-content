@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Direct Taxes",
+      "content": "A practical example demonstrating Direct Taxes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "direct-taxes"
+      ]
+    }
+  ]
+}

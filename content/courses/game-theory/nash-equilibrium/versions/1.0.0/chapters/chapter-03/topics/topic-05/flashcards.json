@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Graphical Methods?",
+      "back": "Graphical Methods is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Graphical Methods important?",
+      "back": "Graphical Methods is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

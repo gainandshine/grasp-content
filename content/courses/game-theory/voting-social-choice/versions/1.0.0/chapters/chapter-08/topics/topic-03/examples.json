@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Proportional Allocation",
+      "content": "A practical example demonstrating Proportional Allocation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "proportional-allocation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Born-Haber Cycle",
+      "content": "A practical example demonstrating Born-Haber Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "born-haber-cycle"
+      ]
+    }
+  ]
+}

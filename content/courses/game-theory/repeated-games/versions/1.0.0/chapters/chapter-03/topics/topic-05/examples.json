@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stable Relationships",
+      "content": "A practical example demonstrating Stable Relationships",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "stable-relationships"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Function Call Stack",
-  "description": "Learn about Function Call Stack",
-  "conceptId": "computer-science.data-structures.chapter-04.topic-06"
+  "topicId": "computer-science.data-structures.chapter-04.topic-06",
+  "description": "Learn about Function Call Stack and its applications in computer-science.",
+  "content": {
+    "overview": "Function Call Stack is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Function Call Stack. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Function Call Stack requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Function Call Stack is essential for mastering Data Structures. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

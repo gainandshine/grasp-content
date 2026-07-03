@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deep Ecology",
+      "content": "A practical example demonstrating Deep Ecology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "deep-ecology"
+      ]
+    }
+  ]
+}

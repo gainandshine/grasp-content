@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Elliptical Orbits?",
+      "back": "Elliptical Orbits is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Elliptical Orbits important?",
+      "back": "Elliptical Orbits is essential for understanding Gravitation.",
+      "difficulty": "medium"
+    }
+  ]
+}

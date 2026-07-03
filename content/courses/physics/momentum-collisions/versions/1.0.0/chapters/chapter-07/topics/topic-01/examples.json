@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Explosion Problems",
+      "content": "A practical example demonstrating Explosion Problems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "explosion-problems"
+      ]
+    }
+  ]
+}

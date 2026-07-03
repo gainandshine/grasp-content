@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electronic Transitions?",
+      "back": "Electronic Transitions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electronic Transitions important?",
+      "back": "Electronic Transitions is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

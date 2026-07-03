@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Data Science Workflow",
+      "content": "A practical example demonstrating Data Science Workflow",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "data-science-workflow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Oxidation & Reduction",
+      "content": "A practical example demonstrating Oxidation & Reduction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "oxidation-reduction"
+      ]
+    }
+  ]
+}

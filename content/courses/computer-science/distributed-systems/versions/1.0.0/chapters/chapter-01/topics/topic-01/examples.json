@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: What is a Distributed System?",
+      "content": "A practical example demonstrating What is a Distributed System?",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "what-is-a-distributed-system"
+      ]
+    }
+  ]
+}

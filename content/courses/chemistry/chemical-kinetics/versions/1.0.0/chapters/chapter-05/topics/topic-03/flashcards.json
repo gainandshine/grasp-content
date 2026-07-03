@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Collision Frequency?",
+      "back": "Collision Frequency is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Collision Frequency important?",
+      "back": "Collision Frequency is essential for understanding Chemical Kinetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

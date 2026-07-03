@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Future Distributed Architectures?",
+      "back": "Future Distributed Architectures is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Future Distributed Architectures important?",
+      "back": "Future Distributed Architectures is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

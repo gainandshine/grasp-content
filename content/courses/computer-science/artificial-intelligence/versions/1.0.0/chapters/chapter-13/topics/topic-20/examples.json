@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Large Language Models (Applied)",
+      "content": "A practical example demonstrating Large Language Models (Applied)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "large-language-models-applied"
+      ]
+    }
+  ]
+}

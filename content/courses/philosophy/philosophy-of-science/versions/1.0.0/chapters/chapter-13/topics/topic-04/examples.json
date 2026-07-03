@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Complexity Science",
+      "content": "A practical example demonstrating Complexity Science",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "complexity-science"
+      ]
+    }
+  ]
+}

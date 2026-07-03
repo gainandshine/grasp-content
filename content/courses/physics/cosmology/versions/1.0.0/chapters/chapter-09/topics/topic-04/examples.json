@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Primordial Nucleosynthesis",
+      "content": "A practical example demonstrating Primordial Nucleosynthesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "primordial-nucleosynthesis"
+      ]
+    }
+  ]
+}

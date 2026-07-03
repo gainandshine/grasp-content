@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gradient Vector?",
+      "back": "Gradient Vector is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gradient Vector important?",
+      "back": "Gradient Vector is essential for understanding Calculus III (Multivariable Calculus).",
+      "difficulty": "medium"
+    }
+  ]
+}

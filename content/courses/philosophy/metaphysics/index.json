@@ -1,10 +1,11 @@
 {
   "id": "metaphysics",
   "title": "Metaphysics",
-  "description": "This course studies **the fundamental nature of reality, existence, and being**. It explores questions about what exists, how things persist through time, the nature of causation, and the structure of reality itself.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.270Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.387Z"
 }

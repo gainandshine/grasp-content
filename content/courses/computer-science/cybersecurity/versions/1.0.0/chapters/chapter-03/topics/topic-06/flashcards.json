@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Secure Network Design?",
+      "back": "Secure Network Design is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Secure Network Design important?",
+      "back": "Secure Network Design is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

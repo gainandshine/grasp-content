@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multistep Organic Synthesis",
+      "content": "A practical example demonstrating Multistep Organic Synthesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "multistep-organic-synthesis"
+      ]
+    }
+  ]
+}

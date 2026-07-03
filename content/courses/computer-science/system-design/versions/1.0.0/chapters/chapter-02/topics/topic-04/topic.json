@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Service-Oriented Architecture (SOA)",
-  "description": "Learn about Service-Oriented Architecture (SOA)",
-  "conceptId": "computer-science.system-design.chapter-02.topic-04"
+  "topicId": "computer-science.system-design.chapter-02.topic-04",
+  "description": "Learn about Service-Oriented Architecture (SOA) and its applications in computer-science.",
+  "content": {
+    "overview": "Service-Oriented Architecture (SOA) is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Service-Oriented Architecture (SOA). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Service-Oriented Architecture (SOA) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Service-Oriented Architecture (SOA) is essential for mastering System Design. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

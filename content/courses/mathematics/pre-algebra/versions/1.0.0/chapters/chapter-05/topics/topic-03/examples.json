@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sales Tax",
+      "content": "A practical example demonstrating Sales Tax",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "sales-tax"
+      ]
+    }
+  ]
+}

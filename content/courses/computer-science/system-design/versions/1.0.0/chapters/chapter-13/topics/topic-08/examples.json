@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 14: Distributed Systems**",
+      "content": "A practical example demonstrating *Course 14: Distributed Systems**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-14-distributed-systems"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Venturi Effect",
+      "content": "A practical example demonstrating Venturi Effect",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "venturi-effect"
+      ]
+    }
+  ]
+}

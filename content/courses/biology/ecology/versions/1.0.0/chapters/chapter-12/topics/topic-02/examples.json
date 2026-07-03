@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wildlife Management",
+      "content": "A practical example demonstrating Wildlife Management",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "wildlife-management"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Probability Mass Function (PMF)?",
+      "back": "Probability Mass Function (PMF) is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Probability Mass Function (PMF) important?",
+      "back": "Probability Mass Function (PMF) is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

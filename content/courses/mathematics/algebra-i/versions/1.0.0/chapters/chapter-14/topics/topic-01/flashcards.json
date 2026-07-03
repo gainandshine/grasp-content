@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Counting Principle?",
+      "back": "Counting Principle is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Counting Principle important?",
+      "back": "Counting Principle is essential for understanding Algebra I.",
+      "difficulty": "medium"
+    }
+  ]
+}

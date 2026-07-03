@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Inheritance?",
+      "back": "Inheritance is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Inheritance important?",
+      "back": "Inheritance is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

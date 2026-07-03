@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Total Internal Reflection",
+      "content": "A practical example demonstrating Total Internal Reflection",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "total-internal-reflection"
+      ]
+    }
+  ]
+}

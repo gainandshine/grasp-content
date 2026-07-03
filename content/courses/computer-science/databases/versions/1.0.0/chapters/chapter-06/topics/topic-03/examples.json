@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Second Normal Form (2NF)",
+      "content": "A practical example demonstrating Second Normal Form (2NF)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "second-normal-form-2nf"
+      ]
+    }
+  ]
+}

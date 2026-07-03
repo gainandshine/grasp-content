@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fossil Record",
+      "content": "A practical example demonstrating Fossil Record",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "fossil-record"
+      ]
+    }
+  ]
+}

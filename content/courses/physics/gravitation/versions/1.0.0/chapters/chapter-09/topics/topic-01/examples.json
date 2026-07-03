@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Center of Mass",
+      "content": "A practical example demonstrating Center of Mass",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "center-of-mass"
+      ]
+    }
+  ]
+}

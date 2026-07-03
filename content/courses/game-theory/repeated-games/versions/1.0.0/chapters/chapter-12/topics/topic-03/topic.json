@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Repeated Decision Algorithms",
-  "description": "Learn about Repeated Decision Algorithms",
-  "conceptId": "game-theory.repeated-games.chapter-12.topic-03"
+  "topicId": "game-theory.repeated-games.chapter-12.topic-03",
+  "description": "Learn about Repeated Decision Algorithms and its applications in game-theory.",
+  "content": {
+    "overview": "Repeated Decision Algorithms is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Repeated Decision Algorithms. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Repeated Decision Algorithms requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Repeated Decision Algorithms is essential for mastering Repeated Games. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

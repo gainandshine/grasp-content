@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sum-to-Product",
+      "content": "A practical example demonstrating Sum-to-Product",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "sum-to-product"
+      ]
+    }
+  ]
+}

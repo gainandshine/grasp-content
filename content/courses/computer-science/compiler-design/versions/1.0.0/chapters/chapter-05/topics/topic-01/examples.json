@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Intermediate Code",
+      "content": "A practical example demonstrating Intermediate Code",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "intermediate-code"
+      ]
+    }
+  ]
+}

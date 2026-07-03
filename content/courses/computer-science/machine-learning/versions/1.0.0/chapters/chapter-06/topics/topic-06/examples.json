@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: ROC Curve",
+      "content": "A practical example demonstrating ROC Curve",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "roc-curve"
+      ]
+    }
+  ]
+}

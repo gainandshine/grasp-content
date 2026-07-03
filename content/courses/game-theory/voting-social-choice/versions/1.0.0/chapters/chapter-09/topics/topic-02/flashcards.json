@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multi-Winner Elections?",
+      "back": "Multi-Winner Elections is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multi-Winner Elections important?",
+      "back": "Multi-Winner Elections is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

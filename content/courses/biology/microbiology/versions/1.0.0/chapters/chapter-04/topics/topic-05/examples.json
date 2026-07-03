@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Viral Replication",
+      "content": "A practical example demonstrating Viral Replication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "viral-replication"
+      ]
+    }
+  ]
+}

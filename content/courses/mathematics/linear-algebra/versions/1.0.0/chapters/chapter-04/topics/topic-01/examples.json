@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Invertible Matrices",
+      "content": "A practical example demonstrating Invertible Matrices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "invertible-matrices"
+      ]
+    }
+  ]
+}

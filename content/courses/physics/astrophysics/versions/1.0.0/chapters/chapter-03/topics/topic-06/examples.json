@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hertzsprung–Russell Diagram",
+      "content": "A practical example demonstrating Hertzsprung–Russell Diagram",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hertzsprungrussell-diagram"
+      ]
+    }
+  ]
+}

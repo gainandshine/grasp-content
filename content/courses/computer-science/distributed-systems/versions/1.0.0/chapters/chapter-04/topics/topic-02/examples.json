@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Leader-Follower Replication",
+      "content": "A practical example demonstrating Leader-Follower Replication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "leader-follower-replication"
+      ]
+    }
+  ]
+}

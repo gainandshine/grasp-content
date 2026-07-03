@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radioactive Waste Disposal",
+      "content": "A practical example demonstrating Radioactive Waste Disposal",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radioactive-waste-disposal"
+      ]
+    }
+  ]
+}

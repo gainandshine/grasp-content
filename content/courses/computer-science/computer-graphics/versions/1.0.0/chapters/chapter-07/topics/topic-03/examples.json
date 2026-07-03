@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Diffuse Lighting",
+      "content": "A practical example demonstrating Diffuse Lighting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "diffuse-lighting"
+      ]
+    }
+  ]
+}

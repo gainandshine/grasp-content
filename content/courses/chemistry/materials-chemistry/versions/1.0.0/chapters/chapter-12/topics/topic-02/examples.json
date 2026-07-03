@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Biomedical Implants",
+      "content": "A practical example demonstrating Biomedical Implants",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "biomedical-implants"
+      ]
+    }
+  ]
+}

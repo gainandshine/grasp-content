@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multilevel Queue Scheduling?",
+      "back": "Multilevel Queue Scheduling is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multilevel Queue Scheduling important?",
+      "back": "Multilevel Queue Scheduling is essential for understanding Operating Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

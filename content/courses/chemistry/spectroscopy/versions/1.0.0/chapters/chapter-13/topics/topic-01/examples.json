@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: FTIR Spectroscopy",
+      "content": "A practical example demonstrating FTIR Spectroscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ftir-spectroscopy"
+      ]
+    }
+  ]
+}

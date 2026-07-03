@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Branches of Philosophy",
+      "content": "A practical example demonstrating Branches of Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "branches-of-philosophy"
+      ]
+    }
+  ]
+}

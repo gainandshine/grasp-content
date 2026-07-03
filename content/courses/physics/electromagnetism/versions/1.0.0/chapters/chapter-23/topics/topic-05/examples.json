@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Oscilloscope",
+      "content": "A practical example demonstrating Oscilloscope",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "oscilloscope"
+      ]
+    }
+  ]
+}

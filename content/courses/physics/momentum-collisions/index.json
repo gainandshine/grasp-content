@@ -1,10 +1,11 @@
 {
   "id": "momentum-collisions",
   "title": "Momentum & Collisions",
-  "description": "This course studies interactions between objects using **momentum**, which is essential for mechanics, engineering, astronomy, and particle physics.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 20,
-  "chapters": 10,
-  "updatedAt": "2026-07-02T10:38:12.274Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.718Z"
 }

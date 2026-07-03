@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Aggression Prevention",
-  "description": "Learn about Aggression Prevention",
-  "conceptId": "psychology.social-psychology.chapter-09.topic-06"
+  "topicId": "psychology.social-psychology.chapter-09.topic-06",
+  "description": "Learn about Aggression Prevention and its applications in psychology.",
+  "content": {
+    "overview": "Aggression Prevention is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Aggression Prevention. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Aggression Prevention requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Aggression Prevention is essential for mastering Social Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

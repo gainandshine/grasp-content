@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Neutral Theory?",
+      "back": "Neutral Theory is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Neutral Theory important?",
+      "back": "Neutral Theory is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Isolated Systems",
+      "content": "A practical example demonstrating Isolated Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "isolated-systems"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: IR Spectrum Prediction",
+      "content": "A practical example demonstrating IR Spectrum Prediction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ir-spectrum-prediction"
+      ]
+    }
+  ]
+}

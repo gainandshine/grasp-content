@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reconnaissance",
+      "content": "A practical example demonstrating Reconnaissance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "reconnaissance"
+      ]
+    }
+  ]
+}

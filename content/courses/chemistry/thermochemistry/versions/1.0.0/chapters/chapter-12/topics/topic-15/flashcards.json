@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Buffer Systems?",
+      "back": "Buffer Systems is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Buffer Systems important?",
+      "back": "Buffer Systems is essential for understanding Thermochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

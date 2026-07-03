@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Payoff Matrices",
+      "content": "A practical example demonstrating Payoff Matrices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "payoff-matrices"
+      ]
+    }
+  ]
+}

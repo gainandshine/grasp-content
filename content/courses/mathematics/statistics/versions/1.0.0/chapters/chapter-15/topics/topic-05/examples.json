@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: A/B Testing",
+      "content": "A practical example demonstrating A/B Testing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "ab-testing"
+      ]
+    }
+  ]
+}

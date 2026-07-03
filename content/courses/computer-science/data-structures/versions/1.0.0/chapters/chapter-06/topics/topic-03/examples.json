@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Collision Resolution",
+      "content": "A practical example demonstrating Collision Resolution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "collision-resolution"
+      ]
+    }
+  ]
+}

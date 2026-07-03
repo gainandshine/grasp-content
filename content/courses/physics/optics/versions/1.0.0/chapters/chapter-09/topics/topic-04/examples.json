@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Brewster's Law",
+      "content": "A practical example demonstrating Brewster's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "brewsters-law"
+      ]
+    }
+  ]
+}

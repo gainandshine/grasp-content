@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Turner Syndrome",
+      "content": "A practical example demonstrating Turner Syndrome",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "turner-syndrome"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Data Integration?",
+      "back": "Data Integration is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Data Integration important?",
+      "back": "Data Integration is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

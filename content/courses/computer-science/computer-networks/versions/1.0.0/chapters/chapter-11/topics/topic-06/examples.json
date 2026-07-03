@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Network Virtualization",
+      "content": "A practical example demonstrating Network Virtualization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "network-virtualization"
+      ]
+    }
+  ]
+}

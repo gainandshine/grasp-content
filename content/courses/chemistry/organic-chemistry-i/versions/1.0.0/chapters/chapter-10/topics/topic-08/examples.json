@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Friedel-Crafts Reactions",
+      "content": "A practical example demonstrating Friedel-Crafts Reactions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "friedel-crafts-reactions"
+      ]
+    }
+  ]
+}

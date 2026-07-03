@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Buffer Capacity?",
+      "back": "Buffer Capacity is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Buffer Capacity important?",
+      "back": "Buffer Capacity is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

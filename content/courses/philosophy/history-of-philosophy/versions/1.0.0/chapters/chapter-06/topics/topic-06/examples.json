@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scientific Revolution",
+      "content": "A practical example demonstrating Scientific Revolution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "scientific-revolution"
+      ]
+    }
+  ]
+}

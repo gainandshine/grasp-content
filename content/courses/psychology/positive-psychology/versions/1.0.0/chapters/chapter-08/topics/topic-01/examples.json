@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Meaning in Life",
+      "content": "A practical example demonstrating Meaning in Life",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "meaning-in-life"
+      ]
+    }
+  ]
+}

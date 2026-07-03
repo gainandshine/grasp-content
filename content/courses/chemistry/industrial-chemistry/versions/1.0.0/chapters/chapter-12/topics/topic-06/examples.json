@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electronics Manufacturing",
+      "content": "A practical example demonstrating Electronics Manufacturing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electronics-manufacturing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Identity Matrix?",
+      "back": "Identity Matrix is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Identity Matrix important?",
+      "back": "Identity Matrix is essential for understanding Linear Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

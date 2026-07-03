@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Activity Diagrams?",
+      "back": "Activity Diagrams is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Activity Diagrams important?",
+      "back": "Activity Diagrams is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

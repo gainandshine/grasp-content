@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Precision Medicine?",
+      "back": "Precision Medicine is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Precision Medicine important?",
+      "back": "Precision Medicine is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

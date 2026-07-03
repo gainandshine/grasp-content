@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is End-to-End Data Science Projects?",
+      "back": "End-to-End Data Science Projects is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is End-to-End Data Science Projects important?",
+      "back": "End-to-End Data Science Projects is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: What is Programming?",
+      "content": "A practical example demonstrating What is Programming?",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "what-is-programming"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Outcome Nodes",
+      "content": "A practical example demonstrating Outcome Nodes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "outcome-nodes"
+      ]
+    }
+  ]
+}

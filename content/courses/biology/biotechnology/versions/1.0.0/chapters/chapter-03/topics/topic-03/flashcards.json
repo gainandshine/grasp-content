@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Primers?",
+      "back": "Primers is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Primers important?",
+      "back": "Primers is essential for understanding Biotechnology.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Winner Determination",
+      "content": "A practical example demonstrating Winner Determination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "winner-determination"
+      ]
+    }
+  ]
+}

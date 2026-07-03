@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Knowledge Bases",
+      "content": "A practical example demonstrating Knowledge Bases",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "knowledge-bases"
+      ]
+    }
+  ]
+}

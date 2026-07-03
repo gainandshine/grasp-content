@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Instruction Scheduling?",
+      "back": "Instruction Scheduling is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Instruction Scheduling important?",
+      "back": "Instruction Scheduling is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

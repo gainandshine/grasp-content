@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Transmission Electron Microscopy (TEM)?",
+      "back": "Transmission Electron Microscopy (TEM) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Transmission Electron Microscopy (TEM) important?",
+      "back": "Transmission Electron Microscopy (TEM) is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

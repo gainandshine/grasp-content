@@ -1,6 +1,16 @@
 {
   "id": "topic-18",
   "name": "Nanomedicine",
-  "description": "Learn about Nanomedicine",
-  "conceptId": "chemistry.materials-chemistry.chapter-13.topic-18"
+  "topicId": "chemistry.materials-chemistry.chapter-13.topic-18",
+  "description": "Learn about Nanomedicine and its applications in chemistry.",
+  "content": {
+    "overview": "Nanomedicine is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Nanomedicine. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Nanomedicine requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Nanomedicine is essential for mastering Materials Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

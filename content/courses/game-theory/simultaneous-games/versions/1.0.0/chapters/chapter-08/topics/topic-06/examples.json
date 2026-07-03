@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strategic Conflict",
+      "content": "A practical example demonstrating Strategic Conflict",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "strategic-conflict"
+      ]
+    }
+  ]
+}

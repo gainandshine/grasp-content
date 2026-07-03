@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon Pricing",
+      "content": "A practical example demonstrating Carbon Pricing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "carbon-pricing"
+      ]
+    }
+  ]
+}

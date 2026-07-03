@@ -1,10 +1,11 @@
 {
   "id": "quantum-mechanics",
   "title": "Quantum Mechanics",
-  "description": "Quantum Mechanics. The study of matter, energy, space, time, and the fundamental forces.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 28,
-  "chapters": 14,
-  "updatedAt": "2026-07-02T10:38:13.147Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.746Z"
 }

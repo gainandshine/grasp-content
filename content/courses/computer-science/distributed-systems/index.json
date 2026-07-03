@@ -1,10 +1,11 @@
 {
   "id": "distributed-systems",
   "title": "Distributed Systems",
-  "description": "This course studies **how multiple computers work together as one system**. It covers communication, coordination, consistency, fault tolerance, and the design of large-scale distributed applications.",
   "version": "1.0.0",
+  "domain": "computer-science",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:19.371Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.341Z"
 }

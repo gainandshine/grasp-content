@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Frontend Frameworks",
+      "content": "A practical example demonstrating Frontend Frameworks",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "frontend-frameworks"
+      ]
+    }
+  ]
+}

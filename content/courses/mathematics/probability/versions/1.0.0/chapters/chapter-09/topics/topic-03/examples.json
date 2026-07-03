@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Conditional Expectation",
+      "content": "A practical example demonstrating Conditional Expectation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "conditional-expectation"
+      ]
+    }
+  ]
+}

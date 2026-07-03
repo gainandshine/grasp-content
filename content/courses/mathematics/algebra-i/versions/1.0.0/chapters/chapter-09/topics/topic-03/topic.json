@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Difference of Squares",
-  "description": "Learn about Difference of Squares",
-  "conceptId": "mathematics.algebra-i.chapter-09.topic-03"
+  "topicId": "mathematics.algebra-i.chapter-09.topic-03",
+  "description": "Learn about Difference of Squares and its applications in mathematics.",
+  "content": {
+    "overview": "Difference of Squares is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Difference of Squares. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Difference of Squares requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Difference of Squares is essential for mastering Algebra I. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

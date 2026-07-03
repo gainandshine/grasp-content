@@ -1,10 +1,11 @@
 {
   "id": "cognitive-psychology",
   "title": "Cognitive Psychology",
-  "description": "This course studies **how the mind acquires, processes, stores, and uses information**. It explores perception, attention, memory, language, reasoning, problem solving, and decision making.",
   "version": "1.0.0",
+  "domain": "psychology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:22.121Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.409Z"
 }

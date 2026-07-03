@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Energy Storage",
+      "content": "A practical example demonstrating Energy Storage",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "energy-storage"
+      ]
+    }
+  ]
+}

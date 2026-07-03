@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hindu Philosophy",
+      "content": "A practical example demonstrating Hindu Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "hindu-philosophy"
+      ]
+    }
+  ]
+}

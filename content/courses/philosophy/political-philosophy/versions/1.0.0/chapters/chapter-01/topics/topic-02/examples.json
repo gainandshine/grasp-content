@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Politics & Philosophy",
+      "content": "A practical example demonstrating Politics & Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "politics-philosophy"
+      ]
+    }
+  ]
+}

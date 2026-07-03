@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Agricultural Chemicals?",
+      "back": "Agricultural Chemicals is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Agricultural Chemicals important?",
+      "back": "Agricultural Chemicals is essential for understanding Organic Chemistry I.",
+      "difficulty": "medium"
+    }
+  ]
+}

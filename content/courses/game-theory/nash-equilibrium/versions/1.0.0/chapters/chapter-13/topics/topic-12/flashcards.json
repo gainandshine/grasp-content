@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Trigger Strategies?",
+      "back": "Trigger Strategies is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Trigger Strategies important?",
+      "back": "Trigger Strategies is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

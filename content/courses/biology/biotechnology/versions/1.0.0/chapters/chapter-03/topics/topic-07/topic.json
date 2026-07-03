@@ -1,6 +1,16 @@
 {
   "id": "topic-07",
   "name": "PCR Applications",
-  "description": "Learn about PCR Applications",
-  "conceptId": "biology.biotechnology.chapter-03.topic-07"
+  "topicId": "biology.biotechnology.chapter-03.topic-07",
+  "description": "Learn about PCR Applications and its applications in biology.",
+  "content": {
+    "overview": "PCR Applications is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of PCR Applications. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding PCR Applications requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "PCR Applications is essential for mastering Biotechnology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

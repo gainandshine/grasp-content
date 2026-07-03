@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plasma Cells",
+      "content": "A practical example demonstrating Plasma Cells",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "plasma-cells"
+      ]
+    }
+  ]
+}

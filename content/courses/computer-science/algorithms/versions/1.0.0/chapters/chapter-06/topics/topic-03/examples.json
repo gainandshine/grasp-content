@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Huffman Coding",
+      "content": "A practical example demonstrating Huffman Coding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "huffman-coding"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Intelligence Tests",
-  "description": "Learn about Intelligence Tests",
-  "conceptId": "psychology.clinical-psychology.chapter-03.topic-01"
+  "topicId": "psychology.clinical-psychology.chapter-03.topic-01",
+  "description": "Learn about Intelligence Tests and its applications in psychology.",
+  "content": {
+    "overview": "Intelligence Tests is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Intelligence Tests. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Intelligence Tests requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Intelligence Tests is essential for mastering Clinical Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

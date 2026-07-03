@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Planck's Quantum Hypothesis",
+      "content": "A practical example demonstrating Planck's Quantum Hypothesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "plancks-quantum-hypothesis"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Relationships",
-  "description": "Learn about Relationships",
-  "conceptId": "psychology.personality-psychology.chapter-10.topic-01"
+  "topicId": "psychology.personality-psychology.chapter-10.topic-01",
+  "description": "Learn about Relationships and its applications in psychology.",
+  "content": {
+    "overview": "Relationships is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Relationships. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Relationships requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Relationships is essential for mastering Personality Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

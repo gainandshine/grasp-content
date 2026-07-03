@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arrow's Impossibility Theorem",
+      "content": "A practical example demonstrating Arrow's Impossibility Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "arrows-impossibility-theorem"
+      ]
+    }
+  ]
+}

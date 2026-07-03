@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Server Operating Systems",
+      "content": "A practical example demonstrating Server Operating Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "server-operating-systems"
+      ]
+    }
+  ]
+}

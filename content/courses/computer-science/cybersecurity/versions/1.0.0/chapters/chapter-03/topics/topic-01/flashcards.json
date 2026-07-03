@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Firewalls?",
+      "back": "Firewalls is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Firewalls important?",
+      "back": "Firewalls is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

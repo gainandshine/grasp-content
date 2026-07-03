@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Programming Languages",
+      "content": "A practical example demonstrating Programming Languages",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "programming-languages"
+      ]
+    }
+  ]
+}

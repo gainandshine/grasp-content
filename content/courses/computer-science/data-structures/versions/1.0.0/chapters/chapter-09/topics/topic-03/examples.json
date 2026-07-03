@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Insert & Search",
+      "content": "A practical example demonstrating Insert & Search",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "insert-search"
+      ]
+    }
+  ]
+}

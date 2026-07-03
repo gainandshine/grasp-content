@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nuclear Cross Section",
+      "content": "A practical example demonstrating Nuclear Cross Section",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "nuclear-cross-section"
+      ]
+    }
+  ]
+}

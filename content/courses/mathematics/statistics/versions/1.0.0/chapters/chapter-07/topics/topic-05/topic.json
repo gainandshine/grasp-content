@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Sample Size Determination",
-  "description": "Learn about Sample Size Determination",
-  "conceptId": "mathematics.statistics.chapter-07.topic-05"
+  "topicId": "mathematics.statistics.chapter-07.topic-05",
+  "description": "Learn about Sample Size Determination and its applications in mathematics.",
+  "content": {
+    "overview": "Sample Size Determination is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Sample Size Determination. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Sample Size Determination requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Sample Size Determination is essential for mastering Statistics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

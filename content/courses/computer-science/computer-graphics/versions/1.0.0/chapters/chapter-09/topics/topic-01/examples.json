@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Keyframe Animation",
+      "content": "A practical example demonstrating Keyframe Animation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "keyframe-animation"
+      ]
+    }
+  ]
+}

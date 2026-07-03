@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Boyle's Law?",
+      "back": "Boyle's Law is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Boyle's Law important?",
+      "back": "Boyle's Law is essential for understanding Thermodynamics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: .NET CLR",
+      "content": "A practical example demonstrating .NET CLR",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "net-clr"
+      ]
+    }
+  ]
+}

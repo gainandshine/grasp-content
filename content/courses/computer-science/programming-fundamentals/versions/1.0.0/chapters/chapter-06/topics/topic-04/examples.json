@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nested Loops",
+      "content": "A practical example demonstrating Nested Loops",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "nested-loops"
+      ]
+    }
+  ]
+}

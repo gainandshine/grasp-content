@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bridging Ligands?",
+      "back": "Bridging Ligands is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bridging Ligands important?",
+      "back": "Bridging Ligands is essential for understanding Coordination Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

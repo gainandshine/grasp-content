@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Gel Permeation Chromatography (GPC)?",
+      "back": "Gel Permeation Chromatography (GPC) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Gel Permeation Chromatography (GPC) important?",
+      "back": "Gel Permeation Chromatography (GPC) is essential for understanding Polymers.",
+      "difficulty": "medium"
+    }
+  ]
+}

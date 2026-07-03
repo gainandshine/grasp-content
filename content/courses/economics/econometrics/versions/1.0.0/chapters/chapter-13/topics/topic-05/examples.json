@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: High-Dimensional Data",
+      "content": "A practical example demonstrating High-Dimensional Data",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "high-dimensional-data"
+      ]
+    }
+  ]
+}

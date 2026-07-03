@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quality Assurance",
+      "content": "A practical example demonstrating Quality Assurance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "quality-assurance"
+      ]
+    }
+  ]
+}

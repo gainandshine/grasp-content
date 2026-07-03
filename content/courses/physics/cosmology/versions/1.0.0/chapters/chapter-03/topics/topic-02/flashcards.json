@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Planck Epoch?",
+      "back": "Planck Epoch is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Planck Epoch important?",
+      "back": "Planck Epoch is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

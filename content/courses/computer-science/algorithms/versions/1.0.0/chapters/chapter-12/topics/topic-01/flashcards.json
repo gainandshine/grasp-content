@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Proof of Correctness?",
+      "back": "Proof of Correctness is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Proof of Correctness important?",
+      "back": "Proof of Correctness is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

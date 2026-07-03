@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Grand Coalition",
+      "content": "A practical example demonstrating Grand Coalition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "grand-coalition"
+      ]
+    }
+  ]
+}

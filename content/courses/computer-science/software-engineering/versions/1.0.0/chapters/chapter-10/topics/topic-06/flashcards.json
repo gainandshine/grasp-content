@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Infrastructure as Code (Overview)?",
+      "back": "Infrastructure as Code (Overview) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Infrastructure as Code (Overview) important?",
+      "back": "Infrastructure as Code (Overview) is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: UV Mapping",
+      "content": "A practical example demonstrating UV Mapping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "uv-mapping"
+      ]
+    }
+  ]
+}

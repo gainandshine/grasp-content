@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fuel Cell Materials",
+      "content": "A practical example demonstrating Fuel Cell Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "fuel-cell-materials"
+      ]
+    }
+  ]
+}

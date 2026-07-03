@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Single Sign-On (SSO)",
+      "content": "A practical example demonstrating Single Sign-On (SSO)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "single-sign-on-sso"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Search on Sorted Data",
+      "content": "A practical example demonstrating Search on Sorted Data",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "search-on-sorted-data"
+      ]
+    }
+  ]
+}

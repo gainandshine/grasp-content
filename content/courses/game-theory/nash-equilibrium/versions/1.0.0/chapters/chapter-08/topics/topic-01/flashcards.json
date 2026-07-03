@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Correlated Strategies?",
+      "back": "Correlated Strategies is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Correlated Strategies important?",
+      "back": "Correlated Strategies is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

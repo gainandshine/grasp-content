@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bias-Variance Tradeoff",
+      "content": "A practical example demonstrating Bias-Variance Tradeoff",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "bias-variance-tradeoff"
+      ]
+    }
+  ]
+}

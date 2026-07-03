@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Assembly Language Basics",
+      "content": "A practical example demonstrating Assembly Language Basics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "assembly-language-basics"
+      ]
+    }
+  ]
+}

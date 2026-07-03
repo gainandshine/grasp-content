@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Vector Addition?",
+      "back": "Vector Addition is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Vector Addition important?",
+      "back": "Vector Addition is essential for understanding Linear Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

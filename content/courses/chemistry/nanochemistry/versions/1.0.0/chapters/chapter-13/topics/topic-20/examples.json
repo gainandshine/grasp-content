@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nuclear Waste Management",
+      "content": "A practical example demonstrating Nuclear Waste Management",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nuclear-waste-management"
+      ]
+    }
+  ]
+}

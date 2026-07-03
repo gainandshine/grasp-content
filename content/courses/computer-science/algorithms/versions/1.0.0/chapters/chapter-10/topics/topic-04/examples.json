@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rabin-Karp",
+      "content": "A practical example demonstrating Rabin-Karp",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "rabin-karp"
+      ]
+    }
+  ]
+}

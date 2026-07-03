@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Restriction Enzymes",
-  "description": "Learn about Restriction Enzymes",
-  "conceptId": "biology.biotechnology.chapter-02.topic-02"
+  "topicId": "biology.biotechnology.chapter-02.topic-02",
+  "description": "Learn about Restriction Enzymes and its applications in biology.",
+  "content": {
+    "overview": "Restriction Enzymes is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Restriction Enzymes. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Restriction Enzymes requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Restriction Enzymes is essential for mastering Biotechnology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

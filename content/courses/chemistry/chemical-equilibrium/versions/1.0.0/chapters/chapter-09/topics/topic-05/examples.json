@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Henderson-Hasselbalch Equation",
+      "content": "A practical example demonstrating Henderson-Hasselbalch Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "henderson-hasselbalch-equation"
+      ]
+    }
+  ]
+}

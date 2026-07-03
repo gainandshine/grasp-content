@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ecotourism",
+      "content": "A practical example demonstrating Ecotourism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "ecotourism"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Capacitive Sensors",
+      "content": "A practical example demonstrating Capacitive Sensors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "capacitive-sensors"
+      ]
+    }
+  ]
+}

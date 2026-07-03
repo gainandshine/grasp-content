@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Observable Quantities?",
+      "back": "Observable Quantities is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Observable Quantities important?",
+      "back": "Observable Quantities is essential for understanding Quantum Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

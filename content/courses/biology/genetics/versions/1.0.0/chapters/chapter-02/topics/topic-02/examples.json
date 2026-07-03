@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Law of Segregation",
+      "content": "A practical example demonstrating Law of Segregation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "law-of-segregation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Tracking Systems",
+      "content": "A practical example demonstrating Tracking Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "tracking-systems"
+      ]
+    }
+  ]
+}

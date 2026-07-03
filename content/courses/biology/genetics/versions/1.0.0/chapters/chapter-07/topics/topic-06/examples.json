@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cystic Fibrosis",
+      "content": "A practical example demonstrating Cystic Fibrosis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cystic-fibrosis"
+      ]
+    }
+  ]
+}

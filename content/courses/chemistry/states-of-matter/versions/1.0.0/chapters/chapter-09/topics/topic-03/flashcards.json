@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Critical Point?",
+      "back": "Critical Point is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Critical Point important?",
+      "back": "Critical Point is essential for understanding States of Matter.",
+      "difficulty": "medium"
+    }
+  ]
+}

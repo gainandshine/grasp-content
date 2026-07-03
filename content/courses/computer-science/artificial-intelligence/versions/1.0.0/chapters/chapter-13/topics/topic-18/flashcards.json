@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Model Deployment?",
+      "back": "Model Deployment is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Model Deployment important?",
+      "back": "Model Deployment is essential for understanding Artificial Intelligence.",
+      "difficulty": "medium"
+    }
+  ]
+}

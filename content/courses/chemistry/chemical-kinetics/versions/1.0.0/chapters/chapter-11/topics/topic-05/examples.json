@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Environmental Chemistry",
+      "content": "A practical example demonstrating Environmental Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "environmental-chemistry"
+      ]
+    }
+  ]
+}

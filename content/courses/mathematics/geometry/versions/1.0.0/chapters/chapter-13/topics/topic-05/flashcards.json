@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Composite Figures?",
+      "back": "Composite Figures is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Composite Figures important?",
+      "back": "Composite Figures is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

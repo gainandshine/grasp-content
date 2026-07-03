@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Control Rods",
+      "content": "A practical example demonstrating Control Rods",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "control-rods"
+      ]
+    }
+  ]
+}

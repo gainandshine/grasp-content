@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cube Roots",
+      "content": "A practical example demonstrating Cube Roots",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "cube-roots"
+      ]
+    }
+  ]
+}

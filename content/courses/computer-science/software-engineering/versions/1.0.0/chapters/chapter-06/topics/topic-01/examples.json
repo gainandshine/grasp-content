@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Version Control Systems",
+      "content": "A practical example demonstrating Version Control Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "version-control-systems"
+      ]
+    }
+  ]
+}

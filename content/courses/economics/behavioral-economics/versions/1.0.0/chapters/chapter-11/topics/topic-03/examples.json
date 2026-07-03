@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Field Experiments",
+      "content": "A practical example demonstrating Field Experiments",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "field-experiments"
+      ]
+    }
+  ]
+}

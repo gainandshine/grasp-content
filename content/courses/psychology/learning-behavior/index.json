@@ -1,10 +1,11 @@
 {
   "id": "learning-behavior",
   "title": "Learning & Behavior",
-  "description": "This course studies **how humans and animals acquire, modify, and maintain behavior** through experience. It covers the major theories of learning and their practical applications in education, therapy, and everyday life.",
   "version": "1.0.0",
+  "domain": "psychology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:22.576Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.419Z"
 }

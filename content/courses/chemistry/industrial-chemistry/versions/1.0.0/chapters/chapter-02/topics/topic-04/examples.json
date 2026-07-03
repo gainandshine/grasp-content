@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heat Exchangers",
+      "content": "A practical example demonstrating Heat Exchangers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "heat-exchangers"
+      ]
+    }
+  ]
+}

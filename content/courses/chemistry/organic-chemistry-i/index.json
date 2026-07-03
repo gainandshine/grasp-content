@@ -1,10 +1,11 @@
 {
   "id": "organic-chemistry-i",
   "title": "Organic Chemistry I",
-  "description": "This course introduces the **chemistry of carbon compounds**. Students learn how organic molecules are structured, named, classified, and how they react. It forms the foundation for pharmaceuticals, biochemistry, polymers, and materials science.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:16.155Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.273Z"
 }

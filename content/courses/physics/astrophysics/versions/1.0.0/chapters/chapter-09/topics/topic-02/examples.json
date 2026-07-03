@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dust Clouds",
+      "content": "A practical example demonstrating Dust Clouds",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dust-clouds"
+      ]
+    }
+  ]
+}

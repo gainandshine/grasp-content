@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Separation of Concerns",
+      "content": "A practical example demonstrating Separation of Concerns",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "separation-of-concerns"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Orthographic Projection?",
+      "back": "Orthographic Projection is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Orthographic Projection important?",
+      "back": "Orthographic Projection is essential for understanding Computer Graphics.",
+      "difficulty": "medium"
+    }
+  ]
+}

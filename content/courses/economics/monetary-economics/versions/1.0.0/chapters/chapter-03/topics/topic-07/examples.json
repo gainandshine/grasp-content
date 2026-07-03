@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Credit Creation",
+      "content": "A practical example demonstrating Credit Creation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "credit-creation"
+      ]
+    }
+  ]
+}

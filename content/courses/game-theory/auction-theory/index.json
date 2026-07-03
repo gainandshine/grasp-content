@@ -1,10 +1,11 @@
 {
   "id": "auction-theory",
   "title": "Auction Theory",
-  "description": "This course studies **how auctions allocate goods and determine prices through strategic bidding**. It explores bidder behavior, auction design, and the economics behind modern marketplaces.",
   "version": "1.0.0",
+  "domain": "game-theory",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:23.802Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.449Z"
 }

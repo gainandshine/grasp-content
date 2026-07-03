@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scientific Revolutions",
+      "content": "A practical example demonstrating Scientific Revolutions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "scientific-revolutions"
+      ]
+    }
+  ]
+}

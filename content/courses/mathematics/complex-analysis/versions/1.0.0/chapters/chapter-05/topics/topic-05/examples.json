@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cauchy's Integral Theorem",
+      "content": "A practical example demonstrating Cauchy's Integral Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "cauchys-integral-theorem"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Signs of Trigonometric Functions",
-  "description": "Learn about Signs of Trigonometric Functions",
-  "conceptId": "mathematics.trigonometry.chapter-03.topic-06"
+  "topicId": "mathematics.trigonometry.chapter-03.topic-06",
+  "description": "Learn about Signs of Trigonometric Functions and its applications in mathematics.",
+  "content": {
+    "overview": "Signs of Trigonometric Functions is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Signs of Trigonometric Functions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Signs of Trigonometric Functions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Signs of Trigonometric Functions is essential for mastering Trigonometry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

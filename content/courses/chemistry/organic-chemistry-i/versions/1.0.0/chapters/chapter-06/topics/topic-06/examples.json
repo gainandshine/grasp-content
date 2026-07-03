@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: E/Z Configuration",
+      "content": "A practical example demonstrating E/Z Configuration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ez-configuration"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parkinson's Disease",
+      "content": "A practical example demonstrating Parkinson's Disease",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "parkinsons-disease"
+      ]
+    }
+  ]
+}

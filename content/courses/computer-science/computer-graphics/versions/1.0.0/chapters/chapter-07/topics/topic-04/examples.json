@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Specular Lighting",
+      "content": "A practical example demonstrating Specular Lighting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "specular-lighting"
+      ]
+    }
+  ]
+}

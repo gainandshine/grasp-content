@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Limits of Sequences?",
+      "back": "Limits of Sequences is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Limits of Sequences important?",
+      "back": "Limits of Sequences is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

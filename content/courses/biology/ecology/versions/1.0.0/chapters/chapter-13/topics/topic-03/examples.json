@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Invasion Biology",
+      "content": "A practical example demonstrating Invasion Biology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "invasion-biology"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mean Dynamics",
+      "content": "A practical example demonstrating Mean Dynamics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "mean-dynamics"
+      ]
+    }
+  ]
+}

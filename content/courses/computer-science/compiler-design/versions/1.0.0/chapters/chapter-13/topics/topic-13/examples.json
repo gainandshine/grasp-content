@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rendering Pipeline",
+      "content": "A practical example demonstrating Rendering Pipeline",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "rendering-pipeline"
+      ]
+    }
+  ]
+}

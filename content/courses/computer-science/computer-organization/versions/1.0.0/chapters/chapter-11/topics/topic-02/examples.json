@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Assembly Instructions",
+      "content": "A practical example demonstrating Assembly Instructions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "assembly-instructions"
+      ]
+    }
+  ]
+}

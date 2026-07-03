@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Taylor Series",
+      "content": "A practical example demonstrating Taylor Series",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "taylor-series"
+      ]
+    }
+  ]
+}

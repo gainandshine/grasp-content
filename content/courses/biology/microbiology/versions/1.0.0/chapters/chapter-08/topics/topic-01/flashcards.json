@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bacterial DNA?",
+      "back": "Bacterial DNA is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bacterial DNA important?",
+      "back": "Bacterial DNA is essential for understanding Microbiology.",
+      "difficulty": "medium"
+    }
+  ]
+}

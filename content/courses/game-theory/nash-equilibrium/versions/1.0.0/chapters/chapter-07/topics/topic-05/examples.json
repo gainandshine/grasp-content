@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Refinement Concepts",
+      "content": "A practical example demonstrating Refinement Concepts",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "refinement-concepts"
+      ]
+    }
+  ]
+}

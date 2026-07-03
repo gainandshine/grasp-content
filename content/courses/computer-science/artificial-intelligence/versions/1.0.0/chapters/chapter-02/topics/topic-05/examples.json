@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Goal-Based Agents",
+      "content": "A practical example demonstrating Goal-Based Agents",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "goal-based-agents"
+      ]
+    }
+  ]
+}

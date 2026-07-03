@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kingdoms of Life",
+      "content": "A practical example demonstrating Kingdoms of Life",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "kingdoms-of-life"
+      ]
+    }
+  ]
+}

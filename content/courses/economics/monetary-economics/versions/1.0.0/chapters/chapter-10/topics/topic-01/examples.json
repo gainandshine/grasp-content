@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electronic Payments",
+      "content": "A practical example demonstrating Electronic Payments",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "electronic-payments"
+      ]
+    }
+  ]
+}

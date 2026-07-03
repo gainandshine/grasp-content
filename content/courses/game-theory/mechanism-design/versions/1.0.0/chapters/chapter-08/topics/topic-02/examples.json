@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Principal-Agent Problem",
+      "content": "A practical example demonstrating Principal-Agent Problem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "principal-agent-problem"
+      ]
+    }
+  ]
+}

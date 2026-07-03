@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Type Ia Supernovae",
+      "content": "A practical example demonstrating Type Ia Supernovae",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "type-ia-supernovae"
+      ]
+    }
+  ]
+}

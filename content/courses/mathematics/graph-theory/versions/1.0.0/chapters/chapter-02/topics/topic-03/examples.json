@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Incidence Matrix",
+      "content": "A practical example demonstrating Incidence Matrix",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "incidence-matrix"
+      ]
+    }
+  ]
+}

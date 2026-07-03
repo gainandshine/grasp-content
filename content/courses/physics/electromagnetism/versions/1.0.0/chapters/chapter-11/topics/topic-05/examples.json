@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wave Propagation",
+      "content": "A practical example demonstrating Wave Propagation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "wave-propagation"
+      ]
+    }
+  ]
+}

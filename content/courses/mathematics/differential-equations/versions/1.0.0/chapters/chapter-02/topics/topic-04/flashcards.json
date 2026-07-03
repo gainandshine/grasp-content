@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Integrating Factors?",
+      "back": "Integrating Factors is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Integrating Factors important?",
+      "back": "Integrating Factors is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Tangential Velocity?",
+      "back": "Tangential Velocity is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Tangential Velocity important?",
+      "back": "Tangential Velocity is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

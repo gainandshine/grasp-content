@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Mental Health Services",
-  "description": "Learn about Mental Health Services",
-  "conceptId": "psychology.clinical-psychology.chapter-01.topic-04"
+  "topicId": "psychology.clinical-psychology.chapter-01.topic-04",
+  "description": "Learn about Mental Health Services and its applications in psychology.",
+  "content": {
+    "overview": "Mental Health Services is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Mental Health Services. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Mental Health Services requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Mental Health Services is essential for mastering Clinical Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

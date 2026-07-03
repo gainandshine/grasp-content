@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Basic Lists?",
+      "back": "Basic Lists is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Basic Lists important?",
+      "back": "Basic Lists is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

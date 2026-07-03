@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hidden Markov Models (Introduction)",
+      "content": "A practical example demonstrating Hidden Markov Models (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "hidden-markov-models-introduction"
+      ]
+    }
+  ]
+}

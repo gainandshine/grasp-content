@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is API Versioning?",
+      "back": "API Versioning is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is API Versioning important?",
+      "back": "API Versioning is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

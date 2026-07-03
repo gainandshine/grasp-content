@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cell Communication?",
+      "back": "Cell Communication is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cell Communication important?",
+      "back": "Cell Communication is essential for understanding Biology Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

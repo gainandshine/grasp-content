@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Key-Value Stores",
+      "content": "A practical example demonstrating Key-Value Stores",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "key-value-stores"
+      ]
+    }
+  ]
+}

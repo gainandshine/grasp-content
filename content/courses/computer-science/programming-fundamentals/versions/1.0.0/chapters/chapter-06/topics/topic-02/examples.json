@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: do-while Loop",
+      "content": "A practical example demonstrating do-while Loop",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "do-while-loop"
+      ]
+    }
+  ]
+}

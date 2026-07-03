@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 9: Databases**",
+      "content": "A practical example demonstrating *Course 9: Databases**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-9-databases"
+      ]
+    }
+  ]
+}

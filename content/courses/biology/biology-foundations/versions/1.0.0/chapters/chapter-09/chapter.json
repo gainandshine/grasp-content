@@ -2,31 +2,32 @@
   "id": "chapter-09",
   "name": "Homeostasis",
   "description": "Homeostasis",
+  "overview": "This chapter covers the fundamental concepts of Homeostasis.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Homeostasis",
-      "conceptId": "biology.biology-foundations.chapter-09.topic-01"
+      "topicId": "biology.biology-foundations.chapter-09.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Feedback Mechanisms",
-      "conceptId": "biology.biology-foundations.chapter-09.topic-02"
+      "topicId": "biology.biology-foundations.chapter-09.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Internal Environment",
-      "conceptId": "biology.biology-foundations.chapter-09.topic-03"
+      "topicId": "biology.biology-foundations.chapter-09.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Adaptation",
-      "conceptId": "biology.biology-foundations.chapter-09.topic-04"
+      "topicId": "biology.biology-foundations.chapter-09.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Survival",
-      "conceptId": "biology.biology-foundations.chapter-09.topic-05"
+      "topicId": "biology.biology-foundations.chapter-09.topic-05"
     }
   ]
 }

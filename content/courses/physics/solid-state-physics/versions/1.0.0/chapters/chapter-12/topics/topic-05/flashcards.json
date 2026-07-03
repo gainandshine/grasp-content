@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Carbon Nanotubes?",
+      "back": "Carbon Nanotubes is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Carbon Nanotubes important?",
+      "back": "Carbon Nanotubes is essential for understanding Solid State Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

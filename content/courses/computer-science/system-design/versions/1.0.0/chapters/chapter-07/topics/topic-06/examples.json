@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Message Brokers",
+      "content": "A practical example demonstrating Message Brokers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "message-brokers"
+      ]
+    }
+  ]
+}

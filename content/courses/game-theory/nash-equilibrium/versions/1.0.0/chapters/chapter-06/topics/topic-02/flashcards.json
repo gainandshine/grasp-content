@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Finite Games?",
+      "back": "Finite Games is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Finite Games important?",
+      "back": "Finite Games is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

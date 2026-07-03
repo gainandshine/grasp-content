@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: MAC Addresses",
+      "content": "A practical example demonstrating MAC Addresses",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "mac-addresses"
+      ]
+    }
+  ]
+}

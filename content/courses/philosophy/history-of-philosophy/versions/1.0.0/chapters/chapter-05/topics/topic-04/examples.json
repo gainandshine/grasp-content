@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Jewish Philosophy",
+      "content": "A practical example demonstrating Jewish Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "jewish-philosophy"
+      ]
+    }
+  ]
+}

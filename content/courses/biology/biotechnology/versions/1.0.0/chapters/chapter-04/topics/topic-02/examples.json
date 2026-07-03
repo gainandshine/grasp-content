@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Next-Generation Sequencing (NGS)",
+      "content": "A practical example demonstrating Next-Generation Sequencing (NGS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "next-generation-sequencing-ngs"
+      ]
+    }
+  ]
+}

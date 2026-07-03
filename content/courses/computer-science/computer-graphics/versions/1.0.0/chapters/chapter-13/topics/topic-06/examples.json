@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Neural Rendering",
+      "content": "A practical example demonstrating Neural Rendering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "neural-rendering"
+      ]
+    }
+  ]
+}

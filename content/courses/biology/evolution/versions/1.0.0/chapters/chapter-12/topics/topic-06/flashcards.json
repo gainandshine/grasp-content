@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Evolutionary Genomics?",
+      "back": "Evolutionary Genomics is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Evolutionary Genomics important?",
+      "back": "Evolutionary Genomics is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

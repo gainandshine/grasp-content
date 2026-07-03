@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Aldol Condensation",
+      "content": "A practical example demonstrating Aldol Condensation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "aldol-condensation"
+      ]
+    }
+  ]
+}

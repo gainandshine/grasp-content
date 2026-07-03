@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Atomic Emission Spectroscopy (AES)",
+      "content": "A practical example demonstrating Atomic Emission Spectroscopy (AES)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "atomic-emission-spectroscopy-aes"
+      ]
+    }
+  ]
+}

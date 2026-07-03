@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ad Hominem",
+      "content": "A practical example demonstrating Ad Hominem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "ad-hominem"
+      ]
+    }
+  ]
+}

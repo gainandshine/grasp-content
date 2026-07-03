@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Clinical Therapy?",
+      "back": "Clinical Therapy is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Clinical Therapy important?",
+      "back": "Clinical Therapy is essential for understanding Learning & Behavior.",
+      "difficulty": "medium"
+    }
+  ]
+}

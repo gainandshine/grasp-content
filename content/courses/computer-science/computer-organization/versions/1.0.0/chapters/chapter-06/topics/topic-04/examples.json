@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Main Memory (RAM)",
+      "content": "A practical example demonstrating Main Memory (RAM)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "main-memory-ram"
+      ]
+    }
+  ]
+}

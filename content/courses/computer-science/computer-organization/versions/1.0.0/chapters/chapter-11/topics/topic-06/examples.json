@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linking Assembly to High-Level Languages",
+      "content": "A practical example demonstrating Linking Assembly to High-Level Languages",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "linking-assembly-to-high-level-languages"
+      ]
+    }
+  ]
+}

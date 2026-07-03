@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Geometric Distribution?",
+      "back": "Geometric Distribution is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Geometric Distribution important?",
+      "back": "Geometric Distribution is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ocean Currents",
+      "content": "A practical example demonstrating Ocean Currents",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ocean-currents"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mendelian Genetics",
+      "content": "A practical example demonstrating Mendelian Genetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "mendelian-genetics"
+      ]
+    }
+  ]
+}

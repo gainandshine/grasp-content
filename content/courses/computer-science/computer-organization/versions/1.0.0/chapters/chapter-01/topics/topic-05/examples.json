@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Von Neumann Architecture",
+      "content": "A practical example demonstrating Von Neumann Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "von-neumann-architecture"
+      ]
+    }
+  ]
+}

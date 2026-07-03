@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: What is Immunology?",
+      "content": "A practical example demonstrating What is Immunology?",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "what-is-immunology"
+      ]
+    }
+  ]
+}

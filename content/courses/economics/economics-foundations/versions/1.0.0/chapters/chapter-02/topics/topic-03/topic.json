@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Command Economy",
-  "description": "Learn about Command Economy",
-  "conceptId": "economics.economics-foundations.chapter-02.topic-03"
+  "topicId": "economics.economics-foundations.chapter-02.topic-03",
+  "description": "Learn about Command Economy and its applications in economics.",
+  "content": {
+    "overview": "Command Economy is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Command Economy. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Command Economy requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Command Economy is essential for mastering Economics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

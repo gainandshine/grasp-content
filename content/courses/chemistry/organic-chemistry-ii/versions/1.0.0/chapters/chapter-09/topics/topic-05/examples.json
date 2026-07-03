@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Claisen Condensation",
+      "content": "A practical example demonstrating Claisen Condensation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "claisen-condensation"
+      ]
+    }
+  ]
+}

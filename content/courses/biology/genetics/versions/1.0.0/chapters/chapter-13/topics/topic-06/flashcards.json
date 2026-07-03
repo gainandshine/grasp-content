@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Systems Genetics?",
+      "back": "Systems Genetics is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Systems Genetics important?",
+      "back": "Systems Genetics is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

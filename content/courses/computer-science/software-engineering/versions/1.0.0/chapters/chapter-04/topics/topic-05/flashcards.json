@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is State Diagrams?",
+      "back": "State Diagrams is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is State Diagrams important?",
+      "back": "State Diagrams is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

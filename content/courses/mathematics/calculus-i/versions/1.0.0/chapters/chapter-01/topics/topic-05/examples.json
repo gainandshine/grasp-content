@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Limits at Infinity",
+      "content": "A practical example demonstrating Limits at Infinity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "limits-at-infinity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Just-In-Time (JIT) Compilation",
+      "content": "A practical example demonstrating Just-In-Time (JIT) Compilation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "just-in-time-jit-compilation"
+      ]
+    }
+  ]
+}

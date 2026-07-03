@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Instruction Set Architecture (ISA)?",
+      "back": "Instruction Set Architecture (ISA) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Instruction Set Architecture (ISA) important?",
+      "back": "Instruction Set Architecture (ISA) is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

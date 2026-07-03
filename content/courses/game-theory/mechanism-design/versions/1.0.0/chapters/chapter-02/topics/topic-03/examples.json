@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Truthful Reporting",
+      "content": "A practical example demonstrating Truthful Reporting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "truthful-reporting"
+      ]
+    }
+  ]
+}

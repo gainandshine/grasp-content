@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Currency Appreciation",
+      "content": "A practical example demonstrating Currency Appreciation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "currency-appreciation"
+      ]
+    }
+  ]
+}

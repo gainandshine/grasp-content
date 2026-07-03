@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ford-Fulkerson Algorithm?",
+      "back": "Ford-Fulkerson Algorithm is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ford-Fulkerson Algorithm important?",
+      "back": "Ford-Fulkerson Algorithm is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

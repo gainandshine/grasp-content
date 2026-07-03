@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Force Field Families",
+      "content": "A practical example demonstrating Force Field Families",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "force-field-families"
+      ]
+    }
+  ]
+}

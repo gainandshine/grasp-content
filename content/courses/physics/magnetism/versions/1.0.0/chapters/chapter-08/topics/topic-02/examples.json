@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Helical Motion",
+      "content": "A practical example demonstrating Helical Motion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "helical-motion"
+      ]
+    }
+  ]
+}

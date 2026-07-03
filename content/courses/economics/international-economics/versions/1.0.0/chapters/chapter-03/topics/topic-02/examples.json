@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heckscher-Ohlin Model",
+      "content": "A practical example demonstrating Heckscher-Ohlin Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "heckscher-ohlin-model"
+      ]
+    }
+  ]
+}

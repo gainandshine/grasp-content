@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is String Theory (Overview)?",
+      "back": "String Theory (Overview) is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is String Theory (Overview) important?",
+      "back": "String Theory (Overview) is essential for understanding Particle Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "id": "coordination-chemistry",
   "title": "Coordination Chemistry",
-  "description": "This course studies **coordination compounds (metal complexes)**—molecules in which a central metal atom or ion is surrounded by ligands. It is a major branch of inorganic chemistry with applications in medicine, catalysis, biology, and materials science.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:16.066Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.270Z"
 }

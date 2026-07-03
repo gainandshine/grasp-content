@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Topological Sorting",
+      "content": "A practical example demonstrating Topological Sorting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "topological-sorting"
+      ]
+    }
+  ]
+}

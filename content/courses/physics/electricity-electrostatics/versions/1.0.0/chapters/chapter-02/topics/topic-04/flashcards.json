@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multiple Charge Systems?",
+      "back": "Multiple Charge Systems is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multiple Charge Systems important?",
+      "back": "Multiple Charge Systems is essential for understanding Electricity (Electrostatics).",
+      "difficulty": "medium"
+    }
+  ]
+}

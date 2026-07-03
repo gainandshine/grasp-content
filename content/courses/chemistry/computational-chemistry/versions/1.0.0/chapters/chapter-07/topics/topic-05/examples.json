@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Periodic Boundary Conditions",
+      "content": "A practical example demonstrating Periodic Boundary Conditions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "periodic-boundary-conditions"
+      ]
+    }
+  ]
+}

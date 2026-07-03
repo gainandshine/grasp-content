@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bayes' Theorem?",
+      "back": "Bayes' Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bayes' Theorem important?",
+      "back": "Bayes' Theorem is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

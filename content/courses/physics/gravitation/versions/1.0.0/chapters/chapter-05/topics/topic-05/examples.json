@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Low Earth Orbit (LEO)",
+      "content": "A practical example demonstrating Low Earth Orbit (LEO)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "low-earth-orbit-leo"
+      ]
+    }
+  ]
+}

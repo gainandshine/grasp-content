@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Saddle Points",
+      "content": "A practical example demonstrating Saddle Points",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "saddle-points"
+      ]
+    }
+  ]
+}

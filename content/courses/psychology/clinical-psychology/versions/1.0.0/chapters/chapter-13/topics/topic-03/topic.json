@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Artificial Intelligence in Clinical Practice",
-  "description": "Learn about Artificial Intelligence in Clinical Practice",
-  "conceptId": "psychology.clinical-psychology.chapter-13.topic-03"
+  "topicId": "psychology.clinical-psychology.chapter-13.topic-03",
+  "description": "Learn about Artificial Intelligence in Clinical Practice and its applications in psychology.",
+  "content": {
+    "overview": "Artificial Intelligence in Clinical Practice is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Artificial Intelligence in Clinical Practice. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Artificial Intelligence in Clinical Practice requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Artificial Intelligence in Clinical Practice is essential for mastering Clinical Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

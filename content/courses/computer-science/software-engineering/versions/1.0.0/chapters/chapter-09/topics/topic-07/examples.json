@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Continuous Improvement",
+      "content": "A practical example demonstrating Continuous Improvement",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "continuous-improvement"
+      ]
+    }
+  ]
+}

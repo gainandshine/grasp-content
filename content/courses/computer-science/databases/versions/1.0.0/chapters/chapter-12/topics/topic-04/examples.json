@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: SQL Injection",
+      "content": "A practical example demonstrating SQL Injection",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "sql-injection"
+      ]
+    }
+  ]
+}

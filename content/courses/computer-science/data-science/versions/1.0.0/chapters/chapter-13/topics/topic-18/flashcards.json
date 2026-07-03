@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ethical Hacking?",
+      "back": "Ethical Hacking is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ethical Hacking important?",
+      "back": "Ethical Hacking is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

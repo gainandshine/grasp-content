@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dependency Graphs",
+      "content": "A practical example demonstrating Dependency Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "dependency-graphs"
+      ]
+    }
+  ]
+}

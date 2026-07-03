@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Proton NMR (¹H NMR)",
+      "content": "A practical example demonstrating Proton NMR (¹H NMR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "proton-nmr-h-nmr"
+      ]
+    }
+  ]
+}

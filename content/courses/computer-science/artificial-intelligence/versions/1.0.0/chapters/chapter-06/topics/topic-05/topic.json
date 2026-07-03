@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Decision Trees",
-  "description": "Learn about Decision Trees",
-  "conceptId": "computer-science.artificial-intelligence.chapter-06.topic-05"
+  "topicId": "computer-science.artificial-intelligence.chapter-06.topic-05",
+  "description": "Learn about Decision Trees and its applications in computer-science.",
+  "content": {
+    "overview": "Decision Trees is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Decision Trees. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Decision Trees requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Decision Trees is essential for mastering Artificial Intelligence. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

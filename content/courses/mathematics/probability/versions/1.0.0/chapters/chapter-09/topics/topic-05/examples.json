@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Central Limit Theorem",
+      "content": "A practical example demonstrating Central Limit Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "central-limit-theorem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cosmological Constant",
+      "content": "A practical example demonstrating Cosmological Constant",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "cosmological-constant"
+      ]
+    }
+  ]
+}

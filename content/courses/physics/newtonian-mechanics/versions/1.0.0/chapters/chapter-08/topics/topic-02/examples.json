@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Banking of Roads",
+      "content": "A practical example demonstrating Banking of Roads",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "banking-of-roads"
+      ]
+    }
+  ]
+}

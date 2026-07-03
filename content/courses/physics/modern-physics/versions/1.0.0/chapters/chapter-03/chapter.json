@@ -2,36 +2,37 @@
   "id": "chapter-03",
   "name": "General Relativity",
   "description": "General Relativity",
+  "overview": "This chapter covers the fundamental concepts of General Relativity.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Curved Spacetime",
-      "conceptId": "physics.modern-physics.chapter-03.topic-01"
+      "topicId": "physics.modern-physics.chapter-03.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Gravity as Geometry",
-      "conceptId": "physics.modern-physics.chapter-03.topic-02"
+      "topicId": "physics.modern-physics.chapter-03.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Geodesics",
-      "conceptId": "physics.modern-physics.chapter-03.topic-03"
+      "topicId": "physics.modern-physics.chapter-03.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Gravitational Time Dilation",
-      "conceptId": "physics.modern-physics.chapter-03.topic-04"
+      "topicId": "physics.modern-physics.chapter-03.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Black Holes",
-      "conceptId": "physics.modern-physics.chapter-03.topic-05"
+      "topicId": "physics.modern-physics.chapter-03.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Gravitational Waves",
-      "conceptId": "physics.modern-physics.chapter-03.topic-06"
+      "topicId": "physics.modern-physics.chapter-03.topic-06"
     }
   ]
 }

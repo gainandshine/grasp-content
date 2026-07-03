@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hydrolysis of Salts?",
+      "back": "Hydrolysis of Salts is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hydrolysis of Salts important?",
+      "back": "Hydrolysis of Salts is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

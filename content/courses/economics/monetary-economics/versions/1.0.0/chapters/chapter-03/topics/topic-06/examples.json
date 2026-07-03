@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bank Balance Sheets",
+      "content": "A practical example demonstrating Bank Balance Sheets",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "bank-balance-sheets"
+      ]
+    }
+  ]
+}

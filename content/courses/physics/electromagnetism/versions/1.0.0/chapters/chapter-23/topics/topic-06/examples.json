@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wheatstone Bridge",
+      "content": "A practical example demonstrating Wheatstone Bridge",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "wheatstone-bridge"
+      ]
+    }
+  ]
+}

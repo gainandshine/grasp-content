@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Employee Motivation",
+      "content": "A practical example demonstrating Employee Motivation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "employee-motivation"
+      ]
+    }
+  ]
+}

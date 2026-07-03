@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Valence Bond Theory",
+      "content": "A practical example demonstrating Valence Bond Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "valence-bond-theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kirchhoff's Current Law (KCL)",
+      "content": "A practical example demonstrating Kirchhoff's Current Law (KCL)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "kirchhoffs-current-law-kcl"
+      ]
+    }
+  ]
+}

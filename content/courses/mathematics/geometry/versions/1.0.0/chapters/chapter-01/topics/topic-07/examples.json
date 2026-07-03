@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coplanar Points",
+      "content": "A practical example demonstrating Coplanar Points",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "coplanar-points"
+      ]
+    }
+  ]
+}

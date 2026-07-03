@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Doubly Linked Lists?",
+      "back": "Doubly Linked Lists is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Doubly Linked Lists important?",
+      "back": "Doubly Linked Lists is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

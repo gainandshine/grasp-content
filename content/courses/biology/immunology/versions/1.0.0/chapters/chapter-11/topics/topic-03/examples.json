@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Flow Cytometry",
+      "content": "A practical example demonstrating Flow Cytometry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "flow-cytometry"
+      ]
+    }
+  ]
+}

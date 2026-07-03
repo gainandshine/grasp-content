@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cooperative Game Representation",
+      "content": "A practical example demonstrating Cooperative Game Representation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "cooperative-game-representation"
+      ]
+    }
+  ]
+}

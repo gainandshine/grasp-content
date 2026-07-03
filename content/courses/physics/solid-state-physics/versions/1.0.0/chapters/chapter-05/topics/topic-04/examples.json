@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fermi Energy",
+      "content": "A practical example demonstrating Fermi Energy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "fermi-energy"
+      ]
+    }
+  ]
+}

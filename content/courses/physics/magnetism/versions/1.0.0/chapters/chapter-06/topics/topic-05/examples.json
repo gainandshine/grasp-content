@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: B-H Curve",
+      "content": "A practical example demonstrating B-H Curve",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "b-h-curve"
+      ]
+    }
+  ]
+}

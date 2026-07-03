@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Jean-Jacques Rousseau",
+      "content": "A practical example demonstrating Jean-Jacques Rousseau",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "jean-jacques-rousseau"
+      ]
+    }
+  ]
+}

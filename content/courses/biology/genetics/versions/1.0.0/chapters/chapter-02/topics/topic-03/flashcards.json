@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Law of Independent Assortment?",
+      "back": "Law of Independent Assortment is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Law of Independent Assortment important?",
+      "back": "Law of Independent Assortment is essential for understanding Genetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

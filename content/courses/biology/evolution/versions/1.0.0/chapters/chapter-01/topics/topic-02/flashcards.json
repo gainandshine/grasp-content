@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is History of Evolutionary Thought?",
+      "back": "History of Evolutionary Thought is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is History of Evolutionary Thought important?",
+      "back": "History of Evolutionary Thought is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

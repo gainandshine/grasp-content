@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Reluctance?",
+      "back": "Reluctance is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Reluctance important?",
+      "back": "Reluctance is essential for understanding Magnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

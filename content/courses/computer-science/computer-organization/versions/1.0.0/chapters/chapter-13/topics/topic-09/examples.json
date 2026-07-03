@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Operating System Fundamentals",
+      "content": "A practical example demonstrating Operating System Fundamentals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "operating-system-fundamentals"
+      ]
+    }
+  ]
+}

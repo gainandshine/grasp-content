@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Recycling Technologies",
+      "content": "A practical example demonstrating Recycling Technologies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "recycling-technologies"
+      ]
+    }
+  ]
+}

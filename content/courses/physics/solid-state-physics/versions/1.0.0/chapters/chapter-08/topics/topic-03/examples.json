@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Zener Diodes",
+      "content": "A practical example demonstrating Zener Diodes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "zener-diodes"
+      ]
+    }
+  ]
+}

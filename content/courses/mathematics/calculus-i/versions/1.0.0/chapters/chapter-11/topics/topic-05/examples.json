@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Simpson's Rule",
+      "content": "A practical example demonstrating Simpson's Rule",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "simpsons-rule"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graph Plotting",
+      "content": "A practical example demonstrating Graph Plotting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "graph-plotting"
+      ]
+    }
+  ]
+}

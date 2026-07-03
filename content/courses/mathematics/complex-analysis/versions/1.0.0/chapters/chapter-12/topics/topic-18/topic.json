@@ -1,6 +1,16 @@
 {
   "id": "topic-18",
   "name": "Lie Groups & Lie Algebras",
-  "description": "Learn about Lie Groups & Lie Algebras",
-  "conceptId": "mathematics.complex-analysis.chapter-12.topic-18"
+  "topicId": "mathematics.complex-analysis.chapter-12.topic-18",
+  "description": "Learn about Lie Groups & Lie Algebras and its applications in mathematics.",
+  "content": {
+    "overview": "Lie Groups & Lie Algebras is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Lie Groups & Lie Algebras. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Lie Groups & Lie Algebras requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Lie Groups & Lie Algebras is essential for mastering Complex Analysis. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

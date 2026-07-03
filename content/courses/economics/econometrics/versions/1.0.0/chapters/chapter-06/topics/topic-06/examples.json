@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Diagnostic Tests",
+      "content": "A practical example demonstrating Diagnostic Tests",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "diagnostic-tests"
+      ]
+    }
+  ]
+}

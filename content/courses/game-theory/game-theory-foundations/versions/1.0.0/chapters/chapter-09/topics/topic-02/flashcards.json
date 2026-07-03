@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stag Hunt?",
+      "back": "Stag Hunt is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stag Hunt important?",
+      "back": "Stag Hunt is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

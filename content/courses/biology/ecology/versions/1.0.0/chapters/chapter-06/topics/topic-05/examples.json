@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Endangered Species",
+      "content": "A practical example demonstrating Endangered Species",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "endangered-species"
+      ]
+    }
+  ]
+}

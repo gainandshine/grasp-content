@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time-Independent Schrödinger Equation",
+      "content": "A practical example demonstrating Time-Independent Schrödinger Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "time-independent-schrdinger-equation"
+      ]
+    }
+  ]
+}

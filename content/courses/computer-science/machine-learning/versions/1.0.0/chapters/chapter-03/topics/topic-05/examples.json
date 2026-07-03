@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: k-Nearest Neighbors (k-NN)",
+      "content": "A practical example demonstrating k-Nearest Neighbors (k-NN)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "k-nearest-neighbors-k-nn"
+      ]
+    }
+  ]
+}

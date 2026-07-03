@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Strategy-Proof Mechanisms?",
+      "back": "Strategy-Proof Mechanisms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Strategy-Proof Mechanisms important?",
+      "back": "Strategy-Proof Mechanisms is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

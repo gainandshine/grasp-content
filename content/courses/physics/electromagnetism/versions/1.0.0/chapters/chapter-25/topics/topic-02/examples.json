@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electronic Circuits",
+      "content": "A practical example demonstrating Electronic Circuits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "electronic-circuits"
+      ]
+    }
+  ]
+}

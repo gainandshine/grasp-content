@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Content Delivery Networks (CDNs)",
+      "content": "A practical example demonstrating Content Delivery Networks (CDNs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "content-delivery-networks-cdns"
+      ]
+    }
+  ]
+}

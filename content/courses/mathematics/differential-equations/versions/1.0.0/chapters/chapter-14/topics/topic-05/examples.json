@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fluid Mechanics",
+      "content": "A practical example demonstrating Fluid Mechanics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "fluid-mechanics"
+      ]
+    }
+  ]
+}

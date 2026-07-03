@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multicollinearity",
+      "content": "A practical example demonstrating Multicollinearity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "multicollinearity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Medicine?",
+      "back": "Medicine is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Medicine important?",
+      "back": "Medicine is essential for understanding Coordination Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

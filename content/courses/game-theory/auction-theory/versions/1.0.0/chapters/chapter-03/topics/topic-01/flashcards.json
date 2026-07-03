@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ascending-Bid Auctions?",
+      "back": "Ascending-Bid Auctions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ascending-Bid Auctions important?",
+      "back": "Ascending-Bid Auctions is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Equipartition Theorem",
+      "content": "A practical example demonstrating Equipartition Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "equipartition-theorem"
+      ]
+    }
+  ]
+}

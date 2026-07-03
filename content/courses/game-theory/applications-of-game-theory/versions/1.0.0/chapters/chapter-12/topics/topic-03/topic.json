@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Smart Cities",
-  "description": "Learn about Smart Cities",
-  "conceptId": "game-theory.applications-of-game-theory.chapter-12.topic-03"
+  "topicId": "game-theory.applications-of-game-theory.chapter-12.topic-03",
+  "description": "Learn about Smart Cities and its applications in game-theory.",
+  "content": {
+    "overview": "Smart Cities is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Smart Cities. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Smart Cities requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Smart Cities is essential for mastering Applications of Game Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

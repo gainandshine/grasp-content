@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Relative Velocity",
+      "content": "A practical example demonstrating Relative Velocity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "relative-velocity"
+      ]
+    }
+  ]
+}

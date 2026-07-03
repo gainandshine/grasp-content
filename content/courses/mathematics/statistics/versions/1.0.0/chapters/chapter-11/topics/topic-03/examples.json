@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Polynomial Regression",
+      "content": "A practical example demonstrating Polynomial Regression",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "polynomial-regression"
+      ]
+    }
+  ]
+}

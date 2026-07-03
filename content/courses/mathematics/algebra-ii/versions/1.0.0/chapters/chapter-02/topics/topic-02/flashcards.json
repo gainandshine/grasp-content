@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Complex Numbers?",
+      "back": "Complex Numbers is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Complex Numbers important?",
+      "back": "Complex Numbers is essential for understanding Algebra II.",
+      "difficulty": "medium"
+    }
+  ]
+}

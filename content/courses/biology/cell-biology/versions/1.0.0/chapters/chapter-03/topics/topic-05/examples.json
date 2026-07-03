@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Golgi Apparatus",
+      "content": "A practical example demonstrating Golgi Apparatus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "golgi-apparatus"
+      ]
+    }
+  ]
+}

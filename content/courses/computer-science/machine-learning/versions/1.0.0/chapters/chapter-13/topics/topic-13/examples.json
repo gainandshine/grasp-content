@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Statistics for Data Science",
+      "content": "A practical example demonstrating Statistics for Data Science",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "statistics-for-data-science"
+      ]
+    }
+  ]
+}

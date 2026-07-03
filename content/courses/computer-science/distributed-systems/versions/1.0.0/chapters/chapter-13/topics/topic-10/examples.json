@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Syntax Analysis",
+      "content": "A practical example demonstrating Syntax Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "syntax-analysis"
+      ]
+    }
+  ]
+}

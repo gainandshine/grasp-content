@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Algorithmic Auctions",
+      "content": "A practical example demonstrating Algorithmic Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "algorithmic-auctions"
+      ]
+    }
+  ]
+}

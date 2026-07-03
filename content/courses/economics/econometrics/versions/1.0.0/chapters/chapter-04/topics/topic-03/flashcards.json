@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Interaction Terms?",
+      "back": "Interaction Terms is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Interaction Terms important?",
+      "back": "Interaction Terms is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

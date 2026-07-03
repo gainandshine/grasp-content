@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Virtual Memory",
+      "content": "A practical example demonstrating Virtual Memory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "virtual-memory"
+      ]
+    }
+  ]
+}

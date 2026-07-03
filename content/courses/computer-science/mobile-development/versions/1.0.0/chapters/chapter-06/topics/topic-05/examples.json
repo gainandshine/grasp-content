@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: File Uploads",
+      "content": "A practical example demonstrating File Uploads",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "file-uploads"
+      ]
+    }
+  ]
+}

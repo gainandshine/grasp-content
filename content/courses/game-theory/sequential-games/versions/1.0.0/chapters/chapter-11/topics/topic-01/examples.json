@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Business Negotiation",
+      "content": "A practical example demonstrating Business Negotiation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "business-negotiation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electromagnetic Field Theory?",
+      "back": "Electromagnetic Field Theory is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electromagnetic Field Theory important?",
+      "back": "Electromagnetic Field Theory is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

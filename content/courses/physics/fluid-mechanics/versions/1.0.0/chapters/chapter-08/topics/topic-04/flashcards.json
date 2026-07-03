@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Soap Films?",
+      "back": "Soap Films is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Soap Films important?",
+      "back": "Soap Films is essential for understanding Fluid Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

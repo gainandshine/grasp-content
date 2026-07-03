@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cauchy's Integral Theorem?",
+      "back": "Cauchy's Integral Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cauchy's Integral Theorem important?",
+      "back": "Cauchy's Integral Theorem is essential for understanding Complex Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

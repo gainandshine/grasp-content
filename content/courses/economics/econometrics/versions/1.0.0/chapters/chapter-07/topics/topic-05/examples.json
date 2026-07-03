@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Autoregressive Models",
+      "content": "A practical example demonstrating Autoregressive Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "autoregressive-models"
+      ]
+    }
+  ]
+}

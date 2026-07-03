@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Applications of Econometrics?",
+      "back": "Applications of Econometrics is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Applications of Econometrics important?",
+      "back": "Applications of Econometrics is essential for understanding Econometrics.",
+      "difficulty": "medium"
+    }
+  ]
+}

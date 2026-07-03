@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Projectile Trajectory",
+      "content": "A practical example demonstrating Projectile Trajectory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "projectile-trajectory"
+      ]
+    }
+  ]
+}

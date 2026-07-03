@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quotient Rings",
+      "content": "A practical example demonstrating Quotient Rings",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "quotient-rings"
+      ]
+    }
+  ]
+}

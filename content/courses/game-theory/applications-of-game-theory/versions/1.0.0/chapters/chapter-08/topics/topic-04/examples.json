@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Animal Behavior",
+      "content": "A practical example demonstrating Animal Behavior",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "animal-behavior"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enthalpy of Atomization",
+      "content": "A practical example demonstrating Enthalpy of Atomization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "enthalpy-of-atomization"
+      ]
+    }
+  ]
+}

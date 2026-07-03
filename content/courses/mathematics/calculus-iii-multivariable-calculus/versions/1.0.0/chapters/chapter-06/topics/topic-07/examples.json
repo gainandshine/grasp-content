@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linear Approximation",
+      "content": "A practical example demonstrating Linear Approximation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "linear-approximation"
+      ]
+    }
+  ]
+}

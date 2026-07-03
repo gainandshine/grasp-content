@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Planet Formation",
+      "content": "A practical example demonstrating Planet Formation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "planet-formation"
+      ]
+    }
+  ]
+}

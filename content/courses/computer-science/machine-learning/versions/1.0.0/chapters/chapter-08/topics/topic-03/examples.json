@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Recurrent Neural Networks (RNNs)",
+      "content": "A practical example demonstrating Recurrent Neural Networks (RNNs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "recurrent-neural-networks-rnns"
+      ]
+    }
+  ]
+}

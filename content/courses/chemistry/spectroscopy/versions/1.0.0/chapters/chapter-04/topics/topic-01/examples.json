@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Infrared Radiation",
+      "content": "A practical example demonstrating Infrared Radiation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "infrared-radiation"
+      ]
+    }
+  ]
+}

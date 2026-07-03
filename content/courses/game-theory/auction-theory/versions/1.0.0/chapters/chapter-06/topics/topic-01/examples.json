@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Optimal Bidding",
+      "content": "A practical example demonstrating Optimal Bidding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "optimal-bidding"
+      ]
+    }
+  ]
+}

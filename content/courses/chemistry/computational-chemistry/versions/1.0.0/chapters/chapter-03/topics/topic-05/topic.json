@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Potential Energy Surfaces",
-  "description": "Learn about Potential Energy Surfaces",
-  "conceptId": "chemistry.computational-chemistry.chapter-03.topic-05"
+  "topicId": "chemistry.computational-chemistry.chapter-03.topic-05",
+  "description": "Learn about Potential Energy Surfaces and its applications in chemistry.",
+  "content": {
+    "overview": "Potential Energy Surfaces is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Potential Energy Surfaces. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Potential Energy Surfaces requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Potential Energy Surfaces is essential for mastering Computational Chemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

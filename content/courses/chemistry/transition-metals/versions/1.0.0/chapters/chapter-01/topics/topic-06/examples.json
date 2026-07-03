@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Electronic Configuration",
+      "content": "A practical example demonstrating Electronic Configuration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "electronic-configuration"
+      ]
+    }
+  ]
+}

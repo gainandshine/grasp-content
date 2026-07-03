@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Post-Hartree-Fock Methods?",
+      "back": "Post-Hartree-Fock Methods is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Post-Hartree-Fock Methods important?",
+      "back": "Post-Hartree-Fock Methods is essential for understanding Computational Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

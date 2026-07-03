@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Michaelis-Menten Equation",
+      "content": "A practical example demonstrating Michaelis-Menten Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "michaelis-menten-equation"
+      ]
+    }
+  ]
+}

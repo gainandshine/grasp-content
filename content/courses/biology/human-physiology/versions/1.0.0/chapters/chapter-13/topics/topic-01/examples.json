@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cardiovascular Disease",
+      "content": "A practical example demonstrating Cardiovascular Disease",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cardiovascular-disease"
+      ]
+    }
+  ]
+}

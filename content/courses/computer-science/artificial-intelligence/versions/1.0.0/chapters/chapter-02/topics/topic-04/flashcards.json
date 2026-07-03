@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Reflex Agents?",
+      "back": "Reflex Agents is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Reflex Agents important?",
+      "back": "Reflex Agents is essential for understanding Artificial Intelligence.",
+      "difficulty": "medium"
+    }
+  ]
+}

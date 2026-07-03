@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Portfolio Investment",
+      "content": "A practical example demonstrating Portfolio Investment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "portfolio-investment"
+      ]
+    }
+  ]
+}

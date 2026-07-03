@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Photoelectrochemistry",
+      "content": "A practical example demonstrating Photoelectrochemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "photoelectrochemistry"
+      ]
+    }
+  ]
+}

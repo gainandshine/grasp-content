@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Evolutionary Cooperation?",
+      "back": "Evolutionary Cooperation is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Evolutionary Cooperation important?",
+      "back": "Evolutionary Cooperation is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

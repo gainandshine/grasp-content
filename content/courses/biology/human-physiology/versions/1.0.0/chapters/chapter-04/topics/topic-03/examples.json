@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Blood Pressure",
+      "content": "A practical example demonstrating Blood Pressure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "blood-pressure"
+      ]
+    }
+  ]
+}

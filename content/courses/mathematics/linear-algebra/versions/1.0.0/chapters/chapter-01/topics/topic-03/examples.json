@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gaussian Elimination",
+      "content": "A practical example demonstrating Gaussian Elimination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "gaussian-elimination"
+      ]
+    }
+  ]
+}

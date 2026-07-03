@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Climate Chemistry",
+      "content": "A practical example demonstrating Climate Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "climate-chemistry"
+      ]
+    }
+  ]
+}

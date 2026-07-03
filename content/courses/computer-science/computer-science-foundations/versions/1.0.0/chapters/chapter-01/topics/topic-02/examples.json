@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: History of Computing",
+      "content": "A practical example demonstrating History of Computing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "history-of-computing"
+      ]
+    }
+  ]
+}

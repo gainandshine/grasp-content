@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Power Factor",
+      "content": "A practical example demonstrating Power Factor",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "power-factor"
+      ]
+    }
+  ]
+}

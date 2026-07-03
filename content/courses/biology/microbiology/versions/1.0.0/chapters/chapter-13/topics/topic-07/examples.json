@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 9: Immunology**",
+      "content": "A practical example demonstrating *Course 9: Immunology**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "course-9-immunology"
+      ]
+    }
+  ]
+}

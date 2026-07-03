@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Johann Fichte",
+      "content": "A practical example demonstrating Johann Fichte",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "johann-fichte"
+      ]
+    }
+  ]
+}

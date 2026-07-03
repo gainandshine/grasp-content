@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Relative Motion in 2D",
+      "content": "A practical example demonstrating Relative Motion in 2D",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "relative-motion-in-2d"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Analytic Continuation",
+      "content": "A practical example demonstrating Analytic Continuation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "analytic-continuation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Balancing Equations",
+      "content": "A practical example demonstrating Balancing Equations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "balancing-equations"
+      ]
+    }
+  ]
+}

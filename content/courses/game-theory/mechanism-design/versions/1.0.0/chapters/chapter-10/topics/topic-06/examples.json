@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Automated Decision Systems",
+      "content": "A practical example demonstrating Automated Decision Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "automated-decision-systems"
+      ]
+    }
+  ]
+}

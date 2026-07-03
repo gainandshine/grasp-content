@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dimensional Checking",
+      "content": "A practical example demonstrating Dimensional Checking",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dimensional-checking"
+      ]
+    }
+  ]
+}

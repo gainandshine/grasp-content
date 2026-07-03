@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Control Groups (cgroups)?",
+      "back": "Control Groups (cgroups) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Control Groups (cgroups) important?",
+      "back": "Control Groups (cgroups) is essential for understanding Operating Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

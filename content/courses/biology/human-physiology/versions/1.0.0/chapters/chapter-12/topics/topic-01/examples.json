@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Exercise Physiology",
+      "content": "A practical example demonstrating Exercise Physiology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "exercise-physiology"
+      ]
+    }
+  ]
+}

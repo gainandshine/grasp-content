@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: How the Web Works",
+      "content": "A practical example demonstrating How the Web Works",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "how-the-web-works"
+      ]
+    }
+  ]
+}

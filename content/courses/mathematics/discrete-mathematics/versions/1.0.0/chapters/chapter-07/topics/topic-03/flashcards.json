@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Binomial Theorem?",
+      "back": "Binomial Theorem is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Binomial Theorem important?",
+      "back": "Binomial Theorem is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Right-Hand Rule?",
+      "back": "Right-Hand Rule is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Right-Hand Rule important?",
+      "back": "Right-Hand Rule is essential for understanding Magnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Human Eye",
+      "content": "A practical example demonstrating Human Eye",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "human-eye"
+      ]
+    }
+  ]
+}

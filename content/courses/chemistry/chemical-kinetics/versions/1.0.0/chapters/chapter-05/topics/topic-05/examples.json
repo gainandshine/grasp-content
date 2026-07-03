@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Steric Factor",
+      "content": "A practical example demonstrating Steric Factor",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "steric-factor"
+      ]
+    }
+  ]
+}

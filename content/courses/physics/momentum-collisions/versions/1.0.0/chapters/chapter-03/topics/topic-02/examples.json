@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Elastic Collisions",
+      "content": "A practical example demonstrating Elastic Collisions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "elastic-collisions"
+      ]
+    }
+  ]
+}

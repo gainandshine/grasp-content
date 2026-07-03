@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Climate Change",
+      "content": "A practical example demonstrating Climate Change",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "climate-change"
+      ]
+    }
+  ]
+}

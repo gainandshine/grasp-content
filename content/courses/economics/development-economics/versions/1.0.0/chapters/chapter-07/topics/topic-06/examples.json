@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Smart Cities",
+      "content": "A practical example demonstrating Smart Cities",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "smart-cities"
+      ]
+    }
+  ]
+}

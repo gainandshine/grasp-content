@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Van Allen Radiation Belts",
+      "content": "A practical example demonstrating Van Allen Radiation Belts",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "van-allen-radiation-belts"
+      ]
+    }
+  ]
+}

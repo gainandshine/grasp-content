@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Food Quality Control",
+      "content": "A practical example demonstrating Food Quality Control",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "food-quality-control"
+      ]
+    }
+  ]
+}

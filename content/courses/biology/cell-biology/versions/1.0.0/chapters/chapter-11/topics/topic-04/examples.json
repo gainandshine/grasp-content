@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cell Staining",
+      "content": "A practical example demonstrating Cell Staining",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cell-staining"
+      ]
+    }
+  ]
+}

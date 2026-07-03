@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Emission Spectra",
+      "content": "A practical example demonstrating Emission Spectra",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "emission-spectra"
+      ]
+    }
+  ]
+}

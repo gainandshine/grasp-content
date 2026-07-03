@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: QR Decomposition",
+      "content": "A practical example demonstrating QR Decomposition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "qr-decomposition"
+      ]
+    }
+  ]
+}

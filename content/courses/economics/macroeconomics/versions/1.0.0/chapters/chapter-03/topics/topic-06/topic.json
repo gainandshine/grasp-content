@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Sustainable Growth",
-  "description": "Learn about Sustainable Growth",
-  "conceptId": "economics.macroeconomics.chapter-03.topic-06"
+  "topicId": "economics.macroeconomics.chapter-03.topic-06",
+  "description": "Learn about Sustainable Growth and its applications in economics.",
+  "content": {
+    "overview": "Sustainable Growth is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Sustainable Growth. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Sustainable Growth requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Sustainable Growth is essential for mastering Macroeconomics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

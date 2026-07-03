@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Manufacturing",
+      "content": "A practical example demonstrating Manufacturing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "manufacturing"
+      ]
+    }
+  ]
+}

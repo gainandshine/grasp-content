@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thin Lens Equation",
+      "content": "A practical example demonstrating Thin Lens Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "thin-lens-equation"
+      ]
+    }
+  ]
+}

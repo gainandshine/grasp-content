@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Baryon Acoustic Oscillations",
+      "content": "A practical example demonstrating Baryon Acoustic Oscillations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "baryon-acoustic-oscillations"
+      ]
+    }
+  ]
+}

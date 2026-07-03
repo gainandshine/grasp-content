@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DNA Fingerprinting",
+      "content": "A practical example demonstrating DNA Fingerprinting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "dna-fingerprinting"
+      ]
+    }
+  ]
+}

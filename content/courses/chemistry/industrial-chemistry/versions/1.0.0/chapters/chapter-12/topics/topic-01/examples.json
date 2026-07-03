@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Manufacturing",
+      "content": "A practical example demonstrating Chemical Manufacturing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "chemical-manufacturing"
+      ]
+    }
+  ]
+}

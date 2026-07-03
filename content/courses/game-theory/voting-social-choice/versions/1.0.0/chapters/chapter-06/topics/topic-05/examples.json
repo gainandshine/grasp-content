@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gibbard-Satterthwaite Theorem",
+      "content": "A practical example demonstrating Gibbard-Satterthwaite Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "gibbard-satterthwaite-theorem"
+      ]
+    }
+  ]
+}

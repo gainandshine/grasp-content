@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Copper Cables",
+      "content": "A practical example demonstrating Copper Cables",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "copper-cables"
+      ]
+    }
+  ]
+}

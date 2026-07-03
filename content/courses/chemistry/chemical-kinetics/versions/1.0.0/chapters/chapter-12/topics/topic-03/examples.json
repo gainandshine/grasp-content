@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Photochemical Kinetics",
+      "content": "A practical example demonstrating Photochemical Kinetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "photochemical-kinetics"
+      ]
+    }
+  ]
+}

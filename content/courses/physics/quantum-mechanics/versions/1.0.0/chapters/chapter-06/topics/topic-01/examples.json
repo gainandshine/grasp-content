@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Particle in a Box",
+      "content": "A practical example demonstrating Particle in a Box",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "particle-in-a-box"
+      ]
+    }
+  ]
+}

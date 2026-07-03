@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Paths Through a Game",
+      "content": "A practical example demonstrating Paths Through a Game",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "paths-through-a-game"
+      ]
+    }
+  ]
+}

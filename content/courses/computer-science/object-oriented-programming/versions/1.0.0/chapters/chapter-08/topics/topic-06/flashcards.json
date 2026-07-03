@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is UML Class Diagrams (Introduction)?",
+      "back": "UML Class Diagrams (Introduction) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is UML Class Diagrams (Introduction) important?",
+      "back": "UML Class Diagrams (Introduction) is essential for understanding Object-Oriented Programming.",
+      "difficulty": "medium"
+    }
+  ]
+}

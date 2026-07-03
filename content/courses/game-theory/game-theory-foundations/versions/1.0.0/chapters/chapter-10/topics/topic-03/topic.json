@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Complete Information",
-  "description": "Learn about Complete Information",
-  "conceptId": "game-theory.game-theory-foundations.chapter-10.topic-03"
+  "topicId": "game-theory.game-theory-foundations.chapter-10.topic-03",
+  "description": "Learn about Complete Information and its applications in game-theory.",
+  "content": {
+    "overview": "Complete Information is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Complete Information. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Complete Information requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Complete Information is essential for mastering Game Theory Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

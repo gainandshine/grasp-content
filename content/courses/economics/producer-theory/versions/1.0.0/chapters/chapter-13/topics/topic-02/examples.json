@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Operations Research",
+      "content": "A practical example demonstrating Operations Research",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "operations-research"
+      ]
+    }
+  ]
+}

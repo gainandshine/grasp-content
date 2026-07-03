@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: GraphQL (Introduction)",
+      "content": "A practical example demonstrating GraphQL (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "graphql-introduction"
+      ]
+    }
+  ]
+}

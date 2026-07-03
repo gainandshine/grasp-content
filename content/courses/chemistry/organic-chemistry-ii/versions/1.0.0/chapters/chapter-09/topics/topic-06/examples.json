@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Diels-Alder Reaction",
+      "content": "A practical example demonstrating Diels-Alder Reaction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "diels-alder-reaction"
+      ]
+    }
+  ]
+}

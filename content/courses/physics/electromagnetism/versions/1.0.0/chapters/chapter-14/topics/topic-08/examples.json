@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Circuit Symbols",
+      "content": "A practical example demonstrating Circuit Symbols",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "circuit-symbols"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mass Spectrometry (Introduction)",
+      "content": "A practical example demonstrating Mass Spectrometry (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "mass-spectrometry-introduction"
+      ]
+    }
+  ]
+}

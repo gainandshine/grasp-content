@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Liquid Crystals",
+      "content": "A practical example demonstrating Liquid Crystals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "liquid-crystals"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: I/O Controllers",
+      "content": "A practical example demonstrating I/O Controllers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "io-controllers"
+      ]
+    }
+  ]
+}

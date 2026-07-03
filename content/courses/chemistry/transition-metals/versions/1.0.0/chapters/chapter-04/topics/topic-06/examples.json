@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Alloy Formation",
+      "content": "A practical example demonstrating Alloy Formation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "alloy-formation"
+      ]
+    }
+  ]
+}

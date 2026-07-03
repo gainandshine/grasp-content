@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is What is an Algorithm??",
+      "back": "What is an Algorithm? is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is What is an Algorithm? important?",
+      "back": "What is an Algorithm? is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

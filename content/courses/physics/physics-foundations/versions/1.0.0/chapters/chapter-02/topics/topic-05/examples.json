@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dimensional Analysis",
+      "content": "A practical example demonstrating Dimensional Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "dimensional-analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Specific Heat Capacity?",
+      "back": "Specific Heat Capacity is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Specific Heat Capacity important?",
+      "back": "Specific Heat Capacity is essential for understanding Thermodynamics.",
+      "difficulty": "medium"
+    }
+  ]
+}

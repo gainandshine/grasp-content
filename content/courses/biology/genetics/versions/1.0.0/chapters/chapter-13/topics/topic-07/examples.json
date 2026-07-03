@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 5: Evolution**",
+      "content": "A practical example demonstrating *Course 5: Evolution**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "course-5-evolution"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Solving Game Trees",
+      "content": "A practical example demonstrating Solving Game Trees",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "solving-game-trees"
+      ]
+    }
+  ]
+}

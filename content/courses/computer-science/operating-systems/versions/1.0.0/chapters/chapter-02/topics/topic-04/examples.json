@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Process Creation & Termination",
+      "content": "A practical example demonstrating Process Creation & Termination",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "process-creation-termination"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Digital Rights",
+      "content": "A practical example demonstrating Digital Rights",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "digital-rights"
+      ]
+    }
+  ]
+}

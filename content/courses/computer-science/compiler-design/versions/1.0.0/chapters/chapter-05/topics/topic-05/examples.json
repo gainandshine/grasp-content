@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Intermediate Representations (IR)",
+      "content": "A practical example demonstrating Intermediate Representations (IR)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "intermediate-representations-ir"
+      ]
+    }
+  ]
+}

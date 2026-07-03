@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: First-Mover Commitment",
+      "content": "A practical example demonstrating First-Mover Commitment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "first-mover-commitment"
+      ]
+    }
+  ]
+}

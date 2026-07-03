@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Avogadro's Law",
+      "content": "A practical example demonstrating Avogadro's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "avogadros-law"
+      ]
+    }
+  ]
+}

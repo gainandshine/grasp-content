@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Genome Engineering",
+      "content": "A practical example demonstrating Genome Engineering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "genome-engineering"
+      ]
+    }
+  ]
+}

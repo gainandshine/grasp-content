@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: macOS Architecture",
+      "content": "A practical example demonstrating macOS Architecture",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "macos-architecture"
+      ]
+    }
+  ]
+}

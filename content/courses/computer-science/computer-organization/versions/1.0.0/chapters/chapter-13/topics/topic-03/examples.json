@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mobile Devices",
+      "content": "A practical example demonstrating Mobile Devices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "mobile-devices"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heat Transfer (q)",
+      "content": "A practical example demonstrating Heat Transfer (q)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "heat-transfer-q"
+      ]
+    }
+  ]
+}

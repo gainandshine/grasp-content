@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radiation Detection",
+      "content": "A practical example demonstrating Radiation Detection",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radiation-detection"
+      ]
+    }
+  ]
+}

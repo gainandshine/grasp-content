@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Zero Matrix",
+      "content": "A practical example demonstrating Zero Matrix",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "zero-matrix"
+      ]
+    }
+  ]
+}

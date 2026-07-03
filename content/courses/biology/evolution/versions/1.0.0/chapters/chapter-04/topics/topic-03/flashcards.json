@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Allele Frequencies?",
+      "back": "Allele Frequencies is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Allele Frequencies important?",
+      "back": "Allele Frequencies is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

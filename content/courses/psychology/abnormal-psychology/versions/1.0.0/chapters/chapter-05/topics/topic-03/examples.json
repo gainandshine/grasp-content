@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bipolar Disorder",
+      "content": "A practical example demonstrating Bipolar Disorder",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "bipolar-disorder"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Chemical Hazards?",
+      "back": "Chemical Hazards is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Chemical Hazards important?",
+      "back": "Chemical Hazards is essential for understanding Chemistry Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

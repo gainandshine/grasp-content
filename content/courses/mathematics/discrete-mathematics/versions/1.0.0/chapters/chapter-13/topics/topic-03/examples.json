@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Greatest Common Divisor",
+      "content": "A practical example demonstrating Greatest Common Divisor",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "greatest-common-divisor"
+      ]
+    }
+  ]
+}

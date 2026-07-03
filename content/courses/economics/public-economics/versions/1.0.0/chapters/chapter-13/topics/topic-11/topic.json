@@ -1,6 +1,16 @@
 {
   "id": "topic-11",
   "name": "Central Banking",
-  "description": "Learn about Central Banking",
-  "conceptId": "economics.public-economics.chapter-13.topic-11"
+  "topicId": "economics.public-economics.chapter-13.topic-11",
+  "description": "Learn about Central Banking and its applications in economics.",
+  "content": {
+    "overview": "Central Banking is a fundamental concept in economics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Central Banking. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Central Banking requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Central Banking is essential for mastering Public Economics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mathematical Induction",
+      "content": "A practical example demonstrating Mathematical Induction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "mathematical-induction"
+      ]
+    }
+  ]
+}

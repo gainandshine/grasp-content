@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Real-World Applications",
+      "content": "A practical example demonstrating Real-World Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "real-world-applications"
+      ]
+    }
+  ]
+}

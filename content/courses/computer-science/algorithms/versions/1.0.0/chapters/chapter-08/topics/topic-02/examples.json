@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: N-Queens",
+      "content": "A practical example demonstrating N-Queens",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "n-queens"
+      ]
+    }
+  ]
+}

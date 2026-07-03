@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Page Replacement Algorithms",
+      "content": "A practical example demonstrating Page Replacement Algorithms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "page-replacement-algorithms"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Glow Discharge",
+      "content": "A practical example demonstrating Glow Discharge",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "glow-discharge"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reynolds Number",
+      "content": "A practical example demonstrating Reynolds Number",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "reynolds-number"
+      ]
+    }
+  ]
+}

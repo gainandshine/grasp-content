@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time Series Analysis",
+      "content": "A practical example demonstrating Time Series Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "time-series-analysis"
+      ]
+    }
+  ]
+}

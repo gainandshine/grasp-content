@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 3: Molecular Biology**",
+      "content": "A practical example demonstrating *Course 3: Molecular Biology**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "course-3-molecular-biology"
+      ]
+    }
+  ]
+}

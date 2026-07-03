@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hydrogen Spectrum?",
+      "back": "Hydrogen Spectrum is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hydrogen Spectrum important?",
+      "back": "Hydrogen Spectrum is essential for understanding Atomic & Nuclear Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

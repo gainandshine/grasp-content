@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Organocatalysis",
+      "content": "A practical example demonstrating Organocatalysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "organocatalysis"
+      ]
+    }
+  ]
+}

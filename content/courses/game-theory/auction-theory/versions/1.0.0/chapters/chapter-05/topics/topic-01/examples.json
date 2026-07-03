@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: First-Price Sealed-Bid Auction",
+      "content": "A practical example demonstrating First-Price Sealed-Bid Auction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "first-price-sealed-bid-auction"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Real-Time Processing",
+      "content": "A practical example demonstrating Real-Time Processing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "real-time-processing"
+      ]
+    }
+  ]
+}

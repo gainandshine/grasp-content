@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cannizzaro Reaction",
+      "content": "A practical example demonstrating Cannizzaro Reaction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "cannizzaro-reaction"
+      ]
+    }
+  ]
+}

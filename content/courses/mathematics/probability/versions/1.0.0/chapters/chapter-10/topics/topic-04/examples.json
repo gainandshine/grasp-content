@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Birth-Death Process",
+      "content": "A practical example demonstrating Birth-Death Process",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "birth-death-process"
+      ]
+    }
+  ]
+}

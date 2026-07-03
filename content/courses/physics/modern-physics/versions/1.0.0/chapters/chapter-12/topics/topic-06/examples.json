@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Advanced Materials",
+      "content": "A practical example demonstrating Advanced Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "advanced-materials"
+      ]
+    }
+  ]
+}

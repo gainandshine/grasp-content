@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: X-Ray Diffraction (XRD)",
+      "content": "A practical example demonstrating X-Ray Diffraction (XRD)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "x-ray-diffraction-xrd"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Applications of Computing",
+      "content": "A practical example demonstrating Applications of Computing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "applications-of-computing"
+      ]
+    }
+  ]
+}

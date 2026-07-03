@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electro-Optic Effects?",
+      "back": "Electro-Optic Effects is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electro-Optic Effects important?",
+      "back": "Electro-Optic Effects is essential for understanding Solid State Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

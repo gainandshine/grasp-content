@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Acceleration from Velocity?",
+      "back": "Acceleration from Velocity is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Acceleration from Velocity important?",
+      "back": "Acceleration from Velocity is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Exponential Decay",
+      "content": "A practical example demonstrating Exponential Decay",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "exponential-decay"
+      ]
+    }
+  ]
+}

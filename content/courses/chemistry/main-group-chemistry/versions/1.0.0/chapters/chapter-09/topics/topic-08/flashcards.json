@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cryogenics?",
+      "back": "Cryogenics is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cryogenics important?",
+      "back": "Cryogenics is essential for understanding Main Group Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

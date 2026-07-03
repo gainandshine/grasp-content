@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Comparison with Nash Equilibrium",
-  "description": "Learn about Comparison with Nash Equilibrium",
-  "conceptId": "game-theory.nash-equilibrium.chapter-08.topic-05"
+  "topicId": "game-theory.nash-equilibrium.chapter-08.topic-05",
+  "description": "Learn about Comparison with Nash Equilibrium and its applications in game-theory.",
+  "content": {
+    "overview": "Comparison with Nash Equilibrium is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Comparison with Nash Equilibrium. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Comparison with Nash Equilibrium requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Comparison with Nash Equilibrium is essential for mastering Nash Equilibrium. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

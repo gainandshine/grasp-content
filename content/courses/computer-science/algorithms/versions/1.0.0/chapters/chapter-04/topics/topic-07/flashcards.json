@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Counting Sort?",
+      "back": "Counting Sort is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Counting Sort important?",
+      "back": "Counting Sort is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

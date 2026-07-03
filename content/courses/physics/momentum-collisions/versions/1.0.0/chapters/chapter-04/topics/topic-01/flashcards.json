@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Average Force?",
+      "back": "Average Force is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Average Force important?",
+      "back": "Average Force is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

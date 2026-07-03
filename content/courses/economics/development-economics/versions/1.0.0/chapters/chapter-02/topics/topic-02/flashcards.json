@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is GDP per Capita?",
+      "back": "GDP per Capita is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is GDP per Capita important?",
+      "back": "GDP per Capita is essential for understanding Development Economics.",
+      "difficulty": "medium"
+    }
+  ]
+}

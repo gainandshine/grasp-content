@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Neutron?",
+      "back": "Neutron is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Neutron important?",
+      "back": "Neutron is essential for understanding Atomic Structure.",
+      "difficulty": "medium"
+    }
+  ]
+}

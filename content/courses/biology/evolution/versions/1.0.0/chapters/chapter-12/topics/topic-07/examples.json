@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 6: Human Anatomy**",
+      "content": "A practical example demonstrating *Course 6: Human Anatomy**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "course-6-human-anatomy"
+      ]
+    }
+  ]
+}

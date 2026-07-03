@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Healthcare",
+      "content": "A practical example demonstrating Healthcare",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "healthcare"
+      ]
+    }
+  ]
+}

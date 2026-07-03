@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Practical Reasoning?",
+      "back": "Practical Reasoning is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Practical Reasoning important?",
+      "back": "Practical Reasoning is essential for understanding Ethics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fiction & Reference",
+      "content": "A practical example demonstrating Fiction & Reference",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "fiction-reference"
+      ]
+    }
+  ]
+}

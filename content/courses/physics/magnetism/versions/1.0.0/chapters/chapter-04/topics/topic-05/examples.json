@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Galvanometer Principle",
+      "content": "A practical example demonstrating Galvanometer Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "galvanometer-principle"
+      ]
+    }
+  ]
+}

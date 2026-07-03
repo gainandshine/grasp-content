@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Laurent Series?",
+      "back": "Laurent Series is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Laurent Series important?",
+      "back": "Laurent Series is essential for understanding Complex Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

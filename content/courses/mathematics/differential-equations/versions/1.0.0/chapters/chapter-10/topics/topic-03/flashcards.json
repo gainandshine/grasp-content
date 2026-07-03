@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Even & Odd Functions?",
+      "back": "Even & Odd Functions is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Even & Odd Functions important?",
+      "back": "Even & Odd Functions is essential for understanding Differential Equations.",
+      "difficulty": "medium"
+    }
+  ]
+}

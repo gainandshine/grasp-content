@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Euler's Totient Function",
+      "content": "A practical example demonstrating Euler's Totient Function",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "eulers-totient-function"
+      ]
+    }
+  ]
+}

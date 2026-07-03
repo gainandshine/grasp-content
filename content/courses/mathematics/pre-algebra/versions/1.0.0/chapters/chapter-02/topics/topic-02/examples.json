@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Order of Operations",
+      "content": "A practical example demonstrating Order of Operations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "order-of-operations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Flame Emission Spectroscopy",
+      "content": "A practical example demonstrating Flame Emission Spectroscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "flame-emission-spectroscopy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Proportional Representation?",
+      "back": "Proportional Representation is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Proportional Representation important?",
+      "back": "Proportional Representation is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

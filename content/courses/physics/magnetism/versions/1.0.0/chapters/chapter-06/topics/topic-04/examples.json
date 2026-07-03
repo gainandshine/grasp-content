@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnetic Susceptibility",
+      "content": "A practical example demonstrating Magnetic Susceptibility",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "magnetic-susceptibility"
+      ]
+    }
+  ]
+}

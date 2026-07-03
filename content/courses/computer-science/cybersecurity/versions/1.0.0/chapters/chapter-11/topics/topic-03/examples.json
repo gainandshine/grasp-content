@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vulnerability Assessment",
+      "content": "A practical example demonstrating Vulnerability Assessment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "vulnerability-assessment"
+      ]
+    }
+  ]
+}

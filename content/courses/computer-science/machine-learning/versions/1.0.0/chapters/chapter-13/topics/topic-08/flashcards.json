@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is *Course 19: Data Science**?",
+      "back": "*Course 19: Data Science** is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is *Course 19: Data Science** important?",
+      "back": "*Course 19: Data Science** is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

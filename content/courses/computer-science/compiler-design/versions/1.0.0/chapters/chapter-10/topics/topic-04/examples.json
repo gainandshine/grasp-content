@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stack-Based VMs",
+      "content": "A practical example demonstrating Stack-Based VMs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "stack-based-vms"
+      ]
+    }
+  ]
+}

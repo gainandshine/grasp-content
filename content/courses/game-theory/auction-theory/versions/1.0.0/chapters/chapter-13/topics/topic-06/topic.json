@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Future of Auction Markets",
-  "description": "Learn about Future of Auction Markets",
-  "conceptId": "game-theory.auction-theory.chapter-13.topic-06"
+  "topicId": "game-theory.auction-theory.chapter-13.topic-06",
+  "description": "Learn about Future of Auction Markets and its applications in game-theory.",
+  "content": {
+    "overview": "Future of Auction Markets is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Future of Auction Markets. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Future of Auction Markets requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Future of Auction Markets is essential for mastering Auction Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

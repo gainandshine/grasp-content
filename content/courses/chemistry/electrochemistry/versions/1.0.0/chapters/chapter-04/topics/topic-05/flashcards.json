@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cell Reactions?",
+      "back": "Cell Reactions is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cell Reactions important?",
+      "back": "Cell Reactions is essential for understanding Electrochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

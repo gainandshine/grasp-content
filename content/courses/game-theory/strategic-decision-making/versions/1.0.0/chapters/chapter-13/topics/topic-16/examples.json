@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Zero-Sum Games",
+      "content": "A practical example demonstrating Zero-Sum Games",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "zero-sum-games"
+      ]
+    }
+  ]
+}

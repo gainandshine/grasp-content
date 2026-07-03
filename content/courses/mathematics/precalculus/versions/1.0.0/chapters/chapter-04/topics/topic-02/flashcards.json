@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Rational Functions?",
+      "back": "Rational Functions is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Rational Functions important?",
+      "back": "Rational Functions is essential for understanding Precalculus.",
+      "difficulty": "medium"
+    }
+  ]
+}

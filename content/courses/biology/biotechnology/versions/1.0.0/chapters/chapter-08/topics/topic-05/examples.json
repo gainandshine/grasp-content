@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Biopesticides",
+      "content": "A practical example demonstrating Biopesticides",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "biopesticides"
+      ]
+    }
+  ]
+}

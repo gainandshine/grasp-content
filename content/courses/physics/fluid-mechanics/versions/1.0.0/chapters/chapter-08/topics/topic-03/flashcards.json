@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Contact Angle?",
+      "back": "Contact Angle is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Contact Angle important?",
+      "back": "Contact Angle is essential for understanding Fluid Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

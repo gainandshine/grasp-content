@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Commitment?",
+      "back": "Commitment is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Commitment important?",
+      "back": "Commitment is essential for understanding Strategic Decision Making.",
+      "difficulty": "medium"
+    }
+  ]
+}

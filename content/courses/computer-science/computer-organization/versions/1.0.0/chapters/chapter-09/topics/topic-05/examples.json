@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Out-of-Order Execution",
+      "content": "A practical example demonstrating Out-of-Order Execution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "out-of-order-execution"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Polar Form",
-  "description": "Learn about Polar Form",
-  "conceptId": "mathematics.trigonometry.chapter-12.topic-01"
+  "topicId": "mathematics.trigonometry.chapter-12.topic-01",
+  "description": "Learn about Polar Form and its applications in mathematics.",
+  "content": {
+    "overview": "Polar Form is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Polar Form. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Polar Form requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Polar Form is essential for mastering Trigonometry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

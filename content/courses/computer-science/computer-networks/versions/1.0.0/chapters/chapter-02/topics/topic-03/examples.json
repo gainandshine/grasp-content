@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Layered Communication",
+      "content": "A practical example demonstrating Layered Communication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "layered-communication"
+      ]
+    }
+  ]
+}

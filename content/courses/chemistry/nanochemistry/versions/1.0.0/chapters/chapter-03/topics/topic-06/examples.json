@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graphene Oxide",
+      "content": "A practical example demonstrating Graphene Oxide",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "graphene-oxide"
+      ]
+    }
+  ]
+}

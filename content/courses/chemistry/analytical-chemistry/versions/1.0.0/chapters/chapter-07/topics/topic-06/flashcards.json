@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is High-Performance Liquid Chromatography (HPLC)?",
+      "back": "High-Performance Liquid Chromatography (HPLC) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is High-Performance Liquid Chromatography (HPLC) important?",
+      "back": "High-Performance Liquid Chromatography (HPLC) is essential for understanding Analytical Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

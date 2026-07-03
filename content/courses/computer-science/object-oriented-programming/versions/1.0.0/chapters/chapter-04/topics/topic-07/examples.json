@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Immutable Objects",
+      "content": "A practical example demonstrating Immutable Objects",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "immutable-objects"
+      ]
+    }
+  ]
+}

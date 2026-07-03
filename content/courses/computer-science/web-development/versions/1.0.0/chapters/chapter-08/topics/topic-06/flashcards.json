@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Data Validation?",
+      "back": "Data Validation is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Data Validation important?",
+      "back": "Data Validation is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

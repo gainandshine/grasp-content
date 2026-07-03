@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: SQL vs NoSQL in System Design",
+      "content": "A practical example demonstrating SQL vs NoSQL in System Design",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "sql-vs-nosql-in-system-design"
+      ]
+    }
+  ]
+}

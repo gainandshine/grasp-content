@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Data Science Lifecycle",
+      "content": "A practical example demonstrating Data Science Lifecycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "data-science-lifecycle"
+      ]
+    }
+  ]
+}

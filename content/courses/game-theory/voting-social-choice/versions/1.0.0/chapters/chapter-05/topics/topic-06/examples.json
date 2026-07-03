@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dictatorship",
+      "content": "A practical example demonstrating Dictatorship",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "dictatorship"
+      ]
+    }
+  ]
+}

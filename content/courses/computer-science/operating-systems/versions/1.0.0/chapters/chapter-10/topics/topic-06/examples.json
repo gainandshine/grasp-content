@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Secure Boot",
+      "content": "A practical example demonstrating Secure Boot",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "secure-boot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mass-to-Charge Ratio (m/z)",
+      "content": "A practical example demonstrating Mass-to-Charge Ratio (m/z)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "mass-to-charge-ratio-mz"
+      ]
+    }
+  ]
+}

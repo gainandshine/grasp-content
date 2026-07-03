@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Herd Immunity",
+      "content": "A practical example demonstrating Herd Immunity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "herd-immunity"
+      ]
+    }
+  ]
+}

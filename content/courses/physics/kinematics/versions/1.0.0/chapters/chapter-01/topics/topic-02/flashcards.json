@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Reference Frame?",
+      "back": "Reference Frame is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Reference Frame important?",
+      "back": "Reference Frame is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

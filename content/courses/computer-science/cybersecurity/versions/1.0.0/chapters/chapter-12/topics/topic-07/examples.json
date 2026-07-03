@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Privacy Regulations",
+      "content": "A practical example demonstrating Privacy Regulations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "privacy-regulations"
+      ]
+    }
+  ]
+}

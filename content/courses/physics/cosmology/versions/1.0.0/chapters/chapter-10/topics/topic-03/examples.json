@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Big Rip",
+      "content": "A practical example demonstrating Big Rip",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "big-rip"
+      ]
+    }
+  ]
+}

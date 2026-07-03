@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stable Matching?",
+      "back": "Stable Matching is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stable Matching important?",
+      "back": "Stable Matching is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

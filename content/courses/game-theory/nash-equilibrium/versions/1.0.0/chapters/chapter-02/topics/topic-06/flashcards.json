@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Strategic Stability?",
+      "back": "Strategic Stability is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Strategic Stability important?",
+      "back": "Strategic Stability is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

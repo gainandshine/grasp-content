@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Medical Residency Matching",
-  "description": "Learn about Medical Residency Matching",
-  "conceptId": "game-theory.mechanism-design.chapter-06.topic-05"
+  "topicId": "game-theory.mechanism-design.chapter-06.topic-05",
+  "description": "Learn about Medical Residency Matching and its applications in game-theory.",
+  "content": {
+    "overview": "Medical Residency Matching is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Medical Residency Matching. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Medical Residency Matching requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Medical Residency Matching is essential for mastering Mechanism Design. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

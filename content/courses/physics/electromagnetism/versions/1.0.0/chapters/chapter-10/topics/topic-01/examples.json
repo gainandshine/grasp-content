@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gauss's Law (Electric)",
+      "content": "A practical example demonstrating Gauss's Law (Electric)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "gausss-law-electric"
+      ]
+    }
+  ]
+}

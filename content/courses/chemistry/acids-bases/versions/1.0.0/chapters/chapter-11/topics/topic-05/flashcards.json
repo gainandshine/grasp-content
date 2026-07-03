@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Food Chemistry?",
+      "back": "Food Chemistry is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Food Chemistry important?",
+      "back": "Food Chemistry is essential for understanding Acids & Bases.",
+      "difficulty": "medium"
+    }
+  ]
+}

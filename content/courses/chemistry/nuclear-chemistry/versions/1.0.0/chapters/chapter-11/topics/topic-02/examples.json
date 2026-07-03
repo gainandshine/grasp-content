@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Food Irradiation",
+      "content": "A practical example demonstrating Food Irradiation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "food-irradiation"
+      ]
+    }
+  ]
+}

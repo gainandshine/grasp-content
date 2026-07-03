@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bertrand Russell",
+      "content": "A practical example demonstrating Bertrand Russell",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "bertrand-russell"
+      ]
+    }
+  ]
+}

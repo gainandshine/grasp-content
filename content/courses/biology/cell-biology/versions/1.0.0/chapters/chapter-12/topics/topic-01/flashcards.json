@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cancer Biology?",
+      "back": "Cancer Biology is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cancer Biology important?",
+      "back": "Cancer Biology is essential for understanding Cell Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

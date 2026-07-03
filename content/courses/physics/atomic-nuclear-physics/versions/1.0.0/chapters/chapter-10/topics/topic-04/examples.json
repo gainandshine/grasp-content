@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bubble Chamber",
+      "content": "A practical example demonstrating Bubble Chamber",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "bubble-chamber"
+      ]
+    }
+  ]
+}

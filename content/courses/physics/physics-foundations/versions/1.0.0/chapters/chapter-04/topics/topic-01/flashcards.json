@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Scalars?",
+      "back": "Scalars is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Scalars important?",
+      "back": "Scalars is essential for understanding Physics Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

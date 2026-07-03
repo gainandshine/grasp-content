@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Training & Development?",
+      "back": "Training & Development is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Training & Development important?",
+      "back": "Training & Development is essential for understanding Clinical Psychology.",
+      "difficulty": "medium"
+    }
+  ]
+}

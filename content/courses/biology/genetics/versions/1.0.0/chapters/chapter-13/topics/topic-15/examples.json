@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Phylogenetics",
+      "content": "A practical example demonstrating Phylogenetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "phylogenetics"
+      ]
+    }
+  ]
+}

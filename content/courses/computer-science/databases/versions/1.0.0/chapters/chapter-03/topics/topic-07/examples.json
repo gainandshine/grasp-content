@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: ORDER BY",
+      "content": "A practical example demonstrating ORDER BY",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "order-by"
+      ]
+    }
+  ]
+}

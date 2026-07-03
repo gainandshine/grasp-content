@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Orthogonal Basis?",
+      "back": "Orthogonal Basis is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Orthogonal Basis important?",
+      "back": "Orthogonal Basis is essential for understanding Linear Algebra.",
+      "difficulty": "medium"
+    }
+  ]
+}

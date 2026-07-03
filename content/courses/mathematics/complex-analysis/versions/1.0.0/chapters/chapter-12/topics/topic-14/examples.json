@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mathematical Logic",
+      "content": "A practical example demonstrating Mathematical Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "mathematical-logic"
+      ]
+    }
+  ]
+}

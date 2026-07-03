@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pattern Matching",
+      "content": "A practical example demonstrating Pattern Matching",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "pattern-matching"
+      ]
+    }
+  ]
+}

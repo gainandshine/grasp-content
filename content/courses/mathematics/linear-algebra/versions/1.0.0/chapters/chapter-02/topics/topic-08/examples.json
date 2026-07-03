@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Identity Matrix",
+      "content": "A practical example demonstrating Identity Matrix",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "identity-matrix"
+      ]
+    }
+  ]
+}

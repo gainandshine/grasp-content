@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Water Hardness",
+      "content": "A practical example demonstrating Water Hardness",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "water-hardness"
+      ]
+    }
+  ]
+}

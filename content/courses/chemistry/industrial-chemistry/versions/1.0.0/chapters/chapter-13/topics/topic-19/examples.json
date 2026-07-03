@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Materials Simulation",
+      "content": "A practical example demonstrating Materials Simulation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "materials-simulation"
+      ]
+    }
+  ]
+}

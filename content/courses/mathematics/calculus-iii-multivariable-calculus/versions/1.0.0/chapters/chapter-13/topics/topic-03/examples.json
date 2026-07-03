@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Divergence Theorem",
+      "content": "A practical example demonstrating Divergence Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "divergence-theorem"
+      ]
+    }
+  ]
+}

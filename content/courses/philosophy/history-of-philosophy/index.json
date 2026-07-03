@@ -1,10 +1,11 @@
 {
   "id": "history-of-philosophy",
   "title": "History of Philosophy",
-  "description": "This course studies **the development of philosophical thought across different civilizations and historical periods**. It examines the major philosophers, schools of thought, and the evolution of philosophical ideas.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.832Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.402Z"
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Compiler Fundamentals",
+      "content": "A practical example demonstrating Compiler Fundamentals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "compiler-fundamentals"
+      ]
+    }
+  ]
+}

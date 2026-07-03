@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vaccine Development",
+      "content": "A practical example demonstrating Vaccine Development",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "vaccine-development"
+      ]
+    }
+  ]
+}

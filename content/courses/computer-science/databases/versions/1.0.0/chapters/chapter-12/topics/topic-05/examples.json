@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Backup & Recovery",
+      "content": "A practical example demonstrating Backup & Recovery",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "backup-recovery"
+      ]
+    }
+  ]
+}

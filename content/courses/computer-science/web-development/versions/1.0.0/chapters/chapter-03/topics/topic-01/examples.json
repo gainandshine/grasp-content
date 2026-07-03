@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: CSS Syntax",
+      "content": "A practical example demonstrating CSS Syntax",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "css-syntax"
+      ]
+    }
+  ]
+}

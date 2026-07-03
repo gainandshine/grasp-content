@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Drug Design?",
+      "back": "Drug Design is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Drug Design important?",
+      "back": "Drug Design is essential for understanding Chemical Bonding.",
+      "difficulty": "medium"
+    }
+  ]
+}

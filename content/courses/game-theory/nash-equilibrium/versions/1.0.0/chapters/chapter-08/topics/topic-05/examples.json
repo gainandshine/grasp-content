@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Comparison with Nash Equilibrium",
+      "content": "A practical example demonstrating Comparison with Nash Equilibrium",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "comparison-with-nash-equilibrium"
+      ]
+    }
+  ]
+}

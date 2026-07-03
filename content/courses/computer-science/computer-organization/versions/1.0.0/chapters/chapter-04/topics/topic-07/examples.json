@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: RISC vs CISC",
+      "content": "A practical example demonstrating RISC vs CISC",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "risc-vs-cisc"
+      ]
+    }
+  ]
+}

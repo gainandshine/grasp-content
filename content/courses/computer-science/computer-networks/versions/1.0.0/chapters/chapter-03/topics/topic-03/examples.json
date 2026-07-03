@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fiber Optics",
+      "content": "A practical example demonstrating Fiber Optics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "fiber-optics"
+      ]
+    }
+  ]
+}

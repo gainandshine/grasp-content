@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multistep Synthesis",
+      "content": "A practical example demonstrating Multistep Synthesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "multistep-synthesis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Proper Interval?",
+      "back": "Proper Interval is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Proper Interval important?",
+      "back": "Proper Interval is essential for understanding Relativity.",
+      "difficulty": "medium"
+    }
+  ]
+}

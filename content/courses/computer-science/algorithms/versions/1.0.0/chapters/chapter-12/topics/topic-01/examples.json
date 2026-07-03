@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Proof of Correctness",
+      "content": "A practical example demonstrating Proof of Correctness",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "proof-of-correctness"
+      ]
+    }
+  ]
+}

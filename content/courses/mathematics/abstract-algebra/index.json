@@ -1,10 +1,11 @@
 {
   "id": "abstract-algebra",
   "title": "Abstract Algebra",
-  "description": "Abstract Algebra studies **algebraic structures** such as groups, rings, and fields. It is foundational for modern mathematics, cryptography, coding theory, and theoretical computer science.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:14.991Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.238Z"
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Polonium?",
+      "back": "Polonium is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Polonium important?",
+      "back": "Polonium is essential for understanding Main Group Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

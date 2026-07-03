@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Reversible Processes?",
+      "back": "Reversible Processes is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Reversible Processes important?",
+      "back": "Reversible Processes is essential for understanding Thermodynamics.",
+      "difficulty": "medium"
+    }
+  ]
+}

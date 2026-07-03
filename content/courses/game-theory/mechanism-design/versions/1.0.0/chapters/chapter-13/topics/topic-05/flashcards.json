@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is AI-Designed Markets?",
+      "back": "AI-Designed Markets is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is AI-Designed Markets important?",
+      "back": "AI-Designed Markets is essential for understanding Mechanism Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

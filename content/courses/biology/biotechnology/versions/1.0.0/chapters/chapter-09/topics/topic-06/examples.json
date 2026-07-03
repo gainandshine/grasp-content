@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bioreactors",
+      "content": "A practical example demonstrating Bioreactors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "bioreactors"
+      ]
+    }
+  ]
+}

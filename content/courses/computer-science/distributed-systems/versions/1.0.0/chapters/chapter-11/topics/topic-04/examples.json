@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Service Mesh",
+      "content": "A practical example demonstrating Service Mesh",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "service-mesh"
+      ]
+    }
+  ]
+}

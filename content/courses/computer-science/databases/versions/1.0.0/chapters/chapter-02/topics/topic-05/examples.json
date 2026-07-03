@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Primary Keys",
+      "content": "A practical example demonstrating Primary Keys",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "primary-keys"
+      ]
+    }
+  ]
+}

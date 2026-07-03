@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Principal Quantum Number (n)",
-  "description": "Learn about Principal Quantum Number (n)",
-  "conceptId": "chemistry.atomic-structure.chapter-07.topic-01"
+  "topicId": "chemistry.atomic-structure.chapter-07.topic-01",
+  "description": "Learn about Principal Quantum Number (n) and its applications in chemistry.",
+  "content": {
+    "overview": "Principal Quantum Number (n) is a fundamental concept in chemistry. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Principal Quantum Number (n). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Principal Quantum Number (n) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Principal Quantum Number (n) is essential for mastering Atomic Structure. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

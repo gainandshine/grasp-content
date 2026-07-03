@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Digital Marketplaces?",
+      "back": "Digital Marketplaces is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Digital Marketplaces important?",
+      "back": "Digital Marketplaces is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

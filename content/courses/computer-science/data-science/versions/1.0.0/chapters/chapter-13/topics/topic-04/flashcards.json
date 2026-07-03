@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Retail?",
+      "back": "Retail is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Retail important?",
+      "back": "Retail is essential for understanding Data Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

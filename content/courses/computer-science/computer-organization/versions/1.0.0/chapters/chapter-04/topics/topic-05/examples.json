@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Addressing Modes",
+      "content": "A practical example demonstrating Addressing Modes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "addressing-modes"
+      ]
+    }
+  ]
+}

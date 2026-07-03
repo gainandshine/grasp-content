@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gamma Distribution",
+      "content": "A practical example demonstrating Gamma Distribution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "gamma-distribution"
+      ]
+    }
+  ]
+}

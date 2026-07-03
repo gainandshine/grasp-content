@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Three-Address Code",
+      "content": "A practical example demonstrating Three-Address Code",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "three-address-code"
+      ]
+    }
+  ]
+}

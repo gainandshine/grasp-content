@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stochastic Decision Making?",
+      "back": "Stochastic Decision Making is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stochastic Decision Making important?",
+      "back": "Stochastic Decision Making is essential for understanding Strategic Decision Making.",
+      "difficulty": "medium"
+    }
+  ]
+}

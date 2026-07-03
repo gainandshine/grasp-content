@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Service-Oriented Architecture (SOA)?",
+      "back": "Service-Oriented Architecture (SOA) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Service-Oriented Architecture (SOA) important?",
+      "back": "Service-Oriented Architecture (SOA) is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

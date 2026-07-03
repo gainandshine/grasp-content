@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scale of the Universe",
+      "content": "A practical example demonstrating Scale of the Universe",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "scale-of-the-universe"
+      ]
+    }
+  ]
+}

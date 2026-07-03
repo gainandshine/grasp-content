@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ozone Layer",
+      "content": "A practical example demonstrating Ozone Layer",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ozone-layer"
+      ]
+    }
+  ]
+}

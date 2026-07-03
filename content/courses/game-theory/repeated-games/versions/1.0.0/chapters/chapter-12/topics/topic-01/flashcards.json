@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multi-Agent Simulation?",
+      "back": "Multi-Agent Simulation is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multi-Agent Simulation important?",
+      "back": "Multi-Agent Simulation is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

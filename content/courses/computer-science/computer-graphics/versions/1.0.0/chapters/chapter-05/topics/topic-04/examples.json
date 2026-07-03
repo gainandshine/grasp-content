@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Perspective Projection",
+      "content": "A practical example demonstrating Perspective Projection",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "perspective-projection"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fundamentals of Nanoscience",
+      "content": "A practical example demonstrating Fundamentals of Nanoscience",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "fundamentals-of-nanoscience"
+      ]
+    }
+  ]
+}

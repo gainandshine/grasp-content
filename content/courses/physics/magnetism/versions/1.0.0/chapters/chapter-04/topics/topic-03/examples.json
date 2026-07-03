@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnetic Torque",
+      "content": "A practical example demonstrating Magnetic Torque",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "magnetic-torque"
+      ]
+    }
+  ]
+}

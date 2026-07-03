@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Particulate Matter?",
+      "back": "Particulate Matter is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Particulate Matter important?",
+      "back": "Particulate Matter is essential for understanding Environmental Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Sample?",
+      "back": "Sample is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Sample important?",
+      "back": "Sample is essential for understanding Research Methods & Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

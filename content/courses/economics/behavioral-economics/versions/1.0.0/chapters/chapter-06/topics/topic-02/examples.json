@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hyperbolic Discounting",
+      "content": "A practical example demonstrating Hyperbolic Discounting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "hyperbolic-discounting"
+      ]
+    }
+  ]
+}

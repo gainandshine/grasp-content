@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Architectural Acoustics",
+      "content": "A practical example demonstrating Architectural Acoustics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "architectural-acoustics"
+      ]
+    }
+  ]
+}

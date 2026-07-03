@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Instruction Register",
+      "content": "A practical example demonstrating Instruction Register",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "instruction-register"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Particle Interactions",
+      "content": "A practical example demonstrating Particle Interactions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "particle-interactions"
+      ]
+    }
+  ]
+}

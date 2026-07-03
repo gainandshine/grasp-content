@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gini Coefficient",
+      "content": "A practical example demonstrating Gini Coefficient",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "gini-coefficient"
+      ]
+    }
+  ]
+}

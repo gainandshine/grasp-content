@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Closest Pair Problem",
+      "content": "A practical example demonstrating Closest Pair Problem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "closest-pair-problem"
+      ]
+    }
+  ]
+}

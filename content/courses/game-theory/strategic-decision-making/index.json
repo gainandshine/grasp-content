@@ -1,10 +1,11 @@
 {
   "id": "strategic-decision-making",
   "title": "Strategic Decision Making",
-  "description": "This course studies **how rational agents make strategic decisions** when outcomes depend on uncertainty, risk, and the choices of others. It develops the analytical tools used in economics, AI, business, politics, and negotiation.",
   "version": "1.0.0",
+  "domain": "game-theory",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:23.250Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.435Z"
 }

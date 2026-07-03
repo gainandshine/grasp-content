@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 8: Microbiology**",
+      "content": "A practical example demonstrating *Course 8: Microbiology**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "course-8-microbiology"
+      ]
+    }
+  ]
+}

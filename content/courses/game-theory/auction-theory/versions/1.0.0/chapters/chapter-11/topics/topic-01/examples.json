@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Incentive Compatibility",
+      "content": "A practical example demonstrating Incentive Compatibility",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "incentive-compatibility"
+      ]
+    }
+  ]
+}

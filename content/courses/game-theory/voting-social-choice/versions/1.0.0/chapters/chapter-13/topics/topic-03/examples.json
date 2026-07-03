@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Judgment Aggregation",
+      "content": "A practical example demonstrating Judgment Aggregation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "judgment-aggregation"
+      ]
+    }
+  ]
+}

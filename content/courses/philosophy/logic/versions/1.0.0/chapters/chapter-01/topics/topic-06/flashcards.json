@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Validity & Soundness?",
+      "back": "Validity & Soundness is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Validity & Soundness important?",
+      "back": "Validity & Soundness is essential for understanding Logic.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Contact Angle",
+      "content": "A practical example demonstrating Contact Angle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "contact-angle"
+      ]
+    }
+  ]
+}

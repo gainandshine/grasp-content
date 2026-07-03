@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Event-Driven Communication",
+      "content": "A practical example demonstrating Event-Driven Communication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "event-driven-communication"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Singleton?",
+      "back": "Singleton is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Singleton important?",
+      "back": "Singleton is essential for understanding Software Engineering.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Encoding Categorical Data",
+      "content": "A practical example demonstrating Encoding Categorical Data",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "encoding-categorical-data"
+      ]
+    }
+  ]
+}

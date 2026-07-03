@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Homo erectus",
+      "content": "A practical example demonstrating Homo erectus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "homo-erectus"
+      ]
+    }
+  ]
+}

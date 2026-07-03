@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Erdős–Rényi Model",
+      "content": "A practical example demonstrating Erdős–Rényi Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "erdsrnyi-model"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-07",
   "name": "Strong Connectivity",
-  "description": "Learn about Strong Connectivity",
-  "conceptId": "mathematics.graph-theory.chapter-04.topic-07"
+  "topicId": "mathematics.graph-theory.chapter-04.topic-07",
+  "description": "Learn about Strong Connectivity and its applications in mathematics.",
+  "content": {
+    "overview": "Strong Connectivity is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Strong Connectivity. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Strong Connectivity requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Strong Connectivity is essential for mastering Graph Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,6 +1,16 @@
 {
   "id": "topic-18",
   "name": "Applications of Personality Psychology",
-  "description": "Learn about Applications of Personality Psychology",
-  "conceptId": "psychology.social-psychology.chapter-13.topic-18"
+  "topicId": "psychology.social-psychology.chapter-13.topic-18",
+  "description": "Learn about Applications of Personality Psychology and its applications in psychology.",
+  "content": {
+    "overview": "Applications of Personality Psychology is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Applications of Personality Psychology. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Applications of Personality Psychology requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Applications of Personality Psychology is essential for mastering Social Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

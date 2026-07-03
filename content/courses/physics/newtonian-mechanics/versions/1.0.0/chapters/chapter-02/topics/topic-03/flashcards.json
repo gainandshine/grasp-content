@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Inertial Frames?",
+      "back": "Inertial Frames is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Inertial Frames important?",
+      "back": "Inertial Frames is essential for understanding Newtonian Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 2: Programming Fundamentals**",
+      "content": "A practical example demonstrating *Course 2: Programming Fundamentals**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-2-programming-fundamentals"
+      ]
+    }
+  ]
+}

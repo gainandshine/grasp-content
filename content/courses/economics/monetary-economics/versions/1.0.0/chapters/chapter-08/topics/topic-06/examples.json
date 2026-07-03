@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deposit Insurance",
+      "content": "A practical example demonstrating Deposit Insurance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "deposit-insurance"
+      ]
+    }
+  ]
+}

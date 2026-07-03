@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Assurance Games?",
+      "back": "Assurance Games is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Assurance Games important?",
+      "back": "Assurance Games is essential for understanding Simultaneous Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chain of Custody",
+      "content": "A practical example demonstrating Chain of Custody",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "chain-of-custody"
+      ]
+    }
+  ]
+}

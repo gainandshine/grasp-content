@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chromatin Remodeling",
+      "content": "A practical example demonstrating Chromatin Remodeling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "chromatin-remodeling"
+      ]
+    }
+  ]
+}

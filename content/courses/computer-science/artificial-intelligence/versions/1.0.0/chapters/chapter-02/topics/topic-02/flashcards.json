@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Agent Architecture?",
+      "back": "Agent Architecture is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Agent Architecture important?",
+      "back": "Agent Architecture is essential for understanding Artificial Intelligence.",
+      "difficulty": "medium"
+    }
+  ]
+}

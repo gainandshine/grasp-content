@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Complex Systems?",
+      "back": "Complex Systems is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Complex Systems important?",
+      "back": "Complex Systems is essential for understanding Philosophy of Science.",
+      "difficulty": "medium"
+    }
+  ]
+}

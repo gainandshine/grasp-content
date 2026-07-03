@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Ampère's Law?",
+      "back": "Ampère's Law is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Ampère's Law important?",
+      "back": "Ampère's Law is essential for understanding Magnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

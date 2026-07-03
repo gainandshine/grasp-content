@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Backtracking Search",
+      "content": "A practical example demonstrating Backtracking Search",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "backtracking-search"
+      ]
+    }
+  ]
+}

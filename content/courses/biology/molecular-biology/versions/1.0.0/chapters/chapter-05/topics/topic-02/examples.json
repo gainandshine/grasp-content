@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: 5' Capping",
+      "content": "A practical example demonstrating 5' Capping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "5-capping"
+      ]
+    }
+  ]
+}

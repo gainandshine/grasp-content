@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Peptide Bond",
+      "content": "A practical example demonstrating Peptide Bond",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "peptide-bond"
+      ]
+    }
+  ]
+}

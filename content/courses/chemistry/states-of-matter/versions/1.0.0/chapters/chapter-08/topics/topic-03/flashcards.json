@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Vaporization?",
+      "back": "Vaporization is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Vaporization important?",
+      "back": "Vaporization is essential for understanding States of Matter.",
+      "difficulty": "medium"
+    }
+  ]
+}

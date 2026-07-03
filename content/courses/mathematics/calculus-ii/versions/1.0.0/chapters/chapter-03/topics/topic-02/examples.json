@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Linear Differential Equations",
+      "content": "A practical example demonstrating Linear Differential Equations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "linear-differential-equations"
+      ]
+    }
+  ]
+}

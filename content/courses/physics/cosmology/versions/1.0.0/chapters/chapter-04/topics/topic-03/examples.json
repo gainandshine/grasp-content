@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Temperature Anisotropies",
+      "content": "A practical example demonstrating Temperature Anisotropies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "temperature-anisotropies"
+      ]
+    }
+  ]
+}

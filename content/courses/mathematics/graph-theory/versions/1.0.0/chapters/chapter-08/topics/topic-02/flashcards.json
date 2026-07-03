@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Maximum Flow?",
+      "back": "Maximum Flow is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Maximum Flow important?",
+      "back": "Maximum Flow is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

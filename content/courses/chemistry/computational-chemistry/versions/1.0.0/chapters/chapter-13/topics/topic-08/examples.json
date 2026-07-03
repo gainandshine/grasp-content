@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Autonomous Laboratories",
+      "content": "A practical example demonstrating Autonomous Laboratories",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "autonomous-laboratories"
+      ]
+    }
+  ]
+}

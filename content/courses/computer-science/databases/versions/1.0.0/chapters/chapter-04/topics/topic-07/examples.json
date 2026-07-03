@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Common Table Expressions (CTEs)",
+      "content": "A practical example demonstrating Common Table Expressions (CTEs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "common-table-expressions-ctes"
+      ]
+    }
+  ]
+}

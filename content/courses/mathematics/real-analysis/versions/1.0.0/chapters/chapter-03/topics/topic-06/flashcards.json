@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bounded Sequences?",
+      "back": "Bounded Sequences is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bounded Sequences important?",
+      "back": "Bounded Sequences is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Viral Genome",
+      "content": "A practical example demonstrating Viral Genome",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "viral-genome"
+      ]
+    }
+  ]
+}

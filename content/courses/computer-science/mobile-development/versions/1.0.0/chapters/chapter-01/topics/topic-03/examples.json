@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Native vs Cross-Platform Development",
+      "content": "A practical example demonstrating Native vs Cross-Platform Development",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "native-vs-cross-platform-development"
+      ]
+    }
+  ]
+}

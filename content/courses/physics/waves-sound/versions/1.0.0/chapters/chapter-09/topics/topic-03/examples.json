@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Closed Pipes",
+      "content": "A practical example demonstrating Closed Pipes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "closed-pipes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Water Hardness?",
+      "back": "Water Hardness is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Water Hardness important?",
+      "back": "Water Hardness is essential for understanding Environmental Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

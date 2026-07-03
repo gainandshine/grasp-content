@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Quantitative Trait Loci (QTL)",
-  "description": "Learn about Quantitative Trait Loci (QTL)",
-  "conceptId": "biology.genetics.chapter-09.topic-05"
+  "topicId": "biology.genetics.chapter-09.topic-05",
+  "description": "Learn about Quantitative Trait Loci (QTL) and its applications in biology.",
+  "content": {
+    "overview": "Quantitative Trait Loci (QTL) is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Quantitative Trait Loci (QTL). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Quantitative Trait Loci (QTL) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Quantitative Trait Loci (QTL) is essential for mastering Genetics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

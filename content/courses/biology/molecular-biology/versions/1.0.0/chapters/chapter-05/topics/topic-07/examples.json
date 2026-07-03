@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Alternative Splicing",
+      "content": "A practical example demonstrating Alternative Splicing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "alternative-splicing"
+      ]
+    }
+  ]
+}

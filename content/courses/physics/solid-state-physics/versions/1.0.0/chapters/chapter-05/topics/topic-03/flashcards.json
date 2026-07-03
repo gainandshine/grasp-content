@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Sommerfeld Model?",
+      "back": "Sommerfeld Model is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Sommerfeld Model important?",
+      "back": "Sommerfeld Model is essential for understanding Solid State Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

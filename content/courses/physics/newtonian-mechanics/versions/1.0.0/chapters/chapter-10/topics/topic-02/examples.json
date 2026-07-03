@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pseudo Force",
+      "content": "A practical example demonstrating Pseudo Force",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "pseudo-force"
+      ]
+    }
+  ]
+}

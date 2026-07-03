@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: DNA Sequence Analysis",
+      "content": "A practical example demonstrating DNA Sequence Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "dna-sequence-analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Overlapping Subproblems?",
+      "back": "Overlapping Subproblems is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Overlapping Subproblems important?",
+      "back": "Overlapping Subproblems is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

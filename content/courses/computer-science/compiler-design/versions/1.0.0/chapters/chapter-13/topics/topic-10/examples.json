@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: 2D Graphics",
+      "content": "A practical example demonstrating 2D Graphics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "2d-graphics"
+      ]
+    }
+  ]
+}

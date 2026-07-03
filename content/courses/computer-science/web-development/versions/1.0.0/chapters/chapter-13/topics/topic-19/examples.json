@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Push Notifications",
+      "content": "A practical example demonstrating Push Notifications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "push-notifications"
+      ]
+    }
+  ]
+}

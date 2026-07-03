@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hermitian Operators",
+      "content": "A practical example demonstrating Hermitian Operators",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "hermitian-operators"
+      ]
+    }
+  ]
+}

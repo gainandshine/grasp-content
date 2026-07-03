@@ -1,10 +1,11 @@
 {
   "id": "solid-state-physics",
   "title": "Solid State Physics",
-  "description": "This course studies the physics of **solids and crystalline materials**. It is the foundation of **electronics, semiconductors, nanotechnology, materials science, and modern computing**.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 28,
-  "chapters": 14,
-  "updatedAt": "2026-07-02T10:38:13.306Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.751Z"
 }

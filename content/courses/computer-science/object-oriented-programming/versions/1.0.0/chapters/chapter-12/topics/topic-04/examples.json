@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Object Deserialization",
+      "content": "A practical example demonstrating Object Deserialization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "object-deserialization"
+      ]
+    }
+  ]
+}

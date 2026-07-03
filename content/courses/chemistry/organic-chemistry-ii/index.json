@@ -1,10 +1,11 @@
 {
   "id": "organic-chemistry-ii",
   "title": "Organic Chemistry II",
-  "description": "This course builds on Organic Chemistry I by exploring the **chemistry of functional groups**, reaction mechanisms, organic synthesis, and spectroscopic identification. It is the core course for pharmaceuticals, medicinal chemistry, and chemical synthesis.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:16.235Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.274Z"
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Laplace Transform",
+      "content": "A practical example demonstrating Laplace Transform",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "laplace-transform"
+      ]
+    }
+  ]
+}

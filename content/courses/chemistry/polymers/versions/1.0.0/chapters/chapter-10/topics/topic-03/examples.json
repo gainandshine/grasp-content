@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Differential Scanning Calorimetry (DSC)",
+      "content": "A practical example demonstrating Differential Scanning Calorimetry (DSC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "differential-scanning-calorimetry-dsc"
+      ]
+    }
+  ]
+}

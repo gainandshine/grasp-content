@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Differential Thermal Analysis (DTA)?",
+      "back": "Differential Thermal Analysis (DTA) is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Differential Thermal Analysis (DTA) important?",
+      "back": "Differential Thermal Analysis (DTA) is essential for understanding Analytical Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

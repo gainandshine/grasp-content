@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Voltage Division",
+      "content": "A practical example demonstrating Voltage Division",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "voltage-division"
+      ]
+    }
+  ]
+}

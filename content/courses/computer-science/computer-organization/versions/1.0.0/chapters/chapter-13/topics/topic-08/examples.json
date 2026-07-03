@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 7: Operating Systems**",
+      "content": "A practical example demonstrating *Course 7: Operating Systems**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-7-operating-systems"
+      ]
+    }
+  ]
+}

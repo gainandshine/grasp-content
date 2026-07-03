@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Byzantine Fault Tolerance",
+      "content": "A practical example demonstrating Byzantine Fault Tolerance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "byzantine-fault-tolerance"
+      ]
+    }
+  ]
+}

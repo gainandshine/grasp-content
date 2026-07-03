@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Average Revenue",
+      "content": "A practical example demonstrating Average Revenue",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "average-revenue"
+      ]
+    }
+  ]
+}

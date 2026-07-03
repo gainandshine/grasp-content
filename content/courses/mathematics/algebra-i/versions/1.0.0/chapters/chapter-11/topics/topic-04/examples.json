@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Maximum & Minimum",
+      "content": "A practical example demonstrating Maximum & Minimum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "maximum-minimum"
+      ]
+    }
+  ]
+}

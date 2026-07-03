@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Persistent Depressive Disorder",
+      "content": "A practical example demonstrating Persistent Depressive Disorder",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "persistent-depressive-disorder"
+      ]
+    }
+  ]
+}

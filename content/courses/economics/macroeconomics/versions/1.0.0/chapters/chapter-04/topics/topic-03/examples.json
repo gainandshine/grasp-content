@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Producer Price Index (PPI)",
+      "content": "A practical example demonstrating Producer Price Index (PPI)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "producer-price-index-ppi"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-08",
   "name": "Mechanism Design Fundamentals",
-  "description": "Learn about Mechanism Design Fundamentals",
-  "conceptId": "game-theory.evolutionary-game-theory.chapter-13.topic-08"
+  "topicId": "game-theory.evolutionary-game-theory.chapter-13.topic-08",
+  "description": "Learn about Mechanism Design Fundamentals and its applications in game-theory.",
+  "content": {
+    "overview": "Mechanism Design Fundamentals is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Mechanism Design Fundamentals. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Mechanism Design Fundamentals requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Mechanism Design Fundamentals is essential for mastering Evolutionary Game Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

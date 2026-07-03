@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fluid Pressure",
+      "content": "A practical example demonstrating Fluid Pressure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "fluid-pressure"
+      ]
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "id": "abnormal-psychology",
   "title": "Abnormal Psychology",
-  "description": "This course studies **psychological disorders**, including their causes, symptoms, diagnosis, and treatment. It examines mental health through biological, psychological, and social perspectives.",
   "version": "1.0.0",
+  "domain": "psychology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:22.667Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.421Z"
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Entrepreneurship",
+      "content": "A practical example demonstrating Entrepreneurship",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "entrepreneurship"
+      ]
+    }
+  ]
+}

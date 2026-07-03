@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Condensation?",
+      "back": "Condensation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Condensation important?",
+      "back": "Condensation is essential for understanding Thermodynamics.",
+      "difficulty": "medium"
+    }
+  ]
+}

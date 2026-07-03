@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Lifelong Learning",
+      "content": "A practical example demonstrating Lifelong Learning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "lifelong-learning"
+      ]
+    }
+  ]
+}

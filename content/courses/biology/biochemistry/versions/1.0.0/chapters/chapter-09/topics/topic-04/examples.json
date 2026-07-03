@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cholesterol Metabolism",
+      "content": "A practical example demonstrating Cholesterol Metabolism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cholesterol-metabolism"
+      ]
+    }
+  ]
+}

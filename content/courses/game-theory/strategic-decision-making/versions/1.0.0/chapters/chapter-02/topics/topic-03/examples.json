@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chance Nodes",
+      "content": "A practical example demonstrating Chance Nodes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "chance-nodes"
+      ]
+    }
+  ]
+}

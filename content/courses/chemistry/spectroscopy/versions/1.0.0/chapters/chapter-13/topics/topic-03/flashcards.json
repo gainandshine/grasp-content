@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is GC-MS?",
+      "back": "GC-MS is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is GC-MS important?",
+      "back": "GC-MS is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

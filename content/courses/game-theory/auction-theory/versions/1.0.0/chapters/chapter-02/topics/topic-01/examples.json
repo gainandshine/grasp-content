@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Private Value Auctions",
+      "content": "A practical example demonstrating Private Value Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "private-value-auctions"
+      ]
+    }
+  ]
+}

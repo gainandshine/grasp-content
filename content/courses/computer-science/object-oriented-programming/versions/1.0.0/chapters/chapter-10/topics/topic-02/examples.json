@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Generic Methods",
+      "content": "A practical example demonstrating Generic Methods",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "generic-methods"
+      ]
+    }
+  ]
+}

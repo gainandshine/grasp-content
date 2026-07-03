@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Medicinal Chemistry (Introduction)",
+      "content": "A practical example demonstrating Medicinal Chemistry (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "medicinal-chemistry-introduction"
+      ]
+    }
+  ]
+}

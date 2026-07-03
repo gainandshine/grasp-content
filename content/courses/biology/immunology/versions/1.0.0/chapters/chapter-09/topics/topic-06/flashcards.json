@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is HIV/AIDS?",
+      "back": "HIV/AIDS is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is HIV/AIDS important?",
+      "back": "HIV/AIDS is essential for understanding Immunology.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Precipitation Titration",
+      "content": "A practical example demonstrating Precipitation Titration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "precipitation-titration"
+      ]
+    }
+  ]
+}

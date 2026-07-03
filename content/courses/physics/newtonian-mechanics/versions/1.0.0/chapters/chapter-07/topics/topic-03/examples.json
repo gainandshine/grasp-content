@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Connected Masses",
+      "content": "A practical example demonstrating Connected Masses",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "connected-masses"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Retrosynthetic Analysis",
+      "content": "A practical example demonstrating Retrosynthetic Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "retrosynthetic-analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Strong Consistency?",
+      "back": "Strong Consistency is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Strong Consistency important?",
+      "back": "Strong Consistency is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

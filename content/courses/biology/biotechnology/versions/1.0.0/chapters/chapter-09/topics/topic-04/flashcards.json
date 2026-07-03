@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bioplastics?",
+      "back": "Bioplastics is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bioplastics important?",
+      "back": "Bioplastics is essential for understanding Biotechnology.",
+      "difficulty": "medium"
+    }
+  ]
+}

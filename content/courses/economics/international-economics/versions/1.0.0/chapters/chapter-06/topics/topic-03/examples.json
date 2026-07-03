@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Financial Account",
+      "content": "A practical example demonstrating Financial Account",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "financial-account"
+      ]
+    }
+  ]
+}

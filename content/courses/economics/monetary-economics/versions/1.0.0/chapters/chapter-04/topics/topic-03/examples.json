@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time Value of Money",
+      "content": "A practical example demonstrating Time Value of Money",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "time-value-of-money"
+      ]
+    }
+  ]
+}

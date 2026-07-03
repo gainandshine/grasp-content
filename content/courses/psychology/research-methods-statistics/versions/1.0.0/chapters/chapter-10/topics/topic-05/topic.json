@@ -1,6 +1,16 @@
 {
   "id": "topic-05",
   "name": "Institutional Review Boards (IRBs)",
-  "description": "Learn about Institutional Review Boards (IRBs)",
-  "conceptId": "psychology.research-methods-statistics.chapter-10.topic-05"
+  "topicId": "psychology.research-methods-statistics.chapter-10.topic-05",
+  "description": "Learn about Institutional Review Boards (IRBs) and its applications in psychology.",
+  "content": {
+    "overview": "Institutional Review Boards (IRBs) is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Institutional Review Boards (IRBs). Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Institutional Review Boards (IRBs) requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Institutional Review Boards (IRBs) is essential for mastering Research Methods & Statistics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

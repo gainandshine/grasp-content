@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Molecular Dynamics Simulation",
+      "content": "A practical example demonstrating Molecular Dynamics Simulation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "molecular-dynamics-simulation"
+      ]
+    }
+  ]
+}

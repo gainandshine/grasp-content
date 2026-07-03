@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Speed of Light",
+      "content": "A practical example demonstrating Speed of Light",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "speed-of-light"
+      ]
+    }
+  ]
+}

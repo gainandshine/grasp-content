@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Magnetic Moment",
+      "content": "A practical example demonstrating Magnetic Moment",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "magnetic-moment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Random Number Generation",
+      "content": "A practical example demonstrating Random Number Generation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "random-number-generation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thin Layer Chromatography (TLC)",
+      "content": "A practical example demonstrating Thin Layer Chromatography (TLC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "thin-layer-chromatography-tlc"
+      ]
+    }
+  ]
+}

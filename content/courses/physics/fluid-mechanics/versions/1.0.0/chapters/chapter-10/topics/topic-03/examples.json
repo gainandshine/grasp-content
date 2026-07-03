@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ship Buoyancy",
+      "content": "A practical example demonstrating Ship Buoyancy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ship-buoyancy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Quantum Cosmology?",
+      "back": "Quantum Cosmology is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Quantum Cosmology important?",
+      "back": "Quantum Cosmology is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

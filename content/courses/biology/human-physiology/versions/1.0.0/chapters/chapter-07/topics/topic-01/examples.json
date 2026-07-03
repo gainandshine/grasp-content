@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Kidney Function",
+      "content": "A practical example demonstrating Kidney Function",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "kidney-function"
+      ]
+    }
+  ]
+}

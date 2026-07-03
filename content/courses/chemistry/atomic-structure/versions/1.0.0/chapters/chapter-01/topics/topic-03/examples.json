@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thomson's Atomic Model",
+      "content": "A practical example demonstrating Thomson's Atomic Model",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "thomsons-atomic-model"
+      ]
+    }
+  ]
+}

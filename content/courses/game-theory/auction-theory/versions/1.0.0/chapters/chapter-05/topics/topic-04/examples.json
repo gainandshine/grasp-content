@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bid Shading",
+      "content": "A practical example demonstrating Bid Shading",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "bid-shading"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Euler Graphs?",
+      "back": "Euler Graphs is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Euler Graphs important?",
+      "back": "Euler Graphs is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

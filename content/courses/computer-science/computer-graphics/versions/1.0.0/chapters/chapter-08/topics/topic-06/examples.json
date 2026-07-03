@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Environment Mapping",
+      "content": "A practical example demonstrating Environment Mapping",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "environment-mapping"
+      ]
+    }
+  ]
+}

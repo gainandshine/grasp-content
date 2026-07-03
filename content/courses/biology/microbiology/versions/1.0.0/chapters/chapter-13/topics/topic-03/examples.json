@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Synthetic Microbiology",
+      "content": "A practical example demonstrating Synthetic Microbiology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "synthetic-microbiology"
+      ]
+    }
+  ]
+}

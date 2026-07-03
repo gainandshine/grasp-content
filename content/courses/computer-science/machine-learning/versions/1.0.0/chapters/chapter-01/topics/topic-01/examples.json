@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: What is Machine Learning?",
+      "content": "A practical example demonstrating What is Machine Learning?",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "what-is-machine-learning"
+      ]
+    }
+  ]
+}

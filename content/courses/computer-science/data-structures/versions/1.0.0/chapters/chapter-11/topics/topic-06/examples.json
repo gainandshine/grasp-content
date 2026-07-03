@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Union by Rank",
+      "content": "A practical example demonstrating Union by Rank",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "union-by-rank"
+      ]
+    }
+  ]
+}

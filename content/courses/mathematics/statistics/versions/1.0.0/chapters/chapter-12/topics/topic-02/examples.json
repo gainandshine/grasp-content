@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chi-Square Independence Test",
+      "content": "A practical example demonstrating Chi-Square Independence Test",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "chi-square-independence-test"
+      ]
+    }
+  ]
+}

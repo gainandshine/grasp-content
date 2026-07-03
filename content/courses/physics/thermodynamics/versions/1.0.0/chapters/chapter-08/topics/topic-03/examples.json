@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carnot Cycle",
+      "content": "A practical example demonstrating Carnot Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "carnot-cycle"
+      ]
+    }
+  ]
+}

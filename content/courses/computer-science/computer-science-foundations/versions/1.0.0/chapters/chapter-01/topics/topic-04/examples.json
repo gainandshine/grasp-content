@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hardware vs Software",
+      "content": "A practical example demonstrating Hardware vs Software",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "hardware-vs-software"
+      ]
+    }
+  ]
+}

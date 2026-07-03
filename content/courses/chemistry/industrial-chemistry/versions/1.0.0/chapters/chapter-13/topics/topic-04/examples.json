@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Digital Twins",
+      "content": "A practical example demonstrating Digital Twins",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "digital-twins"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Virtualization & Containers",
+      "content": "A practical example demonstrating Virtualization & Containers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "virtualization-containers"
+      ]
+    }
+  ]
+}

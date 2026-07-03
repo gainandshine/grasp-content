@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Harmonic Mean",
+      "content": "A practical example demonstrating Harmonic Mean",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "harmonic-mean"
+      ]
+    }
+  ]
+}

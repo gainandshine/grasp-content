@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Galaxy Clusters",
+      "content": "A practical example demonstrating Galaxy Clusters",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "galaxy-clusters"
+      ]
+    }
+  ]
+}

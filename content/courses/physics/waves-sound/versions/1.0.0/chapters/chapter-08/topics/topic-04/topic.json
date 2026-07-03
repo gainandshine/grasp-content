@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Diffraction of Sound",
-  "description": "Learn about Diffraction of Sound",
-  "conceptId": "physics.waves-sound.chapter-08.topic-04"
+  "topicId": "physics.waves-sound.chapter-08.topic-04",
+  "description": "Learn about Diffraction of Sound and its applications in physics.",
+  "content": {
+    "overview": "Diffraction of Sound is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Diffraction of Sound. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Diffraction of Sound requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Diffraction of Sound is essential for mastering Waves & Sound. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

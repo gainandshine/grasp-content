@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Agricultural Testing?",
+      "back": "Agricultural Testing is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Agricultural Testing important?",
+      "back": "Agricultural Testing is essential for understanding Analytical Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

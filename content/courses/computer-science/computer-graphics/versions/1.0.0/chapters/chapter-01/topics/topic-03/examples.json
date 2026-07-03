@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Raster Graphics",
+      "content": "A practical example demonstrating Raster Graphics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "raster-graphics"
+      ]
+    }
+  ]
+}

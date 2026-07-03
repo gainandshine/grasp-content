@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: KISS Principle",
+      "content": "A practical example demonstrating KISS Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "kiss-principle"
+      ]
+    }
+  ]
+}

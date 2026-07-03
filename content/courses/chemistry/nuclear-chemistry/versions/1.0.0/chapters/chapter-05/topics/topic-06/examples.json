@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reactor Fuel Cycle",
+      "content": "A practical example demonstrating Reactor Fuel Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "reactor-fuel-cycle"
+      ]
+    }
+  ]
+}

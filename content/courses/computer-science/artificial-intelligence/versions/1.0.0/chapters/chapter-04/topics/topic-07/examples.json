@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rule-Based Systems",
+      "content": "A practical example demonstrating Rule-Based Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "rule-based-systems"
+      ]
+    }
+  ]
+}

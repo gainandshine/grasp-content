@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Consumer Goods?",
+      "back": "Consumer Goods is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Consumer Goods important?",
+      "back": "Consumer Goods is essential for understanding Industrial Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

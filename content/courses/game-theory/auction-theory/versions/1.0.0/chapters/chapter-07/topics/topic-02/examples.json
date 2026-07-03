@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Auction Efficiency",
+      "content": "A practical example demonstrating Auction Efficiency",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "auction-efficiency"
+      ]
+    }
+  ]
+}

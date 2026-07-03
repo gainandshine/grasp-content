@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Classical Construction Problems",
-  "description": "Learn about Classical Construction Problems",
-  "conceptId": "mathematics.abstract-algebra.chapter-11.topic-04"
+  "topicId": "mathematics.abstract-algebra.chapter-11.topic-04",
+  "description": "Learn about Classical Construction Problems and its applications in mathematics.",
+  "content": {
+    "overview": "Classical Construction Problems is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Classical Construction Problems. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Classical Construction Problems requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Classical Construction Problems is essential for mastering Abstract Algebra. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

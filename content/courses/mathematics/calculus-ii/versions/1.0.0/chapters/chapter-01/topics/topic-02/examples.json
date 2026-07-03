@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Integration by Substitution",
+      "content": "A practical example demonstrating Integration by Substitution",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "integration-by-substitution"
+      ]
+    }
+  ]
+}

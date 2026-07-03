@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Career Decisions",
-  "description": "Learn about Career Decisions",
-  "conceptId": "game-theory.strategic-decision-making.chapter-12.topic-03"
+  "topicId": "game-theory.strategic-decision-making.chapter-12.topic-03",
+  "description": "Learn about Career Decisions and its applications in game-theory.",
+  "content": {
+    "overview": "Career Decisions is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Career Decisions. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Career Decisions requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Career Decisions is essential for mastering Strategic Decision Making. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

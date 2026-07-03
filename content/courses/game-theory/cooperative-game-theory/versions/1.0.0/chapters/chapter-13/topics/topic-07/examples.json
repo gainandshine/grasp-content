@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 8: Auction Theory**",
+      "content": "A practical example demonstrating *Course 8: Auction Theory**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "course-8-auction-theory"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Publish-Subscribe Systems",
+      "content": "A practical example demonstrating Publish-Subscribe Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "publish-subscribe-systems"
+      ]
+    }
+  ]
+}

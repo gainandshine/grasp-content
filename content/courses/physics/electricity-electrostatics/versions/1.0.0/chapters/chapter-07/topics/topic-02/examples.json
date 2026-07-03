@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parallel Plate Capacitor",
+      "content": "A practical example demonstrating Parallel Plate Capacitor",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "parallel-plate-capacitor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Eutrophication",
+      "content": "A practical example demonstrating Eutrophication",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "eutrophication"
+      ]
+    }
+  ]
+}

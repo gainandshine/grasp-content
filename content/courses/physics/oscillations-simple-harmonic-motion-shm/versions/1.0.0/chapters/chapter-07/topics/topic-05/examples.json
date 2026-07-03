@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Transient Motion",
+      "content": "A practical example demonstrating Transient Motion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "transient-motion"
+      ]
+    }
+  ]
+}

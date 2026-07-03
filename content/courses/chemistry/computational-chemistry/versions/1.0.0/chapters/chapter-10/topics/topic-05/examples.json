@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Virtual Screening",
+      "content": "A practical example demonstrating Virtual Screening",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "virtual-screening"
+      ]
+    }
+  ]
+}

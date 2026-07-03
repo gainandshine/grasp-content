@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Markov Decision Processes (Introduction)",
+      "content": "A practical example demonstrating Markov Decision Processes (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "markov-decision-processes-introduction"
+      ]
+    }
+  ]
+}

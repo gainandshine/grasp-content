@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Healthcare Policy",
+      "content": "A practical example demonstrating Healthcare Policy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "healthcare-policy"
+      ]
+    }
+  ]
+}

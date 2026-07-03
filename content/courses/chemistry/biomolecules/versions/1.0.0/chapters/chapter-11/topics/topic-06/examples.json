@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: ELISA (Introduction)",
+      "content": "A practical example demonstrating ELISA (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "elisa-introduction"
+      ]
+    }
+  ]
+}

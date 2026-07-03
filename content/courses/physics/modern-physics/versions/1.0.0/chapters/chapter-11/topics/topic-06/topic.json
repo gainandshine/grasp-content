@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Nanotechnology",
-  "description": "Learn about Nanotechnology",
-  "conceptId": "physics.modern-physics.chapter-11.topic-06"
+  "topicId": "physics.modern-physics.chapter-11.topic-06",
+  "description": "Learn about Nanotechnology and its applications in physics.",
+  "content": {
+    "overview": "Nanotechnology is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Nanotechnology. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Nanotechnology requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Nanotechnology is essential for mastering Modern Physics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

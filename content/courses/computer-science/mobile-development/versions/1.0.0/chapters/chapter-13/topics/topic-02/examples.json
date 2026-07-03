@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: E-Commerce Apps",
+      "content": "A practical example demonstrating E-Commerce Apps",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "e-commerce-apps"
+      ]
+    }
+  ]
+}

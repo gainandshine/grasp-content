@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Eastern Philosophy",
+      "content": "A practical example demonstrating Eastern Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "eastern-philosophy"
+      ]
+    }
+  ]
+}

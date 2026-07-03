@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Horizontal Gene Transfer?",
+      "back": "Horizontal Gene Transfer is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Horizontal Gene Transfer important?",
+      "back": "Horizontal Gene Transfer is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

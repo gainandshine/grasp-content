@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Qualitative Analysis",
+      "content": "A practical example demonstrating Qualitative Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "qualitative-analysis"
+      ]
+    }
+  ]
+}

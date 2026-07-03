@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Abstract Syntax Trees (ASTs)",
+      "content": "A practical example demonstrating Abstract Syntax Trees (ASTs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "abstract-syntax-trees-asts"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Small-World Networks?",
+      "back": "Small-World Networks is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Small-World Networks important?",
+      "back": "Small-World Networks is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

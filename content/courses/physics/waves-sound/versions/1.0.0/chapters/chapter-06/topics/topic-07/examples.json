@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Audible Range",
+      "content": "A practical example demonstrating Audible Range",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "audible-range"
+      ]
+    }
+  ]
+}

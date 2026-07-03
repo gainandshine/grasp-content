@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Science & Philosophy",
+      "content": "A practical example demonstrating Science & Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "science-philosophy"
+      ]
+    }
+  ]
+}

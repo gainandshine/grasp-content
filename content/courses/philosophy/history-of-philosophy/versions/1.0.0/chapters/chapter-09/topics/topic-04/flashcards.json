@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Friedrich Nietzsche?",
+      "back": "Friedrich Nietzsche is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Friedrich Nietzsche important?",
+      "back": "Friedrich Nietzsche is essential for understanding History of Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

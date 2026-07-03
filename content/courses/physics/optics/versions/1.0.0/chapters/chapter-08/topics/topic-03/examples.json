@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Diffraction Grating",
+      "content": "A practical example demonstrating Diffraction Grating",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "diffraction-grating"
+      ]
+    }
+  ]
+}

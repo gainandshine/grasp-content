@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nutrient Cycling",
+      "content": "A practical example demonstrating Nutrient Cycling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "nutrient-cycling"
+      ]
+    }
+  ]
+}

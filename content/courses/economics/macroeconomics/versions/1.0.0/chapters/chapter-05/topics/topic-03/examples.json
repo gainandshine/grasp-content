@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Unemployment Rate",
+      "content": "A practical example demonstrating Unemployment Rate",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "unemployment-rate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sequential Circuits",
+      "content": "A practical example demonstrating Sequential Circuits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "sequential-circuits"
+      ]
+    }
+  ]
+}

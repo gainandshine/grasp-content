@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Generalized Second-Price Auctions",
+      "content": "A practical example demonstrating Generalized Second-Price Auctions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "generalized-second-price-auctions"
+      ]
+    }
+  ]
+}

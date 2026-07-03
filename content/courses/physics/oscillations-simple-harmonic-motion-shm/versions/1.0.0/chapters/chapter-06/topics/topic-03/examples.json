@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Critically Damped Motion",
+      "content": "A practical example demonstrating Critically Damped Motion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "critically-damped-motion"
+      ]
+    }
+  ]
+}

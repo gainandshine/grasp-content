@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Introduction to Design Patterns",
+      "content": "A practical example demonstrating Introduction to Design Patterns",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "introduction-to-design-patterns"
+      ]
+    }
+  ]
+}

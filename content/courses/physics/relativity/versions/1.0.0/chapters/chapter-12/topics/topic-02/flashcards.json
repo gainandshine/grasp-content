@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Satellite Navigation?",
+      "back": "Satellite Navigation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Satellite Navigation important?",
+      "back": "Satellite Navigation is essential for understanding Relativity.",
+      "difficulty": "medium"
+    }
+  ]
+}

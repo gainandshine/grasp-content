@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Nanotubes?",
+      "back": "Nanotubes is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Nanotubes important?",
+      "back": "Nanotubes is essential for understanding Nanochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

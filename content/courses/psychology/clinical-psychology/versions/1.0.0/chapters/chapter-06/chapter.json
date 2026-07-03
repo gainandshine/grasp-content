@@ -2,36 +2,37 @@
   "id": "chapter-06",
   "name": "Major Psychotherapy Approaches",
   "description": "Major Psychotherapy Approaches",
+  "overview": "This chapter covers the fundamental concepts of Major Psychotherapy Approaches.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Psychodynamic Therapy",
-      "conceptId": "psychology.clinical-psychology.chapter-06.topic-01"
+      "topicId": "psychology.clinical-psychology.chapter-06.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Humanistic Therapy",
-      "conceptId": "psychology.clinical-psychology.chapter-06.topic-02"
+      "topicId": "psychology.clinical-psychology.chapter-06.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Person-Centered Therapy",
-      "conceptId": "psychology.clinical-psychology.chapter-06.topic-03"
+      "topicId": "psychology.clinical-psychology.chapter-06.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Gestalt Therapy",
-      "conceptId": "psychology.clinical-psychology.chapter-06.topic-04"
+      "topicId": "psychology.clinical-psychology.chapter-06.topic-04"
     },
     {
       "id": "topic-05",
       "name": "Existential Therapy",
-      "conceptId": "psychology.clinical-psychology.chapter-06.topic-05"
+      "topicId": "psychology.clinical-psychology.chapter-06.topic-05"
     },
     {
       "id": "topic-06",
       "name": "Integrative Therapy",
-      "conceptId": "psychology.clinical-psychology.chapter-06.topic-06"
+      "topicId": "psychology.clinical-psychology.chapter-06.topic-06"
     }
   ]
 }

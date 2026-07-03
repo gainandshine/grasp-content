@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Transferable Utility (TU)",
+      "content": "A practical example demonstrating Transferable Utility (TU)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "transferable-utility-tu"
+      ]
+    }
+  ]
+}

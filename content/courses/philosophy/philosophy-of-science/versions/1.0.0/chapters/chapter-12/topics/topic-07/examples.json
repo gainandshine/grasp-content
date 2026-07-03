@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scientific Literacy",
+      "content": "A practical example demonstrating Scientific Literacy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "scientific-literacy"
+      ]
+    }
+  ]
+}

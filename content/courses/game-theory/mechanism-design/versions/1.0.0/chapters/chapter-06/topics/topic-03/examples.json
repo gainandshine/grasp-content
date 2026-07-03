@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deferred Acceptance Algorithm",
+      "content": "A practical example demonstrating Deferred Acceptance Algorithm",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "deferred-acceptance-algorithm"
+      ]
+    }
+  ]
+}

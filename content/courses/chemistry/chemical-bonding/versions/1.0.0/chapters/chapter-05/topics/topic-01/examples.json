@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: VSEPR Theory",
+      "content": "A practical example demonstrating VSEPR Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "vsepr-theory"
+      ]
+    }
+  ]
+}

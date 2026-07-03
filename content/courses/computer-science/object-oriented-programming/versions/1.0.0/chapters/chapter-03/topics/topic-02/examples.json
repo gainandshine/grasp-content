@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Default Constructors",
+      "content": "A practical example demonstrating Default Constructors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "default-constructors"
+      ]
+    }
+  ]
+}

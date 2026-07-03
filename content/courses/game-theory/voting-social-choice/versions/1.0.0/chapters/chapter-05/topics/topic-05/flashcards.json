@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Independence of Irrelevant Alternatives?",
+      "back": "Independence of Irrelevant Alternatives is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Independence of Irrelevant Alternatives important?",
+      "back": "Independence of Irrelevant Alternatives is essential for understanding Voting & Social Choice.",
+      "difficulty": "medium"
+    }
+  ]
+}

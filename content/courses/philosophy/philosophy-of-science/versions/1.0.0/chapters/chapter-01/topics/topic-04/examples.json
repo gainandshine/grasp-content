@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scientific Inquiry",
+      "content": "A practical example demonstrating Scientific Inquiry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "scientific-inquiry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Natural Selection",
+      "content": "A practical example demonstrating Natural Selection",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "natural-selection"
+      ]
+    }
+  ]
+}

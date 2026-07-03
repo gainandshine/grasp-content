@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 17: Artificial Intelligence**",
+      "content": "A practical example demonstrating *Course 17: Artificial Intelligence**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "course-17-artificial-intelligence"
+      ]
+    }
+  ]
+}

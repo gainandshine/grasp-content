@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Team Collaboration",
+      "content": "A practical example demonstrating Team Collaboration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "team-collaboration"
+      ]
+    }
+  ]
+}

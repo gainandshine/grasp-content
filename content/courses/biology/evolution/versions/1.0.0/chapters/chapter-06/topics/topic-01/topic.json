@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "Fossil Record",
-  "description": "Learn about Fossil Record",
-  "conceptId": "biology.evolution.chapter-06.topic-01"
+  "topicId": "biology.evolution.chapter-06.topic-01",
+  "description": "Learn about Fossil Record and its applications in biology.",
+  "content": {
+    "overview": "Fossil Record is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Fossil Record. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Fossil Record requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Fossil Record is essential for mastering Evolution. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

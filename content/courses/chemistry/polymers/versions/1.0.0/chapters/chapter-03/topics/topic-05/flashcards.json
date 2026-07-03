@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Polymer Morphology?",
+      "back": "Polymer Morphology is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Polymer Morphology important?",
+      "back": "Polymer Morphology is essential for understanding Polymers.",
+      "difficulty": "medium"
+    }
+  ]
+}

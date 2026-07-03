@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Government Procurement",
+      "content": "A practical example demonstrating Government Procurement",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "government-procurement"
+      ]
+    }
+  ]
+}

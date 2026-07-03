@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Light Microscopy",
+      "content": "A practical example demonstrating Light Microscopy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "light-microscopy"
+      ]
+    }
+  ]
+}

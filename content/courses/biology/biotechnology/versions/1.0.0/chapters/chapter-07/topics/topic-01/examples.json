@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Biopharmaceuticals",
+      "content": "A practical example demonstrating Biopharmaceuticals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "biopharmaceuticals"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Transversals?",
+      "back": "Transversals is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Transversals important?",
+      "back": "Transversals is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

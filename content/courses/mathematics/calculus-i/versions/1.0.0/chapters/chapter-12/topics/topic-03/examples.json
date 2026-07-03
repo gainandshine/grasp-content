@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Logistic Growth (Introduction)",
+      "content": "A practical example demonstrating Logistic Growth (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "logistic-growth-introduction"
+      ]
+    }
+  ]
+}

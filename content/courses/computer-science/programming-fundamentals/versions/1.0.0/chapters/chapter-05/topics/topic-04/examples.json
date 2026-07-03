@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nested Conditions",
+      "content": "A practical example demonstrating Nested Conditions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "nested-conditions"
+      ]
+    }
+  ]
+}

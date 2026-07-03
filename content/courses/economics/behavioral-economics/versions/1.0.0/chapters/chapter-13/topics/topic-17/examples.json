@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Causal Inference",
+      "content": "A practical example demonstrating Causal Inference",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "causal-inference"
+      ]
+    }
+  ]
+}

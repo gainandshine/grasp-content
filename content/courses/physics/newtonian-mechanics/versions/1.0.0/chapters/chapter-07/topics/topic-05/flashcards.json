@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multi-Body Systems?",
+      "back": "Multi-Body Systems is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multi-Body Systems important?",
+      "back": "Multi-Body Systems is essential for understanding Newtonian Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Constraint Satisfaction Problems (CSPs)",
+      "content": "A practical example demonstrating Constraint Satisfaction Problems (CSPs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "constraint-satisfaction-problems-csps"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hierarchical Clustering?",
+      "back": "Hierarchical Clustering is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hierarchical Clustering important?",
+      "back": "Hierarchical Clustering is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

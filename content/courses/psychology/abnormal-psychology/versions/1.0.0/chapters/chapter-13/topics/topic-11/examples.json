@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Psychotherapy",
+      "content": "A practical example demonstrating Psychotherapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "psychotherapy"
+      ]
+    }
+  ]
+}

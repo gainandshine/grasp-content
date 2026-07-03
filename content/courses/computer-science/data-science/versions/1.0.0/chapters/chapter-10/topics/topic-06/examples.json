@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Data-Driven Decision Making",
+      "content": "A practical example demonstrating Data-Driven Decision Making",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "data-driven-decision-making"
+      ]
+    }
+  ]
+}

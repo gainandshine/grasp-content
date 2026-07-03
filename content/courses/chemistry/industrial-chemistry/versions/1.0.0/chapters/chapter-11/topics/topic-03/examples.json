@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hazardous Chemicals",
+      "content": "A practical example demonstrating Hazardous Chemicals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "hazardous-chemicals"
+      ]
+    }
+  ]
+}

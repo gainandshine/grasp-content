@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Abstract Data Types (ADTs)",
+      "content": "A practical example demonstrating Abstract Data Types (ADTs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "abstract-data-types-adts"
+      ]
+    }
+  ]
+}

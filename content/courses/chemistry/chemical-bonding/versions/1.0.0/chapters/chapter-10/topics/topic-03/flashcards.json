@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Dipole Moment?",
+      "back": "Dipole Moment is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Dipole Moment important?",
+      "back": "Dipole Moment is essential for understanding Chemical Bonding.",
+      "difficulty": "medium"
+    }
+  ]
+}

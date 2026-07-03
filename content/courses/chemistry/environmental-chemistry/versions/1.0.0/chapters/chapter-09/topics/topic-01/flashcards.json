@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Toxic Chemicals?",
+      "back": "Toxic Chemicals is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Toxic Chemicals important?",
+      "back": "Toxic Chemicals is essential for understanding Environmental Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

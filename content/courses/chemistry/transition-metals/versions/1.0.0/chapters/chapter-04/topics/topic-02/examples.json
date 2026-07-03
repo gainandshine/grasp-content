@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Redox Behavior",
+      "content": "A practical example demonstrating Redox Behavior",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "redox-behavior"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Fuzzy Logic",
-  "description": "Learn about Fuzzy Logic",
-  "conceptId": "philosophy.logic.chapter-13.topic-04"
+  "topicId": "philosophy.logic.chapter-13.topic-04",
+  "description": "Learn about Fuzzy Logic and its applications in philosophy.",
+  "content": {
+    "overview": "Fuzzy Logic is a fundamental concept in philosophy. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Fuzzy Logic. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Fuzzy Logic requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Fuzzy Logic is essential for mastering Logic. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

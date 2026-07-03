@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Asymmetric Synthesis",
+      "content": "A practical example demonstrating Asymmetric Synthesis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "asymmetric-synthesis"
+      ]
+    }
+  ]
+}

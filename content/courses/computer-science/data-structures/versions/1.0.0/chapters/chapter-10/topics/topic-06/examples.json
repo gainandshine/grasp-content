@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graph Traversals (BFS & DFS)",
+      "content": "A practical example demonstrating Graph Traversals (BFS & DFS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "graph-traversals-bfs-dfs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mutual Inductance",
+      "content": "A practical example demonstrating Mutual Inductance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "mutual-inductance"
+      ]
+    }
+  ]
+}

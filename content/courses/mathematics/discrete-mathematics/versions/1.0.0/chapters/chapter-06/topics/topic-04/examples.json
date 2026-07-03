@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pigeonhole Principle",
+      "content": "A practical example demonstrating Pigeonhole Principle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "pigeonhole-principle"
+      ]
+    }
+  ]
+}

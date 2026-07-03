@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Weak Dominance",
+      "content": "A practical example demonstrating Weak Dominance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "weak-dominance"
+      ]
+    }
+  ]
+}

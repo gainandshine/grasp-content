@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Predicate Logic",
+      "content": "A practical example demonstrating Predicate Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "predicate-logic"
+      ]
+    }
+  ]
+}

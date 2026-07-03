@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Battle of the Sexes?",
+      "back": "Battle of the Sexes is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Battle of the Sexes important?",
+      "back": "Battle of the Sexes is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: User Space vs Kernel Space",
+      "content": "A practical example demonstrating User Space vs Kernel Space",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "user-space-vs-kernel-space"
+      ]
+    }
+  ]
+}

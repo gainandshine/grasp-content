@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Equilibrium Algorithms?",
+      "back": "Equilibrium Algorithms is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Equilibrium Algorithms important?",
+      "back": "Equilibrium Algorithms is essential for understanding Simultaneous Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

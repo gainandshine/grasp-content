@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cosmic Web",
+      "content": "A practical example demonstrating Cosmic Web",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "cosmic-web"
+      ]
+    }
+  ]
+}

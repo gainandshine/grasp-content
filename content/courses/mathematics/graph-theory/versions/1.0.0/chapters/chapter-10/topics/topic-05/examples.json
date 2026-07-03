@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hungarian Algorithm (Introduction)",
+      "content": "A practical example demonstrating Hungarian Algorithm (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "hungarian-algorithm-introduction"
+      ]
+    }
+  ]
+}

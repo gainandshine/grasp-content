@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Adaptive Optics",
+      "content": "A practical example demonstrating Adaptive Optics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "adaptive-optics"
+      ]
+    }
+  ]
+}

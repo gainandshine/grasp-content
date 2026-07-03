@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Darcy-Weisbach Equation",
+      "content": "A practical example demonstrating Darcy-Weisbach Equation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "darcy-weisbach-equation"
+      ]
+    }
+  ]
+}

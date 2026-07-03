@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionarily Stable Strategy (ESS)",
+      "content": "A practical example demonstrating Evolutionarily Stable Strategy (ESS)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "evolutionarily-stable-strategy-ess"
+      ]
+    }
+  ]
+}

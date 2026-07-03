@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Parsing?",
+      "back": "Parsing is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Parsing important?",
+      "back": "Parsing is essential for understanding Distributed Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

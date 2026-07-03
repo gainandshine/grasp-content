@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Compile-Time Polymorphism",
+      "content": "A practical example demonstrating Compile-Time Polymorphism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "compile-time-polymorphism"
+      ]
+    }
+  ]
+}

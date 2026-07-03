@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Discourse Analysis",
+      "content": "A practical example demonstrating Discourse Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "discourse-analysis"
+      ]
+    }
+  ]
+}

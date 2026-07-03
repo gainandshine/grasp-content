@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pricing Strategies",
+      "content": "A practical example demonstrating Pricing Strategies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "pricing-strategies"
+      ]
+    }
+  ]
+}

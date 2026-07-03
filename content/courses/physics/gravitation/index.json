@@ -1,10 +1,11 @@
 {
   "id": "gravitation",
   "title": "Gravitation",
-  "description": "This course studies gravity—from falling objects on Earth to planetary motion, satellites, and orbital mechanics.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 20,
-  "chapters": 10,
-  "updatedAt": "2026-07-02T10:38:12.387Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.722Z"
 }

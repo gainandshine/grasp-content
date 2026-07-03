@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon Nanotubes",
+      "content": "A practical example demonstrating Carbon Nanotubes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "carbon-nanotubes"
+      ]
+    }
+  ]
+}

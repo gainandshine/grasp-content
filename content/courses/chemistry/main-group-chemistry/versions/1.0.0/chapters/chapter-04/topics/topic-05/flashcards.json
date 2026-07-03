@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Indium?",
+      "back": "Indium is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Indium important?",
+      "back": "Indium is essential for understanding Main Group Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

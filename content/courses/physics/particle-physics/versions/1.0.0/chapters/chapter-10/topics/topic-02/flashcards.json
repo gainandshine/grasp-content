@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Fermions?",
+      "back": "Fermions is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Fermions important?",
+      "back": "Fermions is essential for understanding Particle Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

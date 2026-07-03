@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is IEEE 754 Standard?",
+      "back": "IEEE 754 Standard is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is IEEE 754 Standard important?",
+      "back": "IEEE 754 Standard is essential for understanding Computer Organization.",
+      "difficulty": "medium"
+    }
+  ]
+}

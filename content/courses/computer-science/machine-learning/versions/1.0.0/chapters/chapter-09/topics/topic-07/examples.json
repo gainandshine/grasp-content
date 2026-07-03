@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deep Reinforcement Learning (Introduction)",
+      "content": "A practical example demonstrating Deep Reinforcement Learning (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "deep-reinforcement-learning-introduction"
+      ]
+    }
+  ]
+}

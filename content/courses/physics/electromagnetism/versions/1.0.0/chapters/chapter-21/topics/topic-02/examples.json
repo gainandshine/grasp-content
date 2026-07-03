@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Parallel RLC Circuits",
+      "content": "A practical example demonstrating Parallel RLC Circuits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "parallel-rlc-circuits"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Variable Force",
+      "content": "A practical example demonstrating Variable Force",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "variable-force"
+      ]
+    }
+  ]
+}

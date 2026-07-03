@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Error Propagation?",
+      "back": "Error Propagation is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Error Propagation important?",
+      "back": "Error Propagation is essential for understanding Physics Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

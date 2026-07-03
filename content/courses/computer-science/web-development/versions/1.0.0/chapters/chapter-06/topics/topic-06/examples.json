@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Frontend Build Tools",
+      "content": "A practical example demonstrating Frontend Build Tools",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "frontend-build-tools"
+      ]
+    }
+  ]
+}

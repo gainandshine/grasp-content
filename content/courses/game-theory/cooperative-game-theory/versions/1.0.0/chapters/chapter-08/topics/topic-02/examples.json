@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cost Allocation",
+      "content": "A practical example demonstrating Cost Allocation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "cost-allocation"
+      ]
+    }
+  ]
+}

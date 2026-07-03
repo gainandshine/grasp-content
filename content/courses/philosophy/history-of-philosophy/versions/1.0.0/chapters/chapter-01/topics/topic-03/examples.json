@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Milesian School",
+      "content": "A practical example demonstrating Milesian School",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "milesian-school"
+      ]
+    }
+  ]
+}

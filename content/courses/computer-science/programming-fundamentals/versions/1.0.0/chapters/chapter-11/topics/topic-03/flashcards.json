@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Flowcharts?",
+      "back": "Flowcharts is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Flowcharts important?",
+      "back": "Flowcharts is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Utility Functions?",
+      "back": "Utility Functions is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Utility Functions important?",
+      "back": "Utility Functions is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

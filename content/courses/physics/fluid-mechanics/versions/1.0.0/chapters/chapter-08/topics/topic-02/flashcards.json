@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Wetting?",
+      "back": "Wetting is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Wetting important?",
+      "back": "Wetting is essential for understanding Fluid Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

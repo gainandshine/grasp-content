@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plant Metabolism",
+      "content": "A practical example demonstrating Plant Metabolism",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "plant-metabolism"
+      ]
+    }
+  ]
+}

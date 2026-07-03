@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Labor Markets",
+      "content": "A practical example demonstrating Labor Markets",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "labor-markets"
+      ]
+    }
+  ]
+}

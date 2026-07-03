@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gottfried Wilhelm Leibniz",
+      "content": "A practical example demonstrating Gottfried Wilhelm Leibniz",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "gottfried-wilhelm-leibniz"
+      ]
+    }
+  ]
+}

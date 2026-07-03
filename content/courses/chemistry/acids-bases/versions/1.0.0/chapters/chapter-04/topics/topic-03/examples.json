@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hydrogen Ion Concentration",
+      "content": "A practical example demonstrating Hydrogen Ion Concentration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "hydrogen-ion-concentration"
+      ]
+    }
+  ]
+}

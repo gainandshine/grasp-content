@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shape Memory Alloys",
+      "content": "A practical example demonstrating Shape Memory Alloys",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "shape-memory-alloys"
+      ]
+    }
+  ]
+}

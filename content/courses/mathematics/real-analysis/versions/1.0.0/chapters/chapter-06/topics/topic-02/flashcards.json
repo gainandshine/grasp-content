@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Uniform Continuity?",
+      "back": "Uniform Continuity is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Uniform Continuity important?",
+      "back": "Uniform Continuity is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

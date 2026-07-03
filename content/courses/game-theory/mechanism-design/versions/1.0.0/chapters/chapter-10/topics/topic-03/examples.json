@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Distributed Mechanisms",
+      "content": "A practical example demonstrating Distributed Mechanisms",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "distributed-mechanisms"
+      ]
+    }
+  ]
+}

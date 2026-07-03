@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fuel Energy",
+      "content": "A practical example demonstrating Fuel Energy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "fuel-energy"
+      ]
+    }
+  ]
+}

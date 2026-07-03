@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Particle Decay",
+      "content": "A practical example demonstrating Particle Decay",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "particle-decay"
+      ]
+    }
+  ]
+}

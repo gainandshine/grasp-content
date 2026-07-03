@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Free Fall",
+      "content": "A practical example demonstrating Free Fall",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "free-fall"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pascal's Triangle",
+      "content": "A practical example demonstrating Pascal's Triangle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "pascals-triangle"
+      ]
+    }
+  ]
+}

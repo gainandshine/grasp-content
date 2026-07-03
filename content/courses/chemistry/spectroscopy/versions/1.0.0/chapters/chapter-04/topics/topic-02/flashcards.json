@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Molecular Vibrations?",
+      "back": "Molecular Vibrations is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Molecular Vibrations important?",
+      "back": "Molecular Vibrations is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

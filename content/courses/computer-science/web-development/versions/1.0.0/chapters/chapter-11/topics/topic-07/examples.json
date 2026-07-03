@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Monitoring & Logging",
+      "content": "A practical example demonstrating Monitoring & Logging",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "monitoring-logging"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Processes & Threads",
+      "content": "A practical example demonstrating Processes & Threads",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "processes-threads"
+      ]
+    }
+  ]
+}

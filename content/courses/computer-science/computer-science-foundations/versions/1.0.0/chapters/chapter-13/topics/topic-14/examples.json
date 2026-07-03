@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Conditional Statements",
+      "content": "A practical example demonstrating Conditional Statements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "conditional-statements"
+      ]
+    }
+  ]
+}

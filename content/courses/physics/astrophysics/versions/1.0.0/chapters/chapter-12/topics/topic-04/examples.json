@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Messenger Astronomy",
+      "content": "A practical example demonstrating Multi-Messenger Astronomy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "multi-messenger-astronomy"
+      ]
+    }
+  ]
+}

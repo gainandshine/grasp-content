@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Environmental Agreements",
+      "content": "A practical example demonstrating Environmental Agreements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "environmental-agreements"
+      ]
+    }
+  ]
+}

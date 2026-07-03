@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Eye Defects",
+      "content": "A practical example demonstrating Eye Defects",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "eye-defects"
+      ]
+    }
+  ]
+}

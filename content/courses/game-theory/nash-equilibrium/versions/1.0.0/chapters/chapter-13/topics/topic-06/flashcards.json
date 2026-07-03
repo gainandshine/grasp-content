@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Frontiers of Equilibrium Theory?",
+      "back": "Frontiers of Equilibrium Theory is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Frontiers of Equilibrium Theory important?",
+      "back": "Frontiers of Equilibrium Theory is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

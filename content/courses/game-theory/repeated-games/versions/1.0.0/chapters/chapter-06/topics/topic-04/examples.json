@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Forgiveness",
+      "content": "A practical example demonstrating Forgiveness",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "forgiveness"
+      ]
+    }
+  ]
+}

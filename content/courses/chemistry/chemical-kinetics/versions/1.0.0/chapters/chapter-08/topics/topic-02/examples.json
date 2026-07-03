@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Elementary Steps",
+      "content": "A practical example demonstrating Elementary Steps",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "elementary-steps"
+      ]
+    }
+  ]
+}

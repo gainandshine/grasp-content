@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "TCP/IP Model",
-  "description": "Learn about TCP/IP Model",
-  "conceptId": "computer-science.computer-networks.chapter-02.topic-02"
+  "topicId": "computer-science.computer-networks.chapter-02.topic-02",
+  "description": "Learn about TCP/IP Model and its applications in computer-science.",
+  "content": {
+    "overview": "TCP/IP Model is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of TCP/IP Model. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding TCP/IP Model requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "TCP/IP Model is essential for mastering Computer Networks. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

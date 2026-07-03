@@ -1,10 +1,11 @@
 {
   "id": "immunology",
   "title": "Immunology",
-  "description": "This course studies **the immune system**, how it protects the body from pathogens, how vaccines work, and why immune disorders such as allergies, autoimmune diseases, and immunodeficiencies occur.",
   "version": "1.0.0",
+  "domain": "biology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:17.788Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.307Z"
 }

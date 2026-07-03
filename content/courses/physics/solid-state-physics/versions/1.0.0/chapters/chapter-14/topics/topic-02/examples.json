@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Computer Processors",
+      "content": "A practical example demonstrating Computer Processors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "computer-processors"
+      ]
+    }
+  ]
+}

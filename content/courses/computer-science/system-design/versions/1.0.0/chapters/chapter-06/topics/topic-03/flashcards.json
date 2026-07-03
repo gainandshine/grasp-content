@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Partitioning?",
+      "back": "Partitioning is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Partitioning important?",
+      "back": "Partitioning is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

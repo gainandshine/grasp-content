@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Thermoelectric Materials",
+      "content": "A practical example demonstrating Thermoelectric Materials",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "thermoelectric-materials"
+      ]
+    }
+  ]
+}

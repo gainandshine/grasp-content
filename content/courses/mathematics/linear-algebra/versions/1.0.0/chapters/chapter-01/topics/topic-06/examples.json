@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Echelon Form",
+      "content": "A practical example demonstrating Echelon Form",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "echelon-form"
+      ]
+    }
+  ]
+}

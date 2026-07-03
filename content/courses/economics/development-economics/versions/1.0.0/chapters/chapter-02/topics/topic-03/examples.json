@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Human Development Index (HDI)",
+      "content": "A practical example demonstrating Human Development Index (HDI)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "human-development-index-hdi"
+      ]
+    }
+  ]
+}

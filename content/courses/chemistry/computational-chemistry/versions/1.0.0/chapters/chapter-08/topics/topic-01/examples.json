@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Random Sampling",
+      "content": "A practical example demonstrating Random Sampling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "random-sampling"
+      ]
+    }
+  ]
+}

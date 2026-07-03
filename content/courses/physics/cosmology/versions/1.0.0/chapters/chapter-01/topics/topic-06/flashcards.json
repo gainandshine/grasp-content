@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cosmic Timeline?",
+      "back": "Cosmic Timeline is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cosmic Timeline important?",
+      "back": "Cosmic Timeline is essential for understanding Cosmology.",
+      "difficulty": "medium"
+    }
+  ]
+}

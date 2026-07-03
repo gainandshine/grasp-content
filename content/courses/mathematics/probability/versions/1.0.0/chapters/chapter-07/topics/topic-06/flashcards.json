@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Chi-Square Distribution?",
+      "back": "Chi-Square Distribution is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Chi-Square Distribution important?",
+      "back": "Chi-Square Distribution is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

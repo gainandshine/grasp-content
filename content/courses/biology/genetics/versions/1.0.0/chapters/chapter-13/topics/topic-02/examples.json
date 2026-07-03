@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Evolutionary Genetics",
+      "content": "A practical example demonstrating Evolutionary Genetics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "evolutionary-genetics"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-06",
   "name": "Cooperation in Nature",
-  "description": "Learn about Cooperation in Nature",
-  "conceptId": "game-theory.evolutionary-game-theory.chapter-05.topic-06"
+  "topicId": "game-theory.evolutionary-game-theory.chapter-05.topic-06",
+  "description": "Learn about Cooperation in Nature and its applications in game-theory.",
+  "content": {
+    "overview": "Cooperation in Nature is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Cooperation in Nature. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Cooperation in Nature requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Cooperation in Nature is essential for mastering Evolutionary Game Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

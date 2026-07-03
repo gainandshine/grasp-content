@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stimulated Emission",
+      "content": "A practical example demonstrating Stimulated Emission",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "stimulated-emission"
+      ]
+    }
+  ]
+}

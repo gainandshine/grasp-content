@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Planning Problems?",
+      "back": "Planning Problems is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Planning Problems important?",
+      "back": "Planning Problems is essential for understanding Artificial Intelligence.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vibrating Strings",
+      "content": "A practical example demonstrating Vibrating Strings",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "vibrating-strings"
+      ]
+    }
+  ]
+}

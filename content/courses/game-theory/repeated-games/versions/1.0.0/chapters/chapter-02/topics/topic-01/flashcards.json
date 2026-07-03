@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Finite Horizon?",
+      "back": "Finite Horizon is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Finite Horizon important?",
+      "back": "Finite Horizon is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

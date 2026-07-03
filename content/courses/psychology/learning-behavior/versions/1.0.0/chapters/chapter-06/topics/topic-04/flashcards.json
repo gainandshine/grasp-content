@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Information Processing?",
+      "back": "Information Processing is a fundamental concept in psychology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Information Processing important?",
+      "back": "Information Processing is essential for understanding Learning & Behavior.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Stack-Based VMs",
-  "description": "Learn about Stack-Based VMs",
-  "conceptId": "computer-science.compiler-design.chapter-10.topic-04"
+  "topicId": "computer-science.compiler-design.chapter-10.topic-04",
+  "description": "Learn about Stack-Based VMs and its applications in computer-science.",
+  "content": {
+    "overview": "Stack-Based VMs is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Stack-Based VMs. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Stack-Based VMs requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Stack-Based VMs is essential for mastering Compiler Design. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

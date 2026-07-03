@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Percentage Error",
+      "content": "A practical example demonstrating Percentage Error",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "percentage-error"
+      ]
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "id": "macroeconomics",
   "title": "Macroeconomics",
-  "description": "This course studies **the economy as a whole**, including national income, inflation, unemployment, economic growth, and the policies governments and central banks use to stabilize the economy.",
   "version": "1.0.0",
+  "domain": "economics",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:20.187Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.360Z"
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is First Normal Form (1NF)?",
+      "back": "First Normal Form (1NF) is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is First Normal Form (1NF) important?",
+      "back": "First Normal Form (1NF) is essential for understanding Databases.",
+      "difficulty": "medium"
+    }
+  ]
+}

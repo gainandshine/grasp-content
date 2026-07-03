@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Collusion?",
+      "back": "Collusion is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Collusion important?",
+      "back": "Collusion is essential for understanding Auction Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

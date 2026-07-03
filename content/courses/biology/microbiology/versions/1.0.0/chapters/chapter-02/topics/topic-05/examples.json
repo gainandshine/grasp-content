@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bacterial Classification",
+      "content": "A practical example demonstrating Bacterial Classification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "bacterial-classification"
+      ]
+    }
+  ]
+}

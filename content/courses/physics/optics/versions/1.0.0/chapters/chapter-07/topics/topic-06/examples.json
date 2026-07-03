@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Newton's Rings",
+      "content": "A practical example demonstrating Newton's Rings",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "newtons-rings"
+      ]
+    }
+  ]
+}

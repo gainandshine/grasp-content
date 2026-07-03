@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: PET Scan",
+      "content": "A practical example demonstrating PET Scan",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "pet-scan"
+      ]
+    }
+  ]
+}

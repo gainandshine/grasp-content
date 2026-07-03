@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Regression Discontinuity",
+      "content": "A practical example demonstrating Regression Discontinuity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "regression-discontinuity"
+      ]
+    }
+  ]
+}

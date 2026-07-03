@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Space Complexity?",
+      "back": "Space Complexity is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Space Complexity important?",
+      "back": "Space Complexity is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

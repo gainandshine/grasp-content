@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Approval Voting",
+      "content": "A practical example demonstrating Approval Voting",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "approval-voting"
+      ]
+    }
+  ]
+}

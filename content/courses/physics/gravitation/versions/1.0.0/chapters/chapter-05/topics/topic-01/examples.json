@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Circular Orbits",
+      "content": "A practical example demonstrating Circular Orbits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "circular-orbits"
+      ]
+    }
+  ]
+}

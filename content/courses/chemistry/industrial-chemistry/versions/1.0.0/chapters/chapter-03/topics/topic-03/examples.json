@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heterogeneous Catalysis",
+      "content": "A practical example demonstrating Heterogeneous Catalysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "heterogeneous-catalysis"
+      ]
+    }
+  ]
+}

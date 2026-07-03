@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arithmetic Series",
+      "content": "A practical example demonstrating Arithmetic Series",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "arithmetic-series"
+      ]
+    }
+  ]
+}

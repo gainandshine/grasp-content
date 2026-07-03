@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: OAuth (Introduction)",
+      "content": "A practical example demonstrating OAuth (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "oauth-introduction"
+      ]
+    }
+  ]
+}

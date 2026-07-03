@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Drug Delivery Systems",
+      "content": "A practical example demonstrating Drug Delivery Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "drug-delivery-systems"
+      ]
+    }
+  ]
+}

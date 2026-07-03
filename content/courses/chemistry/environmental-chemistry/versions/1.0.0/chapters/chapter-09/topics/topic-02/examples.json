@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Heavy Metal Toxicity",
+      "content": "A practical example demonstrating Heavy Metal Toxicity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "heavy-metal-toxicity"
+      ]
+    }
+  ]
+}

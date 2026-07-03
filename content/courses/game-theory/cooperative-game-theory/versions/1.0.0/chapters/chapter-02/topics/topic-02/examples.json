@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Coalition Structures",
+      "content": "A practical example demonstrating Coalition Structures",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "coalition-structures"
+      ]
+    }
+  ]
+}

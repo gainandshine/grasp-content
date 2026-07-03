@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Runtime Errors",
+      "content": "A practical example demonstrating Runtime Errors",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "runtime-errors"
+      ]
+    }
+  ]
+}

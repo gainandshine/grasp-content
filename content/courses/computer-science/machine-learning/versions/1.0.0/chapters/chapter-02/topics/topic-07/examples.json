@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Train-Test Split",
+      "content": "A practical example demonstrating Train-Test Split",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "train-test-split"
+      ]
+    }
+  ]
+}

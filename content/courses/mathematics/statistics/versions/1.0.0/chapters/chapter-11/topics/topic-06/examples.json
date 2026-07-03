@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Goodness of Fit",
+      "content": "A practical example demonstrating Goodness of Fit",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "goodness-of-fit"
+      ]
+    }
+  ]
+}

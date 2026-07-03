@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: GPS Relativity",
+      "content": "A practical example demonstrating GPS Relativity",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "gps-relativity"
+      ]
+    }
+  ]
+}

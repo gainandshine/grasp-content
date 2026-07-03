@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Moving Observer",
+      "content": "A practical example demonstrating Moving Observer",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "moving-observer"
+      ]
+    }
+  ]
+}

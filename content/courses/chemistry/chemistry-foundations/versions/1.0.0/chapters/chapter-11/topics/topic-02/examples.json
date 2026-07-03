@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Household Chemicals",
+      "content": "A practical example demonstrating Household Chemicals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "household-chemicals"
+      ]
+    }
+  ]
+}

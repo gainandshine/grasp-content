@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Pauling Scale?",
+      "back": "Pauling Scale is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Pauling Scale important?",
+      "back": "Pauling Scale is essential for understanding Periodic Table.",
+      "difficulty": "medium"
+    }
+  ]
+}

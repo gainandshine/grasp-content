@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stainless Steel?",
+      "back": "Stainless Steel is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stainless Steel important?",
+      "back": "Stainless Steel is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

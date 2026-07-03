@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Writing Your First Program",
+      "content": "A practical example demonstrating Writing Your First Program",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "writing-your-first-program"
+      ]
+    }
+  ]
+}

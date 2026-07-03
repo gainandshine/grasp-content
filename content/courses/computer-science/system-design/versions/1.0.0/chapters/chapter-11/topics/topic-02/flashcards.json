@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Metrics?",
+      "back": "Metrics is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Metrics important?",
+      "back": "Metrics is essential for understanding System Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

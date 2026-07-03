@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Natural Rubber",
+      "content": "A practical example demonstrating Natural Rubber",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "natural-rubber"
+      ]
+    }
+  ]
+}

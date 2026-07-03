@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Experimental Evidence",
+      "content": "A practical example demonstrating Experimental Evidence",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "experimental-evidence"
+      ]
+    }
+  ]
+}

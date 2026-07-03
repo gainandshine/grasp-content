@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pressure Measurement",
+      "content": "A practical example demonstrating Pressure Measurement",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "pressure-measurement"
+      ]
+    }
+  ]
+}

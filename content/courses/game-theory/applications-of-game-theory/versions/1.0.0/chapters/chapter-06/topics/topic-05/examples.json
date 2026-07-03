@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Competitive AI",
+      "content": "A practical example demonstrating Competitive AI",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "competitive-ai"
+      ]
+    }
+  ]
+}

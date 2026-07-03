@@ -1,10 +1,11 @@
 {
   "id": "linear-algebra",
   "title": "Linear Algebra",
-  "description": "This is one of the most important mathematics courses for engineering, computer science, AI, graphics, robotics, physics, and data science.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 28,
-  "chapters": 14,
-  "updatedAt": "2026-07-02T10:38:14.399Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.223Z"
 }

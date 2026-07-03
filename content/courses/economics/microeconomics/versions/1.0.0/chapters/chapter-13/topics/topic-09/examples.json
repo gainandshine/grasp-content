@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: GDP & GNP",
+      "content": "A practical example demonstrating GDP & GNP",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "gdp-gnp"
+      ]
+    }
+  ]
+}

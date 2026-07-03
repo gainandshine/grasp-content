@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Alpha-Beta Pruning",
+      "content": "A practical example demonstrating Alpha-Beta Pruning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "alpha-beta-pruning"
+      ]
+    }
+  ]
+}

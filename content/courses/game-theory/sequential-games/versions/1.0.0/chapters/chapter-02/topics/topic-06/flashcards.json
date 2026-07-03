@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Paths Through a Game?",
+      "back": "Paths Through a Game is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Paths Through a Game important?",
+      "back": "Paths Through a Game is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

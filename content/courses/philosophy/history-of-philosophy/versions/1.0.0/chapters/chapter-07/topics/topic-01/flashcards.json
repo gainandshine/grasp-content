@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is John Locke?",
+      "back": "John Locke is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is John Locke important?",
+      "back": "John Locke is essential for understanding History of Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

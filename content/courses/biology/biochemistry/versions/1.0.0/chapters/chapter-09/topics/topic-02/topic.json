@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Fatty Acid Synthesis",
-  "description": "Learn about Fatty Acid Synthesis",
-  "conceptId": "biology.biochemistry.chapter-09.topic-02"
+  "topicId": "biology.biochemistry.chapter-09.topic-02",
+  "description": "Learn about Fatty Acid Synthesis and its applications in biology.",
+  "content": {
+    "overview": "Fatty Acid Synthesis is a fundamental concept in biology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Fatty Acid Synthesis. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Fatty Acid Synthesis requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Fatty Acid Synthesis is essential for mastering Biochemistry. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

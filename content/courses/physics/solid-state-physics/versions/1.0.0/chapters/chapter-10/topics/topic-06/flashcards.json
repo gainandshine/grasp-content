@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is High-Temperature Superconductors?",
+      "back": "High-Temperature Superconductors is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is High-Temperature Superconductors important?",
+      "back": "High-Temperature Superconductors is essential for understanding Solid State Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

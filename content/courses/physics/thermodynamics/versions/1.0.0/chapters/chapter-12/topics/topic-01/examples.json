@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Internal Combustion Engines",
+      "content": "A practical example demonstrating Internal Combustion Engines",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "internal-combustion-engines"
+      ]
+    }
+  ]
+}

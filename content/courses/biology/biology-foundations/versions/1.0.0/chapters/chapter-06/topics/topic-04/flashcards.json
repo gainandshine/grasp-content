@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Kingdoms of Life?",
+      "back": "Kingdoms of Life is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Kingdoms of Life important?",
+      "back": "Kingdoms of Life is essential for understanding Biology Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

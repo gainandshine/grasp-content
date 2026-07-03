@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Radiation Sterilization",
+      "content": "A practical example demonstrating Radiation Sterilization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "radiation-sterilization"
+      ]
+    }
+  ]
+}

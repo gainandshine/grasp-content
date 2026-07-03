@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Body Systems",
+      "content": "A practical example demonstrating Multi-Body Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "multi-body-systems"
+      ]
+    }
+  ]
+}

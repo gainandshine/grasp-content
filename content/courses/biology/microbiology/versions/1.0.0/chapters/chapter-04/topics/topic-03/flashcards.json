@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is DNA Viruses?",
+      "back": "DNA Viruses is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is DNA Viruses important?",
+      "back": "DNA Viruses is essential for understanding Microbiology.",
+      "difficulty": "medium"
+    }
+  ]
+}

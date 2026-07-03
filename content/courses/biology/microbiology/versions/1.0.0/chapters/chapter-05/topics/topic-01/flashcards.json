@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Yeasts?",
+      "back": "Yeasts is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Yeasts important?",
+      "back": "Yeasts is essential for understanding Microbiology.",
+      "difficulty": "medium"
+    }
+  ]
+}

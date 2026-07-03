@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Wittig Reaction",
+      "content": "A practical example demonstrating Wittig Reaction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "wittig-reaction"
+      ]
+    }
+  ]
+}

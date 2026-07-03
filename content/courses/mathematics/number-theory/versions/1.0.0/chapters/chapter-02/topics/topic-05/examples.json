@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sieve of Eratosthenes",
+      "content": "A practical example demonstrating Sieve of Eratosthenes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "sieve-of-eratosthenes"
+      ]
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "id": "industrial-organizational-psychology",
   "title": "Industrial & Organizational Psychology",
-  "description": "This course studies **how psychology is applied in workplaces and organizations**. It explores employee behavior, leadership, teamwork, motivation, organizational culture, and workplace well-being.",
   "version": "1.0.0",
+  "domain": "psychology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:22.847Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.425Z"
 }

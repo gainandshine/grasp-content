@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Artificial Satellites?",
+      "back": "Artificial Satellites is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Artificial Satellites important?",
+      "back": "Artificial Satellites is essential for understanding Gravitation.",
+      "difficulty": "medium"
+    }
+  ]
+}

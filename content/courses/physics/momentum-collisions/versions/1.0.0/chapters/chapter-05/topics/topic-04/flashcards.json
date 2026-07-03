@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Center of Gravity?",
+      "back": "Center of Gravity is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Center of Gravity important?",
+      "back": "Center of Gravity is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Vitamin B12?",
+      "back": "Vitamin B12 is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Vitamin B12 important?",
+      "back": "Vitamin B12 is essential for understanding Coordination Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Computational Electromagnetics?",
+      "back": "Computational Electromagnetics is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Computational Electromagnetics important?",
+      "back": "Computational Electromagnetics is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

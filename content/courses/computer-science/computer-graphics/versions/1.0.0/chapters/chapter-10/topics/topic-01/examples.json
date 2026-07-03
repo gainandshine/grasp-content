@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graphics Processing Units (GPUs)",
+      "content": "A practical example demonstrating Graphics Processing Units (GPUs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "graphics-processing-units-gpus"
+      ]
+    }
+  ]
+}

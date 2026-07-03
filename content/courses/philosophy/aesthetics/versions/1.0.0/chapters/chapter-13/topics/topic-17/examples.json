@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: 19th Century Philosophy",
+      "content": "A practical example demonstrating 19th Century Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "19th-century-philosophy"
+      ]
+    }
+  ]
+}

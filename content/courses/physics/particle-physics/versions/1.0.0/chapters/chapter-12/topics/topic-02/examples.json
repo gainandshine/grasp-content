@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: PET Scanners",
+      "content": "A practical example demonstrating PET Scanners",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "pet-scanners"
+      ]
+    }
+  ]
+}

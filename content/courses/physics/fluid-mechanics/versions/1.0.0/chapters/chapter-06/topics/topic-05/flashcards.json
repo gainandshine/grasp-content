@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Stokes' Law?",
+      "back": "Stokes' Law is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Stokes' Law important?",
+      "back": "Stokes' Law is essential for understanding Fluid Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

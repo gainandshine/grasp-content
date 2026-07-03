@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Agricultural Biotechnology?",
+      "back": "Agricultural Biotechnology is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Agricultural Biotechnology important?",
+      "back": "Agricultural Biotechnology is essential for understanding Ecology.",
+      "difficulty": "medium"
+    }
+  ]
+}

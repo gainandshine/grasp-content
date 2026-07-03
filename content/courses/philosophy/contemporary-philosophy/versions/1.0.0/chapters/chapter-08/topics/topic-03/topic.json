@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Deep Ecology",
-  "description": "Learn about Deep Ecology",
-  "conceptId": "philosophy.contemporary-philosophy.chapter-08.topic-03"
+  "topicId": "philosophy.contemporary-philosophy.chapter-08.topic-03",
+  "description": "Learn about Deep Ecology and its applications in philosophy.",
+  "content": {
+    "overview": "Deep Ecology is a fundamental concept in philosophy. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Deep Ecology. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Deep Ecology requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Deep Ecology is essential for mastering Contemporary Philosophy. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: *Course 10: Aesthetics**",
+      "content": "A practical example demonstrating *Course 10: Aesthetics**",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "course-10-aesthetics"
+      ]
+    }
+  ]
+}

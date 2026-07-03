@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Flexible Electronics",
+      "content": "A practical example demonstrating Flexible Electronics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "flexible-electronics"
+      ]
+    }
+  ]
+}

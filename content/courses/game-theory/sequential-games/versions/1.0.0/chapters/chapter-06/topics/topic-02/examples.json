@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Commitment Devices",
+      "content": "A practical example demonstrating Commitment Devices",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "commitment-devices"
+      ]
+    }
+  ]
+}

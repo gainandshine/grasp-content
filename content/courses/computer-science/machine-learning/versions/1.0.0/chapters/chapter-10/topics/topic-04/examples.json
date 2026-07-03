@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: APIs for ML Models",
+      "content": "A practical example demonstrating APIs for ML Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "apis-for-ml-models"
+      ]
+    }
+  ]
+}

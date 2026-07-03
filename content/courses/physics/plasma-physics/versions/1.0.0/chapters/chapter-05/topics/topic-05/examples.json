@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Alfvén Waves",
+      "content": "A practical example demonstrating Alfvén Waves",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "alfvn-waves"
+      ]
+    }
+  ]
+}

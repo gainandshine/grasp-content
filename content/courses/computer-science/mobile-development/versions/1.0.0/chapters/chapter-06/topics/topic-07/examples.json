@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Background Synchronization",
+      "content": "A practical example demonstrating Background Synchronization",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "background-synchronization"
+      ]
+    }
+  ]
+}

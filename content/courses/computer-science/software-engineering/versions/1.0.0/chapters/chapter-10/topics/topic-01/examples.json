@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Continuous Integration (CI)",
+      "content": "A practical example demonstrating Continuous Integration (CI)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "continuous-integration-ci"
+      ]
+    }
+  ]
+}

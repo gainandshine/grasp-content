@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reaction Cross Section",
+      "content": "A practical example demonstrating Reaction Cross Section",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "reaction-cross-section"
+      ]
+    }
+  ]
+}

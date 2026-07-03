@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbon Nanotubes (CNTs)",
+      "content": "A practical example demonstrating Carbon Nanotubes (CNTs)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "carbon-nanotubes-cnts"
+      ]
+    }
+  ]
+}

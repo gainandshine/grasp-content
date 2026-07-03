@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Graphics Pipeline Overview",
+      "content": "A practical example demonstrating Graphics Pipeline Overview",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "graphics-pipeline-overview"
+      ]
+    }
+  ]
+}

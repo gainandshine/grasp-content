@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Bell's Theorem (Introduction)",
+      "content": "A practical example demonstrating Bell's Theorem (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "bells-theorem-introduction"
+      ]
+    }
+  ]
+}

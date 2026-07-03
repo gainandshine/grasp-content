@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vapor Pressure",
+      "content": "A practical example demonstrating Vapor Pressure",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "vapor-pressure"
+      ]
+    }
+  ]
+}

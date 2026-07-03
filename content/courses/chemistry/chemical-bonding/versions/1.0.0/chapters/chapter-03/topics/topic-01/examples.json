@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Covalent Bond",
+      "content": "A practical example demonstrating Covalent Bond",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "covalent-bond"
+      ]
+    }
+  ]
+}

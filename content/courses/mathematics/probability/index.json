@@ -1,10 +1,11 @@
 {
   "id": "probability",
   "title": "Probability",
-  "description": "This course is the mathematical foundation for **Statistics, Machine Learning, AI, Data Science, Finance, Risk Analysis, and Scientific Research**.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 28,
-  "chapters": 14,
-  "updatedAt": "2026-07-02T10:38:14.655Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.230Z"
 }

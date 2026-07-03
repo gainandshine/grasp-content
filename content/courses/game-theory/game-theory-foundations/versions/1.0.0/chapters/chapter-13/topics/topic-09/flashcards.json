@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Decision Trees?",
+      "back": "Decision Trees is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Decision Trees important?",
+      "back": "Decision Trees is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Raman Spectrum Prediction",
+      "content": "A practical example demonstrating Raman Spectrum Prediction",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "raman-spectrum-prediction"
+      ]
+    }
+  ]
+}

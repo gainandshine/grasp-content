@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Blocking Coalitions",
+      "content": "A practical example demonstrating Blocking Coalitions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "blocking-coalitions"
+      ]
+    }
+  ]
+}

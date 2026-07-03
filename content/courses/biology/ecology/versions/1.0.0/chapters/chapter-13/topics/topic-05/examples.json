@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Restoration Ecology",
+      "content": "A practical example demonstrating Restoration Ecology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "restoration-ecology"
+      ]
+    }
+  ]
+}

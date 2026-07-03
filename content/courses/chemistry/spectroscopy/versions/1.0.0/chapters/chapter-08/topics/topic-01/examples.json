@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: X-Ray Fluorescence (XRF)",
+      "content": "A practical example demonstrating X-Ray Fluorescence (XRF)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "x-ray-fluorescence-xrf"
+      ]
+    }
+  ]
+}

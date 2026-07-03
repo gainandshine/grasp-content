@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dominated Strategy",
+      "content": "A practical example demonstrating Dominated Strategy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "dominated-strategy"
+      ]
+    }
+  ]
+}

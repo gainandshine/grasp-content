@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Divergent Sequences?",
+      "back": "Divergent Sequences is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Divergent Sequences important?",
+      "back": "Divergent Sequences is essential for understanding Real Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

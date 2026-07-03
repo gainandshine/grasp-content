@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chicken Game",
+      "content": "A practical example demonstrating Chicken Game",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "chicken-game"
+      ]
+    }
+  ]
+}

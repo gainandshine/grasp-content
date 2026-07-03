@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Einstein's Postulates",
+      "content": "A practical example demonstrating Einstein's Postulates",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "einsteins-postulates"
+      ]
+    }
+  ]
+}

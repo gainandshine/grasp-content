@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Reaction Network Modeling",
+      "content": "A practical example demonstrating Reaction Network Modeling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "reaction-network-modeling"
+      ]
+    }
+  ]
+}

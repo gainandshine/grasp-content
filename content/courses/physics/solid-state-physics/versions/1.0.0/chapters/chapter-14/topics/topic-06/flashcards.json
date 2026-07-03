@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Sensors?",
+      "back": "Sensors is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Sensors important?",
+      "back": "Sensors is essential for understanding Solid State Physics.",
+      "difficulty": "medium"
+    }
+  ]
+}

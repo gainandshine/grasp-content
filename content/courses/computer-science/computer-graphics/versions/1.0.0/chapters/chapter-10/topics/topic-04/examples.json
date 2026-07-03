@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fragment Shaders",
+      "content": "A practical example demonstrating Fragment Shaders",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "fragment-shaders"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Producer-Consumer Problem",
+      "content": "A practical example demonstrating Producer-Consumer Problem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "producer-consumer-problem"
+      ]
+    }
+  ]
+}

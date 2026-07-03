@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fundamental Particles",
+      "content": "A practical example demonstrating Fundamental Particles",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "fundamental-particles"
+      ]
+    }
+  ]
+}

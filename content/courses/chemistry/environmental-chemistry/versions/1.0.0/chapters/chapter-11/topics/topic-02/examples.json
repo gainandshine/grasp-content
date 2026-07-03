@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Water Quality Analysis",
+      "content": "A practical example demonstrating Water Quality Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "water-quality-analysis"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hydrogen Fuel Cells",
+      "content": "A practical example demonstrating Hydrogen Fuel Cells",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "hydrogen-fuel-cells"
+      ]
+    }
+  ]
+}

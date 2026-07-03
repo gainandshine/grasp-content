@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Big O Notation",
+      "content": "A practical example demonstrating Big O Notation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "big-o-notation"
+      ]
+    }
+  ]
+}

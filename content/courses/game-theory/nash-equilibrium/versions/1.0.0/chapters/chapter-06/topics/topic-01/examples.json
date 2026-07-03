@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nash's Existence Theorem",
+      "content": "A practical example demonstrating Nash's Existence Theorem",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "nashs-existence-theorem"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bohr's Atomic Model?",
+      "back": "Bohr's Atomic Model is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bohr's Atomic Model important?",
+      "back": "Bohr's Atomic Model is essential for understanding Atomic Structure.",
+      "difficulty": "medium"
+    }
+  ]
+}

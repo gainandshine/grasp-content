@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Arrhenius Plot?",
+      "back": "Arrhenius Plot is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Arrhenius Plot important?",
+      "back": "Arrhenius Plot is essential for understanding Chemical Kinetics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Hamiltonian Graphs?",
+      "back": "Hamiltonian Graphs is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Hamiltonian Graphs important?",
+      "back": "Hamiltonian Graphs is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

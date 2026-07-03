@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Memory-Mapped I/O",
+      "content": "A practical example demonstrating Memory-Mapped I/O",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "memory-mapped-io"
+      ]
+    }
+  ]
+}

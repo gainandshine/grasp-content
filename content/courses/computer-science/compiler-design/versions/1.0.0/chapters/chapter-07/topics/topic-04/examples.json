@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Calling Conventions",
+      "content": "A practical example demonstrating Calling Conventions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "calling-conventions"
+      ]
+    }
+  ]
+}

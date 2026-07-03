@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Banker's Algorithm?",
+      "back": "Banker's Algorithm is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Banker's Algorithm important?",
+      "back": "Banker's Algorithm is essential for understanding Operating Systems.",
+      "difficulty": "medium"
+    }
+  ]
+}

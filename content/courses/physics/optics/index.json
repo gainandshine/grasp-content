@@ -1,10 +1,11 @@
 {
   "id": "optics",
   "title": "Optics",
-  "description": "This course studies **the behavior of light**, from mirrors and lenses to interference, diffraction, polarization, lasers, and fiber optics.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 22,
-  "chapters": 11,
-  "updatedAt": "2026-07-02T10:38:13.010Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.739Z"
 }

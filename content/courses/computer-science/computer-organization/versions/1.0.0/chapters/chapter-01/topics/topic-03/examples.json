@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Stored Program Concept",
+      "content": "A practical example demonstrating Stored Program Concept",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "stored-program-concept"
+      ]
+    }
+  ]
+}

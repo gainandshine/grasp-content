@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Schwarzschild Black Holes",
+      "content": "A practical example demonstrating Schwarzschild Black Holes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "schwarzschild-black-holes"
+      ]
+    }
+  ]
+}

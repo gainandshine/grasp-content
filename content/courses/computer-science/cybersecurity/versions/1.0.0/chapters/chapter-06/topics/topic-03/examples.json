@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Multi-Factor Authentication (MFA)",
+      "content": "A practical example demonstrating Multi-Factor Authentication (MFA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "multi-factor-authentication-mfa"
+      ]
+    }
+  ]
+}

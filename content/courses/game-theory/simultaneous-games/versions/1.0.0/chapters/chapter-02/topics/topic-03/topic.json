@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Strategies",
-  "description": "Learn about Strategies",
-  "conceptId": "game-theory.simultaneous-games.chapter-02.topic-03"
+  "topicId": "game-theory.simultaneous-games.chapter-02.topic-03",
+  "description": "Learn about Strategies and its applications in game-theory.",
+  "content": {
+    "overview": "Strategies is a fundamental concept in game-theory. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Strategies. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Strategies requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Strategies is essential for mastering Simultaneous Games. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

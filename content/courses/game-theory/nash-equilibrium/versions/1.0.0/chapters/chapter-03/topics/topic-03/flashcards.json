@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Best Response Method?",
+      "back": "Best Response Method is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Best Response Method important?",
+      "back": "Best Response Method is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

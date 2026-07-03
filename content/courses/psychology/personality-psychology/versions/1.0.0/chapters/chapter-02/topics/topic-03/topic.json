@@ -1,6 +1,16 @@
 {
   "id": "topic-03",
   "name": "Raymond Cattell's Trait Theory",
-  "description": "Learn about Raymond Cattell's Trait Theory",
-  "conceptId": "psychology.personality-psychology.chapter-02.topic-03"
+  "topicId": "psychology.personality-psychology.chapter-02.topic-03",
+  "description": "Learn about Raymond Cattell's Trait Theory and its applications in psychology.",
+  "content": {
+    "overview": "Raymond Cattell's Trait Theory is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Raymond Cattell's Trait Theory. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Raymond Cattell's Trait Theory requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Raymond Cattell's Trait Theory is essential for mastering Personality Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

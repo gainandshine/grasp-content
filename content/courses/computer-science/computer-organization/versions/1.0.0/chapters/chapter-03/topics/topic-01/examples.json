@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Combinational Circuits",
+      "content": "A practical example demonstrating Combinational Circuits",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "combinational-circuits"
+      ]
+    }
+  ]
+}

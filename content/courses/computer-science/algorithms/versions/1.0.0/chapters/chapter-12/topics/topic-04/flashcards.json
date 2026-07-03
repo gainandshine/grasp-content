@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Worst Case?",
+      "back": "Worst Case is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Worst Case important?",
+      "back": "Worst Case is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

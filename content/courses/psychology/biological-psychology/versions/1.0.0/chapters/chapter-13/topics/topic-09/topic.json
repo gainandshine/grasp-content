@@ -1,6 +1,16 @@
 {
   "id": "topic-09",
   "name": "Infancy",
-  "description": "Learn about Infancy",
-  "conceptId": "psychology.biological-psychology.chapter-13.topic-09"
+  "topicId": "psychology.biological-psychology.chapter-13.topic-09",
+  "description": "Learn about Infancy and its applications in psychology.",
+  "content": {
+    "overview": "Infancy is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Infancy. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Infancy requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Infancy is essential for mastering Biological Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

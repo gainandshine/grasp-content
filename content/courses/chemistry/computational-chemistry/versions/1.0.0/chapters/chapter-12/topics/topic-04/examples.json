@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: AI in Chemistry",
+      "content": "A practical example demonstrating AI in Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ai-in-chemistry"
+      ]
+    }
+  ]
+}

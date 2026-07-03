@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Literary Interpretation",
+      "content": "A practical example demonstrating Literary Interpretation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "literary-interpretation"
+      ]
+    }
+  ]
+}

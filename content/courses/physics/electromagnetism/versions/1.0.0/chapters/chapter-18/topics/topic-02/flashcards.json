@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Thévenin's Theorem?",
+      "back": "Thévenin's Theorem is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Thévenin's Theorem important?",
+      "back": "Thévenin's Theorem is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

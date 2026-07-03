@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Hamiltonian Graphs",
+      "content": "A practical example demonstrating Hamiltonian Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "hamiltonian-graphs"
+      ]
+    }
+  ]
+}

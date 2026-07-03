@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Strong Induction?",
+      "back": "Strong Induction is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Strong Induction important?",
+      "back": "Strong Induction is essential for understanding Discrete Mathematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Introduction to Organic Synthesis?",
+      "back": "Introduction to Organic Synthesis is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Introduction to Organic Synthesis important?",
+      "back": "Introduction to Organic Synthesis is essential for understanding Organic Chemistry I.",
+      "difficulty": "medium"
+    }
+  ]
+}

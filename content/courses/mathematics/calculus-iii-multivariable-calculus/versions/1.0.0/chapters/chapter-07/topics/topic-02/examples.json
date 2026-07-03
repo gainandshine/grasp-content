@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Local Maxima",
+      "content": "A practical example demonstrating Local Maxima",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "local-maxima"
+      ]
+    }
+  ]
+}

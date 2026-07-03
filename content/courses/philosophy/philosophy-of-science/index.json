@@ -1,10 +1,11 @@
 {
   "id": "philosophy-of-science",
   "title": "Philosophy of Science",
-  "description": "This course studies **the nature of scientific knowledge, scientific reasoning, and the methods used to investigate the natural world**. It explores what distinguishes science from non-science and how scientific knowledge evolves.",
   "version": "1.0.0",
+  "domain": "philosophy",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:21.593Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.397Z"
 }

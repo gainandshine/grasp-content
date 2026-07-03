@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Blockchain & Web3?",
+      "back": "Blockchain & Web3 is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Blockchain & Web3 important?",
+      "back": "Blockchain & Web3 is essential for understanding Applications of Game Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

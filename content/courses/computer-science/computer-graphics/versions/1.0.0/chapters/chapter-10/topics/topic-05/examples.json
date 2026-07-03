@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Compute Shaders",
+      "content": "A practical example demonstrating Compute Shaders",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "compute-shaders"
+      ]
+    }
+  ]
+}

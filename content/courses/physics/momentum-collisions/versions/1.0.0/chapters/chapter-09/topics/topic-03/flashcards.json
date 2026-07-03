@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Sports Collisions?",
+      "back": "Sports Collisions is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Sports Collisions important?",
+      "back": "Sports Collisions is essential for understanding Momentum & Collisions.",
+      "difficulty": "medium"
+    }
+  ]
+}

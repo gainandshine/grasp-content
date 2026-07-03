@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Human Rights?",
+      "back": "Human Rights is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Human Rights important?",
+      "back": "Human Rights is essential for understanding Ethics.",
+      "difficulty": "medium"
+    }
+  ]
+}

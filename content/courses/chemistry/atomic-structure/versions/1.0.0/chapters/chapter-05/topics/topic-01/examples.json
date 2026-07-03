@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Blackbody Radiation",
+      "content": "A practical example demonstrating Blackbody Radiation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "blackbody-radiation"
+      ]
+    }
+  ]
+}

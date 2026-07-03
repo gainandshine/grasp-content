@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Even & Odd Functions",
+      "content": "A practical example demonstrating Even & Odd Functions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "even-odd-functions"
+      ]
+    }
+  ]
+}

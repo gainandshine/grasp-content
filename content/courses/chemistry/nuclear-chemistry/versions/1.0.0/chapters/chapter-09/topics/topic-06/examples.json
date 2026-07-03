@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Industrial Isotopes",
+      "content": "A practical example demonstrating Industrial Isotopes",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "industrial-isotopes"
+      ]
+    }
+  ]
+}

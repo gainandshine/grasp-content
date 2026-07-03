@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enterprise Software",
+      "content": "A practical example demonstrating Enterprise Software",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "enterprise-software"
+      ]
+    }
+  ]
+}

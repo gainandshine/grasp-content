@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Electrochemical Impedance Spectroscopy?",
+      "back": "Electrochemical Impedance Spectroscopy is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Electrochemical Impedance Spectroscopy important?",
+      "back": "Electrochemical Impedance Spectroscopy is essential for understanding Electrochemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

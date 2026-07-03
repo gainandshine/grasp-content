@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Operations on Power Series",
-  "description": "Learn about Operations on Power Series",
-  "conceptId": "mathematics.calculus-ii.chapter-07.topic-04"
+  "topicId": "mathematics.calculus-ii.chapter-07.topic-04",
+  "description": "Learn about Operations on Power Series and its applications in mathematics.",
+  "content": {
+    "overview": "Operations on Power Series is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Operations on Power Series. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Operations on Power Series requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Operations on Power Series is essential for mastering Calculus II. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

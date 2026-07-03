@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Matching Pennies?",
+      "back": "Matching Pennies is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Matching Pennies important?",
+      "back": "Matching Pennies is essential for understanding Game Theory Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

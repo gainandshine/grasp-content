@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Boolean Algebra",
+      "content": "A practical example demonstrating Boolean Algebra",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "boolean-algebra"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Binary Search Trees",
+      "content": "A practical example demonstrating Binary Search Trees",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "binary-search-trees"
+      ]
+    }
+  ]
+}

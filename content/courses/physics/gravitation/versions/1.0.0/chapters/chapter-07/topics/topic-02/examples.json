@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Escape Trajectory",
+      "content": "A practical example demonstrating Escape Trajectory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "escape-trajectory"
+      ]
+    }
+  ]
+}

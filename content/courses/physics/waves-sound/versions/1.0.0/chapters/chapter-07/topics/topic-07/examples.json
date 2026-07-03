@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Astronomy Applications",
+      "content": "A practical example demonstrating Astronomy Applications",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "astronomy-applications"
+      ]
+    }
+  ]
+}

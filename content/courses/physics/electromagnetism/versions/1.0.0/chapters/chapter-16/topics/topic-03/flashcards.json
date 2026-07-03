@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Series-Parallel Networks?",
+      "back": "Series-Parallel Networks is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Series-Parallel Networks important?",
+      "back": "Series-Parallel Networks is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

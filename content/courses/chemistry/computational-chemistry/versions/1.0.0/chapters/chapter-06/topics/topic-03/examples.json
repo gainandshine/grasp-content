@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Exchange-Correlation Functionals",
+      "content": "A practical example demonstrating Exchange-Correlation Functionals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "exchange-correlation-functionals"
+      ]
+    }
+  ]
+}

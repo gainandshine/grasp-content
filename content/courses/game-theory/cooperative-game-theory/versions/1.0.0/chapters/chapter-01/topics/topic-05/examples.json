@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shared Objectives",
+      "content": "A practical example demonstrating Shared Objectives",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "shared-objectives"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fractional Reserve Banking",
+      "content": "A practical example demonstrating Fractional Reserve Banking",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "fractional-reserve-banking"
+      ]
+    }
+  ]
+}

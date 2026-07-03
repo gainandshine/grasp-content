@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Solid-State Batteries",
+      "content": "A practical example demonstrating Solid-State Batteries",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "solid-state-batteries"
+      ]
+    }
+  ]
+}

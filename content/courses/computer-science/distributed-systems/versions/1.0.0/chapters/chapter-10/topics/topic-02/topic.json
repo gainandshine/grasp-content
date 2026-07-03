@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Stream Processing",
-  "description": "Learn about Stream Processing",
-  "conceptId": "computer-science.distributed-systems.chapter-10.topic-02"
+  "topicId": "computer-science.distributed-systems.chapter-10.topic-02",
+  "description": "Learn about Stream Processing and its applications in computer-science.",
+  "content": {
+    "overview": "Stream Processing is a fundamental concept in computer-science. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Stream Processing. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Stream Processing requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Stream Processing is essential for mastering Distributed Systems. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

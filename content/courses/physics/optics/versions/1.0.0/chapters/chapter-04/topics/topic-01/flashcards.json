@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Convex Lenses?",
+      "back": "Convex Lenses is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Convex Lenses important?",
+      "back": "Convex Lenses is essential for understanding Optics.",
+      "difficulty": "medium"
+    }
+  ]
+}

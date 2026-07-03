@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Mass Spectrometer?",
+      "back": "Mass Spectrometer is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Mass Spectrometer important?",
+      "back": "Mass Spectrometer is essential for understanding Magnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

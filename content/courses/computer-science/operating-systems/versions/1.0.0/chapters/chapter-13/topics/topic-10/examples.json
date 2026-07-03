@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: OSI & TCP/IP Models",
+      "content": "A practical example demonstrating OSI & TCP/IP Models",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "osi-tcpip-models"
+      ]
+    }
+  ]
+}

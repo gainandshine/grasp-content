@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Synthetic Biochemistry",
+      "content": "A practical example demonstrating Synthetic Biochemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "synthetic-biochemistry"
+      ]
+    }
+  ]
+}

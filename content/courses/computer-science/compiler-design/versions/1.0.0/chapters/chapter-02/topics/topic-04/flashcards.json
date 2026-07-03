@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Regular Expressions?",
+      "back": "Regular Expressions is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Regular Expressions important?",
+      "back": "Regular Expressions is essential for understanding Compiler Design.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Queue Operations",
+      "content": "A practical example demonstrating Queue Operations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "queue-operations"
+      ]
+    }
+  ]
+}

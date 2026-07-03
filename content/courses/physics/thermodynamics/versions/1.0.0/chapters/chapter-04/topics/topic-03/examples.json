@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gay-Lussac's Law",
+      "content": "A practical example demonstrating Gay-Lussac's Law",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "gay-lussacs-law"
+      ]
+    }
+  ]
+}

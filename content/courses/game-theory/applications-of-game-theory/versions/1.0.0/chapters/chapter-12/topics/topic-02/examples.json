@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Autonomous Vehicles",
+      "content": "A practical example demonstrating Autonomous Vehicles",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "autonomous-vehicles"
+      ]
+    }
+  ]
+}

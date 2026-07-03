@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vectors in 2D & 3D",
+      "content": "A practical example demonstrating Vectors in 2D & 3D",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "vectors-in-2d-3d"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fluorescence Lifetime",
+      "content": "A practical example demonstrating Fluorescence Lifetime",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "fluorescence-lifetime"
+      ]
+    }
+  ]
+}

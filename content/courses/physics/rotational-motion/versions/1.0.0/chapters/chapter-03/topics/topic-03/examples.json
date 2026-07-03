@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Moment Arm",
+      "content": "A practical example demonstrating Moment Arm",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "moment-arm"
+      ]
+    }
+  ]
+}

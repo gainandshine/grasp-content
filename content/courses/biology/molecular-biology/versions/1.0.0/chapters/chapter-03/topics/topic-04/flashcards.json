@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is DNA Polymerase?",
+      "back": "DNA Polymerase is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is DNA Polymerase important?",
+      "back": "DNA Polymerase is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

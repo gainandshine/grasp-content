@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Extraction & Metallurgy",
+      "content": "A practical example demonstrating Extraction & Metallurgy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "extraction-metallurgy"
+      ]
+    }
+  ]
+}

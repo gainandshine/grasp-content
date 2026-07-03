@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Monitoring & Logging?",
+      "back": "Monitoring & Logging is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Monitoring & Logging important?",
+      "back": "Monitoring & Logging is essential for understanding Web Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

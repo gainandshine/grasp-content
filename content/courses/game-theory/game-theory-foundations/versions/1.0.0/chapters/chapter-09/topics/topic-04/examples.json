@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Matching Pennies",
+      "content": "A practical example demonstrating Matching Pennies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "matching-pennies"
+      ]
+    }
+  ]
+}

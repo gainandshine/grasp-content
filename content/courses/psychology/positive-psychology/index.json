@@ -1,10 +1,11 @@
 {
   "id": "positive-psychology",
   "title": "Positive Psychology",
-  "description": "This course studies **the science of human flourishing**, focusing on the strengths, habits, relationships, and experiences that contribute to happiness, resilience, meaning, and well-being.",
   "version": "1.0.0",
+  "domain": "psychology",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:23.024Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.430Z"
 }

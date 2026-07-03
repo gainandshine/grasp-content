@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Equilibrium Refinements?",
+      "back": "Equilibrium Refinements is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Equilibrium Refinements important?",
+      "back": "Equilibrium Refinements is essential for understanding Sequential Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

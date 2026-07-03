@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Equilibrium Refinements",
+      "content": "A practical example demonstrating Equilibrium Refinements",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "equilibrium-refinements"
+      ]
+    }
+  ]
+}

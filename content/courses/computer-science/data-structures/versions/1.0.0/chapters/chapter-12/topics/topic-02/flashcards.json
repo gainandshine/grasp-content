@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Big Ω Notation?",
+      "back": "Big Ω Notation is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Big Ω Notation important?",
+      "back": "Big Ω Notation is essential for understanding Data Structures.",
+      "difficulty": "medium"
+    }
+  ]
+}

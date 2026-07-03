@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Complementary Base Pairing?",
+      "back": "Complementary Base Pairing is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Complementary Base Pairing important?",
+      "back": "Complementary Base Pairing is essential for understanding Molecular Biology.",
+      "difficulty": "medium"
+    }
+  ]
+}

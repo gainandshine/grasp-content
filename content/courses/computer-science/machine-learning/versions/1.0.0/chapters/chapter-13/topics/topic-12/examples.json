@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Exploratory Data Analysis (EDA)",
+      "content": "A practical example demonstrating Exploratory Data Analysis (EDA)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "exploratory-data-analysis-eda"
+      ]
+    }
+  ]
+}

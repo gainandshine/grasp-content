@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gradient Fields",
+      "content": "A practical example demonstrating Gradient Fields",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "gradient-fields"
+      ]
+    }
+  ]
+}

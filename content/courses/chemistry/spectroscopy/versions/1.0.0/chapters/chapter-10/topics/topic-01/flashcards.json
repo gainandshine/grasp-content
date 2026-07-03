@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Multi-Technique Analysis?",
+      "back": "Multi-Technique Analysis is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Multi-Technique Analysis important?",
+      "back": "Multi-Technique Analysis is essential for understanding Spectroscopy.",
+      "difficulty": "medium"
+    }
+  ]
+}

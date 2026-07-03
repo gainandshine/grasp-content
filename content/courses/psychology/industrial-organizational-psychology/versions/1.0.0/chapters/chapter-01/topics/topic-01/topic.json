@@ -1,6 +1,16 @@
 {
   "id": "topic-01",
   "name": "What is Industrial & Organizational Psychology?",
-  "description": "Learn about What is Industrial & Organizational Psychology?",
-  "conceptId": "psychology.industrial-organizational-psychology.chapter-01.topic-01"
+  "topicId": "psychology.industrial-organizational-psychology.chapter-01.topic-01",
+  "description": "Learn about What is Industrial & Organizational Psychology? and its applications in psychology.",
+  "content": {
+    "overview": "What is Industrial & Organizational Psychology? is a fundamental concept in psychology. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of What is Industrial & Organizational Psychology?. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding What is Industrial & Organizational Psychology? requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "What is Industrial & Organizational Psychology? is essential for mastering Industrial & Organizational Psychology. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Units of Work?",
+      "back": "Units of Work is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Units of Work important?",
+      "back": "Units of Work is essential for understanding Work, Energy & Power.",
+      "difficulty": "medium"
+    }
+  ]
+}

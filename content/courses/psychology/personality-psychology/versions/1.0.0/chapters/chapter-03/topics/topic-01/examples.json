@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sigmund Freud's Theory",
+      "content": "A practical example demonstrating Sigmund Freud's Theory",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "sigmund-freuds-theory"
+      ]
+    }
+  ]
+}

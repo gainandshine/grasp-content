@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Wheatstone Bridge?",
+      "back": "Wheatstone Bridge is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Wheatstone Bridge important?",
+      "back": "Wheatstone Bridge is essential for understanding Electromagnetism.",
+      "difficulty": "medium"
+    }
+  ]
+}

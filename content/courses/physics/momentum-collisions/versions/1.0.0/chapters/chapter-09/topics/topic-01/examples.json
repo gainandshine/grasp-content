@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ballistic Pendulum",
+      "content": "A practical example demonstrating Ballistic Pendulum",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "ballistic-pendulum"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Cardiac Cycle",
+      "content": "A practical example demonstrating Cardiac Cycle",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "cardiac-cycle"
+      ]
+    }
+  ]
+}

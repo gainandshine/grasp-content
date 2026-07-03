@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Plasma Medicine",
+      "content": "A practical example demonstrating Plasma Medicine",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "plasma-medicine"
+      ]
+    }
+  ]
+}

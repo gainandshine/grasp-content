@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Motion in x-y Plane?",
+      "back": "Motion in x-y Plane is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Motion in x-y Plane important?",
+      "back": "Motion in x-y Plane is essential for understanding Kinematics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Adaptive Radiation?",
+      "back": "Adaptive Radiation is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Adaptive Radiation important?",
+      "back": "Adaptive Radiation is essential for understanding Evolution.",
+      "difficulty": "medium"
+    }
+  ]
+}

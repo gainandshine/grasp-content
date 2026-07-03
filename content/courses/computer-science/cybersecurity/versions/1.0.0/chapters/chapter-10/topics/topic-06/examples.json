@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Malware Analysis (Introduction)",
+      "content": "A practical example demonstrating Malware Analysis (Introduction)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "malware-analysis-introduction"
+      ]
+    }
+  ]
+}

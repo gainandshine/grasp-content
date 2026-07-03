@@ -1,10 +1,11 @@
 {
   "id": "complex-analysis",
   "title": "Complex Analysis",
-  "description": "This is the study of **functions of complex numbers**. It is one of the most elegant areas of mathematics and has applications in physics, electrical engineering, fluid dynamics, signal processing, and quantum mechanics.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 24,
-  "chapters": 12,
-  "updatedAt": "2026-07-02T10:38:15.059Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.240Z"
 }

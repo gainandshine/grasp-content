@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Alzheimer's Disease",
+      "content": "A practical example demonstrating Alzheimer's Disease",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "alzheimers-disease"
+      ]
+    }
+  ]
+}

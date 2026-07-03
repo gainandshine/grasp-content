@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Unit Checking",
+      "content": "A practical example demonstrating Unit Checking",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "unit-checking"
+      ]
+    }
+  ]
+}

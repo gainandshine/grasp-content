@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quantum Computing for Chemistry",
+      "content": "A practical example demonstrating Quantum Computing for Chemistry",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "quantum-computing-for-chemistry"
+      ]
+    }
+  ]
+}

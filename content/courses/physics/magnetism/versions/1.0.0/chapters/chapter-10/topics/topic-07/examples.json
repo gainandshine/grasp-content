@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Self & Mutual Inductance",
+      "content": "A practical example demonstrating Self & Mutual Inductance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "self-mutual-inductance"
+      ]
+    }
+  ]
+}

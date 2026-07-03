@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Reputation Loss?",
+      "back": "Reputation Loss is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Reputation Loss important?",
+      "back": "Reputation Loss is essential for understanding Repeated Games.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Bias-Variance Tradeoff?",
+      "back": "Bias-Variance Tradeoff is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Bias-Variance Tradeoff important?",
+      "back": "Bias-Variance Tradeoff is essential for understanding Machine Learning.",
+      "difficulty": "medium"
+    }
+  ]
+}

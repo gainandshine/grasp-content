@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: System Design Fundamentals",
+      "content": "A practical example demonstrating System Design Fundamentals",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "system-design-fundamentals"
+      ]
+    }
+  ]
+}

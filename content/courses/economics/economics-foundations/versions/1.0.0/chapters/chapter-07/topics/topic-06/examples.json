@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Standard of Living",
+      "content": "A practical example demonstrating Standard of Living",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "standard-of-living"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Omitted Variable Bias",
+      "content": "A practical example demonstrating Omitted Variable Bias",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "omitted-variable-bias"
+      ]
+    }
+  ]
+}

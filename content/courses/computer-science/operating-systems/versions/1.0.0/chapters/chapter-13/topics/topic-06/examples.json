@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Operating System Performance Tuning",
+      "content": "A practical example demonstrating Operating System Performance Tuning",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "operating-system-performance-tuning"
+      ]
+    }
+  ]
+}

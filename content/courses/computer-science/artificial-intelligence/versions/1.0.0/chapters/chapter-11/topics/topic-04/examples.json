@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Prompt Engineering",
+      "content": "A practical example demonstrating Prompt Engineering",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "prompt-engineering"
+      ]
+    }
+  ]
+}

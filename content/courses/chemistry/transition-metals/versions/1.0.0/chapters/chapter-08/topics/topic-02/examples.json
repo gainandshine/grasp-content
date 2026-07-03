@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ore Concentration",
+      "content": "A practical example demonstrating Ore Concentration",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "ore-concentration"
+      ]
+    }
+  ]
+}

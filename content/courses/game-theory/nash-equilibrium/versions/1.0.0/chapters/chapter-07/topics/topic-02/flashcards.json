@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Trembling-Hand Perfect Equilibrium?",
+      "back": "Trembling-Hand Perfect Equilibrium is a fundamental concept in game-theory.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Trembling-Hand Perfect Equilibrium important?",
+      "back": "Trembling-Hand Perfect Equilibrium is essential for understanding Nash Equilibrium.",
+      "difficulty": "medium"
+    }
+  ]
+}

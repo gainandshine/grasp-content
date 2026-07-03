@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cannizzaro Reaction?",
+      "back": "Cannizzaro Reaction is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cannizzaro Reaction important?",
+      "back": "Cannizzaro Reaction is essential for understanding Organic Chemistry II.",
+      "difficulty": "medium"
+    }
+  ]
+}

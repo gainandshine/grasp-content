@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Quantum Dots?",
+      "back": "Quantum Dots is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Quantum Dots important?",
+      "back": "Quantum Dots is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

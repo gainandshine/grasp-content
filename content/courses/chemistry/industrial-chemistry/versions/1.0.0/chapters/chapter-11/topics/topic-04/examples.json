@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Chemical Plant Safety",
+      "content": "A practical example demonstrating Chemical Plant Safety",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "chemical-plant-safety"
+      ]
+    }
+  ]
+}

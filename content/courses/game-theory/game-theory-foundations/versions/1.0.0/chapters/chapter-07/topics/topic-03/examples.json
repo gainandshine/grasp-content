@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Mutual Best Responses",
+      "content": "A practical example demonstrating Mutual Best Responses",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "mutual-best-responses"
+      ]
+    }
+  ]
+}

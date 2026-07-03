@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Nanotoxicology",
+      "content": "A practical example demonstrating Nanotoxicology",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "nanotoxicology"
+      ]
+    }
+  ]
+}

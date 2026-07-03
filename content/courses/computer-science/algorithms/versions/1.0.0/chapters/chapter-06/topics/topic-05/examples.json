@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Minimum Spanning Tree (Greedy View)",
+      "content": "A practical example demonstrating Minimum Spanning Tree (Greedy View)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "minimum-spanning-tree-greedy-view"
+      ]
+    }
+  ]
+}

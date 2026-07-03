@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Command-Line Programs?",
+      "back": "Command-Line Programs is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Command-Line Programs important?",
+      "back": "Command-Line Programs is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

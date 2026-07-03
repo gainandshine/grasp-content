@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Dynamic Competition",
+      "content": "A practical example demonstrating Dynamic Competition",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "dynamic-competition"
+      ]
+    }
+  ]
+}

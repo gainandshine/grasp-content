@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Quantum Field Theory (Overview)",
+      "content": "A practical example demonstrating Quantum Field Theory (Overview)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "quantum-field-theory-overview"
+      ]
+    }
+  ]
+}

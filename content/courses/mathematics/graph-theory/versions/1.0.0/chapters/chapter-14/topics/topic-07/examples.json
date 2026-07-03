@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Knowledge Graphs",
+      "content": "A practical example demonstrating Knowledge Graphs",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "knowledge-graphs"
+      ]
+    }
+  ]
+}

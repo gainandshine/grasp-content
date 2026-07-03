@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Information Theory?",
+      "back": "Information Theory is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Information Theory important?",
+      "back": "Information Theory is essential for understanding Philosophy of Language.",
+      "difficulty": "medium"
+    }
+  ]
+}

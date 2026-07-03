@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Scheduling Criteria",
+      "content": "A practical example demonstrating Scheduling Criteria",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "scheduling-criteria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Early Modern Philosophy",
+      "content": "A practical example demonstrating Early Modern Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "early-modern-philosophy"
+      ]
+    }
+  ]
+}

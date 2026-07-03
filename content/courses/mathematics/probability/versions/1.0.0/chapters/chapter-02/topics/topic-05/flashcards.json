@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Circular Permutations?",
+      "back": "Circular Permutations is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Circular Permutations important?",
+      "back": "Circular Permutations is essential for understanding Probability.",
+      "difficulty": "medium"
+    }
+  ]
+}

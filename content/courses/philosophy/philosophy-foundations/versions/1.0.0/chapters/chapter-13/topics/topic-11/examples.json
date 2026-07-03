@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Inductive Logic",
+      "content": "A practical example demonstrating Inductive Logic",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "inductive-logic"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is SSS Similarity?",
+      "back": "SSS Similarity is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is SSS Similarity important?",
+      "back": "SSS Similarity is essential for understanding Geometry.",
+      "difficulty": "medium"
+    }
+  ]
+}

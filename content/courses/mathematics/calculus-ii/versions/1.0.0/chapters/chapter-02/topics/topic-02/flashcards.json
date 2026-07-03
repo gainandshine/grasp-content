@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Volume by Slicing?",
+      "back": "Volume by Slicing is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Volume by Slicing important?",
+      "back": "Volume by Slicing is essential for understanding Calculus II.",
+      "difficulty": "medium"
+    }
+  ]
+}

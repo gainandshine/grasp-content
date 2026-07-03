@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pricing Decisions",
+      "content": "A practical example demonstrating Pricing Decisions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "pricing-decisions"
+      ]
+    }
+  ]
+}

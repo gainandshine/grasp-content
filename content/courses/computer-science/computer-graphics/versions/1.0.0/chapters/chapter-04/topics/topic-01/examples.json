@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: 3D Coordinate Systems",
+      "content": "A practical example demonstrating 3D Coordinate Systems",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "3d-coordinate-systems"
+      ]
+    }
+  ]
+}

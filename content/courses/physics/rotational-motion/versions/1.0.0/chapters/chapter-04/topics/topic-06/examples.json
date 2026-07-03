@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Composite Bodies",
+      "content": "A practical example demonstrating Composite Bodies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "composite-bodies"
+      ]
+    }
+  ]
+}

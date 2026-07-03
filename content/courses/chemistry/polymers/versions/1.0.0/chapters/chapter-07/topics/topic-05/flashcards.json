@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is 3D Printing?",
+      "back": "3D Printing is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is 3D Printing important?",
+      "back": "3D Printing is essential for understanding Polymers.",
+      "difficulty": "medium"
+    }
+  ]
+}

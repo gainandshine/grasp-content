@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Protein Phosphorylation",
+      "content": "A practical example demonstrating Protein Phosphorylation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "protein-phosphorylation"
+      ]
+    }
+  ]
+}

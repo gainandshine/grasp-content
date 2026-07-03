@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fault Tolerance",
+      "content": "A practical example demonstrating Fault Tolerance",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "fault-tolerance"
+      ]
+    }
+  ]
+}

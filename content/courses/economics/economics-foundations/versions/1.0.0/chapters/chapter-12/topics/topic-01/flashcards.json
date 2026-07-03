@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Personal Finance?",
+      "back": "Personal Finance is a fundamental concept in economics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Personal Finance important?",
+      "back": "Personal Finance is essential for understanding Economics Foundations.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Package Bidding",
+      "content": "A practical example demonstrating Package Bidding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "package-bidding"
+      ]
+    }
+  ]
+}

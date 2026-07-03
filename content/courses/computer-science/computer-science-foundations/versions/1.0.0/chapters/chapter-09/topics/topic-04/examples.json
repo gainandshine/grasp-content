@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Clients & Servers",
+      "content": "A practical example demonstrating Clients & Servers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "clients-servers"
+      ]
+    }
+  ]
+}

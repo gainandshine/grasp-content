@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Carbohydrates",
+      "content": "A practical example demonstrating Carbohydrates",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "carbohydrates"
+      ]
+    }
+  ]
+}

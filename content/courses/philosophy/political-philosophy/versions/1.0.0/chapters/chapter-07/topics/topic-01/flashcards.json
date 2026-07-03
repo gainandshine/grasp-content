@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Thomas Hobbes?",
+      "back": "Thomas Hobbes is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Thomas Hobbes important?",
+      "back": "Thomas Hobbes is essential for understanding Political Philosophy.",
+      "difficulty": "medium"
+    }
+  ]
+}

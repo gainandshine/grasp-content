@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Business Analytics?",
+      "back": "Business Analytics is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Business Analytics important?",
+      "back": "Business Analytics is essential for understanding Statistics.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Retrieval-Augmented Generation (RAG)",
+      "content": "A practical example demonstrating Retrieval-Augmented Generation (RAG)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "retrieval-augmented-generation-rag"
+      ]
+    }
+  ]
+}

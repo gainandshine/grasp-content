@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Gel Permeation Chromatography (GPC)",
+      "content": "A practical example demonstrating Gel Permeation Chromatography (GPC)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "gel-permeation-chromatography-gpc"
+      ]
+    }
+  ]
+}

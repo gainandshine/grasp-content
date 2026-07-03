@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Geiger-Müller Counter",
+      "content": "A practical example demonstrating Geiger-Müller Counter",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "geiger-mller-counter"
+      ]
+    }
+  ]
+}

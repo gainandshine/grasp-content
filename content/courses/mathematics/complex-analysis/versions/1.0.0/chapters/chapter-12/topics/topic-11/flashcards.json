@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Numerical Analysis?",
+      "back": "Numerical Analysis is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Numerical Analysis important?",
+      "back": "Numerical Analysis is essential for understanding Complex Analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Natural Killer (NK) Cells?",
+      "back": "Natural Killer (NK) Cells is a fundamental concept in biology.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Natural Killer (NK) Cells important?",
+      "back": "Natural Killer (NK) Cells is essential for understanding Immunology.",
+      "difficulty": "medium"
+    }
+  ]
+}

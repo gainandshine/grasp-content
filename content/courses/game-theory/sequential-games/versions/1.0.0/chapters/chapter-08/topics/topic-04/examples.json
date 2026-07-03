@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Ultimatum Game",
+      "content": "A practical example demonstrating Ultimatum Game",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "ultimatum-game"
+      ]
+    }
+  ]
+}

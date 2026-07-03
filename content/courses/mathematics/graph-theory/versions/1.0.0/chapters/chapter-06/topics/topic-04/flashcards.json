@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Cycle Detection?",
+      "back": "Cycle Detection is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Cycle Detection important?",
+      "back": "Cycle Detection is essential for understanding Graph Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

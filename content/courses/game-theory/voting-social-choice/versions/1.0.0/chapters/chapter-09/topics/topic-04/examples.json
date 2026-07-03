@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Jury Decisions",
+      "content": "A practical example demonstrating Jury Decisions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "jury-decisions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: App Publishing",
+      "content": "A practical example demonstrating App Publishing",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "app-publishing"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Deontic Logic?",
+      "back": "Deontic Logic is a fundamental concept in philosophy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Deontic Logic important?",
+      "back": "Deontic Logic is essential for understanding Logic.",
+      "difficulty": "medium"
+    }
+  ]
+}

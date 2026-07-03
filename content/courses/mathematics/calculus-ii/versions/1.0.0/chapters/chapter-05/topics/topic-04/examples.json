@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Harmonic Series",
+      "content": "A practical example demonstrating Harmonic Series",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "harmonic-series"
+      ]
+    }
+  ]
+}

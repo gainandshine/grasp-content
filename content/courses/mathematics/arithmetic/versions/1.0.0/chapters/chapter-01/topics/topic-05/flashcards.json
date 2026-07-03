@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Irrational Numbers?",
+      "back": "Irrational Numbers is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Irrational Numbers important?",
+      "back": "Irrational Numbers is essential for understanding Arithmetic.",
+      "difficulty": "medium"
+    }
+  ]
+}

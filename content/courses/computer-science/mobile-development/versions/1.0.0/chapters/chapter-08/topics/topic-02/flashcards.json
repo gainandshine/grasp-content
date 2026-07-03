@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Local Notifications?",
+      "back": "Local Notifications is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Local Notifications important?",
+      "back": "Local Notifications is essential for understanding Mobile Development.",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Digital Forensics",
+      "content": "A practical example demonstrating Digital Forensics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "digital-forensics"
+      ]
+    }
+  ]
+}

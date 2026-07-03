@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: CRUD Operations",
+      "content": "A practical example demonstrating CRUD Operations",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "crud-operations"
+      ]
+    }
+  ]
+}

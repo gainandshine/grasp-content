@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enterprise Security",
+      "content": "A practical example demonstrating Enterprise Security",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "enterprise-security"
+      ]
+    }
+  ]
+}

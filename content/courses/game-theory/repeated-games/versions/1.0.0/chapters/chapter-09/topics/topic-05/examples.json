@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: International Diplomacy",
+      "content": "A practical example demonstrating International Diplomacy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "international-diplomacy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Greatest Common Divisor (GCD)?",
+      "back": "Greatest Common Divisor (GCD) is a fundamental concept in mathematics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Greatest Common Divisor (GCD) important?",
+      "back": "Greatest Common Divisor (GCD) is essential for understanding Number Theory.",
+      "difficulty": "medium"
+    }
+  ]
+}

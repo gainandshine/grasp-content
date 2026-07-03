@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: What is Chemistry?",
+      "content": "A practical example demonstrating What is Chemistry?",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "what-is-chemistry"
+      ]
+    }
+  ]
+}

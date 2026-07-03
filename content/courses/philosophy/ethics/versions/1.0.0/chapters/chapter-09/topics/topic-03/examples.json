@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Animal Ethics",
+      "content": "A practical example demonstrating Animal Ethics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "animal-ethics"
+      ]
+    }
+  ]
+}

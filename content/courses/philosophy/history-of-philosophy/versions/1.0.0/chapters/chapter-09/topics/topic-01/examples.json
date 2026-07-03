@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Arthur Schopenhauer",
+      "content": "A practical example demonstrating Arthur Schopenhauer",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "arthur-schopenhauer"
+      ]
+    }
+  ]
+}

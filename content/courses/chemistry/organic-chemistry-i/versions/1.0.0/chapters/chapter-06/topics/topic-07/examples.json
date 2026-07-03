@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fischer Projections",
+      "content": "A practical example demonstrating Fischer Projections",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "fischer-projections"
+      ]
+    }
+  ]
+}

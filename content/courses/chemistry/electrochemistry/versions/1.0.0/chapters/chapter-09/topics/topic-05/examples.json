@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Corrosion Prevention",
+      "content": "A practical example demonstrating Corrosion Prevention",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "corrosion-prevention"
+      ]
+    }
+  ]
+}

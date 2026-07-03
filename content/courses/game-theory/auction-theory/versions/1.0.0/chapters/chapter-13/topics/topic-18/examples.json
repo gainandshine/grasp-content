@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Social Welfare Functions",
+      "content": "A practical example demonstrating Social Welfare Functions",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "social-welfare-functions"
+      ]
+    }
+  ]
+}

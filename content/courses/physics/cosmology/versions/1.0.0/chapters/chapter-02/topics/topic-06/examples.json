@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Blue Shift",
+      "content": "A practical example demonstrating Blue Shift",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "blue-shift"
+      ]
+    }
+  ]
+}

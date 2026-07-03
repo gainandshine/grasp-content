@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Vector Mathematics",
+      "content": "A practical example demonstrating Vector Mathematics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "vector-mathematics"
+      ]
+    }
+  ]
+}

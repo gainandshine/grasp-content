@@ -1,6 +1,16 @@
 {
   "id": "topic-04",
   "name": "Van Allen Radiation Belts",
-  "description": "Learn about Van Allen Radiation Belts",
-  "conceptId": "physics.plasma-physics.chapter-09.topic-04"
+  "topicId": "physics.plasma-physics.chapter-09.topic-04",
+  "description": "Learn about Van Allen Radiation Belts and its applications in physics.",
+  "content": {
+    "overview": "Van Allen Radiation Belts is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Van Allen Radiation Belts. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Van Allen Radiation Belts requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Van Allen Radiation Belts is essential for mastering Plasma Physics. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

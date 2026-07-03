@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Nanomedicine?",
+      "back": "Nanomedicine is a fundamental concept in chemistry.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Nanomedicine important?",
+      "back": "Nanomedicine is essential for understanding Materials Chemistry.",
+      "difficulty": "medium"
+    }
+  ]
+}

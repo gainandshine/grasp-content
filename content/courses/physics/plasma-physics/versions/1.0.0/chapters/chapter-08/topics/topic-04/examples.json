@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Deuterium-Tritium Fusion",
+      "content": "A practical example demonstrating Deuterium-Tritium Fusion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "deuterium-tritium-fusion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Demand Paging",
+      "content": "A practical example demonstrating Demand Paging",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "demand-paging"
+      ]
+    }
+  ]
+}

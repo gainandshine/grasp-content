@@ -1,10 +1,11 @@
 {
   "id": "atomic-structure",
   "title": "Atomic Structure",
-  "description": "This course explains **what atoms are made of**, how electrons are arranged, and how modern atomic theory developed. It is the foundation of all chemistry.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 22,
-  "chapters": 11,
-  "updatedAt": "2026-07-02T10:38:15.192Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.246Z"
 }

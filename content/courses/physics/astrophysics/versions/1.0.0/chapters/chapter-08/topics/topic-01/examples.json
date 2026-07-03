@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Spiral Galaxies",
+      "content": "A practical example demonstrating Spiral Galaxies",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "spiral-galaxies"
+      ]
+    }
+  ]
+}

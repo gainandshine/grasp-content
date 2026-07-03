@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Participation Constraints",
+      "content": "A practical example demonstrating Participation Constraints",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "participation-constraints"
+      ]
+    }
+  ]
+}

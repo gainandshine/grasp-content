@@ -1,6 +1,16 @@
 {
   "id": "topic-02",
   "name": "Higher-Order Derivatives",
-  "description": "Learn about Higher-Order Derivatives",
-  "conceptId": "mathematics.complex-analysis.chapter-06.topic-02"
+  "topicId": "mathematics.complex-analysis.chapter-06.topic-02",
+  "description": "Learn about Higher-Order Derivatives and its applications in mathematics.",
+  "content": {
+    "overview": "Higher-Order Derivatives is a fundamental concept in mathematics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Higher-Order Derivatives. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Higher-Order Derivatives requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "keyPoints": [
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
+    ],
+    "whyItMatters": "Higher-Order Derivatives is essential for mastering Complex Analysis. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+  }
 }

@@ -2,26 +2,27 @@
   "id": "chapter-04",
   "name": "Impulse",
   "description": "Impulse",
+  "overview": "This chapter covers the fundamental concepts of Impulse.",
   "topics": [
     {
       "id": "topic-01",
       "name": "Average Force",
-      "conceptId": "physics.momentum-collisions.chapter-04.topic-01"
+      "topicId": "physics.momentum-collisions.chapter-04.topic-01"
     },
     {
       "id": "topic-02",
       "name": "Variable Force",
-      "conceptId": "physics.momentum-collisions.chapter-04.topic-02"
+      "topicId": "physics.momentum-collisions.chapter-04.topic-02"
     },
     {
       "id": "topic-03",
       "name": "Force-Time Graphs",
-      "conceptId": "physics.momentum-collisions.chapter-04.topic-03"
+      "topicId": "physics.momentum-collisions.chapter-04.topic-03"
     },
     {
       "id": "topic-04",
       "name": "Applications of Impulse",
-      "conceptId": "physics.momentum-collisions.chapter-04.topic-04"
+      "topicId": "physics.momentum-collisions.chapter-04.topic-04"
     }
   ]
 }

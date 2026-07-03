@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Automation Scripts?",
+      "back": "Automation Scripts is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Automation Scripts important?",
+      "back": "Automation Scripts is essential for understanding Programming Fundamentals.",
+      "difficulty": "medium"
+    }
+  ]
+}

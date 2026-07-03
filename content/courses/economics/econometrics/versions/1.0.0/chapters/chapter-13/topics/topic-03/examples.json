@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Survival Analysis",
+      "content": "A practical example demonstrating Survival Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "survival-analysis"
+      ]
+    }
+  ]
+}

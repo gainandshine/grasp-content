@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Sample Digestion",
+      "content": "A practical example demonstrating Sample Digestion",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "sample-digestion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Shortest Job First (SJF)",
+      "content": "A practical example demonstrating Shortest Job First (SJF)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "shortest-job-first-sjf"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: World Wide Web",
+      "content": "A practical example demonstrating World Wide Web",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "world-wide-web"
+      ]
+    }
+  ]
+}

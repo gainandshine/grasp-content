@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Van der Waals Bonding",
+      "content": "A practical example demonstrating Van der Waals Bonding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "van-der-waals-bonding"
+      ]
+    }
+  ]
+}

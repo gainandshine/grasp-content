@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Definite Integral",
+      "content": "A practical example demonstrating Definite Integral",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "definite-integral"
+      ]
+    }
+  ]
+}

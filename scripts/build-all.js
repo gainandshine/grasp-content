@@ -17,17 +17,42 @@ function writeJson(filePath, obj) {
 
 // ─── Parser ────────────────────────────────────────────────────────────
 function parseNotes(content) {
-  const courses = []; let cur = null, ch = null;
+  const courses = []; 
+  let cur = null, ch = null;
+  
   for (const raw of content.split('\n')) {
     const t = raw.trim();
     if (!t || /^[-*_=]+$/.test(t)) continue;
-    const cm = t.match(/^#+\s*Course\s+\d+:\s*(.+)$/);
-    if (cm) { if (cur) courses.push(cur); cur = { title: cm[1].trim(), chapters: [] }; ch = null; continue; }
-    const chm = t.match(/^##?\s*Chapter\s+\d+:\s*(.+)$/);
-    if (chm && cur) { ch = { title: chm[1].trim(), topics: [] }; cur.chapters.push(ch); continue; }
-    if (t.startsWith('*') && ch) { const topic = t.replace(/^\*\s*/, '').trim(); if (topic) ch.topics.push(topic); }
-    if ((t.startsWith('This course') || t.startsWith('Kinematics is')) && cur && !cur.description) cur.description = t;
+    
+    // Match course headers: "# Course 1:" or "## Course 1:" with any number of #
+    const cm = t.match(/^#+\s*Course\s+\d+:\s*(.+)$/i);
+    if (cm) { 
+      if (cur) courses.push(cur); 
+      cur = { title: cm[1].trim(), chapters: [] }; 
+      ch = null; 
+      continue; 
+    }
+    
+    // Match chapter headers: "## Chapter 1:" or "### Chapter 1:" with 2+ #
+    const chm = t.match(/^##+ *Chapter\s+\d+:\s*(.+)$/i);
+    if (chm && cur) { 
+      ch = { title: chm[1].trim(), topics: [] }; 
+      cur.chapters.push(ch); 
+      continue; 
+    }
+    
+    // Match topics: lines starting with *
+    if (t.startsWith('*') && ch) { 
+      const topic = t.replace(/^\*\s*/, '').trim(); 
+      if (topic) ch.topics.push(topic); 
+    }
+    
+    // Capture course descriptions
+    if ((t.startsWith('This course') || t.startsWith('Kinematics is')) && cur && !cur.description) {
+      cur.description = t;
+    }
   }
+  
   if (cur) courses.push(cur);
   return courses;
 }

@@ -1,10 +1,11 @@
 {
   "id": "graph-theory",
   "title": "Graph Theory",
-  "description": "Graph Theory is one of the most important subjects in **Computer Science, AI, Networking, Optimization, and Mathematics**.",
   "version": "1.0.0",
+  "domain": "mathematics",
   "difficulty": "beginner",
-  "estimatedHours": 28,
-  "chapters": 14,
-  "updatedAt": "2026-07-02T10:38:14.864Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.235Z"
 }

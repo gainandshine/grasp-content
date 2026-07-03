@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pattern Discovery",
+      "content": "A practical example demonstrating Pattern Discovery",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "pattern-discovery"
+      ]
+    }
+  ]
+}

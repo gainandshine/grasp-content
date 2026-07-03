@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: 2D NMR",
+      "content": "A practical example demonstrating 2D NMR",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "2d-nmr"
+      ]
+    }
+  ]
+}

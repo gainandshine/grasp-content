@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is CPU Architecture?",
+      "back": "CPU Architecture is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is CPU Architecture important?",
+      "back": "CPU Architecture is essential for understanding Algorithms.",
+      "difficulty": "medium"
+    }
+  ]
+}

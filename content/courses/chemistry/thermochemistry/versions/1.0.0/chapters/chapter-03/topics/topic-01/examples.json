@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Enthalpy (H)",
+      "content": "A practical example demonstrating Enthalpy (H)",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "enthalpy-h"
+      ]
+    }
+  ]
+}

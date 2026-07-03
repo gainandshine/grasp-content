@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Suicide Prevention",
+      "content": "A practical example demonstrating Suicide Prevention",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "suicide-prevention"
+      ]
+    }
+  ]
+}

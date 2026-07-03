@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Point Charge Field",
+      "content": "A practical example demonstrating Point Charge Field",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "point-charge-field"
+      ]
+    }
+  ]
+}

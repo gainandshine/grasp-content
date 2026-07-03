@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Entity-Relationship (ER) Modeling",
+      "content": "A practical example demonstrating Entity-Relationship (ER) Modeling",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "entity-relationship-er-modeling"
+      ]
+    }
+  ]
+}

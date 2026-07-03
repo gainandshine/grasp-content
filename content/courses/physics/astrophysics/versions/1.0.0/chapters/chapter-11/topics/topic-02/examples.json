@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: X-Ray Binaries",
+      "content": "A practical example demonstrating X-Ray Binaries",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "x-ray-binaries"
+      ]
+    }
+  ]
+}

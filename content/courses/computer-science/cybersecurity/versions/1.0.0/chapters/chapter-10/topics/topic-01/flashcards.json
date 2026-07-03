@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Digital Evidence?",
+      "back": "Digital Evidence is a fundamental concept in computer-science.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Digital Evidence important?",
+      "back": "Digital Evidence is essential for understanding Cybersecurity.",
+      "difficulty": "medium"
+    }
+  ]
+}

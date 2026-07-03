@@ -1,10 +1,11 @@
 {
   "id": "chemical-bonding",
   "title": "Chemical Bonding",
-  "description": "This is one of the most important chemistry courses. It explains **why atoms bond, how molecules form, and why substances have different physical and chemical properties**.",
   "version": "1.0.0",
+  "domain": "chemistry",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:15.341Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.251Z"
 }

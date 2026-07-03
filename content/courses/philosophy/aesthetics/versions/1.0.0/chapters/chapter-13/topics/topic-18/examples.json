@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: 20th Century Philosophy",
+      "content": "A practical example demonstrating 20th Century Philosophy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "20th-century-philosophy"
+      ]
+    }
+  ]
+}

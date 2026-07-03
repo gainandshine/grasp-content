@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Truthful Bidding",
+      "content": "A practical example demonstrating Truthful Bidding",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "truthful-bidding"
+      ]
+    }
+  ]
+}

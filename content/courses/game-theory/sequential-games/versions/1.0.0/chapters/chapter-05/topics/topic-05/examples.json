@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Strategy Consistency",
+      "content": "A practical example demonstrating Strategy Consistency",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "strategy-consistency"
+      ]
+    }
+  ]
+}

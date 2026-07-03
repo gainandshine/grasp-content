@@ -1,10 +1,11 @@
 {
   "id": "electricity-electrostatics",
   "title": "Electricity (Electrostatics)",
-  "description": "This course focuses on **electric charge and electric fields**. It does **not** cover electric circuits—that comes later.",
   "version": "1.0.0",
+  "domain": "physics",
   "difficulty": "beginner",
-  "estimatedHours": 20,
-  "chapters": 10,
-  "updatedAt": "2026-07-02T10:38:12.744Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:09.734Z"
 }

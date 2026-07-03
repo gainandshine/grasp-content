@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Time Series Evaluation",
+      "content": "A practical example demonstrating Time Series Evaluation",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "economics",
+        "time-series-evaluation"
+      ]
+    }
+  ]
+}

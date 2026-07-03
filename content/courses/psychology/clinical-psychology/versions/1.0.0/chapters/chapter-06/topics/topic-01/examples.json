@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Psychodynamic Therapy",
+      "content": "A practical example demonstrating Psychodynamic Therapy",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "psychology",
+        "psychodynamic-therapy"
+      ]
+    }
+  ]
+}

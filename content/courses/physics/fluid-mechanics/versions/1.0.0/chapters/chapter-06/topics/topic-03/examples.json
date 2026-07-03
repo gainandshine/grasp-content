@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Newtonian Fluids",
+      "content": "A practical example demonstrating Newtonian Fluids",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "newtonian-fluids"
+      ]
+    }
+  ]
+}

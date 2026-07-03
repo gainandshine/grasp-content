@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Rocket Trajectories",
+      "content": "A practical example demonstrating Rocket Trajectories",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "rocket-trajectories"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Second Law of Thermodynamics",
+      "content": "A practical example demonstrating Second Law of Thermodynamics",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "second-law-of-thermodynamics"
+      ]
+    }
+  ]
+}

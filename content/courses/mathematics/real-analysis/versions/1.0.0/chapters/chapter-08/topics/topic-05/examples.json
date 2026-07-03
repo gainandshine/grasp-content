@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fundamental Theorem of Calculus",
+      "content": "A practical example demonstrating Fundamental Theorem of Calculus",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "fundamental-theorem-of-calculus"
+      ]
+    }
+  ]
+}

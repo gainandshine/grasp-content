@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Pure Strategy Equilibria",
+      "content": "A practical example demonstrating Pure Strategy Equilibria",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "game-theory",
+        "pure-strategy-equilibria"
+      ]
+    }
+  ]
+}

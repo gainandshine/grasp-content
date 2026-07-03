@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Smart Polymers",
+      "content": "A practical example demonstrating Smart Polymers",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "smart-polymers"
+      ]
+    }
+  ]
+}

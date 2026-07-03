@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Fractional Knapsack",
+      "content": "A practical example demonstrating Fractional Knapsack",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "fractional-knapsack"
+      ]
+    }
+  ]
+}

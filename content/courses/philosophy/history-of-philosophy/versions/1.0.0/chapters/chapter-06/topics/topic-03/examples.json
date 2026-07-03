@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Baruch Spinoza",
+      "content": "A practical example demonstrating Baruch Spinoza",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "philosophy",
+        "baruch-spinoza"
+      ]
+    }
+  ]
+}

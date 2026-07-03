@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Molecular Clouds?",
+      "back": "Molecular Clouds is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Molecular Clouds important?",
+      "back": "Molecular Clouds is essential for understanding Astrophysics.",
+      "difficulty": "medium"
+    }
+  ]
+}

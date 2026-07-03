@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Abelian Groups",
+      "content": "A practical example demonstrating Abelian Groups",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "mathematics",
+        "abelian-groups"
+      ]
+    }
+  ]
+}

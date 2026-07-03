@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Trajectory Analysis",
+      "content": "A practical example demonstrating Trajectory Analysis",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "chemistry",
+        "trajectory-analysis"
+      ]
+    }
+  ]
+}

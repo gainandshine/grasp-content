@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Microbial Identification",
+      "content": "A practical example demonstrating Microbial Identification",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "biology",
+        "microbial-identification"
+      ]
+    }
+  ]
+}

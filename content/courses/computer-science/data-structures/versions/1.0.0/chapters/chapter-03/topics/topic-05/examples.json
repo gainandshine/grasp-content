@@ -1,0 +1,16 @@
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Advantages & Disadvantages",
+      "content": "A practical example demonstrating Advantages & Disadvantages",
+      "source": "Generated",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": [
+        "computer-science",
+        "advantages-disadvantages"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is Energy-Time Uncertainty?",
+      "back": "Energy-Time Uncertainty is a fundamental concept in physics.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "Why is Energy-Time Uncertainty important?",
+      "back": "Energy-Time Uncertainty is essential for understanding Quantum Mechanics.",
+      "difficulty": "medium"
+    }
+  ]
+}

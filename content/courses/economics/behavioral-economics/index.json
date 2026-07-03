@@ -1,10 +1,11 @@
 {
   "id": "behavioral-economics",
   "title": "Behavioral Economics",
-  "description": "This course studies **how psychology influences economic decision-making**. It explains why people often make choices that differ from the predictions of traditional economics.",
   "version": "1.0.0",
+  "domain": "economics",
   "difficulty": "beginner",
-  "estimatedHours": 26,
-  "chapters": 13,
-  "updatedAt": "2026-07-02T10:38:20.849Z"
+  "estimatedHours": 0,
+  "chapters": 0,
+  "topics": 0,
+  "updatedAt": "2026-07-03T13:16:10.377Z"
 }
