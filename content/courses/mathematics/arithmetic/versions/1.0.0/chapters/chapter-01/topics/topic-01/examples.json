@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Natural Numbers",
-      "content": "A practical example demonstrating Natural Numbers",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Verifying Set Membership (\u2115)",
+      "content": "Determine whether each of the following numbers belongs to the standard set of Natural Numbers (\u2115):\n\n1. **15**: Yes. It is a positive, non-zero whole counting number, so $15 \\in \\mathbb{N}$.\n2. **0**: No. Under standard pure mathematical conventions, $0 \\notin \\mathbb{N}$ (it is a Whole Number, but not a positive integer).\n3. **-4**: No. Negative integers do not belong to the set of counting numbers, so $-4 \\notin \\mathbb{N}$.\n4. **3.5**: No. Natural numbers must be discrete whole units. Decimals and fractions do not belong, so $3.5 \\notin \\mathbb{N}$.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Sets"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Closure Property Demonstration",
+      "content": "Verify the closure property of Natural Numbers under addition and subtraction using the numbers $8$ and $12$:\n\n- **Addition**: $8 + 12 = 20$. Since $20$ is a positive counting integer, it belongs to $\\mathbb{N}$. This supports the property that $\\mathbb{N}$ is closed under addition.\n- **Subtraction**: $8 - 12 = -4$. Since $-4$ is a negative integer, $-4 \\notin \\mathbb{N}$. This demonstrates that $\\mathbb{N}$ is **not closed** under subtraction.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "intermediate",
       "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "natural-numbers"
-      ]
+      "tags": ["Arithmetic", "Algebraic Properties"]
     }
   ]
 }

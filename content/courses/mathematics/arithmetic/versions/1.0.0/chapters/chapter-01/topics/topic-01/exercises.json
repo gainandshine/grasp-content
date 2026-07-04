@@ -1,35 +1,28 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Natural Numbers.",
-      "solution": "Step-by-step solution for Natural Numbers problem.",
+      "id": "exercise-01",
+      "prompt": "Let $x \\in \\mathbb{N}$ and $y \\in \\mathbb{N}$. Prove or disprove with a counterexample whether the expression $x^2 - y$ is always a natural number.",
+      "solution": "The expression $x^2 - y$ is **not always** a natural number. \n\n**Counterexample**:\nLet $x = 2 \\in \\mathbb{N}$ and $y = 5 \\in \\mathbb{N}$.\nEvaluating the expression:\n$$x^2 - y = 2^2 - 5 = 4 - 5 = -1$$\nSince $-1$ is a negative integer, $-1 \\notin \\mathbb{N}$. Therefore, the expression is not closed over the natural numbers.",
       "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
+        "Recall the closure property of subtraction over natural numbers.",
+        "Try choosing a small value for $x$ and a larger value for $y$ to yield a negative outcome."
       ],
       "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "mathematics",
-        "natural-numbers"
-      ]
+      "estimatedMinutes": 8,
+      "tags": ["Arithmetic", "Closure Properties"]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Natural Numbers to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "id": "exercise-02",
+      "prompt": "According to the Peano definition of natural numbers starting from 1, express the number 4 purely in terms of the successor function $S(n)$ and the base unit 1.",
+      "solution": "Under the Peano definition:\n- $1$ is the base unit.\n- $2 = S(1)$\n- $3 = S(2) = S(S(1))$\n- $4 = S(3) = S(S(S(1)))$\n\nTherefore, $4$ is represented as $S(S(S(1)))$.",
       "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
+        "Each successor application $S(n)$ increments the value by 1.",
+        "Build the representation recursively starting from 1."
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "mathematics",
-        "natural-numbers"
-      ]
+      "difficulty": "hard",
+      "estimatedMinutes": 6,
+      "tags": ["Peano Axioms", "Successor Function"]
     }
   ]
 }

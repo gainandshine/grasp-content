@@ -1,16 +1,22 @@
 {
   "examples": [
     {
-      "id": "example-01",
-      "title": "Example: Whole Numbers",
-      "content": "A practical example demonstrating Whole Numbers",
-      "source": "Generated",
+      "id": "ex-01",
+      "title": "Verifying Set Membership (\u2119)",
+      "content": "Determine whether each of the following numbers belongs to the set of Whole Numbers (\\mathbb{W}):\n\n1. **0**: Yes. Zero is the starting element of the whole numbers, so $0 \\in \\mathbb{W}$.\n2. **12**: Yes. It is a positive counting integer, which makes it a natural number and thus a whole number: $12 \\in \\mathbb{W}$.\n3. **-5**: No. Whole numbers only include non-negative values. Negative integers do not belong: $-5 \\notin \\mathbb{W}$.\n4. **0.75**: No. Whole numbers must be integers. Decimals and fractions are excluded: $0.75 \\notin \\mathbb{W}$.",
+      "source": "Grasp Curriculum Team",
       "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "tags": [
-        "mathematics",
-        "whole-numbers"
-      ]
+      "estimatedMinutes": 3,
+      "tags": ["Arithmetic", "Sets"]
+    },
+    {
+      "id": "ex-02",
+      "title": "Additive Identity and Zero Multiplication",
+      "content": "Demonstrate the additive identity property and the zero product property of Whole Numbers using the element $25$:\n\n- **Additive Identity Property**: When $0$ is added to $25$, the value remains unchanged:\n  $$25 + 0 = 25$$\n  This confirms that $0$ is the identity element for addition in $\\mathbb{W}$.\n- **Zero Product Property**: When $25$ is multiplied by $0$, the product is $0$:\n  $$25 \\times 0 = 0$$\n  This holds true for all elements in the set of whole numbers.",
+      "source": "Grasp Curriculum Team",
+      "difficulty": "beginner",
+      "estimatedMinutes": 4,
+      "tags": ["Arithmetic", "Identity Properties"]
     }
   ]
 }

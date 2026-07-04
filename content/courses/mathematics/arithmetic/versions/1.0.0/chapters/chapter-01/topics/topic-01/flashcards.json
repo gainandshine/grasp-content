@@ -2,15 +2,21 @@
   "flashcards": [
     {
       "id": "card-01",
-      "front": "What is Natural Numbers?",
-      "back": "Natural Numbers is a fundamental concept in mathematics.",
+      "front": "What is the set-theoretic notation for the standard set of Natural Numbers (\u2115)?",
+      "back": "\u2115 = {1, 2, 3, 4, 5, ...} (positive counting integers starting from 1).",
       "difficulty": "easy"
     },
     {
       "id": "card-02",
-      "front": "Why is Natural Numbers important?",
-      "back": "Natural Numbers is essential for understanding Arithmetic.",
+      "front": "Provide a counterexample demonstrating that Natural Numbers (\u2115) are not closed under subtraction.",
+      "back": "If a = 3 and b = 5 (both in \u2115), their difference is a - b = -2, which is not in \u2115 (it is a negative integer).",
       "difficulty": "medium"
+    },
+    {
+      "id": "card-03",
+      "front": "What is the role of the successor function S(n) in Peano Axioms?",
+      "back": "It formally defines the progression of numbers, mapping any natural number n to its unique successor S(n) = n + 1, ensuring the set is infinite.",
+      "difficulty": "hard"
     }
   ]
 }

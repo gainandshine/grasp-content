@@ -1,154 +1,35 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "Whole Numbers Flowchart",
-      "description": "Flowchart showing Whole Numbers process",
-      "spec": {
-        "diagramType": "flowchart",
-        "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Whole Numbers",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
-        ],
-        "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
-        ]
-      }
-    },
-    {
       "id": "formula-01",
       "type": "formula",
-      "title": "Whole Numbers Formula",
-      "description": "Mathematical definition",
+      "title": "Whole Numbers Set Representation",
+      "description": "Mathematical notation for the set of Whole Numbers.",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\mathbb{W} = \\{0, 1, 2, 3, \\dots\\}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\mathbb{W}",
+            "explanation": "Standard mathematical symbol representing the set of non-negative integers."
+          },
+          {
+            "latex": "\\{0, 1, 2, 3, \\dots\\}",
+            "explanation": "Enumeration including zero and all positive counting numbers."
+          },
+          {
+            "latex": "\\mathbb{W} = \\mathbb{N} \\cup \\{0\\}",
+            "explanation": "Set-theoretic definition showing that Whole Numbers are the union of Natural Numbers and the zero element."
           }
         ]
-      }
-    },
-    {
-      "id": "3d-01",
-      "type": "3d",
-      "title": "Whole Numbers 3D Model",
-      "description": "Interactive 3D visualization",
-      "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Whole Numbers Animation",
-      "description": "Canvas animation",
+      "title": "2D Number Line Origin Animation",
+      "description": "An animation demonstrating zero as the origin and starting point of the whole number timeline.",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
-      }
-    },
-    {
-      "id": "chart-01",
-      "type": "d3",
-      "title": "Whole Numbers Chart",
-      "description": "Data visualization",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
-      }
-    },
-    {
-      "id": "text-01",
-      "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
-      "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Whole Numbers.",
-        "citations": []
-      }
-    },
-    {
-      "id": "simulation-01",
-      "type": "simulation",
-      "title": "Whole Numbers Simulation",
-      "description": "Interactive simulation",
-      "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
-      }
-    },
-    {
-      "id": "lottie-01",
-      "type": "lottie",
-      "title": "Whole Numbers Icon",
-      "description": "Animated icon",
-      "spec": {
-        "lottieUrl": "https://assets.lottiefiles.com/packages/lf20_example.json",
-        "autoplay": true,
-        "loop": true
-      }
-    },
-    {
-      "id": "diagram-02",
-      "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Whole Numbers",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
-        ]
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    ctx.fillStyle = '#111827';\n    ctx.fillRect(0, 0, W, H);\n    \n    ctx.strokeStyle = '#374151';\n    ctx.lineWidth = 4;\n    ctx.beginPath();\n    ctx.moveTo(80, H / 2);\n    ctx.lineTo(W - 40, H / 2);\n    ctx.stroke();\n    \n    var numPoints = 5;\n    var spacing = (W - 120) / (numPoints - 1);\n    for (var i = 0; i < numPoints; i++) {\n      var val = i;\n      var x = 80 + i * spacing;\n      var y = H / 2;\n      \n      var activeIdx = Math.floor(t * 0.03) % numPoints;\n      var isActive = (i === activeIdx);\n      \n      if (val === 0) {\n        ctx.strokeStyle = isActive ? '#EC4899' : '#6B7280';\n        ctx.lineWidth = isActive ? 5 : 3;\n        ctx.beginPath();\n        ctx.arc(x, y, isActive ? 18 + Math.sin(t * 0.15) * 3 : 12, 0, Math.PI * 2);\n        ctx.stroke();\n        \n        ctx.fillStyle = isActive ? '#EC4899' : '#9CA3AF';\n        ctx.font = 'bold 16px -apple-system, sans-serif';\n        ctx.textAlign = 'center';\n        ctx.fillText('0 (Origin)', x, y - 25);\n      } else {\n        var r = isActive ? 14 + Math.sin(t * 0.15) * 3 : 8;\n        ctx.fillStyle = isActive ? '#8B5CF6' : '#4B5563';\n        ctx.beginPath();\n        ctx.arc(x, y, r, 0, Math.PI * 2);\n        ctx.fill();\n        \n        ctx.font = 'bold 16px -apple-system, sans-serif';\n        ctx.fillStyle = isActive ? '#F3F4F6' : '#9CA3AF';\n        ctx.textAlign = 'center';\n        ctx.fillText(val.toString(), x, y - 25);\n      }\n    }\n  }\n};"
       }
     }
   ]
