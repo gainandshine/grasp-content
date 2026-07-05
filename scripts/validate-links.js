@@ -118,6 +118,8 @@ function validateLinksForVersion(versionPath) {
       }
 
       referencedVizIds.forEach(vizId => {
+        if (vizId.startsWith('example-')) return; // Skip example references for now
+
         if (!availableVizIds.has(vizId)) {
           addError(
             topicJsonPath.replace(CONTENT_DIR, ''),

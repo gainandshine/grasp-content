@@ -84,41 +84,43 @@ function validateCourseVersion(domain, courseId, version, versionPath) {
     return;
   }
 
-  const chaptersDir = path.join(versionPath, 'chapters');
-  if (!fs.existsSync(chaptersDir)) {
-    addError(relPath, 'Missing chapters directory');
-    return;
-  }
-
-  courseData.chapters.forEach(chRef => {
-    const chId = chRef.id;
-    const chPath = path.join(chaptersDir, chId);
-    const chJsonPath = path.join(chPath, 'chapter.json');
-    const chData = safeReadJson(chJsonPath);
-
-    if (!chData) return;
-
-    // Validate chapter.json schema
-    if (chData.id !== chId) {
-      addError(chJsonPath.replace(CONTENT_DIR, ''), `ID mismatch: Expected "${chId}", got "${chData.id}"`);
-    }
-    if (!chData.name || typeof chData.name !== 'string') {
-      addError(chJsonPath.replace(CONTENT_DIR, ''), 'Missing or invalid chapter "name"');
-    }
-    if (!chData.topics || !Array.isArray(chData.topics)) {
-      addError(chJsonPath.replace(CONTENT_DIR, ''), 'Missing or invalid chapter "topics" array');
+  if (courseData.chapters.length > 0) {
+    const chaptersDir = path.join(versionPath, 'chapters');
+    if (!fs.existsSync(chaptersDir)) {
+      addError(relPath, 'Missing chapters directory');
       return;
     }
 
-    const topicsDir = path.join(chPath, 'topics');
-    chData.topics.forEach(topicRef => {
-      const tId = topicRef.id;
-      const topicPath = path.join(topicsDir, tId);
-      
-      // Validate all topic files exist and have correct schema
-      validateTopic(topicPath, tId, domain, courseId, chId);
+    courseData.chapters.forEach(chRef => {
+      const chId = chRef.id;
+      const chPath = path.join(chaptersDir, chId);
+      const chJsonPath = path.join(chPath, 'chapter.json');
+      const chData = safeReadJson(chJsonPath);
+
+      if (!chData) return;
+
+      // Validate chapter.json schema
+      if (chData.id !== chId) {
+        addError(chJsonPath.replace(CONTENT_DIR, ''), `ID mismatch: Expected "${chId}", got "${chData.id}"`);
+      }
+      if (!chData.name || typeof chData.name !== 'string') {
+        addError(chJsonPath.replace(CONTENT_DIR, ''), 'Missing or invalid chapter "name"');
+      }
+      if (!chData.topics || !Array.isArray(chData.topics)) {
+        addError(chJsonPath.replace(CONTENT_DIR, ''), 'Missing or invalid chapter "topics" array');
+        return;
+      }
+
+      const topicsDir = path.join(chPath, 'topics');
+      chData.topics.forEach(topicRef => {
+        const tId = topicRef.id;
+        const topicPath = path.join(topicsDir, tId);
+        
+        // Validate all topic files exist and have correct schema
+        validateTopic(topicPath, tId, domain, courseId, chId);
+      });
     });
-  });
+  }
 }
 
 function validateTopic(topicPath, tId, domain, courseId, chId) {
