@@ -1,0 +1,34 @@
+name: Generate Live Statistics
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/**'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Calculate and Write Stats
+        run: node scripts/generate-stats.js
+
+      - name: Commit Statistics
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: auto-update content statistics in README.md [skip ci]" || echo "No changes to commit"
+          git push

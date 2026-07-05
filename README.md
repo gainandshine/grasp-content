@@ -85,6 +85,21 @@ final response = await http.get(
 );
 ```
 
+## Statistics
+
+<!-- STATS_START -->
+| Content Type | Count |
+| :--- | :--- |
+| **📚 Courses** | 149 |
+| **📖 Chapters** | 1902 |
+| **💡 Concepts** | 13067 |
+| **❓ Quiz Questions** | 26136 |
+| **🃏 Flashcards** | 26136 |
+| **📝 Practice Exercises** | 26134 |
+| **💡 Examples** | 13069 |
+| **🎨 Interactive Canvas Visuals** | 117589 |
+<!-- STATS_END -->
+
 ## License
 
 MIT

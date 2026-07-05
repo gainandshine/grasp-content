@@ -1,0 +1,34 @@
+name: Generate Latest Manifests
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/courses/**/versions/**'
+
+permissions:
+  contents: write
+
+jobs:
+  generate-latest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Update Latest Manifests
+        run: node scripts/generate-latest.js
+
+      - name: Commit Latest Manifests
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/courses/**/latest.json
+          git commit -m "chore: auto-sync course latest.json manifests [skip ci]" || echo "No changes to commit"
+          git push

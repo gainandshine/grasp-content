@@ -1,1 +1,1343 @@
-﻿{"all":[],"updatedAt":""}
+[
+  {
+    "id": "biochemistry",
+    "type": "course",
+    "name": "Biochemistry",
+    "description": "This course studies **the chemical processes of living organisms**. It explains how biomolecules are built, how cells obtain and use energy, and how biochemical pathways regulate life.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/biochemistry"
+  },
+  {
+    "id": "biology-foundations",
+    "type": "course",
+    "name": "Biology Foundations",
+    "description": "This course introduces the **fundamental principles of biology**, the science of life. Students learn what living organisms are, how they are classified, and the core concepts that underpin all of biology.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/biology-foundations"
+  },
+  {
+    "id": "biotechnology",
+    "type": "course",
+    "name": "Biotechnology",
+    "description": "This course studies **the application of biological systems and living organisms to develop technologies and products** for medicine, agriculture, industry, and environmental science.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/biotechnology"
+  },
+  {
+    "id": "cell-biology",
+    "type": "course",
+    "name": "Cell Biology",
+    "description": "This course studies the **cell**, the fundamental unit of life. Students learn how cells are structured, how they function, how they communicate, and how they divide to support growth, repair, and reproduction.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/cell-biology"
+  },
+  {
+    "id": "ecology",
+    "type": "course",
+    "name": "Ecology",
+    "description": "This course studies **how organisms interact with each other and their environment**, from individual organisms to the entire biosphere. It explains ecosystems, biodiversity, climate, and conservation.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/ecology"
+  },
+  {
+    "id": "evolution",
+    "type": "course",
+    "name": "Evolution",
+    "description": "This course studies **how life changes over time**, explaining the origin of biological diversity through natural selection, genetic variation, speciation, and evolutionary processes.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/evolution"
+  },
+  {
+    "id": "genetics",
+    "type": "course",
+    "name": "Genetics",
+    "description": "This course studies **how traits are inherited, how genes are passed between generations, and how genetic variation shapes living organisms**. It forms the bridge between molecular biology and evolution.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/genetics"
+  },
+  {
+    "id": "human-physiology",
+    "type": "course",
+    "name": "Human Physiology",
+    "description": "This course studies **how the human body functions**. It explains how organs and organ systems work together to maintain life and homeostasis.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/human-physiology"
+  },
+  {
+    "id": "immunology",
+    "type": "course",
+    "name": "Immunology",
+    "description": "This course studies **the immune system**, how it protects the body from pathogens, how vaccines work, and why immune disorders such as allergies, autoimmune diseases, and immunodeficiencies occur.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/immunology"
+  },
+  {
+    "id": "microbiology",
+    "type": "course",
+    "name": "Microbiology",
+    "description": "This course studies **microorganisms**—organisms too small to be seen with the naked eye. It covers bacteria, viruses, fungi, protozoa, parasites, and their roles in health, disease, biotechnology, and the environment.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/microbiology"
+  },
+  {
+    "id": "molecular-biology",
+    "type": "course",
+    "name": "Molecular Biology",
+    "description": "This course studies **how genetic information is stored, replicated, expressed, and regulated**. It forms the foundation of genetics, biotechnology, genomics, and modern medicine.",
+    "domain": "biology",
+    "version": "1.0.0",
+    "path": "/course/molecular-biology"
+  },
+  {
+    "id": "acids-bases",
+    "type": "course",
+    "name": "Acids & Bases",
+    "description": "This course studies **acid-base chemistry**, one of the most important areas of chemistry. It explains pH, neutralization, buffers, titrations, and the behavior of acids and bases in biological, environmental, and industrial systems.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/acids-bases"
+  },
+  {
+    "id": "analytical-chemistry",
+    "type": "course",
+    "name": "Analytical Chemistry",
+    "description": "This course studies **how chemists identify, separate, and quantify chemical substances**. It is the foundation of laboratory science, pharmaceuticals, environmental testing, forensic science, and quality control.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/analytical-chemistry"
+  },
+  {
+    "id": "atomic-structure",
+    "type": "course",
+    "name": "Atomic Structure",
+    "description": "This course explains **what atoms are made of**, how electrons are arranged, and how modern atomic theory developed. It is the foundation of all chemistry.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/atomic-structure"
+  },
+  {
+    "id": "biomolecules",
+    "type": "course",
+    "name": "Biomolecules",
+    "description": "This course studies the **chemical molecules of life**. It bridges chemistry and biology, explaining the structure, function, and interactions of carbohydrates, proteins, lipids, nucleic acids, enzymes, vitamins, and biomolecular metabolism.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/biomolecules"
+  },
+  {
+    "id": "chemical-bonding",
+    "type": "course",
+    "name": "Chemical Bonding",
+    "description": "Chemical Bonding",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/chemical-bonding"
+  },
+  {
+    "id": "chemical-equilibrium",
+    "type": "course",
+    "name": "Chemical Equilibrium",
+    "description": "Chemical Equilibrium",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/chemical-equilibrium"
+  },
+  {
+    "id": "chemical-kinetics",
+    "type": "course",
+    "name": "Chemical Kinetics",
+    "description": "This course studies **how fast chemical reactions occur, what controls their speed, and how reactions proceed step by step**. It is fundamental to chemistry, biology, pharmaceuticals, and chemical engineering.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/chemical-kinetics"
+  },
+  {
+    "id": "chemistry-foundations",
+    "type": "course",
+    "name": "Chemistry Foundations",
+    "description": "This course teaches the language, measurements, and core principles of chemistry before students study atoms, molecules, and reactions.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/chemistry-foundations"
+  },
+  {
+    "id": "computational-chemistry",
+    "type": "course",
+    "name": "Computational Chemistry",
+    "description": "This course studies **how computers are used to model, simulate, predict, and design chemical systems**. It combines chemistry, mathematics, physics, computer science, and artificial intelligence to solve problems that are difficult or impossible to study experimentally.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/computational-chemistry"
+  },
+  {
+    "id": "coordination-chemistry",
+    "type": "course",
+    "name": "Coordination Chemistry",
+    "description": "This course studies **coordination compounds (metal complexes)**—molecules in which a central metal atom or ion is surrounded by ligands. It is a major branch of inorganic chemistry with applications in medicine, catalysis, biology, and materials science.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/coordination-chemistry"
+  },
+  {
+    "id": "electrochemistry",
+    "type": "course",
+    "name": "Electrochemistry",
+    "description": "This course studies **the relationship between chemical reactions and electricity**. It forms the foundation of batteries, fuel cells, electrolysis, corrosion, and modern energy storage.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/electrochemistry"
+  },
+  {
+    "id": "environmental-chemistry",
+    "type": "course",
+    "name": "Environmental Chemistry",
+    "description": "This course studies **the chemistry of Earth's environment**, including the atmosphere, water, soil, pollution, climate change, and sustainable chemical practices. It connects chemistry with ecology, public health, and environmental engineering.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/environmental-chemistry"
+  },
+  {
+    "id": "industrial-chemistry",
+    "type": "course",
+    "name": "Industrial Chemistry",
+    "description": "This course studies **how chemistry is applied in large-scale manufacturing**. It covers chemical process industries, industrial production methods, process optimization, quality control, sustainability, and safety.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/industrial-chemistry"
+  },
+  {
+    "id": "main-group-chemistry",
+    "type": "course",
+    "name": "Main Group Chemistry",
+    "description": "This course studies the **chemistry of the main group elements (Groups 1, 2, and 13–18)**, including their properties, compounds, reactions, and industrial importance.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/main-group-chemistry"
+  },
+  {
+    "id": "materials-chemistry",
+    "type": "course",
+    "name": "Materials Chemistry",
+    "description": "This course studies **how the composition, structure, and bonding of materials determine their properties and applications**. It bridges chemistry, physics, engineering, and nanotechnology.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/materials-chemistry"
+  },
+  {
+    "id": "nanochemistry",
+    "type": "course",
+    "name": "Nanochemistry",
+    "description": "This course studies **chemistry at the nanoscale (1–100 nm)**, where materials exhibit unique physical, chemical, optical, electrical, and biological properties. It is foundational to nanotechnology, medicine, electronics, and advanced materials.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/nanochemistry"
+  },
+  {
+    "id": "nuclear-chemistry",
+    "type": "course",
+    "name": "Nuclear Chemistry",
+    "description": "This course studies **the chemistry of atomic nuclei**, radioactive materials, nuclear reactions, and their applications in medicine, energy, industry, and scientific research.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/nuclear-chemistry"
+  },
+  {
+    "id": "organic-chemistry-i",
+    "type": "course",
+    "name": "Organic Chemistry I",
+    "description": "This course introduces the **chemistry of carbon compounds**. Students learn how organic molecules are structured, named, classified, and how they react. It forms the foundation for pharmaceuticals, biochemistry, polymers, and materials science.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/organic-chemistry-i"
+  },
+  {
+    "id": "organic-chemistry-ii",
+    "type": "course",
+    "name": "Organic Chemistry II",
+    "description": "This course builds on Organic Chemistry I by exploring the **chemistry of functional groups**, reaction mechanisms, organic synthesis, and spectroscopic identification. It is the core course for pharmaceuticals, medicinal chemistry, and chemical synthesis.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/organic-chemistry-ii"
+  },
+  {
+    "id": "periodic-table",
+    "type": "course",
+    "name": "Periodic Table",
+    "description": "This course explains **why the Periodic Table is organized the way it is** and how it predicts the physical and chemical behavior of every element.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/periodic-table"
+  },
+  {
+    "id": "polymers",
+    "type": "course",
+    "name": "Polymers",
+    "description": "This course studies **polymers—large molecules made of repeating units (monomers)**. It covers natural and synthetic polymers, polymer synthesis, properties, processing, and applications in materials science, medicine, and engineering.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/polymers"
+  },
+  {
+    "id": "spectroscopy",
+    "type": "course",
+    "name": "Spectroscopy",
+    "description": "This course studies **how light and electromagnetic radiation interact with matter** to identify atoms, molecules, and materials. It is one of the most important tools in chemistry, biology, medicine, and materials science.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/spectroscopy"
+  },
+  {
+    "id": "states-of-matter",
+    "type": "course",
+    "name": "States of Matter",
+    "description": "This course explains **why matter exists as solids, liquids, gases, and plasma**, and how temperature, pressure, and intermolecular forces determine their behavior.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/states-of-matter"
+  },
+  {
+    "id": "thermochemistry",
+    "type": "course",
+    "name": "Thermochemistry",
+    "description": "This course studies **how energy changes during chemical reactions**. It is one of the core subjects of physical chemistry and explains why reactions release or absorb heat.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/thermochemistry"
+  },
+  {
+    "id": "transition-metals",
+    "type": "course",
+    "name": "Transition Metals",
+    "description": "This course studies the **d-block and f-block elements**, their unique properties, variable oxidation states, colored compounds, magnetic behavior, catalytic activity, and industrial importance.",
+    "domain": "chemistry",
+    "version": "1.0.0",
+    "path": "/course/transition-metals"
+  },
+  {
+    "id": "algorithms",
+    "type": "course",
+    "name": "Algorithms",
+    "description": "This course studies **how to design, analyze, and optimize algorithms** for solving computational problems efficiently. It builds directly on Data Structures.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/algorithms"
+  },
+  {
+    "id": "artificial-intelligence",
+    "type": "course",
+    "name": "Artificial Intelligence",
+    "description": "This course studies **how intelligent systems perceive, reason, learn, and make decisions**. It covers the core ideas of AI beyond machine learning, including search, planning, reasoning, knowledge representation, robotics, and modern generative AI.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/artificial-intelligence"
+  },
+  {
+    "id": "compiler-design",
+    "type": "course",
+    "name": "Compiler Design",
+    "description": "This course studies **how programming languages are translated into executable programs**. It covers the complete compiler pipeline, from source code to optimized machine code.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/compiler-design"
+  },
+  {
+    "id": "computer-graphics",
+    "type": "course",
+    "name": "Computer Graphics",
+    "description": "This course studies **how computers create, manipulate, and render images and 3D scenes**. It covers the mathematics, algorithms, and GPU techniques behind games, simulations, CAD software, and visual effects.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/computer-graphics"
+  },
+  {
+    "id": "computer-networks",
+    "type": "course",
+    "name": "Computer Networks",
+    "description": "This course studies **how computers communicate over networks**, from small local networks to the global Internet. It covers network architecture, protocols, routing, switching, wireless communication, and network security.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/computer-networks"
+  },
+  {
+    "id": "computer-organization",
+    "type": "course",
+    "name": "Computer Organization",
+    "description": "This course studies **how a computer is built and how it executes programs**, bridging the gap between software and hardware.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/computer-organization"
+  },
+  {
+    "id": "computer-science-foundations",
+    "type": "course",
+    "name": "Computer Science Foundations",
+    "description": "This course introduces **the fundamental ideas of computer science**, including how computers represent information, solve problems, execute programs, and impact society. It prepares students for programming and all later CS courses.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/computer-science-foundations"
+  },
+  {
+    "id": "cybersecurity",
+    "type": "course",
+    "name": "Cybersecurity",
+    "description": "This course studies **how to protect computers, networks, applications, and data from cyber threats**. It covers defensive security, secure system design, incident response, and ethical security practices.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/cybersecurity"
+  },
+  {
+    "id": "data-science",
+    "type": "course",
+    "name": "Data Science",
+    "description": "This course studies **how to extract knowledge, insights, and predictions from data** using statistics, programming, machine learning, and visualization.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/data-science"
+  },
+  {
+    "id": "data-structures",
+    "type": "course",
+    "name": "Data Structures",
+    "description": "This course studies **how data is organized, stored, and manipulated efficiently**. Choosing the right data structure is fundamental to writing fast, scalable software.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/data-structures"
+  },
+  {
+    "id": "databases",
+    "type": "course",
+    "name": "Databases",
+    "description": "This course studies **how data is stored, organized, queried, and managed efficiently**. It covers relational databases, SQL, NoSQL, transactions, indexing, and modern database systems.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/databases"
+  },
+  {
+    "id": "distributed-systems",
+    "type": "course",
+    "name": "Distributed Systems",
+    "description": "This course studies **how multiple computers work together as one system**. It covers communication, coordination, consistency, fault tolerance, and the design of large-scale distributed applications.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/distributed-systems"
+  },
+  {
+    "id": "machine-learning",
+    "type": "course",
+    "name": "Machine Learning",
+    "description": "This course studies **how computers learn patterns from data** to make predictions, classifications, recommendations, and decisions. It covers both classical machine learning and modern deep learning.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/machine-learning"
+  },
+  {
+    "id": "mobile-development",
+    "type": "course",
+    "name": "Mobile Development",
+    "description": "This course teaches **how to build mobile applications** for Android and iOS, covering native concepts, cross-platform development, networking, storage, and publishing.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/mobile-development"
+  },
+  {
+    "id": "object-oriented-programming",
+    "type": "course",
+    "name": "Object-Oriented Programming",
+    "description": "This course teaches the **Object-Oriented Programming (OOP)** paradigm, where software is modeled as interacting objects. The concepts apply across Java, C++, C#, Kotlin, Swift, Python, and many modern languages.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/object-oriented-programming"
+  },
+  {
+    "id": "operating-systems",
+    "type": "course",
+    "name": "Operating Systems",
+    "description": "This course studies **how an operating system manages computer hardware and software resources**. It explains how modern operating systems run programs, manage memory, coordinate devices, and provide secure, efficient execution.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/operating-systems"
+  },
+  {
+    "id": "programming-fundamentals",
+    "type": "course",
+    "name": "Programming Fundamentals",
+    "description": "This course teaches **how to write programs to solve problems**. Students learn programming concepts that apply to almost every programming language (Python, Java, C++, JavaScript, Go, Rust, etc.).",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/programming-fundamentals"
+  },
+  {
+    "id": "software-engineering",
+    "type": "course",
+    "name": "Software Engineering",
+    "description": "This course studies **how to design, build, test, deploy, and maintain software systems** using engineering principles and industry best practices.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/software-engineering"
+  },
+  {
+    "id": "system-design",
+    "type": "course",
+    "name": "System Design",
+    "description": "This course studies **how to design scalable, reliable, and maintainable software systems**. It focuses on architecture rather than implementation and prepares students to build applications that can serve thousands or millions of users.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/system-design"
+  },
+  {
+    "id": "web-development",
+    "type": "course",
+    "name": "Web Development",
+    "description": "This course teaches **how modern websites and web applications are built**, covering both frontend and backend development, databases, APIs, authentication, and deployment.",
+    "domain": "computer-science",
+    "version": "1.0.0",
+    "path": "/course/web-development"
+  },
+  {
+    "id": "behavioral-economics",
+    "type": "course",
+    "name": "Behavioral Economics",
+    "description": "This course studies **how psychology influences economic decision-making**. It explains why people often make choices that differ from the predictions of traditional economics.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/behavioral-economics"
+  },
+  {
+    "id": "consumer-theory",
+    "type": "course",
+    "name": "Consumer Theory",
+    "description": "This course studies **how consumers make decisions** under limited income, explaining how preferences, prices, and budgets determine demand for goods and services.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/consumer-theory"
+  },
+  {
+    "id": "development-economics",
+    "type": "course",
+    "name": "Development Economics",
+    "description": "This course studies **how economies grow and develop over time**, focusing on poverty reduction, inequality, industrialization, human development, and sustainable economic progress.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/development-economics"
+  },
+  {
+    "id": "econometrics",
+    "type": "course",
+    "name": "Econometrics",
+    "description": "This course studies **how statistical and mathematical methods are used to analyze economic data**, test economic theories, estimate relationships, and make forecasts.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/econometrics"
+  },
+  {
+    "id": "economics-foundations",
+    "type": "course",
+    "name": "Economics Foundations",
+    "description": "This course introduces **the fundamental principles of economics**, explaining how individuals, businesses, and governments make decisions under conditions of scarcity.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/economics-foundations"
+  },
+  {
+    "id": "international-economics",
+    "type": "course",
+    "name": "International Economics",
+    "description": "This course studies **how countries trade, invest, and interact economically**. It explains the principles of international trade, exchange rates, trade policies, and the global financial system.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/international-economics"
+  },
+  {
+    "id": "macroeconomics",
+    "type": "course",
+    "name": "Macroeconomics",
+    "description": "This course studies **the economy as a whole**, including national income, inflation, unemployment, economic growth, and the policies governments and central banks use to stabilize the economy.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/macroeconomics"
+  },
+  {
+    "id": "market-structures",
+    "type": "course",
+    "name": "Market Structures",
+    "description": "This course studies **how different types of markets influence competition, pricing, production, and consumer welfare**. It examines how firms behave under different competitive conditions.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/market-structures"
+  },
+  {
+    "id": "microeconomics",
+    "type": "course",
+    "name": "Microeconomics",
+    "description": "This course studies **how individuals, households, and firms make decisions** and how these decisions determine prices, production, and resource allocation in markets.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/microeconomics"
+  },
+  {
+    "id": "monetary-economics",
+    "type": "course",
+    "name": "Monetary Economics",
+    "description": "This course studies **money, banking, financial systems, and monetary policy**. It explains how money is created, how central banks influence the economy, and how financial stability is maintained.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/monetary-economics"
+  },
+  {
+    "id": "producer-theory",
+    "type": "course",
+    "name": "Producer Theory",
+    "description": "This course studies **how firms make production decisions**, combining labor, capital, and technology to produce goods and services while minimizing costs and maximizing profits.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/producer-theory"
+  },
+  {
+    "id": "public-economics",
+    "type": "course",
+    "name": "Public Economics",
+    "description": "This course studies **the role of government in the economy**, including taxation, public spending, regulation, and policies designed to improve economic efficiency and social welfare.",
+    "domain": "economics",
+    "version": "1.0.0",
+    "path": "/course/public-economics"
+  },
+  {
+    "id": "applications-of-game-theory",
+    "type": "course",
+    "name": "Applications of Game Theory",
+    "description": "Applications of Game Theory",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/applications-of-game-theory"
+  },
+  {
+    "id": "auction-theory",
+    "type": "course",
+    "name": "Auction Theory",
+    "description": "This course studies **how auctions allocate goods and determine prices through strategic bidding**. It explores bidder behavior, auction design, and the economics behind modern marketplaces.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/auction-theory"
+  },
+  {
+    "id": "cooperative-game-theory",
+    "type": "course",
+    "name": "Cooperative Game Theory",
+    "description": "This course studies **how groups of players cooperate to achieve shared goals and fairly distribute the resulting benefits or costs**. It introduces coalition formation, bargaining, fairness, and cooperative decision-making.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/cooperative-game-theory"
+  },
+  {
+    "id": "evolutionary-game-theory",
+    "type": "course",
+    "name": "Evolutionary Game Theory",
+    "description": "This course studies **how strategies evolve over time within populations**, rather than assuming perfectly rational players. It explains how cooperation, competition, and adaptation emerge in biology, economics, sociology, and artificial intelligence.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/evolutionary-game-theory"
+  },
+  {
+    "id": "game-theory-foundations",
+    "type": "course",
+    "name": "Game Theory Foundations",
+    "description": "This course introduces **the science of strategic decision-making**. Students learn how rational individuals, organizations, and nations make decisions when the outcome depends on the actions of others.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/game-theory-foundations"
+  },
+  {
+    "id": "mechanism-design",
+    "type": "course",
+    "name": "Mechanism Design",
+    "description": "This course studies **how to design rules, incentives, and institutions that produce desirable outcomes when individuals act in their own self-interest**. Unlike game theory, which analyzes existing games, mechanism design **creates the game**.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/mechanism-design"
+  },
+  {
+    "id": "nash-equilibrium",
+    "type": "course",
+    "name": "Nash Equilibrium",
+    "description": "This course studies **Nash Equilibrium**, the central concept of game theory. It explains how stable outcomes emerge when every player chooses the best strategy given the choices of everyone else.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/nash-equilibrium"
+  },
+  {
+    "id": "repeated-games",
+    "type": "course",
+    "name": "Repeated Games",
+    "description": "This course studies **games that are played multiple times**, showing how repeated interactions can lead to cooperation, trust, reputation, and long-term strategic behavior.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/repeated-games"
+  },
+  {
+    "id": "sequential-games",
+    "type": "course",
+    "name": "Sequential Games",
+    "description": "This course studies **games in which players make decisions over time**, observing previous actions before making their own choices. It introduces game trees, backward induction, and dynamic strategic reasoning.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/sequential-games"
+  },
+  {
+    "id": "simultaneous-games",
+    "type": "course",
+    "name": "Simultaneous Games",
+    "description": "This course studies **games in which all players choose their strategies at the same time**, without knowing the decisions of the other players. It introduces the core analytical tools of classical game theory.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/simultaneous-games"
+  },
+  {
+    "id": "strategic-decision-making",
+    "type": "course",
+    "name": "Strategic Decision Making",
+    "description": "This course studies **how rational agents make strategic decisions** when outcomes depend on uncertainty, risk, and the choices of others. It develops the analytical tools used in economics, AI, business, politics, and negotiation.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/strategic-decision-making"
+  },
+  {
+    "id": "voting-social-choice",
+    "type": "course",
+    "name": "Voting & Social Choice",
+    "description": "This course studies **how groups combine individual preferences into collective decisions**. It explores voting systems, fairness, strategic voting, and the mathematical limits of collective decision-making.",
+    "domain": "game-theory",
+    "version": "1.0.0",
+    "path": "/course/voting-social-choice"
+  },
+  {
+    "id": "abstract-algebra",
+    "type": "course",
+    "name": "Abstract Algebra",
+    "description": "Abstract Algebra",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/abstract-algebra"
+  },
+  {
+    "id": "algebra-i",
+    "type": "course",
+    "name": "Algebra I",
+    "description": "Algebra I",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/algebra-i"
+  },
+  {
+    "id": "algebra-ii",
+    "type": "course",
+    "name": "Algebra II",
+    "description": "Algebra II",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/algebra-ii"
+  },
+  {
+    "id": "arithmetic",
+    "type": "course",
+    "name": "Arithmetic",
+    "description": "Arithmetic",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/arithmetic"
+  },
+  {
+    "id": "calculus-i",
+    "type": "course",
+    "name": "Calculus I",
+    "description": "Calculus I",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/calculus-i"
+  },
+  {
+    "id": "calculus-ii",
+    "type": "course",
+    "name": "Calculus II",
+    "description": "Calculus II",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/calculus-ii"
+  },
+  {
+    "id": "calculus-iii-multivariable-calculus",
+    "type": "course",
+    "name": "Calculus III (Multivariable Calculus)",
+    "description": "This course extends calculus from **one variable** to **multiple variables**.",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/calculus-iii-multivariable-calculus"
+  },
+  {
+    "id": "complex-analysis",
+    "type": "course",
+    "name": "Complex Analysis",
+    "description": "Complex Analysis",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/complex-analysis"
+  },
+  {
+    "id": "differential-equations",
+    "type": "course",
+    "name": "Differential Equations",
+    "description": "This course studies equations involving derivatives and models real-world systems such as population growth, circuits, mechanics, and control systems.",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/differential-equations"
+  },
+  {
+    "id": "discrete-mathematics",
+    "type": "course",
+    "name": "Discrete Mathematics",
+    "description": "Discrete Mathematics",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/discrete-mathematics"
+  },
+  {
+    "id": "geometry",
+    "type": "course",
+    "name": "Geometry",
+    "description": "Geometry",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/geometry"
+  },
+  {
+    "id": "graph-theory",
+    "type": "course",
+    "name": "Graph Theory",
+    "description": "Graph Theory",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/graph-theory"
+  },
+  {
+    "id": "linear-algebra",
+    "type": "course",
+    "name": "Linear Algebra",
+    "description": "Linear Algebra",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/linear-algebra"
+  },
+  {
+    "id": "number-theory",
+    "type": "course",
+    "name": "Number Theory",
+    "description": "Number Theory",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/number-theory"
+  },
+  {
+    "id": "pre-algebra",
+    "type": "course",
+    "name": "Pre-Algebra",
+    "description": "Pre-Algebra",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/pre-algebra"
+  },
+  {
+    "id": "precalculus",
+    "type": "course",
+    "name": "Precalculus",
+    "description": "This course bridges **Algebra II + Trigonometry → Calculus I**.",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/precalculus"
+  },
+  {
+    "id": "probability",
+    "type": "course",
+    "name": "Probability",
+    "description": "This course is the mathematical foundation for **Statistics, Machine Learning, AI, Data Science, Finance, Risk Analysis, and Scientific Research**.",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/probability"
+  },
+  {
+    "id": "real-analysis",
+    "type": "course",
+    "name": "Real Analysis",
+    "description": "Real Analysis",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/real-analysis"
+  },
+  {
+    "id": "statistics",
+    "type": "course",
+    "name": "Statistics",
+    "description": "Statistics",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/statistics"
+  },
+  {
+    "id": "trigonometry",
+    "type": "course",
+    "name": "Trigonometry",
+    "description": "Trigonometry",
+    "domain": "mathematics",
+    "version": "1.0.0",
+    "path": "/course/trigonometry"
+  },
+  {
+    "id": "aesthetics",
+    "type": "course",
+    "name": "Aesthetics",
+    "description": "This course studies **the philosophy of beauty, art, and aesthetic experience**. It explores what makes something beautiful, what distinguishes art, how creativity works, and how people interpret artistic works.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/aesthetics"
+  },
+  {
+    "id": "contemporary-philosophy",
+    "type": "course",
+    "name": "Contemporary Philosophy",
+    "description": "This course studies **the major philosophical movements, ideas, and debates from the late 19th century to the present**. It examines how philosophy addresses modern issues in science, technology, society, politics, and human existence.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/contemporary-philosophy"
+  },
+  {
+    "id": "epistemology",
+    "type": "course",
+    "name": "Epistemology",
+    "description": "This course studies **the nature, sources, limits, and justification of knowledge**. It explores questions about truth, belief, evidence, skepticism, and how humans acquire reliable knowledge.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/epistemology"
+  },
+  {
+    "id": "ethics",
+    "type": "course",
+    "name": "Ethics",
+    "description": "This course studies **moral philosophy**, exploring what makes actions right or wrong, what people ought to do, and how ethical principles apply to personal life, society, science, business, and technology.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/ethics"
+  },
+  {
+    "id": "history-of-philosophy",
+    "type": "course",
+    "name": "History of Philosophy",
+    "description": "This course studies **the development of philosophical thought across different civilizations and historical periods**. It examines the major philosophers, schools of thought, and the evolution of philosophical ideas.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/history-of-philosophy"
+  },
+  {
+    "id": "logic",
+    "type": "course",
+    "name": "Logic",
+    "description": "This course studies **the principles of correct reasoning and argumentation**. It covers both informal and formal logic, providing the tools to evaluate arguments, identify fallacies, and construct rigorous proofs.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/logic"
+  },
+  {
+    "id": "metaphysics",
+    "type": "course",
+    "name": "Metaphysics",
+    "description": "This course studies **the fundamental nature of reality, existence, and being**. It explores questions about what exists, how things persist through time, the nature of causation, and the structure of reality itself.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/metaphysics"
+  },
+  {
+    "id": "philosophy-foundations",
+    "type": "course",
+    "name": "Philosophy Foundations",
+    "description": "This course introduces **the study of fundamental questions about reality, knowledge, morality, reasoning, and human existence**. It provides the conceptual foundation for all later philosophy courses.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/philosophy-foundations"
+  },
+  {
+    "id": "philosophy-of-language",
+    "type": "course",
+    "name": "Philosophy of Language",
+    "description": "This course studies **the nature of language, meaning, and communication**. It explores how words refer to the world, how meaning is constructed, and how language relates to thought, logic, and reality.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/philosophy-of-language"
+  },
+  {
+    "id": "philosophy-of-mind",
+    "type": "course",
+    "name": "Philosophy of Mind",
+    "description": "This course studies **the nature of the mind, consciousness, and mental states**, exploring how thoughts, emotions, perception, and intelligence relate to the brain, the body, and artificial systems.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/philosophy-of-mind"
+  },
+  {
+    "id": "philosophy-of-science",
+    "type": "course",
+    "name": "Philosophy of Science",
+    "description": "This course studies **the nature of scientific knowledge, scientific reasoning, and the methods used to investigate the natural world**. It explores what distinguishes science from non-science and how scientific knowledge evolves.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/philosophy-of-science"
+  },
+  {
+    "id": "political-philosophy",
+    "type": "course",
+    "name": "Political Philosophy",
+    "description": "This course studies **the philosophical foundations of politics, government, law, and society**. It explores questions about justice, liberty, equality, rights, authority, and the ideal political order.",
+    "domain": "philosophy",
+    "version": "1.0.0",
+    "path": "/course/political-philosophy"
+  },
+  {
+    "id": "astrophysics",
+    "type": "course",
+    "name": "Astrophysics",
+    "description": "Astrophysics",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/astrophysics"
+  },
+  {
+    "id": "atomic-nuclear-physics",
+    "type": "course",
+    "name": "Atomic & Nuclear Physics",
+    "description": "This course explores the structure of atoms, atomic nuclei, radioactivity, nuclear reactions, and the principles behind nuclear energy and radiation.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/atomic-nuclear-physics"
+  },
+  {
+    "id": "cosmology",
+    "type": "course",
+    "name": "Cosmology",
+    "description": "Cosmology",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/cosmology"
+  },
+  {
+    "id": "electrical-circuits",
+    "type": "course",
+    "name": "Electrical Circuits",
+    "description": "This course focuses on **analyzing and designing electrical circuits**. While Electromagnetism explains *why* electricity behaves the way it does, this course teaches *how to analyze real electrical networks*.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/electrical-circuits"
+  },
+  {
+    "id": "electricity-electrostatics",
+    "type": "course",
+    "name": "Electricity (Electrostatics)",
+    "description": "This course focuses on **electric charge and electric fields**. It does **not** cover electric circuits—that comes later.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/electricity-electrostatics"
+  },
+  {
+    "id": "electromagnetism",
+    "type": "course",
+    "name": "Electromagnetism",
+    "description": "This course studies **electric and magnetic fields, their interactions, and the unified theory of electromagnetism**. Students learn the principles governing electric charges, magnetic fields, electromagnetic induction, and electromagnetic waves.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/electromagnetism"
+  },
+  {
+    "id": "fluid-mechanics",
+    "type": "course",
+    "name": "Fluid Mechanics",
+    "description": "This course studies **liquids and gases at rest and in motion**. It is fundamental to civil engineering, mechanical engineering, aerospace, medicine, and environmental science.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/fluid-mechanics"
+  },
+  {
+    "id": "gravitation",
+    "type": "course",
+    "name": "Gravitation",
+    "description": "This course studies gravity—from falling objects on Earth to planetary motion, satellites, and orbital mechanics.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/gravitation"
+  },
+  {
+    "id": "kinematics",
+    "type": "course",
+    "name": "Kinematics",
+    "description": "Kinematics is the study of **motion without considering the forces that cause it**.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/kinematics"
+  },
+  {
+    "id": "magnetism",
+    "type": "course",
+    "name": "Magnetism",
+    "description": "This course studies **magnetic fields, magnetic forces, and magnetic materials**. It builds directly on electrostatics and prepares students for electromagnetism.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/magnetism"
+  },
+  {
+    "id": "modern-physics",
+    "type": "course",
+    "name": "Modern Physics",
+    "description": "This course studies **the revolutionary discoveries of twentieth-century physics that transformed our understanding of matter, energy, space, and time**.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/modern-physics"
+  },
+  {
+    "id": "momentum-collisions",
+    "type": "course",
+    "name": "Momentum & Collisions",
+    "description": "This course studies interactions between objects using **momentum**, which is essential for mechanics, engineering, astronomy, and particle physics.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/momentum-collisions"
+  },
+  {
+    "id": "newtonian-mechanics",
+    "type": "course",
+    "name": "Newtonian Mechanics",
+    "description": "This course explains **why objects move** by introducing forces and Newton's Laws.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/newtonian-mechanics"
+  },
+  {
+    "id": "optics",
+    "type": "course",
+    "name": "Optics",
+    "description": "This course studies **the behavior of light**, from mirrors and lenses to interference, diffraction, polarization, lasers, and fiber optics.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/optics"
+  },
+  {
+    "id": "oscillations-simple-harmonic-motion-shm",
+    "type": "course",
+    "name": "Oscillations & Simple Harmonic Motion (SHM)",
+    "description": "This course studies **repetitive motion** and forms the foundation for **waves, sound, electronics, and quantum mechanics**.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/oscillations-simple-harmonic-motion-shm"
+  },
+  {
+    "id": "particle-physics",
+    "type": "course",
+    "name": "Particle Physics",
+    "description": "Particle Physics",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/particle-physics"
+  },
+  {
+    "id": "physics-foundations",
+    "type": "course",
+    "name": "Physics Foundations",
+    "description": "This course teaches the language of physics before students learn mechanics.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/physics-foundations"
+  },
+  {
+    "id": "plasma-physics",
+    "type": "course",
+    "name": "Plasma Physics",
+    "description": "Plasma Physics",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/plasma-physics"
+  },
+  {
+    "id": "quantum-mechanics",
+    "type": "course",
+    "name": "Quantum Mechanics",
+    "description": "Quantum Mechanics",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/quantum-mechanics"
+  },
+  {
+    "id": "relativity",
+    "type": "course",
+    "name": "Relativity",
+    "description": "This course studies **Einstein's theories of Special and General Relativity**, explaining space, time, gravity, black holes, and the structure of spacetime.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/relativity"
+  },
+  {
+    "id": "rotational-motion",
+    "type": "course",
+    "name": "Rotational Motion",
+    "description": "This course extends linear mechanics to rotating objects. It's one of the most important courses in classical physics and engineering.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/rotational-motion"
+  },
+  {
+    "id": "solid-state-physics",
+    "type": "course",
+    "name": "Solid State Physics",
+    "description": "This course studies the physics of **solids and crystalline materials**. It is the foundation of **electronics, semiconductors, nanotechnology, materials science, and modern computing**.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/solid-state-physics"
+  },
+  {
+    "id": "thermodynamics",
+    "type": "course",
+    "name": "Thermodynamics",
+    "description": "This course studies **heat, temperature, energy transfer, and the behavior of matter**. It is fundamental to physics, chemistry, mechanical engineering, and aerospace engineering.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/thermodynamics"
+  },
+  {
+    "id": "waves-sound",
+    "type": "course",
+    "name": "Waves & Sound",
+    "description": "This course studies how **disturbances propagate through matter and space**, covering everything from musical instruments to earthquakes and communication systems.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/waves-sound"
+  },
+  {
+    "id": "work-energy-power",
+    "type": "course",
+    "name": "Work, Energy & Power",
+    "description": "This course teaches how to analyze motion using **energy**, often making problems much simpler than using Newton's laws alone.",
+    "domain": "physics",
+    "version": "1.0.0",
+    "path": "/course/work-energy-power"
+  },
+  {
+    "id": "abnormal-psychology",
+    "type": "course",
+    "name": "Abnormal Psychology",
+    "description": "This course studies **psychological disorders**, including their causes, symptoms, diagnosis, and treatment. It examines mental health through biological, psychological, and social perspectives.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/abnormal-psychology"
+  },
+  {
+    "id": "biological-psychology",
+    "type": "course",
+    "name": "Biological Psychology",
+    "description": "This course studies **the biological basis of behavior**, exploring how the brain, nervous system, hormones, and genetics influence thoughts, emotions, learning, and behavior.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/biological-psychology"
+  },
+  {
+    "id": "clinical-psychology",
+    "type": "course",
+    "name": "Clinical Psychology",
+    "description": "This course studies **the assessment, diagnosis, treatment, and prevention of psychological disorders**. It focuses on evidence-based clinical practice and therapeutic approaches.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/clinical-psychology"
+  },
+  {
+    "id": "cognitive-psychology",
+    "type": "course",
+    "name": "Cognitive Psychology",
+    "description": "This course studies **how the mind acquires, processes, stores, and uses information**. It explores perception, attention, memory, language, reasoning, problem solving, and decision making.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/cognitive-psychology"
+  },
+  {
+    "id": "developmental-psychology",
+    "type": "course",
+    "name": "Developmental Psychology",
+    "description": "This course studies **how people grow and change throughout the lifespan**, from conception to old age. It explores physical, cognitive, emotional, and social development.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/developmental-psychology"
+  },
+  {
+    "id": "industrial-organizational-psychology",
+    "type": "course",
+    "name": "Industrial & Organizational Psychology",
+    "description": "This course studies **how psychology is applied in workplaces and organizations**. It explores employee behavior, leadership, teamwork, motivation, organizational culture, and workplace well-being.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/industrial-organizational-psychology"
+  },
+  {
+    "id": "learning-behavior",
+    "type": "course",
+    "name": "Learning & Behavior",
+    "description": "This course studies **how humans and animals acquire, modify, and maintain behavior** through experience. It covers the major theories of learning and their practical applications in education, therapy, and everyday life.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/learning-behavior"
+  },
+  {
+    "id": "personality-psychology",
+    "type": "course",
+    "name": "Personality Psychology",
+    "description": "This course studies **personality**—the enduring patterns of thoughts, emotions, and behaviors that make individuals unique. It explores major theories of personality, personality assessment, development, and applications.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/personality-psychology"
+  },
+  {
+    "id": "positive-psychology",
+    "type": "course",
+    "name": "Positive Psychology",
+    "description": "This course studies **the science of human flourishing**, focusing on the strengths, habits, relationships, and experiences that contribute to happiness, resilience, meaning, and well-being.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/positive-psychology"
+  },
+  {
+    "id": "psychology-foundations",
+    "type": "course",
+    "name": "Psychology Foundations",
+    "description": "This course introduces **the scientific study of mind and behavior**. Students learn the major branches of psychology, research methods, biological foundations, and the core concepts that underpin the field.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/psychology-foundations"
+  },
+  {
+    "id": "research-methods-statistics",
+    "type": "course",
+    "name": "Research Methods & Statistics",
+    "description": "This course studies **how psychological research is designed, conducted, analyzed, and interpreted**. It provides the scientific foundation for evaluating evidence and conducting psychological research.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/research-methods-statistics"
+  },
+  {
+    "id": "social-psychology",
+    "type": "course",
+    "name": "Social Psychology",
+    "description": "This course studies **how people's thoughts, feelings, and behaviors are influenced by the presence of others**. It explores social perception, attitudes, relationships, groups, and social influence.",
+    "domain": "psychology",
+    "version": "1.0.0",
+    "path": "/course/social-psychology"
+  }
+]

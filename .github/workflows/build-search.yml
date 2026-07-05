@@ -1,0 +1,34 @@
+name: Build Search Index
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/**'
+
+permissions:
+  contents: write
+
+jobs:
+  build-search:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Generate Search Indexes
+        run: node scripts/build-search.js
+
+      - name: Commit Search Indexes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add search/*.json
+          git commit -m "chore: auto-generate search indexes [skip ci]" || echo "No changes to commit"
+          git push
