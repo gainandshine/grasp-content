@@ -3,8 +3,7 @@ name: Build Search Index
 on:
   push:
     branches: [ main ]
-    paths:
-      - 'content/**'
+  workflow_dispatch:
 
 permissions:
   contents: write
