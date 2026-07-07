@@ -6,8 +6,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "pre-algebra",
@@ -16,8 +15,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 32,
-    "chaptersCount": 16,
-    "illustration": "illustration.svg"
+    "chaptersCount": 16
   },
   {
     "id": "algebra-i",
@@ -26,8 +24,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
-    "chaptersCount": 15,
-    "illustration": "illustration.svg"
+    "chaptersCount": 15
   },
   {
     "id": "algebra-ii",
@@ -36,8 +33,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
-    "chaptersCount": 15,
-    "illustration": "illustration.svg"
+    "chaptersCount": 15
   },
   {
     "id": "geometry",
@@ -46,8 +42,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 32,
-    "chaptersCount": 16,
-    "illustration": "illustration.svg"
+    "chaptersCount": 16
   },
   {
     "id": "trigonometry",
@@ -56,8 +51,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "precalculus",
@@ -66,8 +60,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
-    "chaptersCount": 15,
-    "illustration": "illustration.svg"
+    "chaptersCount": 15
   },
   {
     "id": "calculus-i",
@@ -76,8 +69,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "calculus-ii",
@@ -86,8 +78,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "calculus-iii-multivariable-calculus",
@@ -96,8 +87,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
-    "chaptersCount": 15,
-    "illustration": "illustration.svg"
+    "chaptersCount": 15
   },
   {
     "id": "linear-algebra",
@@ -106,8 +96,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "differential-equations",
@@ -116,8 +105,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "discrete-mathematics",
@@ -126,8 +114,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
-    "chaptersCount": 15,
-    "illustration": "illustration.svg"
+    "chaptersCount": 15
   },
   {
     "id": "probability",
@@ -136,8 +123,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "statistics",
@@ -146,8 +132,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
-    "chaptersCount": 15,
-    "illustration": "illustration.svg"
+    "chaptersCount": 15
   },
   {
     "id": "number-theory",
@@ -156,8 +141,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "graph-theory",
@@ -166,8 +150,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "real-analysis",
@@ -176,8 +159,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "abstract-algebra",
@@ -186,8 +168,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "complex-analysis",
@@ -196,7 +177,6 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   }
 ]

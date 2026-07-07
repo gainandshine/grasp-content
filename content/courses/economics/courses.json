@@ -6,8 +6,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "microeconomics",
@@ -16,8 +15,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "macroeconomics",
@@ -26,8 +24,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "consumer-theory",
@@ -36,8 +33,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "producer-theory",
@@ -46,8 +42,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "market-structures",
@@ -56,8 +51,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "international-economics",
@@ -66,8 +60,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "public-economics",
@@ -76,8 +69,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "monetary-economics",
@@ -86,8 +78,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "development-economics",
@@ -96,8 +87,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "behavioral-economics",
@@ -106,8 +96,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "econometrics",
@@ -116,7 +105,6 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   }
 ]

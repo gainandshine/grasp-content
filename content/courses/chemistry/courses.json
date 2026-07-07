@@ -6,8 +6,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
-    "chaptersCount": 11,
-    "illustration": "illustration.svg"
+    "chaptersCount": 11
   },
   {
     "id": "atomic-structure",
@@ -16,8 +15,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
-    "chaptersCount": 11,
-    "illustration": "illustration.svg"
+    "chaptersCount": 11
   },
   {
     "id": "periodic-table",
@@ -26,8 +24,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "chemical-bonding",
@@ -36,8 +33,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "states-of-matter",
@@ -46,8 +42,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "thermochemistry",
@@ -56,8 +51,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "chemical-equilibrium",
@@ -66,8 +60,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "acids-bases",
@@ -76,8 +69,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "electrochemistry",
@@ -86,8 +78,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "chemical-kinetics",
@@ -96,8 +87,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "main-group-chemistry",
@@ -106,8 +96,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "transition-metals",
@@ -116,8 +105,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "coordination-chemistry",
@@ -126,8 +114,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "organic-chemistry-i",
@@ -136,8 +123,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "organic-chemistry-ii",
@@ -146,8 +132,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "biomolecules",
@@ -156,8 +141,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "polymers",
@@ -166,8 +150,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "analytical-chemistry",
@@ -176,8 +159,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "spectroscopy",
@@ -186,8 +168,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "environmental-chemistry",
@@ -196,8 +177,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "materials-chemistry",
@@ -206,8 +186,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "nanochemistry",
@@ -216,8 +195,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "nuclear-chemistry",
@@ -226,8 +204,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "industrial-chemistry",
@@ -236,8 +213,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "computational-chemistry",
@@ -246,7 +222,6 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   }
 ]

@@ -6,8 +6,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "logic",
@@ -16,8 +15,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "epistemology",
@@ -26,8 +24,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "metaphysics",
@@ -36,8 +33,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "ethics",
@@ -46,8 +42,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "political-philosophy",
@@ -56,8 +51,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "philosophy-of-mind",
@@ -66,8 +60,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "philosophy-of-science",
@@ -76,8 +69,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "philosophy-of-language",
@@ -86,8 +78,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "aesthetics",
@@ -96,8 +87,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "history-of-philosophy",
@@ -106,8 +96,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "contemporary-philosophy",
@@ -116,7 +105,6 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   }
 ]

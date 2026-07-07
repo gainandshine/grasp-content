@@ -6,8 +6,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "strategic-decision-making",
@@ -16,8 +15,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "simultaneous-games",
@@ -26,8 +24,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "sequential-games",
@@ -36,8 +33,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "nash-equilibrium",
@@ -46,8 +42,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "repeated-games",
@@ -56,8 +51,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "cooperative-game-theory",
@@ -66,8 +60,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "auction-theory",
@@ -76,8 +69,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "voting-social-choice",
@@ -86,8 +78,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "evolutionary-game-theory",
@@ -96,8 +87,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "mechanism-design",
@@ -106,8 +96,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "applications-of-game-theory",
@@ -116,7 +105,6 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   }
 ]

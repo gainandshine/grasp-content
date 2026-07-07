@@ -6,8 +6,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "kinematics",
@@ -16,8 +15,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "newtonian-mechanics",
@@ -26,8 +24,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
-    "chaptersCount": 11,
-    "illustration": "illustration.svg"
+    "chaptersCount": 11
   },
   {
     "id": "work-energy-power",
@@ -36,8 +33,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "momentum-collisions",
@@ -46,8 +42,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "rotational-motion",
@@ -56,8 +51,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
-    "chaptersCount": 11,
-    "illustration": "illustration.svg"
+    "chaptersCount": 11
   },
   {
     "id": "gravitation",
@@ -66,8 +60,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "oscillations-simple-harmonic-motion-shm",
@@ -76,8 +69,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "waves-sound",
@@ -86,8 +78,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "thermodynamics",
@@ -96,8 +87,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "fluid-mechanics",
@@ -106,8 +96,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "electricity-electrostatics",
@@ -116,8 +105,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "magnetism",
@@ -126,8 +114,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
-    "chaptersCount": 10,
-    "illustration": "illustration.svg"
+    "chaptersCount": 10
   },
   {
     "id": "electromagnetism",
@@ -136,8 +123,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 50,
-    "chaptersCount": 25,
-    "illustration": "illustration.svg"
+    "chaptersCount": 25
   },
   {
     "id": "optics",
@@ -146,8 +132,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
-    "chaptersCount": 11,
-    "illustration": "illustration.svg"
+    "chaptersCount": 11
   },
   {
     "id": "modern-physics",
@@ -156,8 +141,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
-    "chaptersCount": 13,
-    "illustration": "illustration.svg"
+    "chaptersCount": 13
   },
   {
     "id": "electrical-circuits",
@@ -166,8 +150,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 10,
-    "chaptersCount": 0,
-    "illustration": "illustration.svg"
+    "chaptersCount": 0
   },
   {
     "id": "quantum-mechanics",
@@ -176,8 +159,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "atomic-nuclear-physics",
@@ -186,8 +168,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "solid-state-physics",
@@ -196,8 +177,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
-    "chaptersCount": 14,
-    "illustration": "illustration.svg"
+    "chaptersCount": 14
   },
   {
     "id": "particle-physics",
@@ -206,8 +186,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "relativity",
@@ -216,8 +195,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "plasma-physics",
@@ -226,8 +204,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "astrophysics",
@@ -236,8 +213,7 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   },
   {
     "id": "cosmology",
@@ -246,7 +222,6 @@
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
-    "chaptersCount": 12,
-    "illustration": "illustration.svg"
+    "chaptersCount": 12
   }
 ]
