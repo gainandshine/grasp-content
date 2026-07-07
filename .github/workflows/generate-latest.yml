@@ -3,9 +3,6 @@ name: Generate Latest Manifests
 on:
   push:
     branches: [ main ]
-    paths:
-      - 'content/courses/**'
-      - 'content/domains/**'
   workflow_dispatch:
 
 permissions:
