@@ -7,6 +7,7 @@ Static educational content served via GitHub + jsDelivr CDN.
 ```
 grasp-content/
 ├── content/
+│   ├── domains.json          # Combined list of all domains (names, description, colors, icons, courseCount)
 │   ├── domains/              # Top-level subject folders
 │   │   ├── mathematics/
 │   │   │   ├── domain.json   # Domain metadata
@@ -24,6 +25,11 @@ grasp-content/
 │   │   │                       └── chapter-02/
 │   │   ├── physics/
 │   │   ├── chemistry/
+│   │   └── ...
+│   ├── courses/
+│   │   ├── mathematics/
+│   │   │   ├── courses.json  # Combined manifest of all course details for mathematics
+│   │   │   └── ...
 │   │   └── ...
 │   └── learning/             # Practice content
 │       ├── quizzes/
@@ -44,6 +50,8 @@ grasp-content/
 ├── localization/             # i18n support
 ├── meta/                     # Lookup tables
 ├── scripts/                  # Build/validation scripts
+│   ├── compile-manifests.js  # Compiles domains.json and category-specific courses.json manifests
+│   └── generate-latest.js    # Syncs version information
 └── docs/                     # Documentation
 ```
 
@@ -65,6 +73,15 @@ GitHub → jsDelivr CDN → Flutter App → Render JSON
 ```
 
 No SDK. No npm package. Just JSON over HTTP.
+
+## Compilation & Optimization
+
+To minimize network traffic, the content repository compiles domain indices and course cards into consolidated files. This reduces domain and course library discovery down to exactly 1 request each:
+
+* **`content/domains.json`**: Generated from all active domain folders. Contains domain names, descriptions, metadata (icons/colors), and course counts.
+* **`content/courses/[domainId]/courses.json`**: Consolidates all `index.json` and `latest.json` manifests for all courses inside a category.
+
+These files are automatically updated and committed to `main` on every push via the GitHub Actions build workflow.
 
 ## CDN URLs
 
@@ -98,7 +115,7 @@ final response = await http.get(
 | **📝 Practice Exercises** | 26134 |
 | **💡 Examples** | 13069 |
 | **🎨 Interactive Canvas Visuals** | 117589 |
-<!-- STATS_END -->
+| <!-- STATS_END -->
 
 ## License
 
