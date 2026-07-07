@@ -115,7 +115,7 @@ final response = await http.get(
 | **📝 Practice Exercises** | 26134 |
 | **💡 Examples** | 13069 |
 | **🎨 Interactive Canvas Visuals** | 117589 |
-| <!-- STATS_END -->
+<!-- STATS_END -->
 
 ## License
 
