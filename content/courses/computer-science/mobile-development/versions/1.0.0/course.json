@@ -1,7 +1,7 @@
 {
   "id": "mobile-development",
   "name": "Mobile Development",
-  "description": "This course teaches **how to build mobile applications** for Android and iOS, covering native concepts, cross-platform development, networking, storage, and publishing.",
+  "description": "This course focuses on building modern mobile applications for Android and iOS using both native and cross-platform approaches.",
   "version": "1.0.0",
   "domain": "computer-science",
   "chapters": [

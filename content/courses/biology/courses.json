@@ -2,7 +2,7 @@
   {
     "id": "biology-foundations",
     "title": "Biology Foundations",
-    "description": "",
+    "description": "I would merge topics like this:",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -12,7 +12,7 @@
   {
     "id": "cell-biology",
     "title": "Cell Biology",
-    "description": "",
+    "description": "This is one of the most important biology courses because **everything in biology ultimately happens at the cellular level.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "molecular-biology",
     "title": "Molecular Biology",
-    "description": "",
+    "description": "This course explains **how genetic information is stored, copied, and expressed**, forming the foundation of modern genetics and biotechnology.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "genetics",
     "title": "Genetics",
-    "description": "",
+    "description": "This course focuses on **how traits are inherited and how genetic variation shapes life**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "evolution",
     "title": "Evolution",
-    "description": "",
+    "description": "This course explains **how life changes over time and how the diversity of living organisms arose.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -52,7 +52,7 @@
   {
     "id": "human-physiology",
     "title": "Human Physiology",
-    "description": "",
+    "description": "This course focuses on **body structure**, while the following course, **Human Physiology**, explains **how each system functions**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "microbiology",
     "title": "Microbiology",
-    "description": "",
+    "description": "This course covers the fascinating world of microorganisms and their roles in health, disease, industry, and the environment.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "immunology",
     "title": "Immunology",
-    "description": "",
+    "description": "This course explains **how the body defends itself against disease** and is one of the most clinically important areas of biology.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "ecology",
     "title": "Ecology",
-    "description": "",
+    "description": "This course explores **how organisms interact with each other and with their environment**, from local ecosystems to the entire biosphere.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "biotechnology",
     "title": "Biotechnology",
-    "description": "",
+    "description": "This course brings together biology, chemistry, and technology to show how living systems are engineered for medicine, agriculture, industry, and environmental applications.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "biochemistry",
     "title": "Biochemistry",
-    "description": "",
+    "description": "This course serves as the bridge between biology, chemistry, medicine, and biotechnology, completing the Biology curriculum.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

@@ -2,7 +2,7 @@
   {
     "id": "philosophy-foundations",
     "title": "Philosophy Foundations",
-    "description": "",
+    "description": "Learn and master the concepts of Philosophy Foundations with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -12,7 +12,7 @@
   {
     "id": "logic",
     "title": "Logic",
-    "description": "",
+    "description": "This course develops **formal reasoning skills**, making it one of the most valuable courses in the entire Philosophy curriculum.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "epistemology",
     "title": "Epistemology",
-    "description": "",
+    "description": "This course explores **how we know what we know**, one of the central questions of philosophy.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "metaphysics",
     "title": "Metaphysics",
-    "description": "",
+    "description": "This course explores **the fundamental nature of reality and existence**, asking what kinds of things exist and how they relate to one another.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "ethics",
     "title": "Ethics",
-    "description": "",
+    "description": "This course explores **how we should act, what makes actions right or wrong, and how ethical principles apply to modern society.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "political-philosophy",
     "title": "Political Philosophy",
-    "description": "",
+    "description": "This course explores **how societies should be organized and governed, and the philosophical foundations of political systems.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "philosophy-of-mind",
     "title": "Philosophy of Mind",
-    "description": "",
+    "description": "This course explores **the nature of the mind, consciousness, and the relationship between mental processes and the physical brain.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "philosophy-of-science",
     "title": "Philosophy of Science",
-    "description": "",
+    "description": "This course explores **the foundations, methods, and limits of scientific knowledge.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "philosophy-of-language",
     "title": "Philosophy of Language",
-    "description": "",
+    "description": "This course explores **how language conveys meaning, shapes thought, and enables communication.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "aesthetics",
     "title": "Aesthetics",
-    "description": "",
+    "description": "This course explores **the philosophy of beauty, art, creativity, and aesthetic experience.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "history-of-philosophy",
     "title": "History of Philosophy",
-    "description": "",
+    "description": "This course traces **the evolution of philosophical thought across civilizations and historical periods.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "contemporary-philosophy",
     "title": "Contemporary Philosophy",
-    "description": "",
+    "description": "This capstone course explores **the major philosophical movements and challenges shaping the modern world.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

@@ -2,7 +2,7 @@
   {
     "id": "chemistry-foundations",
     "title": "Chemistry Foundations",
-    "description": "",
+    "description": "Learn and master the concepts of Chemistry Foundations with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -12,7 +12,7 @@
   {
     "id": "atomic-structure",
     "title": "Atomic Structure",
-    "description": "",
+    "description": "Learn and master the concepts of Atomic Structure with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -22,7 +22,7 @@
   {
     "id": "periodic-table",
     "title": "Periodic Table",
-    "description": "",
+    "description": "Learn and master the concepts of Periodic Table with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -32,7 +32,7 @@
   {
     "id": "chemical-bonding",
     "title": "Chemical Bonding",
-    "description": "",
+    "description": "Learn and master the concepts of Chemical Bonding with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "states-of-matter",
     "title": "States of Matter",
-    "description": "",
+    "description": "Learn and master the concepts of States of Matter with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "thermochemistry",
     "title": "Thermochemistry",
-    "description": "",
+    "description": "It forms the bridge between chemistry and thermodynamics and is one of the core physical chemistry courses.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -62,7 +62,7 @@
   {
     "id": "chemical-equilibrium",
     "title": "Chemical Equilibrium",
-    "description": "",
+    "description": "This is another major pillar of physical chemistry.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -72,7 +72,7 @@
   {
     "id": "acids-bases",
     "title": "Acids & Bases",
-    "description": "",
+    "description": "This is one of the most important chemistry courses because it connects equilibrium with real-world chemical systems.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -82,7 +82,7 @@
   {
     "id": "electrochemistry",
     "title": "Electrochemistry",
-    "description": "",
+    "description": "This is one of the most practical chemistry courses, connecting chemistry with electricity, energy storage, and modern battery technology.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -92,7 +92,7 @@
   {
     "id": "chemical-kinetics",
     "title": "Chemical Kinetics",
-    "description": "",
+    "description": "This is the final major **Physical Chemistry** course before moving into **Inorganic Chemistry**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -102,7 +102,7 @@
   {
     "id": "main-group-chemistry",
     "title": "Main Group Chemistry",
-    "description": "",
+    "description": "From this point onward, the curriculum shifts from physical principles to the chemistry of the elements themselves.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "transition-metals",
     "title": "Transition Metals",
-    "description": "",
+    "description": "This naturally leads into **Coordination Chemistry**, where transition metal complexes are explored in depth.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -122,7 +122,7 @@
   {
     "id": "coordination-chemistry",
     "title": "Coordination Chemistry",
-    "description": "",
+    "description": "It is one of the most important advanced inorganic chemistry courses.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -132,7 +132,7 @@
   {
     "id": "organic-chemistry-i",
     "title": "Organic Chemistry I",
-    "description": "",
+    "description": "This marks the beginning of the **Organic Chemistry** sequence, one of the largest and most important areas of chemistry.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -142,7 +142,7 @@
   {
     "id": "organic-chemistry-ii",
     "title": "Organic Chemistry II",
-    "description": "",
+    "description": "This is where students learn the chemistry of the major functional groups in depth and begin designing organic syntheses.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -152,7 +152,7 @@
   {
     "id": "biomolecules",
     "title": "Biomolecules",
-    "description": "",
+    "description": "Learn and master the concepts of Biomolecules with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -162,7 +162,7 @@
   {
     "id": "polymers",
     "title": "Polymers",
-    "description": "",
+    "description": "This course explains the chemistry behind plastics, rubbers, fibers, composites, and modern materials.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -172,7 +172,7 @@
   {
     "id": "analytical-chemistry",
     "title": "Analytical Chemistry",
-    "description": "",
+    "description": "This course teaches **how chemists determine what substances are present and how much is present**, making it essential for research, medicine, environmental science, and industry.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -182,7 +182,7 @@
   {
     "id": "spectroscopy",
     "title": "Spectroscopy",
-    "description": "",
+    "description": "This is one of the most important courses for chemistry research, pharmaceuticals, and molecular identification.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -192,7 +192,7 @@
   {
     "id": "environmental-chemistry",
     "title": "Environmental Chemistry",
-    "description": "",
+    "description": "This course connects chemistry with environmental science and sustainability.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -202,7 +202,7 @@
   {
     "id": "materials-chemistry",
     "title": "Materials Chemistry",
-    "description": "",
+    "description": "These final five courses focus on modern materials, nanotechnology, nuclear science, large-scale manufacturing, and computer-assisted chemistry, completing a comprehensive university-level chemistry curriculum.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -212,7 +212,7 @@
   {
     "id": "nanochemistry",
     "title": "Nanochemistry",
-    "description": "",
+    "description": "This course focuses on chemistry at the **1–100 nanometer scale**, where materials exhibit unique physical and chemical properties.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -222,7 +222,7 @@
   {
     "id": "nuclear-chemistry",
     "title": "Nuclear Chemistry",
-    "description": "",
+    "description": "This course connects chemistry with nuclear physics and energy science.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -232,7 +232,7 @@
   {
     "id": "industrial-chemistry",
     "title": "Industrial Chemistry",
-    "description": "",
+    "description": "This course focuses on how chemistry is applied at large industrial scales to manufacture products used every day.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -242,7 +242,7 @@
   {
     "id": "computational-chemistry",
     "title": "Computational Chemistry",
-    "description": "",
+    "description": "This is the final course and completes a comprehensive university-level chemistry curriculum.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

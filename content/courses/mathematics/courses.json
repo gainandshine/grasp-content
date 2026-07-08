@@ -2,7 +2,7 @@
   {
     "id": "arithmetic",
     "title": "Arithmetic",
-    "description": "",
+    "description": "Learn and master the concepts of Arithmetic with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -12,7 +12,7 @@
   {
     "id": "pre-algebra",
     "title": "Pre-Algebra",
-    "description": "",
+    "description": "This is where students transition from arithmetic to algebraic thinking.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 32,
@@ -22,7 +22,7 @@
   {
     "id": "algebra-i",
     "title": "Algebra I",
-    "description": "",
+    "description": "Learn and master the concepts of Algebra I with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -32,7 +32,7 @@
   {
     "id": "algebra-ii",
     "title": "Algebra II",
-    "description": "",
+    "description": "Learn and master the concepts of Algebra II with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -42,7 +42,7 @@
   {
     "id": "geometry",
     "title": "Geometry",
-    "description": "",
+    "description": "Learn and master the concepts of Geometry with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 32,
@@ -52,7 +52,7 @@
   {
     "id": "trigonometry",
     "title": "Trigonometry",
-    "description": "",
+    "description": "Learn and master the concepts of Trigonometry with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -62,7 +62,7 @@
   {
     "id": "precalculus",
     "title": "Precalculus",
-    "description": "",
+    "description": "This is a university-level **Trigonometry** course. It takes students from basic right-triangle trigonometry all the way to polar coordinates, complex numbers in polar form, and introductory Fourier concepts, making it a solid foundation for **Precalculus** and **Calculus**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -72,7 +72,7 @@
   {
     "id": "calculus-i",
     "title": "Calculus I",
-    "description": "",
+    "description": "This is a **complete Precalculus** course. Its only purpose is to make students fully prepared for **Calculus I**, where limits, derivatives, and integrals are developed rigorously.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -82,7 +82,7 @@
   {
     "id": "calculus-ii",
     "title": "Calculus II",
-    "description": "",
+    "description": "Everything in **Calculus II** builds directly on these topics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -92,7 +92,7 @@
   {
     "id": "calculus-iii-multivariable-calculus",
     "title": "Calculus III (Multivariable Calculus)",
-    "description": "",
+    "description": "This is the standard **Calculus II** curriculum. It prepares students for **Calculus III**, where the focus shifts to **multivariable calculus**—functions of several variables, partial derivatives, multiple integrals, vector calculus, and line/surface integrals.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -102,7 +102,7 @@
   {
     "id": "linear-algebra",
     "title": "Linear Algebra",
-    "description": "",
+    "description": "Learn and master the concepts of Linear Algebra with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -112,7 +112,7 @@
   {
     "id": "differential-equations",
     "title": "Differential Equations",
-    "description": "",
+    "description": "Learn and master the concepts of Differential Equations with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -122,7 +122,7 @@
   {
     "id": "discrete-mathematics",
     "title": "Discrete Mathematics",
-    "description": "",
+    "description": "These are advanced standalone subjects rather than direct continuations of the calculus sequence.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -132,7 +132,7 @@
   {
     "id": "probability",
     "title": "Probability",
-    "description": "",
+    "description": "This is the standard **Discrete Mathematics** curriculum used in Computer Science degrees. It serves as the mathematical backbone for algorithms, data structures, automata theory, cryptography, databases, and many advanced CS subjects.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -142,7 +142,7 @@
   {
     "id": "statistics",
     "title": "Statistics",
-    "description": "",
+    "description": "Learn and master the concepts of Statistics with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 30,
@@ -152,7 +152,7 @@
   {
     "id": "number-theory",
     "title": "Number Theory",
-    "description": "",
+    "description": "These are advanced pure mathematics subjects rather than applied statistics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -162,7 +162,7 @@
   {
     "id": "graph-theory",
     "title": "Graph Theory",
-    "description": "",
+    "description": "Learn and master the concepts of Graph Theory with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -172,7 +172,7 @@
   {
     "id": "real-analysis",
     "title": "Real Analysis",
-    "description": "",
+    "description": "Learn and master the concepts of Real Analysis with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -182,7 +182,7 @@
   {
     "id": "abstract-algebra",
     "title": "Abstract Algebra",
-    "description": "",
+    "description": "This is the standard undergraduate **Real Analysis** curriculum. It provides the rigorous mathematical foundation for advanced calculus, topology, measure theory, and functional analysis. It's one of the core pure mathematics courses after the introductory calculus sequence.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -192,7 +192,7 @@
   {
     "id": "complex-analysis",
     "title": "Complex Analysis",
-    "description": "",
+    "description": "This is the standard undergraduate **Abstract Algebra** course. It is much more proof-oriented than earlier mathematics courses and provides the algebraic foundation for advanced mathematics, cryptography, and theoretical computer science. The final major course in your core math sequence would be **Complex Analysis**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,

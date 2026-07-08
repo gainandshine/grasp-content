@@ -2,7 +2,7 @@
   {
     "id": "game-theory-foundations",
     "title": "Game Theory Foundations",
-    "description": "",
+    "description": "Learn and master the concepts of Game Theory Foundations with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -12,7 +12,7 @@
   {
     "id": "strategic-decision-making",
     "title": "Strategic Decision Making",
-    "description": "",
+    "description": "This course develops the mindset and analytical tools needed to think strategically in competitive and cooperative situations.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "simultaneous-games",
     "title": "Simultaneous Games",
-    "description": "",
+    "description": "This course explores **games where all players make decisions at the same time without knowing the choices of others**, introducing the core analytical framework of classical game theory.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "sequential-games",
     "title": "Sequential Games",
-    "description": "",
+    "description": "This course explores **games where players make decisions one after another**, allowing strategy to evolve over time based on previous actions.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "nash-equilibrium",
     "title": "Nash Equilibrium",
-    "description": "",
+    "description": "This course explores **the central solution concept of game theory—Nash Equilibrium—and how stable strategic outcomes emerge from rational decision-making.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "repeated-games",
     "title": "Repeated Games",
-    "description": "",
+    "description": "This course explores **how repeated interactions allow cooperation, trust, and reputation to emerge even among self-interested players.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "cooperative-game-theory",
     "title": "Cooperative Game Theory",
-    "description": "",
+    "description": "This course explores **how groups of players cooperate, share resources, and divide rewards in a fair and stable manner.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "auction-theory",
     "title": "Auction Theory",
-    "description": "",
+    "description": "This course explores **how auctions are designed, how bidders behave strategically, and why auctions are among the most important real-world applications of game theory.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "voting-social-choice",
     "title": "Voting & Social Choice",
-    "description": "",
+    "description": "This course explores **how groups make collective decisions and why designing fair voting systems is one of the most fascinating problems in game theory and economics.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "evolutionary-game-theory",
     "title": "Evolutionary Game Theory",
-    "description": "",
+    "description": "This course explores **how strategies evolve over time in populations, explaining cooperation, competition, and adaptation in biology, economics, and artificial intelligence.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "mechanism-design",
     "title": "Mechanism Design",
-    "description": "",
+    "description": "This course explores **how to design rules and systems so that individually rational behavior leads to desirable collective outcomes**, often called *reverse game theory*.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "applications-of-game-theory",
     "title": "Applications of Game Theory",
-    "description": "",
+    "description": "This capstone course brings together the entire curriculum, showing **how game theory is used to solve real-world problems across science, technology, business, and society.**",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,

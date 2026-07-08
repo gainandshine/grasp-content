@@ -2,7 +2,7 @@
   {
     "id": "physics-foundations",
     "title": "Physics Foundations",
-    "description": "",
+    "description": "Learn and master the concepts of Physics Foundations with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -12,7 +12,7 @@
   {
     "id": "kinematics",
     "title": "Kinematics",
-    "description": "",
+    "description": "This course prepares students for **Course 2: Kinematics**, where they'll begin studying motion mathematically. It ensures everyone has the measurement, vector, and mathematical foundations needed before diving into equations of motion.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -22,7 +22,7 @@
   {
     "id": "newtonian-mechanics",
     "title": "Newtonian Mechanics",
-    "description": "",
+    "description": "Learn and master the concepts of Newtonian Mechanics with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -32,7 +32,7 @@
   {
     "id": "work-energy-power",
     "title": "Work, Energy & Power",
-    "description": "",
+    "description": "Learn and master the concepts of Work, Energy & Power with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -42,7 +42,7 @@
   {
     "id": "momentum-collisions",
     "title": "Momentum & Collisions",
-    "description": "",
+    "description": "Learn and master the concepts of Momentum & Collisions with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -52,7 +52,7 @@
   {
     "id": "rotational-motion",
     "title": "Rotational Motion",
-    "description": "",
+    "description": "Learn and master the concepts of Rotational Motion with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -62,7 +62,7 @@
   {
     "id": "gravitation",
     "title": "Gravitation",
-    "description": "",
+    "description": "Learn and master the concepts of Gravitation with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -72,7 +72,7 @@
   {
     "id": "oscillations-simple-harmonic-motion-shm",
     "title": "Oscillations & Simple Harmonic Motion (SHM)",
-    "description": "",
+    "description": "Learn and master the concepts of Oscillations & Simple Harmonic Motion (SHM) with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -82,7 +82,7 @@
   {
     "id": "waves-sound",
     "title": "Waves & Sound",
-    "description": "",
+    "description": "Learn and master the concepts of Waves & Sound with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -92,7 +92,7 @@
   {
     "id": "thermodynamics",
     "title": "Thermodynamics",
-    "description": "",
+    "description": "Learn and master the concepts of Thermodynamics with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -102,7 +102,7 @@
   {
     "id": "fluid-mechanics",
     "title": "Fluid Mechanics",
-    "description": "",
+    "description": "Learn and master the concepts of Fluid Mechanics with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -112,7 +112,7 @@
   {
     "id": "electricity-electrostatics",
     "title": "Electricity (Electrostatics)",
-    "description": "",
+    "description": "Learn and master the concepts of Electricity (Electrostatics) with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -122,7 +122,7 @@
   {
     "id": "magnetism",
     "title": "Magnetism",
-    "description": "",
+    "description": "Learn and master the concepts of Magnetism with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 20,
@@ -132,7 +132,7 @@
   {
     "id": "electromagnetism",
     "title": "Electromagnetism",
-    "description": "",
+    "description": "Here are the two missing courses in the same format as the rest of your curriculum.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 50,
@@ -142,7 +142,7 @@
   {
     "id": "optics",
     "title": "Optics",
-    "description": "",
+    "description": "At this point, you've completed the entire **Classical Physics** sequence. The remaining courses are the **Modern Physics** sequence, covering 20th-century and contemporary physics.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 22,
@@ -152,7 +152,7 @@
   {
     "id": "modern-physics",
     "title": "Modern Physics",
-    "description": "",
+    "description": "Learn and master the concepts of Modern Physics with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -162,7 +162,7 @@
   {
     "id": "electrical-circuits",
     "title": "Electrical Circuits",
-    "description": "",
+    "description": "These two courses complete your **25-course Physics curriculum** in a consistent style with the other courses.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 10,
@@ -172,7 +172,7 @@
   {
     "id": "quantum-mechanics",
     "title": "Quantum Mechanics",
-    "description": "",
+    "description": "This course focuses on **analyzing and designing electrical circuits**. While Electromagnetism explains *why* electricity behaves the way it does, this course teaches *how to analyze real electrical networks*.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -182,7 +182,7 @@
   {
     "id": "atomic-nuclear-physics",
     "title": "Atomic & Nuclear Physics",
-    "description": "",
+    "description": "At this stage, you've essentially completed the full undergraduate core of physics. The remaining courses focus on specialized domains built on quantum mechanics, electromagnetism, and relativity.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -192,7 +192,7 @@
   {
     "id": "solid-state-physics",
     "title": "Solid State Physics",
-    "description": "",
+    "description": "Learn and master the concepts of Solid State Physics with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 28,
@@ -202,7 +202,7 @@
   {
     "id": "particle-physics",
     "title": "Particle Physics",
-    "description": "",
+    "description": "Learn and master the concepts of Particle Physics with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -212,7 +212,7 @@
   {
     "id": "relativity",
     "title": "Relativity",
-    "description": "",
+    "description": "You're now into the final four advanced physics courses. **Relativity** is next, covering Einstein's Special and General Relativity, spacetime, black holes, gravitational waves, and the geometry of the universe.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -222,7 +222,7 @@
   {
     "id": "plasma-physics",
     "title": "Plasma Physics",
-    "description": "",
+    "description": "After this, the final three courses explore large-scale and high-energy phenomena—from ionized gases and stars to galaxies and the evolution of the entire universe.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -232,7 +232,7 @@
   {
     "id": "astrophysics",
     "title": "Astrophysics",
-    "description": "",
+    "description": "These final two courses complete the physics curriculum by moving from **stars, galaxies, and black holes** to the **origin, evolution, and fate of the universe itself**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,
@@ -242,7 +242,7 @@
   {
     "id": "cosmology",
     "title": "Cosmology",
-    "description": "",
+    "description": "It serves as the capstone course for the entire physics curriculum.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 24,

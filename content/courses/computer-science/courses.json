@@ -2,7 +2,7 @@
   {
     "id": "computer-science-foundations",
     "title": "Computer Science Foundations",
-    "description": "",
+    "description": "Learn and master the concepts of Computer Science Foundations with structured lessons, interactive visualizations, and practice exercises.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -12,7 +12,7 @@
   {
     "id": "programming-fundamentals",
     "title": "Programming Fundamentals",
-    "description": "",
+    "description": "This course serves as the gateway to all software development and programming.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -22,7 +22,7 @@
   {
     "id": "object-oriented-programming",
     "title": "Object-Oriented Programming",
-    "description": "",
+    "description": "This course teaches the programming paradigm used by Java, C++, C#, Kotlin, Swift, and many large-scale software systems.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -32,7 +32,7 @@
   {
     "id": "data-structures",
     "title": "Data Structures",
-    "description": "",
+    "description": "This is one of the most important courses in computer science because nearly every efficient algorithm relies on choosing the right data structure.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -42,7 +42,7 @@
   {
     "id": "algorithms",
     "title": "Algorithms",
-    "description": "",
+    "description": "This course teaches the methods used to solve computational problems efficiently and is the natural continuation after Data Structures.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -52,7 +52,7 @@
   {
     "id": "computer-organization",
     "title": "Computer Organization",
-    "description": "",
+    "description": "This course explains **how computers actually execute programs**, connecting software with hardware.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -62,7 +62,7 @@
   {
     "id": "operating-systems",
     "title": "Operating Systems",
-    "description": "",
+    "description": "This course explains how an operating system manages hardware resources and provides the environment in which applications run.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -72,7 +72,7 @@
   {
     "id": "computer-networks",
     "title": "Computer Networks",
-    "description": "",
+    "description": "This course explains **how computers communicate**, from local networks to the global Internet.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -82,7 +82,7 @@
   {
     "id": "databases",
     "title": "Databases",
-    "description": "",
+    "description": "This course teaches how modern applications store, organize, retrieve, and manage data efficiently.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -92,7 +92,7 @@
   {
     "id": "software-engineering",
     "title": "Software Engineering",
-    "description": "",
+    "description": "This course focuses on **building reliable, maintainable, and scalable software systems** using industry best practices.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -102,7 +102,7 @@
   {
     "id": "web-development",
     "title": "Web Development",
-    "description": "",
+    "description": "This course teaches how modern websites and web applications are built from front end to back end.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -112,7 +112,7 @@
   {
     "id": "mobile-development",
     "title": "Mobile Development",
-    "description": "",
+    "description": "This course focuses on building modern mobile applications for Android and iOS using both native and cross-platform approaches.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -122,7 +122,7 @@
   {
     "id": "system-design",
     "title": "System Design",
-    "description": "",
+    "description": "This course teaches how to design software systems that can reliably serve millions of users.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -132,7 +132,7 @@
   {
     "id": "distributed-systems",
     "title": "Distributed Systems",
-    "description": "",
+    "description": "This course explores how multiple computers work together as a single reliable system.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -142,7 +142,7 @@
   {
     "id": "compiler-design",
     "title": "Compiler Design",
-    "description": "",
+    "description": "This course explains **how programming languages are translated into executable machine code**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -152,7 +152,7 @@
   {
     "id": "computer-graphics",
     "title": "Computer Graphics",
-    "description": "",
+    "description": "This course explains how computers create and render visual images, animations, and interactive 3D worlds.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -162,7 +162,7 @@
   {
     "id": "artificial-intelligence",
     "title": "Artificial Intelligence",
-    "description": "",
+    "description": "This course introduces the foundations of intelligent systems before moving into **Machine Learning**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -172,7 +172,7 @@
   {
     "id": "machine-learning",
     "title": "Machine Learning",
-    "description": "",
+    "description": "This course focuses on **teaching computers to learn from data**, building on the broader AI concepts learned here.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -182,7 +182,7 @@
   {
     "id": "data-science",
     "title": "Data Science",
-    "description": "",
+    "description": "This course focuses on **extracting insights and value from data** by combining statistics, machine learning, programming, and visualization.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
@@ -192,7 +192,7 @@
   {
     "id": "cybersecurity",
     "title": "Cybersecurity",
-    "description": "",
+    "description": "This is the final course and completes the **Computer Science curriculum**.",
     "version": "1.0.0",
     "difficulty": "beginner",
     "estimatedHours": 26,
