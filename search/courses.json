@@ -138,7 +138,7 @@
     "id": "chemical-bonding",
     "type": "course",
     "name": "Chemical Bonding",
-    "description": "Chemical Bonding",
+    "description": "This is one of the most important chemistry courses. It explains **why atoms bond, how molecules form, and why substances have different physical and chemical properties**.",
     "domain": "chemistry",
     "version": "1.0.0",
     "path": "/course/chemical-bonding"
@@ -147,7 +147,7 @@
     "id": "chemical-equilibrium",
     "type": "course",
     "name": "Chemical Equilibrium",
-    "description": "Chemical Equilibrium",
+    "description": "Chemical Equilibrium explains **why most chemical reactions never go to completion** and how reaction conditions affect the balance between reactants and products.",
     "domain": "chemistry",
     "version": "1.0.0",
     "path": "/course/chemical-equilibrium"
@@ -615,7 +615,7 @@
     "id": "applications-of-game-theory",
     "type": "course",
     "name": "Applications of Game Theory",
-    "description": "Applications of Game Theory",
+    "description": "This capstone course studies **how game theory is applied across economics, business, politics, biology, computer science, artificial intelligence, and everyday decision-making**. It integrates the concepts from the previous courses through real-world systems and case studies.",
     "domain": "game-theory",
     "version": "1.0.0",
     "path": "/course/applications-of-game-theory"
@@ -723,7 +723,7 @@
     "id": "abstract-algebra",
     "type": "course",
     "name": "Abstract Algebra",
-    "description": "Abstract Algebra",
+    "description": "Abstract Algebra studies **algebraic structures** such as groups, rings, and fields. It is foundational for modern mathematics, cryptography, coding theory, and theoretical computer science.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/abstract-algebra"
@@ -732,7 +732,7 @@
     "id": "algebra-i",
     "type": "course",
     "name": "Algebra I",
-    "description": "Algebra I",
+    "description": "Learn and master the concepts of Algebra I with structured lessons, interactive visualizations, and practice exercises.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/algebra-i"
@@ -741,7 +741,7 @@
     "id": "algebra-ii",
     "type": "course",
     "name": "Algebra II",
-    "description": "Algebra II",
+    "description": "This builds on Algebra I and prepares students for Precalculus and Calculus.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/algebra-ii"
@@ -750,7 +750,7 @@
     "id": "arithmetic",
     "type": "course",
     "name": "Arithmetic",
-    "description": "Arithmetic",
+    "description": "Learn and master the concepts of Arithmetic with structured lessons, interactive visualizations, and practice exercises.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/arithmetic"
@@ -759,7 +759,7 @@
     "id": "calculus-i",
     "type": "course",
     "name": "Calculus I",
-    "description": "Calculus I",
+    "description": "This is the first true calculus course.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/calculus-i"
@@ -768,7 +768,7 @@
     "id": "calculus-ii",
     "type": "course",
     "name": "Calculus II",
-    "description": "Calculus II",
+    "description": "Calculus II focuses on **advanced integration, sequences & series, and parametric/polar calculus**.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/calculus-ii"
@@ -786,7 +786,7 @@
     "id": "complex-analysis",
     "type": "course",
     "name": "Complex Analysis",
-    "description": "Complex Analysis",
+    "description": "This is the study of **functions of complex numbers**. It is one of the most elegant areas of mathematics and has applications in physics, electrical engineering, fluid dynamics, signal processing, and quantum mechanics.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/complex-analysis"
@@ -804,7 +804,7 @@
     "id": "discrete-mathematics",
     "type": "course",
     "name": "Discrete Mathematics",
-    "description": "Discrete Mathematics",
+    "description": "This is the foundation of **Computer Science**, **Algorithms**, **Cryptography**, and **Logic**.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/discrete-mathematics"
@@ -813,7 +813,7 @@
     "id": "geometry",
     "type": "course",
     "name": "Geometry",
-    "description": "Geometry",
+    "description": "Learn and master the concepts of Geometry with structured lessons, interactive visualizations, and practice exercises.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/geometry"
@@ -822,7 +822,7 @@
     "id": "graph-theory",
     "type": "course",
     "name": "Graph Theory",
-    "description": "Graph Theory",
+    "description": "Graph Theory is one of the most important subjects in **Computer Science, AI, Networking, Optimization, and Mathematics**.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/graph-theory"
@@ -831,7 +831,7 @@
     "id": "linear-algebra",
     "type": "course",
     "name": "Linear Algebra",
-    "description": "Linear Algebra",
+    "description": "This is one of the most important mathematics courses for engineering, computer science, AI, graphics, robotics, physics, and data science.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/linear-algebra"
@@ -840,7 +840,7 @@
     "id": "number-theory",
     "type": "course",
     "name": "Number Theory",
-    "description": "Number Theory",
+    "description": "Number Theory is the study of **integers**. It is fundamental to **cryptography**, **computer science**, and **pure mathematics**.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/number-theory"
@@ -849,7 +849,7 @@
     "id": "pre-algebra",
     "type": "course",
     "name": "Pre-Algebra",
-    "description": "Pre-Algebra",
+    "description": "This is where students transition from arithmetic to algebraic thinking.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/pre-algebra"
@@ -876,7 +876,7 @@
     "id": "real-analysis",
     "type": "course",
     "name": "Real Analysis",
-    "description": "Real Analysis",
+    "description": "This is the course where mathematics becomes **rigorous**. Instead of just calculating derivatives and integrals, students prove *why* calculus works.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/real-analysis"
@@ -885,7 +885,7 @@
     "id": "statistics",
     "type": "course",
     "name": "Statistics",
-    "description": "Statistics",
+    "description": "This is the standard university-level Statistics course and follows naturally after Probability.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/statistics"
@@ -894,7 +894,7 @@
     "id": "trigonometry",
     "type": "course",
     "name": "Trigonometry",
-    "description": "Trigonometry",
+    "description": "Learn and master the concepts of Trigonometry with structured lessons, interactive visualizations, and practice exercises.",
     "domain": "mathematics",
     "version": "1.0.0",
     "path": "/course/trigonometry"
@@ -1011,7 +1011,7 @@
     "id": "astrophysics",
     "type": "course",
     "name": "Astrophysics",
-    "description": "Astrophysics",
+    "description": "Astrophysics applies the laws of physics to understand **stars, planets, galaxies, black holes, and the large-scale universe**. It combines mechanics, electromagnetism, thermodynamics, relativity, quantum mechanics, and nuclear physics.",
     "domain": "physics",
     "version": "1.0.0",
     "path": "/course/astrophysics"
@@ -1029,7 +1029,7 @@
     "id": "cosmology",
     "type": "course",
     "name": "Cosmology",
-    "description": "Cosmology",
+    "description": "Cosmology is the study of the **origin, evolution, structure, and ultimate fate of the Universe**. It brings together everything learned in physics—mechanics, relativity, quantum mechanics, particle physics, and astrophysics.",
     "domain": "physics",
     "version": "1.0.0",
     "path": "/course/cosmology"
@@ -1146,7 +1146,7 @@
     "id": "particle-physics",
     "type": "course",
     "name": "Particle Physics",
-    "description": "Particle Physics",
+    "description": "Particle Physics studies the **fundamental particles and forces** that make up the universe. It is the foundation of modern high-energy physics.",
     "domain": "physics",
     "version": "1.0.0",
     "path": "/course/particle-physics"
@@ -1164,7 +1164,7 @@
     "id": "plasma-physics",
     "type": "course",
     "name": "Plasma Physics",
-    "description": "Plasma Physics",
+    "description": "Plasma Physics studies the **fourth state of matter**—ionized gases. It underpins fusion energy, space physics, astrophysics, and many industrial technologies.",
     "domain": "physics",
     "version": "1.0.0",
     "path": "/course/plasma-physics"
@@ -1173,7 +1173,7 @@
     "id": "quantum-mechanics",
     "type": "course",
     "name": "Quantum Mechanics",
-    "description": "Quantum Mechanics",
+    "description": "Quantum Mechanics is the mathematical framework that describes the behavior of matter and energy at atomic and subatomic scales. It is one of the most important courses in all of physics.",
     "domain": "physics",
     "version": "1.0.0",
     "path": "/course/quantum-mechanics"
