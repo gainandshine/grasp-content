@@ -12,5 +12,8 @@
       "Common misconceptions"
     ],
     "whyItMatters": "Context-Free Grammars is essential for mastering Compiler Design. The Lottie animation {{viz:lottie-01}} illustrates its importance."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }

@@ -12,5 +12,8 @@
       "Common misconceptions"
     ],
     "whyItMatters": "Model Building is essential for mastering Data Science. The Lottie animation {{viz:lottie-01}} illustrates its importance."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }

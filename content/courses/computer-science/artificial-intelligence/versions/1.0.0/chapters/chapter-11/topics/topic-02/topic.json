@@ -12,5 +12,8 @@
       "Common misconceptions"
     ],
     "whyItMatters": "Large Language Models (LLMs) is essential for mastering Artificial Intelligence. The Lottie animation {{viz:lottie-01}} illustrates its importance."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }

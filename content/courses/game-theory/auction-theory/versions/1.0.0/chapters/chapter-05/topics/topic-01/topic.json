@@ -12,5 +12,8 @@
       "Common misconceptions"
     ],
     "whyItMatters": "First-Price Sealed-Bid Auction is essential for mastering Auction Theory. The Lottie animation {{viz:lottie-01}} illustrates its importance."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }

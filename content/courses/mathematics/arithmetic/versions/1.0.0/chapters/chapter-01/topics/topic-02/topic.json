@@ -12,5 +12,8 @@
       "While every whole number has a successor, $0$ is unique because it has no predecessor in $\\\\mathbb{W}$."
     ],
     "whyItMatters": "Whole numbers are fundamental to algebra because they introduce the concept of identity elements. In computer programming, indexing typically starts at $0$, mirroring the structure of the whole number set."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }

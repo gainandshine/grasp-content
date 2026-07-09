@@ -12,5 +12,8 @@
       "Common misconceptions"
     ],
     "whyItMatters": "Infrastructure as Code (Overview) is essential for mastering Software Engineering. The Lottie animation {{viz:lottie-01}} illustrates its importance."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }

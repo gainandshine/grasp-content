@@ -12,5 +12,8 @@
       "Common misconceptions"
     ],
     "whyItMatters": "Abstract Syntax Trees (ASTs) is essential for mastering Compiler Design. The Lottie animation {{viz:lottie-01}} illustrates its importance."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }

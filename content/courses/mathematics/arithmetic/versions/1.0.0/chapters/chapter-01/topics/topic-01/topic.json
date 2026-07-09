@@ -12,5 +12,9 @@
       "The formal structure of $\\\\mathbb{N}$ is defined axiomatically via the Peano Axioms and the successor function."
     ],
     "whyItMatters": "Natural numbers form the basic building blocks of mathematics. They are critical for numbering systems, induction proofs, and indexing elements in computer science algorithms."
-  }
+  },
+  "availableLanguages": [
+    "en",
+    "te"
+  ]
 }

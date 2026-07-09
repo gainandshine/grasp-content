@@ -12,5 +12,8 @@
       "Common misconceptions"
     ],
     "whyItMatters": "Recall is essential for mastering Machine Learning. The Lottie animation {{viz:lottie-01}} illustrates its importance."
-  }
+  },
+  "availableLanguages": [
+    "en"
+  ]
 }
