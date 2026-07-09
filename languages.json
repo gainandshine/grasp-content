@@ -1,0 +1,10 @@
+{
+  "languages": [
+    { "code": "en", "label": "English" },
+    { "code": "hi", "label": "Hindi (हिंदी)" },
+    { "code": "te", "label": "Telugu (తెలుగు)" },
+    { "code": "ta", "label": "Tamil (தமிழ்)" },
+    { "code": "kn", "label": "Kannada (ಕನ್ನಡ)" },
+    { "code": "ml", "label": "Malayalam (മലയാളം)" }
+  ]
+}

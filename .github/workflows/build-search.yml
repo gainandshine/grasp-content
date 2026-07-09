@@ -23,18 +23,21 @@ jobs:
         with:
           node-version: 18
 
+      - name: Update Available Languages
+        run: node scripts/update-available-languages.js
+
       - name: Generate Search Indexes
         run: node scripts/build-search.js
 
-      - name: Commit Search Indexes
+      - name: Commit Search Indexes and Content Metadata
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add search/*.json
+          git add search/*.json content/**/topic.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: auto-generate search indexes [skip ci]"
+            git commit -m "chore: auto-generate search indexes & update available languages [skip ci]"
             git pull --rebase origin main
             git push
           fi
