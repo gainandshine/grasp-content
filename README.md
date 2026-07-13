@@ -110,11 +110,11 @@ final response = await http.get(
 | **📚 Courses** | 149 |
 | **📖 Chapters** | 1902 |
 | **💡 Concepts** | 13067 |
-| **❓ Quiz Questions** | 26136 |
-| **🃏 Flashcards** | 26136 |
-| **📝 Practice Exercises** | 26134 |
-| **💡 Examples** | 13069 |
-| **🎨 Interactive Canvas Visuals** | 117589 |
+| **❓ Quiz Questions** | 26172 |
+| **🃏 Flashcards** | 26188 |
+| **📝 Practice Exercises** | 26152 |
+| **💡 Examples** | 13092 |
+| **🎨 Interactive Canvas Visuals** | 117542 |
 <!-- STATS_END -->
 
 ## License
