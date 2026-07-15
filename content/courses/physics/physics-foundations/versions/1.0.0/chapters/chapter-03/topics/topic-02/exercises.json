@@ -2,30 +2,28 @@
   "exercises": [
     {
       "id": "exercise-01",
-      "type": "compare",
-      "title": "More Precise?",
-      "content": "Which is more precise: 10.5 m or 10.534 m? Why?",
+      "tags": "precision",
+      "prompt": "More Precise?: Which is more precise: 10.5 m or 10.534 m? Why?",
       "difficulty": "beginner",
-      "estimatedMinutes": 2,
       "hints": [
         "Count the decimal places",
         "More decimals = more precise"
       ],
-      "tags": ["precision"]
+      "solution": "See hints and examples for approach.",
+      "estimatedMinutes": 2
     },
     {
       "id": "exercise-02",
-      "type": "thinking",
-      "title": "Precise but Wrong",
-      "content": "A scale always reads 70 kg when you actually weigh 75 kg. Is this precise? Is it accurate? Explain both.",
+      "tags": "understanding",
+      "prompt": "Precise but Wrong: A scale always reads 70 kg when you actually weigh 75 kg. Is this precise? Is it accurate? Explain both.",
       "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "hints": [
         "Precise = consistent/exact",
         "Accurate = close to true value",
         "Can both be true/false at once?"
       ],
-      "tags": ["understanding"]
+      "solution": "See hints and examples for approach.",
+      "estimatedMinutes": 3
     }
   ]
 }

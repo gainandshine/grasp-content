@@ -1,32 +1,18 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "design",
-      "title": "Design Your Experiment",
-      "content": "Pick a question like 'Does temperature affect magnet strength?' Write: what to measure, what to change, what to keep same, how many trials.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "hints": [
-        "What's your main question?",
-        "What's the one thing you change?",
-        "What must stay the same?"
-      ],
-      "tags": ["design"]
+      "solution": "See hints and examples for approach.",
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "hints": true,
+      "tags": true
     },
     {
-      "id": "exercise-02",
-      "type": "critique",
-      "title": "Fix the Design",
-      "content": "Bad design: 'Test if water freezes. Use tap water, change temperature, measure time.' What's wrong? How would you fix it?",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "hints": [
-        "Is the question clear?",
-        "Is there ONE variable changing?",
-        "Are you using multiple trials?"
-      ],
-      "tags": ["critique"]
+      "solution": "See hints and examples for approach.",
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "hints": true,
+      "tags": true
     }
   ]
 }

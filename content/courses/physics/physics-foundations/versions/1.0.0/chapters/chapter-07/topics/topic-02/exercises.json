@@ -1,1 +1,12 @@
-{"exercises":[{"id":"ex-01","type":"calculation","title":"Calculate Slope","content":"Two points: (2,4) and (6,12). Calculate slope = rise/run = (12-4)/(6-2)","difficulty":"beginner","estimatedMinutes":3,"hints":["Find Y change","Find X change","Divide them"],"tags":["slope"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": true,
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "tags": true
+    }
+  ]
+}

@@ -1,1 +1,23 @@
-{"exercises":[{"id":"exercise-01","type":"graphical","title":"Draw Triangle Law","content":"A: 4 units east, B: 3 units north. Use triangle law to find A+B.","difficulty":"beginner","estimatedMinutes":3,"hints":["Head-to-tail method forms a triangle","The closing side is the sum"],"tags":["visualization"]},{"id":"exercise-02","type":"calculation","title":"Calculate Resultant","content":"From the triangle with sides 4 and 3, what is the resultant (hypotenuse)?","difficulty":"beginner","estimatedMinutes":2,"hints":["Use Pythagorean theorem"],"tags":["calculation"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "Head-to-tail method forms a triangle",
+        "The closing side is the sum"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": "visualization"
+    },
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": "Use Pythagorean theorem",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": "calculation"
+    }
+  ]
+}

@@ -1,24 +1,18 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "identify",
-      "title": "Label the Variables",
-      "content": "Experiment: 'Test if string thickness affects bow arrow distance.' Identify: independent, dependent, control variables.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": ["What do you change?", "What do you measure?", "What stays the same?"],
-      "tags": ["classification"]
+      "solution": "See hints and examples for approach.",
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "hints": true,
+      "tags": true
     },
     {
-      "id": "exercise-02",
-      "type": "design",
-      "title": "Identify Missing Controls",
-      "content": "Bad experiment: 'Test if ice cream melts faster on paper or plastic. Winter and summer.' What control variable is missing?",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": ["Temperature affects melting", "Both should be at same temperature"],
-      "tags": ["troubleshooting"]
+      "solution": "See hints and examples for approach.",
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "hints": true,
+      "tags": true
     }
   ]
 }

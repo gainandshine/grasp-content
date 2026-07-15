@@ -1,1 +1,26 @@
-{"exercises":[{"id":"exercise-01","type":"direction","title":"Right-Hand Rule","content":"A points east, B points north. Which direction is A×B?","difficulty":"beginner","estimatedMinutes":2,"hints":["Point fingers east, curl north","Thumb points up!"],"tags":["direction"]},{"id":"exercise-02","type":"concept","title":"Magnitude of Cross Product","content":"Two perpendicular 5 N forces. What is |F1 × F2|?","difficulty":"beginner","estimatedMinutes":2,"hints":["sin(90°) = 1","|A×B| = |A||B|sin(θ)"],"tags":["magnitude"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "Point fingers east, curl north",
+        "Thumb points up!"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": "direction"
+    },
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "sin(90°) = 1",
+        "|A×B| = |A||B|sin(θ)"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": "magnitude"
+    }
+  ]
+}

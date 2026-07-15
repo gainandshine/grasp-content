@@ -1,46 +1,43 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "design",
-      "title": "Design Your Own Experiment",
-      "content": "Pick a question you're curious about. Then design an experiment to test it. Write down: Question → Prediction → What you'd do → What you'd measure → How you'd analyze results → What you'd conclude.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 10,
+      "prompt": "Pick a question you're curious about. Then design an experiment to test it. Write down: Question → Prediction → What you'd do → What you'd measure → How you'd analyze results → What you'd conclude.",
+      "solution": "",
       "hints": [
         "Questions can be simple: 'Does heavier paper fall faster?'",
         "Your prediction can be wrong—that's fine",
         "Think about what you can actually test"
       ],
-      "tags": ["design", "experiment"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 10,
+      "tags": [
+        "design",
+        "experiment"
+      ]
     },
     {
-      "id": "exercise-02",
-      "type": "analysis",
-      "title": "Spot the Scientific Steps",
-      "content": "Read a simple science story. Find the question, prediction, experiment, analysis, and conclusion. Mark each part.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "prompt": "Read a simple science story. Find the question, prediction, experiment, analysis, and conclusion. Mark each part.",
+      "solution": "",
       "hints": [
         "Look for 'I wondered if...'—that's the question",
         "Look for 'I thought...'—that's the prediction",
         "Look for 'I tested by...'—that's the experiment"
       ],
-      "tags": ["identification"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": "identification"
     },
     {
-      "id": "exercise-03",
-      "type": "reflection",
-      "title": "When You Got It Wrong",
-      "content": "Think of a time your prediction was wrong. Was that a failure or success? Explain.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
+      "prompt": "Think of a time your prediction was wrong. Was that a failure or success? Explain.",
+      "solution": "",
       "hints": [
         "Being wrong teaches something",
         "Scientists expect to be wrong sometimes",
         "What did you learn?"
       ],
-      "tags": ["reflection"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": "reflection"
     }
   ]
 }

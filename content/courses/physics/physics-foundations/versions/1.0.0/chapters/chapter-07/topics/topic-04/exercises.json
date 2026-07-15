@@ -1,1 +1,12 @@
-{"exercises":[{"id":"ex-01","type":"analysis","title":"Identify the Relationship","content":"Look at your topic. Find one real example from physics or your life.","difficulty":"beginner","estimatedMinutes":5,"hints":["Think about everyday situations","Search online for graphs"],"tags":["application"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": true,
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "tags": true
+    }
+  ]
+}

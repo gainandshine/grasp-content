@@ -1,24 +1,24 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "understanding",
-      "title": "Understand the Concept",
-      "content": "Exercise 1 for this topic",
+      "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
-      "hints": ["Think about the definition", "Apply to real situations"],
-      "tags": ["learning"]
+      "hints": [
+        "Think about the definition",
+        "Apply to real situations"
+      ],
+      "tags": "learning"
     },
     {
-      "id": "exercise-02",
-      "type": "application",
-      "title": "Apply to Real Situation",
-      "content": "Exercise 2 for this topic",
+      "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
-      "hints": ["Use the concept", "Think of examples"],
-      "tags": ["application"]
+      "hints": [
+        "Use the concept",
+        "Think of examples"
+      ],
+      "tags": "application"
     }
   ]
 }

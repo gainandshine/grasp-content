@@ -2,30 +2,28 @@
   "exercises": [
     {
       "id": "exercise-01",
-      "type": "identify",
-      "title": "Is It a Scalar?",
-      "content": "For each: mass, velocity, temperature, distance, force, energy—identify which are scalars (yes/no).",
+      "tags": "identification",
+      "prompt": "Is It a Scalar?: For each: mass, velocity, temperature, distance, force, energy—identify which are scalars (yes/no).",
       "difficulty": "beginner",
-      "estimatedMinutes": 3,
       "hints": [
         "Scalars have no direction",
         "Mass, temperature, distance are examples",
         "Velocity and force need direction"
       ],
-      "tags": ["identification"]
+      "solution": "See hints and examples for approach.",
+      "estimatedMinutes": 3
     },
     {
       "id": "exercise-02",
-      "type": "calculate",
-      "title": "Adding Scalars",
-      "content": "You have 5 kg flour + 2 kg sugar + 1 kg butter. How much total? (Just add the numbers.)",
+      "tags": "addition",
+      "prompt": "Adding Scalars: You have 5 kg flour + 2 kg sugar + 1 kg butter. How much total? (Just add the numbers.)",
       "difficulty": "beginner",
-      "estimatedMinutes": 2,
       "hints": [
         "Scalars add like regular numbers",
         "5 + 2 + 1 = ?"
       ],
-      "tags": ["addition"]
+      "solution": "See hints and examples for approach.",
+      "estimatedMinutes": 2
     }
   ]
 }

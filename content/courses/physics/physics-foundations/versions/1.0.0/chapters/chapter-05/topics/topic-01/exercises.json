@@ -1,1 +1,26 @@
-{"exercises":[{"id":"exercise-01","type":"calculation","title":"Add Two Vectors","content":"A=(3,4), B=(1,2). Find A+B.","difficulty":"beginner","estimatedMinutes":2,"hints":["Add x components","Add y components"],"tags":["addition"]},{"id":"exercise-02","type":"graphical","title":"Draw Head-to-Tail","content":"Vector A: 5 units right. Vector B: 3 units up. Draw the sum graphically.","difficulty":"beginner","estimatedMinutes":3,"hints":["Head of A to tail of B","Closing side is sum"],"tags":["visualization"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "Add x components",
+        "Add y components"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": "addition"
+    },
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "Head of A to tail of B",
+        "Closing side is sum"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": "visualization"
+    }
+  ]
+}

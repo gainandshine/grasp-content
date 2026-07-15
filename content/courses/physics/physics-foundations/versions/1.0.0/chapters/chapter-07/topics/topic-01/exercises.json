@@ -1,1 +1,12 @@
-{"exercises":[{"id":"ex-01","type":"observation","title":"Find a Graph","content":"Find a real graph (news, textbook, etc). What are the axes? What does the slope look like? What does the shape tell you?","difficulty":"beginner","estimatedMinutes":5,"hints":["Look at newspapers","Check textbooks","Observe the title and labels"],"tags":["observation"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": true,
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "tags": true
+    }
+  ]
+}

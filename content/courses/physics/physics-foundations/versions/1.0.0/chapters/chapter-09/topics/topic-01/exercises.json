@@ -1,10 +1,7 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "spot-the-error",
-      "title": "Find the Wrong Answer",
-      "content": "Three students calculated acceleration. Who got the right units? A) 5 m/s, B) 10 m/s², C) 8 kg",
+      "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 2,
       "hints": [
@@ -12,13 +9,10 @@
         "Distance per time squared",
         "Check which matches"
       ],
-      "tags": ["unit-checking"]
+      "tags": "unit-checking"
     },
     {
-      "id": "exercise-02",
-      "type": "verify",
-      "title": "Unit Check Your Own Answer",
-      "content": "Calculate F = 10 kg × 2 m/s². Write out your answer with units. Is it in kg·m/s² or kg·m/s or kg·m?",
+      "solution": "See hints and examples for approach.",
       "difficulty": "beginner",
       "estimatedMinutes": 3,
       "hints": [
@@ -26,7 +20,7 @@
         "Force is kg·m/s²",
         "That's also called a Newton"
       ],
-      "tags": ["force"]
+      "tags": "force"
     }
   ]
 }

@@ -1,32 +1,28 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "convert",
-      "title": "Convert Cartesian to Polar",
-      "content": "Given a point at Cartesian (3, 4), find polar (r, θ). Hint: use distance formula r = √(x² + y²) and angle θ.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "r = √(3² + 4²) = √25 = 5",
         "θ = arctan(y/x) = arctan(4/3) ≈ 53°",
         "The point is 5 units away at 53° angle"
       ],
-      "tags": ["conversion"]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": "conversion"
     },
     {
-      "id": "exercise-02",
-      "type": "identify",
-      "title": "When is Polar Better?",
-      "content": "For each: circular motion, rectangular grid, spinning top, city block grid—say if Polar or Cartesian is better and why.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "Circular = polar",
         "Rectangular/grid = Cartesian",
         "Spinning = polar"
       ],
-      "tags": ["comparison"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": "comparison"
     }
   ]
 }

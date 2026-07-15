@@ -1,9 +1,8 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Error Propagation.",
-      "solution": "Step-by-step solution for Error Propagation problem.",
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "Start by understanding the core concept",
         "Apply the formula or principle",
@@ -17,9 +16,8 @@
       ]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Error Propagation to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "Consider the practical constraints",
         "Break down the problem into steps"

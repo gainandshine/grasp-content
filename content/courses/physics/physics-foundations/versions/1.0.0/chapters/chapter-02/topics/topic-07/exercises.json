@@ -1,32 +1,28 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "judge",
-      "title": "Can You Add These?",
-      "content": "Which can be added? (1) 10 m + 5 m  (2) 3 s + 7 kg  (3) 20 N + 15 N  (4) 8 m/s + 6 m. Say yes or no.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
+      "prompt": "Which can be added? (1) 10 m + 5 m  (2) 3 s + 7 kg  (3) 20 N + 15 N  (4) 8 m/s + 6 m. Say yes or no.",
+      "solution": "",
       "hints": [
         "Same dimensions = can add",
         "Different dimensions = cannot add",
         "Check if units match"
       ],
-      "tags": ["addition-rule"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": "addition-rule"
     },
     {
-      "id": "exercise-02",
-      "type": "check",
-      "title": "Check Equations for Homogeneity",
-      "content": "Are these equations dimensionally homogeneous? (1) v = u + at  (2) s = v²t  (3) E = ½mv². Write why or why not.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
+      "prompt": "Are these equations dimensionally homogeneous? (1) v = u + at  (2) s = v²t  (3) E = ½mv². Write why or why not.",
+      "solution": "",
       "hints": [
         "Write dimensions on each side",
         "Check if addition/subtraction terms match",
         "Check if left = right dimension"
       ],
-      "tags": ["homogeneity-check"]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": "homogeneity-check"
     }
   ]
 }

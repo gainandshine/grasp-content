@@ -1,20 +1,8 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "sorting",
-      "title": "Which Branch?",
-      "content": "For each scenario, which branch of physics explains it? Put them in the right group.",
-      "scenarios": [
-        "A ball bouncing → ",
-        "Ice melting → ",
-        "Light reflecting in a mirror → ",
-        "Magnetism attracting metal → ",
-        "Electron behavior in an atom → ",
-        "A car speeding up → "
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "prompt": "For each scenario, which branch of physics explains it? Put them in the right group.",
+      "solution": "",
       "hints": [
         "Classical mechanics = motion",
         "Thermodynamics = heat/temperature",
@@ -22,52 +10,41 @@
         "Electricity & magnetism = charged particles",
         "Quantum = atoms/electrons"
       ],
-      "tags": ["classification"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": "classification"
     },
     {
-      "id": "exercise-02",
-      "type": "multiple-choice",
-      "title": "Identify the Right Branch",
-      "content": "Your car engine gets hot as it runs. Which branch of physics explains why?",
-      "options": [
-        "Classical mechanics",
-        "Thermodynamics",
-        "Waves and optics",
-        "Quantum mechanics"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Thermodynamics deals with heat and temperature. A hot engine is a thermodynamics question.",
+      "prompt": "Your car engine gets hot as it runs. Which branch of physics explains why?",
+      "solution": "",
+      "hints": {},
       "difficulty": "beginner",
       "estimatedMinutes": 2,
-      "tags": ["identification"]
+      "tags": "identification"
     },
     {
-      "id": "exercise-03",
-      "type": "short-answer",
-      "title": "Categorize Your Day",
-      "content": "Think about today. List 2 things that classical mechanics explains and 2 things that a different branch explains.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
+      "prompt": "Think about today. List 2 things that classical mechanics explains and 2 things that a different branch explains.",
+      "solution": "",
       "hints": [
         "Classical: anything moving or changing direction",
         "Think about temperature, light, electricity",
         "What did you interact with?"
       ],
-      "tags": ["observation"]
-    },
-    {
-      "id": "exercise-04",
-      "type": "thinking",
-      "title": "Why Divide Physics?",
-      "content": "Why do you think physicists divided physics into branches instead of keeping it all as one subject?",
       "difficulty": "intermediate",
       "estimatedMinutes": 5,
+      "tags": "observation"
+    },
+    {
+      "prompt": "Why do you think physicists divided physics into branches instead of keeping it all as one subject?",
+      "solution": "",
       "hints": [
         "Think about how hard it would be to learn everything at once",
         "Each branch has different tools and rules",
         "Is it easier to be an expert in one area or know a little about everything?"
       ],
-      "tags": ["critical-thinking"]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": "critical-thinking"
     }
   ]
 }

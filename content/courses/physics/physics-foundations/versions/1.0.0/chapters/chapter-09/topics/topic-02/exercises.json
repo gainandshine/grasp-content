@@ -1,31 +1,27 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Dimensional Checking.",
-      "solution": "Step-by-step solution for Dimensional Checking problem.",
+      "solution": "See hints and examples for approach.",
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "hints": [
         "Start by understanding the core concept",
         "Apply the formula or principle",
         "Check your answer"
       ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
       "tags": [
         "physics",
         "dimensional-checking"
       ]
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Dimensional Checking to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
+      "solution": "See hints and examples for approach.",
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
       "hints": [
         "Consider the practical constraints",
         "Break down the problem into steps"
       ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
       "tags": [
         "physics",
         "dimensional-checking"

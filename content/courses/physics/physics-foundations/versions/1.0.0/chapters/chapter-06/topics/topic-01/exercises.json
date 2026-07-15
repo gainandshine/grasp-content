@@ -1,32 +1,28 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "plot",
-      "title": "Plot Points on a Graph",
-      "content": "On a Cartesian graph, plot these points: (1,2), (3,4), (-2,1), (0,-3). Draw the axes, label them, mark each point.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "x-axis is horizontal, y-axis is vertical",
         "Positive x goes right, positive y goes up",
         "Negative goes left/down"
       ],
-      "tags": ["plotting"]
-    },
-    {
-      "id": "exercise-02",
-      "type": "describe",
-      "title": "Name the Coordinates",
-      "content": "Given 3 points on a graph, write their (x,y) coordinates. Be careful about the signs and exact values.",
       "difficulty": "beginner",
       "estimatedMinutes": 5,
+      "tags": "plotting"
+    },
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "Count carefully along each axis",
         "Remember the sign (+ or -)",
         "x first, then y"
       ],
-      "tags": ["reading-graphs"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": "reading-graphs"
     }
   ]
 }

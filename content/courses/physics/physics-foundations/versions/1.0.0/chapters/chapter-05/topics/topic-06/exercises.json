@@ -1,1 +1,23 @@
-{"exercises":[{"id":"exercise-01","type":"calculation","title":"Dot Product","content":"A=(2,3), B=(1,0). Find A·B using components.","difficulty":"beginner","estimatedMinutes":2,"hints":["A·B = Ax*Bx + Ay*By"],"tags":["calculation"]},{"id":"exercise-02","type":"concept","title":"Perpendicular Vectors","content":"If A⊥B (perpendicular), what is A·B?","difficulty":"beginner","estimatedMinutes":2,"hints":["What angle is 90°?","cos(90°) = 0"],"tags":["understanding"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": "A·B = Ax*Bx + Ay*By",
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": "calculation"
+    },
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "What angle is 90°?",
+        "cos(90°) = 0"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 2,
+      "tags": "understanding"
+    }
+  ]
+}

@@ -1,35 +1,18 @@
 {
   "exercises": [
     {
-      "id": "ex-01",
-      "prompt": "Solve a problem related to Data Interpretation.",
-      "solution": "Step-by-step solution for Data Interpretation problem.",
-      "hints": [
-        "Start by understanding the core concept",
-        "Apply the formula or principle",
-        "Check your answer"
-      ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 10,
-      "tags": [
-        "physics",
-        "data-interpretation"
-      ]
+      "solution": "See hints and examples for approach.",
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "hints": true,
+      "tags": true
     },
     {
-      "id": "ex-02",
-      "prompt": "Advanced problem: Apply Data Interpretation to a real-world scenario.",
-      "solution": "Detailed solution with explanation.",
-      "hints": [
-        "Consider the practical constraints",
-        "Break down the problem into steps"
-      ],
-      "difficulty": "advanced",
-      "estimatedMinutes": 15,
-      "tags": [
-        "physics",
-        "data-interpretation"
-      ]
+      "solution": "See hints and examples for approach.",
+      "difficulty": true,
+      "estimatedMinutes": true,
+      "hints": true,
+      "tags": true
     }
   ]
 }

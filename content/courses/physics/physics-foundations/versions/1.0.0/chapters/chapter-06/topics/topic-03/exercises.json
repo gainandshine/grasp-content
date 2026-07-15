@@ -1,33 +1,29 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "describe",
-      "title": "Describe in Cylindrical",
-      "content": "A point is 3m from the center axis, at 120° angle, 5m above the base. Write its cylindrical coordinates (r, θ, z).",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "r = distance from axis = 3m",
         "θ = angle = 120°",
         "z = height = 5m",
         "Answer: (3, 120°, 5)"
       ],
-      "tags": ["3d-position"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": "3d-position"
     },
     {
-      "id": "exercise-02",
-      "type": "identify",
-      "title": "Cylindrical vs Other",
-      "content": "For spiral staircase, tornado, rotating machinery—which system (Cartesian, cylindrical) is best? Why?",
-      "difficulty": "beginner",
-      "estimatedMinutes": 4,
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "All have rotation/symmetry around an axis",
         "Cylindrical handles this naturally",
         "Cartesian would need complex equations"
       ],
-      "tags": ["comparison"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 4,
+      "tags": "comparison"
     }
   ]
 }

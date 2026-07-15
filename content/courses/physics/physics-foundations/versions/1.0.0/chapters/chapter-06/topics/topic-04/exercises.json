@@ -1,33 +1,32 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "describe",
-      "title": "Position in Spherical",
-      "content": "A star is 10 light-years from Earth, at azimuth 120°, at elevation 30° above the equator. Write its spherical coordinates.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "r = distance from center = 10 ly",
         "θ = azimuthal angle = 120°",
         "φ = elevation/polar angle = 30°",
         "Answer: (10, 120°, 30°)"
       ],
-      "tags": ["3d", "astronomy"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": [
+        "3d",
+        "astronomy"
+      ]
     },
     {
-      "id": "exercise-02",
-      "type": "identify",
-      "title": "Spherical vs Systems",
-      "content": "For atom, planet orbits, radiation spreading—which system (Cartesian, cylindrical, spherical) fits best?",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
       "hints": [
         "Atoms: spherical symmetry around nucleus",
         "Planets: orbits are circles, but 3D around sun",
         "Radiation: spreads equally in all directions—spherical!"
       ],
-      "tags": ["comparison"]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": "comparison"
     }
   ]
 }

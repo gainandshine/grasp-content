@@ -1,1 +1,29 @@
-{"exercises":[{"id":"exercise-01","type":"calculation","title":"Find Components","content":"Vector of magnitude 10 at 30° angle. Find x and y components.","difficulty":"beginner","estimatedMinutes":3,"hints":["Vx = R*cos(θ)","Vy = R*sin(θ)"],"tags":["components"]},{"id":"exercise-02","type":"reconstruction","title":"From Components to Vector","content":"Vx=3, Vy=4. Find magnitude and angle.","difficulty":"beginner","estimatedMinutes":3,"hints":["R = √(Vx² + Vy²)","θ = arctan(Vy/Vx)"],"tags":["magnitude","angle"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "Vx = R*cos(θ)",
+        "Vy = R*sin(θ)"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": "components"
+    },
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "R = √(Vx² + Vy²)",
+        "θ = arctan(Vy/Vx)"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": [
+        "magnitude",
+        "angle"
+      ]
+    }
+  ]
+}

@@ -1,33 +1,29 @@
 {
   "exercises": [
     {
-      "id": "exercise-01",
-      "type": "build",
-      "title": "Build a Unit",
-      "content": "What units do you combine to make velocity? (Hint: distance/time). What about acceleration? (Hint: velocity/time, or distance/time²)",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "prompt": "What units do you combine to make velocity? (Hint: distance/time). What about acceleration? (Hint: velocity/time, or distance/time²)",
+      "solution": "",
       "hints": [
         "Think about what velocity means",
         "Divide and combine base units",
         "What's the formula for acceleration?"
       ],
-      "tags": ["construction"]
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": "construction"
     },
     {
-      "id": "exercise-02",
-      "type": "recognize",
-      "title": "Recognize Derived Units",
-      "content": "For each: Speed, Force, Energy, Power—write what base units combine to make it.",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
+      "prompt": "For each: Speed, Force, Energy, Power—write what base units combine to make it.",
+      "solution": "",
       "hints": [
         "Speed = distance/time",
         "Force = mass × acceleration",
         "Energy = force × distance",
         "Power = energy/time"
       ],
-      "tags": ["recognition"]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 5,
+      "tags": "recognition"
     }
   ]
 }

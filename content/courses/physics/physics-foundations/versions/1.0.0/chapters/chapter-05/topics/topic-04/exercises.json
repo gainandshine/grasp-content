@@ -1,1 +1,27 @@
-{"exercises":[{"id":"exercise-01","type":"graphical","title":"Draw Parallelogram Law","content":"A: 4 units north. B: 3 units east. Both from origin. Draw the parallelogram and find the resultant.","difficulty":"beginner","estimatedMinutes":3,"hints":["Tail-to-tail placement","Complete the parallelogram","Diagonal is the sum"],"tags":["visualization"]},{"id":"exercise-02","type":"comparison","title":"Compare Methods","content":"Show that triangle law and parallelogram law give the same result.","difficulty":"intermediate","estimatedMinutes":4,"hints":["Both give the same vector","Different geometric approaches"],"tags":["understanding"]}]}
+{
+  "exercises": [
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "Tail-to-tail placement",
+        "Complete the parallelogram",
+        "Diagonal is the sum"
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 3,
+      "tags": "visualization"
+    },
+    {
+      "prompt": "",
+      "solution": "See hints and examples for approach.",
+      "hints": [
+        "Both give the same vector",
+        "Different geometric approaches"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 4,
+      "tags": "understanding"
+    }
+  ]
+}
