@@ -1,74 +1,6 @@
 {
   "visualizations": [
     {
-      "id": "diagram-01",
-      "type": "diagram",
-      "title": "What is Physics? Concept Map",
-      "description": "How physics connects observation, laws, and prediction",
-      "spec": {
-        "diagramType": "mindmap",
-        "nodes": [
-          {
-            "id": "center",
-            "label": "Physics",
-            "type": "circle"
-          },
-          {
-            "id": "observe",
-            "label": "Observation",
-            "type": "rect"
-          },
-          {
-            "id": "experiment",
-            "label": "Experimentation",
-            "type": "rect"
-          },
-          {
-            "id": "theory",
-            "label": "Theory & Laws",
-            "type": "rect"
-          },
-          {
-            "id": "predict",
-            "label": "Prediction",
-            "type": "rect"
-          },
-          {
-            "id": "apply",
-            "label": "Application",
-            "type": "rect"
-          }
-        ],
-        "edges": [
-          {
-            "from": "center",
-            "to": "observe",
-            "label": "starts with"
-          },
-          {
-            "from": "observe",
-            "to": "experiment",
-            "label": "leads to"
-          },
-          {
-            "from": "experiment",
-            "to": "theory",
-            "label": "reveals"
-          },
-          {
-            "from": "theory",
-            "to": "predict",
-            "label": "enables"
-          },
-          {
-            "from": "predict",
-            "to": "apply",
-            "label": "makes possible"
-          }
-        ]
-      }
-    },
-    {
       "id": "anim-01",
       "type": "2d-anim",
       "title": "Falling Ball Physics",
@@ -79,67 +11,23 @@
     },
     {
       "id": "chart-01",
-      "type": "d3",
-      "title": "Velocity of Falling Object",
-      "description": "Graph showing how velocity increases linearly with time due to constant gravitational acceleration",
-      "spec": {
-        "chart_type": "function",
-        "x_label": "Time (s)",
-        "y_label": "Velocity (m/s)",
-        "data_json": "{\"fn\":\"9.8 * x\",\"x_min\":0,\"x_max\":5,\"samples\":100}"
-      }
-    },
-    {
-      "id": "diagram-02",
       "type": "diagram",
-      "title": "Scales in Physics",
-      "description": "Physics governs phenomena across all scales, from subatomic to cosmic",
+      "title": "The Physics Cycle",
+      "description": "The same four-step loop repeats for every question in physics",
       "spec": {
         "diagramType": "flowchart",
+        "direction": "LR",
         "nodes": [
-          {
-            "id": "quantum",
-            "label": "Quantum Realm\n(10^-15 m)\nParticles, atoms, nuclei",
-            "type": "rect"
-          },
-          {
-            "id": "molecular",
-            "label": "Molecular Scale\n(10^-9 m)\nMolecules, chemistry",
-            "type": "rect"
-          },
-          {
-            "id": "everyday",
-            "label": "Everyday Scale\n(1 m)\nObjects, motion, heat",
-            "type": "rect"
-          },
-          {
-            "id": "planetary",
-            "label": "Planetary Scale\n(10^7 m)\nPlanets, orbits",
-            "type": "rect"
-          },
-          {
-            "id": "cosmic",
-            "label": "Cosmic Scale\n(10^26 m)\nGalaxies, universe",
-            "type": "rect"
-          }
+          { "id": "observe", "label": "Observe", "type": "rect" },
+          { "id": "ask", "label": "Ask Why", "type": "rect" },
+          { "id": "understand", "label": "Find the Rule", "type": "rect" },
+          { "id": "apply", "label": "Apply It", "type": "rect" }
         ],
         "edges": [
-          {
-            "from": "quantum",
-            "to": "molecular"
-          },
-          {
-            "from": "molecular",
-            "to": "everyday"
-          },
-          {
-            "from": "everyday",
-            "to": "planetary"
-          },
-          {
-            "from": "planetary",
-            "to": "cosmic"
-          }
+          { "from": "observe", "to": "ask", "label": "leads to" },
+          { "from": "ask", "to": "understand", "label": "leads to" },
+          { "from": "understand", "to": "apply", "label": "leads to" },
+          { "from": "apply", "to": "observe", "label": "raises new questions" }
         ]
       }
     }
