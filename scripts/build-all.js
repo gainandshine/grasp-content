@@ -103,7 +103,7 @@ Understanding ${name} requires both theoretical knowledge {{viz:text-01}} and pr
             `Common misconceptions`
           ],
           
-          whyItMatters: `${name} is essential for mastering ${course.title}. The Lottie animation {{viz:lottie-01}} illustrates its importance.`
+          whyItMatters: `${name} is essential for mastering ${course.title}.`
         }
       });
 
@@ -307,17 +307,6 @@ Understanding ${name} requires both theoretical knowledge {{viz:text-01}} and pr
             spec: {
               simulationType: 'physics',
               config: { gravity: 9.8, friction: 0.1 }
-            }
-          },
-          {
-            id: 'lottie-01',
-            type: 'lottie',
-            title: `${name} Icon`,
-            description: `Animated icon`,
-            spec: {
-              lottieUrl: 'https://assets.lottiefiles.com/packages/lf20_example.json',
-              autoplay: true,
-              loop: true
             }
           },
           {
