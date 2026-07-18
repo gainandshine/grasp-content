@@ -4,8 +4,8 @@
   "topicId": "physics.physics-foundations.chapter-01.topic-01",
   "description": "Understanding what physics really is and why it matters",
   "content": {
-    "overview": "Okay so what's physics actually? Think of it like this—physics is just asking \"how does stuff work?\" and then actually figuring it out. That's it. No magic, no mystery. Just observation + thinking = understanding.",
-    "explanation": "Alright, let me explain this simply.\n\nYou know when you throw a ball? It goes up and comes down. You see it happen. But physics asks: **Why does it come down?** What's the rule that makes it do that?\n\nOnce you know the rule (we call it gravity), you can **predict** exactly where the ball will land before you even throw it.\n\nThat's physics: see something → understand why it happens → predict what will happen next.\n\nIt's like being a detective. You observe clues (the ball falls), you figure out the rule (gravity pulls things down), and then you can solve the case (predict where it lands).\n\nThe cool part? Once you understand the rules, you can build cool stuff with them. Phones, planes, lights, everything.\n\nPhysics isn't hard math or complicated ideas. It's just paying attention to the world and figuring out what makes things tick. {{viz:anim-01}}\n\nLet's break it down:\n- **See things happen** (observation) → ball falls, light bounces, things move\n- **Ask why** (curiosity) → why does the ball fall? Why does light bounce?\n- **Find the rule** (understanding) → gravity, reflection, motion\n- **Use the rule** (application) → build better buildings, faster cars, cooler tech {{viz:chart-01}}\n\nThat cycle right there? That's physics. {{viz:diagram-01}}",
+    "overview": "Physics is the study of how things work. You observe something happen, you figure out the rule behind it, and that rule lets you predict what happens next. No magic, no mystery — just observation and reasoning.",
+    "explanation": "Throw a ball. It goes up, then comes down. Physics asks why it comes down, and finds the rule: gravity. Once you know the rule, you can predict exactly where the ball lands before you throw it.\n\nThat's the pattern for all of physics: observe something → find the rule behind it → predict what happens next.\n\nIt works the same way a detective works a case. You observe the clues (the ball falls), you find the rule (gravity pulls things down), and you use the rule to predict the outcome (where it lands). {{viz:anim-01}}\n\nOnce you understand the rules, you can build things with them. Phones, planes, bridges, engines — all of it runs on physics rules someone worked out this same way.\n\nThe process breaks into four steps:\n- **Observe**: a ball falls, light bounces, things move\n- **Ask why**: what makes the ball fall? what makes light bounce?\n- **Find the rule**: gravity, reflection, motion\n- **Apply the rule**: build stronger structures, faster vehicles, better technology {{viz:chart-01}}\n\nThat loop — observe, ask, understand, predict — is physics. {{viz:diagram-01}}",
     "keyPoints": [
       "Physics is just figuring out how and why things work",
       "Observe → Ask → Understand → Predict → Build",
@@ -13,7 +13,7 @@
       "Then it gets bigger: how do planets orbit? How do atoms work?",
       "Physics is everywhere: your phone, your food, your body {{viz:diagram-02}}"
     ],
-    "whyItMatters": "You interact with physics every second without thinking about it. When you jump, physics decides if you land safely or badly. When you see light, physics explains how it works. When your phone charges, physics makes it possible. Understanding physics = understanding your world."
+    "whyItMatters": "Physics is running in the background of everything you do. It decides how you land when you jump, how light reaches your eyes, how your phone charges. Understanding physics means understanding how the world around you actually works."
   },
   "availableLanguages": [
     "en"

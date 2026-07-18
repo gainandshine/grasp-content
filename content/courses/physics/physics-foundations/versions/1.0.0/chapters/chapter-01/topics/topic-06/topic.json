@@ -4,8 +4,8 @@
   "topicId": "physics.physics-foundations.chapter-01.topic-06",
   "description": "How we measure things accurately and what limits we have.",
   "content": {
-    "overview": "Everything in physics starts with observing and measuring. But measuring isn't as simple as it sounds. Every measurement has limits and errors. {{viz:diagram-01}}",
-    "explanation": "Observation: You watch what happens. A ball falls. Water freezes. Light reflects. That's observation.\n\nMeasurement: You put a number on it. The ball falls 10 meters. Water freezes at 0°C. Light bounces at a 45-degree angle. {{viz:diagram-02}}\n\nBut here's the thing: **No measurement is perfect.** {{viz:anim-01}}\n\nIf you measure the length of a table, you might get 1.50 meters. Is it exactly 1.50? Probably not. Maybe it's 1.5001 or 1.4999. But your ruler can only measure to the nearest centimeter, so you can't tell.\n\n**Accuracy vs Precision:**\n- **Accuracy**: How close to the true value? (Did you measure the real length?)\n- **Precision**: How exact is your measurement? (To how many decimal places?) {{viz:chart-01}}\n\nA bathroom scale might say you weigh 65.4 kg (precise!) but you actually weigh 65.37 kg (not accurate).\n\nThere are also limitations:\n- **Instrument limits**: Your ruler can't measure smaller than its smallest marking\n- **Human error**: You might read the scale wrong\n- **Environmental factors**: Temperature, vibrations, other stuff affects measurements\n- **Quantum effects**: At tiny scales, measurement itself changes what you're measuring (weird!)\n\nGood scientists know these limits and report them. They don't say \"the ball fell 10.000000 meters.\" They say \"the ball fell about 10 meters,\" acknowledging the uncertainty.",
+    "overview": "Physics starts with observation, then measurement. Every measurement carries limits and some amount of error — no measurement is ever perfectly exact. {{viz:diagram-01}}",
+    "explanation": "Observation and measurement are different things.\n\nObservation is just watching: a ball falls, water freezes, light bounces off a mirror. No numbers yet, just noticing.\n\nMeasurement puts a number on what's observed: the ball fell 10 meters, water froze at 0°C, light bounced at a 45-degree angle. {{viz:diagram-02}}\n\nNo measurement is ever perfectly exact. {{viz:anim-01}}\n\nMeasure a table and get 1.50 meters — is it exactly 1.50000...? Almost certainly not; it could really be 1.5001 or 1.4999. A ruler marked only to the nearest centimeter can't say more precisely than that.\n\n**Accuracy and precision are different:**\n- **Accuracy**: how close a measurement is to the true value\n- **Precision**: how many decimal places the measurement claims {{viz:chart-01}}\n\nA bathroom scale reading 65.4 kg looks precise, but if the true weight is 65.37 kg, the reading is precise without being fully accurate.\n\nSeveral things limit any measurement:\n- **Instrument limits**: a ruler can't measure smaller than its smallest marking\n- **Human error**: misreading a scale\n- **Environmental factors**: temperature and vibration affecting a reading\n- **Quantum effects**: at very small scales, the act of measuring changes the thing being measured\n\nGood scientists report this honestly. Instead of claiming a ball fell exactly 10.000000 meters, they report \"about 10 meters\" — an honest statement of uncertainty, not a weaker one.",
     "keyPoints": [
       "Observation = watching what happens",
       "Measurement = putting numbers on observations",
@@ -13,9 +13,9 @@
       "Accuracy = closeness to true value",
       "Precision = how exact the measurement is",
       "Always acknowledge measurement uncertainty",
-      "Know the limits of your tools"
+      "Know the limits of your tools before you trust their numbers"
     ],
-    "whyItMatters": "Physics is built on measurements. If you don't measure carefully, your conclusions are wrong. Understanding measurement uncertainty is crucial for doing real physics—in labs, in research, everywhere."
+    "whyItMatters": "A conclusion in physics is only as reliable as the measurements behind it. Careless measurement makes everything downstream — calculations, predictions, results — unreliable too. Accounting for measurement uncertainty is what separates real science from a guess."
   },
   "availableLanguages": [
     "en"

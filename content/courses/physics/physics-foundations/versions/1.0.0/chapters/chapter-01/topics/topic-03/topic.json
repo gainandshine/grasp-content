@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-01.topic-03",
   "description": "The systematic process scientists use to ask questions and find answers about nature.",
   "content": {
-    "overview": "The scientific method is just a smart way to figure stuff out. It's not complicated—you probably already do it without thinking. {{viz:diagram-01}}",
-    "explanation": "Okay, so what's the scientific method? It's basically: Question → Predict → Experiment → Analyze → Conclude. That's it.\n\nLet's say you're curious: \"Why do some things float and others sink?\" That's your question. {{viz:diagram-02}}\n\nThen you predict: \"Maybe it depends on weight?\" or \"Maybe it's about density?\" That's your hypothesis.\n\nThen you test it: You get different objects and see what floats. That's your experiment.\n\nThen you look at the results: What patterns do you see? Heavy things sink? Light things float? Does material matter? That's analyzing.\n\nFinally you conclude: \"It seems like density matters more than weight. Objects less dense than water float.\" That's your conclusion.\n\nBut here's the key: If your prediction was wrong, that's GOOD. You learned something! The scientific method isn't about being right the first time. It's about learning. {{viz:anim-01}}\n\nYou can test your conclusion with more experiments. Maybe you find exceptions. Maybe you refine your answer. That's how science works—you get closer and closer to understanding. {{viz:chart-01}}",
+    "overview": "A rock sinks. A wooden log floats. Working out why is the scientific method in action: notice something, guess a reason, test the guess, refine it. It's a formal process, but you already use a version of it constantly. {{viz:diagram-01}}",
+    "explanation": "The scientific method has five steps: Question, Predict, Experiment, Analyze, Conclude.\n\nTake the floating question: why do some things float and others sink? That's the question. {{viz:diagram-02}}\n\nNext, you propose an explanation: maybe it's about weight, or maybe it's about density. That's the hypothesis.\n\nThen you test it. Put different objects in water and record what happens. That's the experiment.\n\nAfter that, you study the results: do heavy things always sink? Does material matter more than weight? That's the analysis.\n\nFinally, you draw a conclusion: density matters more than weight — anything less dense than water floats.\n\nIf the first hypothesis turns out wrong, that's not a failure — it's information. The scientific method isn't about being right on the first attempt. It's a process for finding out what's actually true. {{viz:anim-01}}\n\nScience keeps repeating this loop: more experiments, more exceptions checked, a sharper answer each round. It's not one final truth arriving all at once — it's a gradual narrowing toward an accurate answer. {{viz:chart-01}}",
     "keyPoints": [
       "Question: Ask something about nature",
       "Predict: Make a hypothesis about the answer",
       "Experiment: Test your hypothesis with observation or controlled test",
       "Analyze: Look at the data and results",
       "Conclude: What did you learn? Was your prediction right?",
-      "Being wrong is not failure—it's learning"
+      "Being wrong isn't failure—it's how you learn something real"
     ],
-    "whyItMatters": "The scientific method is how we discover truth. It's not about opinions or guesses. It's about checking your ideas against reality. Every discovery in physics—from gravity to electricity to atoms—happened because someone used the scientific method."
+    "whyItMatters": "The scientific method is how every real discovery about the universe was made — not by debating opinions, but by checking ideas against reality and accepting when they're wrong. Gravity, electricity, atoms: all discovered by running this same loop."
   },
   "availableLanguages": [
     "en"

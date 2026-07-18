@@ -3,35 +3,55 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Physical Quantities Flowchart",
-      "description": "Flowchart showing Physical Quantities process",
+      "title": "What Makes a Physical Quantity",
+      "description": "A physical quantity always needs a number and a unit, and splits into scalars or vectors",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
           {
-            "id": "start",
-            "label": "Start",
+            "id": "number",
+            "label": "Number\n(how much)",
             "type": "ellipse"
           },
           {
-            "id": "process",
-            "label": "Physical Quantities",
+            "id": "unit",
+            "label": "Unit\n(meters, kg, seconds...)",
+            "type": "ellipse"
+          },
+          {
+            "id": "quantity",
+            "label": "Physical Quantity",
             "type": "rect"
           },
           {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
+            "id": "scalar",
+            "label": "Scalar\n(just a number: mass, time)",
+            "type": "rect"
+          },
+          {
+            "id": "vector",
+            "label": "Vector\n(number + direction: velocity, force)",
+            "type": "rect"
           }
         ],
         "edges": [
           {
-            "from": "start",
-            "to": "process"
+            "from": "number",
+            "to": "quantity"
           },
           {
-            "from": "process",
-            "to": "end"
+            "from": "unit",
+            "to": "quantity"
+          },
+          {
+            "from": "quantity",
+            "to": "scalar",
+            "label": "no direction"
+          },
+          {
+            "from": "quantity",
+            "to": "vector",
+            "label": "has direction"
           }
         ]
       }
@@ -39,14 +59,22 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Physical Quantities Formula",
-      "description": "Mathematical definition",
+      "title": "Vector Magnitude: Combining Its Components",
+      "description": "How a vector's size (magnitude) comes from its parts, showing why direction is baked into a vector",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "|\\vec{v}| = \\sqrt{v_x^2 + v_y^2}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "v_x, v_y = \\text{components along each axis}",
+            "explanation": "A vector like velocity can be split into how much it moves sideways (v_x) and how much up/down (v_y)."
+          },
+          {
+            "latex": "|\\vec{v}| = \\sqrt{v_x^2 + v_y^2}",
+            "explanation": "The magnitude (just a number, like the scalar 'speed') comes from combining the components with the Pythagorean theorem."
+          },
+          {
+            "latex": "\\theta = \\tan^{-1}\\left(\\frac{v_y}{v_x}\\right)",
+            "explanation": "The direction (angle) is the other piece that turns a plain number into a full vector."
           }
         ]
       }
@@ -54,88 +82,104 @@
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Physical Quantities 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "A Vector Has Direction",
+      "description": "An arrow spinning to show that a vector isn't just a size — it always points somewhere",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var dir = new api.THREE.Vector3(1, 0, 0);\n                var origin = new api.THREE.Vector3(0, 0, 0);\n                var arrow = new api.THREE.ArrowHelper(dir, origin, 1.4, 0xE8593C, 0.35, 0.2);\n                api.group.add(arrow);\n                return {\n                  update: function(t) {\n                    var angle = t * 0.015;\n                    var newDir = new api.THREE.Vector3(Math.cos(angle), Math.sin(angle * 0.6), Math.sin(angle));\n                    newDir.normalize();\n                    arrow.setDirection(newDir);\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Physical Quantities Animation",
-      "description": "Canvas animation",
+      "title": "Scalar vs Vector, Side by Side",
+      "description": "A speedometer (scalar: just a number) next to a compass arrow (vector: number and direction)",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n          draw: function(ctx, W, H, t, dt) {\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, W, H);\n\n            var speed = 40 + 20 * Math.sin(t * 0.03);\n\n            ctx.fillStyle = '#333';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('Scalar: speed (just a number)', 20, 25);\n            ctx.font = 'bold 22px Arial';\n            ctx.fillStyle = '#DC2626';\n            ctx.fillText(speed.toFixed(0) + ' km/h', 30, H / 2);\n\n            ctx.fillStyle = '#333';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('Vector: velocity (number + direction)', W / 2 + 10, 25);\n\n            var cx = W / 2 + 110;\n            var cy = H / 2 + 10;\n            var angle = t * 0.02;\n            var len = 50;\n            ctx.strokeStyle = '#3B82F6';\n            ctx.lineWidth = 3;\n            ctx.beginPath();\n            ctx.moveTo(cx, cy);\n            ctx.lineTo(cx + Math.cos(angle) * len, cy + Math.sin(angle) * len);\n            ctx.stroke();\n\n            var tipX = cx + Math.cos(angle) * len;\n            var tipY = cy + Math.sin(angle) * len;\n            ctx.beginPath();\n            ctx.moveTo(tipX, tipY);\n            ctx.lineTo(tipX - 10 * Math.cos(angle - 0.4), tipY - 10 * Math.sin(angle - 0.4));\n            ctx.lineTo(tipX - 10 * Math.cos(angle + 0.4), tipY - 10 * Math.sin(angle + 0.4));\n            ctx.closePath();\n            ctx.fillStyle = '#3B82F6';\n            ctx.fill();\n          }\n        };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Physical Quantities Chart",
-      "description": "Data visualization",
+      "title": "Constant Speed = Distance Growing Steadily",
+      "description": "At a constant scalar speed of 20 m/s, distance travelled grows in a straight line over time",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Time (s)",
+        "y_label": "Distance travelled (m)",
+        "data_json": "{\"fn\":\"20 * x\",\"x_min\":0,\"x_max\":10,\"samples\":100}"
       }
     },
     {
       "id": "text-01",
       "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
+      "title": "Number + Unit, Every Time",
+      "description": "A quick recap of physical quantities",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Physical Quantities.",
+        "body_markdown": "## Physical Quantities\\n\\nA physical quantity is anything you can measure, and it always needs two parts:\\n\\n- **Number** - how much (5, 2, 60...)\\n- **Unit** - in what (meters, kg, km/h...)\\n\\nThey split into two families:\\n\\n- **Scalars** - just a number: mass (10 kg), temperature (25 C), time (10 s)\\n- **Vectors** - a number AND a direction: velocity (10 m/s north), force (50 N upward)\\n\\n'100 N' and '100 N downward' are not the same statement - direction changes what the quantity actually means.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Physical Quantities Simulation",
-      "description": "Interactive simulation",
+      "title": "Build a Vector",
+      "description": "Drag the magnitude and angle sliders to see how a number and a direction together make a vector",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          {
+            "id": "magnitude",
+            "type": "slider",
+            "label": "Magnitude (speed, m/s)",
+            "default": 40,
+            "min": 5,
+            "max": 100,
+            "step": 1
+          },
+          {
+            "id": "angle",
+            "type": "slider",
+            "label": "Direction (degrees)",
+            "default": 45,
+            "min": 0,
+            "max": 360,
+            "step": 1
+          }
+        ],
+        "setup_code": "return {\n          draw: function(ctx, w, h) {\n            ctx.clearRect(0, 0, w, h);\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, w, h);\n\n            var mag = (state.magnitude !== undefined) ? state.magnitude : 40;\n            var angleDeg = (state.angle !== undefined) ? state.angle : 45;\n            var angleRad = angleDeg * Math.PI / 180;\n\n            var cx = w / 2;\n            var cy = h / 2;\n            var pxLen = 30 + mag * 1.2;\n\n            ctx.strokeStyle = '#E5E7EB';\n            ctx.lineWidth = 1;\n            ctx.beginPath();\n            ctx.moveTo(0, cy);\n            ctx.lineTo(w, cy);\n            ctx.moveTo(cx, 0);\n            ctx.lineTo(cx, h);\n            ctx.stroke();\n\n            var tipX = cx + Math.cos(angleRad) * pxLen;\n            var tipY = cy - Math.sin(angleRad) * pxLen;\n\n            ctx.strokeStyle = '#3B82F6';\n            ctx.lineWidth = 3;\n            ctx.beginPath();\n            ctx.moveTo(cx, cy);\n            ctx.lineTo(tipX, tipY);\n            ctx.stroke();\n\n            ctx.fillStyle = '#3B82F6';\n            ctx.beginPath();\n            ctx.moveTo(tipX, tipY);\n            ctx.lineTo(tipX - 12 * Math.cos(angleRad - 0.4), tipY + 12 * Math.sin(angleRad - 0.4));\n            ctx.lineTo(tipX - 12 * Math.cos(angleRad + 0.4), tipY + 12 * Math.sin(angleRad + 0.4));\n            ctx.closePath();\n            ctx.fill();\n\n            ctx.fillStyle = '#111827';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('Vector: ' + mag.toFixed(0) + ' m/s at ' + angleDeg.toFixed(0) + ' degrees', 12, 22);\n          },\n          onControlChange: function(id, val) {\n            state[id] = val;\n          },\n          init: function() {\n            state.magnitude = 40;\n            state.angle = 45;\n          }\n        };"
       }
     },
     {
       "id": "diagram-02",
       "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "title": "Scalars and Vectors: Concept Map",
+      "description": "Examples of each family of physical quantity",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
           {
             "id": "center",
-            "label": "Physical Quantities",
+            "label": "Physical Quantity",
             "type": "circle"
           },
           {
-            "id": "prop1",
-            "label": "Property 1",
+            "id": "scalar",
+            "label": "Scalar\nmass, time, temperature",
             "type": "rect"
           },
           {
-            "id": "prop2",
-            "label": "Property 2",
+            "id": "vector",
+            "label": "Vector\nvelocity, force, acceleration",
             "type": "rect"
           }
         ],
         "edges": [
           {
             "from": "center",
-            "to": "prop1"
+            "to": "scalar"
           },
           {
             "from": "center",
-            "to": "prop2"
+            "to": "vector"
           }
         ]
       }

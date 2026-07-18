@@ -147,13 +147,13 @@
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Which Branch Handles What?",
-      "description": "Temperature ranges for different branches of physics",
+      "title": "Which Branch Handles What Size of Thing?",
+      "description": "Roughly what length scale (in meters, log scale) each branch of physics typically deals with",
       "spec": {
         "chart_type": "function",
-        "x_label": "Temperature (Kelvin)",
-        "y_label": "Branch of Physics",
-        "data_json": "{\"type\":\"categorical\",\"data\":[{\"name\":\"Classical Mechanics\",\"value\":300},{\"name\":\"Thermodynamics\",\"value\":350},{\"name\":\"Electricity & Magnetism\",\"value\":300},{\"name\":\"Waves & Optics\",\"value\":300},{\"name\":\"Quantum Mechanics\",\"value\":50},{\"name\":\"Modern Physics\",\"value\":10000000}]}"
+        "x_label": "Branch of Physics",
+        "y_label": "Typical size scale (log10 meters)",
+        "data_json": "{\"type\":\"categorical\",\"data\":[{\"name\":\"Quantum Mechanics\",\"value\":-15},{\"name\":\"Electricity & Magnetism\",\"value\":-9},{\"name\":\"Waves & Optics\",\"value\":-6},{\"name\":\"Classical Mechanics\",\"value\":0},{\"name\":\"Thermodynamics\",\"value\":0},{\"name\":\"Modern Physics\",\"value\":21}]}"
       }
     }
   ]

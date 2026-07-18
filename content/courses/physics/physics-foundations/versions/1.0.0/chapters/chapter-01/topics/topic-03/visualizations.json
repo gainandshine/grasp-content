@@ -3,35 +3,62 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Scientific Method Flowchart",
-      "description": "Flowchart showing Scientific Method process",
+      "title": "The Scientific Method, Step by Step",
+      "description": "Flowchart of the question-hypothesis-experiment-conclusion loop",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
           {
-            "id": "start",
-            "label": "Start",
+            "id": "question",
+            "label": "Question\n(Why do things float or sink?)",
             "type": "ellipse"
           },
           {
-            "id": "process",
-            "label": "Scientific Method",
+            "id": "hypothesis",
+            "label": "Hypothesis\n(Maybe it's about density?)",
             "type": "rect"
           },
           {
-            "id": "end",
-            "label": "End",
+            "id": "experiment",
+            "label": "Experiment\n(Test different objects in water)",
+            "type": "rect"
+          },
+          {
+            "id": "analyze",
+            "label": "Analyze\n(Look for patterns in results)",
+            "type": "rect"
+          },
+          {
+            "id": "conclude",
+            "label": "Conclude\n(Density decides floating)",
             "type": "ellipse"
           }
         ],
         "edges": [
           {
-            "from": "start",
-            "to": "process"
+            "from": "question",
+            "to": "hypothesis",
+            "label": "predict"
           },
           {
-            "from": "process",
-            "to": "end"
+            "from": "hypothesis",
+            "to": "experiment",
+            "label": "test it"
+          },
+          {
+            "from": "experiment",
+            "to": "analyze",
+            "label": "collect data"
+          },
+          {
+            "from": "analyze",
+            "to": "conclude",
+            "label": "find the pattern"
+          },
+          {
+            "from": "conclude",
+            "to": "hypothesis",
+            "label": "wrong? try again"
           }
         ]
       }
@@ -39,14 +66,22 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Scientific Method Formula",
-      "description": "Mathematical definition",
+      "title": "Density: The Rule Behind Floating and Sinking",
+      "description": "The hypothesis from the floating/sinking example, written as a formula",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\rho = \\frac{m}{V}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\rho = \\text{density}, \\; m = \\text{mass}, \\; V = \\text{volume}",
+            "explanation": "Density is just how much mass is packed into a given volume."
+          },
+          {
+            "latex": "\\rho_{object} < \\rho_{fluid} \\Rightarrow \\text{floats}",
+            "explanation": "If the object is less dense than the fluid it's in, it floats. This is the conclusion the experiment supports."
+          },
+          {
+            "latex": "\\rho_{object} > \\rho_{fluid} \\Rightarrow \\text{sinks}",
+            "explanation": "If it's denser than the fluid, it sinks. Weight alone doesn't decide it — density does."
           }
         ]
       }
@@ -54,61 +89,68 @@
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Scientific Method 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "Testing an Object (The Experiment Step)",
+      "description": "A spinning test object, like the one you'd drop in water during an experiment",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var geometry = new api.THREE.SphereGeometry(0.8, 24, 24);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var testObject = new api.THREE.Mesh(geometry, material);\n                api.group.add(testObject);\n                return {\n                  update: function(t) {\n                    testObject.rotation.y = t * 0.02;\n                    testObject.rotation.x = Math.sin(t * 0.01) * 0.3;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Scientific Method Animation",
-      "description": "Canvas animation",
+      "title": "Density Decides: Float or Sink",
+      "description": "Two objects of different density dropped in water — the low-density one floats, the high-density one sinks",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n          draw: function(ctx, W, H, t, dt) {\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, W, H);\n\n            var waterLevel = H * 0.5;\n            ctx.fillStyle = 'rgba(59, 130, 246, 0.25)';\n            ctx.fillRect(0, waterLevel, W, H - waterLevel);\n            ctx.strokeStyle = '#3B82F6';\n            ctx.lineWidth = 2;\n            ctx.beginPath();\n            ctx.moveTo(0, waterLevel);\n            ctx.lineTo(W, waterLevel);\n            ctx.stroke();\n\n            var settleTime = 3;\n            var progress = Math.min(t / settleTime, 1);\n\n            // Low-density object: sinks a little, then floats just under the surface\n            var floatStartY = 40;\n            var floatRestY = waterLevel - 15;\n            var floatY = floatStartY + (floatRestY - floatStartY) * progress;\n            ctx.fillStyle = '#F59E0B';\n            ctx.beginPath();\n            ctx.arc(W * 0.32, floatY, 16, 0, Math.PI * 2);\n            ctx.fill();\n            ctx.fillStyle = '#333';\n            ctx.font = '12px Arial';\n            ctx.fillText('low density: floats', W * 0.32 - 55, floatRestY + 40);\n\n            // High-density object: sinks all the way to the bottom\n            var sinkStartY = 40;\n            var sinkRestY = H - 30;\n            var sinkY = sinkStartY + (sinkRestY - sinkStartY) * progress;\n            ctx.fillStyle = '#374151';\n            ctx.beginPath();\n            ctx.arc(W * 0.68, sinkY, 16, 0, Math.PI * 2);\n            ctx.fill();\n            ctx.fillStyle = '#333';\n            ctx.fillText('high density: sinks', W * 0.68 - 55, sinkRestY + 20);\n\n            ctx.fillStyle = '#333';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('Same size, different density -> different result', 20, 25);\n          }\n        };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Scientific Method Chart",
-      "description": "Data visualization",
+      "title": "More Experiments, More Confidence",
+      "description": "Confidence in your conclusion rises quickly at first, then levels off the more experiments you run",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Number of experiments run",
+        "y_label": "Confidence in the conclusion",
+        "data_json": "{\"fn\":\"1 - Math.exp(-x / 2)\",\"x_min\":0,\"x_max\":10,\"samples\":100}"
       }
     },
     {
       "id": "text-01",
       "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
+      "title": "The Loop in Plain Words",
+      "description": "A quick recap of the scientific method loop",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Scientific Method.",
+        "body_markdown": "## The Scientific Method\\n\\nIt's a loop, not a straight line:\\n\\n1. **Question** - something you're curious about (why do things float?)\\n2. **Hypothesis** - your best guess at the answer (maybe it's density?)\\n3. **Experiment** - test the guess with real objects and real observations\\n4. **Analyze** - look at what actually happened, find the pattern\\n5. **Conclude** - state what you learned, even if it means your first guess was wrong\\n\\nIf the hypothesis turns out wrong, that's not a failure - it's the loop working. You go back, adjust the hypothesis, and test again. That's how every idea in physics got refined, from gravity to atoms.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Scientific Method Simulation",
-      "description": "Interactive simulation",
+      "title": "Float or Sink Lab",
+      "description": "Drag the density slider and watch whether the test object floats or sinks in water",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          {
+            "id": "density",
+            "type": "slider",
+            "label": "Object density (g/cm3, water = 1.0)",
+            "default": 0.8,
+            "min": 0.1,
+            "max": 2,
+            "step": 0.05
+          }
+        ],
+        "setup_code": "return {\n          draw: function(ctx, w, h) {\n            ctx.clearRect(0, 0, w, h);\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, w, h);\n\n            var waterLevel = h * 0.45;\n            ctx.fillStyle = 'rgba(59, 130, 246, 0.25)';\n            ctx.fillRect(0, waterLevel, w, h - waterLevel);\n            ctx.strokeStyle = '#3B82F6';\n            ctx.lineWidth = 2;\n            ctx.beginPath();\n            ctx.moveTo(0, waterLevel);\n            ctx.lineTo(w, waterLevel);\n            ctx.stroke();\n\n            var density = (state.density !== undefined) ? state.density : 0.8;\n            var floats = density < 1.0;\n            var submergedFraction = Math.min(Math.max(density, 0), 1);\n\n            var ballRadius = 22;\n            var ballY;\n            if (floats) {\n              ballY = waterLevel - ballRadius * (1 - submergedFraction * 2);\n            } else {\n              ballY = h - ballRadius - 20;\n            }\n            ballY = Math.max(ballRadius + 10, Math.min(h - ballRadius - 10, ballY));\n\n            ctx.fillStyle = floats ? '#F59E0B' : '#374151';\n            ctx.beginPath();\n            ctx.arc(w / 2, ballY, ballRadius, 0, Math.PI * 2);\n            ctx.fill();\n\n            ctx.fillStyle = '#111827';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('Density: ' + density.toFixed(2) + ' g/cm3 (water = 1.00)', 12, 22);\n            ctx.font = '12px Arial';\n            ctx.fillText(floats ? 'Result: FLOATS (less dense than water)' : 'Result: SINKS (denser than water)', 12, 40);\n          },\n          onControlChange: function(id, val) {\n            state.density = val;\n          },\n          init: function() {\n            state.density = 0.8;\n          }\n        };"
       }
     },
     {
       "id": "diagram-02",
       "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "title": "Being Wrong Is Part of the Process",
+      "description": "How a rejected hypothesis feeds back into a better one",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
@@ -118,24 +160,24 @@
             "type": "circle"
           },
           {
-            "id": "prop1",
-            "label": "Property 1",
+            "id": "right",
+            "label": "Hypothesis matches data\n-> keep it, test more",
             "type": "rect"
           },
           {
-            "id": "prop2",
-            "label": "Property 2",
+            "id": "wrong",
+            "label": "Hypothesis doesn't match\n-> that's data too, revise it",
             "type": "rect"
           }
         ],
         "edges": [
           {
             "from": "center",
-            "to": "prop1"
+            "to": "right"
           },
           {
             "from": "center",
-            "to": "prop2"
+            "to": "wrong"
           }
         ]
       }

@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-01.topic-05",
   "description": "Simplified versions of reality that help us understand how things work.",
   "content": {
-    "overview": "A model in physics is a simplified version of reality. It's not 100% accurate, but it's good enough to help us understand and predict. {{viz:diagram-01}}",
-    "explanation": "Think about a globe. It's a model of Earth. Is it accurate? Kind of. The sizes are wrong, the details are missing, but it helps you understand how Earth is shaped.\n\nPhysics does the same thing. We make models that are simple enough to understand but accurate enough to work. {{viz:diagram-02}}\n\nFor example:\n- **Atoms as little balls** - Not actually accurate (they're quantum!), but it helps you visualize atoms\n- **Light as rays** - Simplification (light is actually a wave), but it works for most situations {{viz:anim-01}}\n- **A ball is a point** - You ignore the ball's shape and size and just treat it as a point moving through space. This is WAY simpler and usually works fine {{viz:chart-01}}\n\nWhy make models? Because reality is too complicated! If you try to calculate everything perfectly, it's impossible. But if you simplify (make assumptions), suddenly you can solve it.\n\nThe key is knowing:\n1. What the model gets right\n2. What the model ignores\n3. When the model breaks down\n\nFor instance, treating a ball as a point works great for predicting where it lands. But if you need to know how fast it's spinning, you can't ignore the size—the model breaks down.",
+    "overview": "A globe gets Earth's shape across well, even though it's missing most details and its proportions are slightly off. That's what a model is in physics: a simplified stand-in for reality, not fully accurate, but accurate enough to understand and predict things. {{viz:diagram-01}}",
+    "explanation": "A globe isn't fully accurate — sizes are off, details are missing — but it captures the big picture: Earth's overall shape.\n\nPhysics uses the same approach. Models are built simple enough to understand, but accurate enough to be useful. {{viz:diagram-02}}\n\nCommon examples:\n- **Atoms as tiny balls** — not literally true (atoms behave in quantum, non-intuitive ways), but the ball picture makes the idea easy to hold onto.\n- **Light as straight rays** — light is actually a wave, but treating it as a straight ray works for mirrors, lenses, and most everyday cases. {{viz:anim-01}}\n- **An object as a single point** — ignore its shape and size, treat it as one moving dot. Much simpler, and it still gives the correct answer for most questions. {{viz:chart-01}}\n\nModels exist because exact reality is too complex to calculate directly. Accounting for every detail makes a problem unsolvable. Simplifying with reasonable assumptions makes it solvable.\n\nThe skill is knowing three things:\n1. What the model gets right\n2. What it deliberately ignores\n3. When it stops being valid\n\nTreating a ball as a point works for predicting where it lands. It stops working the moment the question is about spin — then size and shape matter again, and a better model is needed.",
     "keyPoints": [
       "Models are simplified versions of reality",
       "They help us understand and predict",
       "No model is 100% perfect",
       "Good models are simple but still accurate for what matters",
       "You need to know when a model stops working",
-      "Different situations need different models"
+      "Different situations call for different models"
     ],
-    "whyItMatters": "Physics isn't about perfect accuracy—it's about useful understanding. Models let us handle complexity by focusing on what matters. Understanding which model to use when is a key skill in physics."
+    "whyItMatters": "Physics aims for useful understanding, not perfect accuracy. Models cut through unnecessary complexity and isolate what matters for a given question. Knowing which model to use, and when to replace it with a better one, is one of the core skills in physics."
   },
   "availableLanguages": [
     "en"

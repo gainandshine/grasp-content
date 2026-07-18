@@ -3,35 +3,53 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Measurement & Observation Flowchart",
-      "description": "Flowchart showing Measurement & Observation process",
+      "title": "From Watching to Reporting a Number",
+      "description": "How an observation turns into a measurement, and why uncertainty always tags along",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
           {
-            "id": "start",
-            "label": "Start",
+            "id": "observe",
+            "label": "Observe\n(the ball falls)",
             "type": "ellipse"
           },
           {
-            "id": "process",
-            "label": "Measurement & Observation",
+            "id": "instrument",
+            "label": "Use an Instrument\n(ruler, stopwatch, scale)",
             "type": "rect"
           },
           {
-            "id": "end",
-            "label": "End",
+            "id": "number",
+            "label": "Number + Unit\n(1.50 m)",
+            "type": "rect"
+          },
+          {
+            "id": "uncertainty",
+            "label": "Uncertainty\n(instrument limit, human error...)",
+            "type": "rect"
+          },
+          {
+            "id": "report",
+            "label": "Report: 1.50 m \\u00b1 0.01 m",
             "type": "ellipse"
           }
         ],
         "edges": [
           {
-            "from": "start",
-            "to": "process"
+            "from": "observe",
+            "to": "instrument"
           },
           {
-            "from": "process",
-            "to": "end"
+            "from": "instrument",
+            "to": "number"
+          },
+          {
+            "from": "number",
+            "to": "uncertainty"
+          },
+          {
+            "from": "uncertainty",
+            "to": "report"
           }
         ]
       }
@@ -39,14 +57,18 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Measurement & Observation Formula",
-      "description": "Mathematical definition",
+      "title": "Reporting a Measurement Honestly",
+      "description": "Every measurement should carry its uncertainty, and error is measured relative to the true value",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{measurement} = \\bar{x} \\pm \\Delta x",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\bar{x} = \\text{your best-estimate value}, \\; \\Delta x = \\text{uncertainty}",
+            "explanation": "A good measurement isn't just a number - it's a number plus how sure you are of it."
+          },
+          {
+            "latex": "\\%\\,\\text{error} = \\frac{|\\text{measured} - \\text{true}|}{\\text{true}} \\times 100",
+            "explanation": "This tells you how far off (accuracy), as a percentage of the true value."
           }
         ]
       }
@@ -54,88 +76,113 @@
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Measurement & Observation 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "A Measuring Instrument",
+      "description": "A simple ruler-shaped instrument, rotating so you can see it's a physical tool with a fixed smallest marking",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var geometry = new api.THREE.BoxGeometry(2.2, 0.15, 0.05);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var ruler = new api.THREE.Mesh(geometry, material);\n                api.group.add(ruler);\n                return {\n                  update: function(t) {\n                    ruler.rotation.z = t * 0.015;\n                    ruler.rotation.x = 0.3;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Measurement & Observation Animation",
-      "description": "Canvas animation",
+      "title": "Accuracy vs. Precision",
+      "description": "Repeated measurements scatter near a target: tight and centered is both accurate and precise; tight but off-center is precise but not accurate",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n          draw: function(ctx, W, H, t, dt) {\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, W, H);\n\n            var count = Math.min(Math.floor(t / 8), 12);\n\n            function drawTarget(cx, cy, label) {\n              ctx.strokeStyle = '#9CA3AF';\n              ctx.lineWidth = 1;\n              [50, 33, 16].forEach(function(r) {\n                ctx.beginPath();\n                ctx.arc(cx, cy, r, 0, Math.PI * 2);\n                ctx.stroke();\n              });\n              ctx.fillStyle = '#333';\n              ctx.font = '12px Arial';\n              ctx.fillText(label, cx - 60, cy + 70);\n            }\n\n            var leftCx = W * 0.28, leftCy = H / 2 - 10;\n            var rightCx = W * 0.72, rightCy = H / 2 - 10;\n            drawTarget(leftCx, leftCy, 'Accurate & precise');\n            drawTarget(rightCx, rightCy, 'Precise, not accurate');\n\n            function seededRand(i, salt) {\n              var x = Math.sin(i * 12.9898 + salt) * 43758.5453;\n              return x - Math.floor(x);\n            }\n\n            ctx.fillStyle = '#DC2626';\n            for (var i = 0; i < count; i++) {\n              var r1 = seededRand(i, 1) * 8;\n              var a1 = seededRand(i, 2) * Math.PI * 2;\n              ctx.beginPath();\n              ctx.arc(leftCx + Math.cos(a1) * r1, leftCy + Math.sin(a1) * r1, 3, 0, Math.PI * 2);\n              ctx.fill();\n\n              var r2 = seededRand(i, 3) * 6;\n              var a2 = seededRand(i, 4) * Math.PI * 2;\n              ctx.beginPath();\n              ctx.arc(rightCx + 32 + Math.cos(a2) * r2, rightCy - 28 + Math.sin(a2) * r2, 3, 0, Math.PI * 2);\n              ctx.fill();\n            }\n\n            ctx.fillStyle = '#333';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('Same tight cluster (precision) can still miss the true value (accuracy)', 12, 25);\n          }\n        };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Measurement & Observation Chart",
-      "description": "Data visualization",
+      "title": "Repeated Measurements Converge",
+      "description": "Averaging more trials pulls your measured value closer to the true value of 10 m",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Number of trials averaged",
+        "y_label": "Measured average length (m)",
+        "data_json": "{\"fn\":\"10 + 2 * Math.exp(-x)\",\"x_min\":0,\"x_max\":8,\"samples\":100}"
       }
     },
     {
       "id": "text-01",
       "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
+      "title": "No Measurement Is Perfect",
+      "description": "A quick recap of measurement, accuracy, and precision",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Measurement & Observation.",
+        "body_markdown": "## Measurement & Observation\\n\\n**Observation** is watching what happens. **Measurement** is putting a number on it.\\n\\nNo measurement is perfect:\\n\\n- **Accuracy** - how close you are to the true value\\n- **Precision** - how exact (how many decimal places) your measurement is\\n\\nA scale can be precise (65.4 kg) without being accurate (if you actually weigh 65.37 kg... or 68 kg).\\n\\nLimits to watch for: instrument limits (your ruler's smallest marking), human error (misreading a scale), environmental factors (temperature, vibration), and at tiny scales, the act of measuring can change what you're measuring.\\n\\nGood scientists always report the uncertainty, not just the number.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Measurement & Observation Simulation",
-      "description": "Interactive simulation",
+      "title": "Instrument Precision Lab",
+      "description": "A true length of 10.00 m is being measured with a ruler of adjustable precision - see how the reading rounds off",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          {
+            "id": "tickSize",
+            "type": "slider",
+            "label": "Smallest ruler marking (m)",
+            "default": 0.1,
+            "min": 0.01,
+            "max": 1,
+            "step": 0.01
+          }
+        ],
+        "setup_code": "return {\n          draw: function(ctx, w, h) {\n            ctx.clearRect(0, 0, w, h);\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, w, h);\n\n            var trueLength = 10.0;\n            var tick = (state.tickSize !== undefined) ? state.tickSize : 0.1;\n            var reading = Math.round(trueLength / tick) * tick;\n\n            var barX = 40, barY = h / 2, barW = w - 80;\n            ctx.strokeStyle = '#111827';\n            ctx.lineWidth = 3;\n            ctx.beginPath();\n            ctx.moveTo(barX, barY);\n            ctx.lineTo(barX + barW, barY);\n            ctx.stroke();\n\n            var numTicks = Math.min(Math.floor(trueLength / tick), 200);\n            ctx.strokeStyle = '#6B7280';\n            ctx.lineWidth = 1;\n            for (var i = 0; i <= numTicks; i++) {\n              var x = barX + (i * tick / trueLength) * barW;\n              ctx.beginPath();\n              ctx.moveTo(x, barY - 8);\n              ctx.lineTo(x, barY + 8);\n              ctx.stroke();\n            }\n\n            ctx.fillStyle = '#111827';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('True length: ' + trueLength.toFixed(2) + ' m', 40, 30);\n            ctx.fillText('Ruler reads (nearest ' + tick.toFixed(2) + ' m): ' + reading.toFixed(2) + ' m', 40, 52);\n          },\n          onControlChange: function(id, val) {\n            state[id] = val;\n          },\n          init: function() {\n            state.tickSize = 0.1;\n          }\n        };"
       }
     },
     {
       "id": "diagram-02",
       "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "title": "What Limits a Measurement",
+      "description": "The main sources of measurement uncertainty",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
           {
             "id": "center",
-            "label": "Measurement & Observation",
+            "label": "Measurement Limits",
             "type": "circle"
           },
           {
-            "id": "prop1",
-            "label": "Property 1",
+            "id": "instrument",
+            "label": "Instrument limits\n(smallest marking on the ruler)",
             "type": "rect"
           },
           {
-            "id": "prop2",
-            "label": "Property 2",
+            "id": "human",
+            "label": "Human error\n(misreading the scale)",
+            "type": "rect"
+          },
+          {
+            "id": "environment",
+            "label": "Environmental factors\n(temperature, vibration)",
+            "type": "rect"
+          },
+          {
+            "id": "quantum",
+            "label": "Quantum effects\n(measuring changes tiny things)",
             "type": "rect"
           }
         ],
         "edges": [
           {
             "from": "center",
-            "to": "prop1"
+            "to": "instrument"
           },
           {
             "from": "center",
-            "to": "prop2"
+            "to": "human"
+          },
+          {
+            "from": "center",
+            "to": "environment"
+          },
+          {
+            "from": "center",
+            "to": "quantum"
           }
         ]
       }

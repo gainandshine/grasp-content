@@ -3,35 +3,59 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Models in Physics Flowchart",
-      "description": "Flowchart showing Models in Physics process",
+      "title": "How a Model Gets Made",
+      "description": "Reality is simplified with assumptions into a model, which predicts things until it breaks down",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
           {
-            "id": "start",
-            "label": "Start",
+            "id": "reality",
+            "label": "Messy Reality\n(too complex to calculate exactly)",
             "type": "ellipse"
           },
           {
-            "id": "process",
-            "label": "Models in Physics",
+            "id": "simplify",
+            "label": "Simplify\n(ignore what doesn't matter)",
             "type": "rect"
           },
           {
-            "id": "end",
-            "label": "End",
+            "id": "model",
+            "label": "Model",
+            "type": "rect"
+          },
+          {
+            "id": "predict",
+            "label": "Useful Predictions",
+            "type": "rect"
+          },
+          {
+            "id": "breaks",
+            "label": "Model Breaks Down\n(refine or pick a better model)",
             "type": "ellipse"
           }
         ],
         "edges": [
           {
-            "from": "start",
-            "to": "process"
+            "from": "reality",
+            "to": "simplify"
           },
           {
-            "from": "process",
-            "to": "end"
+            "from": "simplify",
+            "to": "model"
+          },
+          {
+            "from": "model",
+            "to": "predict"
+          },
+          {
+            "from": "predict",
+            "to": "breaks",
+            "label": "when assumptions stop holding"
+          },
+          {
+            "from": "breaks",
+            "to": "simplify",
+            "label": "simplify differently"
           }
         ]
       }
@@ -39,14 +63,22 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Models in Physics Formula",
-      "description": "Mathematical definition",
+      "title": "The Point-Mass Model",
+      "description": "Newton's second law already assumes a model: treat the object as a single point",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "F = ma",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "F = \\text{net force}, \\; m = \\text{mass}, \\; a = \\text{acceleration}",
+            "explanation": "This formula predicts how an object accelerates - but only after you've simplified it."
+          },
+          {
+            "latex": "\\text{object} \\to \\text{point}",
+            "explanation": "F = ma treats the whole object as a single point with no size or shape. That's the model. It ignores spin, wobble, and air resistance."
+          },
+          {
+            "latex": "\\text{model breaks when...}",
+            "explanation": "You need spin (a ball's curveball), or the object is too light and air resistance dominates (a feather). Then the point-mass model isn't good enough."
           }
         ]
       }
@@ -54,61 +86,65 @@
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Models in Physics 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "Real Object vs. Its Model",
+      "description": "A detailed sphere (the real ball) shrinking down to a point (the model physicists actually calculate with)",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var ballGeometry = new api.THREE.SphereGeometry(1, 24, 24);\n                var ballMaterial = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var ball = new api.THREE.Mesh(ballGeometry, ballMaterial);\n                api.group.add(ball);\n                return {\n                  update: function(t) {\n                    var cycle = (t * 0.01) % (2 * Math.PI);\n                    var scale = 0.25 + 0.75 * (0.5 + 0.5 * Math.cos(cycle));\n                    ball.scale.set(scale, scale, scale);\n                    ball.rotation.y = t * 0.02;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Models in Physics Animation",
-      "description": "Canvas animation",
+      "title": "Real Ball vs. Point-Mass Model",
+      "description": "The real ball spins and wobbles as it falls; the point-mass model just falls straight down under gravity",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n          draw: function(ctx, W, H, t, dt) {\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, W, H);\n\n            var g = 9.8;\n            var time = (t * 0.05) % 4;\n            var y = 40 + 0.5 * g * time * time * 8;\n            y = Math.min(y, H - 40);\n\n            ctx.fillStyle = '#333';\n            ctx.font = 'bold 13px Arial';\n            ctx.fillText('Real ball (spins, has size)', 20, 25);\n            ctx.fillText('Point-mass model (just falls)', W / 2 + 20, 25);\n\n            // Real ball: spins visibly, has a seam so you can see rotation\n            var rx = W * 0.28;\n            ctx.save();\n            ctx.translate(rx, y);\n            ctx.rotate(t * 0.05);\n            ctx.fillStyle = '#DC2626';\n            ctx.beginPath();\n            ctx.arc(0, 0, 18, 0, Math.PI * 2);\n            ctx.fill();\n            ctx.strokeStyle = '#7F1D1D';\n            ctx.lineWidth = 2;\n            ctx.beginPath();\n            ctx.moveTo(-18, 0);\n            ctx.lineTo(18, 0);\n            ctx.stroke();\n            ctx.restore();\n\n            // Model: a plain point/dot, no rotation, no size\n            var px = W * 0.72;\n            ctx.fillStyle = '#111827';\n            ctx.beginPath();\n            ctx.arc(px, y, 5, 0, Math.PI * 2);\n            ctx.fill();\n\n            ctx.fillStyle = '#666';\n            ctx.font = '12px Arial';\n            ctx.fillText('y = \\u00bd g t\\u00b2 predicts both just fine', 20, H - 15);\n          }\n        };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Models in Physics Chart",
-      "description": "Data visualization",
+      "title": "What the Point-Mass Model Predicts",
+      "description": "Height above the ground over time for an object dropped from 20 m, using the simple point-mass falling model",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Time (s)",
+        "y_label": "Height above ground (m)",
+        "data_json": "{\"fn\":\"Math.max(20 - 4.9 * x * x, 0)\",\"x_min\":0,\"x_max\":2,\"samples\":100}"
       }
     },
     {
       "id": "text-01",
       "type": "2d-text",
-      "title": "Theoretical Background",
-      "description": "Detailed text explanation",
+      "title": "Models Are Useful Lies",
+      "description": "A quick recap of why physics uses models",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Models in Physics.",
+        "body_markdown": "## Models in Physics\\n\\nA model is a simplified version of reality. Not perfectly accurate, but accurate enough to be useful.\\n\\nSome everyday examples:\\n\\n- **Atoms as little balls** - not really true (they're quantum), but great for visualizing\\n- **Light as a ray (straight line)** - light is really a wave, but rays work fine for mirrors and lenses\\n- **A ball as a point** - ignore its size and shape, and F = ma still tells you exactly where it lands\\n\\nThe skill isn't memorizing models - it's knowing what each one gets right, what it ignores, and when it stops working.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Models in Physics Simulation",
-      "description": "Interactive simulation",
+      "title": "Model vs. Reality",
+      "description": "Toggle between the real object and its simplified point-mass model while it falls",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          {
+            "id": "showModel",
+            "type": "toggle",
+            "label": "Show point-mass model instead of real object",
+            "default": false
+          }
+        ],
+        "setup_code": "return {\n          draw: function(ctx, w, h) {\n            ctx.clearRect(0, 0, w, h);\n            ctx.fillStyle = '#F5F0E8';\n            ctx.fillRect(0, 0, w, h);\n\n            var g = 9.8;\n            var time = state.time || 0;\n            var y = 30 + 0.5 * g * time * time * 6;\n            if (y > h - 40) { time = 0; y = 30; }\n            state.time = time + 0.03;\n\n            var showModel = !!state.showModel;\n            var cx = w / 2;\n\n            if (showModel) {\n              ctx.fillStyle = '#111827';\n              ctx.beginPath();\n              ctx.arc(cx, y, 4, 0, Math.PI * 2);\n              ctx.fill();\n              ctx.font = 'bold 13px Arial';\n              ctx.fillText('Point-mass model: just F = ma, no size or spin', 12, 22);\n            } else {\n              ctx.save();\n              ctx.translate(cx, y);\n              ctx.rotate(time * 4);\n              ctx.fillStyle = '#DC2626';\n              ctx.beginPath();\n              ctx.arc(0, 0, 20, 0, Math.PI * 2);\n              ctx.fill();\n              ctx.strokeStyle = '#7F1D1D';\n              ctx.lineWidth = 2;\n              ctx.beginPath();\n              ctx.moveTo(-20, 0);\n              ctx.lineTo(20, 0);\n              ctx.stroke();\n              ctx.restore();\n              ctx.fillStyle = '#111827';\n              ctx.font = 'bold 13px Arial';\n              ctx.fillText('Real ball: has size, spins, feels air resistance', 12, 22);\n            }\n          },\n          onControlChange: function(id, val) {\n            state[id] = val;\n          },\n          init: function() {\n            state.time = 0;\n            state.showModel = false;\n          }\n        };"
       }
     },
     {
       "id": "diagram-02",
       "type": "diagram",
-      "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "title": "Common Models Physics Uses",
+      "description": "A few of the everyday simplifications physics leans on",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
@@ -118,24 +154,33 @@
             "type": "circle"
           },
           {
-            "id": "prop1",
-            "label": "Property 1",
+            "id": "atom",
+            "label": "Atom as a little ball\n(ignores quantum weirdness)",
             "type": "rect"
           },
           {
-            "id": "prop2",
-            "label": "Property 2",
+            "id": "light",
+            "label": "Light as a ray\n(ignores wave behavior)",
+            "type": "rect"
+          },
+          {
+            "id": "point",
+            "label": "Ball as a point\n(ignores size and spin)",
             "type": "rect"
           }
         ],
         "edges": [
           {
             "from": "center",
-            "to": "prop1"
+            "to": "atom"
           },
           {
             "from": "center",
-            "to": "prop2"
+            "to": "light"
+          },
+          {
+            "from": "center",
+            "to": "point"
           }
         ]
       }
