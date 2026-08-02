@@ -107,14 +107,14 @@ final response = await http.get(
 <!-- STATS_START -->
 | Content Type | Count |
 | :--- | :--- |
-| **📚 Courses** | 149 |
-| **📖 Chapters** | 1902 |
-| **💡 Concepts** | 13067 |
-| **❓ Quiz Questions** | 26340 |
-| **🃏 Flashcards** | 26401 |
-| **📝 Practice Exercises** | 26205 |
-| **💡 Examples** | 13235 |
-| **🎨 Interactive Canvas Visuals** | 104167 |
+| **📚 Courses** | 9 |
+| **📖 Chapters** | 111 |
+| **💡 Concepts** | 811 |
+| **❓ Quiz Questions** | 1622 |
+| **🃏 Flashcards** | 1622 |
+| **📝 Practice Exercises** | 1622 |
+| **💡 Examples** | 811 |
+| **🎨 Interactive Canvas Visuals** | 6488 |
 <!-- STATS_END -->
 
 ## License
