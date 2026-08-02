@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-07.topic-06",
   "description": "When two quantities change together in a predictable way (direct or inverse)",
   "content": {
-    "overview": "Proportionality is when one quantity depends on another in a simple, predictable way. Either both increase together or one increases while the other decreases. {{viz:diagram-01}}",
-    "explanation": "There are two main types: {{viz:chart-01}}\n\n**Direct Proportionality:** y ∝ x (or y = kx)\n- As x increases, y increases\n- Same constant ratio\n- Example: distance = speed × time (at constant speed)\n- Example: force = mass × acceleration\n- Graph: straight line through the origin {{viz:anim-01}}\n\n**Inverse Proportionality:** y ∝ 1/x (or y = k/x)\n- As x increases, y decreases\n- The product stays constant\n- Example: pressure × volume = constant (gas at constant temperature)\n- Example: brightness ∝ 1/distance² (light spreading out)\n- Graph: hyperbola (curved)\n\n**How to recognize proportionality:**\n1. Set up the relationship: y = kx (direct) or xy = k (inverse)\n2. Find the constant k from one data point\n3. Use it to predict other values\n\n**Why proportionality matters:**\n- Super common in physics\n- Makes calculations easy\n- Shows that things are related\n- Lets you predict one from the other\n\nProportionality is like a shortcut: if you know the constant, you know everything about the relationship.",
+    "overview": "Here's a question: if you double how long you drive at the same speed, what happens to the distance you cover? It doubles too, right? That's proportionality in action — one quantity depends on another in a simple, predictable way. Sometimes they grow together, sometimes one grows while the other shrinks. {{viz:diagram-01}}",
+    "explanation": "There are really just two flavors here, and once you see them you'll notice them everywhere. {{viz:chart-01}}\n\n**Direct Proportionality:** y ∝ x (or y = kx)\n- As x goes up, y goes up right along with it\n- The ratio between them never changes\n- Example: distance = speed × time, at constant speed\n- Example: force = mass × acceleration\n- Graph: a straight line running right through the origin {{viz:anim-01}}\n\n**Inverse Proportionality:** y ∝ 1/x (or y = k/x)\n- As x goes up, y comes down to compensate\n- Their product always stays the same\n- Example: pressure × volume = constant, for a gas held at constant temperature\n- Example: brightness ∝ 1/distance² — light spreads out and fades as you back away\n- Graph: a hyperbola, that classic curved \"corner\" shape\n\n**How you actually work with proportionality:**\n1. Set up the relationship: y = kx for direct, or xy = k for inverse\n2. Plug in one known pair of values to solve for k\n3. Use that k to predict any other value you need\n\n**Why this is worth your time:**\n- It's everywhere in physics\n- It turns messy-looking problems into quick arithmetic\n- It tells you two things are genuinely connected\n- Once you know one value, you can predict the other\n\nThink of proportionality as a shortcut key: find the constant once, and you basically unlock the whole relationship.",
     "keyPoints": [
-      "Direct proportionality: y = kx (both increase together)",
-      "Inverse proportionality: y = k/x (one up, one down)",
-      "k is the constant of proportionality",
-      "Direct: straight line through origin",
-      "Inverse: hyperbola curve",
-      "Very common in physics laws"
+      "Direct proportionality: y = kx — both quantities grow together",
+      "Inverse proportionality: y = k/x — one goes up while the other goes down",
+      "k is the constant of proportionality, and it's the key to everything",
+      "Direct proportionality graphs as a straight line through the origin",
+      "Inverse proportionality graphs as a hyperbola curve",
+      "You'll see proportional relationships constantly in physics laws"
     ],
-    "whyItMatters": "Many physics laws are proportional relationships. Recognizing them makes physics much easier."
+    "whyItMatters": "So many physics laws boil down to proportionality. Spot the pattern early and a lot of \"hard\" problems turn into simple plug-and-predict exercises."
   },
   "availableLanguages": [
     "en"

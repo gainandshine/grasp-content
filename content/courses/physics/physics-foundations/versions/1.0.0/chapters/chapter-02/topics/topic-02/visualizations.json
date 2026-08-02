@@ -42,11 +42,11 @@
       "title": "Derived Units Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "F = m a",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "[F] = [M][L][T]^{-2} = \\text{kg} \\cdot \\text{m/s}^2 = \\text{N}",
+            "explanation": "Force is a derived unit: multiply the base units mass (kg) and acceleration (m/s²) to get the Newton."
           }
         ]
       }
@@ -76,9 +76,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "acceleration a (m/s²)",
+        "y_label": "force F = m·a (N), m = 2 kg",
+        "data_json": "{\"fn\":\"2 * x\",\"x_min\":0,\"x_max\":10,\"samples\":50}"
       }
     },
     {

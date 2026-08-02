@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-09.topic-02",
   "description": "Using M, L, T symbols to verify equations are correct",
   "content": {
-    "overview": "Dimensional checking uses [M L T] notation to verify equations before you even plug in numbers. It's unit checking's cooler cousin. {{viz:diagram-01}}",
-    "explanation": "Remember from Chapter 2? We use M for mass, L for length, T for time. Dimensional checking is checking these match on both sides of your equation.\n\nExample: Is F = m × a correct? {{viz:diagram-02}}\n\nLeft side: F (force) = [M L T⁻²]\nRight side: m × a = [M] × [L T⁻²] = [M L T⁻²]\n\nThey match! ✓\n\nBut what if someone writes: distance = speed + time?\n\nLeft side: distance = [L]\nRight side: speed + time = [L T⁻¹] + [T] = ???\n\nYou CAN'T add [L T⁻¹] and [T]! Different dimensions. Equation is WRONG. {{viz:anim-01}}\n\nWhy dimensional checking is powerful: {{viz:chart-01}}\n\n- You don't need numbers, just symbols\n- Catches errors instantly\n- Works for ANY equation\n- Forces you to think about what you're calculating\n\nIt's like a spell-checker for physics equations.",
+    "overview": "Want to check if an equation is even correct before you plug in a single number? That's dimensional checking—it's unit checking's smarter, symbolic cousin, using [M L T] notation instead of actual values. {{viz:diagram-01}}",
+    "explanation": "Quick refresher: M stands for mass, L for length, T for time. Dimensional checking just means writing both sides of an equation in these symbols and seeing if they actually match.\n\nLet's test it: is F = m × a correct? {{viz:diagram-02}}\n\nLeft side: F (force) breaks down to [M L T⁻²]\nRight side: m × a = [M] × [L T⁻²] = [M L T⁻²]\n\nLook at that—they match! ✓\n\nNow here's a formula someone made up: distance = speed + time. Does that hold up?\n\nLeft side: distance = [L]\nRight side: speed + time = [L T⁻¹] + [T] = ...wait, what?\n\nYou genuinely can't add [L T⁻¹] and [T]—it's like trying to add a speed to a duration. The dimensions clash, so this equation is just wrong, full stop. {{viz:anim-01}}\n\nSo why bother with dimensional checking? {{viz:chart-01}}\n\n- You don't need any actual numbers, just symbols\n- It catches errors almost instantly\n- It works on literally any equation\n- It forces you to actually think about what you're calculating, not just crunch through it\n\nThink of it as a spell-checker, except for physics equations instead of words.",
     "keyPoints": [
-      "Use M, L, T notation (and I, θ, n, J if needed)",
-      "Write both sides in dimensional form",
-      "Check if they match",
-      "Mismatched dimensions = wrong equation",
-      "Matched dimensions = equation is at least plausible"
+      "Use M, L, T notation (bring in I, θ, n, J too if your problem needs them)",
+      "Write out both sides of the equation in dimensional form",
+      "Check whether they match",
+      "Mismatched dimensions? The equation is wrong, no question",
+      "Matched dimensions? At least it's plausible—now go check the numbers"
     ],
-    "whyItMatters": "Dimensional checking is faster than unit checking because you don't need actual numbers. Use it to verify formulas before you calculate anything."
+    "whyItMatters": "Dimensional checking is even faster than unit checking since you skip the actual numbers entirely. Use it to sanity-check a formula before you waste time calculating anything with it."
   },
   "availableLanguages": [
     "en"

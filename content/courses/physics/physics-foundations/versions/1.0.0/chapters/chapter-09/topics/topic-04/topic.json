@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-09.topic-04",
   "description": "Expressing answers in powers of 10 to show rough scale",
   "content": {
-    "overview": "Order of magnitude means: what power of 10 is this roughly equal to? It's estimation's way of saying 'this is HUGE' or 'this is TINY.' {{viz:diagram-01}}",
-    "explanation": "Order of magnitude is about scale, not precision.\n\n**Number ≈ 10ⁿ**\n\nExamples: {{viz:diagram-02}}\n- 7 ≈ 10¹ (closer to 10 than 1)\n- 300 ≈ 10² to 10³ (between 100 and 1000, closer to 100)\n- 5,000,000 ≈ 10⁷ (millions are around 10⁶ to 10⁷)\n- 0.0005 ≈ 10⁻⁴ (very small, in the millionths)\n\n**Why this matters in physics:** {{viz:anim-01}}\n\nYou calculated something and got 4,835,291. Your friend calculated and got 583,100. Vastly different numbers!\n\nBut both are order of magnitude 10⁶ (millions). You're actually in the SAME ballpark. {{viz:chart-01}}\n\nOrder of magnitude is saying: ignore the exact digits, just tell me the scale.\n\n**When to use it:**\n\n- Quick comparison (is A bigger than B?)\n- Rough estimates\n- Astronomy (10²⁷ kg, 10⁻³⁵ m)\n- Physics problems where precision isn't the point\n\nOrder of magnitude ≠ Estimate. Estimation gives a number. Order of magnitude gives a power of 10.",
+    "overview": "Ever want a quick, no-nonsense way to say 'this is HUGE' or 'this is tiny' without getting lost in decimals? That's order of magnitude—just asking what power of 10 something roughly is. {{viz:diagram-01}}",
+    "explanation": "Order of magnitude isn't about being precise—it's about nailing the scale.\n\n**Basically: Number ≈ 10ⁿ**\n\nLet's see it in action: {{viz:diagram-02}}\n- 7 ≈ 10¹ (it's closer to 10 than to 1)\n- 300 ≈ 10² to 10³ (sitting between 100 and 1000, leaning toward 100)\n- 5,000,000 ≈ 10⁷ (millions live around 10⁶ to 10⁷)\n- 0.0005 ≈ 10⁻⁴ (tiny—we're down in the ten-thousandths)\n\n**Here's why you should care:** {{viz:anim-01}}\n\nSay you calculate 4,835,291 and your study buddy gets 583,100. Those look wildly different at first glance, right?\n\nBut zoom out—both numbers are order of magnitude 10⁶ (both in the millions). You two are actually in the same ballpark! {{viz:chart-01}}\n\nThat's the whole point of order of magnitude: forget the exact digits, just tell me roughly how big this thing is.\n\n**When you'll reach for this:**\n\n- Quickly comparing two things (is A actually bigger than B?)\n- Rough, back-of-envelope estimates\n- Astronomy and particle physics, where numbers get absurd (10²⁷ kg, 10⁻³⁵ m)\n- Any problem where the exact digit just doesn't matter\n\nOne important distinction: order of magnitude isn't the same as estimation. Estimation gives you an actual number. Order of magnitude just gives you the power of 10.",
     "keyPoints": [
-      "Order of magnitude = power of 10",
-      "~10ⁿ means roughly in that ballpark",
-      "Number between 10ⁿ and 10ⁿ⁺¹? Could be either",
-      "Used for rough comparison, not precision",
-      "Same order of magnitude = roughly same scale"
+      "Order of magnitude = the power of 10 a number roughly matches",
+      "~10ⁿ just means 'roughly in that neighborhood'",
+      "Sitting right between 10ⁿ and 10ⁿ⁺¹? Could honestly go either way",
+      "It's for rough comparison, not for nailing exact values",
+      "Same order of magnitude = roughly the same scale, even if the digits look totally different"
     ],
-    "whyItMatters": "Order of magnitude lets you quickly compare sizes without obsessing over exact numbers. In physics, knowing if something is 10⁻¹⁵ or 10⁻⁸ is crucial, but the exact digit doesn't matter."
+    "whyItMatters": "Order of magnitude lets you compare sizes at a glance without getting bogged down in exact numbers. In physics, knowing whether something is 10⁻¹⁵ or 10⁻⁸ can completely change how you think about it—way more than the precise digits ever will."
   },
   "availableLanguages": [
     "en"

@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-02.topic-03",
   "description": "Converting between different units (kilometers to meters, hours to seconds, etc.)",
   "content": {
-    "overview": "Sometimes measurements come in different units and you need to convert. 5 kilometers = 5000 meters. 2 hours = 7200 seconds. How do you convert? With conversion factors! {{viz:diagram-01}}",
-    "explanation": "Unit conversion is just multiplication by 1 in a clever way. {{viz:diagram-02}}\n\nHere's the basic idea:\n- 1 kilometer = 1000 meters\n- So 5 km = 5 × 1000 m = 5000 m\n\nYou're just multiplying by 1 (written as 1000 m / 1 km). The units change but the value stays the same.\n\n**The Conversion Factor Method:** {{viz:anim-01}}\n\n1. Write what you know\n2. Multiply by a conversion factor (written as a fraction)\n3. The units you don't want cancel out\n4. You're left with the units you want\n\n**Example: Convert 60 kilometers to meters**\n\n60 km × (1000 m / 1 km) = 60,000 m\n\nNotice: The 'km' cancels out, you're left with 'm'\n\n**Example: Convert 2 hours to seconds**\n\n2 hours × (60 min / 1 hour) × (60 s / 1 min) = 2 × 60 × 60 seconds = 7,200 seconds\n\n**Example: Convert 5 m/s to km/h**\n\n5 m/s × (1 km / 1000 m) × (3600 s / 1 hour) = 5 × 3.6 km/h = 18 km/h\n\nThe trick: write the conversion factor so the units you want are on top and the units you're getting rid of are on the bottom. Then multiply. The unwanted units cancel out. {{viz:chart-01}}",
+    "overview": "So you've got a distance in kilometers but need it in meters. Or a time in hours but need seconds. Annoying? Not really — once you know the trick, converting units takes about ten seconds. {{viz:diagram-01}}",
+    "explanation": "Here's a secret: unit conversion is really just multiplying by 1, dressed up cleverly. {{viz:diagram-02}}\n\nCheck this out:\n- 1 kilometer = 1000 meters\n- So 5 km = 5 × 1000 m = 5000 m\n\nYou're multiplying by (1000 m / 1 km), which literally equals 1. The number changes, but what it actually represents doesn't — you're not adding or removing any distance, just relabeling it.\n\n**The conversion factor trick, step by step:** {{viz:anim-01}}\n\n1. Write down what you already know\n2. Multiply by a conversion factor written as a fraction\n3. Watch the units you don't want cancel out\n4. What's left is the unit you actually wanted\n\n**Let's try it: Convert 60 kilometers to meters**\n\n60 km × (1000 m / 1 km) = 60,000 m\n\nSee how 'km' just cancels away, leaving you with plain 'm'? That's the whole move.\n\n**Another one: Convert 2 hours to seconds**\n\n2 hours × (60 min / 1 hour) × (60 s / 1 min) = 7,200 seconds\n\n**And a trickier one: Convert 5 m/s to km/h**\n\n5 m/s × (1 km / 1000 m) × (3600 s / 1 hour) = 18 km/h\n\nThe whole game is this: set up your fraction so the unit you want ends up on top and the unit you're ditching ends up on the bottom. They cancel, and you're done. {{viz:chart-01}}",
     "keyPoints": [
-      "Unit conversion is multiplication by 1 in clever form",
-      "Write the conversion factor as a fraction",
-      "Put unwanted units on the bottom, wanted units on top",
-      "Units cancel out just like numbers",
-      "Check: does the answer make sense?"
+      "Converting units is basically multiplying by a clever version of 1",
+      "Write your conversion factor as a fraction",
+      "Put the unit you don't want on the bottom so it cancels",
+      "Units cancel out just like numbers do in a fraction",
+      "Always sanity-check: does the final number make sense?"
     ],
-    "whyItMatters": "Physics requires converting units constantly. Scientists worldwide use SI, but you might get measurements in other units. Knowing how to convert is essential."
+    "whyItMatters": "You'll be converting units constantly in physics. The world mostly runs on SI, but you'll still bump into other units all the time — knowing this trick means you never get stuck."
   },
   "availableLanguages": [
     "en"

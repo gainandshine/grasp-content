@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-03",
   "description": "Learn about Data Collection and its applications in physics.",
   "content": {
-    "overview": "Data collection is carefully gathering your measurements. Not just 'oh I measured something' but recording it properly so you can use it.",
-    "explanation": "Good data collection means:\n\n**1. Be careful and precise.** Use your tools correctly. Read measuring devices at eye level. Don't rush.\n\n**2. Record immediately.** Write down measurements right away. Don't trust memory. Write the actual number, not 'about 5'—write 5.2.\n\n**3. Be consistent.** Measure the same way every time. If measuring height, always measure from the same point. If timing, always use the same method.\n\n**4. Record units.** '5' alone is useless. '5 meters' means something. Always include units.\n\n**5. Do multiple trials.** One measurement is luck. Three or more is data.\n\n**6. Watch for mistakes.** If one measurement looks way different, note it. Maybe something went wrong—mark it!\n\n**Example:** Measuring pendulum period\n- Wrong: 'Period is about 2 seconds'\n- Right: Trial 1: 2.04 s, Trial 2: 2.06 s, Trial 3: 2.03 s\n\nGood data collection = data you can trust later.",
+    "overview": "So you've got your experiment set up—now comes the part where you actually gather your evidence. Data collection isn't just 'oh yeah, I measured something.' It's recording things properly, right in the moment, so future-you can actually use it. {{viz:diagram-01}}",
+    "explanation": "Think like a detective jotting down clues at a crime scene—sloppy notes mean a case you can never solve. Here's how to collect data like you mean it:\n\n**1. Be careful and precise.** Use your tools the right way. Read measuring devices at eye level. Don't rush—rushing is where mistakes sneak in.\n\n**2. Record immediately.** Write down measurements the second you get them. Don't trust your memory—it's worse than you think. Write the actual number, not 'about 5.' Write 5.2.\n\n**3. Be consistent.** Measure the exact same way every single time. Always measure height from the same point. Always time things the same method.\n\n**4. Record units. Always.** '5' alone means nothing. '5 meters' means something. Never leave the units off.\n\n**5. Do multiple trials.** One measurement is just luck wearing a disguise. Three or more? Now that's actual data. {{viz:formula-01}}\n\n**6. Watch for weird results.** If one measurement looks way off from the rest, flag it. Something probably went wrong—note it down instead of quietly ignoring it.\n\n**Here's the difference in action—measuring a pendulum's period:**\n- Wrong: 'Period is about 2 seconds'\n- Right: Trial 1: 2.04 s, Trial 2: 2.06 s, Trial 3: 2.03 s\n\nSee the difference? One of those you can actually trust and build on later. {{viz:chart-01}}",
     "keyPoints": [
-      "Record numbers immediately, not from memory",
-      "Include units always",
-      "Measure the same way every time",
-      "Do multiple trials",
-      "Watch for mistakes or unusual results",
-      "Write clearly so others can read it"
+      "Record numbers immediately—never rely on memory",
+      "Always include units",
+      "Measure the exact same way every single time",
+      "Do multiple trials, not just one",
+      "Flag mistakes or unusual results instead of hiding them",
+      "Write clearly so someone else could actually read it"
     ],
-    "whyItMatters": "Bad data collection ruins an experiment. Careful collection saves you time and gives you trustworthy results."
+    "whyItMatters": "Sloppy data collection can ruin an entire experiment—no amount of clever analysis fixes bad data. Careful collection upfront saves you time later and gives you results you can actually stand behind."
   },
   "availableLanguages": [
     "en"

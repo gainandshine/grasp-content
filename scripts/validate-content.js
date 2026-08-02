@@ -214,7 +214,16 @@ function validateTopic(topicPath, tId, domain, courseId, chId) {
     } else {
       visualizationsJson.visualizations.forEach((viz, idx) => {
         if (!viz.id) addError(`${relPath}/visualizations.json`, `Missing "id" at index ${idx}`);
-        if (!viz.type) addError(`${relPath}/visualizations.json`, `Missing "type" at index ${idx}`);
+        if (!viz.type) {
+          addError(`${relPath}/visualizations.json`, `Missing "type" at index ${idx}`);
+        } else {
+          const allowedTypes = ['3d', '2d-anim', 'formula', 'd3', '2d-text', 'latex', 'diagram', 'simulation'];
+          if (viz.type === 'lottie') {
+            addError(`${relPath}/visualizations.json`, `Visualization type "lottie" is deprecated and prohibited at index ${idx}`);
+          } else if (!allowedTypes.includes(viz.type)) {
+            addError(`${relPath}/visualizations.json`, `Invalid visualization type "${viz.type}" at index ${idx}. Must be one of: ${allowedTypes.join(', ')}`);
+          }
+        }
         if (!viz.title) addError(`${relPath}/visualizations.json`, `Missing "title" at index ${idx}`);
       });
     }

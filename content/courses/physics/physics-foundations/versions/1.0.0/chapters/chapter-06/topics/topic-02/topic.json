@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-06.topic-02",
   "description": "Describing positions using distance and angle from a central point (center, not axes).",
   "content": {
-    "overview": "Instead of 'go right 3 units, up 4 units,' you say 'go 5 units in the direction 53 degrees.' That's polar! Distance + angle = position. {{viz:diagram-01}}",
-    "explanation": "Polar coordinates answer two questions differently than Cartesian:\n- How far from the center? (r = radius/distance)\n- At what angle? (θ = theta, the angle)\n\nSo a point is (r, θ) instead of (x, y). {{viz:diagram-02}}\n\n**Example:** A point at Cartesian (3, 4) is at polar (5, 53°). Distance 5 from origin, at angle 53°.\n\n**When is polar better?** When something circles around a point. Like orbits, spinning objects, waves spreading from a center. {{viz:anim-01}}\n\nImagine a radar screen. The center is the origin. Blips show up as (distance, angle). That's polar! Much better than saying (x, y) for circular things. {{viz:chart-01}}\n\nCartesian says 'go sideways then up.' Polar says 'go this far in this direction.' Both describe the same spot, just different ways.",
+    "overview": "Ever given someone directions like \"walk 5 steps that way\" while pointing? Congrats, you've already used polar coordinates. Instead of \"go right 3, then up 4,\" you just say \"go 5 units, in that direction.\" Distance + angle = position, done. {{viz:diagram-01}}",
+    "explanation": "Polar coordinates ask two totally different questions than Cartesian does:\n- How far from the center? (that's r, the radius)\n- At what angle? (that's θ, theta—the direction you're pointing)\n\nSo instead of (x, y), a point becomes (r, θ). Same location, different way of describing it. {{viz:diagram-02}}\n\n**Quick example:** the Cartesian point (3, 4) is exactly the same spot as the polar point (5, 53°)—5 units from the center, tilted 53° up from the x-axis. Two languages, one address.\n\n**So when's polar actually better?** Any time something moves around a center point. Think orbits, spinning wheels, ripples spreading out from a stone dropped in water. {{viz:anim-01}}\n\nHere's a picture that makes it click: a radar screen. You're at the center, and every blip shows up as \"this far away, in this direction.\" That's polar in action—way more natural than forcing everything into (x, y) when the whole scene is circular. {{viz:chart-01}}\n\nCartesian says \"go sideways, then up.\" Polar says \"go this far, in this direction.\" Same destination, just a different set of directions to get there—and picking the right one can turn a messy problem into a simple one.",
     "keyPoints": [
-      "Polar = position using (r, θ) where r is distance, θ is angle",
-      "r = radius from origin",
-      "θ = angle (usually from 0° to 360°)",
-      "Better for circular/orbital problems",
-      "Can convert between Cartesian and polar"
+      "Polar = position using (r, θ), where r is distance and θ is angle",
+      "r = how far you are from the origin (the radius)",
+      "θ = which direction you're pointing (usually 0° to 360°)",
+      "Shines whenever something's circular or orbital",
+      "You can always convert back and forth between Cartesian and polar"
     ],
-    "whyItMatters": "Circular motion, orbits, rotations—all easier in polar. Some physics problems become simple in polar that are complicated in Cartesian."
+    "whyItMatters": "Circular motion, orbits, anything that spins—all of it gets way easier once you switch to polar. Problems that look painful in (x, y) often turn almost trivial once you describe them as (r, θ) instead. Learning when to make that switch is a genuine physics superpower."
   },
   "availableLanguages": [
     "en"

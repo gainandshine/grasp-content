@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Ask a clear question",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Experimental Design",
+            "label": "Control variables & plan trials",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Ready to collect data",
             "type": "ellipse"
           }
         ],
@@ -39,14 +39,14 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Experimental Design Formula",
-      "description": "Mathematical definition",
+      "title": "Minimum Trials Rule",
+      "description": "Why you always run more than one trial",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "n_{trials} \\geq 3",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "n_{trials} \\geq 3",
+            "explanation": "Run at least 3 trials per condition so a single fluke reading can't fool you."
           }
         ]
       }
@@ -72,13 +72,13 @@
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Experimental Design Chart",
-      "description": "Data visualization",
+      "title": "Steeper Ramp, Faster Roll",
+      "description": "Relative rolling speed as ramp angle increases (0 to 90 degrees)",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Ramp angle (radians)",
+        "y_label": "Relative rolling speed",
+        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":0,\"x_max\":1.5707963267948966,\"samples\":100}"
       }
     },
     {
@@ -87,7 +87,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Experimental Design.",
+        "body_markdown": "## Designing a Good Experiment\\n\\nA solid experiment starts with one sharp, testable question - not a vague one. From there you decide exactly what you'll measure, change only ONE variable at a time, keep every other variable fixed, and run at least 3 trials per condition. Planning for likely sources of error before you start saves you from throwing out data later.",
         "citations": []
       }
     },
@@ -119,12 +119,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Clear Question",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Controlled Variables",
             "type": "rect"
           }
         ],

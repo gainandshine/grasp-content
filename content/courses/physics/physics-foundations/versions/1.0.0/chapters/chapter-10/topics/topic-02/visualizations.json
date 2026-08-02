@@ -42,11 +42,15 @@
       "title": "Position Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\vec{r} = (x,\\, y,\\, z)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "x = 5\\ \\text{m}",
+            "explanation": "On a single line (1D), position is one coordinate measured from a reference point (the origin), in meters."
+          },
+          {
+            "latex": "(x, y) = (3, 4)\\ \\text{m}",
+            "explanation": "In a plane (2D), position needs two coordinates."
           }
         ]
       }
@@ -97,11 +101,11 @@
       "title": "Position Simulation",
       "description": "Interactive simulation",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          { "id": "x", "type": "slider", "label": "X position (m)", "default": 5, "min": -10, "max": 10, "step": 0.5 },
+          { "id": "y", "type": "slider", "label": "Y position (m)", "default": 3, "min": -10, "max": 10, "step": 0.5 }
+        ],
+        "setup_code": "var scale = 1;\n              function toScreen(x, y, w, h) {\n                scale = Math.min(w, h) / 24;\n                return { sx: w / 2 + x * scale, sy: h / 2 - y * scale };\n              }\n              return {\n                draw: function(ctx, w, h) {\n                  ctx.clearRect(0, 0, w, h);\n                  ctx.strokeStyle = '#E5E7EB';\n                  ctx.lineWidth = 1;\n                  for (var gx = -10; gx <= 10; gx += 2) {\n                    var p1 = toScreen(gx, -10, w, h);\n                    var p2 = toScreen(gx, 10, w, h);\n                    ctx.beginPath(); ctx.moveTo(p1.sx, p1.sy); ctx.lineTo(p2.sx, p2.sy); ctx.stroke();\n                  }\n                  for (var gy = -10; gy <= 10; gy += 2) {\n                    var p3 = toScreen(-10, gy, w, h);\n                    var p4 = toScreen(10, gy, w, h);\n                    ctx.beginPath(); ctx.moveTo(p3.sx, p3.sy); ctx.lineTo(p4.sx, p4.sy); ctx.stroke();\n                  }\n                  var origin = toScreen(0, 0, w, h);\n                  ctx.strokeStyle = '#9CA3AF';\n                  ctx.lineWidth = 2;\n                  ctx.beginPath(); ctx.moveTo(0, origin.sy); ctx.lineTo(w, origin.sy); ctx.stroke();\n                  ctx.beginPath(); ctx.moveTo(origin.sx, 0); ctx.lineTo(origin.sx, h); ctx.stroke();\n                  ctx.fillStyle = '#374151';\n                  ctx.font = '12px sans-serif';\n                  ctx.fillText('origin (0,0)', origin.sx + 6, origin.sy - 6);\n\n                  var x = controls.x;\n                  var y = controls.y;\n                  var pos = toScreen(x, y, w, h);\n                  ctx.strokeStyle = '#E8593C';\n                  ctx.lineWidth = 2;\n                  ctx.setLineDash([5, 4]);\n                  ctx.beginPath(); ctx.moveTo(origin.sx, origin.sy); ctx.lineTo(pos.sx, pos.sy); ctx.stroke();\n                  ctx.setLineDash([]);\n                  ctx.fillStyle = '#E8593C';\n                  ctx.beginPath(); ctx.arc(pos.sx, pos.sy, 8, 0, Math.PI * 2); ctx.fill();\n                  ctx.fillStyle = '#111827';\n                  ctx.font = 'bold 13px sans-serif';\n                  ctx.fillText('(' + x.toFixed(1) + ', ' + y.toFixed(1) + ') m', pos.sx + 12, pos.sy - 10);\n                }\n              };"
       }
     },
     {

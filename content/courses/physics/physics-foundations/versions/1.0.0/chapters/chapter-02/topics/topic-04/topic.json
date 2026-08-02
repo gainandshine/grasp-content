@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-02.topic-04",
   "description": "Standard prefixes that make units bigger or smaller (like kilo-, milli-, mega-)",
   "content": {
-    "overview": "Instead of writing 0.001 meters, we say 1 millimeter. Instead of 1000 grams, we say 1 kilogram. Prefixes are shortcuts! {{viz:diagram-01}}",
-    "explanation": "Physics deals with really big and really small things. Atoms are tiny. Galaxy distances are huge. Writing out all the zeros gets annoying. So scientists use prefixes. {{viz:diagram-02}}\n\nA prefix is just a shorthand for a power of 10:\n\n**Going BIG (multiply by powers of 10):**\n- kilo (k) = × 1,000 = 10³\n- mega (M) = × 1,000,000 = 10⁶\n- giga (G) = × 1,000,000,000 = 10⁹\n- tera (T) = × 1,000,000,000,000 = 10¹²\n\n**Going SMALL (divide, or × negative powers of 10):**\n- centi (c) = ÷ 100 = 10⁻²\n- milli (m) = ÷ 1,000 = 10⁻³\n- micro (μ) = ÷ 1,000,000 = 10⁻⁶\n- nano (n) = ÷ 1,000,000,000 = 10⁻⁹\n- pico (p) = ÷ 1,000,000,000,000 = 10⁻¹²\n\n**Real Examples:** {{viz:chart-01}}\n- 1 kilometer (km) = 1,000 meters (not 1 million meters!)\n- 1 millimeter (mm) = 0.001 meters\n- 1 microgram (μg) = 0.000001 grams\n- 1 nanosecond (ns) = 0.000000001 seconds\n\nThe prefix always comes before the unit. {{viz:anim-01}}\n\n**Why prefixes matter:**\n- Shorter to write: 5 km instead of 5,000 m\n- Easier to read: 2 mm instead of 0.002 m\n- Matches the scale: A millimeter LOOKS tiny (mm), a kilometer SOUNDS big (km)\n- Scientists use the right prefix for the measurement: measuring atoms? Use nanometers. Measuring cities? Use kilometers.",
+    "overview": "Nobody wants to write 0.001 meters when they could just say 1 millimeter. Nobody wants to write 1000 grams when 'a kilogram' says it in one word. Prefixes are just shortcuts for numbers with a lot of zeros. {{viz:diagram-01}}",
+    "explanation": "Physics loves extremes — atoms are absurdly tiny, galaxies are absurdly huge. If you tried writing out every zero by hand, you'd lose your mind. So scientists agreed on a set of prefixes instead. {{viz:diagram-02}}\n\nA prefix is nothing fancy — it's just a stand-in for a power of 10:\n\n**Going bigger:**\n- kilo (k) = ×1,000 = 10³\n- mega (M) = ×1,000,000 = 10⁶\n- giga (G) = ×1,000,000,000 = 10⁹\n- tera (T) = ×1,000,000,000,000 = 10¹²\n\n**Going smaller:**\n- centi (c) = ÷100 = 10⁻²\n- milli (m) = ÷1,000 = 10⁻³\n- micro (μ) = ÷1,000,000 = 10⁻⁶\n- nano (n) = ÷1,000,000,000 = 10⁻⁹\n- pico (p) = ÷1,000,000,000,000 = 10⁻¹²\n\n**Real examples you've probably already used:** {{viz:chart-01}}\n- 1 kilometer (km) = 1,000 meters — not a million, just a thousand\n- 1 millimeter (mm) = 0.001 meters\n- 1 microgram (μg) = 0.000001 grams\n- 1 nanosecond (ns) = 0.000000001 seconds\n\nAnd the prefix always sits right in front of the unit, no exceptions. {{viz:anim-01}}\n\n**Why go to the trouble?**\n- It's faster to write: 5 km beats writing 5,000 m\n- It's easier to read at a glance: 2 mm beats 0.002 m\n- The name matches the vibe: 'milli' sounds tiny, 'kilo' sounds substantial\n- You pick the prefix that fits what you're measuring — nanometers for atoms, kilometers for road trips.",
     "keyPoints": [
-      "Prefixes = shortcuts for powers of 10",
-      "kilo- = 1,000× (10³)",
-      "milli- = 0.001× (10⁻³)",
-      "micro- = 0.000001× (10⁻⁶)",
-      "nano- = 0.000000001× (10⁻⁹)",
-      "mega-, giga-, tera- for really big numbers"
+      "A prefix is just a stand-in for a power of 10",
+      "kilo- means × 1,000 (10³)",
+      "milli- means × 0.001 (10⁻³)",
+      "micro- means × 0.000001 (10⁻⁶)",
+      "nano- means × 0.000000001 (10⁻⁹)",
+      "mega-, giga-, and tera- are your go-to prefixes for huge numbers"
     ],
-    "whyItMatters": "You'll see prefixes everywhere in physics. Understanding them makes reading scientific measurements easy instead of confusing."
+    "whyItMatters": "Prefixes show up on almost every measurement you'll ever read. Once they click, a label like '5 μg' instantly makes sense instead of looking like alphabet soup."
   },
   "availableLanguages": [
     "en"

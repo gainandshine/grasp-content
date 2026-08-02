@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-06.topic-03",
   "description": "Extending polar to 3D: polar in the base, plus height above/below.",
   "content": {
-    "overview": "Think of a cylinder (like a soda can). To describe a point in or on it, you use polar for the circular part (distance and angle) plus height (z). That's cylindrical! {{viz:diagram-01}}",
-    "explanation": "Cylindrical = polar + height. A point is (r, θ, z):\n- r = distance from the center axis (like polar)\n- θ = angle around the axis (like polar)\n- z = height up or down {{viz:diagram-02}}\n\nImagine standing on the floor looking down at a target. Polar (r, θ) tells you where on the floor. Add z and you know the height—maybe the target is on a shelf above! {{viz:anim-01}}\n\n**Best for:** Anything cylindrical or with circular symmetry. Spinning tops, water vortexes, engines, pipes. {{viz:chart-01}}\n\nCartesian (x, y, z) and cylindrical both describe 3D space. Cylindrical is just better when something has circular symmetry around an axis.\n\nThe axis is usually vertical (z), and you measure angle and distance around it. Like radar with altitude!",
+    "overview": "Picture a soda can. Now picture trying to describe exactly where a specific ant is crawling on it. You'd probably say something like \"it's this far from the center pole, facing this direction, and this high up.\" That's cylindrical coordinates—basically polar coordinates that grew a height axis. {{viz:diagram-01}}",
+    "explanation": "Here's the simplest way to think about it: cylindrical = polar + height. A point is written as (r, θ, z):\n- r = distance from the center axis, just like in polar\n- θ = angle around that axis, also just like polar\n- z = how high up or down you are {{viz:diagram-02}}\n\nHere's a mental picture that makes it stick: imagine you're standing above a room looking straight down. Polar (r, θ) tells you exactly where on the floor something is. Now add z, and suddenly you also know it's sitting on a shelf three feet up—not on the floor at all! {{viz:anim-01}}\n\n**Where does this actually shine?** Anywhere you've got circular symmetry: a spinning top, water swirling down a drain, the inside of an engine cylinder, water flowing through a pipe. {{viz:chart-01}}\n\nBoth Cartesian (x, y, z) and cylindrical describe the exact same 3D space—they're just different languages for it. Cylindrical wins the moment something twists or spins around a central axis, because it lets you separate \"how far around\" from \"how high up\" instead of tangling both into x and y.\n\nThat axis is usually the vertical one, and you measure angle and distance around it, just like a radar screen—except now with altitude added on top.",
     "keyPoints": [
-      "Cylindrical = (r, θ, z) in 3D",
-      "r = distance from vertical axis",
-      "θ = angle around the axis",
-      "z = height",
-      "Perfect for anything with circular symmetry",
-      "Like polar + height"
+      "Cylindrical = (r, θ, z) for describing points in 3D",
+      "r = distance from the central vertical axis",
+      "θ = angle you've swept around that axis",
+      "z = height, same as it would be in Cartesian",
+      "Perfect fit for anything with circular symmetry",
+      "Basically: polar coordinates, plus a height reading"
     ],
-    "whyItMatters": "Rotating systems, vortexes, turbines—all are natural in cylindrical. Skip it and you're working harder than you need to."
+    "whyItMatters": "Rotating systems, vortexes, turbines, drills—cylindrical coordinates make all of them feel almost easy. Try to force one of these problems into plain Cartesian and you'll end up fighting the math the whole way; switch to cylindrical and the circular symmetry just does the work for you."
   },
   "availableLanguages": [
     "en"

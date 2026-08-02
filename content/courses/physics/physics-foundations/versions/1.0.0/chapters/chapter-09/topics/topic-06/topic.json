@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-09.topic-06",
   "description": "Thinking like a physicist: questioning answers and trusting intuition",
   "content": {
-    "overview": "Physical reasoning is about thinking critically. Does your answer make sense? Can you defend it? Does it pass the 'sanity check'? {{viz:diagram-01}}",
-    "explanation": "Physical reasoning is the hardest skill to teach because it's about judgment, not formulas.\n\n**The checklist:** {{viz:diagram-02}}\n\n1. **Does the units check out?** (Unit checking)\n2. **Do the dimensions work?** (Dimensional checking)\n3. **Is the order of magnitude reasonable?** (Order of magnitude)\n4. **Does this make physical sense?** (Physical reasoning)\n\nExample: You calculate that a thrown ball reaches 500 m/s. {{viz:anim-01}}\n\n- Units? m/s ✓ (correct for speed)\n- Dimensions? [L T⁻¹] ✓ (correct for speed)\n- Order of magnitude? 10² m/s (hundreds) ✓ (reasonable order of magnitude)\n- **Physical sense?** ✗ (WRONG! No human can throw 500 m/s. That's 1000 mph!)\n\nSo something went wrong in your calculation.\n\n**Physical reasoning questions to always ask:** {{viz:chart-01}}\n\n- Is this answer bigger or smaller than I expected?\n- Does it make sense? (Can a person run faster than a car?)\n- Is this physically possible?\n- What if I double this number—does the effect double too?\n- Does the answer change sign? (Did I accidentally flip something?)\n\nPhysical reasoning is about COMMON SENSE applied to physics.",
+    "overview": "This is the last line of defense, and honestly the most important one: does your answer actually make sense in the real world? Can you defend it out loud to a friend? That's physical reasoning—the ultimate sanity check. {{viz:diagram-01}}",
+    "explanation": "Physical reasoning is probably the hardest skill on this list to teach, because it's not a formula—it's judgment. It's you, thinking like a physicist.\n\n**Run through this checklist every time:** {{viz:diagram-02}}\n\n1. **Do the units check out?** (unit checking)\n2. **Do the dimensions actually work?** (dimensional checking)\n3. **Is the order of magnitude reasonable?** (order of magnitude)\n4. **Does this genuinely make sense?** (physical reasoning—this one's on you)\n\nLet's walk through it: you calculate that a thrown ball reaches 500 m/s. {{viz:anim-01}}\n\n- Units? m/s ✓ (yep, correct for speed)\n- Dimensions? [L T⁻¹] ✓ (also correct)\n- Order of magnitude? 10² m/s—hundreds, which sounds plausible on paper ✓\n- **But does it actually make sense?** ✗ Nope. No human being has ever thrown anything at 500 m/s—that's over 1,000 mph! Something clearly broke, even though every other check passed.\n\nSo here's the lesson: your math can pass every single check and still be dead wrong, unless you stop and ask if it's actually physically possible.\n\n**Questions worth asking yourself every time:** {{viz:chart-01}}\n\n- Is this bigger or smaller than I expected?\n- Does this pass the laugh test? (Can a person really outrun a car?)\n- Is this even physically possible?\n- If I double one input, does the answer respond the way it should?\n- Did a sign flip somewhere I'm not noticing?\n\nAt the end of the day, physical reasoning is just common sense, aimed squarely at physics.",
     "keyPoints": [
-      "Always ask: does this make physical sense?",
-      "Use your intuition about the real world",
-      "Compare to things you know",
-      "If answer is crazy, something went wrong",
-      "Combine math with judgment"
+      "Always finish with: does this actually make physical sense?",
+      "Trust your gut and your real-world intuition—it's usually right",
+      "Compare your answer to things you already know (how fast is a car, a sprinter, a bullet?)",
+      "If the answer sounds absurd, it probably is—go find the mistake",
+      "Great physicists combine solid math with sharp judgment, not just one or the other"
     ],
-    "whyItMatters": "Math can be right but physics can be wrong. Physical reasoning is what catches that. It's the difference between a good physicist and someone who can just do algebra."
+    "whyItMatters": "The math can be flawless and the physics can still be completely wrong—and physical reasoning is exactly what catches that gap. It's the difference between someone who can push through algebra and someone who genuinely understands what the numbers mean."
   },
   "availableLanguages": [
     "en"

@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-09.topic-03",
   "description": "Guessing reasonable answers before doing the full calculation",
   "content": {
-    "overview": "Before you spend 10 minutes calculating, spend 10 seconds estimating. Estimation tells you if your final answer is in the right ballpark. {{viz:diagram-01}}",
-    "explanation": "Estimation means: guess a reasonable answer using simple approximations, then check if your calculated answer is close.\n\n**Example: How long does it take light to reach Earth from the sun?** {{viz:diagram-02}}\n\nEstimate:\n- Distance to sun ≈ 150 million km = 1.5 × 10¹¹ m\n- Speed of light ≈ 3 × 10⁸ m/s\n- Time = distance / speed = (1.5 × 10¹¹) / (3 × 10⁸) ≈ 500 seconds ≈ 8 minutes\n\nYou estimated ~8 minutes (rough guess!).\n\nIf your careful calculation gives 500 seconds, great! That matches your estimate.\n\nIf it gives 50 seconds or 5000 seconds, something went WRONG. {{viz:anim-01}}\n\n**Why estimation is powerful:** {{viz:chart-01}}\n\n1. Tells you if your answer is sane\n2. Catches order-of-magnitude mistakes\n3. Takes 30 seconds\n4. Uses approximations (10 million ≈ 10⁷, not exact)\n\nEstimation isn't about being exact. It's about being in the right neighborhood.",
+    "overview": "Here's a question for you: how many piano tuners are there in Chicago? Nobody expects you to know that off the top of your head—but you CAN estimate it. That same skill—getting roughly the right ballpark fast—is exactly what saves you in physics. Spend 10 seconds estimating before you spend 10 minutes calculating. {{viz:diagram-01}}",
+    "explanation": "Estimation is basically: make a quick, reasonable guess using rounded numbers, then see if your careful calculation lands anywhere close to it.\n\n**Let's try one: how long does light take to travel from the Sun to Earth?** {{viz:diagram-02}}\n\nRough estimate:\n- Distance to the Sun ≈ 150 million km, or 1.5 × 10¹¹ m\n- Speed of light ≈ 3 × 10⁸ m/s\n- Time = distance ÷ speed = (1.5 × 10¹¹) / (3 × 10⁸) ≈ 500 seconds ≈ 8 minutes\n\nSo you're expecting something around 8 minutes. That's your gut-check number.\n\nNow if your careful, detailed calculation also comes out to 500 seconds—great, you nailed it, and your estimate confirms you're on the right track.\n\nBut if it comes out to 50 seconds, or 5,000 seconds? Stop right there. Something went wrong, and you just caught it before submitting a wildly wrong answer. {{viz:anim-01}}\n\n**Why this trick is so good:** {{viz:chart-01}}\n\n1. It tells you instantly whether your answer is sane\n2. It catches order-of-magnitude mistakes before they embarrass you\n3. It takes about 30 seconds, tops\n4. It leans on rounded numbers (10 million ≈ 10⁷—close enough)\n\nEstimation was never about being exact. It's about knowing you're in the right neighborhood before you commit to an answer.",
     "keyPoints": [
-      "Before calculating, estimate using rough numbers",
-      "Use powers of 10, round generously",
-      "Calculate carefully",
-      "Compare: is your answer within 10x of your estimate?",
-      "If not, recheck your work"
+      "Before you calculate anything, estimate first using rounded, friendly numbers",
+      "Lean on powers of 10—round generously, don't overthink it",
+      "Then do your careful, precise calculation",
+      "Compare the two: is your answer within about 10x of your estimate?",
+      "If it's way off, that's your cue to go back and recheck your work"
     ],
-    "whyItMatters": "Estimation saves you from presenting wildly wrong answers with confidence. A 10-second estimate catches 90% of calculation mistakes."
+    "whyItMatters": "A ten-second estimate is what stops you from confidently handing in an answer that's off by a factor of a thousand. It catches the vast majority of calculation slip-ups before anyone else notices them—including you."
   },
   "availableLanguages": [
     "en"

@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Choose axes & scale",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Graph Plotting",
+            "label": "Plot each point accurately",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Connect points to reveal the trend",
             "type": "ellipse"
           }
         ],
@@ -39,14 +39,14 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Graph Plotting Formula",
-      "description": "Mathematical definition",
+      "title": "Reading the Slope of a Graph",
+      "description": "The straight-line trend behind the temperature vs spring-height graph",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "h \\approx 0.65\\,T + 2",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "h \\approx 0.65\\,T + 2",
+            "explanation": "The line's slope (0.65 mm per °C) is exactly the trend you'd read off a well-plotted graph of this data."
           }
         ]
       }
@@ -72,13 +72,13 @@
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Graph Plotting Chart",
-      "description": "Data visualization",
+      "title": "Temperature vs Spring Height Graph",
+      "description": "A properly labeled, full-scale line graph of the spring-height data",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Temperature (°C)",
+        "y_label": "Spring Height (mm)",
+        "data_json": "{\"fn\":\"0.65*x + 2\",\"x_min\":20,\"x_max\":30,\"samples\":50}"
       }
     },
     {
@@ -87,7 +87,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Graph Plotting.",
+        "body_markdown": "## Making a Graph That Speaks for Itself\\n\\nGive it a clear title, label both axes with units, use the full scale instead of crowding points in a corner, plot each point precisely, and connect them with a line once you trust the trend. Scatter plots suit noisy data, line graphs suit confirmed trends, and bar graphs suit comparing categories.",
         "citations": []
       }
     },
@@ -119,12 +119,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Title + Labeled Axes",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Full Use of Scale",
             "type": "rect"
           }
         ],

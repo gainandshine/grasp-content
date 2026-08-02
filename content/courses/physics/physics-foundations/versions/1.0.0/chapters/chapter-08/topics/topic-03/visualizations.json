@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Measure carefully",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Data Collection",
+            "label": "Record immediately with units",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Repeat trials & flag errors",
             "type": "ellipse"
           }
         ],
@@ -39,14 +39,14 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Data Collection Formula",
-      "description": "Mathematical definition",
+      "title": "Averaging Your Trials",
+      "description": "Combining repeated measurements into one reliable value",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\bar{x} = \\frac{1}{n}\\sum_{i=1}^{n} x_i",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\bar{x} = \\frac{1}{n}\\sum_{i=1}^{n} x_i",
+            "explanation": "Average your trials together to get a more reliable reading than any single measurement alone."
           }
         ]
       }
@@ -72,13 +72,13 @@
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Data Collection Chart",
-      "description": "Data visualization",
+      "title": "Pendulum Trials Cluster Around the True Value",
+      "description": "Repeated period measurements scatter slightly around 2.05 s",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Trial number",
+        "y_label": "Period (s)",
+        "data_json": "{\"fn\":\"2.05 + 0.02*Math.sin(x*3)\",\"x_min\":1,\"x_max\":10,\"samples\":50}"
       }
     },
     {
@@ -87,7 +87,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Data Collection.",
+        "body_markdown": "## Collecting Data You Can Trust\\n\\nRecord numbers the instant you measure them, never from memory. Always include units. Measure the same way every time, and always run multiple trials rather than relying on one reading. If a result looks off, flag it instead of quietly dropping it.",
         "citations": []
       }
     },
@@ -119,12 +119,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Precise & Consistent",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Units Always Included",
             "type": "rect"
           }
         ],

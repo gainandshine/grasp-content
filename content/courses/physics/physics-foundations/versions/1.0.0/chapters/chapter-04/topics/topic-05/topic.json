@@ -4,14 +4,14 @@
   "topicId": "physics.physics-foundations.chapter-04.topic-05",
   "description": "Learn about Direction and its applications in physics.",
   "content": {
-    "overview": "Direction is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Direction. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Direction requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Two arrows can be the exact same length and still be totally different vectors. Why? Direction. It's the other half of what makes a vector a vector. {{viz:diagram-01}}",
+    "explanation": "Picture two cars both going 60 km/h - one heading north, one heading south. Same speed (magnitude), completely different velocity (the full vector), and completely different outcome for where each car ends up. That's direction doing all the work.\n\n**How We Describe Direction**\nA few common ways you'll see direction written:\n- Compass directions: north, southeast, 30° west of north\n- An angle from a reference axis, usually the positive x-axis: \"at 53°\"\n- Relative to another vector or line: \"perpendicular to the incline\"\n\n**The Angle Formula** {{viz:formula-01}}\nIf you know the components (vx, vy) of a vector, you can pull out its direction using:\n\nθ = atan2(vy, vx)\n\n(atan2 is just the well-behaved version of arctangent - it figures out the correct angle in any quadrant, so it won't get confused about which way the vector actually points.) {{viz:anim-01}}\n\n**Direction Is Independent of Size**\nHere's the thing to really lock in: direction and magnitude are separate ingredients. You can scale a vector up or down (make the arrow longer or shorter) and, as long as you don't flip it, the direction stays exactly the same. {{viz:chart-01}}\n\n**Why This Trips People Up**\nStudents often want to just add or subtract vector magnitudes like regular numbers. But 5 N to the right plus 5 N to the left isn't 10 N - it's 0 N, because the directions cancel out. Direction changes the math completely, which is exactly why we can't treat vectors like scalars. {{viz:text-01}} Get comfortable reading and reasoning about direction, and vector addition (coming up soon) will make a lot more sense. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Direction is the 'which way' half of a vector - just as important as magnitude {{viz:diagram-02}}",
+      "Common ways to state it: compass direction, angle from an axis, or relative to another vector",
+      "θ = atan2(vy, vx) recovers the direction from a vector's components"
     ],
-    "whyItMatters": "Direction is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Ignore direction and you'll get nonsense answers - forces that should cancel won't, and objects that should end up in different places will look identical on paper. Direction is what makes vector math actually match reality."
   },
   "availableLanguages": [
     "en"

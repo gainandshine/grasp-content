@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-01",
   "description": "Planning an experiment so you get good, reliable results",
   "content": {
-    "overview": "Before you do an experiment, you need a plan. What are you testing? What will you measure? How? Good experimental design means you get answers you can trust. {{viz:diagram-01}}",
-    "explanation": "So you want to test something. Maybe: 'Does a heavier ball fall faster?' Before you start, you need to design your experiment.\n\nGood experimental design means:\n1. **Know what you're testing** - Your question should be clear. 'Does mass affect falling speed?' is clear. 'How does stuff fall?' is vague.\n\n2. **Decide what to measure** - If testing falling speed, you measure: how far the ball falls and how long it takes.\n\n3. **Control variables** - Change ONE thing (mass), keep everything else the same (drop height, location, air conditions).\n\n4. **Plan your measurements** - How many times will you test? How will you record results?\n\n5. **Think about errors** - What could go wrong? How will you handle mistakes? {{viz:diagram-02}}\n\n**Example:** Testing if ramp angle affects rolling speed.\n- Question: Does steeper ramps make balls roll faster?\n- What to measure: distance traveled, time taken\n- Change: ramp angle (30°, 45°, 60°, 90°)\n- Keep the same: ball mass, ball type, starting height, surface\n- How many: 3 trials per angle\n- Expected error: timing by hand is hard; use video if possible\n\nGood design = good data. {{viz:chart-01}}",
+    "overview": "Ever start a science project and just... wing it? Yeah, don't do that. Before you touch a single test tube (or roll a single ball), you need a plan. What are you actually testing? What are you going to measure, and how? Nail this part and your results become something you can actually trust. Skip it, and you're just guessing with extra steps. {{viz:diagram-01}}",
+    "explanation": "So you've got a question you want to test. Maybe something like: 'Does a heavier ball fall faster?' Cool—but before you start dropping things off the roof, you need to design your experiment properly. Think of yourself as a detective building a case: sloppy evidence-gathering gets you a sloppy verdict.\n\nHere's what good experimental design actually looks like:\n\n1. **Know exactly what you're testing.** Your question needs to be sharp, not fuzzy. 'Does mass affect falling speed?' — clear. 'How does stuff fall?' — vague and kind of useless.\n\n2. **Decide what you'll measure.** Testing falling speed? Then you're measuring distance fallen and time taken. Simple as that.\n\n3. **Control your variables.** Change ONE thing at a time (say, mass) and keep everything else locked down (drop height, location, air conditions). Change two things at once and you'll never know which one actually caused the effect.\n\n4. **Plan your measurements ahead of time.** How many trials? How will you write results down so future-you doesn't have to guess what past-you meant?\n\n5. **Think about what could go wrong, before it goes wrong.** What mistakes are likely? How will you catch and handle them? {{viz:diagram-02}}\n\n**A real example:** Let's say you want to know if steeper ramps make balls roll faster.\n- Question: Do steeper ramps = faster rolling?\n- What to measure: distance traveled, time taken\n- What you change: ramp angle (30°, 45°, 60°, 90°)\n- What stays the same: ball mass, ball type, starting height, surface\n- How many trials: 3 per angle (never trust just one!)\n- Likely error: timing by hand is genuinely hard—grab a video if you can\n\nHere's the takeaway: good design isn't busywork, it's what makes your data worth anything at all. {{viz:chart-01}}",
     "keyPoints": [
-      "Ask a clear question first",
-      "Plan what you'll measure",
-      "Change ONE variable, keep others the same",
-      "Do multiple trials",
-      "Think about errors ahead of time",
-      "Good design = reliable results"
+      "Start with one clear, sharp question—not a vague one",
+      "Decide exactly what you'll measure before you start",
+      "Change ONE variable at a time, keep everything else steady",
+      "Always run multiple trials—one shot proves nothing",
+      "Think ahead about what could go wrong",
+      "Good design = results you can actually believe"
     ],
-    "whyItMatters": "Without good experimental design, your results are worthless. You might get luck results that look good but aren't real. Scientists spend more time planning experiments than running them."
+    "whyItMatters": "Skip good experimental design and your results are basically worthless—you might get numbers that look convincing but aren't real at all. Here's the secret real scientists know: they spend way more time planning an experiment than actually running it. Get the plan right and the rest takes care of itself."
   },
   "availableLanguages": [
     "en"

@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-02.topic-05",
   "description": "Using units to check if your physics equation is correct",
   "content": {
-    "overview": "Dimensional analysis is a POWER TOOL. You can catch math mistakes just by looking at the units! If the units don't match, the equation is wrong. {{viz:diagram-01}}",
-    "explanation": "Here's the idea: both sides of an equation must have the same units (dimensions). {{viz:diagram-02}}\n\nIf you get an answer with the wrong units, something went wrong.\n\n**Example: Does speed = distance ÷ time work?**\n\nLeft side: speed has units of m/s\nRight side: distance ÷ time = m ÷ s = m/s ✓\n\nUnits match! The equation is at least plausible.\n\n**Example: Wrong equation!**\n\nSuppose you (mistakenly) write: distance = speed × speed\n\nLeft side: distance = meters (m)\nRight side: speed × speed = (m/s) × (m/s) = m²/s²\n\nThey don't match! (m ≠ m²/s²) This equation is WRONG. {{viz:anim-01}}\n\n**How to use dimensional analysis:**\n\n1. Write the equation\n2. Replace every variable with its units\n3. Simplify like algebra (m/s ÷ s = m/s²)\n4. Check if both sides match\n5. If they don't, something is wrong\n\n**Real Example: Does E = mc² work?**\n\nLeft side: Energy = Joules = kg·m²/s²\nRight side: m × c² = kg × (m/s)² = kg × m²/s² = kg·m²/s²\n\nThey match! The dimensions are consistent. {{viz:chart-01}}\n\n**This doesn't prove the equation is RIGHT**, but if dimensions DON'T match, it's definitely WRONG. Dimensional analysis is a quick way to catch errors before you do all the calculation.",
+    "overview": "Here's a neat trick: you can catch a wrong equation just by looking at its units, before you even touch the numbers. That's dimensional analysis — a free error-detector hiding in plain sight. {{viz:diagram-01}}",
+    "explanation": "The core rule is simple: both sides of any physics equation have to end up with the same units. If they don't, you've got a problem. {{viz:diagram-02}}\n\n**Quick check: does speed = distance ÷ time hold up?**\n\nLeft side: speed is in m/s\nRight side: distance ÷ time = m ÷ s = m/s ✓\n\nThey match — so far so good.\n\n**Now here's one that's broken:**\n\nSay someone writes: distance = speed × speed\n\nLeft side: distance = meters (m)\nRight side: speed × speed = (m/s) × (m/s) = m²/s²\n\nm doesn't equal m²/s² — so this equation is flat-out wrong, no calculation needed to spot it. {{viz:anim-01}}\n\n**How you actually use this:**\n\n1. Write out the equation\n2. Swap every variable for its units\n3. Simplify the units like you'd simplify any fraction\n4. See if both sides land on the same thing\n5. If they don't — red flag, something's off\n\n**Let's stress-test the famous one: does E = mc² check out?**\n\nLeft side: Energy is in joules, which is kg·m²/s²\nRight side: m × c² = kg × (m/s)² = kg·m²/s²\n\nThey match! Dimensionally, this equation holds up. {{viz:chart-01}}\n\nOne caveat: matching units don't *prove* an equation is correct, but mismatched units definitely prove it's wrong. Think of dimensional analysis as your fast, free sanity check before you dive into the actual math.",
     "keyPoints": [
-      "Both sides of an equation must have the same units (dimensions)",
-      "Replace variables with their units",
-      "Simplify the units like you do algebra",
-      "If units don't match, the equation is wrong",
-      "If units DO match, the equation might be right (still need to check the math)",
-      "Dimensional analysis catches mistakes FAST"
+      "Both sides of an equation need to land on the same units",
+      "Swap variables for their units and simplify like algebra",
+      "Units matching doesn't guarantee the equation is right, but mismatched units guarantee it's wrong",
+      "You can spot a broken equation before doing any real math",
+      "This is one of the fastest sanity checks in physics",
+      "Use it on every formula you're not 100% sure about"
     ],
-    "whyItMatters": "You'll make mistakes. Everyone does. Dimensional analysis is your quick check: 'Wait, are the units right?' It saves you from looking foolish!"
+    "whyItMatters": "Everyone messes up an equation now and then. Dimensional analysis is your 5-second gut check — 'wait, do these units even match?' — that saves you from confidently handing in a wrong answer."
   },
   "availableLanguages": [
     "en"

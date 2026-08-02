@@ -4,14 +4,15 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-08",
   "description": "Learn about Error Propagation and its applications in physics.",
   "content": {
-    "overview": "Error Propagation is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Error Propagation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Error Propagation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Say you measure the length and width of a rectangle, and both measurements have a little error in them. When you multiply them to get the area, does the error just... disappear? Nope—it carries through into your final answer. That's error propagation: how uncertainty travels through your calculations. {{viz:diagram-01}}",
+    "explanation": "Here's the thing nobody tells you up front: almost nothing you calculate in physics comes from a single measurement. You measure a few quantities, each with its own small error, then combine them with math—and every one of those little errors rides along into the final result.\n\nThe good news is there are simple rules for this, depending on what kind of math you're doing:\n\nWhen you ADD or SUBTRACT quantities, their absolute errors simply add up: {{viz:formula-01}}\n\nWhen you MULTIPLY or DIVIDE quantities, it's their relative (or percentage) errors that add up instead. {{viz:anim-01}}\n\nLet's make this real. Say you measure a rectangle: length = 10 cm ± 0.1 cm, width = 5 cm ± 0.1 cm.\n- Perimeter (uses addition): errors add directly, so the uncertainty in perimeter is 0.1 + 0.1 = 0.2 cm.\n- Area (uses multiplication): you'd add the *relative* errors. Length's relative error is 0.1/10 = 1%, width's is 0.1/5 = 2%. Combined, the area's relative error is about 3%. {{viz:3d-01}}\n\nSee how a small error in one measurement grows or shrinks as it flows through a calculation. {{viz:chart-01}}\n\nThis is exactly why scientists are so careful about reporting uncertainty for every single measurement—because those little errors don't cancel each other out politely. They stack up, and by the time you reach your final answer, you need to know just how much you can actually trust it. {{viz:text-01}} Experiment with combining errors here. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Error propagation = how uncertainty from individual measurements carries into a calculated result {{viz:diagram-02}}",
+      "Adding or subtracting quantities → their absolute errors add together",
+      "Multiplying or dividing quantities → their relative (percentage) errors add together",
+      "Example: rectangle with length 10 cm ± 0.1 cm and width 5 cm ± 0.1 cm gives an area with about ±3% uncertainty"
     ],
-    "whyItMatters": "Error Propagation is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Nothing in real science comes from one clean measurement—results are built by combining several imperfect ones. Understanding error propagation is what lets scientists honestly say how much they trust a final calculated result, instead of pretending the errors just vanished along the way."
   },
   "availableLanguages": [
     "en"

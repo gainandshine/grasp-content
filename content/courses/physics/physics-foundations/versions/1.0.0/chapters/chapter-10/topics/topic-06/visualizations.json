@@ -4,7 +4,7 @@
       "id": "diagram-01",
       "type": "diagram",
       "title": "Velocity Flowchart",
-      "description": "Flowchart showing Velocity process",
+      "description": "Flowchart showing how to find velocity",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
@@ -15,12 +15,17 @@
           },
           {
             "id": "process",
-            "label": "Velocity",
+            "label": "Measure displacement & time",
+            "type": "rect"
+          },
+          {
+            "id": "divide",
+            "label": "Divide: v = displacement / time",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Velocity (with direction!)",
             "type": "ellipse"
           }
         ],
@@ -31,6 +36,10 @@
           },
           {
             "from": "process",
+            "to": "divide"
+          },
+          {
+            "from": "divide",
             "to": "end"
           }
         ]
@@ -40,13 +49,21 @@
       "id": "formula-01",
       "type": "formula",
       "title": "Velocity Formula",
-      "description": "Mathematical definition",
+      "description": "Mathematical definition of velocity",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\vec{v} = \\frac{\\Delta \\vec{x}}{\\Delta t}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\Delta \\vec{x} = \\text{displacement (m), a vector}",
+            "explanation": "Straight-line change in position, from start to end point"
+          },
+          {
+            "latex": "\\Delta t = \\text{time taken (s)}",
+            "explanation": "How long the motion took"
+          },
+          {
+            "latex": "|\\vec{v}| = \\text{speed (m/s)}",
+            "explanation": "The magnitude of velocity is just the speed - direction is the extra piece velocity gives you"
           }
         ]
       }
@@ -55,39 +72,39 @@
       "id": "3d-01",
       "type": "3d",
       "title": "Velocity 3D Model",
-      "description": "Interactive 3D visualization",
+      "description": "A block moving with constant velocity, then reversing direction",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var cubeGeo = new api.THREE.BoxGeometry(1, 1, 1);\n                var cubeMat = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(cubeGeo, cubeMat);\n                api.group.add(cube);\n                var speed = 0.03;\n                var range = 2.5;\n                return {\n                  update: function(t) {\n                    cube.position.x = Math.sin(t * speed) * range;\n                    cube.rotation.y = t * 0.01;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
       "title": "Velocity Animation",
-      "description": "Canvas animation",
+      "description": "A car drives with a velocity arrow showing speed and direction",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "var x = 0;\n                var dir = 1;\n                var speedPxPerSec = 90;\n                return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n\n                    var groundY = H / 2 + 60;\n                    ctx.strokeStyle = '#C9C2B4';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(0, groundY);\n                    ctx.lineTo(W, groundY);\n                    ctx.stroke();\n\n                    x += dir * speedPxPerSec * (dt || 0.016);\n                    var margin = 40;\n                    if (x > W - margin) { x = W - margin; dir = -1; }\n                    if (x < margin) { x = margin; dir = 1; }\n\n                    var carY = groundY - 18;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.fillRect(x - 25, carY - 12, 50, 24);\n                    ctx.beginPath();\n                    ctx.arc(x - 15, carY + 12, 7, 0, Math.PI * 2);\n                    ctx.arc(x + 15, carY + 12, 7, 0, Math.PI * 2);\n                    ctx.fillStyle = '#333333';\n                    ctx.fill();\n\n                    var arrowLen = 45;\n                    var arrowY = carY - 30;\n                    ctx.strokeStyle = '#2563EB';\n                    ctx.lineWidth = 4;\n                    ctx.beginPath();\n                    ctx.moveTo(x, arrowY);\n                    ctx.lineTo(x + dir * arrowLen, arrowY);\n                    ctx.stroke();\n                    ctx.beginPath();\n                    ctx.moveTo(x + dir * arrowLen, arrowY);\n                    ctx.lineTo(x + dir * (arrowLen - 10), arrowY - 6);\n                    ctx.lineTo(x + dir * (arrowLen - 10), arrowY + 6);\n                    ctx.closePath();\n                    ctx.fillStyle = '#2563EB';\n                    ctx.fill();\n\n                    ctx.fillStyle = '#333333';\n                    ctx.font = '14px sans-serif';\n                    ctx.fillText('v = ' + (dir > 0 ? '+' : '-') + '90 px/s (velocity vector shown in blue)', 16, 24);\n                  }\n                };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Velocity Chart",
-      "description": "Data visualization",
+      "title": "Position vs. Time Graph",
+      "description": "A straight-line position-time graph — its slope is the velocity",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Time (s)",
+        "y_label": "Position (m)",
+        "data_json": "{\"fn\":\"5 * x\",\"x_min\":0,\"x_max\":10,\"samples\":100}"
       }
     },
     {
       "id": "text-01",
       "type": "2d-text",
       "title": "Theoretical Background",
-      "description": "Detailed text explanation",
+      "description": "Detailed text explanation of velocity",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Velocity.",
+        "body_markdown": "## Velocity: Speed with a Direction\n\nVelocity tells you two things at once: how fast something is moving, and which way it's headed.\n\n**Formula:** v = displacement / time\n\nBecause displacement is a vector (it has direction), velocity is a vector too. Compare that to speed, which only cares about distance traveled and never mentions direction.\n\n**Why it matters:** two cars can have the same speed (60 km/h) but very different velocities if one is heading north and the other south. In physics, that difference matters a lot - it changes how forces and accelerations add up.\n\n**Key fact:** if you return to your starting point, your displacement is zero, so your average velocity is zero - even if your average speed was not.",
         "citations": []
       }
     },
@@ -95,20 +112,27 @@
       "id": "simulation-01",
       "type": "simulation",
       "title": "Velocity Simulation",
-      "description": "Interactive simulation",
+      "description": "Drag the velocity slider and watch the ball move faster, slower, or reverse direction",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          {
+            "id": "velocity",
+            "type": "slider",
+            "label": "Velocity (m/s)",
+            "default": 2,
+            "min": -5,
+            "max": 5,
+            "step": 0.5
+          }
+        ],
+        "setup_code": "var x = 0;\n                var curV = 2;\n                return {\n                  init: function(api) {\n                    x = api.width / 2;\n                  },\n                  onControlChange: function(id, val) {\n                    if (id === 'velocity') { curV = val; }\n                  },\n                  update: function(dt, time, state) {\n                    curV = (state.velocity !== undefined) ? state.velocity : curV;\n                    x += curV * 40 * dt;\n                    if (x > 2000) x = -50;\n                    if (x < -50) x = 2000;\n                  },\n                  draw: function(ctx, W, H) {\n                    ctx.fillStyle = '#F9FAFB';\n                    ctx.fillRect(0, 0, W, H);\n                    var y = H / 2;\n                    ctx.strokeStyle = '#E5E7EB';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(0, y + 30);\n                    ctx.lineTo(W, y + 30);\n                    ctx.stroke();\n\n                    ctx.fillStyle = '#EC4899';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 16, 0, Math.PI * 2);\n                    ctx.fill();\n\n                    var dir = curV >= 0 ? 1 : -1;\n                    var len = Math.min(Math.abs(curV) * 12, 70);\n                    ctx.strokeStyle = '#2563EB';\n                    ctx.lineWidth = 4;\n                    ctx.beginPath();\n                    ctx.moveTo(x, y - 30);\n                    ctx.lineTo(x + dir * len, y - 30);\n                    ctx.stroke();\n\n                    ctx.fillStyle = '#111827';\n                    ctx.font = '14px sans-serif';\n                    ctx.fillText('v = ' + curV.toFixed(1) + ' m/s', 16, 24);\n                  }\n                };"
       }
     },
     {
       "id": "diagram-02",
       "type": "diagram",
       "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "description": "Visual concept relationships for velocity",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
@@ -119,12 +143,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Magnitude (speed)",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Direction",
             "type": "rect"
           }
         ],

@@ -10,27 +10,36 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Pick a point",
             "type": "ellipse"
           },
           {
-            "id": "process",
-            "label": "Cartesian Coordinates",
+            "id": "step1",
+            "label": "Measure x (horizontal)",
+            "type": "rect"
+          },
+          {
+            "id": "step2",
+            "label": "Measure y (vertical)",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Point (x, y)",
             "type": "ellipse"
           }
         ],
         "edges": [
           {
             "from": "start",
-            "to": "process"
+            "to": "step1"
           },
           {
-            "from": "process",
+            "from": "step1",
+            "to": "step2"
+          },
+          {
+            "from": "step2",
             "to": "end"
           }
         ]
@@ -42,11 +51,19 @@
       "title": "Cartesian Coordinates Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "P = (x, y, z)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "x = \\\\text{distance along the horizontal axis}",
+            "explanation": "How far left/right from the origin"
+          },
+          {
+            "latex": "y = \\\\text{distance along the vertical axis}",
+            "explanation": "How far up/down from the origin"
+          },
+          {
+            "latex": "z = \\\\text{distance along the depth axis}",
+            "explanation": "How far forward/back (only needed in 3D)"
           }
         ]
       }
@@ -57,7 +74,7 @@
       "title": "Cartesian Coordinates 3D Model",
       "description": "Interactive 3D visualization",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                cube.position.set(1, 1, 1);\n                api.group.add(cube);\n                var axes = new api.THREE.AxesHelper(3);\n                api.group.add(axes);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
       }
     },
     {
@@ -66,7 +83,7 @@
       "title": "Cartesian Coordinates Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var cx = W/2, cy = H/2;\n                    var scale = Math.min(W, H) / 12;\n                    ctx.strokeStyle = '#CFC7B8';\n                    ctx.lineWidth = 1;\n                    for (var gx = -5; gx <= 5; gx++) {\n                      ctx.beginPath();\n                      ctx.moveTo(cx + gx * scale, 0);\n                      ctx.lineTo(cx + gx * scale, H);\n                      ctx.stroke();\n                    }\n                    for (var gy = -5; gy <= 5; gy++) {\n                      ctx.beginPath();\n                      ctx.moveTo(0, cy + gy * scale);\n                      ctx.lineTo(W, cy + gy * scale);\n                      ctx.stroke();\n                    }\n                    ctx.strokeStyle = '#8A8272';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(0, cy); ctx.lineTo(W, cy);\n                    ctx.moveTo(cx, 0); ctx.lineTo(cx, H);\n                    ctx.stroke();\n                    var px = 3, py = 4;\n                    var x = cx + px * scale;\n                    var y = cy - py * scale;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.strokeStyle = '#E8593C';\n                    ctx.setLineDash([4, 4]);\n                    ctx.beginPath();\n                    ctx.moveTo(cx, cy); ctx.lineTo(x, cy); ctx.lineTo(x, y);\n                    ctx.stroke();\n                    ctx.setLineDash([]);\n                    ctx.fillStyle = '#333';\n                    ctx.font = '14px sans-serif';\n                    ctx.fillText('(' + px + ', ' + py + ')', x + 12, y - 12);\n                  }\n                };"
       }
     },
     {
@@ -119,12 +136,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Perpendicular axes",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Origin at (0,0)",
             "type": "rect"
           }
         ],

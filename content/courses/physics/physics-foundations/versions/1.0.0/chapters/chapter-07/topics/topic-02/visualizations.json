@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Pick two points",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Slope",
+            "label": "Divide rise by run",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Slope value",
             "type": "ellipse"
           }
         ],
@@ -42,11 +42,15 @@
       "title": "Slope Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{\\text{rise}}{\\text{run}}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\text{rise} = y_2 - y_1",
+            "explanation": "How much the graph goes up (or down) between the two points"
+          },
+          {
+            "latex": "\\text{run} = x_2 - x_1",
+            "explanation": "How far you moved sideways between the two points"
           }
         ]
       }
@@ -66,7 +70,7 @@
       "title": "Slope Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "var margin = 40;\n                return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var originX = margin, originY = H - margin;\n                    var axisW = W - 2 * margin, axisH = H - 2 * margin;\n                    ctx.strokeStyle = '#333333';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(originX, originY);\n                    ctx.lineTo(originX + axisW, originY);\n                    ctx.moveTo(originX, originY);\n                    ctx.lineTo(originX, originY - axisH);\n                    ctx.stroke();\n                    var x1 = originX + axisW * 0.2, y1 = originY - axisH * 0.2;\n                    var x2 = originX + axisW * 0.8, y2 = originY - axisH * 0.8;\n                    ctx.strokeStyle = '#4A90D9';\n                    ctx.lineWidth = 3;\n                    ctx.beginPath();\n                    ctx.moveTo(x1, y1);\n                    ctx.lineTo(x2, y2);\n                    ctx.stroke();\n                    var frac = (Math.sin(t * 0.03) + 1) / 2;\n                    var runX = x1 + (x2 - x1) * frac;\n                    ctx.strokeStyle = '#E8593C';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(x1, y1);\n                    ctx.lineTo(runX, y1);\n                    ctx.lineTo(runX, y1 - (y1 - (y1 + (y2 - y1) * frac)));\n                    ctx.stroke();\n                    var riseY = y1 + (y2 - y1) * frac;\n                    ctx.beginPath();\n                    ctx.moveTo(runX, y1);\n                    ctx.lineTo(runX, riseY);\n                    ctx.stroke();\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(runX, riseY, 5, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
       }
     },
     {
@@ -76,9 +80,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "time (s)",
+        "y_label": "position (m)",
+        "data_json": "{\"fn\":\"2*x+1\",\"x_min\":-10,\"x_max\":10,\"samples\":200}"
       }
     },
     {
@@ -119,12 +123,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Steep slope = fast change",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Negative slope = decreasing",
             "type": "rect"
           }
         ],

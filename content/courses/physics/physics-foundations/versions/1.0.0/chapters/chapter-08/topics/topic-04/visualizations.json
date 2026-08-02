@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Collect raw numbers",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Tables",
+            "label": "Organize into rows & columns",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Spot the pattern",
             "type": "ellipse"
           }
         ],
@@ -39,14 +39,14 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Tables Formula",
-      "description": "Mathematical definition",
+      "title": "The Trend Hidden in the Table",
+      "description": "The straight-line pattern behind the spring-height example",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "h \\approx 0.65\\,T + 2",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "h \\approx 0.65\\,T + 2",
+            "explanation": "For every extra 1°C in the spring-height table above, height grows by about 0.65 mm - that's the pattern hiding behind the numbers."
           }
         ]
       }
@@ -72,13 +72,13 @@
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Tables Chart",
-      "description": "Data visualization",
+      "title": "Temperature vs Spring Height",
+      "description": "The straight-line trend matching the table's 20/25/30°C readings",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Temperature (°C)",
+        "y_label": "Spring Height (mm)",
+        "data_json": "{\"fn\":\"0.65*x + 2\",\"x_min\":20,\"x_max\":30,\"samples\":50}"
       }
     },
     {
@@ -87,7 +87,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Tables.",
+        "body_markdown": "## Building a Table That Works\\n\\nUse clear column headers with units, one row per trial, consistent decimal places throughout, and a title so you remember what you tested. A clean table makes patterns in your data visible at a glance.",
         "citations": []
       }
     },
@@ -119,12 +119,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Clear Headers + Units",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "One Row per Trial",
             "type": "rect"
           }
         ],

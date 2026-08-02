@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Collect data (x, y)",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Graphs",
+            "label": "Plot each (x, y) pair",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Read the shape",
             "type": "ellipse"
           }
         ],
@@ -42,11 +42,15 @@
       "title": "Graphs Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{point} = (x, y)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "x \\rightarrow \\text{horizontal position}",
+            "explanation": "The x-value tells you where the point sits left-to-right"
+          },
+          {
+            "latex": "y \\rightarrow \\text{vertical position}",
+            "explanation": "The y-value tells you how high or low the point sits"
           }
         ]
       }
@@ -66,7 +70,7 @@
       "title": "Graphs Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "var margin = 40;\n                return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var originX = margin, originY = H - margin;\n                    var axisW = W - 2 * margin, axisH = H - 2 * margin;\n                    ctx.strokeStyle = '#333333';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(originX, originY);\n                    ctx.lineTo(originX + axisW, originY);\n                    ctx.moveTo(originX, originY);\n                    ctx.lineTo(originX, originY - axisH);\n                    ctx.stroke();\n                    var frac = (Math.sin(t * 0.02) + 1) / 2;\n                    var nPoints = Math.floor(frac * 8) + 1;\n                    ctx.fillStyle = '#E8593C';\n                    for (var i = 0; i < nPoints; i++) {\n                      var px = originX + (i / 8) * axisW;\n                      var py = originY - Math.sin(i * 0.7) * axisH * 0.4 - axisH * 0.1;\n                      ctx.beginPath();\n                      ctx.arc(px, py, 5, 0, Math.PI * 2);\n                      ctx.fill();\n                      if (i > 0) {\n                        var prevX = originX + ((i - 1) / 8) * axisW;\n                        var prevY = originY - Math.sin((i - 1) * 0.7) * axisH * 0.4 - axisH * 0.1;\n                        ctx.strokeStyle = '#4A90D9';\n                        ctx.beginPath();\n                        ctx.moveTo(prevX, prevY);\n                        ctx.lineTo(px, py);\n                        ctx.stroke();\n                      }\n                    }\n                  }\n                };"
       }
     },
     {
@@ -119,12 +123,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Straight line = linear",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Curve = nonlinear",
             "type": "rect"
           }
         ],

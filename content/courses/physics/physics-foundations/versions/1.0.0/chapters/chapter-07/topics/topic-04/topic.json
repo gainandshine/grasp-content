@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-07.topic-04",
   "description": "When one quantity changes at a constant rate with another (straight line)",
   "content": {
-    "overview": "A linear relationship is when two quantities are connected in the simplest way: one is a constant multiple of the other plus a constant. Graph = straight line. {{viz:diagram-01}}",
-    "explanation": "**The equation:** y = mx + b\n\n- m = slope (steepness)\n- b = y-intercept (where line crosses y-axis)\n- x = input\n- y = output\n\n**Examples in physics:** {{viz:chart-01}}\n- Distance = speed × time (if constant speed): d = st (straight line through origin)\n- Temperature (Celsius) vs Temperature (Kelvin): K = C + 273.15 (straight line)\n- Force = mass × acceleration: F = ma (straight line through origin)\n- Cost = number of items × price (straight line)\n\n**How to recognize linear:**\n- Graph is a straight line\n- When x increases by 1, y always increases by the same amount\n- The change is consistent\n\n**Why linear relationships are important:** {{viz:anim-01}}\n- Easy to understand\n- Easy to calculate\n- Very common in physics\n- If you know m and b, you know everything about the relationship\n\nWhen you see \"y = mx + b\" in a physics problem, you know it's a straight line and you can solve it easily.",
+    "overview": "Ever notice how some things just change at a totally steady pace — like a taxi meter ticking up the same amount every minute? That's a linear relationship, and it's about as simple as physics gets: one quantity is just a constant multiple of another, plus maybe a starting amount. On a graph, it's always a straight line. {{viz:diagram-01}}",
+    "explanation": "**The equation you'll see everywhere:** y = mx + b\n\n- m = slope (how steep the line is)\n- b = y-intercept (where the line starts, on the y-axis)\n- x = your input\n- y = your output\n\n**Where you'll spot this in physics:** {{viz:chart-01}}\n- Distance = speed × time, at constant speed: d = st (a straight line through the origin)\n- Celsius to Kelvin: K = C + 273.15 (straight line, just shifted up)\n- Force = mass × acceleration: F = ma (straight line through the origin)\n- Total cost = number of items × price per item (straight line, obviously)\n\n**How do you know it's linear?** Easy checklist:\n- The graph is a straight line, no curving\n- Every time x goes up by 1, y goes up by the exact same amount\n- The change is completely predictable, no surprises\n\n**Why you'll be glad linear relationships exist:** {{viz:anim-01}}\n- They're easy to picture in your head\n- The math is dead simple\n- They show up constantly in physics\n- Once you know m and b, you know literally everything about the relationship — no guessing\n\nSo next time you spot \"y = mx + b\" in a problem, relax a little. That's a straight line, and straight lines are the friendliest thing physics throws at you.",
     "keyPoints": [
-      "Linear relationship: y = mx + b",
-      "Graph is always a straight line",
-      "m = slope (rate of change)",
-      "b = y-intercept (starting value)",
-      "Constant rate of change",
-      "Very common in physics"
+      "Linear relationship: y = mx + b — that's the whole recipe",
+      "Graph is always a straight line, no exceptions",
+      "m is the slope — the rate of change",
+      "b is the y-intercept — the starting value",
+      "The rate of change never wobbles, it stays constant",
+      "You'll run into linear relationships constantly in physics"
     ],
-    "whyItMatters": "Many physics laws are linear or approximately linear. Recognizing them saves time in problem-solving."
+    "whyItMatters": "A huge chunk of physics laws are linear, or close enough to it. The moment you recognize \"oh, this is just y = mx + b,\" a problem that looked scary suddenly becomes a two-line solve."
   },
   "availableLanguages": [
     "en"

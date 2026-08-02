@@ -4,35 +4,19 @@
       "id": "diagram-01",
       "type": "diagram",
       "title": "Cross Product Flowchart",
-      "description": "Flowchart showing Cross Product process",
+      "description": "Steps for computing a cross product",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Cross Product",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
+          { "id": "start", "label": "Two vectors A and B", "type": "ellipse" },
+          { "id": "process", "label": "Find angle theta between them", "type": "rect" },
+          { "id": "close", "label": "Magnitude = |A||B|sin(theta); direction via right-hand rule", "type": "rect" },
+          { "id": "end", "label": "A x B (a vector, perpendicular to both)", "type": "ellipse" }
         ],
         "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
+          { "from": "start", "to": "process" },
+          { "from": "process", "to": "close" },
+          { "from": "close", "to": "end" }
         ]
       }
     },
@@ -40,14 +24,13 @@
       "id": "formula-01",
       "type": "formula",
       "title": "Cross Product Formula",
-      "description": "Mathematical definition",
+      "description": "Magnitude, direction, and component form",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\vec{A} \\times \\vec{B} = |A||B|\\sin\\theta \\; \\hat{n}",
         "steps": [
-          {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
-          }
+          { "latex": "(\\vec{A}\\times\\vec{B})_x = A_yB_z - A_zB_y", "explanation": "x-component of the cross product" },
+          { "latex": "(\\vec{A}\\times\\vec{B})_y = A_zB_x - A_xB_z", "explanation": "y-component of the cross product" },
+          { "latex": "(\\vec{A}\\times\\vec{B})_z = A_xB_y - A_yB_x", "explanation": "z-component of the cross product" }
         ]
       }
     },
@@ -55,30 +38,30 @@
       "id": "3d-01",
       "type": "3d",
       "title": "Cross Product 3D Model",
-      "description": "Interactive 3D visualization",
+      "description": "A and B in the xy-plane, A x B perpendicular via the right-hand rule",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var A = new api.THREE.Vector3(2, 0, 0);\nvar origin = new api.THREE.Vector3(0, 0, 0);\nvar arrowA = new api.THREE.ArrowHelper(A.clone().normalize(), origin, A.length(), 0x4C72B0);\nvar arrowB = new api.THREE.ArrowHelper(new api.THREE.Vector3(1, 0, 0), origin, 1.5, 0xE8593C);\nvar arrowR = new api.THREE.ArrowHelper(new api.THREE.Vector3(0, 0, 1), origin, 1, 0x2E7D32);\napi.group.add(arrowA);\napi.group.add(arrowB);\napi.group.add(arrowR);\nreturn {\n  update: function(t) {\n    var theta = (t * 0.005) % Math.PI;\n    var B = new api.THREE.Vector3(1.5 * Math.cos(theta), 1.5 * Math.sin(theta), 0);\n    arrowB.setDirection(B.clone().normalize());\n    arrowB.setLength(Math.max(B.length(), 0.01));\n    var R = new api.THREE.Vector3().crossVectors(A, B);\n    var mag = R.length();\n    if (mag > 0.001) {\n      arrowR.setDirection(R.clone().normalize());\n      arrowR.setLength(mag);\n    }\n  }\n};"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
       "title": "Cross Product Animation",
-      "description": "Canvas animation",
+      "description": "The parallelogram area formed by A and B equals |A x B|",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    ctx.fillStyle = '#F5F0E8';\n    ctx.fillRect(0, 0, W, H);\n    function arrow(x0, y0, x1, y1, color) {\n      ctx.strokeStyle = color;\n      ctx.fillStyle = color;\n      ctx.lineWidth = 3;\n      ctx.beginPath();\n      ctx.moveTo(x0, y0);\n      ctx.lineTo(x1, y1);\n      ctx.stroke();\n      var ang = Math.atan2(y1 - y0, x1 - x0);\n      var hs = 10;\n      ctx.beginPath();\n      ctx.moveTo(x1, y1);\n      ctx.lineTo(x1 - hs * Math.cos(ang - Math.PI / 6), y1 - hs * Math.sin(ang - Math.PI / 6));\n      ctx.lineTo(x1 - hs * Math.cos(ang + Math.PI / 6), y1 - hs * Math.sin(ang + Math.PI / 6));\n      ctx.closePath();\n      ctx.fill();\n    }\n    var scale = Math.min(W, H) * 0.015;\n    var ox = W * 0.3, oy = H * 0.7;\n    var Amag = 5, Bmag = 4;\n    var theta = (t * 0.005) % Math.PI;\n    var ax = Amag * scale, ay = 0;\n    var bx = Bmag * scale * Math.cos(theta), by = -Bmag * scale * Math.sin(theta);\n    ctx.beginPath();\n    ctx.moveTo(ox, oy);\n    ctx.lineTo(ox + ax, oy + ay);\n    ctx.lineTo(ox + ax + bx, oy + ay + by);\n    ctx.lineTo(ox + bx, oy + by);\n    ctx.closePath();\n    ctx.fillStyle = 'rgba(46,125,50,0.25)';\n    ctx.fill();\n    arrow(ox, oy, ox + ax, oy + ay, '#4C72B0');\n    arrow(ox, oy, ox + bx, oy + by, '#E8593C');\n    var cross = Amag * Bmag * Math.sin(theta);\n    ctx.fillStyle = '#333';\n    ctx.font = '15px sans-serif';\n    ctx.fillText('|A x B| = ' + cross.toFixed(1) + ' (shaded area, points out of the page)', 10, H - 15);\n  }\n};"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Cross Product Chart",
-      "description": "Data visualization",
+      "title": "Cross Product Magnitude vs Angle",
+      "description": "|A x B| = |A||B| sin(theta) for |A|=5, |B|=4",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "theta (rad)",
+        "y_label": "|A x B|",
+        "data_json": "{\"fn\":\"20*Math.sin(x)\",\"x_min\":0,\"x_max\":3.141592653589793,\"samples\":200}"
       }
     },
     {
@@ -87,7 +70,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Cross Product.",
+        "body_markdown": "## Cross Product\\n\\nThe cross product A x B is a vector perpendicular to both A and B, with magnitude |A||B|sin(theta) equal to the area of the parallelogram they form. Its direction follows the right-hand rule: curl your fingers from A to B, and your thumb points along A x B. Torque = Position x Force is a classic physics example.",
         "citations": []
       }
     },
@@ -95,12 +78,12 @@
       "id": "simulation-01",
       "type": "simulation",
       "title": "Cross Product Simulation",
-      "description": "Interactive simulation",
+      "description": "Rotate B around A and watch the cross product change",
       "spec": {
         "simulationType": "physics",
         "config": {
-          "gravity": 9.8,
-          "friction": 0.1
+          "magnitudeA": 5,
+          "magnitudeB": 4
         }
       }
     },
@@ -108,35 +91,17 @@
       "id": "diagram-02",
       "type": "diagram",
       "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "description": "Cross product key properties",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
-          {
-            "id": "center",
-            "label": "Cross Product",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
+          { "id": "center", "label": "Cross Product", "type": "circle" },
+          { "id": "prop1", "label": "Parallel: A x B = 0", "type": "rect" },
+          { "id": "prop2", "label": "Order matters: A x B = -(B x A)", "type": "rect" }
         ],
         "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
+          { "from": "center", "to": "prop1" },
+          { "from": "center", "to": "prop2" }
         ]
       }
     }

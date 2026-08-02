@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-05",
   "description": "Learn about Graph Plotting and its applications in physics.",
   "content": {
-    "overview": "A graph shows your data visually. Numbers in a table = hard to see patterns. Same numbers on a graph = patterns jump out.",
-    "explanation": "Good graphs have:\n\n**1. Title.** What does this graph show? 'Temperature vs Spring Height'\n\n**2. Axis labels with units.** 'Temperature (°C)', 'Height (mm)'\n\n**3. Scale.** X-axis and Y-axis should use the full space. Don't put all points in one corner.\n\n**4. Plot points carefully.** Mark each data point. Use dots or X's. Be precise.\n\n**5. Connect with lines (if it makes sense).** If you tested 20°C, 25°C, 30°C—draw a line connecting them to show the trend. Don't just scatter dots.\n\n**Why graphs matter:**\n- **Table:** 20→15, 25→18, 30→21.5 (okay, but hard to see)\n- **Graph:** You immediately see: 'As temperature increases, height increases evenly' ← much clearer!\n\n**Types:**\n- **Scatter plot:** Just dots. Use when data is noisy or you're unsure of the relationship\n- **Line graph:** Dots connected with lines. Use when you're confident about the relationship\n- **Bar graph:** For comparing categories (spring A vs B vs C)\n\nA good graph tells the story of your data instantly.",
+    "overview": "Here's a fun fact: your brain is way better at spotting a trend in a picture than in a wall of numbers. That's basically the whole reason graphs exist. A table full of numbers hides its patterns; the same numbers on a graph practically shout them at you. {{viz:diagram-01}}",
+    "explanation": "Let's turn that spring-height table from before into something your eyes can actually process. A good graph needs a few key ingredients:\n\n**1. A title.** What is this graph even showing? 'Temperature vs Spring Height' tells you right away.\n\n**2. Axis labels with units.** 'Temperature (°C)' on one axis, 'Height (mm)' on the other. Never leave people guessing.\n\n**3. A sensible scale.** Use the full space on both axes—don't cram all your points into one tiny corner like you're hiding them.\n\n**4. Plot your points carefully.** Mark each one precisely—dots, X's, whatever, just be accurate.\n\n**5. Connect with lines when it makes sense.** Tested 20°C, 25°C, 30°C? Draw a line through them to show the trend—don't just leave scattered dots floating there. {{viz:formula-01}}\n\n**Here's why this actually matters:**\n- Table: 20→15, 25→18, 30→21.5 (fine, but you have to squint)\n- Graph: instantly you see 'as temperature goes up, height climbs steadily'—way clearer, right? {{viz:chart-01}}\n\n**A few graph types worth knowing:**\n- **Scatter plot:** just dots, no lines. Use it when your data's noisy or you're not sure there's a real relationship yet.\n- **Line graph:** dots connected with lines. Use it once you're confident about the trend.\n- **Bar graph:** great for comparing categories, like Spring A vs B vs C.\n\nA good graph basically tells the story of your data before you even say a word.",
     "keyPoints": [
-      "Clear title and labeled axes (with units)",
-      "Appropriate scale—use the full graph space",
-      "Plot points accurately",
-      "Connect with lines if it makes sense",
-      "A graph shows patterns that numbers hide",
-      "Different graph types for different data"
+      "Give it a clear title and labeled axes (with units!)",
+      "Use a sensible scale—fill the space, don't crowd it into a corner",
+      "Plot your points accurately",
+      "Connect with lines when the trend actually makes sense",
+      "A graph reveals patterns that raw numbers hide",
+      "Pick the right graph type for the data you've got"
     ],
-    "whyItMatters": "Graphs let you and others see what your data means at a glance."
+    "whyItMatters": "Graphs let you—and anyone else looking at your work—see what your data actually means in about two seconds flat, instead of squinting at a spreadsheet."
   },
   "availableLanguages": [
     "en"

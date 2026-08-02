@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-02.topic-06",
   "description": "Writing the units of a quantity in terms of base units (using M, L, T, etc.)",
   "content": {
-    "overview": "A dimensional formula is a shorthand for showing what units something has, using symbols for base units. It's like a 'unit recipe.' {{viz:diagram-01}}",
-    "explanation": "Instead of writing \"kilograms times meters squared divided by seconds squared,\" physicists write: **[M L² T⁻²]**\n\nLet me break this down: {{viz:diagram-02}}\n\n**Standard Symbols for Base Units:**\n- M = Mass (kilogram)\n- L = Length (meter)\n- T = Time (second)\n- I = Electric current (ampere)\n- θ = Temperature (kelvin)\n- n = Amount (mole)\n- J = Luminous intensity (candela)\n\n**How to write a dimensional formula:**\n\nTake the units and replace them with symbols, showing the powers.\n\n**Example: Speed**\nSpeed = m/s = L/T = **[L T⁻¹]**\n\n**Example: Force**\nForce = kg·m/s² = M·L·T⁻² = **[M L T⁻²]**\n\n**Example: Energy**\nEnergy = kg·m²/s² = M·L²·T⁻² = **[M L² T⁻²]**\n\n**Example: Acceleration**\nAcceleration = m/s² = L/T² = **[L T⁻²]** {{viz:chart-01}}\n\n**Why use dimensional formulas?** {{viz:anim-01}}\n\n1. **Shorthand:** [M L² T⁻²] is shorter than \"kilograms times meters squared divided by seconds squared\"\n2. **Quick check:** See what base units make up a derived unit\n3. **Dimensional analysis:** Easily check if equations are right\n4. **International:** No translation needed—all scientists understand symbols\n\n**Quick Rule:** Write the base unit symbol, then show the power. If there's no power, it's to the power of 1. Division means negative powers.",
+    "overview": "Saying 'kilograms times meters squared divided by seconds squared' out loud is a mouthful. Physicists got tired of it too, so they came up with a shorthand code: **[M L² T⁻²]**. That's a dimensional formula — think of it as a unit's ID tag. {{viz:diagram-01}}",
+    "explanation": "Let's crack the code. {{viz:diagram-02}}\n\n**The symbols everyone agrees on:**\n- M = Mass (kilogram)\n- L = Length (meter)\n- T = Time (second)\n- I = Electric current (ampere)\n- θ = Temperature (kelvin)\n- n = Amount (mole)\n- J = Luminous intensity (candela)\n\n**Writing one yourself is easier than it looks:**\n\nJust take the unit and swap in the symbols, keeping track of the powers.\n\n**Speed:** m/s = L/T = **[L T⁻¹]**\n\n**Force:** kg·m/s² = M·L·T⁻² = **[M L T⁻²]**\n\n**Energy:** kg·m²/s² = M·L²·T⁻² = **[M L² T⁻²]**\n\n**Acceleration:** m/s² = L/T² = **[L T⁻²]** {{viz:chart-01}}\n\n**Why bother with this code at all?** {{viz:anim-01}}\n\n1. **It's way shorter** — [M L² T⁻²] beats spelling out the whole phrase every time\n2. **It's a quick X-ray** — instantly see which base units built a derived unit\n3. **It powers dimensional analysis** — makes checking equations painless\n4. **It's universal** — no translating needed, every physicist on Earth reads the same symbols\n\n**The quick rule:** write the base-unit symbol, then its power. No power written means power 1. Division just flips the sign to negative.",
     "keyPoints": [
-      "Dimensional formula uses symbols for base units",
-      "M = mass, L = length, T = time",
-      "Written in brackets: [M L² T⁻²]",
-      "Shows what base units make up any quantity",
-      "Division = negative powers (T⁻² means divided by T²)",
-      "Shorthand that works worldwide"
+      "A dimensional formula is a symbol-based shorthand for a unit",
+      "M stands for mass, L for length, T for time",
+      "It's always written in brackets, like [M L² T⁻²]",
+      "It shows exactly which base units built up a quantity",
+      "Division shows up as a negative power (T⁻² means divided by T²)",
+      "It's a shorthand every physicist worldwide understands the same way"
     ],
-    "whyItMatters": "Dimensional formulas let you quickly see what units something has and check if equations make sense. It's physics notation that you'll see everywhere."
+    "whyItMatters": "Once you can read dimensional formulas, you can eyeball any quantity and instantly know what it's made of — and use that to sanity-check whether an equation actually makes sense. It's notation you'll run into constantly."
   },
   "availableLanguages": [
     "en"

@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-01",
   "description": "How close your measurement is to the true/correct value",
   "content": {
-    "overview": "Accuracy = how close your measurement is to the true/correct value. Like throwing darts at a bullseye. If all your darts hit the center, you're accurate! {{viz:diagram-01}}",
-    "explanation": "Imagine a thermometer reading a boiling pot. Water boils at 100°C. If your thermometer says 99.8°C, that's accurate (very close). If it says 115°C, that's not accurate (far from true value).\n\nAccuracy is about being RIGHT. How close you are to the actual answer. {{viz:anim-01}}\n\nKey idea: There's a TRUE value (like 100°C for boiling water). Your measurement either hits it (accurate) or misses it (inaccurate).\n\nAccuracy tells you: 'Did I measure the right value?'\n\nBUT—you need to KNOW the true value to judge accuracy. If you don't know what's correct, you can't know if you're accurate! {{viz:chart-01}}",
+    "overview": "Ever thrown darts at a bullseye? Accuracy is exactly that: how close your measurement lands to the true, correct value. Land your darts near the center and you're accurate—simple as that. {{viz:diagram-01}}",
+    "explanation": "Picture a pot of water boiling on the stove. We know—from chemistry—that water boils at 100°C at sea level. Now say you stick a thermometer in and it reads 99.8°C. Pretty close, right? That thermometer is accurate. But if another one reads 115°C, something's off—that one's way off the mark, not accurate at all.\n\nSo accuracy is really just about being *right*. It's asking: how close did you actually get to the real answer? {{viz:anim-01}}\n\nHere's the key idea to hold onto: somewhere out there is a TRUE value—100°C for boiling water, say. Your measurement either lands near it (accurate) or misses it by a mile (inaccurate). Think of it like your dart throw: bullseye = accurate, way off in the corner = inaccurate.\n\nSo accuracy answers one simple question: \"Did I measure the right value?\"\n\nHere's the catch though—you can only judge accuracy if you already know the true value. If nobody's ever measured the real answer, how would you know whether your reading is close or not? No true value to compare against means no way to call something accurate or inaccurate. {{viz:chart-01}}",
     "keyPoints": [
-      "Accuracy = how close to the TRUE value",
-      "The thermometer at 99.8°C is more accurate than one at 115°C",
-      "Accuracy is about being correct",
-      "You MUST know the true value to judge accuracy",
-      "Different from precision (which is about exactness)"
+      "Accuracy = how close your measurement lands to the TRUE value",
+      "A thermometer reading 99.8°C for boiling water is more accurate than one reading 115°C",
+      "It's all about being correct, not about how many decimals you show",
+      "You need to already know the true value before you can judge accuracy",
+      "Don't mix it up with precision—that's a different idea (more on that next)"
     ],
-    "whyItMatters": "In science, accurate measurements matter. A wrong answer is worse than a rough answer. If you're off, your whole conclusion is wrong."
+    "whyItMatters": "Here's why this matters: in science, being accurate beats being detailed. A rough-but-right answer beats a super-precise-but-wrong one every time. If your measurement is off the mark, every conclusion you build on top of it collapses too—so nailing accuracy is step one before anything else makes sense."
   },
   "availableLanguages": [
     "en"

@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-07.topic-02",
   "description": "How steep a line is; measures rate of change",
   "content": {
-    "overview": "Slope is how steep a line is on a graph. It tells you how fast something is changing. {{viz:diagram-01}}",
-    "explanation": "Slope = how much Y changes when X changes 1 unit.\n\n**The formula:** slope = (Y₂ - Y₁) / (X₂ - X₁) = rise / run\n\nThink of it like climbing a hill. The slope tells you how steep it is.\n\n**In physics:** {{viz:chart-01}}\n- On a distance-time graph: slope = speed (how fast you're going)\n- On a velocity-time graph: slope = acceleration (how fast speed is changing)\n- Steep slope = fast change\n- Flat slope = slow change\n- Negative slope = going backwards or decreasing\n\n**Examples:**\n- A slope of 5 means: for every 1 unit right, go 5 units up\n- A slope of 0 means: flat line (nothing is changing)\n- A slope of -2 means: for every 1 right, go 2 down (decreasing) {{viz:anim-01}}\n\nSlope is just a number that describes how quickly something is changing. That's it. But it's EVERYWHERE in physics.",
+    "overview": "You know that feeling when a hiking trail suddenly gets brutal? That's slope. On a graph, slope is just a number that tells you how steep the line is — and in physics, that steepness usually means something real, like how fast you're moving. {{viz:diagram-01}}",
+    "explanation": "Here's the deal: slope tells you how much Y changes every time X changes by 1 unit.\n\n**The formula:** slope = (Y₂ − Y₁) / (X₂ − X₁), or the way everyone actually remembers it — rise over run.\n\nPicture climbing a hill. Rise is how much higher you got, run is how far forward you walked. Divide one by the other and boom, that's your slope — a single number describing how brutal (or gentle) the climb is.\n\n**Why physics is obsessed with slope:** {{viz:chart-01}}\n- On a distance-time graph, slope = speed (how fast you're covering ground)\n- On a velocity-time graph, slope = acceleration (how fast your speed itself is changing)\n- Steep slope = things are changing fast\n- Flat slope = barely any change at all\n- Negative slope = you're going backwards, or the value is dropping\n\n**Quick gut-check examples:**\n- Slope of 5? For every 1 step right, you climb 5 up. Steep!\n- Slope of 0? Totally flat — nothing's changing.\n- Slope of −2? For every 1 step right, you drop 2. You're losing ground. {{viz:anim-01}}\n\nAt the end of the day, slope is just a number that answers \"how fast is this changing?\" Simple idea, but it shows up absolutely everywhere in physics.",
     "keyPoints": [
-      "Slope = rise / run = change in Y / change in X",
-      "Steep slope = fast change",
-      "Flat slope = slow change",
-      "Negative slope = decreasing",
-      "In physics, slope often = speed or rate of change",
-      "Slope is the same everywhere on a straight line"
+      "Slope = rise / run = how much Y changes for every step in X",
+      "Steep slope means things are changing quickly",
+      "Flat slope means things are barely changing",
+      "Negative slope means the value is decreasing",
+      "In physics, slope often IS speed or acceleration — it's not just abstract math",
+      "On a straight line, the slope is the same no matter where you measure it"
     ],
-    "whyItMatters": "Slope is how we measure rates of change in physics. Speed, acceleration, all described by slope."
+    "whyItMatters": "Slope is basically how physics measures \"how fast.\" Speed, acceleration, all the rate-of-change stuff you'll meet later — it all comes back to reading a slope off a graph. Nail this now and a lot of future topics get way less scary."
   },
   "availableLanguages": [
     "en"

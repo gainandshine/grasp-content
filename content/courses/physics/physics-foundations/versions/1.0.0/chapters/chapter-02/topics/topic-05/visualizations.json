@@ -42,11 +42,11 @@
       "title": "Dimensional Analysis Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "E = mc^2",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "[E] = [M][L]^2[T]^{-2} = \\text{kg}\\times(\\text{m/s})^2",
+            "explanation": "Check both sides: energy in joules is kg·m²/s², and mass × (speed of light)² also works out to kg·m²/s² - dimensions match."
           }
         ]
       }
@@ -76,9 +76,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "distance (m)",
+        "y_label": "speed = distance / 2s (m/s)",
+        "data_json": "{\"fn\":\"x / 2\",\"x_min\":0,\"x_max\":20,\"samples\":50}"
       }
     },
     {

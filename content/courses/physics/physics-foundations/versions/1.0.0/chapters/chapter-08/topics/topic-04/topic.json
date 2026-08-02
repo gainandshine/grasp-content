@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-08.topic-04",
   "description": "Learn about Tables and its applications in physics.",
   "content": {
-    "overview": "Tables organize your data so you can see patterns. Instead of scattered numbers, a good table shows everything clearly.",
-    "explanation": "A good data table has:\n\n**1. Clear headers.** First row shows what each column measures. Example: 'Temperature (°C)', 'Spring Height (mm)', 'Trial Number'\n\n**2. Units in headers.** Not in every cell, just the header. Saves space.\n\n**3. Organized rows.** Each row = one trial or one test condition.\n\n**4. Consistent decimal places.** If one number has 2 decimals, all should: 2.50, 3.25, 2.85—not 2.5, 3.25, 2.85 (mixing is sloppy).\n\n**5. Title.** At the top so you remember what you tested.\n\n**Example bad table:**\ntemp | spring | ???\n20 | 15\n25 | 18\n\n**Example good table:**\nTemperature (°C) | Spring Height (mm)\n20 | 15.0\n25 | 18.0\n30 | 21.5\n\nTables let you spot patterns. If height increases steadily as temperature rises, you see it in the table. Random numbers with no pattern also show up—meaning there's no real relationship.",
+    "overview": "You've got a pile of numbers from your experiment—now what? Tables are how you organize that mess into something you can actually read. Instead of scattered scribbles, a good table lays everything out so patterns practically jump off the page. {{viz:diagram-01}}",
+    "explanation": "Ever seen a spreadsheet that made your eyes glaze over? That's a table done wrong. Here's what a good data table actually needs:\n\n**1. Clear headers.** The first row tells you what each column is measuring. Something like 'Temperature (°C)', 'Spring Height (mm)', 'Trial Number.'\n\n**2. Units in the headers, not every cell.** Put the unit once, at the top. Saves you space and keeps things tidy.\n\n**3. Organized rows.** Each row = one trial, or one test condition. No mixing things up mid-table.\n\n**4. Consistent decimal places.** If one number has 2 decimals, they all should: 2.50, 3.25, 2.85—not 2.5, 3.25, 2.85. Mixing it up just looks sloppy, even if the numbers are right.\n\n**5. A title.** So when you come back to this table in a week, you actually remember what you were testing.\n\n**Here's the difference in action:**\n\nBad table:\ntemp | spring | ???\n20 | 15\n25 | 18\n\nGood table:\nTemperature (°C) | Spring Height (mm)\n20 | 15.0\n25 | 18.0\n30 | 21.5\n\nSee it? {{viz:formula-01}} That good table is quietly hiding a pattern—roughly, for every extra 1°C, the spring height creeps up about 0.65 mm. Tables let you spot exactly this kind of trend at a glance. And when there's no pattern at all, that shows up too—which tells you just as much. {{viz:chart-01}}",
     "keyPoints": [
-      "Clear headers with units",
-      "Organized by rows (one test per row)",
-      "Consistent formatting",
-      "A title explaining what data this is",
-      "Numbers align vertically to spot patterns",
-      "Tables make analysis easy"
+      "Clear headers with units, right at the top",
+      "Organized by rows—one test per row",
+      "Keep your formatting consistent (same decimal places throughout)",
+      "Give it a title so you remember what you tested",
+      "Line numbers up so patterns are easy to spot",
+      "A clean table makes the rest of your analysis so much easier"
     ],
-    "whyItMatters": "A messy table hides patterns. A clean table tells a story."
+    "whyItMatters": "A messy table hides the very patterns you're trying to find. A clean one practically tells the story of your experiment on its own."
   },
   "availableLanguages": [
     "en"

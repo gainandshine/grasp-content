@@ -10,27 +10,36 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Pick a point",
             "type": "ellipse"
           },
           {
-            "id": "process",
-            "label": "Cylindrical Coordinates (Introduction)",
+            "id": "step1",
+            "label": "Polar in the base (r, theta)",
+            "type": "rect"
+          },
+          {
+            "id": "step2",
+            "label": "Add height z",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Point (r, theta, z)",
             "type": "ellipse"
           }
         ],
         "edges": [
           {
             "from": "start",
-            "to": "process"
+            "to": "step1"
           },
           {
-            "from": "process",
+            "from": "step1",
+            "to": "step2"
+          },
+          {
+            "from": "step2",
             "to": "end"
           }
         ]
@@ -42,11 +51,19 @@
       "title": "Cylindrical Coordinates (Introduction) Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "x = r\\\\cos\\\\theta, \\\\quad y = r\\\\sin\\\\theta, \\\\quad z = z",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "r = \\\\sqrt{x^2 + y^2}",
+            "explanation": "Distance from the vertical (z) axis"
+          },
+          {
+            "latex": "\\\\theta = \\\\arctan\\\\left(\\\\frac{y}{x}\\\\right)",
+            "explanation": "Angle around the vertical axis"
+          },
+          {
+            "latex": "z = z",
+            "explanation": "Height stays exactly the same as in Cartesian"
           }
         ]
       }
@@ -57,7 +74,7 @@
       "title": "Cylindrical Coordinates (Introduction) 3D Model",
       "description": "Interactive 3D visualization",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var cylGeom = new api.THREE.CylinderGeometry(1, 1, 2, 24, 1, true);\n                var cylMat = new api.THREE.MeshBasicMaterial({ color: 0x8A8272, wireframe: true });\n                var cylMesh = new api.THREE.Mesh(cylGeom, cylMat);\n                api.group.add(cylMesh);\n                var axes = new api.THREE.AxesHelper(2.5);\n                api.group.add(axes);\n                var pointGeom = new api.THREE.SphereGeometry(0.12, 16, 16);\n                var pointMat = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var point = new api.THREE.Mesh(pointGeom, pointMat);\n                api.group.add(point);\n                var r = 1;\n                return {\n                  update: function(t) {\n                    var theta = t * 0.02;\n                    var z = Math.sin(t * 0.01) * 0.8;\n                    point.position.set(r * Math.cos(theta), z, r * Math.sin(theta));\n                  }\n                };"
       }
     },
     {
@@ -66,7 +83,7 @@
       "title": "Cylindrical Coordinates (Introduction) Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var cx = W * 0.4, cy = H/2;\n                    var R = Math.min(W, H) * 0.28;\n                    ctx.strokeStyle = '#CFC7B8';\n                    ctx.beginPath();\n                    ctx.arc(cx, cy, R, 0, Math.PI * 2);\n                    ctx.stroke();\n                    var theta = t * 0.03;\n                    var x = cx + R * Math.cos(theta);\n                    var y = cy - R * Math.sin(theta);\n                    ctx.strokeStyle = '#8A8272';\n                    ctx.beginPath();\n                    ctx.moveTo(cx, cy); ctx.lineTo(x, y);\n                    ctx.stroke();\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.fillStyle = '#333';\n                    ctx.font = '13px sans-serif';\n                    ctx.fillText('top view: (r, \\u03B8)', cx - R, cy - R - 12);\n                    var barX = W * 0.82, barTop = H * 0.15, barBottom = H * 0.85;\n                    ctx.strokeStyle = '#8A8272';\n                    ctx.beginPath();\n                    ctx.moveTo(barX, barTop); ctx.lineTo(barX, barBottom);\n                    ctx.stroke();\n                    var zNorm = (Math.sin(t * 0.015) + 1) / 2;\n                    var zY = barBottom - zNorm * (barBottom - barTop);\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(barX, zY, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.fillText('height z', barX - 24, barTop - 12);\n                  }\n                };"
       }
     },
     {
@@ -76,8 +93,8 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
+        "x_label": "theta",
+        "y_label": "z (height)",
         "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
       }
     },
@@ -119,12 +136,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Good for circular symmetry",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Polar + height",
             "type": "rect"
           }
         ],

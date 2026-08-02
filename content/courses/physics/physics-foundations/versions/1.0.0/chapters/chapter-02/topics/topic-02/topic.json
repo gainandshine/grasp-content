@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-02.topic-02",
   "description": "Units made by combining the 7 base units together",
   "content": {
-    "overview": "Derived units are made by combining base units. Just like you make words by combining letters, you make new units by combining the 7 base units. {{viz:diagram-01}}",
-    "explanation": "So we have 7 base units. But physics needs lots of other units too. Speed, force, energy, power, pressure... How do you make these units?\n\nYou multiply and divide the base units! {{viz:diagram-02}}\n\n**Speed** = distance ÷ time = meters ÷ seconds = **m/s** (meters per second)\n\n**Force** = mass × acceleration = kilograms × (meters ÷ seconds²) = **kg·m/s²** (this is also called a **Newton** or **N**)\n\n**Energy** = force × distance = kg·m²/s² = **Joule** or **J**\n\n**Power** = energy ÷ time = kg·m²/s³ = **Watt** or **W**\n\nSee the pattern? You start with base units and combine them. {{viz:chart-01}}\n\nSometimes scientists give these combinations fancy names:\n- 1 kg·m/s² = 1 **Newton** (N) - a unit of force\n- 1 kg·m²/s² = 1 **Joule** (J) - a unit of energy\n- 1 kg·m²/s³ = 1 **Watt** (W) - a unit of power\n\nBut underneath, they're all just combinations of the 7 base units. {{viz:anim-01}}\n\nWhy do this? Because it makes physics clearer. Instead of saying 'kilograms times meters per second squared,' you say 'newtons.' Shorter, clearer, easier to work with.",
+    "overview": "Remember those 7 base units? Turns out you can mash them together like Lego bricks to build every other unit you'll ever need. That's what a derived unit is — nothing new, just base units combined. {{viz:diagram-01}}",
+    "explanation": "So you've got 7 base units. Cool, but physics also talks about speed, force, energy, power, pressure — where do those come from? Simple: you multiply and divide the base units you already have. {{viz:diagram-02}}\n\nWatch how it builds:\n\n**Speed** = distance ÷ time = meters ÷ seconds = **m/s**\n\n**Force** = mass × acceleration = kilograms × (meters ÷ seconds²) = **kg·m/s²** — which everyone just calls a **Newton (N)**\n\n**Energy** = force × distance = kg·m²/s² — nicknamed the **Joule (J)**\n\n**Power** = energy ÷ time = kg·m²/s³ — nicknamed the **Watt (W)**\n\nSee the pattern? Every single one is just base units stacked together. {{viz:chart-01}}\n\nScientists gave the popular combos catchy names so nobody has to say 'kilograms times meters per second squared' out loud:\n- 1 kg·m/s² is a **Newton (N)** — force\n- 1 kg·m²/s² is a **Joule (J)** — energy\n- 1 kg·m²/s³ is a **Watt (W)** — power\n\nBut peel back the label and it's still just the 7 base units doing all the work. {{viz:anim-01}}\n\nWhy bother naming them? Because 'newtons' is way faster to say — and read — than spelling out the whole combination every time.",
     "keyPoints": [
-      "Derived units = combinations of base units",
-      "Speed = m/s (meters per second)",
-      "Force = Newton = kg·m/s²",
-      "Energy = Joule = kg·m²/s²",
-      "Power = Watt = kg·m²/s³",
-      "All derived units come from combining the 7 base units"
+      "Derived units are just base units multiplied or divided together",
+      "Speed works out to m/s",
+      "Force works out to kg·m/s², nicknamed the Newton",
+      "Energy works out to kg·m²/s², nicknamed the Joule",
+      "Power works out to kg·m²/s³, nicknamed the Watt",
+      "Every derived unit traces back to the 7 base units"
     ],
-    "whyItMatters": "Most units you see in physics are derived units. Understanding how they're built helps you understand what they mean and how to use them correctly."
+    "whyItMatters": "Most units you'll bump into in physics are actually derived ones. Once you see how they're built, they stop being random names and start making sense — you can figure out what a unit means just by looking at it."
   },
   "availableLanguages": [
     "en"

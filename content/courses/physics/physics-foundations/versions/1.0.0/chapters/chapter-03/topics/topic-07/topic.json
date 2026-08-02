@@ -4,14 +4,15 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-07",
   "description": "Learn about Percentage Error and its applications in physics.",
   "content": {
-    "overview": "Percentage Error is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Percentage Error. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Percentage Error requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "\"My experiment was off by 2%.\" Ever notice how much more sense that makes than \"my experiment was off by 0.4 grams\"? That's the whole point of percentage error—it's just relative error dressed up as a percentage so everyone instantly gets how big the mistake really was. {{viz:diagram-01}}",
+    "explanation": "You already know relative error—the absolute error divided by the true value. Percentage error is just that number multiplied by 100, so it reads as a percent instead of an awkward decimal: {{viz:formula-01}}\n\nWhy bother? Because \"0.02\" doesn't mean much to most people at a glance, but \"2%\" instantly clicks. Percentages are just a more human-friendly way to talk about relative error. {{viz:anim-01}}\n\nLet's finish the paperclip example from before: relative error was 0.5, so percentage error = 0.5 × 100 = 50%. Ouch—half the paperclip's length off. Compare that to the running track's relative error of 0.0001 → percentage error of 0.01%. Basically perfect.\n\nIn a real lab, if you calculate the acceleration due to gravity and get 9.9 m/s² instead of the accepted 9.8 m/s², your percentage error is about 1%—which is honestly a pretty solid result for a hands-on experiment! {{viz:3d-01}}\n\nWatch how percentage error scales directly with relative error—it's the exact same shape, just stretched by 100. {{viz:chart-01}}\n\nMost lab reports, engineering specs, and scientific papers report percentage error because it's the version everyone can understand at a glance. {{viz:text-01}} Calculate a few yourself here. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Percentage error = relative error × 100 = (absolute error ÷ true value) × 100 {{viz:diagram-02}}",
+      "It's the human-friendly way to express how big an error really is",
+      "A percentage error under about 5% is usually considered solid for a hands-on physics experiment",
+      "Same paperclip example: 50% error. Same running track: 0.01% error"
     ],
-    "whyItMatters": "Percentage Error is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Whenever you read a lab report, a product spec sheet, or a news article about a measurement, percentage error is usually the number quoted. It's the universal language for \"how good was this measurement, really?\"—way more intuitive than a raw decimal fraction."
   },
   "availableLanguages": [
     "en"

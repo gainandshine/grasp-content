@@ -10,27 +10,36 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Pick a point",
             "type": "ellipse"
           },
           {
-            "id": "process",
-            "label": "Polar Coordinates",
+            "id": "step1",
+            "label": "Measure r (distance)",
+            "type": "rect"
+          },
+          {
+            "id": "step2",
+            "label": "Measure theta (angle)",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Point (r, theta)",
             "type": "ellipse"
           }
         ],
         "edges": [
           {
             "from": "start",
-            "to": "process"
+            "to": "step1"
           },
           {
-            "from": "process",
+            "from": "step1",
+            "to": "step2"
+          },
+          {
+            "from": "step2",
             "to": "end"
           }
         ]
@@ -42,11 +51,15 @@
       "title": "Polar Coordinates Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "x = r\\\\cos\\\\theta, \\\\quad y = r\\\\sin\\\\theta",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "r = \\\\sqrt{x^2 + y^2}",
+            "explanation": "Distance from the origin"
+          },
+          {
+            "latex": "\\\\theta = \\\\arctan\\\\left(\\\\frac{y}{x}\\\\right)",
+            "explanation": "Angle measured from the positive x-axis"
           }
         ]
       }
@@ -66,7 +79,7 @@
       "title": "Polar Coordinates Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var cx = W/2, cy = H/2;\n                    var R = Math.min(W, H) * 0.35;\n                    ctx.strokeStyle = '#CFC7B8';\n                    for (var ring = 1; ring <= 3; ring++) {\n                      ctx.beginPath();\n                      ctx.arc(cx, cy, R * ring / 3, 0, Math.PI * 2);\n                      ctx.stroke();\n                    }\n                    var theta = t * 0.03;\n                    var r = R;\n                    var x = cx + r * Math.cos(theta);\n                    var y = cy - r * Math.sin(theta);\n                    ctx.strokeStyle = '#8A8272';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(cx, cy);\n                    ctx.lineTo(x, y);\n                    ctx.stroke();\n                    ctx.strokeStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(cx, cy, 24, 0, -theta, true);\n                    ctx.stroke();\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.beginPath();\n                    ctx.arc(cx, cy, 4, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.fillStyle = '#333';\n                    ctx.font = '14px sans-serif';\n                    ctx.fillText('r = ' + Math.round(r), cx + 10, cy - 10);\n                    ctx.fillText('\\u03B8 = ' + Math.round(theta * 180 / Math.PI % 360) + '\\u00B0', x + 10, y);\n                  }\n                };"
       }
     },
     {
@@ -76,9 +89,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "theta",
+        "y_label": "r",
+        "data_json": "{\"fn\":\"Math.abs(Math.cos(2*x))\",\"x_min\":0,\"x_max\":6.283185307179586,\"samples\":200}"
       }
     },
     {
@@ -119,12 +132,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Good for circular motion",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Convert to/from Cartesian",
             "type": "rect"
           }
         ],

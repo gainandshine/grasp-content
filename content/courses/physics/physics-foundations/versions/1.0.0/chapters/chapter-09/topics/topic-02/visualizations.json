@@ -40,13 +40,13 @@
       "id": "formula-01",
       "type": "formula",
       "title": "Dimensional Checking Formula",
-      "description": "Mathematical definition",
+      "description": "Checking a formula's dimensions match on both sides",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "[F] = [M][L][T]^{-2}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "[m][a] = [M]\\cdot[LT^{-2}] = [MLT^{-2}]",
+            "explanation": "Mass times acceleration reduces to the same M L T combination as force, so F = ma is dimensionally valid."
           }
         ]
       }
@@ -97,11 +97,8 @@
       "title": "Dimensional Checking Simulation",
       "description": "Interactive simulation",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [],
+        "setup_code": "return {\n  time: 0,\n  update: function(dt, t, controls) { this.time = t; },\n  draw: function(ctx, w, h) {\n    ctx.fillStyle = '#F5F0E8';\n    ctx.fillRect(0, 0, w, h);\n    var x = w/2 + Math.sin(this.time * 1.2) * (w * 0.25);\n    var y = h/2;\n    ctx.fillStyle = '#E8593C';\n    ctx.beginPath();\n    ctx.arc(x, y, 18, 0, Math.PI * 2);\n    ctx.fill();\n    ctx.fillStyle = '#333333';\n    ctx.font = '14px sans-serif';\n    ctx.fillText('[F] = [M L T\\u207b\\u00b2]', 12, 24);\n  }\n};"
       }
     },
     {
@@ -119,12 +116,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Left side dimensions",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Right side dimensions",
             "type": "rect"
           }
         ],

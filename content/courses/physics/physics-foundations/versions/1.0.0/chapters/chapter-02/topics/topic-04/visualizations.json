@@ -42,11 +42,11 @@
       "title": "Prefixes (Milli, Kilo, Mega...) Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "1\\ \\text{km} = 10^3\\ \\text{m}, \\quad 1\\ \\text{mm} = 10^{-3}\\ \\text{m}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\text{kilo} = 10^3,\\ \\ \\text{milli} = 10^{-3},\\ \\ \\text{micro} = 10^{-6}",
+            "explanation": "Each prefix is just a fixed power of 10 multiplied onto the base unit - kilo makes it bigger, milli and micro make it smaller."
           }
         ]
       }
@@ -76,9 +76,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "prefix power n (e.g. milli=-3, kilo=3, mega=6)",
+        "y_label": "multiplier = 10^n",
+        "data_json": "{\"fn\":\"Math.pow(10, x)\",\"x_min\":-12,\"x_max\":12,\"samples\":200}"
       }
     },
     {

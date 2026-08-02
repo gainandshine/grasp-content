@@ -42,11 +42,15 @@
       "title": "Distance Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "d_{total} = \\\\sum_i \\\\Delta s_i",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "d_{total} \\\\geq 0",
+            "explanation": "Distance is a scalar — it's always positive or zero, never negative"
+          },
+          {
+            "latex": "d_{total} \\\\geq |\\\\vec{s}|",
+            "explanation": "Total distance traveled is always greater than or equal to the displacement magnitude"
           }
         ]
       }
@@ -66,7 +70,7 @@
       "title": "Distance Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var startX = W * 0.25, startY = H * 0.75;\n                    var legLen = Math.min(W, H) * 0.35;\n                    var period = 240;\n                    var progress = (t % period) / period;\n                    var totalPath = legLen * 2;\n                    var dist = progress * totalPath;\n                    var px, py;\n                    if (dist <= legLen) {\n                      px = startX;\n                      py = startY - dist;\n                    } else {\n                      px = startX + (dist - legLen);\n                      py = startY - legLen;\n                    }\n                    ctx.strokeStyle = '#E8593C';\n                    ctx.lineWidth = 4;\n                    ctx.beginPath();\n                    ctx.moveTo(startX, startY);\n                    if (dist <= legLen) {\n                      ctx.lineTo(px, py);\n                    } else {\n                      ctx.lineTo(startX, startY - legLen);\n                      ctx.lineTo(px, py);\n                    }\n                    ctx.stroke();\n                    ctx.strokeStyle = '#4A90D9';\n                    ctx.setLineDash([6, 6]);\n                    ctx.beginPath();\n                    ctx.moveTo(startX, startY);\n                    ctx.lineTo(px, py);\n                    ctx.stroke();\n                    ctx.setLineDash([]);\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(px, py, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.fillStyle = '#333333';\n                    ctx.beginPath();\n                    ctx.arc(startX, startY, 5, 0, Math.PI * 2);\n                    ctx.fill();\n                    var pxPerMeter = legLen / 100;\n                    var distMeters = dist / pxPerMeter;\n                    var dxM = (px - startX) / pxPerMeter;\n                    var dyM = (startY - py) / pxPerMeter;\n                    var dispMeters = Math.sqrt(dxM * dxM + dyM * dyM);\n                    ctx.fillStyle = '#E8593C';\n                    ctx.font = '16px sans-serif';\n                    ctx.fillText('Distance: ' + distMeters.toFixed(0) + ' m', 20, 30);\n                    ctx.fillStyle = '#4A90D9';\n                    ctx.fillText('Displacement: ' + dispMeters.toFixed(0) + ' m', 20, 55);\n                  }\n                };"
       }
     },
     {
@@ -87,7 +91,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Distance.",
+        "body_markdown": "## Distance Explained\\n\\nDistance is the total length of the path you actually traveled, measured in meters, kilometers, and so on. It only counts how much ground you covered, never which direction you covered it in, which is why it's called a **scalar** quantity.\\n\\nWalk to the store and back and your distance is the sum of every single step, even though you end up exactly where you started (your displacement there would be zero).",
         "citations": []
       }
     },

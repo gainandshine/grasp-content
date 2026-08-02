@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-09.topic-05",
   "description": "Simplifying hard problems by ignoring small effects",
   "content": {
-    "overview": "Approximation techniques are about ignoring things that don't matter much so the problem becomes solvable. Real physics problems are messy. Approximations make them manageable. {{viz:diagram-01}}",
-    "explanation": "Approximation is the art of asking: 'What can I ignore?' {{viz:diagram-02}}\n\n**Example: A ball rolling down a hill** \n\nFull problem (realistic): friction, air resistance, the hill isn't perfectly smooth, the ball might not be perfectly round, gravity changes slightly with altitude...\n\nApproximation (solvable): assume no friction, no air resistance, perfectly smooth hill, perfect sphere, constant gravity.\n\nYou've approximated away the messy stuff. Now the problem is doable. {{viz:anim-01}}\n\n**Common approximations:**\n\n1. **Ignore air resistance** — Usually small unless speeds are very high\n2. **Small angle approximation** — sin(θ) ≈ θ if θ is small\n3. **Constant gravity** — Assumes you don't go to the moon\n4. **No friction** — Simplified version of real motion\n5. **Ideal gases** — Treats gas like perfect molecules (not perfect, but close)\n\n**The key rule:** {{viz:chart-01}}\n\nOnly ignore something if it's SMALL compared to what you care about.\n\nIgnoring air resistance when modeling a feather falling = BAD (air resistance is huge)\nIgnoring air resistance when modeling a bowling ball falling = OK (air resistance is tiny)\n\nThe approximation depends on the situation!",
+    "overview": "Real life is messy—there's friction, air, wobble, and a thousand tiny effects tugging on everything at once. Approximation is the skill of asking 'what can I safely ignore?' so a hopeless problem turns into one you can actually solve. {{viz:diagram-01}}",
+    "explanation": "Approximation is basically the art of asking: 'what can I get away with ignoring?' {{viz:diagram-02}}\n\n**Let's picture a ball rolling down a hill.**\n\nThe fully realistic version: there's friction, air resistance, the hill isn't perfectly smooth, the ball's probably not a perfect sphere, and gravity even changes a tiny bit with altitude. Trying to account for all of that would be a nightmare.\n\nThe approximated version: no friction, no air resistance, a perfectly smooth hill, a perfect sphere, constant gravity. Suddenly you've stripped away all the mess, and the problem is actually solvable. {{viz:anim-01}}\n\n**Approximations you'll see constantly:**\n\n1. **Ignore air resistance** — usually fine, unless you're dealing with very high speeds\n2. **Small angle approximation** — sin(θ) ≈ θ, as long as θ stays small\n3. **Constant gravity** — works great, as long as you're not launching something to the Moon\n4. **No friction** — a cleaner stand-in for messy real-world motion\n5. **Ideal gases** — treats gas molecules as perfect little points (not quite true, but close enough)\n\n**Here's the one rule that actually matters:** {{viz:chart-01}}\n\nOnly ignore something if it's genuinely SMALL compared to what you're focused on.\n\nIgnoring air resistance for a falling feather? Bad idea—air resistance basically IS the whole story there.\nIgnoring air resistance for a falling bowling ball? Totally fine—it barely makes a dent.\n\nSo the 'right' approximation isn't universal—it depends entirely on the situation you're in.",
     "keyPoints": [
-      "Approximation = ignore small effects",
-      "Makes hard problems solvable",
-      "Must know what's small and what's not",
-      "Different problem = different approximations",
-      "Always ask: 'Can I ignore this safely?'"
+      "Approximation means deliberately ignoring the small stuff",
+      "It's what turns an impossible problem into a solvable one",
+      "You need to know what's actually small versus what secretly isn't",
+      "Different problems call for different approximations—there's no one-size-fits-all",
+      "Always ask yourself: 'can I really afford to ignore this?'"
     ],
-    "whyItMatters": "Real physics problems have 100 effects. Approximations let you focus on the 2-3 that matter. Without approximations, physics would be unsolvable."
+    "whyItMatters": "Any real physics problem has dozens of effects fighting for your attention. Approximation lets you zero in on the 2-3 that actually matter and let the rest fade into the background. Without it, physics would basically be unsolvable—way too many moving pieces to track at once."
   },
   "availableLanguages": [
     "en"

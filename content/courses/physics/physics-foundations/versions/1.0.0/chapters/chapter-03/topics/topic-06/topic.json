@@ -4,14 +4,15 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-06",
   "description": "Learn about Relative Error and its applications in physics.",
   "content": {
-    "overview": "Relative Error is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Relative Error. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Relative Error requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Here's a puzzle: being off by 1 cm sounds small... unless you were only measuring a 2 cm paperclip. Being off by 1 cm on a 100-meter running track? Basically nothing. Relative error is what lets you compare those two situations fairly. {{viz:diagram-01}}",
+    "explanation": "We just covered absolute error—the raw gap between measured and true. But raw gaps can be misleading on their own, because they don't account for scale. That's where relative error comes in: {{viz:formula-01}}\n\nYou just take the absolute error and divide it by the true value. That single division does something powerful: it turns your error into a fraction of the actual size of what you're measuring, so you can finally compare errors across totally different measurements. {{viz:anim-01}}\n\nLet's run the paperclip example: true length 2 cm, measured 1 cm off → absolute error 1 cm. Relative error = 1/2 = 0.5. That's a massive 50% of the paperclip's length!\n\nNow the running track: true length 100 m, measured 1 cm (0.01 m) off → relative error = 0.01/100 = 0.0001. Practically nothing.\n\nSame absolute error size (well, close), completely different story once you look at it relatively. {{viz:3d-01}}\n\nSee how relative error changes as the true value gets bigger while the absolute error stays fixed. {{viz:chart-01}}\n\nOnce this clicks, you'll never trust a raw error number again without asking \"relative to what?\" {{viz:text-01}} Try adjusting the numbers yourself. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Relative error = absolute error ÷ true value {{viz:diagram-02}}",
+      "It's a fraction (no units!)—it strips away scale so errors become comparable",
+      "A 1 cm error is huge relative to a 2 cm paperclip, but tiny relative to a 100 m track",
+      "Multiply relative error by 100 and you get percentage error (up next)"
     ],
-    "whyItMatters": "Relative Error is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Relative error is what lets scientists and engineers say whether an error actually matters. A tiny absolute error can be a big deal on a small measurement, and a big absolute error can be irrelevant on a huge one. Relative error puts every measurement on the same fair footing."
   },
   "availableLanguages": [
     "en"

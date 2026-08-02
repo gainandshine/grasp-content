@@ -42,11 +42,11 @@
       "title": "Dimensional Homogeneity Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "s = ut + \\tfrac{1}{2}at^2",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "[s]=[L],\\ \\ [ut]=[LT^{-1}][T]=[L],\\ \\ [at^2]=[LT^{-2}][T^2]=[L]",
+            "explanation": "Every single term in this equation works out to plain length [L] - that's dimensional homogeneity in action, and it's why the equation is allowed to have a plus sign in it."
           }
         ]
       }
@@ -76,9 +76,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "time t (s)",
+        "y_label": "fall distance s = ½ g t² (m)",
+        "data_json": "{\"fn\":\"0.5 * 9.8 * x * x\",\"x_min\":0,\"x_max\":10,\"samples\":50}"
       }
     },
     {

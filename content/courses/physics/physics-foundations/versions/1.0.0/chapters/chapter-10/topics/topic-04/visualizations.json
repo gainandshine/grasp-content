@@ -42,11 +42,15 @@
       "title": "Displacement Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\Delta x = x_f - x_i",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "\\Delta x = x_f - x_i",
+            "explanation": "Displacement is final position minus initial position — a vector, measured in meters (m)."
+          },
+          {
+            "latex": "|\\Delta x| \\le d",
+            "explanation": "The magnitude of displacement is always less than or equal to the total distance traveled, d."
           }
         ]
       }
@@ -66,7 +70,7 @@
       "title": "Displacement Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    ctx.fillStyle = '#F5F0E8';\n    ctx.fillRect(0, 0, W, H);\n    var cx = W / 2, cy = H / 2 + Math.min(W, H) * 0.15;\n    var legLen = Math.min(W, H) * 0.28;\n    var cycle = 240;\n    var phase = t % cycle;\n    var x, y;\n    if (phase < cycle / 2) {\n      var p = phase / (cycle / 2);\n      x = cx;\n      y = cy - p * legLen;\n    } else {\n      var p = (phase - cycle / 2) / (cycle / 2);\n      x = cx + p * legLen;\n      y = cy - legLen;\n    }\n    ctx.strokeStyle = '#9CA3AF';\n    ctx.setLineDash([5, 5]);\n    ctx.lineWidth = 2;\n    ctx.beginPath();\n    ctx.moveTo(cx, cy);\n    if (phase < cycle / 2) {\n      ctx.lineTo(x, y);\n    } else {\n      ctx.lineTo(cx, cy - legLen);\n      ctx.lineTo(x, y);\n    }\n    ctx.stroke();\n    ctx.setLineDash([]);\n    ctx.strokeStyle = '#E8593C';\n    ctx.lineWidth = 3;\n    ctx.beginPath();\n    ctx.moveTo(cx, cy);\n    ctx.lineTo(x, y);\n    ctx.stroke();\n    var angle = Math.atan2(y - cy, x - cx);\n    ctx.fillStyle = '#E8593C';\n    ctx.beginPath();\n    ctx.moveTo(x, y);\n    ctx.lineTo(x - 10 * Math.cos(angle - 0.4), y - 10 * Math.sin(angle - 0.4));\n    ctx.lineTo(x - 10 * Math.cos(angle + 0.4), y - 10 * Math.sin(angle + 0.4));\n    ctx.closePath();\n    ctx.fill();\n    ctx.fillStyle = '#059669';\n    ctx.beginPath();\n    ctx.arc(cx, cy, 6, 0, Math.PI * 2);\n    ctx.fill();\n    ctx.fillStyle = '#E8593C';\n    ctx.beginPath();\n    ctx.arc(x, y, 6, 0, Math.PI * 2);\n    ctx.fill();\n    ctx.fillStyle = '#374151';\n    ctx.font = '12px sans-serif';\n    ctx.fillText('grey dashed = distance traveled, orange arrow = displacement', 14, 20);\n  }\n};"
       }
     },
     {
@@ -97,11 +101,8 @@
       "title": "Displacement Simulation",
       "description": "Interactive simulation",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [],
+        "setup_code": "var startX = null, startY = null, curX = null, curY = null, path = [];\nreturn {\n  init: function(api) {\n    startX = api.width / 2;\n    startY = api.height / 2;\n    curX = startX;\n    curY = startY;\n    path = [{ x: startX, y: startY }];\n  },\n  onDragStart: function(x, y) {\n    startX = x;\n    startY = y;\n    curX = x;\n    curY = y;\n    path = [{ x: x, y: y }];\n  },\n  onDrag: function(x, y) {\n    curX = x;\n    curY = y;\n    path.push({ x: x, y: y });\n  },\n  draw: function(ctx, W, H) {\n    ctx.fillStyle = '#F5F0E8';\n    ctx.fillRect(0, 0, W, H);\n    if (startX === null) return;\n    ctx.strokeStyle = '#9CA3AF';\n    ctx.setLineDash([4, 4]);\n    ctx.lineWidth = 2;\n    ctx.beginPath();\n    ctx.moveTo(path[0].x, path[0].y);\n    for (var i = 1; i < path.length; i++) ctx.lineTo(path[i].x, path[i].y);\n    ctx.stroke();\n    ctx.setLineDash([]);\n    ctx.strokeStyle = '#E8593C';\n    ctx.lineWidth = 3;\n    ctx.beginPath();\n    ctx.moveTo(startX, startY);\n    ctx.lineTo(curX, curY);\n    ctx.stroke();\n    var angle = Math.atan2(curY - startY, curX - startX);\n    ctx.fillStyle = '#E8593C';\n    ctx.beginPath();\n    ctx.moveTo(curX, curY);\n    ctx.lineTo(curX - 12 * Math.cos(angle - 0.4), curY - 12 * Math.sin(angle - 0.4));\n    ctx.lineTo(curX - 12 * Math.cos(angle + 0.4), curY - 12 * Math.sin(angle + 0.4));\n    ctx.closePath();\n    ctx.fill();\n    ctx.fillStyle = '#059669';\n    ctx.beginPath();\n    ctx.arc(startX, startY, 6, 0, Math.PI * 2);\n    ctx.fill();\n    ctx.fillStyle = '#E8593C';\n    ctx.beginPath();\n    ctx.arc(curX, curY, 6, 0, Math.PI * 2);\n    ctx.fill();\n    ctx.fillStyle = '#374151';\n    ctx.font = '12px sans-serif';\n    ctx.fillText('Drag the dot: grey = distance traveled, orange arrow = displacement', 10, 20);\n  }\n};"
       }
     },
     {

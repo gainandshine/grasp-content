@@ -4,81 +4,63 @@
       "id": "diagram-01",
       "type": "diagram",
       "title": "Components of a Vector Flowchart",
-      "description": "Flowchart showing Components of a Vector process",
+      "description": "Steps for resolving a vector into components",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Components of a Vector",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
+          { "id": "start", "label": "Vector R at angle theta", "type": "ellipse" },
+          { "id": "process", "label": "Drop perpendiculars to the axes", "type": "rect" },
+          { "id": "close", "label": "Vx = R cos(theta), Vy = R sin(theta)", "type": "rect" },
+          { "id": "end", "label": "R = (Vx, Vy)", "type": "ellipse" }
         ],
         "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
+          { "from": "start", "to": "process" },
+          { "from": "process", "to": "close" },
+          { "from": "close", "to": "end" }
         ]
       }
     },
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Components of a Vector Formula",
-      "description": "Mathematical definition",
+      "title": "Vector Components Formula",
+      "description": "Resolving and reconstructing a vector",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "V_x = R\\cos\\theta, \\quad V_y = R\\sin\\theta",
         "steps": [
-          {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
-          }
+          { "latex": "R = \\sqrt{V_x^2 + V_y^2}", "explanation": "Magnitude from the components" },
+          { "latex": "\\theta = \\arctan\\left(\\frac{V_y}{V_x}\\right)", "explanation": "Angle from the components" }
         ]
       }
     },
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Components of a Vector 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "Vector Components 3D Model",
+      "description": "A vector decomposed into its x and y components",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var origin = new api.THREE.Vector3(0, 0, 0);\nvar arrowR = new api.THREE.ArrowHelper(new api.THREE.Vector3(1, 0, 0), origin, 1, 0x2E7D32);\nvar arrowX = new api.THREE.ArrowHelper(new api.THREE.Vector3(1, 0, 0), origin, 0.1, 0x4C72B0);\nvar arrowY = new api.THREE.ArrowHelper(new api.THREE.Vector3(0, 1, 0), origin, 0.1, 0xE8593C);\napi.group.add(arrowR);\napi.group.add(arrowX);\napi.group.add(arrowY);\nreturn {\n  update: function(t) {\n    var theta = (Math.sin(t * 0.005) * 0.5 + 0.5) * (Math.PI / 2);\n    var R = 2;\n    var Vx = R * Math.cos(theta), Vy = R * Math.sin(theta);\n    arrowR.setDirection(new api.THREE.Vector3(Vx, Vy, 0).normalize());\n    arrowR.setLength(R);\n    arrowX.setLength(Math.max(Math.abs(Vx), 0.01));\n    arrowY.setLength(Math.max(Math.abs(Vy), 0.01));\n  }\n};"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Components of a Vector Animation",
-      "description": "Canvas animation",
+      "title": "Vector Components Animation",
+      "description": "A vector shown with its x and y component projections",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n  draw: function(ctx, W, H, t, dt) {\n    ctx.fillStyle = '#F5F0E8';\n    ctx.fillRect(0, 0, W, H);\n    function arrow(x0, y0, x1, y1, color) {\n      ctx.strokeStyle = color;\n      ctx.fillStyle = color;\n      ctx.lineWidth = 3;\n      ctx.beginPath();\n      ctx.moveTo(x0, y0);\n      ctx.lineTo(x1, y1);\n      ctx.stroke();\n      var ang = Math.atan2(y1 - y0, x1 - x0);\n      var hs = 10;\n      ctx.beginPath();\n      ctx.moveTo(x1, y1);\n      ctx.lineTo(x1 - hs * Math.cos(ang - Math.PI / 6), y1 - hs * Math.sin(ang - Math.PI / 6));\n      ctx.lineTo(x1 - hs * Math.cos(ang + Math.PI / 6), y1 - hs * Math.sin(ang + Math.PI / 6));\n      ctx.closePath();\n      ctx.fill();\n    }\n    var scale = Math.min(W, H) * 0.02;\n    var ox = W * 0.25, oy = H * 0.75;\n    var R = 6;\n    var theta = (Math.PI / 6) + (Math.sin(t * 0.01) * 0.5 + 0.5) * (Math.PI / 2 - Math.PI / 6);\n    var Vx = R * Math.cos(theta) * scale;\n    var Vy = R * Math.sin(theta) * scale;\n    ctx.setLineDash([5, 5]);\n    ctx.strokeStyle = '#4C72B0';\n    ctx.beginPath();\n    ctx.moveTo(ox, oy);\n    ctx.lineTo(ox + Vx, oy);\n    ctx.stroke();\n    ctx.strokeStyle = '#E8593C';\n    ctx.beginPath();\n    ctx.moveTo(ox + Vx, oy);\n    ctx.lineTo(ox + Vx, oy - Vy);\n    ctx.stroke();\n    ctx.setLineDash([]);\n    arrow(ox, oy, ox + Vx, oy - Vy, '#2E7D32');\n    ctx.fillStyle = '#333';\n    ctx.font = '14px sans-serif';\n    ctx.fillText('Vx = R cos(theta)', ox + Vx / 2 - 30, oy + 18);\n    ctx.fillText('Vy = R sin(theta)', ox + Vx + 8, oy - Vy / 2);\n    ctx.fillText('R', ox + Vx / 2, oy - Vy / 2 - 10);\n  }\n};"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Components of a Vector Chart",
-      "description": "Data visualization",
+      "title": "x-Component vs Angle",
+      "description": "Vx = R cos(theta) for R=6",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "theta (rad)",
+        "y_label": "Vx",
+        "data_json": "{\"fn\":\"6*Math.cos(x)\",\"x_min\":0,\"x_max\":1.5707963267948966,\"samples\":100}"
       }
     },
     {
@@ -87,20 +69,20 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Components of a Vector.",
+        "body_markdown": "## Vector Components\\n\\nAny vector can be resolved into perpendicular components. If R makes angle theta with the x-axis, Vx = R cos(theta) and Vy = R sin(theta). Components turn vector geometry into simple algebra: to add vectors, just add their matching components.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Components of a Vector Simulation",
-      "description": "Interactive simulation",
+      "title": "Vector Components Simulation",
+      "description": "Rotate a vector and watch its components change",
       "spec": {
         "simulationType": "physics",
         "config": {
-          "gravity": 9.8,
-          "friction": 0.1
+          "magnitude": 6,
+          "angleDegrees": 45
         }
       }
     },
@@ -108,35 +90,17 @@
       "id": "diagram-02",
       "type": "diagram",
       "title": "Concept Map",
-      "description": "Visual concept relationships",
+      "description": "Vector components key properties",
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
-          {
-            "id": "center",
-            "label": "Components of a Vector",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
+          { "id": "center", "label": "Vector Components", "type": "circle" },
+          { "id": "prop1", "label": "R = sqrt(Vx^2 + Vy^2)", "type": "rect" },
+          { "id": "prop2", "label": "theta = atan2(Vy, Vx)", "type": "rect" }
         ],
         "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
+          { "from": "center", "to": "prop1" },
+          { "from": "center", "to": "prop2" }
         ]
       }
     }

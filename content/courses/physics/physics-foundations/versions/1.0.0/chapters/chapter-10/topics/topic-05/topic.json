@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-10.topic-05",
   "description": "How fast something is moving—distance divided by time",
   "content": {
-    "overview": "Speed answers: **HOW FAST?** Your car going 60 km/h, a ball rolling at 5 m/s—that's speed. Speed tells you how much distance is covered in a given time.",
-    "explanation": "Speed = distance ÷ time\n\nSpeed is a SCALAR—just a number, no direction. \"60 km/h\" is a speed. \"60 km/h north\" would be velocity (next topic).\n\n**Average speed vs instantaneous speed:**\n- Average speed = total distance ÷ total time\n- Instantaneous speed = speed at one exact moment (what your speedometer shows)\n\n**Example:**\nYou drive 100 km in 2 hours.\n- Average speed = 100 km ÷ 2 h = 50 km/h\n- But you might have gone 60 km/h for part of it, 40 km/h for another part\n\n**Units:**\n- m/s (meters per second) - SI unit\n- km/h (kilometers per hour) - common\n- mph (miles per hour) - US/UK\n- All are valid, just different scales\n\nSpeed is always positive. You can't have negative speed (unlike displacement or velocity).",
+    "overview": "So how fast is something actually going? That's all speed is really asking. Your car cruising at 60 km/h, a ball rolling across the floor at 5 m/s—that's speed in action. It's just telling you how much distance gets covered in a given chunk of time.",
+    "explanation": "Here's the whole idea in one line: Speed = distance ÷ time.\n\nAnd here's something worth remembering—speed is a SCALAR, which just means it's a plain number with no direction attached. If you say \"60 km/h,\" that's a speed. Say \"60 km/h north\" instead, and now you're talking about velocity (we'll get there next).\n\n**Average speed vs instantaneous speed—what's the difference?**\nThink about a road trip. Your average speed is the whole journey's distance divided by the whole journey's time. But the number on your speedometer right now? That's your instantaneous speed—your speed at this exact moment, which can bounce around even while the average stays the same.\n\n**Let's try an example:**\nSay you drive 100 km in 2 hours.\n- Average speed = 100 km ÷ 2 h = 50 km/h\n- But along the way you probably weren't always at exactly 50—maybe 60 km/h on the open highway, 40 km/h stuck behind a slow truck\n\n**What units will you see?**\n- m/s (meters per second)—the standard scientific unit\n- km/h (kilometers per hour)—what you'll see on most car speedometers\n- mph (miles per hour)—common in the US and UK\n- They're all just different ways of measuring the same thing\n\nOne more thing to lock in: speed can never be negative. You can be standing still (zero) or moving at some positive speed, but you can't have \"negative speed\"—that idea only shows up once we talk about displacement and velocity.",
     "keyPoints": [
-      "Speed = distance ÷ time",
-      "Scalar quantity (just a number)",
-      "Average speed: total distance ÷ total time",
-      "Instantaneous speed: speed at one moment",
-      "Always positive"
+      "Speed = distance ÷ time—that's the whole formula",
+      "It's a scalar—just a number, no direction needed",
+      "Average speed: total distance ÷ total time for the whole trip",
+      "Instantaneous speed: what your speedometer shows right now",
+      "Always zero or positive—never negative"
     ],
-    "whyItMatters": "Speed is how we quantify how fast something moves. Every time you see 'km/h' or 'm/s,' you're dealing with speed."
+    "whyItMatters": "You use speed constantly without even thinking about it—checking how long a drive will take, seeing how fast a ball is thrown, reading a runner's pace. Basically, any time you spot 'km/h' or 'm/s' on something, you're looking at speed doing its job."
   },
   "availableLanguages": [
     "en"

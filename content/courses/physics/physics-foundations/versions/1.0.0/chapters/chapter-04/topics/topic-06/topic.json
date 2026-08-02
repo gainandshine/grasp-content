@@ -4,14 +4,14 @@
   "topicId": "physics.physics-foundations.chapter-04.topic-06",
   "description": "Learn about Unit Vectors and its applications in physics.",
   "content": {
-    "overview": "Unit Vectors is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Unit Vectors. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Unit Vectors requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Ever seen a signpost that just says \"this way\" with an arrow, no distance on it? That's basically a unit vector - all direction, no size. {{viz:diagram-01}}",
+    "explanation": "A unit vector is a vector whose magnitude is exactly 1 - nothing more, nothing less. Its entire job is to point in a direction. We usually write it with a little hat on top, like v̂, to remind ourselves \"this one's just direction, size is locked at 1.\"\n\n**How Do You Make One?**\nTake any vector v and divide it by its own magnitude: {{viz:formula-01}}\n\nv̂ = v / |v|\n\nThat's it. You're not changing the direction at all - you're just rescaling the length down to exactly 1. This process is called **normalizing** the vector. {{viz:anim-01}}\n\n**Quick Example**\nSay v = (3, 4), so |v| = 5. Divide each component by 5: v̂ = (3/5, 4/5) = (0.6, 0.8). Check the magnitude of that: √(0.6² + 0.8²) = √(0.36+0.64) = √1 = 1. Perfect - still length 1, still pointing the same way as the original. {{viz:chart-01}}\n\n**The Famous î, ĵ, k̂**\nYou'll constantly run into three special unit vectors: î (points along x), ĵ (points along y), and k̂ (points along z). They're the building blocks - any vector can be written as a combination of them, like v = 3î + 4ĵ. Think of them as the standard \"east\" and \"north\" arrows that every other vector gets built from.\n\n**Why Bother?**\nUnit vectors let us cleanly separate \"how big\" from \"which way.\" Anytime you only care about direction - like figuring out which way friction pushes, or which way a normal force points - you reach for a unit vector. {{viz:text-01}} They also make writing vector equations way tidier, since you can scale a direction by whatever magnitude you need. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "A unit vector has magnitude exactly 1 - it represents pure direction {{viz:diagram-02}}",
+      "To get one: v̂ = v / |v| (divide the vector by its own magnitude)",
+      "î, ĵ, k̂ are the standard unit vectors along the x, y, and z axes"
     ],
-    "whyItMatters": "Unit Vectors is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Unit vectors are how physics keeps 'direction' and 'size' cleanly separated. Whenever you write a force, velocity, or field as (magnitude) × (unit vector), you're using this trick - and it shows up in nearly every chapter after this one."
   },
   "availableLanguages": [
     "en"

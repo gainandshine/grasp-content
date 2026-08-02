@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-06.topic-01",
   "description": "Describing positions using x, y, and z axes—the most common way to locate things in space.",
   "content": {
-    "overview": "Cartesian coordinates are the most common way to describe where something is. You've probably seen them before—just axes on a graph! {{viz:diagram-01}}",
-    "explanation": "Imagine a grid like graph paper. To find any point, you just answer two questions:\n- How far horizontally? (x-axis)\n- How far vertically? (y-axis)\n\nThat's Cartesian coordinates! Named after René Descartes, a mathematician. {{viz:diagram-02}}\n\nIn 2D (flat): A point is (x, y). Like (3, 4) means 3 units right, 4 units up.\n\nIn 3D (space): A point is (x, y, z). Add a z-axis for depth. {{viz:anim-01}}\n\n**Why use Cartesian?** Because it's intuitive. Horizontal and vertical make sense. If you want to describe a location on a map or in a room, Cartesian works perfectly. {{viz:chart-01}}\n\nThe axes are perpendicular (90-degree angles). They cross at the origin (0, 0) or (0, 0, 0). Positive directions: usually right and up (2D) or right, up, and toward you (3D).",
+    "overview": "How do you tell someone exactly where something is? Cartesian coordinates are the answer you already know without realizing it—it's just axes on a graph, like the grid on graph paper. You've been using this since grade school! {{viz:diagram-01}}",
+    "explanation": "Okay, here's the whole idea in one breath: to pin down any point, you just answer two questions—how far sideways, and how far up or down?\n\nThat's it. That's Cartesian coordinates. Named after René Descartes (legend has it he came up with this while watching a fly crawl across his ceiling, wondering how he'd describe exactly where it was). {{viz:diagram-02}}\n\n**In 2D (flat):** a point is just (x, y). So (3, 4) means \"go 3 right, then 4 up.\" Like giving directions: walk three blocks east, four blocks north, and you're there.\n\n**In 3D (space):** you add a z-axis for depth, so now it's (x, y, z). Think of it as adding \"how far forward or back\" to your directions. {{viz:anim-01}}\n\n**Why does everyone use this?** Because it's dead simple. Horizontal and vertical just make sense to us—it's how we already think about rooms, maps, screens, everything. Want to describe where the coffee mug is on your desk? Cartesian nails it instantly. {{viz:chart-01}}\n\nA few ground rules: the axes are perpendicular (they meet at a perfect 90-degree angle), they cross at the origin—(0, 0) in 2D or (0, 0, 0) in 3D—and positive usually means right and up (plus \"toward you\" if you're in 3D).",
     "keyPoints": [
       "Cartesian = position using (x, y) in 2D or (x, y, z) in 3D",
-      "Most intuitive: horizontal and vertical (and depth)",
-      "Axes are perpendicular (90°)",
-      "Origin at (0, 0) is where axes cross",
-      "Common in maps, graphs, physics problems"
+      "The most natural system we've got: horizontal, vertical, and depth",
+      "Axes are always perpendicular (90°) to each other",
+      "Origin is just wherever the axes cross—your zero point",
+      "You'll see it everywhere: maps, graphs, every physics problem you'll ever solve"
     ],
-    "whyItMatters": "You'll use Cartesian coordinates constantly in physics. Every motion problem, every position, every force vector starts here."
+    "whyItMatters": "You're about to use Cartesian coordinates constantly in physics, so it's worth getting comfortable with it now. Every motion problem, every position you plot, every force vector you draw—it all starts by picking a set of axes and locating a point on them. Master this and everything after gets easier."
   },
   "availableLanguages": [
     "en"

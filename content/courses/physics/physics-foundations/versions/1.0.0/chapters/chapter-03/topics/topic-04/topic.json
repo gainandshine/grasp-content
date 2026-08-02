@@ -4,14 +4,15 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-04",
   "description": "Learn about Scientific Notation and its applications in physics.",
   "content": {
-    "overview": "Scientific Notation is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Scientific Notation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Scientific Notation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "The mass of an electron is about 0.00000000000000000000000000000091 kg. Painful to even read, right? Scientific notation fixes that mess—it's just a compact, tidy way to write really huge or really tiny numbers so your eyes (and your calculator) don't have to suffer. {{viz:diagram-01}}",
+    "explanation": "Here's the trick: any number can be rewritten as a small number (between 1 and 10) multiplied by 10 raised to some power. {{viz:formula-01}}\n\nSo instead of writing 300,000,000 m/s (the speed of light), you write 3 × 10⁸ m/s. Same value, way easier to read and work with. Big numbers get a positive exponent, tiny numbers get a negative one—like that electron mass above, which becomes a clean 9.1 × 10⁻³¹ kg.\n\nHere's how to think about the exponent: it just tells you how many places to move the decimal point. Move it left for big numbers (positive exponent), move it right for small numbers (negative exponent). {{viz:3d-01}}\n\nWatch what happens as we slide the decimal point around and the exponent adjusts to match. {{viz:anim-01}}\n\nThis isn't just a party trick for physicists—it's essential once you're dealing with things like the distance to stars (huge) or the size of atoms (tiny). Try comparing a few values on the chart below and see how scientific notation makes them easy to compare at a glance. {{viz:chart-01}}\n\nOnce you get the hang of shifting that decimal point, scientific notation becomes second nature. {{viz:text-01}} Practice it hands-on here. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Scientific notation writes a number as (a number between 1 and 10) × 10^power {{viz:diagram-02}}",
+      "Positive exponents mean big numbers; negative exponents mean tiny numbers",
+      "The speed of light: 3 × 10⁸ m/s. An electron's mass: 9.1 × 10⁻³¹ kg",
+      "The exponent just counts how many places the decimal point moves"
     ],
-    "whyItMatters": "Scientific Notation is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Physics deals in extremes—from the size of the universe to the size of a proton. Scientific notation lets you write, compare, and calculate with these numbers without drowning in zeros. It's the difference between a clean, readable answer and a wall of digits nobody wants to check."
   },
   "availableLanguages": [
     "en"

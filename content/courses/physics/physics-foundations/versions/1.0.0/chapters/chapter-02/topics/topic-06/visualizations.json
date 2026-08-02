@@ -42,11 +42,11 @@
       "title": "Dimensional Formula Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "[F] = [M][L][T]^{-2}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "F = ma \\implies [F] = [M]\\cdot\\dfrac{[L]}{[T]^2}",
+            "explanation": "Force = mass × acceleration, and acceleration is length over time squared, so force's dimensional formula is M L T⁻²."
           }
         ]
       }
@@ -76,9 +76,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "time t (s)",
+        "y_label": "speed = distance / t, [L T⁻¹] (m/s), distance = 20m",
+        "data_json": "{\"fn\":\"20 / x\",\"x_min\":1,\"x_max\":20,\"samples\":50}"
       }
     },
     {

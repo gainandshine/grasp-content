@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-02",
   "description": "How exact and consistent your measurements are",
   "content": {
-    "overview": "Precision = how exact/consistent your measurements are. Like how many decimal places you can measure. A scale reading 65.347 kg is more precise than one reading 65 kg. {{viz:diagram-01}}",
-    "explanation": "Precision is about EXACTNESS and REPEATABILITY. Not about being right, about being exact.\n\nImagine throwing 3 darts:\n- All 3 darts hit the same small spot (even if not at center). PRECISE.\n- Darts scattered all over. NOT precise.\n\nPrecision = how closely grouped your measurements are. {{viz:anim-01}}\n\nA scale showing 65.2347 kg is MORE precise than one showing 65 kg (more decimal places).\n\nBUT WAIT! That precise scale might be WRONG (inaccurate). It could consistently read high by 5 kg. Precise but not accurate! {{viz:chart-01}}\n\nKey idea: You can be precise without being accurate. Like a broken clock that's always 10 minutes fast—very consistent (precise) but always wrong (inaccurate).",
+    "overview": "So we just talked about accuracy—being right. Precision is a different animal: it's about how exact and consistent your measurements are, no matter whether they're correct. A scale reading 65.347 kg is more precise than one reading 65 kg, simply because it gives you more detail. {{viz:diagram-01}}",
+    "explanation": "Let's go back to that dart analogy, because it nails this idea too. Imagine you throw 3 darts:\n\n- All 3 land clumped together in a tight little cluster—even if that cluster isn't near the bullseye. That's PRECISE.\n- Darts scattered randomly all over the board. That's NOT precise.\n\nSee the difference? Precision doesn't care where you're aiming—it just cares whether you keep landing in the same spot. {{viz:anim-01}}\n\nSame goes for numbers. A scale showing 65.2347 kg is more precise than one showing 65 kg, purely because it reports more decimal places—more fine-grained detail.\n\nBut here's the twist that trips people up: that super-precise scale could still be totally WRONG. Imagine it consistently reads 5 kg too high, every single time. It's precise (always gives the same kind of detailed number) but not accurate (the number's just wrong). {{viz:chart-01}}\n\nSo here's the big takeaway: you can absolutely be precise without being accurate. Think of a broken clock that's always exactly 10 minutes fast. Check it a hundred times and it's dead consistent—very precise. But it's also always wrong—totally inaccurate.",
     "keyPoints": [
-      "Precision = exactness and consistency of measurements",
-      "More decimal places = more precise",
-      "A scale showing 65.347 is more precise than 65",
-      "You can be precise but not accurate!",
-      "Precision is about how finely you measure, not if you're right"
+      "Precision = exactness and consistency, not correctness",
+      "More decimal places usually means more precision",
+      "A scale reading 65.347 kg is more precise than one reading 65 kg",
+      "You can absolutely be precise without being accurate—don't confuse the two!",
+      "Precision tells you how finely you measure, not whether you're right"
     ],
-    "whyItMatters": "A precise measurement tells you the tool quality. It shows how carefully you can measure. But if it's wrong (inaccurate), precision doesn't help!"
+    "whyItMatters": "A precise measurement tells you something real about your tool—how carefully and consistently it can measure. But precision alone won't save you: if the number's wrong to begin with, being consistent about being wrong doesn't help anyone. You need both accuracy and precision to really trust a measurement."
   },
   "availableLanguages": [
     "en"

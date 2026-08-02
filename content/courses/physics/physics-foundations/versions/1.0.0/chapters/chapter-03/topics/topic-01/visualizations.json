@@ -4,81 +4,66 @@
       "id": "diagram-01",
       "type": "diagram",
       "title": "Accuracy Flowchart",
-      "description": "Flowchart showing Accuracy process",
+      "description": "Flowchart showing how to judge accuracy",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Accuracy",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
+          { "id": "start", "label": "Take a measurement", "type": "ellipse" },
+          { "id": "compare", "label": "Compare to true value", "type": "rect" },
+          { "id": "close", "label": "Close to true value?", "type": "rect" },
+          { "id": "yes", "label": "Accurate", "type": "ellipse" },
+          { "id": "no", "label": "Inaccurate", "type": "ellipse" }
         ],
         "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
+          { "from": "start", "to": "compare" },
+          { "from": "compare", "to": "close" },
+          { "from": "close", "to": "yes", "label": "yes" },
+          { "from": "close", "to": "no", "label": "no" }
         ]
       }
     },
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Accuracy Formula",
-      "description": "Mathematical definition",
+      "title": "Accuracy Check",
+      "description": "How close a measurement is to the true value",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\text{Accurate if } x_{measured} \\approx x_{true}",
         "steps": [
-          {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
-          }
+          { "latex": "x_{true} = 100^{\\circ}C \\text{ (boiling water)}", "explanation": "The known, correct value" },
+          { "latex": "x_{measured} = 99.8^{\\circ}C", "explanation": "Very close to true value: accurate" },
+          { "latex": "x_{measured} = 115^{\\circ}C", "explanation": "Far from true value: not accurate" }
         ]
       }
     },
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Accuracy 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "Accuracy: Hitting the True Value",
+      "description": "A dart-style target where the marker's distance from center shows accuracy",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var targetGroup = new api.THREE.Group();\n                var ringColors = [0xE8593C, 0xF2A65A, 0xF5F0E8];\n                for (var i = 0; i < 3; i++) {\n                  var ring = new api.THREE.Mesh(\n                    new api.THREE.RingGeometry(0.6 - i * 0.2, 0.8 - i * 0.2, 32),\n                    new api.THREE.MeshBasicMaterial({ color: ringColors[i], side: api.THREE.DoubleSide })\n                  );\n                  targetGroup.add(ring);\n                }\n                api.group.add(targetGroup);\n                var dartGeometry = new api.THREE.SphereGeometry(0.08, 16, 16);\n                var dartMaterial = new api.THREE.MeshPhongMaterial({ color: 0x2E86AB });\n                var dart = new api.THREE.Mesh(dartGeometry, dartMaterial);\n                dart.position.set(0.05, 0.05, 0.05);\n                api.group.add(dart);\n                return {\n                  update: function(t) {\n                    targetGroup.rotation.z = t * 0.01;\n                    dart.position.z = 0.1 + Math.sin(t * 0.03) * 0.02;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Accuracy Animation",
-      "description": "Canvas animation",
+      "title": "Darts Landing Near the Bullseye",
+      "description": "Darts clustering near the center show an accurate set of measurements",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var cx = W / 2, cy = H / 2;\n                    var rings = [90, 60, 30];\n                    var colors = ['#E8593C', '#F2A65A', '#2E86AB'];\n                    for (var i = 0; i < rings.length; i++) {\n                      ctx.beginPath();\n                      ctx.arc(cx, cy, rings[i], 0, Math.PI * 2);\n                      ctx.strokeStyle = colors[i];\n                      ctx.lineWidth = 3;\n                      ctx.stroke();\n                    }\n                    var seed = Math.floor(t / 40);\n                    for (var d = 0; d < 5; d++) {\n                      var angle = (seed + d) * 2.4;\n                      var radius = 8 + ((seed * 7 + d * 13) % 15);\n                      var dx = cx + Math.cos(angle) * radius;\n                      var dy = cy + Math.sin(angle) * radius;\n                      ctx.fillStyle = '#2E86AB';\n                      ctx.beginPath();\n                      ctx.arc(dx, dy, 5, 0, Math.PI * 2);\n                      ctx.fill();\n                    }\n                  }\n                };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Accuracy Chart",
-      "description": "Data visualization",
+      "title": "Measurement Gets More Accurate",
+      "description": "As instrument quality improves, the measured value converges on the true value of 100",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Instrument quality",
+        "y_label": "Measured value",
+        "data_json": "{\"fn\":\"100 - 15/x\",\"x_min\":1,\"x_max\":20,\"samples\":100}"
       }
     },
     {
@@ -87,21 +72,21 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Accuracy.",
+        "body_markdown": "## Accuracy\n\nAccuracy describes how close a measured value is to the actual, true value of the quantity being measured.\n\n- You need to know the true (or accepted) value to judge accuracy.\n- A measurement is accurate when it is close to this true value, regardless of how many decimal places it has.\n- Example: if water boils at 100°C and your thermometer reads 99.8°C, the reading is accurate. A reading of 115°C is not.\n- Accuracy is different from precision, which is about consistency rather than correctness.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Accuracy Simulation",
-      "description": "Interactive simulation",
+      "title": "Dart-Throw Accuracy Simulator",
+      "description": "Adjust how close your throws land to the bullseye and see the accuracy change",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          { "id": "offset", "type": "slider", "label": "Average distance from bullseye (px)", "default": 20, "min": 0, "max": 100, "step": 1 },
+          { "id": "throws", "type": "slider", "label": "Number of throws", "default": 6, "min": 1, "max": 12, "step": 1 }
+        ],
+        "setup_code": "return {\n                  draw: function(ctx, W, H) {\n                    ctx.fillStyle = '#F9FAFB';\n                    ctx.fillRect(0, 0, W, H);\n                    var cx = W / 2, cy = H / 2;\n                    var rings = [110, 75, 40];\n                    var colors = ['#E8593C', '#F2A65A', '#2E86AB'];\n                    for (var i = 0; i < rings.length; i++) {\n                      ctx.beginPath();\n                      ctx.arc(cx, cy, rings[i], 0, Math.PI * 2);\n                      ctx.strokeStyle = colors[i];\n                      ctx.lineWidth = 3;\n                      ctx.stroke();\n                    }\n                    var offset = controls.offset !== undefined ? controls.offset : 20;\n                    var count = controls.throws !== undefined ? controls.throws : 6;\n                    for (var d = 0; d < count; d++) {\n                      var angle = d * 2.4 + d * d * 0.3;\n                      var radius = offset + (d % 3) * 6;\n                      var dx = cx + Math.cos(angle) * radius;\n                      var dy = cy + Math.sin(angle) * radius;\n                      ctx.fillStyle = '#111827';\n                      ctx.beginPath();\n                      ctx.arc(dx, dy, 5, 0, Math.PI * 2);\n                      ctx.fill();\n                    }\n                  }\n                };"
       }
     },
     {
@@ -112,31 +97,13 @@
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
-          {
-            "id": "center",
-            "label": "Accuracy",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
+          { "id": "center", "label": "Accuracy", "type": "circle" },
+          { "id": "prop1", "label": "Closeness to true value", "type": "rect" },
+          { "id": "prop2", "label": "Requires a known true value", "type": "rect" }
         ],
         "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
+          { "from": "center", "to": "prop1" },
+          { "from": "center", "to": "prop2" }
         ]
       }
     }

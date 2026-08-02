@@ -4,14 +4,15 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-05",
   "description": "Learn about Absolute Error and its applications in physics.",
   "content": {
-    "overview": "Absolute Error is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Absolute Error. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Absolute Error requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "You measure a table and get 99.5 cm, but it's actually 100 cm. How far off were you? That's absolute error—just the plain, no-nonsense gap between what you measured and what's actually true. {{viz:diagram-01}}",
+    "explanation": "Absolute error is about as simple as physics math gets: {{viz:formula-01}}\n\nTake the true value, subtract your measured value, and just care about the size of the gap—not whether you went too high or too low. That's why we use absolute value: being 0.5 cm short is just as much an error as being 0.5 cm over.\n\nSo in our table example: true value is 100 cm, you measured 99.5 cm. Absolute error = |100 − 99.5| = 0.5 cm. That's it—half a centimeter off, plain and simple. {{viz:anim-01}}\n\nNotice something important though: absolute error keeps the same units as your measurement (cm, kg, seconds, whatever you're measuring). A 0.5 cm error sounds tiny for measuring a room, but it'd be huge for measuring a chip on a circuit board. That's exactly why we'll need relative and percentage error next—absolute error alone doesn't tell you if an error is a big deal or not. {{viz:3d-01}}\n\nSee how the absolute error shrinks as your measurement gets closer to the true value. {{viz:chart-01}}\n\nGet the hang of this formula and you're halfway to understanding every other error calculation in this chapter. {{viz:text-01}} Play with real numbers here. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Absolute error = |true value − measured value| {{viz:diagram-02}}",
+      "It's always positive—we only care about the size of the gap, not the direction",
+      "It keeps the same units as the original measurement (cm, kg, s, etc.)",
+      "Example: true value 100 cm, measured 99.5 cm → absolute error = 0.5 cm"
     ],
-    "whyItMatters": "Absolute Error is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Absolute error is the foundation every other error calculation builds on. Before you can figure out how big a mistake really is (relative error) or express it as a percentage, you first need this raw, honest number: exactly how far off your measurement landed."
   },
   "availableLanguages": [
     "en"

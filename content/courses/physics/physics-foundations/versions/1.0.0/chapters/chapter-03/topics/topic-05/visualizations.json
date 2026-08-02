@@ -3,36 +3,22 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Absolute Error Flowchart",
-      "description": "Flowchart showing Absolute Error process",
+      "title": "Calculating Absolute Error",
+      "description": "Flowchart for finding absolute error",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Absolute Error",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
+          { "id": "start", "label": "Know the true value", "type": "ellipse" },
+          { "id": "measure", "label": "Take a measurement", "type": "rect" },
+          { "id": "subtract", "label": "Subtract: true - measured", "type": "rect" },
+          { "id": "abs", "label": "Take absolute value", "type": "rect" },
+          { "id": "end", "label": "Absolute error", "type": "ellipse" }
         ],
         "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
+          { "from": "start", "to": "measure" },
+          { "from": "measure", "to": "subtract" },
+          { "from": "subtract", "to": "abs" },
+          { "from": "abs", "to": "end" }
         ]
       }
     },
@@ -40,45 +26,43 @@
       "id": "formula-01",
       "type": "formula",
       "title": "Absolute Error Formula",
-      "description": "Mathematical definition",
+      "description": "The size of the gap between a measured value and the true value",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\Delta x = |x_{true} - x_{measured}|",
         "steps": [
-          {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
-          }
+          { "latex": "x_{true} = 100 \\text{ cm}, \\; x_{measured} = 99.5 \\text{ cm}", "explanation": "A table measured slightly short" },
+          { "latex": "\\Delta x = |100 - 99.5| = 0.5 \\text{ cm}", "explanation": "Absolute error keeps the same units as the measurement" }
         ]
       }
     },
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Absolute Error 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "Gap Between Measured and True Value",
+      "description": "A rod between two markers whose length is the absolute error",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var trueMarker = new api.THREE.Mesh(\n                  new api.THREE.SphereGeometry(0.08, 16, 16),\n                  new api.THREE.MeshPhongMaterial({ color: 0x2E86AB })\n                );\n                trueMarker.position.x = -0.4;\n                api.group.add(trueMarker);\n                var measuredMarker = new api.THREE.Mesh(\n                  new api.THREE.SphereGeometry(0.08, 16, 16),\n                  new api.THREE.MeshPhongMaterial({ color: 0xE8593C })\n                );\n                measuredMarker.position.x = 0.4;\n                api.group.add(measuredMarker);\n                var rod = new api.THREE.Mesh(\n                  new api.THREE.CylinderGeometry(0.02, 0.02, 0.8, 8),\n                  new api.THREE.MeshPhongMaterial({ color: 0xF2A65A })\n                );\n                rod.rotation.z = Math.PI / 2;\n                api.group.add(rod);\n                return {\n                  update: function(t) {\n                    api.group.rotation.y = t * 0.01;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Absolute Error Animation",
-      "description": "Canvas animation",
+      "title": "Measured vs True Value Gap",
+      "description": "The bar between the true value marker and the measured value marker shows absolute error",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var cy = H / 2;\n                    var trueX = W / 2 - 60;\n                    var measuredX = W / 2 + 60;\n                    ctx.strokeStyle = '#94A3B8';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(trueX, cy);\n                    ctx.lineTo(measuredX, cy);\n                    ctx.stroke();\n                    ctx.fillStyle = '#2E86AB';\n                    ctx.beginPath();\n                    ctx.arc(trueX, cy, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(measuredX, cy, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.fillStyle = '#111827';\n                    ctx.font = '14px sans-serif';\n                    ctx.textAlign = 'center';\n                    ctx.fillText('true value', trueX, cy - 20);\n                    ctx.fillText('measured value', measuredX, cy - 20);\n                    ctx.fillText('absolute error = gap', (trueX + measuredX) / 2, cy + 30);\n                  }\n                };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Absolute Error Chart",
-      "description": "Data visualization",
+      "title": "Absolute Error Shrinks as Measurement Improves",
+      "description": "As the measured value approaches the true value of 100, absolute error falls toward zero",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Measured value",
+        "y_label": "Absolute error |100 - x|",
+        "data_json": "{\"fn\":\"Math.abs(100 - x)\",\"x_min\":90,\"x_max\":110,\"samples\":100}"
       }
     },
     {
@@ -87,21 +71,21 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Absolute Error.",
+        "body_markdown": "## Absolute Error\n\nAbsolute error is the plain difference between a measured value and the true (accepted) value, always taken as a positive quantity.\n\nDelta x = |x_true - x_measured|\n\n- It carries the same units as the measurement itself (cm, kg, s, etc.).\n- It does not tell you whether the error is significant relative to the size of the measurement — that's what relative error is for.\n- Example: true length 100 cm, measured 99.5 cm gives an absolute error of 0.5 cm.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Absolute Error Simulation",
-      "description": "Interactive simulation",
+      "title": "Absolute Error Calculator",
+      "description": "Adjust the measured value and see the absolute error against a fixed true value",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          { "id": "trueValue", "type": "slider", "label": "True value (cm)", "default": 100, "min": 50, "max": 150, "step": 1 },
+          { "id": "measured", "type": "slider", "label": "Measured value (cm)", "default": 99.5, "min": 50, "max": 150, "step": 0.1 }
+        ],
+        "setup_code": "return {\n                  draw: function(ctx, W, H) {\n                    ctx.fillStyle = '#F9FAFB';\n                    ctx.fillRect(0, 0, W, H);\n                    var trueValue = controls.trueValue !== undefined ? controls.trueValue : 100;\n                    var measured = controls.measured !== undefined ? controls.measured : 99.5;\n                    var error = Math.abs(trueValue - measured);\n                    ctx.fillStyle = '#111827';\n                    ctx.font = '16px sans-serif';\n                    ctx.textAlign = 'center';\n                    ctx.fillText('True: ' + trueValue.toFixed(1) + '   Measured: ' + measured.toFixed(1), W / 2, H / 2 - 20);\n                    ctx.font = 'bold 26px sans-serif';\n                    ctx.fillStyle = '#E8593C';\n                    ctx.fillText('Absolute error = ' + error.toFixed(2), W / 2, H / 2 + 20);\n                  }\n                };"
       }
     },
     {
@@ -112,31 +96,13 @@
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
-          {
-            "id": "center",
-            "label": "Absolute Error",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
+          { "id": "center", "label": "Absolute Error", "type": "circle" },
+          { "id": "prop1", "label": "|true - measured|", "type": "rect" },
+          { "id": "prop2", "label": "Same units as measurement", "type": "rect" }
         ],
         "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
+          { "from": "center", "to": "prop1" },
+          { "from": "center", "to": "prop2" }
         ]
       }
     }

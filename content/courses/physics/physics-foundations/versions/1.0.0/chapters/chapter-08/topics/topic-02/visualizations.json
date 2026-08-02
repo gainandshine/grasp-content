@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Pick independent variable",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Variables",
+            "label": "Change it, measure the dependent variable",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Keep control variables fixed",
             "type": "ellipse"
           }
         ],
@@ -39,14 +39,14 @@
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Variables Formula",
-      "description": "Mathematical definition",
+      "title": "Dependent Depends on Independent",
+      "description": "The dependent variable is a function of the independent variable",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "y = f(x)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "y = f(x)",
+            "explanation": "The dependent variable (y) changes because of the independent variable (x), while every control variable stays fixed."
           }
         ]
       }
@@ -72,13 +72,13 @@
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Variables Chart",
-      "description": "Data visualization",
+      "title": "Temperature vs Magnet Strength",
+      "description": "As the independent variable (temperature) rises, the dependent variable (magnet strength) falls",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Temperature (°C)",
+        "y_label": "Magnet strength (relative)",
+        "data_json": "{\"fn\":\"100 - 1.2*x\",\"x_min\":0,\"x_max\":50,\"samples\":50}"
       }
     },
     {
@@ -87,7 +87,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Variables.",
+        "body_markdown": "## The Three Types of Variables\\n\\nIndependent variable: the thing YOU deliberately change. Dependent variable: the thing that changes because of it, and the thing you measure. Control variables: everything else you keep fixed so it can't quietly mess with your results. Mix these up and you can't trust your data.",
         "citations": []
       }
     },
@@ -119,12 +119,17 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Independent (you change)",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Dependent (you measure)",
+            "type": "rect"
+          },
+          {
+            "id": "prop3",
+            "label": "Control (stays fixed)",
             "type": "rect"
           }
         ],
@@ -136,6 +141,10 @@
           {
             "from": "center",
             "to": "prop2"
+          },
+          {
+            "from": "center",
+            "to": "prop3"
           }
         ]
       }

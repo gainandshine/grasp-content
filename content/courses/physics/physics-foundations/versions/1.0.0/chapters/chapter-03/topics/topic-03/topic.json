@@ -4,14 +4,15 @@
   "topicId": "physics.physics-foundations.chapter-03.topic-03",
   "description": "Learn about Significant Figures and its applications in physics.",
   "content": {
-    "overview": "Significant Figures is a fundamental concept in physics. {{viz:diagram-01}}",
-    "explanation": "This topic covers the essential aspects of Significant Figures. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Significant Figures requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
+    "overview": "Quick question: is 100 grams the same as 100.0 grams? They look almost identical, but they're actually telling you very different things about how carefully something was measured. That's what significant figures are all about—they tell you how much you can trust a number. {{viz:diagram-01}}",
+    "explanation": "Here's the deal: every measurement you write down is only as good as the tool you used to get it. Significant figures (or \"sig figs\" for short) are the digits in a number that actually carry meaning about how precisely you measured something. {{viz:formula-01}}\n\nSo how do you count them? A few simple rules:\n- Any non-zero digit always counts (1, 2, 3... all the way to 9).\n- Zeros stuck between other digits count too (like the 0 in 405).\n- Trailing zeros only count if there's a decimal point (100.0 has 4 sig figs, but plain old 100 might only have 1—ambiguous!).\n- Leading zeros never count (0.0025 has just 2 sig figs—the 2 and the 5).\n\nWatch what this looks like in practice. {{viz:3d-01}}\n\nWhy does any of this matter? Because when you're doing calculations, your answer can only be as precise as your least precise measurement. If you multiply a super precise number by a rough one, your answer inherits the roughness—you can't magically create precision that wasn't there to begin with. {{viz:anim-01}}\n\nSee how the count of significant digits shifts as a number changes. {{viz:chart-01}}\n\nGetting comfortable with sig figs takes a little practice, but once it clicks, you'll never write down a number without thinking about what it's really telling you. {{viz:text-01}} Try it out for yourself. {{viz:simulation-01}}",
     "keyPoints": [
-      "Understanding the basics {{viz:diagram-02}}",
-      "Practical applications {{viz:example-01}}",
-      "Common misconceptions"
+      "Significant figures = the digits in a number that carry real meaning about precision {{viz:diagram-02}}",
+      "Non-zero digits always count; leading zeros never do; trailing zeros only count with a decimal point",
+      "100 has 1 sig fig (ambiguous), but 100.0 has 4—the decimal point makes a big difference",
+      "Your final answer can only be as precise as your least precise measurement"
     ],
-    "whyItMatters": "Significant Figures is essential for mastering Physics Foundations. The Lottie animation {{viz:lottie-01}} illustrates its importance."
+    "whyItMatters": "Sig figs keep you honest. Without them, you might report a measurement as more precise than it really is—like claiming you know something down to the millimeter when your ruler only measures centimeters. Scientists (and engineers building bridges!) rely on sig figs to communicate exactly how much they can trust a number."
   },
   "availableLanguages": [
     "en"

@@ -4,17 +4,17 @@
   "topicId": "physics.physics-foundations.chapter-07.topic-01",
   "description": "Visual way to show relationships between two quantities",
   "content": {
-    "overview": "A graph is just a picture showing how one thing changes with another. Instead of numbers in a table, you draw it. Way easier to see what's happening! {{viz:diagram-01}}",
-    "explanation": "Graphs let you SEE relationships instead of just reading numbers. {{viz:chart-01}}\n\nBasic setup: two axes (usually x and y). Each point on the graph shows a pair of values. Like: at time x=5 seconds, position y=20 meters.\n\n**Why graphs rock:**\n- You can see patterns instantly\n- Straight line = simple relationship\n- Curve = something more complicated\n- Steep = changes fast\n- Flat = changes slowly\n\n**Graph types in physics:**\n- **Line graphs:** distance vs time, temperature vs time, etc.\n- **Scatter plots:** data points that might not be perfectly connected\n- **Bar graphs:** comparing quantities\n- **Curved graphs:** when relationships get complicated {{viz:anim-01}}\n\nGraphs are a TOOL. They make data talk to you instead of hiding in numbers.",
+    "overview": "Ever look at a table full of numbers and just... glaze over? Yeah, same. That's exactly why graphs exist. A graph takes those numbers and turns them into a picture, so instead of squinting at a list, you just glance and go \"oh, I see what's happening.\" {{viz:diagram-01}}",
+    "explanation": "Here's the thing about graphs: they let you SEE a relationship instead of hunting for it in a pile of numbers. {{viz:chart-01}}\n\nThink about a road trip. You could write down \"at 1 hour we'd gone 60 km, at 2 hours 120 km, at 3 hours 180 km\"... or you could just plot those points and instantly see you're moving at a steady pace. That's the whole magic trick.\n\nThe setup is simple: two axes, usually called x and y. Every point on the graph is just a pair of values living together — like \"at time x = 5 seconds, position y = 20 meters.\" One dot, two pieces of information.\n\n**Why you'll come to love graphs:**\n- You spot patterns in about half a second\n- A straight line? Simple, steady relationship\n- A curve? Something more interesting is going on\n- Steep = changing fast\n- Flat = barely changing at all\n\n**The graph types you'll bump into in physics:**\n- **Line graphs** — distance vs. time, temperature vs. time, that kind of thing\n- **Scatter plots** — real-world data points that don't connect perfectly (because real life is messy)\n- **Bar graphs** — great for comparing separate quantities side by side\n- **Curved graphs** — for when the relationship isn't so simple {{viz:anim-01}}\n\nSo don't think of a graph as \"extra math homework.\" Think of it as a translator — it takes boring numbers and makes them talk to you.",
     "keyPoints": [
-      "Graphs show relationships visually",
-      "X-axis (horizontal) and Y-axis (vertical)",
-      "Straight line = linear relationship",
-      "Curve = nonlinear relationship",
-      "Steepness shows how fast things change",
-      "Graphs make patterns obvious"
+      "Graphs turn numbers into a picture you can actually read at a glance",
+      "X-axis runs horizontal, Y-axis runs vertical — that's your stage",
+      "A straight line means a simple, linear relationship",
+      "A curve means things are changing in a more complicated way",
+      "Steepness tells you how fast something's changing",
+      "Once you can read a graph, patterns just jump out at you"
     ],
-    "whyItMatters": "Graphs are how scientists communicate. You'll see graphs in every physics textbook, lab report, and research paper. Understanding them is essential."
+    "whyItMatters": "You're going to run into graphs constantly — every physics textbook, every lab report, every research paper leans on them to tell its story. Get comfortable reading them now, and a huge chunk of physics gets easier overnight."
   },
   "availableLanguages": [
     "en"

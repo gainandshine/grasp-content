@@ -3,82 +3,67 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Significant Figures Flowchart",
-      "description": "Flowchart showing Significant Figures process",
+      "title": "Counting Significant Figures",
+      "description": "Flowchart for counting sig figs in a number",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Significant Figures",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
+          { "id": "start", "label": "Look at the number", "type": "ellipse" },
+          { "id": "nonzero", "label": "Count all non-zero digits", "type": "rect" },
+          { "id": "between", "label": "Count zeros between digits", "type": "rect" },
+          { "id": "trailing", "label": "Trailing zeros count only with a decimal point", "type": "rect" },
+          { "id": "end", "label": "Total = significant figures", "type": "ellipse" }
         ],
         "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
+          { "from": "start", "to": "nonzero" },
+          { "from": "nonzero", "to": "between" },
+          { "from": "between", "to": "trailing" },
+          { "from": "trailing", "to": "end" }
         ]
       }
     },
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Significant Figures Formula",
-      "description": "Mathematical definition",
+      "title": "Significant Figure Rules",
+      "description": "How many digits in a measurement actually carry meaning",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "100.0 \\rightarrow 4 \\text{ sig figs}, \\quad 100 \\rightarrow 1 \\text{ sig fig}",
         "steps": [
-          {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
-          }
+          { "latex": "405 \\rightarrow 3 \\text{ sig figs}", "explanation": "Zero between two non-zero digits counts" },
+          { "latex": "0.0025 \\rightarrow 2 \\text{ sig figs}", "explanation": "Leading zeros never count" },
+          { "latex": "100.0 \\rightarrow 4 \\text{ sig figs}", "explanation": "Trailing zeros count only if there's a decimal point" }
         ]
       }
     },
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Significant Figures 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "Digits That Count",
+      "description": "Stacked blocks represent digits; highlighted blocks are the significant ones",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var group = new api.THREE.Group();\n                var sig = [true, true, true, false];\n                for (var i = 0; i < sig.length; i++) {\n                  var color = sig[i] ? 0x2E86AB : 0xCBD5E1;\n                  var block = new api.THREE.Mesh(\n                    new api.THREE.BoxGeometry(0.3, 0.3, 0.3),\n                    new api.THREE.MeshPhongMaterial({ color: color })\n                  );\n                  block.position.x = (i - (sig.length - 1) / 2) * 0.4;\n                  group.add(block);\n                }\n                api.group.add(group);\n                return {\n                  update: function(t) {\n                    group.rotation.y = t * 0.02;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Significant Figures Animation",
-      "description": "Canvas animation",
+      "title": "Highlighting Significant Digits",
+      "description": "Digits of a number light up as significant while leading zeros stay dim",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var digits = ['0', '.', '0', '0', '2', '5'];\n                    var sig = [false, false, false, false, true, true];\n                    var startX = W / 2 - (digits.length * 30) / 2;\n                    var cy = H / 2;\n                    var glow = 0.5 + 0.5 * Math.sin(t * 0.08);\n                    ctx.font = 'bold 36px sans-serif';\n                    ctx.textAlign = 'center';\n                    for (var i = 0; i < digits.length; i++) {\n                      var x = startX + i * 30 + 15;\n                      ctx.fillStyle = sig[i] ? ('rgba(232, 89, 60,' + (0.6 + 0.4 * glow) + ')') : '#94A3B8';\n                      ctx.fillText(digits[i], x, cy);\n                    }\n                  }\n                };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Significant Figures Chart",
-      "description": "Data visualization",
+      "title": "Precision Implied by Digit Count",
+      "description": "How the smallest resolvable increment shrinks as you add significant digits",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Number of significant figures",
+        "y_label": "Smallest measurable increment",
+        "data_json": "{\"fn\":\"Math.pow(10, -(x-1))\",\"x_min\":1,\"x_max\":6,\"samples\":60}"
       }
     },
     {
@@ -87,21 +72,21 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Significant Figures.",
+        "body_markdown": "## Significant Figures\n\nSignificant figures are the digits in a measured number that carry real meaning about its precision.\n\n**Rules for counting:**\n1. All non-zero digits are significant.\n2. Zeros between non-zero digits are significant (e.g. 405 has 3 sig figs).\n3. Leading zeros are never significant (e.g. 0.0025 has 2 sig figs).\n4. Trailing zeros are significant only if there is a decimal point (e.g. 100.0 has 4 sig figs, but 100 is ambiguous and is normally taken as 1 sig fig).\n\n**Calculations:** the result of a calculation can only be as precise as the least precise measurement used — you cannot gain precision by doing math.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Significant Figures Simulation",
-      "description": "Interactive simulation",
+      "title": "Significant Figure Counter",
+      "description": "Move the decimal point and add trailing zeros to see the sig fig count change",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          { "id": "zeros", "type": "slider", "label": "Trailing zeros after decimal", "default": 1, "min": 0, "max": 4, "step": 1 },
+          { "id": "hasDecimal", "type": "toggle", "label": "Show decimal point", "default": true }
+        ],
+        "setup_code": "return {\n                  draw: function(ctx, W, H) {\n                    ctx.fillStyle = '#F9FAFB';\n                    ctx.fillRect(0, 0, W, H);\n                    var zeros = controls.zeros !== undefined ? controls.zeros : 1;\n                    var hasDecimal = controls.hasDecimal !== undefined ? controls.hasDecimal : true;\n                    var text = '1' + '0'.repeat(2) + (hasDecimal ? ('.' + '0'.repeat(zeros)) : '');\n                    var sigFigs = hasDecimal ? (3 + zeros) : 1;\n                    ctx.fillStyle = '#111827';\n                    ctx.font = 'bold 40px sans-serif';\n                    ctx.textAlign = 'center';\n                    ctx.fillText(text, W / 2, H / 2 - 10);\n                    ctx.font = '16px sans-serif';\n                    ctx.fillStyle = '#2E86AB';\n                    ctx.fillText('Significant figures: ' + sigFigs, W / 2, H / 2 + 40);\n                  }\n                };"
       }
     },
     {
@@ -112,31 +97,13 @@
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
-          {
-            "id": "center",
-            "label": "Significant Figures",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
+          { "id": "center", "label": "Significant Figures", "type": "circle" },
+          { "id": "prop1", "label": "Digits that carry precision", "type": "rect" },
+          { "id": "prop2", "label": "Limits precision of calculations", "type": "rect" }
         ],
         "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
+          { "from": "center", "to": "prop1" },
+          { "from": "center", "to": "prop2" }
         ]
       }
     }

@@ -3,82 +3,66 @@
     {
       "id": "diagram-01",
       "type": "diagram",
-      "title": "Scientific Notation Flowchart",
-      "description": "Flowchart showing Scientific Notation process",
+      "title": "Writing Scientific Notation",
+      "description": "Flowchart for converting a number to scientific notation",
       "spec": {
         "diagramType": "flowchart",
         "nodes": [
-          {
-            "id": "start",
-            "label": "Start",
-            "type": "ellipse"
-          },
-          {
-            "id": "process",
-            "label": "Scientific Notation",
-            "type": "rect"
-          },
-          {
-            "id": "end",
-            "label": "End",
-            "type": "ellipse"
-          }
+          { "id": "start", "label": "Start with a number", "type": "ellipse" },
+          { "id": "move", "label": "Move decimal point until 1 <= a < 10", "type": "rect" },
+          { "id": "count", "label": "Count places moved", "type": "rect" },
+          { "id": "sign", "label": "Left move = positive exponent, right move = negative exponent", "type": "rect" },
+          { "id": "end", "label": "Write as a x 10^n", "type": "ellipse" }
         ],
         "edges": [
-          {
-            "from": "start",
-            "to": "process"
-          },
-          {
-            "from": "process",
-            "to": "end"
-          }
+          { "from": "start", "to": "move" },
+          { "from": "move", "to": "count" },
+          { "from": "count", "to": "sign" },
+          { "from": "sign", "to": "end" }
         ]
       }
     },
     {
       "id": "formula-01",
       "type": "formula",
-      "title": "Scientific Notation Formula",
-      "description": "Mathematical definition",
+      "title": "Scientific Notation Form",
+      "description": "General form and two physics examples",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "N = a \\times 10^{n}, \\quad 1 \\le a < 10",
         "steps": [
-          {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
-          }
+          { "latex": "c = 3 \\times 10^{8} \\; \\text{m/s}", "explanation": "Speed of light: a huge number, positive exponent" },
+          { "latex": "m_e = 9.1 \\times 10^{-31} \\; \\text{kg}", "explanation": "Electron mass: a tiny number, negative exponent" }
         ]
       }
     },
     {
       "id": "3d-01",
       "type": "3d",
-      "title": "Scientific Notation 3D Model",
-      "description": "Interactive 3D visualization",
+      "title": "Scale of the Exponent",
+      "description": "A rotating bar whose length represents the size of 10^n",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var bar = new api.THREE.Mesh(\n                  new api.THREE.BoxGeometry(1.5, 0.15, 0.15),\n                  new api.THREE.MeshPhongMaterial({ color: 0xE8593C })\n                );\n                api.group.add(bar);\n                var marker = new api.THREE.Mesh(\n                  new api.THREE.SphereGeometry(0.1, 16, 16),\n                  new api.THREE.MeshPhongMaterial({ color: 0x2E86AB })\n                );\n                api.group.add(marker);\n                return {\n                  update: function(t) {\n                    bar.rotation.z = Math.sin(t * 0.01) * 0.3;\n                    marker.position.x = Math.sin(t * 0.02) * 0.7;\n                  }\n                };"
       }
     },
     {
       "id": "anim-01",
       "type": "2d-anim",
-      "title": "Scientific Notation Animation",
-      "description": "Canvas animation",
+      "title": "Sliding the Decimal Point",
+      "description": "Watch the decimal point slide and the exponent update to match",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var n = Math.floor((t / 60) % 9);\n                    ctx.fillStyle = '#111827';\n                    ctx.font = 'bold 34px sans-serif';\n                    ctx.textAlign = 'center';\n                    ctx.fillText('3.0 x 10^' + n, W / 2, H / 2 - 10);\n                    ctx.font = '16px sans-serif';\n                    ctx.fillStyle = '#2E86AB';\n                    ctx.fillText('= ' + (3 * Math.pow(10, n)).toLocaleString(), W / 2, H / 2 + 30);\n                  }\n                };"
       }
     },
     {
       "id": "chart-01",
       "type": "d3",
-      "title": "Scientific Notation Chart",
-      "description": "Data visualization",
+      "title": "Exponential Growth of 10^n",
+      "description": "How fast the value grows as the exponent n increases",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "Exponent n",
+        "y_label": "10^n",
+        "data_json": "{\"fn\":\"Math.pow(10, x)\",\"x_min\":0,\"x_max\":8,\"samples\":100}"
       }
     },
     {
@@ -87,21 +71,21 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Scientific Notation.",
+        "body_markdown": "## Scientific Notation\n\nScientific notation writes a number as a x 10^n, where 1 <= a < 10 and n is an integer.\n\n- Large numbers get a positive exponent: 300,000,000 = 3 x 10^8.\n- Small numbers get a negative exponent: 0.00000000000000000000000000000091 = 9.1 x 10^-31.\n- The exponent tells you how many places the decimal point moved (left = positive, right = negative).\n- This notation makes extremely large or small physics quantities easy to write, compare, and calculate with.",
         "citations": []
       }
     },
     {
       "id": "simulation-01",
       "type": "simulation",
-      "title": "Scientific Notation Simulation",
-      "description": "Interactive simulation",
+      "title": "Scientific Notation Converter",
+      "description": "Adjust the coefficient and exponent to see the full number appear",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [
+          { "id": "coefficient", "type": "slider", "label": "Coefficient (a)", "default": 3, "min": 1, "max": 9.9, "step": 0.1 },
+          { "id": "exponent", "type": "slider", "label": "Exponent (n)", "default": 8, "min": -10, "max": 10, "step": 1 }
+        ],
+        "setup_code": "return {\n                  draw: function(ctx, W, H) {\n                    ctx.fillStyle = '#F9FAFB';\n                    ctx.fillRect(0, 0, W, H);\n                    var a = controls.coefficient !== undefined ? controls.coefficient : 3;\n                    var n = controls.exponent !== undefined ? controls.exponent : 8;\n                    ctx.fillStyle = '#111827';\n                    ctx.font = 'bold 30px sans-serif';\n                    ctx.textAlign = 'center';\n                    ctx.fillText(a.toFixed(1) + ' x 10^' + n, W / 2, H / 2 - 15);\n                    ctx.font = '16px sans-serif';\n                    ctx.fillStyle = '#2E86AB';\n                    ctx.fillText('= ' + (a * Math.pow(10, n)).toExponential(3), W / 2, H / 2 + 25);\n                  }\n                };"
       }
     },
     {
@@ -112,31 +96,13 @@
       "spec": {
         "diagramType": "mindmap",
         "nodes": [
-          {
-            "id": "center",
-            "label": "Scientific Notation",
-            "type": "circle"
-          },
-          {
-            "id": "prop1",
-            "label": "Property 1",
-            "type": "rect"
-          },
-          {
-            "id": "prop2",
-            "label": "Property 2",
-            "type": "rect"
-          }
+          { "id": "center", "label": "Scientific Notation", "type": "circle" },
+          { "id": "prop1", "label": "Coefficient between 1 and 10", "type": "rect" },
+          { "id": "prop2", "label": "Power of 10 exponent", "type": "rect" }
         ],
         "edges": [
-          {
-            "from": "center",
-            "to": "prop1"
-          },
-          {
-            "from": "center",
-            "to": "prop2"
-          }
+          { "from": "center", "to": "prop1" },
+          { "from": "center", "to": "prop2" }
         ]
       }
     }

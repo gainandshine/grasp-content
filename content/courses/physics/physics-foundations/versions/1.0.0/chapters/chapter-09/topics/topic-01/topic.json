@@ -4,16 +4,16 @@
   "topicId": "physics.physics-foundations.chapter-09.topic-01",
   "description": "Making sure your answers have the right units",
   "content": {
-    "overview": "Unit checking is your first defense against silly mistakes. Before celebrating your answer, ask: 'Does this have the right units?' {{viz:diagram-01}}",
-    "explanation": "Unit checking is simple: look at your final answer and verify the units make sense for what you calculated.\n\nExample: You calculate speed and get 50 m/s. Good! Speed should be in m/s (distance/time).\n\nBut if you calculate speed and get 50 meters, that's WRONG. Speed isn't distance—it's distance per time.\n\nThe trick: {{viz:diagram-02}}\n\n1. Know what units your answer SHOULD have\n2. Check what units you actually got\n3. If they match → probably right\n4. If they don't match → definitely wrong\n\n**Example: Wrong answer caught by unit checking** {{viz:anim-01}}\n\nYou calculate: F = m × a = 5 kg × 3 m/s² = 15 kg·m/s²\n\nYou know force should be in Newtons (N), which equals kg·m/s². Your answer checks out! ✓\n\nBut imagine you accidentally wrote: F = m + a = 5 kg + 3 m/s² = ??? \n\nYou can't add kg and m/s²! Units don't match. This tells you something went wrong. {{viz:chart-01}}\n\nUnit checking won't tell you if your answer is 100% correct, but it WILL catch obvious blunders.",
+    "overview": "Here's a trick that takes five seconds and catches a shocking number of mistakes: before you get excited about your answer, just look at its units. Do they even make sense? {{viz:diagram-01}}",
+    "explanation": "Unit checking is stupidly simple, and that's exactly why it works: look at your final answer and ask whether the units make sense for whatever you were trying to find.\n\nSay you're solving for speed and you get 50 m/s. Nice—speed should be in m/s (distance over time), so that's a good sign.\n\nBut what if you calculate speed and end up with 50 meters? That's a red flag. Speed isn't a distance, it's a distance divided by time. Something in your math went sideways.\n\nHere's the whole trick, boiled down: {{viz:diagram-02}}\n\n1. Figure out what units your answer SHOULD have\n2. Look at what units you actually got\n3. They match? You're probably on the right track\n4. They don't match? You've definitely got a mistake somewhere\n\n**Let's catch a mistake in action** {{viz:anim-01}}\n\nYou work out: F = m × a = 5 kg × 3 m/s² = 15 kg·m/s²\n\nForce should be in Newtons (N), and it just so happens N = kg·m/s². Units match—you're good! ✓\n\nNow imagine you'd fat-fingered it as: F = m + a = 5 kg + 3 m/s² = ???\n\nHold on—you can't add kilograms to meters-per-second-squared. That's like adding apples to oranges. The units clash, which is your signal that something broke. {{viz:chart-01}}\n\nUnit checking won't prove your answer is perfect, but it's ruthlessly good at catching the obvious blunders before anyone else sees them.",
     "keyPoints": [
-      "Know what units your answer should have",
-      "Check what units you actually got",
-      "If units don't match, something is wrong",
-      "If units match, your answer is at least plausible",
-      "Do this check EVERY TIME you solve a problem"
+      "Figure out what units your answer should have—before you even start crunching numbers",
+      "Compare that to the units you actually end up with",
+      "Units don't match? Something's wrong, guaranteed",
+      "Units match? Good sign—your answer is at least plausible",
+      "Make this a habit: check it EVERY TIME, not just when you're unsure"
     ],
-    "whyItMatters": "Unit checking saves you from embarrassment. It's the fastest way to catch if you used the wrong formula, made an algebra mistake, or forgot a conversion."
+    "whyItMatters": "Unit checking is your cheapest insurance policy against embarrassment. In five seconds, it can tell you if you grabbed the wrong formula, fumbled the algebra, or forgot to convert units somewhere. Skip it and you might not find out until it's too late."
   },
   "availableLanguages": [
     "en"

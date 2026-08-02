@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Object at Position A",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Motion",
+            "label": "Position changes over time",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Object at Position B (Motion occurred)",
             "type": "ellipse"
           }
         ],
@@ -42,11 +42,23 @@
       "title": "Motion Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "v = \\frac{d}{t}, \\quad \\vec{v} = \\frac{\\Delta \\vec{x}}{\\Delta t}",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "d = \\text{distance (scalar, path length, meters)}",
+            "explanation": "Distance is how much ground was covered, no direction."
+          },
+          {
+            "latex": "\\Delta \\vec{x} = \\vec{x}_f - \\vec{x}_i \\text{ (displacement, vector, meters)}",
+            "explanation": "Displacement is the straight-line change from start to end, with direction."
+          },
+          {
+            "latex": "v = d / t \\text{ (speed, m/s)}",
+            "explanation": "Speed = distance traveled divided by time taken."
+          },
+          {
+            "latex": "\\vec{v} = \\Delta \\vec{x} / \\Delta t \\text{ (velocity, m/s)}",
+            "explanation": "Velocity = displacement divided by time, so it has direction too."
           }
         ]
       }
@@ -57,7 +69,7 @@
       "title": "Motion 3D Model",
       "description": "Interactive 3D visualization",
       "spec": {
-        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.rotation.x = t * 0.02;\n                    cube.rotation.y = t * 0.03;\n                  }\n                };"
+        "setup_code": "var geometry = new api.THREE.BoxGeometry(1, 1, 1);\n                var material = new api.THREE.MeshPhongMaterial({ color: 0xE8593C });\n                var cube = new api.THREE.Mesh(geometry, material);\n                api.group.add(cube);\n                return {\n                  update: function(t) {\n                    cube.position.x = Math.sin(t * 0.02) * 2;\n                    cube.rotation.y = t * 0.02;\n                  }\n                };"
       }
     },
     {
@@ -66,7 +78,7 @@
       "title": "Motion Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "var path = [];\n                return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var startX = W * 0.2, startY = H * 0.5;\n                    var radius = Math.min(W, H) * 0.28;\n                    var angle = (t * 0.02) % (Math.PI * 1.5);\n                    var x = startX + Math.sin(angle) * radius;\n                    var y = startY - (1 - Math.cos(angle)) * radius;\n                    path.push([x, y]);\n                    if (path.length > 400) path.shift();\n                    ctx.strokeStyle = '#E8593C';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    for (var i = 0; i < path.length; i++) {\n                      if (i === 0) ctx.moveTo(path[i][0], path[i][1]);\n                      else ctx.lineTo(path[i][0], path[i][1]);\n                    }\n                    ctx.stroke();\n                    ctx.strokeStyle = '#3C7CE8';\n                    ctx.lineWidth = 2;\n                    ctx.setLineDash([6, 6]);\n                    ctx.beginPath();\n                    ctx.moveTo(startX, startY);\n                    ctx.lineTo(x, y);\n                    ctx.stroke();\n                    ctx.setLineDash([]);\n                    ctx.fillStyle = '#333333';\n                    ctx.beginPath();\n                    ctx.arc(startX, startY, 5, 0, Math.PI * 2);\n                    ctx.fill();\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 8, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
       }
     },
     {
@@ -76,9 +88,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "time (s)",
+        "y_label": "distance traveled (m)",
+        "data_json": "{\"fn\":\"1*x*x\",\"x_min\":0,\"x_max\":10,\"samples\":100}"
       }
     },
     {
@@ -87,7 +99,7 @@
       "title": "Theoretical Background",
       "description": "Detailed text explanation",
       "spec": {
-        "body_markdown": "## Background\\n\\nDetailed theoretical explanation of Motion.",
+        "body_markdown": "## Motion: The Basics\\n\\n**Motion** is a change in an object's position over time.\\n\\n- **Distance**: total path length covered. Scalar (no direction). Measured in meters.\\n- **Displacement**: straight-line change from start to end position. Vector (has direction). Also meters.\\n- **Speed**: how fast distance is covered, v = d / t. Scalar, m/s.\\n- **Velocity**: how fast displacement changes, v = \\u0394x / \\u0394t. Vector, m/s.\\n- **Acceleration**: how fast velocity changes, a = \\u0394v / \\u0394t. Vector, m/s^2.\\n\\nIf you walk in a full loop back to where you started, your distance is large but your displacement is zero — you ended up right back where you began.",
         "citations": []
       }
     },
@@ -118,24 +130,42 @@
             "type": "circle"
           },
           {
-            "id": "prop1",
-            "label": "Property 1",
+            "id": "distance",
+            "label": "Distance (scalar)",
             "type": "rect"
           },
           {
-            "id": "prop2",
-            "label": "Property 2",
+            "id": "displacement",
+            "label": "Displacement (vector)",
+            "type": "rect"
+          },
+          {
+            "id": "speed",
+            "label": "Speed = distance/time",
+            "type": "rect"
+          },
+          {
+            "id": "velocity",
+            "label": "Velocity = displacement/time",
             "type": "rect"
           }
         ],
         "edges": [
           {
             "from": "center",
-            "to": "prop1"
+            "to": "distance"
           },
           {
             "from": "center",
-            "to": "prop2"
+            "to": "displacement"
+          },
+          {
+            "from": "distance",
+            "to": "speed"
+          },
+          {
+            "from": "displacement",
+            "to": "velocity"
           }
         ]
       }

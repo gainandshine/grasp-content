@@ -10,17 +10,17 @@
         "nodes": [
           {
             "id": "start",
-            "label": "Start",
+            "label": "Data spans huge range",
             "type": "ellipse"
           },
           {
             "id": "process",
-            "label": "Logarithmic Graphs",
+            "label": "Use a log scale axis",
             "type": "rect"
           },
           {
             "id": "end",
-            "label": "End",
+            "label": "Compressed, readable graph",
             "type": "ellipse"
           }
         ],
@@ -42,11 +42,15 @@
       "title": "Logarithmic Graphs Formula",
       "description": "Mathematical definition",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "\\log_{10}(y) = n \\cdot \\log_{10}(x) + \\log_{10}(a)",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "y = a x^n",
+            "explanation": "A power-law relationship becomes a straight line once you take logs of both sides"
+          },
+          {
+            "latex": "\\text{slope} = n",
+            "explanation": "On a log-log plot, the slope of the straight line tells you the power n directly"
           }
         ]
       }
@@ -66,7 +70,7 @@
       "title": "Logarithmic Graphs Animation",
       "description": "Canvas animation",
       "spec": {
-        "setup_code": "return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var x = W/2 + Math.sin(t * 0.05) * 100;\n                    var y = H/2 + Math.cos(t * 0.05) * 100;\n                    ctx.fillStyle = '#E8593C';\n                    ctx.beginPath();\n                    ctx.arc(x, y, 20, 0, Math.PI * 2);\n                    ctx.fill();\n                  }\n                };"
+        "setup_code": "var margin = 40;\n                return {\n                  draw: function(ctx, W, H, t, dt) {\n                    ctx.fillStyle = '#F5F0E8';\n                    ctx.fillRect(0, 0, W, H);\n                    var halfW = (W - 3 * margin) / 2;\n                    var originX1 = margin, originY = H - margin;\n                    var axisH = H - 2 * margin;\n                    ctx.strokeStyle = '#333333';\n                    ctx.lineWidth = 2;\n                    ctx.beginPath();\n                    ctx.moveTo(originX1, originY);\n                    ctx.lineTo(originX1 + halfW, originY);\n                    ctx.moveTo(originX1, originY);\n                    ctx.lineTo(originX1, originY - axisH);\n                    ctx.stroke();\n                    ctx.strokeStyle = '#4A90D9';\n                    ctx.lineWidth = 3;\n                    ctx.beginPath();\n                    var n = 60;\n                    for (var i = 0; i <= n; i++) {\n                      var fx = i / n;\n                      var fy = Math.exp(fx * 3) / Math.exp(3);\n                      var px = originX1 + fx * halfW;\n                      var py = originY - fy * axisH;\n                      if (i === 0) ctx.moveTo(px, py); else ctx.lineTo(px, py);\n                    }\n                    ctx.stroke();\n                    ctx.fillStyle = '#333333';\n                    ctx.font = '12px sans-serif';\n                    ctx.fillText('linear scale: curve', originX1, originY + 20);\n                    var originX2 = margin * 2 + halfW;\n                    ctx.strokeStyle = '#333333';\n                    ctx.beginPath();\n                    ctx.moveTo(originX2, originY);\n                    ctx.lineTo(originX2 + halfW, originY);\n                    ctx.moveTo(originX2, originY);\n                    ctx.lineTo(originX2, originY - axisH);\n                    ctx.stroke();\n                    ctx.strokeStyle = '#E8593C';\n                    ctx.lineWidth = 3;\n                    ctx.beginPath();\n                    ctx.moveTo(originX2, originY);\n                    ctx.lineTo(originX2 + halfW, originY - axisH);\n                    ctx.stroke();\n                    ctx.fillStyle = '#333333';\n                    ctx.fillText('log scale: straight line', originX2, originY + 20);\n                  }\n                };"
       }
     },
     {
@@ -76,9 +80,9 @@
       "description": "Data visualization",
       "spec": {
         "chart_type": "function",
-        "x_label": "x",
-        "y_label": "f(x)",
-        "data_json": "{\"fn\":\"Math.sin(x)\",\"x_min\":-6.283185307179586,\"x_max\":6.283185307179586,\"samples\":200}"
+        "x_label": "x (log scale)",
+        "y_label": "log10(x)",
+        "data_json": "{\"fn\":\"Math.log(x)/Math.LN10\",\"x_min\":1,\"x_max\":1000000,\"samples\":200}"
       }
     },
     {
@@ -119,12 +123,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Log-linear: shows exponential growth",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Log-log: shows power laws",
             "type": "rect"
           }
         ],

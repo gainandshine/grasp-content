@@ -40,13 +40,13 @@
       "id": "formula-01",
       "type": "formula",
       "title": "Unit Checking Formula",
-      "description": "Mathematical definition",
+      "description": "Checking that force units make sense",
       "spec": {
-        "main_latex": "f(x) = ax^2 + bx + c",
+        "main_latex": "F = ma",
         "steps": [
           {
-            "latex": "a \\\\neq 0",
-            "explanation": "Leading coefficient"
+            "latex": "[\\text{N}] = [\\text{kg}]\\cdot[\\text{m/s}^2]",
+            "explanation": "Newtons must equal kg times m/s². The units on both sides match, so the formula checks out."
           }
         ]
       }
@@ -97,11 +97,8 @@
       "title": "Unit Checking Simulation",
       "description": "Interactive simulation",
       "spec": {
-        "simulationType": "physics",
-        "config": {
-          "gravity": 9.8,
-          "friction": 0.1
-        }
+        "controls": [],
+        "setup_code": "return {\n  time: 0,\n  update: function(dt, t, controls) { this.time = t; },\n  draw: function(ctx, w, h) {\n    ctx.fillStyle = '#F5F0E8';\n    ctx.fillRect(0, 0, w, h);\n    var x = w/2 + Math.sin(this.time * 1.2) * (w * 0.25);\n    var y = h/2;\n    ctx.fillStyle = '#E8593C';\n    ctx.beginPath();\n    ctx.arc(x, y, 18, 0, Math.PI * 2);\n    ctx.fill();\n    ctx.fillStyle = '#333333';\n    ctx.font = '14px sans-serif';\n    ctx.fillText('F = m \\u00d7 a  \\u2192  units: kg\\u00b7m/s\\u00b2 = N', 12, 24);\n  }\n};"
       }
     },
     {
@@ -119,12 +116,12 @@
           },
           {
             "id": "prop1",
-            "label": "Property 1",
+            "label": "Expected units",
             "type": "rect"
           },
           {
             "id": "prop2",
-            "label": "Property 2",
+            "label": "Actual units",
             "type": "rect"
           }
         ],
