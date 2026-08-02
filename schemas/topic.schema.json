@@ -2,12 +2,22 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Topic",
   "type": "object",
-  "required": ["id", "name", "conceptId"],
+  "required": ["id", "name", "topicId", "content"],
   "properties": {
     "id": { "type": "string" },
     "name": { "type": "string" },
+    "topicId": { "type": "string", "description": "Primary topic ID for this topic" },
     "description": { "type": "string" },
-    "conceptId": { "type": "string", "description": "Primary concept ID for this topic" },
+    "content": {
+      "type": "object",
+      "required": ["overview", "explanation", "keyPoints", "whyItMatters"],
+      "properties": {
+        "overview": { "type": "string" },
+        "explanation": { "type": "string" },
+        "keyPoints": { "type": "array", "items": { "type": "string" } },
+        "whyItMatters": { "type": "string" }
+      }
+    },
     "metadata": {
       "type": "object",
       "properties": {

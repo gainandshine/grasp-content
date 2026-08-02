@@ -1,11 +1,10 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Flashcard",
+  "title": "Flashcards",
   "type": "object",
-  "required": ["id", "cards"],
+  "required": ["flashcards"],
   "properties": {
-    "id": { "type": "string" },
-    "cards": {
+    "flashcards": {
       "type": "array",
       "items": {
         "type": "object",
@@ -15,6 +14,7 @@
           "front": { "type": "string" },
           "back": { "type": "string" },
           "hint": { "type": "string" },
+          "difficulty": { "type": "string" },
           "tags": { "type": "array", "items": { "type": "string" } }
         }
       }

@@ -7,7 +7,7 @@
     "id": { "type": "string" },
     "type": {
       "type": "string",
-      "enum": ["markdown", "formula", "d3", "canvas", "diagram", "3d", "latex", "2d-text"],
+      "enum": ["markdown", "formula", "d3", "canvas", "diagram", "3d", "latex", "2d-text", "2d-anim", "simulation", "lottie"],
       "description": "Renderer type — must match mobile VisualizerType enum"
     },
     "title": { "type": "string" },

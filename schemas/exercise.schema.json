@@ -1,15 +1,24 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Exercise",
+  "title": "Exercises",
   "type": "object",
-  "required": ["id", "prompt", "solution"],
+  "required": ["exercises"],
   "properties": {
-    "id": { "type": "string" },
-    "prompt": { "type": "string" },
-    "solution": { "type": "string" },
-    "hints": { "type": "array", "items": { "type": "string" } },
-    "difficulty": { "type": "string", "enum": ["beginner", "intermediate", "advanced"] },
-    "estimatedMinutes": { "type": "number" },
-    "tags": { "type": "array", "items": { "type": "string" } }
+    "exercises": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "prompt", "solution"],
+        "properties": {
+          "id": { "type": "string" },
+          "prompt": { "type": "string" },
+          "solution": { "type": "string" },
+          "hints": { "type": "array", "items": { "type": "string" } },
+          "difficulty": { "type": "string" },
+          "estimatedMinutes": { "type": "number" },
+          "tags": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
   }
 }

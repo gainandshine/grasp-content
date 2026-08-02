@@ -7,17 +7,18 @@
     "id": { "type": "string" },
     "name": { "type": "string" },
     "description": { "type": "string" },
+    "overview": { "type": "string" },
     "order": { "type": "integer", "minimum": 1 },
     "topics": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "name", "conceptId"],
+        "required": ["id", "name", "topicId"],
         "properties": {
           "id": { "type": "string" },
           "name": { "type": "string" },
           "description": { "type": "string" },
-          "conceptId": { "type": "string" }
+          "topicId": { "type": "string" }
         }
       }
     },
