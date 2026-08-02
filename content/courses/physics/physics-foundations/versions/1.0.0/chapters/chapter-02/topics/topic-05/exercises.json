@@ -1,31 +1,35 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "Do dimensions match? (1) v = d/t  (2) KE = ½mv  (3) W = Fd. Write the dimensions for each side.",
-      "solution": "(1) v = d/t: [LT⁻¹] = [L]/[T]✓ (2) KE = ½mv: [ML²T⁻²] ≠ [M][LT⁻¹] ✗ (should be v²) (3) W = Fd: [ML²T⁻²] = [MLT⁻²][L]✓. Dimensions must match on both sides!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Dimensional Analysis.",
+      "solution": "Step-by-step solution for Dimensional Analysis problem.",
       "hints": [
-        "Velocity = [L T⁻¹]",
-        "Energy = [M L² T⁻²]",
-        "Force = [M L T⁻²]",
-        "Check both sides"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
-      "tags": "equation-checking"
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "dimensional-analysis"
+      ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "Which of these is WRONG just by looking at dimensions? (1) d = vt  (2) a = vt  (3) v² = 2ad. Show why.",
-      "solution": "(1) v = d/t: [LT⁻¹] = [L]/[T]✓ (2) KE = ½mv: [ML²T⁻²] ≠ [M][LT⁻¹] ✗ (should be v²) (3) W = Fd: [ML²T⁻²] = [MLT⁻²][L]✓. Dimensions must match on both sides!",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Dimensional Analysis to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "Check if both sides have the same dimensions",
-        "Write [M], [L], [T] for each term",
-        "If they don't match, it's wrong"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "tags": "error-detection"
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "dimensional-analysis"
+      ]
     }
   ]
 }

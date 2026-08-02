@@ -2,21 +2,15 @@
   "id": "topic-03",
   "name": "Scientific Method",
   "topicId": "physics.physics-foundations.chapter-01.topic-03",
-  "description": "The systematic process scientists use to ask questions and find answers about nature.",
+  "description": "Learn about Scientific Method and its applications in physics.",
   "content": {
-    "overview": "A rock sinks. A wooden log floats. Working out why is the scientific method in action: notice something, guess a reason, test the guess, refine it. It's a formal process, but you already use a version of it constantly. {{viz:diagram-01}}",
-    "explanation": "The scientific method has five steps: Question, Predict, Experiment, Analyze, Conclude.\n\nTake the floating question: why do some things float and others sink? That's the question. {{viz:diagram-02}}\n\nNext, you propose an explanation: maybe it's about weight, or maybe it's about density. That's the hypothesis.\n\nThen you test it. Put different objects in water and record what happens. That's the experiment.\n\nAfter that, you study the results: do heavy things always sink? Does material matter more than weight? That's the analysis.\n\nFinally, you draw a conclusion: density matters more than weight — anything less dense than water floats.\n\nIf the first hypothesis turns out wrong, that's not a failure — it's information. The scientific method isn't about being right on the first attempt. It's a process for finding out what's actually true. {{viz:anim-01}}\n\nScience keeps repeating this loop: more experiments, more exceptions checked, a sharper answer each round. It's not one final truth arriving all at once — it's a gradual narrowing toward an accurate answer. {{viz:chart-01}}",
+    "overview": "Scientific Method is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Scientific Method. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Scientific Method requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
     "keyPoints": [
-      "Question: Ask something about nature",
-      "Predict: Make a hypothesis about the answer",
-      "Experiment: Test your hypothesis with observation or controlled test",
-      "Analyze: Look at the data and results",
-      "Conclude: What did you learn? Was your prediction right?",
-      "Being wrong isn't failure—it's how you learn something real"
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
     ],
-    "whyItMatters": "The scientific method is how every real discovery about the universe was made — not by debating opinions, but by checking ideas against reality and accepting when they're wrong. Gravity, electricity, atoms: all discovered by running this same loop."
-  },
-  "availableLanguages": [
-    "en"
-  ]
+    "whyItMatters": "Scientific Method is essential for mastering Physics Foundations."
+  }
 }

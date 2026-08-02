@@ -1,46 +1,35 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "Pick a question you're curious about. Then design an experiment to test it. Write down: Question → Prediction → What you'd do → What you'd measure → How you'd analyze results → What you'd conclude.",
-      "solution": "Example: You want to know if a heavier object falls faster. Prediction: heavier falls faster. Experiment: Drop a light ball and heavy ball from same height. Measure: How long each takes. Analyze: Did the times match? Conclude: They both took the same time (gravity affects all objects equally)!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 10,
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Scientific Method.",
+      "solution": "Step-by-step solution for Scientific Method problem.",
       "hints": [
-        "Questions can be simple: 'Does heavier paper fall faster?'",
-        "Your prediction can be wrong—that's fine",
-        "Think about what you can actually test"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "tags": [
-        "design",
-        "experiment"
+        "physics",
+        "scientific-method"
       ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "Read a simple science story. Find the question, prediction, experiment, analysis, and conclusion. Mark each part.",
-      "solution": "Example: You want to know if a heavier object falls faster. Prediction: heavier falls faster. Experiment: Drop a light ball and heavy ball from same height. Measure: How long each takes. Analyze: Did the times match? Conclude: They both took the same time (gravity affects all objects equally)!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Scientific Method to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "Look for 'I wondered if...'—that's the question",
-        "Look for 'I thought...'—that's the prediction",
-        "Look for 'I tested by...'—that's the experiment"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "tags": "identification"
-    },
-    {
-      "id": "exercise-3",
-      "prompt": "Think of a time your prediction was wrong. Was that a failure or success? Explain.",
-      "solution": "Example: You want to know if a heavier object falls faster. Prediction: heavier falls faster. Experiment: Drop a light ball and heavy ball from same height. Measure: How long each takes. Analyze: Did the times match? Conclude: They both took the same time (gravity affects all objects equally)!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Being wrong teaches something",
-        "Scientists expect to be wrong sometimes",
-        "What did you learn?"
-      ],
-      "tags": "reflection"
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "scientific-method"
+      ]
     }
   ]
 }

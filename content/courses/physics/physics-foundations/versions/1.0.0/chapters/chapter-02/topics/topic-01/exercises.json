@@ -1,33 +1,35 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "Match each measurement to its SI base unit: length→?, mass→?, time→?, temperature→?, current→?",
-      "solution": "Length→meter (m), Mass→kilogram (kg), Time→second (s), Temperature→kelvin (K), Current→ampere (A). These are the SI base units!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
+      "id": "ex-01",
+      "prompt": "Solve a problem related to SI Base Units.",
+      "solution": "Step-by-step solution for SI Base Units problem.",
       "hints": [
-        "Length is measured in...",
-        "Mass is measured in...",
-        "Temperature uses a special scale scientists use"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "tags": [
-        "identification",
-        "SI-units"
+        "physics",
+        "si-base-units"
       ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "Name the 7 SI base units. (Hint: length, mass, time, electric current, temperature, amount of substance, luminous intensity)",
-      "solution": "The 7 SI base units are: meter (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (amount), candela (brightness). Scientists use these everywhere!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply SI Base Units to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "There are 7 total",
-        "Think about what you measure in physics",
-        "One is about brightness (luminous)"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "tags": "memorization"
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "si-base-units"
+      ]
     }
   ]
 }

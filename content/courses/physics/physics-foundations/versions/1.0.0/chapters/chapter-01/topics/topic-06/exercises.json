@@ -1,46 +1,35 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "Take any measuring tool (ruler, scale, thermometer, stopwatch). What's the smallest change it can measure? What's the biggest? Report: 'This [tool] can measure from [min] to [max] with precision of [amount].'",
-      "solution": "Example ruler: measures 0–30 cm, with 1 mm precision. Measure twice: You might get 5.2 cm, then 5.3 cm. Small variation is normal—tool precision limits. Report: 5.2 ± 0.1 cm (the ± shows uncertainty).",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Measurement & Observation.",
+      "solution": "Step-by-step solution for Measurement & Observation problem.",
       "hints": [
-        "Look for the smallest markings",
-        "Try to read between the lines—can you?",
-        "What's one step on the scale?"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "tags": [
-        "observation",
-        "tools"
+        "physics",
+        "measurement-observation"
       ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "Measure something (length, mass, time) with the same tool, the same way, twice. Do you get the same answer? Why or why not?",
-      "solution": "Example ruler: measures 0–30 cm, with 1 mm precision. Measure twice: You might get 5.2 cm, then 5.3 cm. Small variation is normal—tool precision limits. Report: 5.2 ± 0.1 cm (the ± shows uncertainty).",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Measurement & Observation to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "Measurements might vary slightly",
-        "Why would they vary?",
-        "What counts as 'the same'?"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "tags": "variability"
-    },
-    {
-      "id": "exercise-3",
-      "prompt": "Write how you'd report a measurement properly, including uncertainty. Example: 'The ball's mass is 250g ± 5g (measured with a bathroom scale).'",
-      "solution": "Example ruler: measures 0–30 cm, with 1 mm precision. Measure twice: You might get 5.2 cm, then 5.3 cm. Small variation is normal—tool precision limits. Report: 5.2 ± 0.1 cm (the ± shows uncertainty).",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
-      "hints": [
-        "Include: the value, the uncertainty, the tool",
-        "Why is the uncertainty important?",
-        "How did you estimate the uncertainty?"
-      ],
-      "tags": "reporting"
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "measurement-observation"
+      ]
     }
   ]
 }

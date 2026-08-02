@@ -1,28 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-01",
-                          "prompt":  "What is the dot product of vectors (2,3) and (4,5)?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Think about the definition",
-                                        "Apply to real situations"
-                                    ],
-                          "tags":  "learning"
-                      },
-                      {
-                          "id":  "exercise-02",
-                          "prompt":  "What does a dot product of zero indicate about two vectors?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Use the concept",
-                                        "Think of examples"
-                                    ],
-                          "tags":  "application"
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Acceleration (Overview).",
+      "solution": "Step-by-step solution for Acceleration (Overview) problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "acceleration-overview"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Acceleration (Overview) to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "acceleration-overview"
+      ]
+    }
+  ]
 }

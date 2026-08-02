@@ -1,25 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-1",
-                          "prompt":  "Multiply vector V=(2,3) by scalar 3. What is 3V?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Head-to-tail method forms a triangle",
-                                        "The closing side is the sum"
-                                    ],
-                          "tags":  "visualization"
-                      },
-                      {
-                          "id":  "exercise-2",
-                          "prompt":  "If vector U=(1,-2), what is -2U?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  2,
-                          "hints":  "Use Pythagorean theorem",
-                          "tags":  "calculation"
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Triangle Law.",
+      "solution": "Step-by-step solution for Triangle Law problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "triangle-law"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Triangle Law to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "triangle-law"
+      ]
+    }
+  ]
 }

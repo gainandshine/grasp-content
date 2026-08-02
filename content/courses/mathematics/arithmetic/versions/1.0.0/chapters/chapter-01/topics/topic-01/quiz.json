@@ -3,44 +3,28 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "Which of the following numbers belongs to the set of Natural Numbers (\u2115) under its standard pure mathematical definition?",
+      "question": "Which statement best describes Natural Numbers?",
       "options": [
-        "-8",
-        "0.33",
-        "0",
-        "42"
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
       ],
-      "correctIndex": 3,
-      "explanation": "Standard natural numbers represent the positive counting integers {1, 2, 3, ...}. Negative integers, fractions, and zero are excluded from this standard set definition.",
-      "difficulty": "easy"
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
     },
     {
       "id": "q-02",
-      "type": "multiple-choice",
-      "question": "The set of Natural Numbers is closed under which of the following pairs of arithmetic operations?",
+      "type": "true-false",
+      "question": "Natural Numbers is only applicable in theoretical contexts.",
       "options": [
-        "Addition and Subtraction",
-        "Addition and Multiplication",
-        "Multiplication and Division",
-        "Subtraction and Division"
+        "True",
+        "False"
       ],
       "correctIndex": 1,
-      "explanation": "Adding or multiplying any two natural numbers always yields another natural number. This does not hold for subtraction (e.g., 2 - 5 = -3) or division (e.g., 1 / 2 = 0.5).",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q-03",
-      "type": "multiple-choice",
-      "question": "In the Peano Axioms, how is the successor of a natural number n formally defined?",
-      "options": [
-        "S(n) = n - 1",
-        "S(n) = n + 1",
-        "S(n) = 2n",
-        "S(n) = n^2"
-      ],
-      "correctIndex": 1,
-      "explanation": "Peano axioms define the succession function S(n) as mapping a natural number to its next consecutive unit, which is algebraically equivalent to n + 1.",
-      "difficulty": "medium"
+      "explanation": "Natural Numbers has many practical applications.",
+      "difficulty": "easy"
     }
   ]
 }

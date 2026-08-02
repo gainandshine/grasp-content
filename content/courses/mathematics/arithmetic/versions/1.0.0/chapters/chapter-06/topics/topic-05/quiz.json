@@ -3,72 +3,28 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "What is the result of $5 - 1.25$?",
+      "question": "Which statement best describes Subtracting Decimals?",
       "options": [
-        "4.25",
-        "3.75",
-        "3.85",
-        "4.75"
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
       ],
-      "correctIndex": 1,
-      "explanation": "Write $5$ as $5.00$ and subtract vertically: $5.00 - 1.25 = 3.75$.",
-      "difficulty": "easy"
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
     },
     {
       "id": "q-02",
-      "type": "multiple-choice",
-      "question": "Solve the subtraction: $8.3 - 4.75$",
+      "type": "true-false",
+      "question": "Subtracting Decimals is only applicable in theoretical contexts.",
       "options": [
-        "4.55",
-        "3.55",
-        "3.65",
-        "4.45"
+        "True",
+        "False"
       ],
       "correctIndex": 1,
-      "explanation": "Pad $8.3$ with a zero to make it $8.30$. Subtracting vertically: $8.30 - 4.75 = 3.55$.",
+      "explanation": "Subtracting Decimals has many practical applications.",
       "difficulty": "easy"
-    },
-    {
-      "id": "q-03",
-      "type": "multiple-choice",
-      "question": "When setting up $20.05 - 12.4$ vertically, how should the calculation be padded with zeros?",
-      "options": [
-        "$20.05 - 012.40$",
-        "$20.05 - 12.40$",
-        "$20.05 - 12.04$",
-        "$20.50 - 12.40$"
-      ],
-      "correctIndex": 1,
-      "explanation": "Line up the decimal points and add a trailing zero to the shorter decimal ($12.4$ becomes $12.40$) to perform the subtraction correctly.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q-04",
-      "type": "multiple-choice",
-      "question": "Calculate the difference: $0.5 - 0.08$",
-      "options": [
-        "0.42",
-        "0.03",
-        "0.48",
-        "0.58"
-      ],
-      "correctIndex": 0,
-      "explanation": "Pad $0.5$ as $0.50$. Subtract: $0.50 - 0.08 = 0.42$.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q-05",
-      "type": "multiple-choice",
-      "question": "Subtract $14.28$ from $20$.",
-      "options": [
-        "6.72",
-        "5.72",
-        "5.82",
-        "6.82"
-      ],
-      "correctIndex": 1,
-      "explanation": "Write $20$ as $20.00$. Subtract: $20.00 - 14.28 = 5.72$.",
-      "difficulty": "medium"
     }
   ]
 }

@@ -2,22 +2,15 @@
   "id": "topic-06",
   "name": "Measurement & Observation",
   "topicId": "physics.physics-foundations.chapter-01.topic-06",
-  "description": "How we measure things accurately and what limits we have.",
+  "description": "Learn about Measurement & Observation and its applications in physics.",
   "content": {
-    "overview": "Physics starts with observation, then measurement. Every measurement carries limits and some amount of error — no measurement is ever perfectly exact. {{viz:diagram-01}}",
-    "explanation": "Observation and measurement are different things.\n\nObservation is just watching: a ball falls, water freezes, light bounces off a mirror. No numbers yet, just noticing.\n\nMeasurement puts a number on what's observed: the ball fell 10 meters, water froze at 0°C, light bounced at a 45-degree angle. {{viz:diagram-02}}\n\nNo measurement is ever perfectly exact. {{viz:anim-01}}\n\nMeasure a table and get 1.50 meters — is it exactly 1.50000...? Almost certainly not; it could really be 1.5001 or 1.4999. A ruler marked only to the nearest centimeter can't say more precisely than that.\n\n**Accuracy and precision are different:**\n- **Accuracy**: how close a measurement is to the true value\n- **Precision**: how many decimal places the measurement claims {{viz:chart-01}}\n\nA bathroom scale reading 65.4 kg looks precise, but if the true weight is 65.37 kg, the reading is precise without being fully accurate.\n\nSeveral things limit any measurement:\n- **Instrument limits**: a ruler can't measure smaller than its smallest marking\n- **Human error**: misreading a scale\n- **Environmental factors**: temperature and vibration affecting a reading\n- **Quantum effects**: at very small scales, the act of measuring changes the thing being measured\n\nGood scientists report this honestly. Instead of claiming a ball fell exactly 10.000000 meters, they report \"about 10 meters\" — an honest statement of uncertainty, not a weaker one.",
+    "overview": "Measurement & Observation is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Measurement & Observation. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Measurement & Observation requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
     "keyPoints": [
-      "Observation = watching what happens",
-      "Measurement = putting numbers on observations",
-      "No measurement is perfectly accurate",
-      "Accuracy = closeness to true value",
-      "Precision = how exact the measurement is",
-      "Always acknowledge measurement uncertainty",
-      "Know the limits of your tools before you trust their numbers"
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
     ],
-    "whyItMatters": "A conclusion in physics is only as reliable as the measurements behind it. Careless measurement makes everything downstream — calculations, predictions, results — unreliable too. Accounting for measurement uncertainty is what separates real science from a guess."
-  },
-  "availableLanguages": [
-    "en"
-  ]
+    "whyItMatters": "Measurement & Observation is essential for mastering Physics Foundations."
+  }
 }

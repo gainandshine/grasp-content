@@ -1,28 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-01",
-                          "prompt":  "Convert 72 km/h to m/s.",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Think about the definition",
-                                        "Apply to real situations"
-                                    ],
-                          "tags":  "learning"
-                      },
-                      {
-                          "id":  "exercise-02",
-                          "prompt":  "What is 5 kg in grams?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Use the concept",
-                                        "Think of examples"
-                                    ],
-                          "tags":  "application"
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Position.",
+      "solution": "Step-by-step solution for Position problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "position"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Position to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "position"
+      ]
+    }
+  ]
 }

@@ -3,44 +3,28 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "What is the primary difference between the set of Natural Numbers (\u2115) and the set of Whole Numbers (\u2119)?",
+      "question": "Which statement best describes Whole Numbers?",
       "options": [
-        "Whole numbers include negative integers.",
-        "Whole numbers include the element zero (0).",
-        "Natural numbers include decimals and fractions.",
-        "Both sets are identical in all contexts."
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
       ],
-      "correctIndex": 1,
-      "explanation": "Whole numbers are defined as the union of natural numbers and the element zero: \u2119 = \u2115 \u222a {0}.",
-      "difficulty": "easy"
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
     },
     {
       "id": "q-02",
-      "type": "multiple-choice",
-      "question": "Which element acts as the additive identity in the set of Whole Numbers?",
+      "type": "true-false",
+      "question": "Whole Numbers is only applicable in theoretical contexts.",
       "options": [
-        "1",
-        "0",
-        "-1",
-        "No identity exists"
+        "True",
+        "False"
       ],
       "correctIndex": 1,
-      "explanation": "An additive identity element leaves any number unchanged when added. Since a + 0 = a for any whole number a, 0 is the additive identity.",
+      "explanation": "Whole Numbers has many practical applications.",
       "difficulty": "easy"
-    },
-    {
-      "id": "q-03",
-      "type": "multiple-choice",
-      "question": "Which whole number lacks a predecessor within the set of Whole Numbers (\u2119)?",
-      "options": [
-        "0",
-        "1",
-        "There is no such number",
-        "All numbers have predecessors"
-      ],
-      "correctIndex": 0,
-      "explanation": "The predecessor of a number n is n - 1. For n = 0, the predecessor is -1, which is not a member of the set \u2119. Hence, 0 has no predecessor in \u2119.",
-      "difficulty": "medium"
     }
   ]
 }

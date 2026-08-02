@@ -3,71 +3,27 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "What is the cube of $5$?",
+      "question": "Which statement best describes Cubes?",
       "options": [
-        "15",
-        "25",
-        "75",
-        "125"
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
       ],
-      "correctIndex": 3,
-      "explanation": "To cube 5, multiply it by itself three times: $5^3 = 5 \\times 5 \\times 5 = 125$.",
-      "difficulty": "easy"
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
     },
     {
       "id": "q-02",
-      "type": "multiple-choice",
-      "question": "Which of the following numbers is a perfect cube?",
+      "type": "true-false",
+      "question": "Cubes is only applicable in theoretical contexts.",
       "options": [
-        "16",
-        "64",
-        "100",
-        "144"
+        "True",
+        "False"
       ],
       "correctIndex": 1,
-      "explanation": "64 is a perfect cube because $4 \\times 4 \\times 4 = 64$. Note that 64 is also a perfect square ($8 \\times 8 = 64$).",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q-03",
-      "type": "multiple-choice",
-      "question": "What is the evaluated value of $(-3)^3$?",
-      "options": [
-        "-9",
-        "-27",
-        "9",
-        "27"
-      ],
-      "correctIndex": 1,
-      "explanation": "Cubing a negative base yields a negative value because $(-3) \\times (-3) \\times (-3) = 9 \\times (-3) = -27$.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q-04",
-      "type": "multiple-choice",
-      "question": "An open storage crate has a cubic shape with side lengths of $4$ feet. What is the interior volume of the crate?",
-      "options": [
-        "12 cubic feet",
-        "16 cubic feet",
-        "64 cubic feet",
-        "96 cubic feet"
-      ],
-      "correctIndex": 2,
-      "explanation": "Volume of a cube is side cubed: $4^3 = 4 \\times 4 \\times 4 = 64$ cubic feet.",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q-05",
-      "type": "multiple-choice",
-      "question": "What is the cube of $0$?",
-      "options": [
-        "0",
-        "1",
-        "Undefined",
-        "-1"
-      ],
-      "correctIndex": 0,
-      "explanation": "$0^3 = 0 \\times 0 \\times 0 = 0$. Zero cubed is zero.",
+      "explanation": "Cubes has many practical applications.",
       "difficulty": "easy"
     }
   ]

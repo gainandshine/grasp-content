@@ -1,30 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-1",
-                          "prompt":  "Plot the points (3,2), (-1,4), (0,-2) on a 2D coordinate system",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  5,
-                          "hints":  [
-                                        "x-axis is horizontal, y-axis is vertical",
-                                        "Positive x goes right, positive y goes up",
-                                        "Negative goes left/down"
-                                    ],
-                          "tags":  "plotting"
-                      },
-                      {
-                          "id":  "exercise-2",
-                          "prompt":  "Read coordinates: point at 2 units right, 3 units up from origin",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  5,
-                          "hints":  [
-                                        "Count carefully along each axis",
-                                        "Remember the sign (+ or -)",
-                                        "x first, then y"
-                                    ],
-                          "tags":  "reading-graphs"
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Cartesian Coordinates.",
+      "solution": "Step-by-step solution for Cartesian Coordinates problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "cartesian-coordinates"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Cartesian Coordinates to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "cartesian-coordinates"
+      ]
+    }
+  ]
 }

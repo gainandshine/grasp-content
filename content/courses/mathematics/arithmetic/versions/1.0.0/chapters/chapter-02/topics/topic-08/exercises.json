@@ -2,40 +2,34 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "Estimate: $56 + 43 + 28$",
-      "solution": "Round to the nearest ten: $56 \\rightarrow 60$, $43 \\rightarrow 40$, $28 \\rightarrow 30$. Then: $60 + 40 + 30 = 130$. The estimate is **130**.",
+      "prompt": "Solve a problem related to Estimation.",
+      "solution": "Step-by-step solution for Estimation problem.",
       "hints": [
-        "Round each number to the nearest ten",
-        "Add the rounded numbers"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 1,
-      "tags": ["Arithmetic", "Estimation"]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "mathematics",
+        "estimation"
+      ]
     },
     {
       "id": "ex-02",
-      "prompt": "Estimate: $19 \\times 52$",
-      "solution": "Round: $19 \\rightarrow 20$ and $52 \\rightarrow 50$. Then: $20 \\times 50 = 1,000$. The estimate is **1,000**.",
+      "prompt": "Advanced problem: Apply Estimation to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "Round each number to make the multiplication easier",
-        "Multiply the rounded numbers"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 1,
-      "tags": ["Arithmetic", "Estimation"]
-    },
-    {
-      "id": "ex-03",
-      "prompt": "Check if this answer is reasonable by estimating: $198 + 203 = 401$",
-      "solution": "Estimate: $198 \\rightarrow 200$ and $203 \\rightarrow 200$. So $200 + 200 = 400$. The calculated answer (401) is very close to the estimate (400), so it's reasonable.",
-      "hints": [
-        "Round each number",
-        "Perform the operation with rounded numbers",
-        "Compare to the given answer"
-      ],
-      "difficulty": "intermediate",
-      "estimatedMinutes": 2,
-      "tags": ["Arithmetic", "Estimation"]
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "mathematics",
+        "estimation"
+      ]
     }
   ]
 }

@@ -1,29 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-01",
-                          "prompt":  "Is It a Scalar?: For each: mass, velocity, temperature, distance, force, energy—identify which are scalars (yes/no).",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Scalars have no direction",
-                                        "Mass, temperature, distance are examples",
-                                        "Velocity and force need direction"
-                                    ],
-                          "tags":  "identification"
-                      },
-                      {
-                          "id":  "exercise-02",
-                          "prompt":  "Adding Scalars: You have 5 kg flour + 2 kg sugar + 1 kg butter. How much total? (Just add the numbers.)",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  2,
-                          "hints":  [
-                                        "Scalars add like regular numbers",
-                                        "5 + 2 + 1 = ?"
-                                    ],
-                          "tags":  "addition"
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Scalars.",
+      "solution": "Step-by-step solution for Scalars problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "scalars"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Scalars to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "scalars"
+      ]
+    }
+  ]
 }

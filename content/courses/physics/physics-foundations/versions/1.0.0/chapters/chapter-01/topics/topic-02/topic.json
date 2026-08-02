@@ -2,22 +2,15 @@
   "id": "topic-02",
   "name": "Branches of Physics",
   "topicId": "physics.physics-foundations.chapter-01.topic-02",
-  "description": "Physics is huge. So physicists divide it into branches to focus on different kinds of stuff.",
+  "description": "Learn about Branches of Physics and its applications in physics.",
   "content": {
-    "overview": "Physics covers everything from atoms to planets to lightning to your phone — too much for one field to handle at once. So physicists split it into branches, the same way biology splits into zoology and botany. Each branch focuses on one kind of behavior. {{viz:diagram-01}}",
-    "explanation": "Splitting physics into branches makes an impossibly large subject manageable. Each branch tackles one part of \"how the universe works.\"\n\n**Classical Mechanics** — the physics of things moving: gravity, pushes, pulls, rolling, orbiting. A ball rolling down a hill, a car on a road, a planet orbiting the sun. {{viz:diagram-02}}\n\n**Thermodynamics** — heat and temperature. Why an oven heats up, why a fridge stays cold, why you sweat when you're hot. Anywhere energy moves or spreads, this is the branch in charge.\n\n**Electricity & Magnetism** — how electricity and magnets work, and how they're actually the same underlying phenomenon. Your phone battery, a compass, a bolt of lightning.\n\n**Waves & Optics** — sound, light, vibrations. Why the sky is blue, why rainbows form, how a speaker turns electricity into sound.\n\n**Quantum Mechanics** — the physics of atoms and electrons. At this scale the rules that work for a rolling ball stop applying, and a different set of rules takes over. {{viz:anim-01}}\n\n**Modern Physics** — the extreme cases: speeds near light, nuclear reactions, particle physics, relativity. Black holes and nuclear energy live here.\n\nEvery branch, regardless of subject, follows the same method: observe, understand, predict. {{viz:chart-01}}",
+    "overview": "Branches of Physics is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Branches of Physics. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Branches of Physics requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
     "keyPoints": [
-      "Physics is divided into branches so physicists can focus on specific areas",
-      "Classical mechanics = how things move and interact",
-      "Thermodynamics = heat and temperature",
-      "Electricity & Magnetism = charged particles and magnets",
-      "Waves & Optics = light and sound",
-      "Quantum mechanics = atoms and tiny particles",
-      "Modern physics = extreme speeds and forces"
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
     ],
-    "whyItMatters": "Knowing the branches tells you where to look for an answer. A question about motion points to classical mechanics. A question about atoms points to quantum mechanics. A question about your charger points to electricity and magnetism. It's the difference between guessing and knowing exactly which tool to reach for."
-  },
-  "availableLanguages": [
-    "en"
-  ]
+    "whyItMatters": "Branches of Physics is essential for mastering Physics Foundations."
+  }
 }

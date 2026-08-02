@@ -1,10 +1,9 @@
 {
   "id": "arithmetic",
   "name": "Arithmetic",
-  "description": "Learn and master the concepts of Arithmetic with structured lessons, interactive visualizations, and practice exercises.",
+  "description": "Arithmetic",
   "version": "1.0.0",
   "domain": "mathematics",
-  "illustration": "illustration.svg",
   "chapters": [
     {
       "id": "chapter-01",

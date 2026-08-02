@@ -1,35 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-1",
-                          "prompt":  "Based on these concepts: understanding the core concept — complete the exercise. (Vector Representation)",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "intermediate",
-                          "estimatedMinutes":  10,
-                          "hints":  [
-                                        "Start by understanding the core concept",
-                                        "Apply the formula or principle",
-                                        "Check your answer"
-                                    ],
-                          "tags":  [
-                                       "physics",
-                                       "vector-representation"
-                                   ]
-                      },
-                      {
-                          "id":  "exercise-2",
-                          "prompt":  "Based on these concepts: Consider the practical constraints — complete the exercise. (Vector Representation)",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "advanced",
-                          "estimatedMinutes":  15,
-                          "hints":  [
-                                        "Consider the practical constraints",
-                                        "Break down the problem into steps"
-                                    ],
-                          "tags":  [
-                                       "physics",
-                                       "vector-representation"
-                                   ]
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Vector Representation.",
+      "solution": "Step-by-step solution for Vector Representation problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "vector-representation"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Vector Representation to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "vector-representation"
+      ]
+    }
+  ]
 }

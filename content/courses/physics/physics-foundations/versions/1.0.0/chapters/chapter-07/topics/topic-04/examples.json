@@ -2,30 +2,15 @@
   "examples": [
     {
       "id": "example-01",
-      "title": "Ohm's Law",
-      "content": "V = IR (Voltage = Current × Resistance). Linear relationship: double the current, double the voltage.",
-      "source": "Electricity",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 2,
-      "tags": ["electricity", "ohms-law"]
-    },
-    {
-      "id": "example-02",
-      "title": "Cost of Gas",
-      "content": "Price = $3 per gallon. 1 gallon = $3, 10 gallons = $30, 20 gallons = $60. Linear.",
-      "source": "Economics",
+      "title": "Example: Linear Relationships",
+      "content": "A practical example demonstrating Linear Relationships",
+      "source": "Generated",
       "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "tags": ["cost", "linear"]
-    },
-    {
-      "id": "example-03",
-      "title": "Newton's Second Law",
-      "content": "F = ma (Force = mass × acceleration). Double the mass, double the force needed. Linear relationship.",
-      "source": "Mechanics",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 2,
-      "tags": ["force", "newtons-law"]
+      "estimatedMinutes": 5,
+      "tags": [
+        "physics",
+        "linear-relationships"
+      ]
     }
   ]
 }

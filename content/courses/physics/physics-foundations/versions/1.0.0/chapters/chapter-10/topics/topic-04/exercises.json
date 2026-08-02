@@ -1,28 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-01",
-                          "prompt":  "Add vectors: 3m east + 4m north. What is the resultant?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Think about the definition",
-                                        "Apply to real situations"
-                                    ],
-                          "tags":  "learning"
-                      },
-                      {
-                          "id":  "exercise-02",
-                          "prompt":  "Using the Pythagorean theorem, find the magnitude.",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "Use the concept",
-                                        "Think of examples"
-                                    ],
-                          "tags":  "application"
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Displacement.",
+      "solution": "Step-by-step solution for Displacement problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "displacement"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Displacement to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "displacement"
+      ]
+    }
+  ]
 }

@@ -2,20 +2,28 @@
   "questions": [
     {
       "id": "q-01",
-      "type": "true-false",
-      "question": "If dimensions don't match, the equation is definitely wrong.",
-      "options": ["True", "False"],
+      "type": "multiple-choice",
+      "question": "Which statement best describes Dimensional Analysis?",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
       "correctIndex": 0,
-      "explanation": "Yes! If dimensions don't match, the equation is wrong. If they DO match, it might be right (but you still need to check the math).",
+      "explanation": "Explanation of the correct answer",
       "difficulty": "medium"
     },
     {
       "id": "q-02",
-      "type": "multiple-choice",
-      "question": "What are the dimensions of speed?",
-      "options": ["[L]", "[T]", "[L T⁻¹]", "[L T]"],
-      "correctIndex": 2,
-      "explanation": "Speed = distance ÷ time = [L] ÷ [T] = [L T⁻¹].",
+      "type": "true-false",
+      "question": "Dimensional Analysis is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dimensional Analysis has many practical applications.",
       "difficulty": "easy"
     }
   ]

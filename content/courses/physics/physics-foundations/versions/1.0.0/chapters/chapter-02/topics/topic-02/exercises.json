@@ -1,31 +1,35 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "What units do you combine to make velocity? (Hint: distance/time). What about acceleration? (Hint: velocity/time, or distance/time²)",
-      "solution": "Velocity = m/s (distance unit divided by time unit). Acceleration = m/s² (velocity unit divided by time). Speed = m/s. Force = kg⋅m/s². Energy = kg⋅m²/s². Power = kg⋅m²/s³. Combine the base units!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Derived Units.",
+      "solution": "Step-by-step solution for Derived Units problem.",
       "hints": [
-        "Think about what velocity means",
-        "Divide and combine base units",
-        "What's the formula for acceleration?"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
-      "tags": "construction"
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "derived-units"
+      ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "For each: Speed, Force, Energy, Power—write what base units combine to make it.",
-      "solution": "Velocity = m/s (distance unit divided by time unit). Acceleration = m/s² (velocity unit divided by time). Speed = m/s. Force = kg⋅m/s². Energy = kg⋅m²/s². Power = kg⋅m²/s³. Combine the base units!",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Derived Units to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "Speed = distance/time",
-        "Force = mass × acceleration",
-        "Energy = force × distance",
-        "Power = energy/time"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "tags": "recognition"
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "derived-units"
+      ]
     }
   ]
 }

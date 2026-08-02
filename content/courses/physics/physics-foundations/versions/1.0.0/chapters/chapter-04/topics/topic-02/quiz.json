@@ -3,24 +3,27 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "What makes something a vector?",
+      "question": "Which statement best describes Vectors?",
       "options": [
-        "Just a number",
-        "A number with units",
-        "Magnitude and direction",
-        "A direction without magnitude"
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
       ],
-      "correctIndex": 2,
-      "explanation": "Vectors need BOTH magnitude (how much) and direction (where). That's what makes them vectors.",
-      "difficulty": "easy"
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Velocity is a vector because it includes direction.",
-      "options": ["True", "False"],
-      "correctIndex": 0,
-      "explanation": "Yes! Velocity is 60 km/h EAST (with direction). Without direction, it's just speed (scalar).",
+      "question": "Vectors is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vectors has many practical applications.",
       "difficulty": "easy"
     }
   ]

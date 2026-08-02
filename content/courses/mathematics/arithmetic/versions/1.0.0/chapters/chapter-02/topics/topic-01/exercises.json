@@ -2,42 +2,34 @@
   "exercises": [
     {
       "id": "ex-01",
-      "prompt": "How many digits are in the number 6,042,317?",
-      "solution": "The number 6,042,317 contains **7 digits**: 6, 0, 4, 2, 3, 1, 7.\n\nWe count each symbol position—the zero counts as a digit too!",
+      "prompt": "Solve a problem related to Digits.",
+      "solution": "Step-by-step solution for Digits problem.",
       "hints": [
-        "Count each symbol individually",
-        "Remember: zero is also a digit",
-        "Don't count the comma—it's just punctuation"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 1,
-      "tags": ["Arithmetic", "Digits", "Counting"]
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "mathematics",
+        "digits"
+      ]
     },
     {
       "id": "ex-02",
-      "prompt": "List all the digits in the number 204,085 and identify which digit appears more than once.",
-      "solution": "The digits are: 2, 0, 4, 0, 8, 5.\n\nThe digit **0 appears twice** (in the thousands place and the tens place).\n\nAll other digits (2, 4, 8, 5) appear once.",
+      "prompt": "Advanced problem: Apply Digits to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "Write down each digit in order",
-        "Count how many times each symbol appears",
-        "Zero can appear more than once"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "tags": ["Arithmetic", "Digits", "Frequency"]
-    },
-    {
-      "id": "ex-03",
-      "prompt": "True or False: The number 7 has two digits.",
-      "solution": "**False.** The number 7 has **one digit**—the digit 7. A single-digit number contains only one symbol from {0, 1, 2, ..., 9}.",
-      "hints": [
-        "A digit is a single symbol",
-        "The number 7 is written with only one symbol",
-        "Numbers like 17, 27, 37, etc. have two digits"
-      ],
-      "difficulty": "beginner",
-      "estimatedMinutes": 1,
-      "tags": ["Arithmetic", "Digits", "Concept"]
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "mathematics",
+        "digits"
+      ]
     }
   ]
 }

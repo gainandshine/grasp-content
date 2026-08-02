@@ -3,25 +3,28 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "What units make up the Newton (force)?",
+      "question": "Which statement best describes Derived Units?",
       "options": [
-        "kg·m/s",
-        "kg·m/s²",
-        "kg/s",
-        "m/s²"
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
       ],
-      "correctIndex": 1,
-      "explanation": "Force = mass × acceleration = kg × (m/s²) = kg·m/s². This is the Newton.",
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
       "difficulty": "medium"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "A Joule is made from base units by multiplying and dividing.",
-      "options": ["True", "False"],
-      "correctIndex": 0,
-      "explanation": "Yes! Joule = kg·m²/s². All derived units are made from combinations of the 7 base units.",
-      "difficulty": "medium"
+      "question": "Derived Units is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Derived Units has many practical applications.",
+      "difficulty": "easy"
     }
   ]
 }

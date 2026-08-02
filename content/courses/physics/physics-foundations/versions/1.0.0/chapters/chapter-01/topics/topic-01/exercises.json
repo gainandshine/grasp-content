@@ -1,73 +1,34 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "Look around wherever you are. Find 3 things happening that need physics to explain them. Maybe a fan spinning, light from a lamp, your own breathing... For each one, write: What's happening? → Why is it happening?",
-      "solution": "Examples: A fan spinning happens because electricity makes a motor turn. Light from a lamp happens because electricity heats a filament. Your breathing happens because your lungs expand and contract. Each one involves forces, energy, or motion—all physics!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-01",
+      "prompt": "Solve a problem related to What is Physics?.",
+      "solution": "Step-by-step solution for What is Physics? problem.",
       "hints": [
-        "Look at movement, light, heat, sounds",
-        "Ask yourself 'why does that do that?'",
-        "You don't need to know the answer—just ask the question"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
       "tags": [
-        "observation",
-        "curiosity"
+        "physics",
+        "what-is-physics"
       ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "Which one is a physics question you could actually answer?",
-      "solution": "A physics question is one you can test by observing or measuring. 'Why does a ball fall?' is physics (you can drop it and observe). 'What is love?' is not (can't measure love).",
-      "difficulty": "beginner",
-      "estimatedMinutes": 2,
-      "hints": {},
-      "tags": "definition"
-    },
-    {
-      "id": "exercise-3",
-      "prompt": "A friend says 'Why do we need math in physics? Can't we just describe stuff with words?' How would you answer them? Give one example.",
-      "solution": "Math lets us be exact. Words say 'the ball lands far away,' but math says 'it lands 10 meters away.' Without math, we can't predict where it lands next time or design a better throw.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply What is Physics? to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "Think about a ball you throw",
-        "Can words tell you exactly where it lands?",
-        "What does math let you do that words don't?"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "tags": "understanding"
-    },
-    {
-      "id": "exercise-4",
-      "prompt": "Write down: one thing a biologist would study, one thing a chemist would study, one thing a physicist would study. What's different about them?",
-      "solution": "Biologists study life (cells, animals, plants). Chemists study reactions (mixing substances, creating new materials). Physicists study forces, energy, and motion (gravity, light, heat). Physics is about how things move and interact.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
-      "hints": [
-        "Biologists study living things",
-        "Chemists study reactions and materials",
-        "Physicists study... what exactly?",
-        "Think about what each one measures"
-      ],
-      "tags": "comparison"
-    },
-    {
-      "id": "exercise-5",
-      "prompt": "Take out your phone (or any device). How many different physics ideas make it work? Try to name at least 2 things that need physics.",
-      "solution": "A phone uses electricity (flowing electrons), light (the screen), magnetism (the speaker), and circuits (using electrons to control signals). Without physics, phones wouldn't exist!",
-      "difficulty": "intermediate",
-      "estimatedMinutes": 5,
-      "hints": [
-        "Electricity is physics",
-        "Light is physics",
-        "Magnetism is physics",
-        "Heat is physics",
-        "What does your device actually DO?"
-      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
       "tags": [
-        "application",
-        "technology"
+        "physics",
+        "what-is-physics"
       ]
     }
   ]

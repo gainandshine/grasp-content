@@ -1,42 +1,35 @@
 {
   "exercises": [
     {
-      "id": "exercise-1",
-      "prompt": "For each: mass, velocity, temperature, force, distance, acceleration—say if it's a scalar or vector and why.",
-      "solution": "Scalar: mass (just a number), temperature (just a number), distance (just a number). Vector: velocity (speed + direction), force (strength + direction), acceleration (change in velocity + direction). Direction matters!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 5,
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Physical Quantities.",
+      "solution": "Step-by-step solution for Physical Quantities problem.",
       "hints": [
-        "Scalar = just a number",
-        "Vector = number + direction",
-        "Does direction matter for this quantity?"
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
       ],
-      "tags": "classification"
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "physical-quantities"
+      ]
     },
     {
-      "id": "exercise-2",
-      "prompt": "Write these measurements properly (with units): The table is 2 long. The book weighs 500. The temperature is 25. The car is going 60.",
-      "solution": "The table is 2 meters long. The book weighs 500 grams. The temperature is 25 degrees Celsius. The car is going 60 kilometers per hour. Units are essential!",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Physical Quantities to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
       "hints": [
-        "What would you measure this in?",
-        "Meters? Kilograms? Celsius? Kilometers per hour?"
+        "Consider the practical constraints",
+        "Break down the problem into steps"
       ],
-      "tags": "units"
-    },
-    {
-      "id": "exercise-3",
-      "prompt": "Why is 'the ball is moving at 10' not a complete answer? What's missing?",
-      "solution": "Missing the unit! Is it 10 m/s or 10 km/h? That's a huge difference—10 m/s is about 36 km/h (fast!) while 10 km/h is jogging speed. Without units, nobody knows what you mean.",
-      "difficulty": "beginner",
-      "estimatedMinutes": 3,
-      "hints": [
-        "Is it 10 m/s or 10 km/h?",
-        "Big difference?",
-        "Why would someone need to know the unit?"
-      ],
-      "tags": "understanding"
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "physical-quantities"
+      ]
     }
   ]
 }

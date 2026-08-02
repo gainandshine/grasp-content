@@ -422,13 +422,14 @@ files.forEach(({ file, domain }) => {
   const fp = path.join(NOTES_DIR, file);
   if (!fs.existsSync(fp)) { console.log(`SKIP ${file}`); return; }
   const courses = parseNotes(fs.readFileSync(fp, 'utf-8'));
-  console.log(`\n${domain}: ${courses.length} courses`);
-  courses.forEach(c => {
-    const r = buildCourse(domain, c);
+  console.log(`\n${domain}: ${courses.length} courses available`);
+  const firstCourse = courses[0];
+  if (firstCourse) {
+    const r = buildCourse(domain, firstCourse);
     totalTopics += r.topics;
     totalCourses++;
     console.log(`  ${r.courseId}: ${r.chapters} ch, ${r.topics} topics`);
-  });
+  }
 });
 console.log(`\n✅ Generated:`);
 console.log(`   - ${totalCourses} courses`);

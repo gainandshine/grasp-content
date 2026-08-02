@@ -2,20 +2,15 @@
   "id": "topic-04",
   "name": "Physical Quantities",
   "topicId": "physics.physics-foundations.chapter-01.topic-04",
-  "description": "Things you can measure in physics—length, time, mass, speed, force, energy.",
+  "description": "Learn about Physical Quantities and its applications in physics.",
   "content": {
-    "overview": "\"I'm tall\" says nothing precise — tall compared to what? \"I'm 180 cm tall\" says everything, because it pairs a number with a unit. That pairing is what a physical quantity is: a measurable value that always needs both a number and a unit. {{viz:diagram-01}}",
-    "explanation": "A physical quantity is anything you can attach a number and a unit to. \"I'm tall\" is too vague. \"I'm 180 cm tall\" works — number (180) and unit (cm).\n\nEvery physical quantity needs both parts:\n- **Number**: how much\n- **Unit**: in what\n\nExamples:\n- Length: 5 meters\n- Mass: 2 kilograms\n- Time: 10 seconds\n- Speed: 60 kilometers per hour {{viz:chart-01}}\n\nPhysical quantities split into two categories.\n\n**Scalars** — just a number, no direction. Mass (10 kg), temperature (25°C).\n\n**Vectors** — a number plus a direction. Velocity (10 m/s north), force (50 N upward). {{viz:diagram-02}}\n\nThe direction matters: \"10 m/s\" and \"10 m/s east\" are different statements, and \"100 N\" is not the same as \"100 N downward.\" Drop the direction from a vector and you've dropped half the information. {{viz:anim-01}}",
+    "overview": "Physical Quantities is a fundamental concept in physics. {{viz:diagram-01}}",
+    "explanation": "This topic covers the essential aspects of Physical Quantities. Let's start with the basic definition {{viz:formula-01}} and then explore the interactive model {{viz:3d-01}}. \n          \nAs you can see from the animation {{viz:anim-01}}, the concept behaves in a specific way. The data visualization {{viz:chart-01}} shows real-world applications.\n\nUnderstanding Physical Quantities requires both theoretical knowledge {{viz:text-01}} and practical exploration {{viz:simulation-01}}.",
     "keyPoints": [
-      "A physical quantity = a number + a unit",
-      "Always include the unit (meters, seconds, kg, etc.)",
-      "Scalars have just a number (mass, temperature, time)",
-      "Vectors have a number and a direction (velocity, force, acceleration)",
-      "Direction matters—a lot—in physics!"
+      "Understanding the basics {{viz:diagram-02}}",
+      "Practical applications {{viz:example-01}}",
+      "Common misconceptions"
     ],
-    "whyItMatters": "Physical quantities are the vocabulary of physics — nothing precise can be said without them. Predicting where a ball lands or how fast a car needs to brake requires the right quantities, measured correctly, with the right units. Without that, it's just a guess."
-  },
-  "availableLanguages": [
-    "en"
-  ]
+    "whyItMatters": "Physical Quantities is essential for mastering Physics Foundations."
+  }
 }

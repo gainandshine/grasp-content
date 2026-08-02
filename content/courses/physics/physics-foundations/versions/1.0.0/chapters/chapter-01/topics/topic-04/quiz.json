@@ -3,54 +3,28 @@
     {
       "id": "q-01",
       "type": "multiple-choice",
-      "question": "What two things must a physical quantity have?",
+      "question": "Which statement best describes Physical Quantities?",
       "options": [
-        "A formula and an answer",
-        "A number and a unit",
-        "A measurement device and an observer",
-        "An equation and a variable"
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
       ],
-      "correctIndex": 1,
-      "explanation": "Every physical quantity needs a number (how much?) and a unit (in what measurement?). '5' is not a physical quantity. '5 meters' is.",
-      "difficulty": "easy"
+      "correctIndex": 0,
+      "explanation": "Explanation of the correct answer",
+      "difficulty": "medium"
     },
     {
       "id": "q-02",
       "type": "true-false",
-      "question": "Mass is a vector because it's a physical quantity.",
+      "question": "Physical Quantities is only applicable in theoretical contexts.",
       "options": [
         "True",
         "False"
       ],
       "correctIndex": 1,
-      "explanation": "No. Mass is a scalar. You don't need direction to describe mass. Vectors need direction (like velocity or force).",
+      "explanation": "Physical Quantities has many practical applications.",
       "difficulty": "easy"
-    },
-    {
-      "id": "q-03",
-      "type": "multiple-choice",
-      "question": "Which is a vector?",
-      "options": [
-        "Temperature (25°C)",
-        "Distance (100 meters)",
-        "Velocity (60 km/h north)",
-        "Time (5 seconds)"
-      ],
-      "correctIndex": 2,
-      "explanation": "Velocity includes direction (north). That makes it a vector. The others are just numbers without direction—scalars.",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q-04",
-      "type": "true-false",
-      "question": "Speed and velocity are the same thing.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correctIndex": 1,
-      "explanation": "No! Speed is scalar (60 km/h). Velocity is vector (60 km/h north). Direction makes the difference.",
-      "difficulty": "medium"
     }
   ]
 }

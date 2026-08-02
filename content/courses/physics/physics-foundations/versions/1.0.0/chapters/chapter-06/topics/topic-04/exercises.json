@@ -1,34 +1,35 @@
 {
-    "exercises":  [
-                      {
-                          "id":  "exercise-1",
-                          "prompt":  "Transform point (2,3) using rotation matrix 45°. What is the new position?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "beginner",
-                          "estimatedMinutes":  3,
-                          "hints":  [
-                                        "r = distance from center = 10 ly",
-                                        "θ = azimuthal angle = 120°",
-                                        "φ = elevation/polar angle = 30°",
-                                        "Answer: (10, 120°, 30°)"
-                                    ],
-                          "tags":  [
-                                       "3d",
-                                       "astronomy"
-                                   ]
-                      },
-                      {
-                          "id":  "exercise-2",
-                          "prompt":  "Rotate vector (1,0) by 90° counterclockwise. Where does it point?",
-                          "solution":  "See hints and examples for approach.",
-                          "difficulty":  "intermediate",
-                          "estimatedMinutes":  5,
-                          "hints":  [
-                                        "Atoms: spherical symmetry around nucleus",
-                                        "Planets: orbits are circles, but 3D around sun",
-                                        "Radiation: spreads equally in all directions—spherical!"
-                                    ],
-                          "tags":  "comparison"
-                      }
-                  ]
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "Solve a problem related to Spherical Coordinates (Introduction).",
+      "solution": "Step-by-step solution for Spherical Coordinates (Introduction) problem.",
+      "hints": [
+        "Start by understanding the core concept",
+        "Apply the formula or principle",
+        "Check your answer"
+      ],
+      "difficulty": "intermediate",
+      "estimatedMinutes": 10,
+      "tags": [
+        "physics",
+        "spherical-coordinates-introduction"
+      ]
+    },
+    {
+      "id": "ex-02",
+      "prompt": "Advanced problem: Apply Spherical Coordinates (Introduction) to a real-world scenario.",
+      "solution": "Detailed solution with explanation.",
+      "hints": [
+        "Consider the practical constraints",
+        "Break down the problem into steps"
+      ],
+      "difficulty": "advanced",
+      "estimatedMinutes": 15,
+      "tags": [
+        "physics",
+        "spherical-coordinates-introduction"
+      ]
+    }
+  ]
 }
