@@ -31,7 +31,7 @@ content/courses/<domain>/
                             └── exercises.json      # Step-by-step challenges
 ```
 
-### 1.1 Course Configurations & Manifests
+### 1.1 Discovery & Manifest Configurations
 
 #### `domain.json` (under `content/domains/<domain-id>/domain.json`)
 Defines the domain metadata and lists the courses included in it:
@@ -61,7 +61,7 @@ Defines the latest version of the course content:
 ```
 
 #### `index.json` (under `content/courses/<domain-id>/<course-id>/index.json`)
-Used for course discovery:
+Used for course discovery and listing within the domain:
 ```json
 {
   "id": "physics-foundations",
@@ -78,12 +78,62 @@ Used for course discovery:
 
 ---
 
-## 2. Topic Files Specification
+## 2. Core Curriculum Schemas
 
-Each topic requires a set of JSON files under `chapters/chapter-XX/topics/topic-XX/`.
+### 2.1 Course Manifest (`course.json`)
+Located at `versions/1.0.0/course.json`. It defines the full outline of chapters and topics.
 
-### 2.1 `topic.json`
-Houses the core text content of the topic. Inline visualizations are referenced using the `{{viz:visualizer-id}}` syntax.
+```json
+{
+  "id": "physics-foundations",
+  "name": "Physics Foundations",
+  "description": "This course teaches the language of physics before mechanics.",
+  "version": "1.0.0",
+  "domain": "physics",
+  "chapters": [
+    {
+      "id": "chapter-01",
+      "name": "Introduction to Physics",
+      "topics": [
+        {
+          "id": "topic-01",
+          "name": "What is Physics?",
+          "topicId": "physics.physics-foundations.chapter-01.topic-01"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty": "beginner",
+    "estimatedHours": 20,
+    "prerequisites": [],
+    "tags": ["physics", "physics-foundations"],
+    "learningOutcomes": []
+  }
+}
+```
+
+### 2.2 Chapter Manifest (`chapter.json`)
+Located under `chapters/<chapter-id>/chapter.json`. Lists all child topics of a specific chapter.
+
+```json
+{
+  "id": "chapter-01",
+  "name": "Introduction to Physics",
+  "description": "Introduction to Physics",
+  "overview": "This chapter covers the fundamental concepts of physics.",
+  "topics": [
+    {
+      "id": "topic-01",
+      "name": "What is Physics?",
+      "topicId": "physics.physics-foundations.chapter-01.topic-01"
+    }
+  ]
+}
+```
+
+### 2.3 Topic Manifest (`topic.json`)
+Located under `topics/<topic-id>/topic.json`. Houses the core text content of the topic. Inline visualizations are referenced using the `{{viz:visualizer-id}}` syntax.
 
 ```json
 {
@@ -105,19 +155,21 @@ Houses the core text content of the topic. Inline visualizations are referenced 
 ```
 
 #### Markdown Formatting Rules
-The renderer parses basic Markdown tags from text sections:
-*   **Headers**: `# Header 1`, `## Header 2`, `### Header 3` (supports optional leading whitespace).
-*   **Blockquotes**: `> Text here` (supports optional leading whitespace).
+The mobile text renderer parses basic Markdown tags from text sections:
+*   **Headers**: `# Header 1`, `## Header 2`, `### Header 3`.
+*   **Blockquotes**: `> Text here`.
 *   **Styling**: `**bold**` and `*italic*`.
 *   **Inline Code**: `` `code` ``.
-*   **Block Code**: ` ```javascript\ncode\n``` ` (supports syntax highlighting).
+*   **Block Code**: ` ```javascript\ncode\n``` ` (with syntax highlighting).
 *   **Links**: `[Label](url)`.
 *   **Lists**: `- List item` or `* List item` or `1. List item`.
 
 ---
 
-### 2.2 `visualizations.json`
-Defines the visualizer specs referenced in the topic content.
+## 3. Topic Asset Files Specification
+
+### 3.1 `visualizations.json`
+Defines the visualizer specifications referenced in the topic content.
 
 ```json
 {
@@ -140,24 +192,114 @@ Defines the visualizer specs referenced in the topic content.
 }
 ```
 
+### 3.2 `quiz.json`
+Contains multiple-choice or true-false assessment questions.
+
+```json
+{
+  "questions": [
+    {
+      "id": "q-01",
+      "type": "multiple-choice",
+      "question": "Which statement best describes physics?",
+      "options": [
+        "The study of matter and energy",
+        "The study of living organisms",
+        "The study of historical events",
+        "The study of language structures"
+      ],
+      "correctIndex": 0,
+      "explanation": "Physics is the branch of science concerned with the nature and properties of matter and energy.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q-02",
+      "type": "true-false",
+      "question": "Physics is only applicable in theoretical contexts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctIndex": 1,
+      "explanation": "Physics has many practical applications including building engines, electronics, and medical imaging devices.",
+      "difficulty": "easy"
+    }
+  ]
+}
+```
+
+### 3.3 `flashcards.json`
+Provides a list of flashcards for revision.
+
+```json
+{
+  "flashcards": [
+    {
+      "id": "card-01",
+      "front": "What is physics?",
+      "back": "Physics is the fundamental science studying matter, energy, space, and time.",
+      "difficulty": "easy"
+    },
+    {
+      "id": "card-02",
+      "front": "What is the scientific method?",
+      "back": "A systematic process of observation, hypothesis formation, experimentation, and analysis.",
+      "difficulty": "medium"
+    }
+  ]
+}
+```
+
+### 3.4 `exercises.json`
+Step-by-step mathematical problems or logic checks.
+
+```json
+{
+  "exercises": [
+    {
+      "id": "ex-01",
+      "prompt": "If a force of 10 N is applied to a mass of 2 kg, calculate its acceleration.",
+      "solution": "Using Newton's Second Law: a = F / m\na = 10 N / 2 kg = 5 m/s².",
+      "hints": [
+        "Recall the formula F = m * a.",
+        "Rearrange the formula to solve for acceleration: a = F / m."
+      ],
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": ["physics", "force", "acceleration"]
+    }
+  ]
+}
+```
+
+### 3.5 `examples.json`
+Contains curated examples to provide concrete contexts.
+
+```json
+{
+  "examples": [
+    {
+      "id": "example-01",
+      "title": "Example: Falling Objects",
+      "content": "A metal ball and a feather drop in a vacuum chamber. In the absence of air resistance, they fall at the exact same rate of acceleration (9.8 m/s²), demonstrating Galileo's principle of gravity.",
+      "source": "Historical experiments",
+      "difficulty": "beginner",
+      "estimatedMinutes": 5,
+      "tags": ["gravity", "acceleration"]
+    }
+  ]
+}
+```
+
 ---
 
-### 2.3 Supporting Topic Assets
+## 4. Visualizers Reference & Setup Code APIs
 
-*   **`examples.json`**: Practical examples for student study.
-*   **`flashcards.json`**: Quick review cards.
-*   **`quiz.json`**: Assessment questions. Supports `multiple-choice` or `true-false`.
-*   **`exercises.json`**: Step-by-step math or reasoning problems.
+Visualizations in Grasp run inside isolated WebViews (with the exception of `formula` which uses native MathJax/KaTeX assets where possible, and text layouts).
 
 ---
 
-## 3. Visualizers Reference & Setup Code APIs
-
-Visualizations in Grasp run inside isolated WebViews (with the exception of `formula` which uses native MathJax/KaTeX assets where possible, and text layouts). 
-
----
-
-### 3.1 `3d` (WebGL 3D Engine)
+### 4.1 `3d` (WebGL 3D Engine)
 Renders a 3D interactive view using **Three.js** and **OrbitControls**.
 
 #### JSON Specification
@@ -196,7 +338,7 @@ return {
 
 ---
 
-### 3.2 `2d-anim` (Canvas 2D Animation Engine)
+### 4.2 `2d-anim` (Canvas 2D Animation Engine)
 Renders dynamic, high-performance 2D Canvas visualizations with **Anime.js** and **D3.js**.
 
 #### JSON Specification
@@ -238,7 +380,7 @@ return {
 
 ---
 
-### 3.3 `simulation` (Interactive Sandbox Engine)
+### 4.3 `simulation` (Interactive Sandbox Engine)
 The most advanced engine. Generates interactive simulations with custom user controls (sliders, switches, dropdowns) and handles canvas drag/drop coordinates natively.
 
 #### JSON Specification
@@ -317,7 +459,7 @@ return {
 
 ---
 
-### 3.4 `d3` (Graph and Chart Engine)
+### 4.4 `d3` (Graph and Chart Engine)
 Plots mathematical lines, scattered points, bar graphs, and Cartesian planes using **D3.js**.
 
 #### JSON Specification
@@ -354,7 +496,7 @@ Plots mathematical lines, scattered points, bar graphs, and Cartesian planes usi
 
 ---
 
-### 3.5 `diagram` (Dagre-D3 Flow and Mindmap Engine)
+### 4.5 `diagram` (Dagre-D3 Flow and Mindmap Engine)
 Visualizes flowcharts, mindmaps, hierarchy structures, timelines, and state machines using Dagre layout pipelines.
 
 #### JSON Specification
@@ -405,7 +547,7 @@ Visualizes flowcharts, mindmaps, hierarchy structures, timelines, and state mach
 
 ---
 
-### 3.6 `formula` / `latex` (Mathematical Equation Engine)
+### 4.6 `formula` / `latex` (Mathematical Equation Engine)
 Renders single equations or multi-step derivations with breakdown explanations.
 
 #### JSON Specification
@@ -425,7 +567,7 @@ Renders single equations or multi-step derivations with breakdown explanations.
 
 ---
 
-### 3.7 `2d-text` (Markdown Document Engine)
+### 4.7 `2d-text` (Markdown Document Engine)
 Standard content renderer for detailed explanations, blockquotes, and listings.
 
 #### JSON Specification
