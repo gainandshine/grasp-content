@@ -3,16 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Grasp Visualizer Studio</title>
+  <title>Grasp Visualizer Studio (Exact Mobile WebViews)</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <!-- D3.js & Anime.js CDN -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
-  <!-- KaTeX CSS & JS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
-  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+  <script src="mobile-templates.js"></script>
   
   <style>
     :root {
@@ -22,8 +17,6 @@
       --accent: #FF5733;
       --accent-hover: #E04824;
       --teal: #1D9E75;
-      --purple: #8B5CF6;
-      --yellow: #FAC775;
       --text: #F3F4F6;
       --text-muted: #9CA3AF;
       --canvas-bg: #F5F0E8;
@@ -40,7 +33,6 @@
       overflow: hidden;
     }
 
-    /* Header */
     header {
       height: 56px;
       background: var(--surface);
@@ -56,7 +48,6 @@
       gap: 10px;
       font-weight: 700;
       font-size: 18px;
-      letter-spacing: -0.5px;
     }
     .brand-badge {
       background: var(--accent);
@@ -91,14 +82,12 @@
     .btn-primary { background: var(--accent); color: #FFF; border: none; }
     .btn-primary:hover { background: var(--accent-hover); }
 
-    /* Layout */
     .app-body {
       flex: 1;
       display: flex;
       overflow: hidden;
     }
 
-    /* Sidebar Navigation */
     .sidebar {
       width: 320px;
       background: var(--surface);
@@ -121,22 +110,18 @@
       font-size: 13px;
       outline: none;
     }
-    .search-input:focus { border-color: var(--accent); }
 
     .nav-list {
       flex: 1;
       overflow-y: auto;
       padding: 12px;
     }
-    .course-item {
-      margin-bottom: 12px;
-    }
+    .course-item { margin-bottom: 12px; }
     .course-title {
       font-size: 12px;
       font-weight: 700;
       color: var(--text-muted);
       text-transform: uppercase;
-      letter-spacing: 0.5px;
       margin-bottom: 6px;
       padding-left: 4px;
     }
@@ -173,7 +158,6 @@
     }
     .pill.has-viz { background: rgba(29, 158, 117, 0.2); color: var(--teal); }
 
-    /* Center Visualizer Workspace */
     .workspace {
       flex: 1;
       display: flex;
@@ -190,11 +174,6 @@
       justify-content: space-between;
     }
     .viz-title { font-size: 15px; font-weight: 600; }
-    .viz-controls {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
 
     .canvas-stage {
       flex: 1;
@@ -202,51 +181,28 @@
       align-items: center;
       justify-content: center;
       padding: 20px;
-      position: relative;
     }
 
     .device-frame {
-      width: 400px;
-      height: 520px;
+      width: 390px;
+      height: 580px;
       background: var(--canvas-bg);
-      border-radius: 20px;
-      box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+      border-radius: 24px;
+      box-shadow: 0 25px 50px rgba(0,0,0,0.7);
       border: 4px solid #2B2C30;
       position: relative;
       overflow: hidden;
-      display: flex;
-      flex-direction: column;
     }
 
-    canvas#stageCanvas {
+    iframe#mobileFrame {
       width: 100%;
       height: 100%;
-      display: block;
+      border: none;
+      background: #F5F0E8;
     }
 
-    /* Error Overlay */
-    .error-banner {
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      right: 10px;
-      background: #3B1619;
-      border: 1.5px solid #F87171;
-      color: #FCA5A5;
-      padding: 12px;
-      border-radius: 8px;
-      font-family: 'Fira Code', monospace;
-      font-size: 12px;
-      z-index: 100;
-      display: none;
-      white-space: pre-wrap;
-      max-height: 200px;
-      overflow-y: auto;
-    }
-
-    /* Right Editor Panel */
     .editor-panel {
-      width: 480px;
+      width: 500px;
       background: var(--surface);
       border-left: 1.5px solid var(--surface-border);
       display: flex;
@@ -284,7 +240,6 @@
       border-radius: 8px;
       font-weight: 600;
       font-size: 13px;
-      box-shadow: 0 10px 20px rgba(0,0,0,0.4);
       display: none;
       z-index: 1000;
     }
@@ -294,17 +249,16 @@
 
   <header>
     <div class="brand">
-      <span>🎨 Grasp Visualizer Studio</span>
-      <span class="brand-badge">Live Canvas Preview</span>
+      <span>📱 Grasp Visualizer Studio</span>
+      <span class="brand-badge">Exact Mobile WebViews</span>
     </div>
     <div class="header-actions">
-      <button class="btn" id="btnRefresh" onclick="loadCourses()">🔄 Refresh Content</button>
-      <button class="btn btn-primary" id="btnSave" onclick="saveCurrentViz()">💾 Save to Disk</button>
+      <button class="btn" onclick="loadCourses()">🔄 Refresh Content</button>
+      <button class="btn btn-primary" onclick="saveCurrentViz()">💾 Save Changes</button>
     </div>
   </header>
 
   <div class="app-body">
-    <!-- Left Navigation -->
     <div class="sidebar">
       <div class="search-box">
         <input type="text" id="searchInput" class="search-input" placeholder="Search topic or course..." oninput="filterTopics()">
@@ -314,25 +268,19 @@
       </div>
     </div>
 
-    <!-- Center Stage -->
     <div class="workspace">
       <div class="workspace-header">
-        <div class="viz-title" id="currentVizTitle">Select a topic to preview visualization</div>
-        <div class="viz-controls">
-          <button class="btn" onclick="togglePlayPause()" id="btnPlayPause">⏸ Pause</button>
-          <button class="btn" onclick="resetCanvas()">🔄 Restart</button>
-        </div>
+        <div class="viz-title" id="currentVizTitle">Select a topic to preview exact mobile WebView</div>
+        <button class="btn" onclick="runViz()">🔄 Reload WebView</button>
       </div>
 
       <div class="canvas-stage">
         <div class="device-frame">
-          <div class="error-banner" id="errorBanner"></div>
-          <canvas id="stageCanvas"></canvas>
+          <iframe id="mobileFrame"></iframe>
         </div>
       </div>
     </div>
 
-    <!-- Right JSON / Code Editor -->
     <div class="editor-panel">
       <div class="editor-header">
         <span>visualizations.json</span>
@@ -340,99 +288,18 @@
           <input type="checkbox" id="autoReloadCheck" checked> Live Reload
         </label>
       </div>
-      <textarea id="jsonEditor" class="editor-area" spellcheck="false" placeholder="Select a visualization to edit JSON..."></textarea>
+      <textarea id="jsonEditor" class="editor-area" spellcheck="false" placeholder="Select a visualization to edit..."></textarea>
     </div>
   </div>
 
-  <div class="toast" id="toast">Saved successfully!</div>
+  <div class="toast" id="toast">Saved to disk!</div>
 
   <script>
     let coursesData = [];
     let currentTopic = null;
-    let animFrameId = null;
-    let isPlaying = true;
-    let t = 0;
-    let lastTime = performance.now();
 
-    const canvas = document.getElementById('stageCanvas');
-    const ctx = canvas.getContext('2d');
-    const errorBanner = document.getElementById('errorBanner');
+    const frame = document.getElementById('mobileFrame');
     const jsonEditor = document.getElementById('jsonEditor');
-
-    // Vector helper
-    function Vector(x, y) {
-      this.x = x || 0;
-      this.y = y || 0;
-      this.add = function(v) { return new Vector(this.x + v.x, this.y + v.y); };
-      this.sub = function(v) { return new Vector(this.x - v.x, this.y - v.y); };
-      this.mult = function(n) { return new Vector(this.x * n, this.y * n); };
-      this.div = function(n) { return new Vector(this.x / n, this.y / n); };
-      this.mag = function() { return Math.sqrt(this.x * this.x + this.y * this.y); };
-      this.normalize = function() { var m = this.mag(); return m === 0 ? new Vector(0, 0) : this.div(m); };
-    }
-
-    function drawArrow(x1, y1, x2, y2, color, strokeWidth) {
-      ctx.save();
-      ctx.strokeStyle = color || '#000000';
-      ctx.fillStyle = color || '#000000';
-      ctx.lineWidth = strokeWidth || 2;
-      ctx.beginPath();
-      ctx.moveTo(x1, y1);
-      ctx.lineTo(x2, y2);
-      ctx.stroke();
-      
-      var angle = Math.atan2(y2 - y1, x2 - x1);
-      var headLen = 10;
-      ctx.beginPath();
-      ctx.moveTo(x2, y2);
-      ctx.lineTo(x2 - headLen * Math.cos(angle - Math.PI / 6), y2 - headLen * Math.sin(angle - Math.PI / 6));
-      ctx.lineTo(x2 - headLen * Math.cos(angle + Math.PI / 6), y2 - headLen * Math.sin(angle + Math.PI / 6));
-      ctx.closePath();
-      ctx.fill();
-      ctx.restore();
-    }
-
-    function drawLine(x1, y1, x2, y2, color, strokeWidth, dashed) {
-      ctx.save();
-      ctx.strokeStyle = color || '#000000';
-      ctx.lineWidth = strokeWidth || 1;
-      if (dashed) ctx.setLineDash([5, 5]);
-      ctx.beginPath();
-      ctx.moveTo(x1, y1);
-      ctx.lineTo(x2, y2);
-      ctx.stroke();
-      ctx.restore();
-    }
-
-    function drawCircle(x, y, r, color, isFilled) {
-      ctx.save();
-      ctx.beginPath();
-      ctx.arc(x, y, r, 0, Math.PI * 2);
-      if (isFilled) {
-        ctx.fillStyle = color || '#000000';
-        ctx.fill();
-      } else {
-        ctx.strokeStyle = color || '#000000';
-        ctx.stroke();
-      }
-      ctx.restore();
-    }
-
-    function drawGrid(step, color) {
-      ctx.save();
-      ctx.strokeStyle = color || '#E5E7EB';
-      ctx.lineWidth = 0.5;
-      var s = step || 20;
-      var W = canvas.width / (window.devicePixelRatio || 1);
-      var H = canvas.height / (window.devicePixelRatio || 1);
-      for (var x = 0; x < W; x += s) {
-        ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke();
-      }
-      for (var y = 0; y < H; y += s) {
-        ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(W, y); ctx.stroke();
-      }
-      ctx.restore();
-    }
 
     async function loadCourses() {
       try {
@@ -483,92 +350,24 @@
       runViz();
     }
 
-    let activeSetupFunc = null;
-    let animInstance = null;
-
     function runViz() {
-      if (animFrameId) cancelAnimationFrame(animFrameId);
-      errorBanner.style.display = 'none';
-      t = 0;
-
       try {
         const jsonText = jsonEditor.value;
         const parsed = JSON.parse(jsonText);
         const viz = (parsed.visualizations && parsed.visualizations[0]) || parsed;
+        const type = viz.type || '2d-anim';
 
-        const setupCode = viz.setup_code || viz.code || '';
-        
-        const dpr = window.devicePixelRatio || 1;
-        const rect = canvas.getBoundingClientRect();
-        const W = rect.width;
-        const H = rect.height;
-
-        canvas.width = W * dpr;
-        canvas.height = H * dpr;
-        ctx.setTransform(1, 0, 0, 1, 0, 0);
-        ctx.scale(dpr, dpr);
-
-        const safeAnime = typeof anime !== 'undefined' ? anime : null;
-        const safeD3 = typeof d3 !== 'undefined' ? d3 : null;
-
-        const apiObj = {
-          ctx, width: W, height: H, anime: safeAnime, d3: safeD3,
-          Vector, drawArrow, drawLine, drawCircle, drawGrid
-        };
-
-        activeSetupFunc = new Function('api', 'anime', 'd3', 'ctx', 't', 'W', 'H', 'dt', setupCode);
-        
-        try {
-          animInstance = activeSetupFunc(apiObj, safeAnime, safeD3, ctx, 0, W, H, 0);
-        } catch (setupErr) {
-          showError('Setup Error: ' + setupErr.message);
-          return;
+        let html = '';
+        if (type === 'simulation') {
+          html = generateSimulationHtml(viz);
+        } else {
+          html = generate2dAnimHtml(viz);
         }
 
-        lastTime = performance.now();
-        function loop(now) {
-          const dt = (now - lastTime) / 1000;
-          lastTime = now;
-
-          if (isPlaying) {
-            try {
-              ctx.fillStyle = '#FFFFFF';
-              ctx.fillRect(0, 0, W, H);
-
-              if (animInstance && typeof animInstance.draw === 'function') {
-                animInstance.draw(ctx, W, H, t, dt);
-              } else {
-                activeSetupFunc(apiObj, safeAnime, safeD3, ctx, t, W, H, dt);
-              }
-              t += 1;
-            } catch (err) {
-              showError('Render Error: ' + err.message);
-              return;
-            }
-          }
-
-          animFrameId = requestAnimationFrame(loop);
-        }
-
-        animFrameId = requestAnimationFrame(loop);
-
+        frame.srcdoc = html;
       } catch (e) {
-        showError('JSON Error: ' + e.message);
+        frame.srcdoc = `<html><body style="background:#3B1619;color:#FCA5A5;padding:16px;font-family:sans-serif;"><h3>JSON Error</h3><pre>${e.message}</pre></body></html>`;
       }
-    }
-
-    function showError(msg) {
-      errorBanner.textContent = msg;
-      errorBanner.style.display = 'block';
-    }
-
-    function togglePlayPause() {
-      isPlaying = !isPlaying;
-      document.getElementById('btnPlayPause').textContent = isPlaying ? '⏸ Pause' : '▶ Play';
-    }
-
-    function resetCanvas() {
-      runViz();
     }
 
     jsonEditor.addEventListener('input', () => {
@@ -609,7 +408,6 @@
       setTimeout(() => { toast.style.display = 'none'; }, 2500);
     }
 
-    // Initialize
     loadCourses();
   </script>
 </body>
