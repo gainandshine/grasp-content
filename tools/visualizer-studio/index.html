@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grasp Visualizer Studio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- D3.js & Anime.js CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+  <!-- KaTeX CSS & JS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+  
+  <style>
+    :root {
+      --bg: #121316;
+      --surface: #1E1F24;
+      --surface-border: #2A2C34;
+      --accent: #FF5733;
+      --accent-hover: #E04824;
+      --teal: #1D9E75;
+      --purple: #8B5CF6;
+      --yellow: #FAC775;
+      --text: #F3F4F6;
+      --text-muted: #9CA3AF;
+      --canvas-bg: #F5F0E8;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Outfit', sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* Header */
+    header {
+      height: 56px;
+      background: var(--surface);
+      border-bottom: 1.5px solid var(--surface-border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 700;
+      font-size: 18px;
+      letter-spacing: -0.5px;
+    }
+    .brand-badge {
+      background: var(--accent);
+      color: #FFF;
+      font-size: 11px;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 12px;
+      text-transform: uppercase;
+    }
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .btn {
+      background: var(--surface-border);
+      color: var(--text);
+      border: 1px solid rgba(255,255,255,0.1);
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-family: inherit;
+      font-weight: 600;
+      font-size: 13px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.15s ease;
+    }
+    .btn:hover { background: #353842; }
+    .btn-primary { background: var(--accent); color: #FFF; border: none; }
+    .btn-primary:hover { background: var(--accent-hover); }
+
+    /* Layout */
+    .app-body {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
+    }
+
+    /* Sidebar Navigation */
+    .sidebar {
+      width: 320px;
+      background: var(--surface);
+      border-right: 1.5px solid var(--surface-border);
+      display: flex;
+      flex-direction: column;
+    }
+    .search-box {
+      padding: 12px;
+      border-bottom: 1px solid var(--surface-border);
+    }
+    .search-input {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--surface-border);
+      color: var(--text);
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-family: inherit;
+      font-size: 13px;
+      outline: none;
+    }
+    .search-input:focus { border-color: var(--accent); }
+
+    .nav-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 12px;
+    }
+    .course-item {
+      margin-bottom: 12px;
+    }
+    .course-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+      padding-left: 4px;
+    }
+    .topic-btn {
+      width: 100%;
+      text-align: left;
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--text);
+      padding: 8px 10px;
+      border-radius: 6px;
+      font-family: inherit;
+      font-size: 13px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 3px;
+    }
+    .topic-btn:hover { background: var(--surface-border); }
+    .topic-btn.active {
+      background: rgba(255, 87, 51, 0.15);
+      border-color: var(--accent);
+      color: var(--accent);
+      font-weight: 600;
+    }
+    .pill {
+      font-size: 10px;
+      font-weight: 700;
+      padding: 2px 6px;
+      border-radius: 10px;
+      background: var(--surface-border);
+      color: var(--text-muted);
+    }
+    .pill.has-viz { background: rgba(29, 158, 117, 0.2); color: var(--teal); }
+
+    /* Center Visualizer Workspace */
+    .workspace {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      background: #0A0A0C;
+      position: relative;
+    }
+    .workspace-header {
+      padding: 12px 20px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--surface-border);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .viz-title { font-size: 15px; font-weight: 600; }
+    .viz-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .canvas-stage {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      position: relative;
+    }
+
+    .device-frame {
+      width: 400px;
+      height: 520px;
+      background: var(--canvas-bg);
+      border-radius: 20px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+      border: 4px solid #2B2C30;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    canvas#stageCanvas {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    /* Error Overlay */
+    .error-banner {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      right: 10px;
+      background: #3B1619;
+      border: 1.5px solid #F87171;
+      color: #FCA5A5;
+      padding: 12px;
+      border-radius: 8px;
+      font-family: 'Fira Code', monospace;
+      font-size: 12px;
+      z-index: 100;
+      display: none;
+      white-space: pre-wrap;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    /* Right Editor Panel */
+    .editor-panel {
+      width: 480px;
+      background: var(--surface);
+      border-left: 1.5px solid var(--surface-border);
+      display: flex;
+      flex-direction: column;
+    }
+    .editor-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--surface-border);
+      font-size: 13px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .editor-area {
+      flex: 1;
+      background: #0E0F12;
+      color: #E5E7EB;
+      font-family: 'Fira Code', monospace;
+      font-size: 12.5px;
+      line-height: 1.5;
+      padding: 14px;
+      border: none;
+      outline: none;
+      resize: none;
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background: var(--teal);
+      color: #FFF;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 13px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+      display: none;
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="brand">
+      <span>🎨 Grasp Visualizer Studio</span>
+      <span class="brand-badge">Live Canvas Preview</span>
+    </div>
+    <div class="header-actions">
+      <button class="btn" id="btnRefresh" onclick="loadCourses()">🔄 Refresh Content</button>
+      <button class="btn btn-primary" id="btnSave" onclick="saveCurrentViz()">💾 Save to Disk</button>
+    </div>
+  </header>
+
+  <div class="app-body">
+    <!-- Left Navigation -->
+    <div class="sidebar">
+      <div class="search-box">
+        <input type="text" id="searchInput" class="search-input" placeholder="Search topic or course..." oninput="filterTopics()">
+      </div>
+      <div class="nav-list" id="navList">
+        <div style="padding: 20px; text-align: center; color: var(--text-muted);">Loading courses...</div>
+      </div>
+    </div>
+
+    <!-- Center Stage -->
+    <div class="workspace">
+      <div class="workspace-header">
+        <div class="viz-title" id="currentVizTitle">Select a topic to preview visualization</div>
+        <div class="viz-controls">
+          <button class="btn" onclick="togglePlayPause()" id="btnPlayPause">⏸ Pause</button>
+          <button class="btn" onclick="resetCanvas()">🔄 Restart</button>
+        </div>
+      </div>
+
+      <div class="canvas-stage">
+        <div class="device-frame">
+          <div class="error-banner" id="errorBanner"></div>
+          <canvas id="stageCanvas"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Right JSON / Code Editor -->
+    <div class="editor-panel">
+      <div class="editor-header">
+        <span>visualizations.json</span>
+        <label style="font-weight: 400; font-size: 12px; display: flex; align-items: center; gap: 6px;">
+          <input type="checkbox" id="autoReloadCheck" checked> Live Reload
+        </label>
+      </div>
+      <textarea id="jsonEditor" class="editor-area" spellcheck="false" placeholder="Select a visualization to edit JSON..."></textarea>
+    </div>
+  </div>
+
+  <div class="toast" id="toast">Saved successfully!</div>
+
+  <script>
+    let coursesData = [];
+    let currentTopic = null;
+    let animFrameId = null;
+    let isPlaying = true;
+    let t = 0;
+    let lastTime = performance.now();
+
+    const canvas = document.getElementById('stageCanvas');
+    const ctx = canvas.getContext('2d');
+    const errorBanner = document.getElementById('errorBanner');
+    const jsonEditor = document.getElementById('jsonEditor');
+
+    // Vector helper
+    function Vector(x, y) {
+      this.x = x || 0;
+      this.y = y || 0;
+      this.add = function(v) { return new Vector(this.x + v.x, this.y + v.y); };
+      this.sub = function(v) { return new Vector(this.x - v.x, this.y - v.y); };
+      this.mult = function(n) { return new Vector(this.x * n, this.y * n); };
+      this.div = function(n) { return new Vector(this.x / n, this.y / n); };
+      this.mag = function() { return Math.sqrt(this.x * this.x + this.y * this.y); };
+      this.normalize = function() { var m = this.mag(); return m === 0 ? new Vector(0, 0) : this.div(m); };
+    }
+
+    function drawArrow(x1, y1, x2, y2, color, strokeWidth) {
+      ctx.save();
+      ctx.strokeStyle = color || '#000000';
+      ctx.fillStyle = color || '#000000';
+      ctx.lineWidth = strokeWidth || 2;
+      ctx.beginPath();
+      ctx.moveTo(x1, y1);
+      ctx.lineTo(x2, y2);
+      ctx.stroke();
+      
+      var angle = Math.atan2(y2 - y1, x2 - x1);
+      var headLen = 10;
+      ctx.beginPath();
+      ctx.moveTo(x2, y2);
+      ctx.lineTo(x2 - headLen * Math.cos(angle - Math.PI / 6), y2 - headLen * Math.sin(angle - Math.PI / 6));
+      ctx.lineTo(x2 - headLen * Math.cos(angle + Math.PI / 6), y2 - headLen * Math.sin(angle + Math.PI / 6));
+      ctx.closePath();
+      ctx.fill();
+      ctx.restore();
+    }
+
+    function drawLine(x1, y1, x2, y2, color, strokeWidth, dashed) {
+      ctx.save();
+      ctx.strokeStyle = color || '#000000';
+      ctx.lineWidth = strokeWidth || 1;
+      if (dashed) ctx.setLineDash([5, 5]);
+      ctx.beginPath();
+      ctx.moveTo(x1, y1);
+      ctx.lineTo(x2, y2);
+      ctx.stroke();
+      ctx.restore();
+    }
+
+    function drawCircle(x, y, r, color, isFilled) {
+      ctx.save();
+      ctx.beginPath();
+      ctx.arc(x, y, r, 0, Math.PI * 2);
+      if (isFilled) {
+        ctx.fillStyle = color || '#000000';
+        ctx.fill();
+      } else {
+        ctx.strokeStyle = color || '#000000';
+        ctx.stroke();
+      }
+      ctx.restore();
+    }
+
+    function drawGrid(step, color) {
+      ctx.save();
+      ctx.strokeStyle = color || '#E5E7EB';
+      ctx.lineWidth = 0.5;
+      var s = step || 20;
+      var W = canvas.width / (window.devicePixelRatio || 1);
+      var H = canvas.height / (window.devicePixelRatio || 1);
+      for (var x = 0; x < W; x += s) {
+        ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke();
+      }
+      for (var y = 0; y < H; y += s) {
+        ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(W, y); ctx.stroke();
+      }
+      ctx.restore();
+    }
+
+    async function loadCourses() {
+      try {
+        const res = await fetch('/api/courses');
+        coursesData = await res.json();
+        renderNav();
+      } catch (err) {
+        document.getElementById('navList').innerHTML = `<div style="padding: 20px; color: #F87171;">Failed to load courses</div>`;
+      }
+    }
+
+    function renderNav() {
+      const nav = document.getElementById('navList');
+      nav.innerHTML = '';
+
+      coursesData.forEach(course => {
+        const cDiv = document.createElement('div');
+        cDiv.className = 'course-item';
+        cDiv.innerHTML = `<div class="course-title">${course.name}</div>`;
+
+        course.chapters.forEach(ch => {
+          ch.topics.forEach(topic => {
+            const btn = document.createElement('button');
+            btn.className = 'topic-btn';
+            btn.innerHTML = `
+              <span>${topic.name}</span>
+              <span class="pill ${topic.hasViz ? 'has-viz' : ''}">${topic.hasViz ? 'Viz Ready' : 'No Viz'}</span>
+            `;
+            btn.onclick = () => selectTopic(topic, btn);
+            cDiv.appendChild(btn);
+          });
+        });
+
+        nav.appendChild(cDiv);
+      });
+    }
+
+    function selectTopic(topic, btnEl) {
+      document.querySelectorAll('.topic-btn').forEach(b => b.classList.remove('active'));
+      if (btnEl) btnEl.classList.add('active');
+
+      currentTopic = topic;
+      document.getElementById('currentVizTitle').textContent = topic.name;
+
+      const vizObj = topic.vizData || { visualizations: [] };
+      jsonEditor.value = JSON.stringify(vizObj, null, 2);
+
+      runViz();
+    }
+
+    let activeSetupFunc = null;
+    let animInstance = null;
+
+    function runViz() {
+      if (animFrameId) cancelAnimationFrame(animFrameId);
+      errorBanner.style.display = 'none';
+      t = 0;
+
+      try {
+        const jsonText = jsonEditor.value;
+        const parsed = JSON.parse(jsonText);
+        const viz = (parsed.visualizations && parsed.visualizations[0]) || parsed;
+
+        const setupCode = viz.setup_code || viz.code || '';
+        
+        const dpr = window.devicePixelRatio || 1;
+        const rect = canvas.getBoundingClientRect();
+        const W = rect.width;
+        const H = rect.height;
+
+        canvas.width = W * dpr;
+        canvas.height = H * dpr;
+        ctx.setTransform(1, 0, 0, 1, 0, 0);
+        ctx.scale(dpr, dpr);
+
+        const safeAnime = typeof anime !== 'undefined' ? anime : null;
+        const safeD3 = typeof d3 !== 'undefined' ? d3 : null;
+
+        const apiObj = {
+          ctx, width: W, height: H, anime: safeAnime, d3: safeD3,
+          Vector, drawArrow, drawLine, drawCircle, drawGrid
+        };
+
+        activeSetupFunc = new Function('api', 'anime', 'd3', 'ctx', 't', 'W', 'H', 'dt', setupCode);
+        
+        try {
+          animInstance = activeSetupFunc(apiObj, safeAnime, safeD3, ctx, 0, W, H, 0);
+        } catch (setupErr) {
+          showError('Setup Error: ' + setupErr.message);
+          return;
+        }
+
+        lastTime = performance.now();
+        function loop(now) {
+          const dt = (now - lastTime) / 1000;
+          lastTime = now;
+
+          if (isPlaying) {
+            try {
+              ctx.fillStyle = '#FFFFFF';
+              ctx.fillRect(0, 0, W, H);
+
+              if (animInstance && typeof animInstance.draw === 'function') {
+                animInstance.draw(ctx, W, H, t, dt);
+              } else {
+                activeSetupFunc(apiObj, safeAnime, safeD3, ctx, t, W, H, dt);
+              }
+              t += 1;
+            } catch (err) {
+              showError('Render Error: ' + err.message);
+              return;
+            }
+          }
+
+          animFrameId = requestAnimationFrame(loop);
+        }
+
+        animFrameId = requestAnimationFrame(loop);
+
+      } catch (e) {
+        showError('JSON Error: ' + e.message);
+      }
+    }
+
+    function showError(msg) {
+      errorBanner.textContent = msg;
+      errorBanner.style.display = 'block';
+    }
+
+    function togglePlayPause() {
+      isPlaying = !isPlaying;
+      document.getElementById('btnPlayPause').textContent = isPlaying ? '⏸ Pause' : '▶ Play';
+    }
+
+    function resetCanvas() {
+      runViz();
+    }
+
+    jsonEditor.addEventListener('input', () => {
+      if (document.getElementById('autoReloadCheck').checked) {
+        runViz();
+      }
+    });
+
+    async function saveCurrentViz() {
+      if (!currentTopic || !currentTopic.path) {
+        alert('No topic selected!');
+        return;
+      }
+
+      try {
+        const vizData = JSON.parse(jsonEditor.value);
+        const res = await fetch('/api/save', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ targetPath: currentTopic.path, vizData }),
+        });
+
+        const result = await res.json();
+        if (result.success) {
+          showToast('Saved to disk successfully!');
+        } else {
+          alert('Save failed: ' + result.error);
+        }
+      } catch (err) {
+        alert('Invalid JSON or save error: ' + err.message);
+      }
+    }
+
+    function showToast(msg) {
+      const toast = document.getElementById('toast');
+      toast.textContent = msg;
+      toast.style.display = 'block';
+      setTimeout(() => { toast.style.display = 'none'; }, 2500);
+    }
+
+    // Initialize
+    loadCourses();
+  </script>
+</body>
+</html>

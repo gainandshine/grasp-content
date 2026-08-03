@@ -1,0 +1,14 @@
+{
+  "name": "grasp-content",
+  "version": "1.0.0",
+  "description": "Grasp Course Content & Visualizer Development Suite",
+  "main": "scripts/build-all.js",
+  "scripts": {
+    "studio": "node tools/visualizer-studio/server.js",
+    "validate": "node scripts/validate-content.js",
+    "build": "node scripts/build-all.js"
+  },
+  "keywords": [],
+  "author": "Gain & Shine",
+  "license": "ISC"
+}
